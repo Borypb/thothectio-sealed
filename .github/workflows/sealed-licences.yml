@@ -1,0 +1,48 @@
+name: Coffrets des autres licences
+
+# Produits scellés One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball, Riftbound, Palworld
+# (catalogue TCGplayer via TCGCSV, en anglais) et leurs cotes TCGplayer du jour.
+on:
+  schedule:
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/sealed-licences.mjs", ".github/workflows/sealed-licences.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalogue
+  cancel-in-progress: false
+
+jobs:
+  sealed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/sealed-licences.mjs
+      - name: Publier si quelque chose a changé
+        run: |
+          git config user.name "catalogue-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A raw index.json ./*-en.json ./prices-*.json
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "Coffrets des autres licences : mise à jour $(date -u +%F)"
+            for essai in 1 2 3; do
+              git fetch --depth=50 origin main
+              if git rebase -X theirs origin/main && git push origin HEAD:main; then
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep 15
+            done
+            exit 1
+          fi

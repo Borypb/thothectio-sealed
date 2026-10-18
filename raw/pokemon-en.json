@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-17T15:51:05.608Z",
+  "harvestedAt": "2026-10-18T08:21:23.384Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -8194,7 +8194,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-16T05:23:05.84",
+      "modifiedOn": "2026-10-17T04:37:48.857",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -18931,7 +18931,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-10-02T20:53:25.337",
+      "modifiedOn": "2026-10-16T20:12:52.58",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -18962,7 +18962,7 @@
         {
           "tcgplayerId": 502002,
           "name": "151 Poster Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/502002_200w.jpg",
           "url": "https://www.tcgplayer.com/product/502002/pokemon-sv-scarlet-and-violet-151-151-poster-collection-case"
@@ -18970,7 +18970,7 @@
         {
           "tcgplayerId": 502003,
           "name": "151 Binder Collection Case",
-          "kind": "binder",
+          "kind": "case",
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/502003_200w.jpg",
           "url": "https://www.tcgplayer.com/product/502003/pokemon-sv-scarlet-and-violet-151-151-binder-collection-case"
@@ -19010,7 +19010,7 @@
         {
           "tcgplayerId": 502008,
           "name": "151 Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/502008_200w.jpg",
           "url": "https://www.tcgplayer.com/product/502008/pokemon-sv-scarlet-and-violet-151-151-mini-tin-display"
@@ -19042,7 +19042,7 @@
         {
           "tcgplayerId": 513405,
           "name": "151 Booster Bundle Display",
-          "kind": "bundle",
+          "kind": "case",
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/513405_200w.jpg",
           "url": "https://www.tcgplayer.com/product/513405/pokemon-sv-scarlet-and-violet-151-151-booster-bundle-display"
@@ -19058,7 +19058,7 @@
         {
           "tcgplayerId": 515970,
           "name": "151 Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "releasedOn": "2023-10-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/515970_200w.jpg",
           "url": "https://www.tcgplayer.com/product/515970/pokemon-sv-scarlet-and-violet-151-151-ultra-premium-collection-case"
@@ -19066,7 +19066,7 @@
         {
           "tcgplayerId": 518781,
           "name": "151 Collection Alakazam ex Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-10-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/518781_200w.jpg",
           "url": "https://www.tcgplayer.com/product/518781/pokemon-sv-scarlet-and-violet-151-151-collection-alakazam-ex-case"
@@ -19074,7 +19074,7 @@
         {
           "tcgplayerId": 518782,
           "name": "151 Collection Zapdos ex Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-10-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/518782_200w.jpg",
           "url": "https://www.tcgplayer.com/product/518782/pokemon-sv-scarlet-and-violet-151-151-collection-zapdos-ex-case"

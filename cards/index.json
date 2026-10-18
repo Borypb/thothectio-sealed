@@ -1607,7 +1607,7 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-16T19:39:25.997",
+          "modifiedOn": "2026-10-16T20:39:42.287",
           "count": 219,
           "file": "cards/riftbound/24819.json",
           "version": "853c4eac2ec1"
@@ -1697,10 +1697,10 @@
           "name": "Riftbound Promotional Cards",
           "code": "PR",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-16T19:46:04.877",
-          "count": 11,
+          "modifiedOn": "2026-10-16T19:49:09.07",
+          "count": 12,
           "file": "cards/riftbound/24343.json",
-          "version": "ad2a6967fb41"
+          "version": "88c615f504e1"
         },
         {
           "groupId": 24502,
@@ -1725,5 +1725,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-17"
+  "updatedAt": "2026-10-18"
 }

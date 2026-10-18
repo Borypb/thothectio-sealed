@@ -328,7 +328,12 @@
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709979_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716263/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-desperate-strike",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716263_200w.jpg"
     },
     {
@@ -806,5 +811,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716308_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-17"
+  "pricesAt": "2026-10-18"
 }

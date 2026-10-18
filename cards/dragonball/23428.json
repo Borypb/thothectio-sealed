@@ -520,7 +520,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.33
+          "usd": 8.12
         }
       ]
     },
@@ -551,7 +551,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 18.79
+          "usd": 18.2
         }
       ]
     },
@@ -1050,7 +1050,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 83.03
+          "usd": 82.03
         }
       ]
     },
@@ -1098,7 +1098,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 8.81
+          "usd": 8.83
         }
       ]
     },
@@ -1162,7 +1162,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.48
+          "usd": 5.54
         }
       ]
     },
@@ -1319,7 +1319,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 25.2
+          "usd": 24.94
         }
       ]
     },
@@ -1460,7 +1460,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 41.9
+          "usd": 42.13
         }
       ]
     },
@@ -1475,7 +1475,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 20.62
+          "usd": 20.74
         }
       ]
     },
@@ -1742,7 +1742,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 25
+          "usd": 14.37
         }
       ]
     },
@@ -1758,7 +1758,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 500
+          "usd": 410
         }
       ]
     },
@@ -1784,7 +1784,12 @@
       "rarity": "Promo",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724320_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724320/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-son-goku-fp-104",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.99
+        }
+      ]
     },
     {
       "id": 724321,
@@ -1793,8 +1798,13 @@
       "rarity": "Promo",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724321_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724321/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-goku-black-fp-105",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.99
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-10-17"
+  "pricesAt": "2026-10-18"
 }

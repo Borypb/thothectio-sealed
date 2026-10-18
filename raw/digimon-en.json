@@ -1,0 +1,3463 @@
+{
+  "game": "digimon",
+  "lang": "en",
+  "categoryId": 63,
+  "harvestedAt": "2026-10-18T18:30:37.569Z",
+  "groups": {
+    "2733": {
+      "name": "Release Special Booster 1.0",
+      "abbreviation": "BT01-03A",
+      "modifiedOn": "2025-10-21T20:01:40.077",
+      "publishedOn": "2020-01-24",
+      "setId": "dgm-g2733",
+      "products": [
+        {
+          "tcgplayerId": 224732,
+          "name": "Release Special Booster Ver.1.0 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224732_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224732/digimon-card-game-release-special-booster-10-release-special-booster-ver10-booster-box"
+        },
+        {
+          "tcgplayerId": 224733,
+          "name": "Release Special Booster Ver.1.0 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224733_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224733/digimon-card-game-release-special-booster-10-release-special-booster-ver10-booster-box-case"
+        },
+        {
+          "tcgplayerId": 224734,
+          "name": "Release Special Booster Ver.1.0 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224734_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224734/digimon-card-game-release-special-booster-10-release-special-booster-ver10-booster-pack"
+        },
+        {
+          "tcgplayerId": 231810,
+          "name": "Premium Pack Set 1",
+          "kind": "booster",
+          "releasedOn": "2021-05-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231810_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231810/digimon-card-game-release-special-booster-10-premium-pack-set-1"
+        }
+      ]
+    },
+    "2734": {
+      "name": "Starter Deck 01: Gaia Red",
+      "abbreviation": "ST-1",
+      "modifiedOn": "2024-05-07T19:48:45.303",
+      "publishedOn": "2020-01-24",
+      "setId": "dgm-g2734",
+      "products": [
+        {
+          "tcgplayerId": 224737,
+          "name": "Gaia Red Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224737_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224737/digimon-card-game-starter-deck-01-gaia-red-gaia-red-starter-deck"
+        }
+      ]
+    },
+    "2735": {
+      "name": "Starter Deck 02: Cocytus Blue",
+      "abbreviation": "ST-2",
+      "modifiedOn": "2024-05-07T19:48:39.77",
+      "publishedOn": "2020-01-24",
+      "setId": "dgm-g2735",
+      "products": [
+        {
+          "tcgplayerId": 224736,
+          "name": "Cocytus Blue Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224736_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224736/digimon-card-game-starter-deck-02-cocytus-blue-cocytus-blue-starter-deck"
+        }
+      ]
+    },
+    "2736": {
+      "name": "Starter Deck 03: Heaven's Yellow",
+      "abbreviation": "ST-3",
+      "modifiedOn": "2024-05-07T19:48:35.07",
+      "publishedOn": "2020-01-24",
+      "setId": "dgm-g2736",
+      "products": [
+        {
+          "tcgplayerId": 224735,
+          "name": "Heaven's Yellow Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224735_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224735/digimon-card-game-starter-deck-03-heavens-yellow-heavens-yellow-starter-deck"
+        }
+      ]
+    },
+    "2737": {
+      "name": "Digimon Promotion Cards",
+      "abbreviation": "D-PR",
+      "modifiedOn": "2026-10-02T11:31:57.137",
+      "publishedOn": "2020-01-24",
+      "setId": "dgm-g2737",
+      "products": [
+        {
+          "tcgplayerId": 233340,
+          "name": "Tamer's Evolution Box (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/233340_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/233340/digimon-card-game-digimon-promotion-cards-tamers-evolution-box-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 242655,
+          "name": "Dash Pack Ver.1.0",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242655_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242655/digimon-card-game-digimon-promotion-cards-dash-pack-ver10"
+        },
+        {
+          "tcgplayerId": 242656,
+          "name": "Dash Pack Ver.1.5",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242656_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242656/digimon-card-game-digimon-promotion-cards-dash-pack-ver15"
+        },
+        {
+          "tcgplayerId": 242657,
+          "name": "Great Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242657_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242657/digimon-card-game-digimon-promotion-cards-great-dash-pack"
+        },
+        {
+          "tcgplayerId": 242658,
+          "name": "Great Legend Power Up Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242658_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242658/digimon-card-game-digimon-promotion-cards-great-legend-power-up-pack"
+        },
+        {
+          "tcgplayerId": 242659,
+          "name": "Special Release Memorial Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242659_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242659/digimon-card-game-digimon-promotion-cards-special-release-memorial-pack"
+        },
+        {
+          "tcgplayerId": 242660,
+          "name": "Special Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/242660_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/242660/digimon-card-game-digimon-promotion-cards-special-box-promotion-pack"
+        },
+        {
+          "tcgplayerId": 243099,
+          "name": "Official Tournament Pack Vol.1",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243099_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/243099/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol1"
+        },
+        {
+          "tcgplayerId": 244267,
+          "name": "Event Pack 1",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244267_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244267/digimon-card-game-digimon-promotion-cards-event-pack-1"
+        },
+        {
+          "tcgplayerId": 244268,
+          "name": "Tamer Battle Pack 1",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244268_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244268/digimon-card-game-digimon-promotion-cards-tamer-battle-pack-1"
+        },
+        {
+          "tcgplayerId": 244269,
+          "name": "Official Tournament Pack Vol.2",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244269_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244269/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol2"
+        },
+        {
+          "tcgplayerId": 247792,
+          "name": "Promotion Pack Ver 0.0 Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247792_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/247792/digimon-card-game-digimon-promotion-cards-promotion-pack-ver-00-pack"
+        },
+        {
+          "tcgplayerId": 247799,
+          "name": "Promotion Pack Ver 0.0 Special Edition Album",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247799_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/247799/digimon-card-game-digimon-promotion-cards-promotion-pack-ver-00-special-edition-album"
+        },
+        {
+          "tcgplayerId": 248809,
+          "name": "Store Championship Participant Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/248809_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/248809/digimon-card-game-digimon-promotion-cards-store-championship-participant-pack"
+        },
+        {
+          "tcgplayerId": 249782,
+          "name": "Double Diamond Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2021-11-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/249782_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/249782/digimon-card-game-digimon-promotion-cards-double-diamond-dash-pack"
+        },
+        {
+          "tcgplayerId": 249784,
+          "name": "1-Year Anniversary Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2021-11-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/249784_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/249784/digimon-card-game-digimon-promotion-cards-1-year-anniversary-promo-pack"
+        },
+        {
+          "tcgplayerId": 263525,
+          "name": "Official Tournament Pack Vol.3",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/263525_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/263525/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol3"
+        },
+        {
+          "tcgplayerId": 263674,
+          "name": "Championship 2021 Finals Tamer's Evolution Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/263674_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/263674/digimon-card-game-digimon-promotion-cards-championship-2021-finals-tamers-evolution-pack"
+        },
+        {
+          "tcgplayerId": 263691,
+          "name": "Championship 2021 Finals Event Pack Alt-Art Gold Stamp Set",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/263691_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/263691/digimon-card-game-digimon-promotion-cards-championship-2021-finals-event-pack-alt-art-gold-stamp-set"
+        },
+        {
+          "tcgplayerId": 265326,
+          "name": "Official Tournament Pack Vol.4",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265326_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265326/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol4"
+        },
+        {
+          "tcgplayerId": 265327,
+          "name": "Winner Pack -Next Adventure-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265327_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265327/digimon-card-game-digimon-promotion-cards-winner-pack-next-adventure"
+        },
+        {
+          "tcgplayerId": 265428,
+          "name": "Event Pack 2",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265428_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265428/digimon-card-game-digimon-promotion-cards-event-pack-2"
+        },
+        {
+          "tcgplayerId": 265727,
+          "name": "Tamer's Evolution Box 2 (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265727_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265727/digimon-card-game-digimon-promotion-cards-tamers-evolution-box-2-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 275105,
+          "name": "Winner Pack -New Awakening-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/275105_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/275105/digimon-card-game-digimon-promotion-cards-winner-pack-new-awakening"
+        },
+        {
+          "tcgplayerId": 275106,
+          "name": "Official Tournament Pack Vol.5",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/275106_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/275106/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol5"
+        },
+        {
+          "tcgplayerId": 281968,
+          "name": "Winner Pack -X Record-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/281968_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/281968/digimon-card-game-digimon-promotion-cards-winner-pack-x-record"
+        },
+        {
+          "tcgplayerId": 281973,
+          "name": "Official Tournament Pack Vol.6",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/281973_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/281973/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol6"
+        },
+        {
+          "tcgplayerId": 450200,
+          "name": "Winner Pack -Xros Encounter-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450200_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450200/digimon-card-game-digimon-promotion-cards-winner-pack-xros-encounter"
+        },
+        {
+          "tcgplayerId": 450201,
+          "name": "Official Tournament Pack Vol.7",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450201_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450201/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol7"
+        },
+        {
+          "tcgplayerId": 475465,
+          "name": "2nd Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-03-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/475465_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/475465/digimon-card-game-digimon-promotion-cards-2nd-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 478807,
+          "name": "Digimon Illustration Competition Pack 2022",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478807_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/478807/digimon-card-game-digimon-promotion-cards-digimon-illustration-competition-pack-2022"
+        },
+        {
+          "tcgplayerId": 479287,
+          "name": "Official Tournament Pack Vol.8",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/479287_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/479287/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol8"
+        },
+        {
+          "tcgplayerId": 479550,
+          "name": "Winner Pack -Dimensional Phase-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/479550_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/479550/digimon-card-game-digimon-promotion-cards-winner-pack-dimensional-phase"
+        },
+        {
+          "tcgplayerId": 493735,
+          "name": "Official Tournament Pack Vol.9",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493735_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493735/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol9"
+        },
+        {
+          "tcgplayerId": 493740,
+          "name": "Winner Pack -Across Time-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493740_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493740/digimon-card-game-digimon-promotion-cards-winner-pack-across-time"
+        },
+        {
+          "tcgplayerId": 495557,
+          "name": "Judge Pack 3",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495557_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495557/digimon-card-game-digimon-promotion-cards-judge-pack-3"
+        },
+        {
+          "tcgplayerId": 496546,
+          "name": "2023 Store Championship Participant Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496546_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496546/digimon-card-game-digimon-promotion-cards-2023-store-championship-participant-pack"
+        },
+        {
+          "tcgplayerId": 501996,
+          "name": "Judge Pack 2",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/501996_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/501996/digimon-card-game-digimon-promotion-cards-judge-pack-2"
+        },
+        {
+          "tcgplayerId": 502994,
+          "name": "Official Tournament Pack Vol.10",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502994_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502994/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol10"
+        },
+        {
+          "tcgplayerId": 503001,
+          "name": "Winner Pack -Royal Knights-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503001_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503001/digimon-card-game-digimon-promotion-cards-winner-pack-royal-knights"
+        },
+        {
+          "tcgplayerId": 512762,
+          "name": "2023 Store Championship Participant Pack Wave 2",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/512762_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/512762/digimon-card-game-digimon-promotion-cards-2023-store-championship-participant-pack-wave-2"
+        },
+        {
+          "tcgplayerId": 517140,
+          "name": "Judge Pack 4",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/517140_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/517140/digimon-card-game-digimon-promotion-cards-judge-pack-4"
+        },
+        {
+          "tcgplayerId": 518970,
+          "name": "Tamer Party Pack -The Beginning-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/518970_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/518970/digimon-card-game-digimon-promotion-cards-tamer-party-pack-the-beginning"
+        },
+        {
+          "tcgplayerId": 527809,
+          "name": "Tamer Party Pack -The Beginning- Ver. 2.0",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/527809_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/527809/digimon-card-game-digimon-promotion-cards-tamer-party-pack-the-beginning-ver-20"
+        },
+        {
+          "tcgplayerId": 528068,
+          "name": "Winner Pack -Blast Ace-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528068_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/528068/digimon-card-game-digimon-promotion-cards-winner-pack-blast-ace"
+        },
+        {
+          "tcgplayerId": 528069,
+          "name": "Official Tournament Pack Vol.11",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528069_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/528069/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol11"
+        },
+        {
+          "tcgplayerId": 531809,
+          "name": "3rd Anniversary Update Pack",
+          "kind": "booster",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531809_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531809/digimon-card-game-digimon-promotion-cards-3rd-anniversary-update-pack"
+        },
+        {
+          "tcgplayerId": 531810,
+          "name": "Limited Card Pack Ver.2",
+          "kind": "booster",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531810_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531810/digimon-card-game-digimon-promotion-cards-limited-card-pack-ver2"
+        },
+        {
+          "tcgplayerId": 533673,
+          "name": "Digimon Illustration Competition Pack 2023",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/533673_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/533673/digimon-card-game-digimon-promotion-cards-digimon-illustration-competition-pack-2023"
+        },
+        {
+          "tcgplayerId": 533676,
+          "name": "Digimon Liberator Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/533676_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/533676/digimon-card-game-digimon-promotion-cards-digimon-liberator-promotion-pack"
+        },
+        {
+          "tcgplayerId": 538461,
+          "name": "Winner Pack -Exceed Apocalypse-",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538461_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538461/digimon-card-game-digimon-promotion-cards-winner-pack-exceed-apocalypse"
+        },
+        {
+          "tcgplayerId": 538462,
+          "name": "Official Tournament Pack Vol.12",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538462_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538462/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol12"
+        },
+        {
+          "tcgplayerId": 550307,
+          "name": "Judge Pack 5",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/550307_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/550307/digimon-card-game-digimon-promotion-cards-judge-pack-5"
+        },
+        {
+          "tcgplayerId": 550308,
+          "name": "Official Tournament Pack Vol.13",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/550308_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/550308/digimon-card-game-digimon-promotion-cards-official-tournament-pack-vol13"
+        },
+        {
+          "tcgplayerId": 550309,
+          "name": "Official Tournament Vol.13 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/550309_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/550309/digimon-card-game-digimon-promotion-cards-official-tournament-vol13-winner-pack"
+        },
+        {
+          "tcgplayerId": 550501,
+          "name": "2024 Evolution Cup - Wave 1 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/550501_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/550501/digimon-card-game-digimon-promotion-cards-2024-evolution-cup-wave-1-participation-pack"
+        },
+        {
+          "tcgplayerId": 556918,
+          "name": "Digimon Adventure 02: The Beginning Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/556918_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/556918/digimon-card-game-digimon-promotion-cards-digimon-adventure-02-the-beginning-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 557332,
+          "name": "Store Tournament 2024 Jul.-Sep. Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557332_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557332/digimon-card-game-digimon-promotion-cards-store-tournament-2024-jul-sep-participation-pack"
+        },
+        {
+          "tcgplayerId": 557333,
+          "name": "Store Tournament 2024 Jul.-Sep. Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557333_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557333/digimon-card-game-digimon-promotion-cards-store-tournament-2024-jul-sep-winner-pack"
+        },
+        {
+          "tcgplayerId": 561597,
+          "name": "Update Pack 2024",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561597_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561597/digimon-card-game-digimon-promotion-cards-update-pack-2024"
+        },
+        {
+          "tcgplayerId": 563817,
+          "name": "Premium Heroines Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563817_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563817/digimon-card-game-digimon-promotion-cards-premium-heroines-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 567226,
+          "name": "Premium Card Collection - Memory Boost! Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/567226_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/567226/digimon-card-game-digimon-promotion-cards-premium-card-collection-memory-boost-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 576593,
+          "name": "Judge Pack 6",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576593_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/576593/digimon-card-game-digimon-promotion-cards-judge-pack-6"
+        },
+        {
+          "tcgplayerId": 583722,
+          "name": "Store Tournament 2024 Oct.-Dec. Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583722_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583722/digimon-card-game-digimon-promotion-cards-store-tournament-2024-oct-dec-winner-pack"
+        },
+        {
+          "tcgplayerId": 583723,
+          "name": "Store Tournament 2024 Oct.-Dec. Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583723_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583723/digimon-card-game-digimon-promotion-cards-store-tournament-2024-oct-dec-participation-pack"
+        },
+        {
+          "tcgplayerId": 606584,
+          "name": "Tamer's Selection Box Ver. Championship 2024 (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2025-05-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606584_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606584/digimon-card-game-digimon-promotion-cards-tamers-selection-box-ver-championship-2024-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 606592,
+          "name": "Digimon Animation Series 25th Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2025-05-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606592/digimon-card-game-digimon-promotion-cards-digimon-animation-series-25th-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 606651,
+          "name": "-Chain of Liberation- Upgrade Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606651_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606651/digimon-card-game-digimon-promotion-cards-chain-of-liberation-upgrade-pack"
+        },
+        {
+          "tcgplayerId": 606661,
+          "name": "Legend Pack 2024",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606661_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606661/digimon-card-game-digimon-promotion-cards-legend-pack-2024"
+        },
+        {
+          "tcgplayerId": 607822,
+          "name": "Store Tournament 2025 Vol.1 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607822_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/607822/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol1-winner-pack"
+        },
+        {
+          "tcgplayerId": 607823,
+          "name": "Store Tournament 2025 Vol.1 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607823_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/607823/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol1-participation-pack"
+        },
+        {
+          "tcgplayerId": 618134,
+          "name": "Omnimon Binder Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/618134_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/618134/digimon-card-game-digimon-promotion-cards-omnimon-binder-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 619095,
+          "name": "Judge Pack 2025 Wave 2",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619095_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/619095/digimon-card-game-digimon-promotion-cards-judge-pack-2025-wave-2"
+        },
+        {
+          "tcgplayerId": 625596,
+          "name": "Store Tournament 2025 Vol.2 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/625596_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/625596/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol2-participation-pack"
+        },
+        {
+          "tcgplayerId": 625597,
+          "name": "Store Tournament 2025 Vol.2 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/625597_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/625597/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol2-winner-pack"
+        },
+        {
+          "tcgplayerId": 625598,
+          "name": "Judge Pack 2025 Wave 1",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/625598_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/625598/digimon-card-game-digimon-promotion-cards-judge-pack-2025-wave-1"
+        },
+        {
+          "tcgplayerId": 629736,
+          "name": "Tamer's Evolution Box -Rise of Digimon- (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/629736_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/629736/digimon-card-game-digimon-promotion-cards-tamers-evolution-box-rise-of-digimon-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 639900,
+          "name": "Store Tournament 2025 Vol.3 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/639900_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/639900/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol3-participation-pack"
+        },
+        {
+          "tcgplayerId": 639912,
+          "name": "Store Tournament 2025 Vol.3 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/639912_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/639912/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol3-winner-pack"
+        },
+        {
+          "tcgplayerId": 646962,
+          "name": "Premium Heroines Set Ver.2 (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646962_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646962/digimon-card-game-digimon-promotion-cards-premium-heroines-set-ver2-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 655910,
+          "name": "Premium Card Collection - Digimon Training Set (BANDAI Card Games Fest 25-26)",
+          "kind": "collection",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/655910_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/655910/digimon-card-game-digimon-promotion-cards-premium-card-collection-digimon-training-set-bandai-card-games-fest-25-26"
+        },
+        {
+          "tcgplayerId": 656549,
+          "name": "Store Tournament 2025 Vol.4 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656549_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656549/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol4-participation-pack"
+        },
+        {
+          "tcgplayerId": 671177,
+          "name": "Store Tournament 2025 Vol.4 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671177_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671177/digimon-card-game-digimon-promotion-cards-store-tournament-2025-vol4-winner-pack"
+        },
+        {
+          "tcgplayerId": 671295,
+          "name": "Digimon Story: Time Stranger Collector's Edition Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671295_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671295/digimon-card-game-digimon-promotion-cards-digimon-story-time-stranger-collectors-edition-pack"
+        },
+        {
+          "tcgplayerId": 672196,
+          "name": "2026 Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672196_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/672196/digimon-card-game-digimon-promotion-cards-2026-dash-pack"
+        },
+        {
+          "tcgplayerId": 674686,
+          "name": "Digimon Liberator Debuggers Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2026-02-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/674686_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/674686/digimon-card-game-digimon-promotion-cards-digimon-liberator-debuggers-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 683988,
+          "name": "Judge Pack 9",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/683988_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/683988/digimon-card-game-digimon-promotion-cards-judge-pack-9"
+        },
+        {
+          "tcgplayerId": 684039,
+          "name": "Store Tournament 2026 Vol. 2 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684039_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/684039/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol-2-winner-pack"
+        },
+        {
+          "tcgplayerId": 684040,
+          "name": "Store Tournament 2026 Vol. 2 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684040_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/684040/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol-2-participation-pack"
+        },
+        {
+          "tcgplayerId": 690563,
+          "name": "Store Tournament 2026 Vol. 1 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690563_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690563/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol-1-winner-pack"
+        },
+        {
+          "tcgplayerId": 690564,
+          "name": "Store Tournament 2026 Vol. 1 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690564_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690564/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol-1-participation-pack"
+        },
+        {
+          "tcgplayerId": 704962,
+          "name": "Store Tournament 2026 Vol.3 Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704962_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704962/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol3-participation-pack"
+        },
+        {
+          "tcgplayerId": 704963,
+          "name": "Store Tournament 2026 Vol.3 Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2020-01-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704963_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704963/digimon-card-game-digimon-promotion-cards-store-tournament-2026-vol3-winner-pack"
+        },
+        {
+          "tcgplayerId": 712872,
+          "name": "Tamer's Selection Box Ver. X Antibody (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712872_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712872/digimon-card-game-digimon-promotion-cards-tamers-selection-box-ver-x-antibody-sealed-promotional-bundle"
+        }
+      ]
+    },
+    "2763": {
+      "name": "Great Legend",
+      "abbreviation": "BT-04",
+      "modifiedOn": "2026-02-22T18:30:26.713",
+      "publishedOn": "2021-05-07",
+      "setId": "dgm-g2763",
+      "products": [
+        {
+          "tcgplayerId": 233992,
+          "name": "Great Legend Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2021-06-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/233992_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/233992/digimon-card-game-great-legend-great-legend-booster-pack"
+        },
+        {
+          "tcgplayerId": 233993,
+          "name": "Great Legend Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2021-06-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/233993_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/233993/digimon-card-game-great-legend-great-legend-booster-box"
+        },
+        {
+          "tcgplayerId": 233994,
+          "name": "Great Legend Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2021-06-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/233994_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/233994/digimon-card-game-great-legend-great-legend-booster-box-case"
+        }
+      ]
+    },
+    "2793": {
+      "name": "Starter Deck 04: Giga Green",
+      "abbreviation": "ST-4",
+      "modifiedOn": "2024-05-07T19:48:27.413",
+      "publishedOn": "2021-05-07",
+      "setId": "dgm-g2793",
+      "products": [
+        {
+          "tcgplayerId": 233999,
+          "name": "Giga Green Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/233999_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/233999/digimon-card-game-starter-deck-04-giga-green-giga-green-starter-deck"
+        }
+      ]
+    },
+    "2794": {
+      "name": "Starter Deck 05: Machine Black",
+      "abbreviation": "ST-5",
+      "modifiedOn": "2024-05-07T19:48:21.297",
+      "publishedOn": "2021-05-07",
+      "setId": "dgm-g2794",
+      "products": [
+        {
+          "tcgplayerId": 234000,
+          "name": "Machine Black Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/234000_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/234000/digimon-card-game-starter-deck-05-machine-black-machine-black-starter-deck"
+        }
+      ]
+    },
+    "2795": {
+      "name": "Starter Deck 06: Venomous Violet",
+      "abbreviation": "ST-6",
+      "modifiedOn": "2025-04-24T16:28:02.507",
+      "publishedOn": "2021-05-07",
+      "setId": "dgm-g2795",
+      "products": [
+        {
+          "tcgplayerId": 234001,
+          "name": "Venomous Violet Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/234001_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/234001/digimon-card-game-starter-deck-06-venomous-violet-venomous-violet-starter-deck"
+        }
+      ]
+    },
+    "2832": {
+      "name": "Great Legend Pre-Release Cards",
+      "abbreviation": "BT-04_PR",
+      "modifiedOn": "2026-02-22T18:30:32.167",
+      "publishedOn": "2021-06-05",
+      "setId": "dgm-g2832",
+      "products": [
+        {
+          "tcgplayerId": 244270,
+          "name": "Great Legend Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2021-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244270_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244270/digimon-card-game-great-legend-pre-release-cards-great-legend-pre-release-pack"
+        }
+      ]
+    },
+    "2838": {
+      "name": "Battle of Omni",
+      "abbreviation": "BT-05",
+      "modifiedOn": "2026-04-26T12:57:17.03",
+      "publishedOn": "2021-08-06",
+      "setId": "dgm-g2838",
+      "products": [
+        {
+          "tcgplayerId": 240965,
+          "name": "Battle of Omni Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2021-08-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/240965_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/240965/digimon-card-game-battle-of-omni-battle-of-omni-booster-box"
+        },
+        {
+          "tcgplayerId": 240966,
+          "name": "Battle of Omni Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2021-08-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/240966_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/240966/digimon-card-game-battle-of-omni-battle-of-omni-booster-pack"
+        },
+        {
+          "tcgplayerId": 240967,
+          "name": "Battle of Omni Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2021-08-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/240967_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/240967/digimon-card-game-battle-of-omni-battle-of-omni-booster-box-case"
+        }
+      ]
+    },
+    "2880": {
+      "name": "Double Diamond",
+      "abbreviation": "BT-06",
+      "modifiedOn": "2026-02-28T22:03:42.947",
+      "publishedOn": "2021-10-08",
+      "setId": "dgm-g2880",
+      "products": [
+        {
+          "tcgplayerId": 243717,
+          "name": "Double Diamond Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2021-11-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243717_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/243717/digimon-card-game-double-diamond-double-diamond-booster-box"
+        },
+        {
+          "tcgplayerId": 243718,
+          "name": "Double Diamond Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2021-11-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243718_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/243718/digimon-card-game-double-diamond-double-diamond-booster-box-case"
+        },
+        {
+          "tcgplayerId": 243719,
+          "name": "Double Diamond Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2021-11-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243719_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/243719/digimon-card-game-double-diamond-double-diamond-booster-pack"
+        }
+      ]
+    },
+    "2882": {
+      "name": "Starter Deck 07: Gallantmon",
+      "abbreviation": "ST-7",
+      "modifiedOn": "2024-05-07T19:49:20.09",
+      "publishedOn": "2021-10-08",
+      "setId": "dgm-g2882",
+      "products": [
+        {
+          "tcgplayerId": 244700,
+          "name": "Gallantmon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2021-10-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244700_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244700/digimon-card-game-starter-deck-07-gallantmon-gallantmon-starter-deck"
+        }
+      ]
+    },
+    "2883": {
+      "name": "Starter Deck 08: Ulforce Veedramon",
+      "abbreviation": "ST-8",
+      "modifiedOn": "2025-03-17T19:06:22.623",
+      "publishedOn": "2021-10-08",
+      "setId": "dgm-g2883",
+      "products": [
+        {
+          "tcgplayerId": 244710,
+          "name": "Ulforce Veedramon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2021-10-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244710_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/244710/digimon-card-game-starter-deck-08-ulforce-veedramon-ulforce-veedramon-starter-deck"
+        }
+      ]
+    },
+    "2886": {
+      "name": "Battle of Omni Pre-Release Cards",
+      "abbreviation": "BT-05_PR",
+      "modifiedOn": "2026-02-22T18:23:36.093",
+      "publishedOn": "2021-07-30",
+      "setId": "dgm-g2886",
+      "products": [
+        {
+          "tcgplayerId": 245654,
+          "name": "Battle of Omni Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2021-07-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245654_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245654/digimon-card-game-battle-of-omni-pre-release-cards-battle-of-omni-pre-release-pack"
+        }
+      ]
+    },
+    "2924": {
+      "name": "Classic Collection",
+      "abbreviation": "EX-01",
+      "modifiedOn": "2026-02-22T18:26:44.41",
+      "publishedOn": "2022-01-21",
+      "setId": "dgm-g2924",
+      "products": [
+        {
+          "tcgplayerId": 250006,
+          "name": "Classic Collection Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-01-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/250006_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/250006/digimon-card-game-classic-collection-classic-collection-booster-pack"
+        },
+        {
+          "tcgplayerId": 250007,
+          "name": "Classic Collection Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-01-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/250007_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/250007/digimon-card-game-classic-collection-classic-collection-booster-box"
+        },
+        {
+          "tcgplayerId": 250008,
+          "name": "Classic Collection Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-01-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/250008_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/250008/digimon-card-game-classic-collection-classic-collection-booster-box-case"
+        },
+        {
+          "tcgplayerId": 257318,
+          "name": "Digimon Card Game Gift Box",
+          "kind": "collection",
+          "releasedOn": "2021-12-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/257318_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/257318/digimon-card-game-classic-collection-digimon-card-game-gift-box"
+        }
+      ]
+    },
+    "2945": {
+      "name": "Next Adventure",
+      "abbreviation": "BT-07",
+      "modifiedOn": "2026-02-22T18:32:52.16",
+      "publishedOn": "2022-03-04",
+      "setId": "dgm-g2945",
+      "products": [
+        {
+          "tcgplayerId": 252835,
+          "name": "Next Adventure Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-03-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252835_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/252835/digimon-card-game-next-adventure-next-adventure-booster-pack"
+        },
+        {
+          "tcgplayerId": 252836,
+          "name": "Next Adventure Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-03-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252836_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/252836/digimon-card-game-next-adventure-next-adventure-booster-box"
+        },
+        {
+          "tcgplayerId": 252837,
+          "name": "Next Adventure Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-03-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252837_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/252837/digimon-card-game-next-adventure-next-adventure-booster-box-case"
+        },
+        {
+          "tcgplayerId": 262645,
+          "name": "Next Adventure Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2022-03-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/262645_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/262645/digimon-card-game-next-adventure-next-adventure-box-promotion-pack"
+        }
+      ]
+    },
+    "2955": {
+      "name": "Double Diamond Pre-Release Cards",
+      "abbreviation": "BT-06_PR",
+      "modifiedOn": "2026-02-22T18:29:28.823",
+      "publishedOn": "2021-11-19",
+      "setId": "dgm-g2955",
+      "products": [
+        {
+          "tcgplayerId": 256239,
+          "name": "Double Diamond Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2021-11-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256239_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/256239/digimon-card-game-double-diamond-pre-release-cards-double-diamond-pre-release-pack"
+        }
+      ]
+    },
+    "2987": {
+      "name": "Revision Pack Cards",
+      "abbreviation": "RPC",
+      "modifiedOn": "2026-04-14T15:39:58.3",
+      "setId": "dgm-g2987",
+      "products": []
+    },
+    "3024": {
+      "name": "Next Adventure Pre-Release Cards",
+      "abbreviation": "BT-07_PR",
+      "modifiedOn": "2026-02-22T18:32:57.81",
+      "publishedOn": "2022-02-25",
+      "setId": "dgm-g3024",
+      "products": [
+        {
+          "tcgplayerId": 264753,
+          "name": "Next Adventure Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2022-02-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/264753_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/264753/digimon-card-game-next-adventure-pre-release-cards-next-adventure-pre-release-pack"
+        }
+      ]
+    },
+    "3035": {
+      "name": "New Awakening",
+      "abbreviation": "BT-08",
+      "modifiedOn": "2026-04-26T12:59:43.887",
+      "publishedOn": "2022-05-13",
+      "setId": "dgm-g3035",
+      "products": [
+        {
+          "tcgplayerId": 265412,
+          "name": "New Awakening Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265412_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265412/digimon-card-game-new-awakening-new-awakening-booster-pack"
+        },
+        {
+          "tcgplayerId": 265414,
+          "name": "New Awakening Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265414_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265414/digimon-card-game-new-awakening-new-awakening-booster-box"
+        },
+        {
+          "tcgplayerId": 265416,
+          "name": "New Awakening Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265416_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/265416/digimon-card-game-new-awakening-new-awakening-booster-box-case"
+        }
+      ]
+    },
+    "3045": {
+      "name": "Starter Deck 09: Ultimate Ancient Dragon",
+      "abbreviation": "ST-9",
+      "modifiedOn": "2026-02-28T21:38:36.867",
+      "publishedOn": "2022-05-27",
+      "setId": "dgm-g3045",
+      "products": [
+        {
+          "tcgplayerId": 266958,
+          "name": "Ultimate Ancient Dragon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/266958_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/266958/digimon-card-game-starter-deck-09-ultimate-ancient-dragon-ultimate-ancient-dragon-starter-deck"
+        },
+        {
+          "tcgplayerId": 266961,
+          "name": "Ultimate Ancient Dragon Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/266961_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/266961/digimon-card-game-starter-deck-09-ultimate-ancient-dragon-ultimate-ancient-dragon-starter-deck-display"
+        }
+      ]
+    },
+    "3046": {
+      "name": "Starter Deck 10: Parallel World Tactician",
+      "abbreviation": "ST-10",
+      "modifiedOn": "2026-04-26T13:01:40.37",
+      "publishedOn": "2022-05-27",
+      "setId": "dgm-g3046",
+      "products": [
+        {
+          "tcgplayerId": 266959,
+          "name": "Parallel World Tactician Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/266959_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/266959/digimon-card-game-starter-deck-10-parallel-world-tactician-parallel-world-tactician-starter-deck"
+        },
+        {
+          "tcgplayerId": 266960,
+          "name": "Parallel World Tactician Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/266960_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/266960/digimon-card-game-starter-deck-10-parallel-world-tactician-parallel-world-tactician-starter-deck-display"
+        }
+      ]
+    },
+    "3069": {
+      "name": "New Awakening Pre-Release Cards",
+      "abbreviation": "BT-08_PR",
+      "modifiedOn": "2026-02-22T18:32:43.02",
+      "publishedOn": "2022-05-20",
+      "setId": "dgm-g3069",
+      "products": [
+        {
+          "tcgplayerId": 454981,
+          "name": "New Awakening Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2022-05-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/454981_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/454981/digimon-card-game-new-awakening-pre-release-cards-new-awakening-pre-release-pack"
+        }
+      ]
+    },
+    "3072": {
+      "name": "Digital Hazard",
+      "abbreviation": "EX-02",
+      "modifiedOn": "2026-06-11T16:56:24.223",
+      "publishedOn": "2022-06-24",
+      "setId": "dgm-g3072",
+      "products": [
+        {
+          "tcgplayerId": 271916,
+          "name": "Digital Hazard Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-06-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271916_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/271916/digimon-card-game-digital-hazard-digital-hazard-booster-box"
+        },
+        {
+          "tcgplayerId": 271917,
+          "name": "Digital Hazard Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-06-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271917_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/271917/digimon-card-game-digital-hazard-digital-hazard-booster-pack"
+        },
+        {
+          "tcgplayerId": 271920,
+          "name": "Digital Hazard Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-06-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271920_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/271920/digimon-card-game-digital-hazard-digital-hazard-booster-box-case"
+        },
+        {
+          "tcgplayerId": 280273,
+          "name": "Digimon Adventure Box",
+          "kind": "collection",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/280273_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/280273/digimon-card-game-digital-hazard-digimon-adventure-box"
+        }
+      ]
+    },
+    "3103": {
+      "name": "X Record",
+      "abbreviation": "BT-09",
+      "modifiedOn": "2026-02-22T18:40:58.98",
+      "publishedOn": "2022-07-29",
+      "setId": "dgm-g3103",
+      "products": [
+        {
+          "tcgplayerId": 277569,
+          "name": "X Record Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/277569_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/277569/digimon-card-game-x-record-x-record-booster-pack"
+        },
+        {
+          "tcgplayerId": 277571,
+          "name": "X Record Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/277571_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/277571/digimon-card-game-x-record-x-record-booster-box"
+        },
+        {
+          "tcgplayerId": 277572,
+          "name": "X Record Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/277572_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/277572/digimon-card-game-x-record-x-record-booster-box-case"
+        },
+        {
+          "tcgplayerId": 277574,
+          "name": "X Record Update Pack",
+          "kind": "booster",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/277574_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/277574/digimon-card-game-x-record-x-record-update-pack"
+        }
+      ]
+    },
+    "3112": {
+      "name": "Xros Encounter",
+      "abbreviation": "BT-10",
+      "modifiedOn": "2026-02-22T18:41:13.01",
+      "publishedOn": "2022-10-21",
+      "setId": "dgm-g3112",
+      "products": [
+        {
+          "tcgplayerId": 276702,
+          "name": "Xros Encounter Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-10-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276702_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/276702/digimon-card-game-xros-encounter-xros-encounter-booster-box"
+        },
+        {
+          "tcgplayerId": 276704,
+          "name": "Xros Encounter Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-10-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276704_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/276704/digimon-card-game-xros-encounter-xros-encounter-booster-box-case"
+        },
+        {
+          "tcgplayerId": 276705,
+          "name": "Xros Encounter Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-10-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276705_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/276705/digimon-card-game-xros-encounter-xros-encounter-booster-pack"
+        },
+        {
+          "tcgplayerId": 286925,
+          "name": "25th Special Memorial Pack",
+          "kind": "booster",
+          "releasedOn": "2022-10-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/286925_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/286925/digimon-card-game-xros-encounter-25th-special-memorial-pack"
+        },
+        {
+          "tcgplayerId": 448427,
+          "name": "ST-11 Special Entry Pack",
+          "kind": "booster",
+          "releasedOn": "2022-10-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/448427_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/448427/digimon-card-game-xros-encounter-st-11-special-entry-pack"
+        }
+      ]
+    },
+    "3128": {
+      "name": "X Record Pre-Release Cards",
+      "abbreviation": "BT-09_PR",
+      "modifiedOn": "2026-02-22T18:41:05.05",
+      "publishedOn": "2022-07-22",
+      "setId": "dgm-g3128",
+      "products": [
+        {
+          "tcgplayerId": 279856,
+          "name": "X Record Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2022-07-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279856_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/279856/digimon-card-game-x-record-pre-release-cards-x-record-pre-release-pack"
+        }
+      ]
+    },
+    "3133": {
+      "name": "Starter Deck 12: Jesmon",
+      "abbreviation": "ST-12",
+      "modifiedOn": "2024-09-13T14:20:26.713",
+      "publishedOn": "2022-10-14",
+      "setId": "dgm-g3133",
+      "products": [
+        {
+          "tcgplayerId": 279012,
+          "name": "Jesmon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279012_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/279012/digimon-card-game-starter-deck-12-jesmon-jesmon-starter-deck"
+        },
+        {
+          "tcgplayerId": 279013,
+          "name": "Jesmon Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279013_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/279013/digimon-card-game-starter-deck-12-jesmon-jesmon-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 448444,
+          "name": "Premium Deck Set",
+          "kind": "deck",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/448444_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/448444/digimon-card-game-starter-deck-12-jesmon-premium-deck-set"
+        },
+        {
+          "tcgplayerId": 448448,
+          "name": "Premium Deck Set Lucky Pack",
+          "kind": "deck",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/448448_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/448448/digimon-card-game-starter-deck-12-jesmon-premium-deck-set-lucky-pack"
+        }
+      ]
+    },
+    "3134": {
+      "name": "Starter Deck 13: Ragnaloardmon",
+      "abbreviation": "ST-13",
+      "modifiedOn": "2025-11-17T23:35:04.313",
+      "publishedOn": "2022-10-14",
+      "setId": "dgm-g3134",
+      "products": [
+        {
+          "tcgplayerId": 279018,
+          "name": "Ragnaloardmon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279018_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/279018/digimon-card-game-starter-deck-13-ragnaloardmon-ragnaloardmon-starter-deck"
+        },
+        {
+          "tcgplayerId": 279019,
+          "name": "Ragnaloardmon Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279019_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/279019/digimon-card-game-starter-deck-13-ragnaloardmon-ragnaloardmon-starter-deck-display"
+        }
+      ]
+    },
+    "3163": {
+      "name": "Draconic Roar",
+      "abbreviation": "EX-03",
+      "modifiedOn": "2026-04-26T12:58:53.977",
+      "publishedOn": "2022-11-11",
+      "setId": "dgm-g3163",
+      "products": [
+        {
+          "tcgplayerId": 282236,
+          "name": "Draconic Roar Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/282236_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/282236/digimon-card-game-draconic-roar-draconic-roar-booster-pack"
+        },
+        {
+          "tcgplayerId": 282239,
+          "name": "Draconic Roar Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/282239_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/282239/digimon-card-game-draconic-roar-draconic-roar-booster-box"
+        },
+        {
+          "tcgplayerId": 282240,
+          "name": "Draconic Roar Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/282240_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/282240/digimon-card-game-draconic-roar-draconic-roar-booster-box-case"
+        },
+        {
+          "tcgplayerId": 451107,
+          "name": "Gift Box 2022: Guilmon & Impmon",
+          "kind": "collection",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/451107_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/451107/digimon-card-game-draconic-roar-gift-box-2022-guilmon-and-impmon"
+        },
+        {
+          "tcgplayerId": 451108,
+          "name": "Gift Box 2022: Agumon & Gabumon",
+          "kind": "collection",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/451108_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/451108/digimon-card-game-draconic-roar-gift-box-2022-agumon-and-gabumon"
+        },
+        {
+          "tcgplayerId": 451109,
+          "name": "Gift Box 2022: Flamemon & Strabimon",
+          "kind": "collection",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/451109_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/451109/digimon-card-game-draconic-roar-gift-box-2022-flamemon-and-strabimon"
+        },
+        {
+          "tcgplayerId": 451110,
+          "name": "Gift Box 2022: Veemon & Wormmon",
+          "kind": "collection",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/451110_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/451110/digimon-card-game-draconic-roar-gift-box-2022-veemon-and-wormmon"
+        }
+      ]
+    },
+    "3182": {
+      "name": "Xros Encounter Pre-Release Cards",
+      "abbreviation": "BT-10_PR",
+      "modifiedOn": "2026-02-22T18:41:25.483",
+      "publishedOn": "2022-10-14",
+      "setId": "dgm-g3182",
+      "products": [
+        {
+          "tcgplayerId": 287639,
+          "name": "Xros Encounter Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2022-10-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/287639_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/287639/digimon-card-game-xros-encounter-pre-release-cards-xros-encounter-pre-release-pack"
+        }
+      ]
+    },
+    "3186": {
+      "name": "Premium Deck Set",
+      "abbreviation": "PD-01",
+      "modifiedOn": "2026-02-22T18:33:03.467",
+      "publishedOn": "2022-09-30",
+      "setId": "dgm-g3186",
+      "products": []
+    },
+    "17691": {
+      "name": "Dimensional Phase",
+      "abbreviation": "BT-11",
+      "modifiedOn": "2026-04-26T12:58:38.66",
+      "publishedOn": "2023-02-17",
+      "setId": "dgm-g17691",
+      "products": [
+        {
+          "tcgplayerId": 454463,
+          "name": "Dimensional Phase Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-02-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/454463_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/454463/digimon-card-game-dimensional-phase-dimensional-phase-booster-pack"
+        },
+        {
+          "tcgplayerId": 454464,
+          "name": "Dimensional Phase Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-02-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/454464_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/454464/digimon-card-game-dimensional-phase-dimensional-phase-booster-box"
+        },
+        {
+          "tcgplayerId": 454465,
+          "name": "Dimensional Phase Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-02-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/454465_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/454465/digimon-card-game-dimensional-phase-dimensional-phase-booster-box-case"
+        }
+      ]
+    },
+    "17702": {
+      "name": "Dimensional Phase Pre-Release Cards",
+      "abbreviation": "BT-11_PR",
+      "modifiedOn": "2026-02-22T18:27:30.233",
+      "publishedOn": "2023-02-10",
+      "setId": "dgm-g17702",
+      "products": [
+        {
+          "tcgplayerId": 482519,
+          "name": "Dimensional Phase Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-02-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482519_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/482519/digimon-card-game-dimensional-phase-pre-release-cards-dimensional-phase-pre-release-pack"
+        }
+      ]
+    },
+    "17703": {
+      "name": "Starter Deck 14: Beelzemon Advanced Deck Set",
+      "abbreviation": "ST-14",
+      "modifiedOn": "2026-04-26T13:02:20.037",
+      "publishedOn": "2023-03-24",
+      "setId": "dgm-g17703",
+      "products": [
+        {
+          "tcgplayerId": 455949,
+          "name": "Beelzemon Advanced Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455949_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455949/digimon-card-game-starter-deck-14-beelzemon-advanced-deck-set-beelzemon-advanced-starter-deck"
+        },
+        {
+          "tcgplayerId": 455950,
+          "name": "Beelzemon Advanced Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455950_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455950/digimon-card-game-starter-deck-14-beelzemon-advanced-deck-set-beelzemon-advanced-starter-deck-display"
+        }
+      ]
+    },
+    "23012": {
+      "name": "Across Time",
+      "abbreviation": "BT-12",
+      "modifiedOn": "2026-02-22T18:23:06.333",
+      "publishedOn": "2023-04-28",
+      "setId": "dgm-g23012",
+      "products": [
+        {
+          "tcgplayerId": 484840,
+          "name": "Across Time Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-04-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484840_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/484840/digimon-card-game-across-time-across-time-booster-pack"
+        },
+        {
+          "tcgplayerId": 484841,
+          "name": "Across Time Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-04-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484841_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/484841/digimon-card-game-across-time-across-time-booster-box"
+        },
+        {
+          "tcgplayerId": 484842,
+          "name": "Across Time Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-04-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484842_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/484842/digimon-card-game-across-time-across-time-booster-box-case"
+        }
+      ]
+    },
+    "23013": {
+      "name": "Across Time Pre-Release Cards",
+      "abbreviation": "BT-12_PR",
+      "modifiedOn": "2026-02-22T18:23:11.467",
+      "publishedOn": "2023-04-28",
+      "setId": "dgm-g23013",
+      "products": [
+        {
+          "tcgplayerId": 493743,
+          "name": "Across Time Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-04-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493743_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493743/digimon-card-game-across-time-pre-release-cards-across-time-pre-release-pack"
+        }
+      ]
+    },
+    "23017": {
+      "name": "Resurgence Booster",
+      "abbreviation": "RB-01",
+      "modifiedOn": "2026-04-20T15:29:00.833",
+      "publishedOn": "2023-09-29",
+      "setId": "dgm-g23017",
+      "products": [
+        {
+          "tcgplayerId": 505653,
+          "name": "Resurgence Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/505653_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/505653/digimon-card-game-resurgence-booster-resurgence-booster-box-case"
+        },
+        {
+          "tcgplayerId": 505655,
+          "name": "Resurgence Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/505655_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/505655/digimon-card-game-resurgence-booster-resurgence-booster-box"
+        },
+        {
+          "tcgplayerId": 505657,
+          "name": "Resurgence Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/505657_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/505657/digimon-card-game-resurgence-booster-resurgence-booster-pack"
+        },
+        {
+          "tcgplayerId": 514079,
+          "name": "Digimon Adventure Box 2",
+          "kind": "collection",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514079_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/514079/digimon-card-game-resurgence-booster-digimon-adventure-box-2"
+        }
+      ]
+    },
+    "23074": {
+      "name": "Starter Deck 14: Beelzemon Advanced Deck Set Pre-Release Cards",
+      "abbreviation": "ST-14_PR",
+      "modifiedOn": "2026-03-02T15:32:15.23",
+      "publishedOn": "2023-03-17",
+      "setId": "dgm-g23074",
+      "products": [
+        {
+          "tcgplayerId": 488859,
+          "name": "Beelzemon Cup Participation Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/488859_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/488859/digimon-card-game-starter-deck-14-beelzemon-advanced-deck-set-pre-release-cards-beelzemon-cup-participation-pack"
+        }
+      ]
+    },
+    "23147": {
+      "name": "Alternative Being Booster",
+      "abbreviation": "EX-04",
+      "modifiedOn": "2026-07-30T17:16:53.177",
+      "publishedOn": "2023-06-23",
+      "setId": "dgm-g23147",
+      "products": [
+        {
+          "tcgplayerId": 495868,
+          "name": "Alternative Being Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-06-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495868_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495868/digimon-card-game-alternative-being-booster-alternative-being-booster-pack"
+        },
+        {
+          "tcgplayerId": 495869,
+          "name": "Alternative Being Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-06-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495869_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495869/digimon-card-game-alternative-being-booster-alternative-being-booster-box"
+        },
+        {
+          "tcgplayerId": 495870,
+          "name": "Alternative Being Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-06-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495870_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495870/digimon-card-game-alternative-being-booster-alternative-being-booster-box-case"
+        }
+      ]
+    },
+    "23148": {
+      "name": "Versus Royal Knights",
+      "abbreviation": "BT-13",
+      "modifiedOn": "2026-10-07T14:21:28.247",
+      "publishedOn": "2023-07-21",
+      "setId": "dgm-g23148",
+      "products": [
+        {
+          "tcgplayerId": 496019,
+          "name": "Versus Royal Knight Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-07-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496019_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496019/digimon-card-game-versus-royal-knights-versus-royal-knight-booster-pack"
+        },
+        {
+          "tcgplayerId": 496021,
+          "name": "Versus Royal Knight Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-07-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496021_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496021/digimon-card-game-versus-royal-knights-versus-royal-knight-booster-box"
+        },
+        {
+          "tcgplayerId": 496022,
+          "name": "Versus Royal Knight Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-07-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496022_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496022/digimon-card-game-versus-royal-knights-versus-royal-knight-booster-box-case"
+        }
+      ]
+    },
+    "23149": {
+      "name": "Versus Royal Knights Pre-Release Cards",
+      "abbreviation": "BT-13_PR",
+      "modifiedOn": "2026-02-22T18:39:06.93",
+      "publishedOn": "2023-07-21",
+      "setId": "dgm-g23149",
+      "products": [
+        {
+          "tcgplayerId": 502941,
+          "name": "Versus Royal Knight Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-07-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502941_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502941/digimon-card-game-versus-royal-knights-pre-release-cards-versus-royal-knight-pre-release-pack"
+        }
+      ]
+    },
+    "23178": {
+      "name": "Blast Ace",
+      "abbreviation": "BT-14",
+      "modifiedOn": "2026-02-22T18:23:52.88",
+      "publishedOn": "2023-11-17",
+      "setId": "dgm-g23178",
+      "products": [
+        {
+          "tcgplayerId": 495871,
+          "name": "Gift Box 2023",
+          "kind": "collection",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495871_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495871/digimon-card-game-blast-ace-gift-box-2023"
+        },
+        {
+          "tcgplayerId": 496548,
+          "name": "Blast Ace Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496548_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496548/digimon-card-game-blast-ace-blast-ace-booster-box-case"
+        },
+        {
+          "tcgplayerId": 496550,
+          "name": "Blast Ace Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496550_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496550/digimon-card-game-blast-ace-blast-ace-booster-box"
+        },
+        {
+          "tcgplayerId": 496551,
+          "name": "Blast Ace Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496551_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496551/digimon-card-game-blast-ace-blast-ace-booster-pack"
+        },
+        {
+          "tcgplayerId": 496552,
+          "name": "Double Pack Set",
+          "kind": "blister",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496552_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496552/digimon-card-game-blast-ace-double-pack-set"
+        }
+      ]
+    },
+    "23179": {
+      "name": "Blast Ace Pre-Release Cards",
+      "abbreviation": "BT-14_PR",
+      "modifiedOn": "2026-02-22T18:24:04.94",
+      "publishedOn": "2023-11-10",
+      "setId": "dgm-g23179",
+      "products": [
+        {
+          "tcgplayerId": 523325,
+          "name": "Blast Ace Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/523325_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/523325/digimon-card-game-blast-ace-pre-release-cards-blast-ace-pre-release-pack"
+        }
+      ]
+    },
+    "23188": {
+      "name": "Starter Deck 16: Wolf of Friendship",
+      "abbreviation": "ST-16",
+      "modifiedOn": "2025-04-24T16:27:22.693",
+      "publishedOn": "2023-10-13",
+      "setId": "dgm-g23188",
+      "products": [
+        {
+          "tcgplayerId": 496946,
+          "name": "Wolf of Friendship Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2023-10-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496946_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496946/digimon-card-game-starter-deck-16-wolf-of-friendship-wolf-of-friendship-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 496947,
+          "name": "Wolf of Friendship Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2023-10-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496947_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496947/digimon-card-game-starter-deck-16-wolf-of-friendship-wolf-of-friendship-starter-deck"
+        }
+      ]
+    },
+    "23189": {
+      "name": "Starter Deck 15: Dragon of Courage",
+      "abbreviation": "ST-15",
+      "modifiedOn": "2024-09-23T15:03:56.177",
+      "publishedOn": "2023-10-13",
+      "setId": "dgm-g23189",
+      "products": [
+        {
+          "tcgplayerId": 496944,
+          "name": "Dragon of Courage Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2023-10-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496944_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496944/digimon-card-game-starter-deck-15-dragon-of-courage-dragon-of-courage-starter-deck"
+        },
+        {
+          "tcgplayerId": 496945,
+          "name": "Dragon of Courage Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2023-10-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496945_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496945/digimon-card-game-starter-deck-15-dragon-of-courage-dragon-of-courage-starter-deck-display"
+        }
+      ]
+    },
+    "23247": {
+      "name": "Animal Colosseum",
+      "abbreviation": "EX-05",
+      "modifiedOn": "2026-04-26T12:56:55.127",
+      "publishedOn": "2024-01-19",
+      "setId": "dgm-g23247",
+      "products": [
+        {
+          "tcgplayerId": 503283,
+          "name": "Animal Colosseum Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503283_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503283/digimon-card-game-animal-colosseum-animal-colosseum-booster-pack"
+        },
+        {
+          "tcgplayerId": 503285,
+          "name": "Animal Colosseum Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503285_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503285/digimon-card-game-animal-colosseum-animal-colosseum-booster-box"
+        },
+        {
+          "tcgplayerId": 503286,
+          "name": "Animal Colosseum Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503286_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503286/digimon-card-game-animal-colosseum-animal-colosseum-booster-box-case"
+        },
+        {
+          "tcgplayerId": 531801,
+          "name": "Animal Colosseum Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2024-01-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531801_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531801/digimon-card-game-animal-colosseum-animal-colosseum-box-promotion-pack"
+        }
+      ]
+    },
+    "23254": {
+      "name": "Exceed Apocalypse",
+      "abbreviation": "BT-15",
+      "modifiedOn": "2026-02-22T18:29:53.197",
+      "publishedOn": "2024-02-16",
+      "setId": "dgm-g23254",
+      "products": [
+        {
+          "tcgplayerId": 504542,
+          "name": "Exceed Apocalypse Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504542_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/504542/digimon-card-game-exceed-apocalypse-exceed-apocalypse-booster-pack"
+        },
+        {
+          "tcgplayerId": 504543,
+          "name": "Exceed Apocalypse Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504543_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/504543/digimon-card-game-exceed-apocalypse-exceed-apocalypse-booster-box"
+        },
+        {
+          "tcgplayerId": 504544,
+          "name": "Exceed Apocalypse Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504544_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/504544/digimon-card-game-exceed-apocalypse-exceed-apocalypse-booster-box-case"
+        },
+        {
+          "tcgplayerId": 504545,
+          "name": "Double Pack Set Volume 2",
+          "kind": "blister",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504545_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/504545/digimon-card-game-exceed-apocalypse-double-pack-set-volume-2"
+        }
+      ]
+    },
+    "23259": {
+      "name": "Starter Deck 17: Double Typhoon Advanced Deck Set",
+      "abbreviation": "ST-17",
+      "modifiedOn": "2025-04-24T16:30:37.337",
+      "publishedOn": "2024-03-08",
+      "setId": "dgm-g23259",
+      "products": [
+        {
+          "tcgplayerId": 505875,
+          "name": "Double Typhoon Advanced Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2024-03-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/505875_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/505875/digimon-card-game-starter-deck-17-double-typhoon-advanced-deck-set-double-typhoon-advanced-starter-deck"
+        },
+        {
+          "tcgplayerId": 505877,
+          "name": "Double Typhoon Advanced Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2024-03-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/505877_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/505877/digimon-card-game-starter-deck-17-double-typhoon-advanced-deck-set-double-typhoon-advanced-starter-deck-display"
+        }
+      ]
+    },
+    "23324": {
+      "name": "Exceed Apocalypse Pre-Release Cards",
+      "abbreviation": "BT-15_PR",
+      "modifiedOn": "2026-02-22T18:29:59.75",
+      "publishedOn": "2024-02-09",
+      "setId": "dgm-g23324",
+      "products": [
+        {
+          "tcgplayerId": 538430,
+          "name": "Exceed Apocalypse Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-02-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538430_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538430/digimon-card-game-exceed-apocalypse-pre-release-cards-exceed-apocalypse-pre-release-pack"
+        }
+      ]
+    },
+    "23327": {
+      "name": "Starter Deck 15: Dragon of Courage Pre-Release Cards",
+      "abbreviation": "ST-15_PR",
+      "modifiedOn": "2023-10-10T17:16:37.497",
+      "publishedOn": "2023-10-06",
+      "setId": "dgm-g23327",
+      "products": [
+        {
+          "tcgplayerId": 519984,
+          "name": "Dragon of Courage Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-10-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519984_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/519984/digimon-card-game-starter-deck-15-dragon-of-courage-pre-release-cards-dragon-of-courage-pre-release-pack"
+        }
+      ]
+    },
+    "23328": {
+      "name": "Starter Deck 16: Wolf of Friendship Pre-Release Cards",
+      "abbreviation": "ST-16_PR",
+      "modifiedOn": "2023-12-14T14:19:14.937",
+      "publishedOn": "2023-10-06",
+      "setId": "dgm-g23328",
+      "products": [
+        {
+          "tcgplayerId": 519986,
+          "name": "Wolf of Friendship Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-10-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519986_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/519986/digimon-card-game-starter-deck-16-wolf-of-friendship-pre-release-cards-wolf-of-friendship-pre-release-pack"
+        }
+      ]
+    },
+    "23395": {
+      "name": "Beginning Observer",
+      "abbreviation": "BT-16",
+      "modifiedOn": "2026-02-22T18:23:41.06",
+      "publishedOn": "2024-05-24",
+      "setId": "dgm-g23395",
+      "products": [
+        {
+          "tcgplayerId": 533902,
+          "name": "Beginning Observer Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-05-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/533902_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/533902/digimon-card-game-beginning-observer-beginning-observer-booster-box"
+        },
+        {
+          "tcgplayerId": 533903,
+          "name": "Beginning Observer Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-05-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/533903_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/533903/digimon-card-game-beginning-observer-beginning-observer-booster-pack"
+        },
+        {
+          "tcgplayerId": 533904,
+          "name": "Beginning Observer Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-05-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/533904_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/533904/digimon-card-game-beginning-observer-beginning-observer-booster-box-case"
+        },
+        {
+          "tcgplayerId": 546615,
+          "name": "Digimon Adventure Box 2024",
+          "kind": "collection",
+          "releasedOn": "2024-05-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/546615_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/546615/digimon-card-game-beginning-observer-digimon-adventure-box-2024"
+        }
+      ]
+    },
+    "23413": {
+      "name": "Beginning Observer Pre-Release Cards",
+      "abbreviation": "BT-16_PR",
+      "modifiedOn": "2026-02-22T18:23:46.193",
+      "publishedOn": "2024-05-17",
+      "setId": "dgm-g23413",
+      "products": [
+        {
+          "tcgplayerId": 551932,
+          "name": "Beginning Observer Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-05-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551932_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551932/digimon-card-game-beginning-observer-pre-release-cards-beginning-observer-pre-release-pack"
+        }
+      ]
+    },
+    "23414": {
+      "name": "Infernal Ascension",
+      "abbreviation": "EX-06",
+      "modifiedOn": "2026-04-26T12:59:31.453",
+      "publishedOn": "2024-06-28",
+      "setId": "dgm-g23414",
+      "products": [
+        {
+          "tcgplayerId": 534019,
+          "name": "Infernal Ascension Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/534019_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/534019/digimon-card-game-infernal-ascension-infernal-ascension-booster-box-case"
+        },
+        {
+          "tcgplayerId": 534021,
+          "name": "Infernal Ascension Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/534021_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/534021/digimon-card-game-infernal-ascension-infernal-ascension-booster-box"
+        },
+        {
+          "tcgplayerId": 534023,
+          "name": "Infernal Ascension Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/534023_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/534023/digimon-card-game-infernal-ascension-infernal-ascension-booster-pack"
+        }
+      ]
+    },
+    "23450": {
+      "name": "Starter Deck 17: Double Typhoon Advanced Deck Set Pre-Release Cards",
+      "abbreviation": "ST-17_PR",
+      "modifiedOn": "2026-02-22T18:22:32.9",
+      "publishedOn": "2024-03-01",
+      "setId": "dgm-g23450",
+      "products": [
+        {
+          "tcgplayerId": 542105,
+          "name": "Double Typhoon Cup Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-03-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542105_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542105/digimon-card-game-starter-deck-17-double-typhoon-advanced-deck-set-pre-release-cards-double-typhoon-cup-pre-release-pack"
+        }
+      ]
+    },
+    "23557": {
+      "name": "Secret Crisis",
+      "abbreviation": "BT-17",
+      "modifiedOn": "2026-02-22T18:33:28.243",
+      "publishedOn": "2024-08-09",
+      "setId": "dgm-g23557",
+      "products": [
+        {
+          "tcgplayerId": 558450,
+          "name": "Secret Crisis Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558450_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558450/digimon-card-game-secret-crisis-secret-crisis-booster-pack"
+        },
+        {
+          "tcgplayerId": 558451,
+          "name": "Secret Crisis Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558451_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558451/digimon-card-game-secret-crisis-secret-crisis-booster-box"
+        },
+        {
+          "tcgplayerId": 558452,
+          "name": "Secret Crisis Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558452_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558452/digimon-card-game-secret-crisis-secret-crisis-booster-box-case"
+        },
+        {
+          "tcgplayerId": 561598,
+          "name": "Secret Crisis: Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561598_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561598/digimon-card-game-secret-crisis-secret-crisis-box-promotion-pack"
+        },
+        {
+          "tcgplayerId": 561599,
+          "name": "Secret Crisis: Movie Memorial Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561599_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561599/digimon-card-game-secret-crisis-secret-crisis-movie-memorial-pack"
+        },
+        {
+          "tcgplayerId": 565080,
+          "name": "Secret Crisis Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565080_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565080/digimon-card-game-secret-crisis-secret-crisis-sleeved-booster-pack"
+        }
+      ]
+    },
+    "23559": {
+      "name": "Secret Crisis Pre-Release Cards",
+      "abbreviation": "BT-17_PR",
+      "modifiedOn": "2026-02-22T18:34:09.64",
+      "publishedOn": "2024-08-02",
+      "setId": "dgm-g23559",
+      "products": [
+        {
+          "tcgplayerId": 561269,
+          "name": "Secret Crisis Pre-release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-08-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561269_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561269/digimon-card-game-secret-crisis-pre-release-cards-secret-crisis-pre-release-pack"
+        }
+      ]
+    },
+    "23585": {
+      "name": "Starter Deck 19: Fable Waltz",
+      "abbreviation": "ST-19",
+      "modifiedOn": "2026-04-26T13:02:32.74",
+      "publishedOn": "2024-09-20",
+      "setId": "dgm-g23585",
+      "products": [
+        {
+          "tcgplayerId": 563766,
+          "name": "Fable Waltz Starter Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563766_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563766/digimon-card-game-starter-deck-19-fable-waltz-fable-waltz-starter-deck-display-case"
+        },
+        {
+          "tcgplayerId": 563767,
+          "name": "Fable Waltz Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563767_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563767/digimon-card-game-starter-deck-19-fable-waltz-fable-waltz-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 563768,
+          "name": "Fable Waltz Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563768_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563768/digimon-card-game-starter-deck-19-fable-waltz-fable-waltz-starter-deck"
+        }
+      ]
+    },
+    "23586": {
+      "name": "Starter Deck 18: Guardian Vortex",
+      "abbreviation": "ST-18",
+      "modifiedOn": "2026-01-22T14:40:02.21",
+      "publishedOn": "2024-09-20",
+      "setId": "dgm-g23586",
+      "products": [
+        {
+          "tcgplayerId": 563763,
+          "name": "Guardian Vortex Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563763_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563763/digimon-card-game-starter-deck-18-guardian-vortex-guardian-vortex-starter-deck"
+        },
+        {
+          "tcgplayerId": 563764,
+          "name": "Guardian Vortex Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563764_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563764/digimon-card-game-starter-deck-18-guardian-vortex-guardian-vortex-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 563765,
+          "name": "Guardian Vortex Starter Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563765_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563765/digimon-card-game-starter-deck-18-guardian-vortex-guardian-vortex-starter-deck-display-case"
+        }
+      ]
+    },
+    "23587": {
+      "name": "Digimon LIBERATOR",
+      "abbreviation": "EX-07",
+      "modifiedOn": "2026-06-26T13:49:06.07",
+      "publishedOn": "2024-09-20",
+      "setId": "dgm-g23587",
+      "products": [
+        {
+          "tcgplayerId": 563804,
+          "name": "Digimon LIBERATOR Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563804_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563804/digimon-card-game-digimon-liberator-digimon-liberator-booster-pack"
+        },
+        {
+          "tcgplayerId": 563806,
+          "name": "Digimon LIBERATOR Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563806_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563806/digimon-card-game-digimon-liberator-digimon-liberator-booster-box"
+        },
+        {
+          "tcgplayerId": 563807,
+          "name": "Digimon LIBERATOR Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563807_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563807/digimon-card-game-digimon-liberator-digimon-liberator-booster-box-case"
+        }
+      ]
+    },
+    "23767": {
+      "name": "Release Special Booster 2.0",
+      "abbreviation": "BT18-19",
+      "modifiedOn": "2026-07-30T17:17:11.727",
+      "publishedOn": "2024-11-01",
+      "setId": "dgm-g23767",
+      "products": [
+        {
+          "tcgplayerId": 586741,
+          "name": "Release Special Booster 2.0 Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586741_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586741/digimon-card-game-release-special-booster-20-release-special-booster-20-pack"
+        },
+        {
+          "tcgplayerId": 586742,
+          "name": "Release Special Booster 2.0 Box",
+          "kind": "booster",
+          "releasedOn": "2024-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586742_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586742/digimon-card-game-release-special-booster-20-release-special-booster-20-box"
+        },
+        {
+          "tcgplayerId": 586743,
+          "name": "Release Special Booster 2.0 Box Case",
+          "kind": "case",
+          "releasedOn": "2024-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586743_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586743/digimon-card-game-release-special-booster-20-release-special-booster-20-box-case"
+        },
+        {
+          "tcgplayerId": 587354,
+          "name": "Release Special Booster 2.0: Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587354_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/587354/digimon-card-game-release-special-booster-20-release-special-booster-20-box-promotion-pack"
+        }
+      ]
+    },
+    "23775": {
+      "name": "Chain of Liberation",
+      "abbreviation": "EX-08",
+      "modifiedOn": "2026-07-23T14:29:03.527",
+      "publishedOn": "2025-01-10",
+      "setId": "dgm-g23775",
+      "products": [
+        {
+          "tcgplayerId": 601118,
+          "name": "Chain of Liberation Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-01-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/601118_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/601118/digimon-card-game-chain-of-liberation-chain-of-liberation-booster-pack"
+        },
+        {
+          "tcgplayerId": 601119,
+          "name": "Chain of Liberation Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-01-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/601119_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/601119/digimon-card-game-chain-of-liberation-chain-of-liberation-booster-box"
+        },
+        {
+          "tcgplayerId": 601120,
+          "name": "Chain of Liberation Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-01-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/601120_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/601120/digimon-card-game-chain-of-liberation-chain-of-liberation-booster-box-case"
+        }
+      ]
+    },
+    "23787": {
+      "name": "Release Special Booster 2.0 Celebration Event Cards",
+      "abbreviation": "BT18-19_PR",
+      "modifiedOn": "2025-02-24T16:55:38.293",
+      "publishedOn": "2024-10-25",
+      "setId": "dgm-g23787",
+      "products": [
+        {
+          "tcgplayerId": 588356,
+          "name": "Release Special Booster Ver.2.0 Celebration Event Pack",
+          "kind": "booster",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/588356_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/588356/digimon-card-game-release-special-booster-20-celebration-event-cards-release-special-booster-ver20-celebration-event-pack"
+        }
+      ]
+    },
+    "23850": {
+      "name": "Special Limited Set",
+      "abbreviation": "LM-01-05",
+      "modifiedOn": "2026-04-24T14:01:57.807",
+      "publishedOn": "2024-12-13",
+      "setId": "dgm-g23850",
+      "products": [
+        {
+          "tcgplayerId": 594752,
+          "name": "Special Limited Set Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594752_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594752/digimon-card-game-special-limited-set-special-limited-set-booster-pack"
+        },
+        {
+          "tcgplayerId": 594753,
+          "name": "Special Limited Set Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594753_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594753/digimon-card-game-special-limited-set-special-limited-set-booster-box"
+        },
+        {
+          "tcgplayerId": 594754,
+          "name": "Special Limited Set Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594754_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594754/digimon-card-game-special-limited-set-special-limited-set-booster-box-case"
+        }
+      ]
+    },
+    "23992": {
+      "name": "Starter Deck 20: Protector of Light",
+      "abbreviation": "ST-20",
+      "modifiedOn": "2026-04-24T19:54:09.417",
+      "publishedOn": "2025-04-18",
+      "setId": "dgm-g23992",
+      "products": [
+        {
+          "tcgplayerId": 606585,
+          "name": "Protector of Light Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606585_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606585/digimon-card-game-starter-deck-20-protector-of-light-protector-of-light-starter-deck"
+        },
+        {
+          "tcgplayerId": 606586,
+          "name": "Protector of Light Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606586_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606586/digimon-card-game-starter-deck-20-protector-of-light-protector-of-light-starter-deck-display"
+        }
+      ]
+    },
+    "23993": {
+      "name": "Starter Deck 21: Hero of Hope",
+      "abbreviation": "ST-21",
+      "modifiedOn": "2026-09-18T15:15:08.6",
+      "publishedOn": "2025-04-18",
+      "setId": "dgm-g23993",
+      "products": [
+        {
+          "tcgplayerId": 606587,
+          "name": "Hero of Hope Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606587_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606587/digimon-card-game-starter-deck-21-hero-of-hope-hero-of-hope-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 606588,
+          "name": "Hero of Hope Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606588/digimon-card-game-starter-deck-21-hero-of-hope-hero-of-hope-starter-deck"
+        }
+      ]
+    },
+    "24049": {
+      "name": "World Convergence",
+      "abbreviation": "BT-21",
+      "modifiedOn": "2026-07-30T18:08:05.443",
+      "publishedOn": "2025-04-25",
+      "setId": "dgm-g24049",
+      "products": [
+        {
+          "tcgplayerId": 609126,
+          "name": "World Convergence Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/609126_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/609126/digimon-card-game-world-convergence-world-convergence-booster-box"
+        },
+        {
+          "tcgplayerId": 609127,
+          "name": "World Convergence Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/609127_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/609127/digimon-card-game-world-convergence-world-convergence-booster-box-case"
+        },
+        {
+          "tcgplayerId": 609129,
+          "name": "World Convergence Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/609129_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/609129/digimon-card-game-world-convergence-world-convergence-booster-pack"
+        }
+      ]
+    },
+    "24061": {
+      "name": "World Convergence Release Event Cards",
+      "abbreviation": "BT-21_PR",
+      "modifiedOn": "2026-02-22T18:39:18.51",
+      "publishedOn": "2025-04-18",
+      "setId": "dgm-g24061",
+      "products": [
+        {
+          "tcgplayerId": 628086,
+          "name": "World Convergence Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628086_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628086/digimon-card-game-world-convergence-release-event-cards-world-convergence-release-event-pack"
+        }
+      ]
+    },
+    "24077": {
+      "name": "Versus Monsters",
+      "abbreviation": "EX-09",
+      "modifiedOn": "2026-04-24T19:36:56.167",
+      "publishedOn": "2025-06-26",
+      "setId": "dgm-g24077",
+      "products": [
+        {
+          "tcgplayerId": 611104,
+          "name": "Versus Monsters Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611104_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611104/digimon-card-game-versus-monsters-versus-monsters-booster-pack"
+        },
+        {
+          "tcgplayerId": 611105,
+          "name": "Versus Monsters Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-06-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611105_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611105/digimon-card-game-versus-monsters-versus-monsters-booster-box"
+        },
+        {
+          "tcgplayerId": 611106,
+          "name": "Versus Monsters Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-06-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611106_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611106/digimon-card-game-versus-monsters-versus-monsters-booster-box-case"
+        }
+      ]
+    },
+    "24078": {
+      "name": "Cyber Eden",
+      "abbreviation": "BT-22",
+      "modifiedOn": "2026-06-01T13:35:37.193",
+      "publishedOn": "2025-07-25",
+      "setId": "dgm-g24078",
+      "products": [
+        {
+          "tcgplayerId": 611213,
+          "name": "Cyber Eden Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-07-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611213_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611213/digimon-card-game-cyber-eden-cyber-eden-booster-pack"
+        },
+        {
+          "tcgplayerId": 611214,
+          "name": "Cyber Eden Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-07-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611214_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611214/digimon-card-game-cyber-eden-cyber-eden-booster-box"
+        },
+        {
+          "tcgplayerId": 611215,
+          "name": "Cyber Eden Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-07-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/611215_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/611215/digimon-card-game-cyber-eden-cyber-eden-booster-box-case"
+        },
+        {
+          "tcgplayerId": 668501,
+          "name": "Cyber Eden Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-07-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668501_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668501/digimon-card-game-cyber-eden-cyber-eden-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24079": {
+      "name": "Cyber Eden Release Event Cards",
+      "abbreviation": "BT-22_PR",
+      "modifiedOn": "2026-02-22T18:26:55.043",
+      "publishedOn": "2025-07-18",
+      "setId": "dgm-g24079",
+      "products": [
+        {
+          "tcgplayerId": 644785,
+          "name": "Cyber Eden Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-07-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644785_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644785/digimon-card-game-cyber-eden-release-event-cards-cyber-eden-release-event-pack"
+        }
+      ]
+    },
+    "24089": {
+      "name": "Sinister Order",
+      "abbreviation": "EX-10",
+      "modifiedOn": "2026-06-26T13:49:15.41",
+      "publishedOn": "2025-09-19",
+      "setId": "dgm-g24089",
+      "products": [
+        {
+          "tcgplayerId": 620183,
+          "name": "Sinister Order Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620183_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620183/digimon-card-game-sinister-order-sinister-order-booster-pack"
+        },
+        {
+          "tcgplayerId": 620184,
+          "name": "Sinister Order Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620184_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620184/digimon-card-game-sinister-order-sinister-order-booster-box"
+        },
+        {
+          "tcgplayerId": 620185,
+          "name": "Sinister Order Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620185_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620185/digimon-card-game-sinister-order-sinister-order-booster-box-case"
+        }
+      ]
+    },
+    "24178": {
+      "name": "Release Special Booster 2.5",
+      "abbreviation": "BT19-20",
+      "modifiedOn": "2026-04-24T19:42:10.043",
+      "publishedOn": "2025-02-28",
+      "setId": "dgm-g24178",
+      "products": [
+        {
+          "tcgplayerId": 593973,
+          "name": "Release Special Booster 2.5 Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593973_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593973/digimon-card-game-release-special-booster-25-release-special-booster-25-pack"
+        },
+        {
+          "tcgplayerId": 593974,
+          "name": "Release Special Booster 2.5 Box",
+          "kind": "booster",
+          "releasedOn": "2025-02-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593974_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593974/digimon-card-game-release-special-booster-25-release-special-booster-25-box"
+        },
+        {
+          "tcgplayerId": 593975,
+          "name": "Release Special Booster 2.5 Box Case",
+          "kind": "case",
+          "releasedOn": "2025-02-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593975_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593975/digimon-card-game-release-special-booster-25-release-special-booster-25-box-case"
+        },
+        {
+          "tcgplayerId": 618163,
+          "name": "Special Booster ver. 2.5 Lucky Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/618163_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/618163/digimon-card-game-release-special-booster-25-special-booster-ver-25-lucky-pack"
+        },
+        {
+          "tcgplayerId": 623076,
+          "name": "Release Special Booster 2.5 Sleeved Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/623076_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/623076/digimon-card-game-release-special-booster-25-release-special-booster-25-sleeved-pack"
+        }
+      ]
+    },
+    "24179": {
+      "name": "Release Special Booster 2.5 Celebration Event Cards",
+      "abbreviation": "BT19-20_PR",
+      "modifiedOn": "2025-08-08T13:32:25.373",
+      "publishedOn": "2025-02-21",
+      "setId": "dgm-g24179",
+      "products": [
+        {
+          "tcgplayerId": 619019,
+          "name": "Release Special Booster Ver.2.5 Celebration Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619019_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/619019/digimon-card-game-release-special-booster-25-celebration-event-cards-release-special-booster-ver25-celebration-event-pack"
+        }
+      ]
+    },
+    "24182": {
+      "name": "Release Special Booster 1.5",
+      "abbreviation": "BT01-03B",
+      "modifiedOn": "2025-05-06T19:22:28.81",
+      "publishedOn": "2021-03-12",
+      "setId": "dgm-g24182",
+      "products": [
+        {
+          "tcgplayerId": 229214,
+          "name": "Release Special Booster Ver.1.5 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2021-03-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/229214_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/229214/digimon-card-game-release-special-booster-15-release-special-booster-ver15-booster-pack"
+        },
+        {
+          "tcgplayerId": 229215,
+          "name": "Release Special Booster Ver.1.5 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2021-03-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/229215_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/229215/digimon-card-game-release-special-booster-15-release-special-booster-ver15-booster-box-case"
+        },
+        {
+          "tcgplayerId": 229216,
+          "name": "Release Special Booster Ver.1.5 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2021-03-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/229216_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/229216/digimon-card-game-release-special-booster-15-release-special-booster-ver15-booster-box"
+        }
+      ]
+    },
+    "24271": {
+      "name": "Starter Deck 21: Hero of Hope Release Event Cards",
+      "abbreviation": "ST-21_PR",
+      "modifiedOn": "2025-04-18T16:39:34.483",
+      "publishedOn": "2025-04-18",
+      "setId": "dgm-g24271",
+      "products": []
+    },
+    "24292": {
+      "name": "Starter Deck 20: Protector of Light Release Event Cards",
+      "abbreviation": "ST-20_PR",
+      "modifiedOn": "2025-10-13T18:22:34.813",
+      "publishedOn": "2025-04-18",
+      "setId": "dgm-g24292",
+      "products": [
+        {
+          "tcgplayerId": 627783,
+          "name": "Welcome Tamers Pack (ST-20 and ST-21)",
+          "kind": "booster",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627783_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627783/digimon-card-game-starter-deck-20-protector-of-light-release-event-cards-welcome-tamers-pack-st-20-and-st-21"
+        }
+      ]
+    },
+    "24390": {
+      "name": "Digimon Demo Deck Exclusive Cards",
+      "abbreviation": "DEMO",
+      "modifiedOn": "2026-07-02T12:55:18.037",
+      "publishedOn": "2022-04-06",
+      "setId": "dgm-g24390",
+      "products": [
+        {
+          "tcgplayerId": 647471,
+          "name": "Digimon Card Game Tutorial Deck Pack",
+          "kind": "deck",
+          "releasedOn": "2022-04-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647471_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647471/digimon-card-game-digimon-demo-deck-exclusive-cards-digimon-card-game-tutorial-deck-pack"
+        }
+      ]
+    },
+    "24426": {
+      "name": "Limited Card Pack -Billion Bullet-",
+      "abbreviation": "LM-06",
+      "modifiedOn": "2026-02-22T21:23:24.29",
+      "publishedOn": "2025-10-31",
+      "setId": "dgm-g24426",
+      "products": [
+        {
+          "tcgplayerId": 628450,
+          "name": "Limited Card Pack -Billion Bullet- (Sealed Promotional Pack)",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628450_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628450/digimon-card-game-limited-card-pack-billion-bullet-limited-card-pack-billion-bullet-sealed-promotional-pack"
+        }
+      ]
+    },
+    "24428": {
+      "name": "Limited Card Pack -Another Knight-",
+      "abbreviation": "LM-07",
+      "modifiedOn": "2026-03-20T17:57:07.697",
+      "publishedOn": "2026-03-06",
+      "setId": "dgm-g24428",
+      "products": [
+        {
+          "tcgplayerId": 646938,
+          "name": "Limited Card Pack -Another Knight- (Sealed Promotional Pack)",
+          "kind": "booster",
+          "releasedOn": "2026-03-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646938_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646938/digimon-card-game-limited-card-pack-another-knight-limited-card-pack-another-knight-sealed-promotional-pack"
+        }
+      ]
+    },
+    "24430": {
+      "name": "Hackers' Slumber",
+      "abbreviation": "BT-23",
+      "modifiedOn": "2026-08-05T22:00:03.07",
+      "publishedOn": "2025-10-24",
+      "setId": "dgm-g24430",
+      "products": [
+        {
+          "tcgplayerId": 651092,
+          "name": "Hackers' Slumber Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/651092_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/651092/digimon-card-game-hackers-slumber-hackers-slumber-booster-pack"
+        },
+        {
+          "tcgplayerId": 651093,
+          "name": "Hackers' Slumber Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-10-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/651093_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/651093/digimon-card-game-hackers-slumber-hackers-slumber-booster-box"
+        },
+        {
+          "tcgplayerId": 651094,
+          "name": "Hackers' Slumber Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-10-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/651094_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/651094/digimon-card-game-hackers-slumber-hackers-slumber-booster-box-case"
+        }
+      ]
+    },
+    "24456": {
+      "name": "Starter Deck 22: Amethyst Mandala Advanced Deck Set",
+      "abbreviation": "ST-22",
+      "modifiedOn": "2026-05-08T13:39:31.2",
+      "publishedOn": "2025-12-05",
+      "setId": "dgm-g24456",
+      "products": [
+        {
+          "tcgplayerId": 656944,
+          "name": "Amethyst Mandala Advanced Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656944_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656944/digimon-card-game-starter-deck-22-amethyst-mandala-advanced-deck-set-amethyst-mandala-advanced-starter-deck"
+        },
+        {
+          "tcgplayerId": 656945,
+          "name": "Amethyst Mandala Advanced Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656945_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656945/digimon-card-game-starter-deck-22-amethyst-mandala-advanced-deck-set-amethyst-mandala-advanced-starter-deck-display"
+        }
+      ]
+    },
+    "24488": {
+      "name": "Hackers' Slumber Release Event Cards",
+      "abbreviation": "BT-23_PR",
+      "modifiedOn": "2026-02-24T17:57:32.963",
+      "publishedOn": "2025-10-17",
+      "setId": "dgm-g24488",
+      "products": [
+        {
+          "tcgplayerId": 666531,
+          "name": "Hackers' Slumber Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666531_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666531/digimon-card-game-hackers-slumber-release-event-cards-hackers-slumber-release-event-pack"
+        }
+      ]
+    },
+    "24490": {
+      "name": "Dawn of Liberator",
+      "abbreviation": "EX-11",
+      "modifiedOn": "2026-08-05T21:49:35.81",
+      "publishedOn": "2026-02-13",
+      "setId": "dgm-g24490",
+      "products": [
+        {
+          "tcgplayerId": 657460,
+          "name": "Dawn of Liberator Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657460_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657460/digimon-card-game-dawn-of-liberator-dawn-of-liberator-booster-pack"
+        },
+        {
+          "tcgplayerId": 657462,
+          "name": "Dawn of Liberator Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657462_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657462/digimon-card-game-dawn-of-liberator-dawn-of-liberator-booster-box"
+        },
+        {
+          "tcgplayerId": 657463,
+          "name": "Dawn of Liberator Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657463_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657463/digimon-card-game-dawn-of-liberator-dawn-of-liberator-booster-box-case"
+        },
+        {
+          "tcgplayerId": 701549,
+          "name": "Dawn of Liberator: Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/701549_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/701549/digimon-card-game-dawn-of-liberator-dawn-of-liberator-box-promotion-pack"
+        }
+      ]
+    },
+    "24491": {
+      "name": "Starter Deck 22: Amethyst Mandala Advanced Deck Set Release Event Cards",
+      "abbreviation": "ST-22_PR",
+      "modifiedOn": "2026-02-23T18:43:48.853",
+      "publishedOn": "2025-12-05",
+      "setId": "dgm-g24491",
+      "products": [
+        {
+          "tcgplayerId": 657506,
+          "name": "Welcome Tamers Pack (ST-22)",
+          "kind": "booster",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657506/digimon-card-game-starter-deck-22-amethyst-mandala-advanced-deck-set-release-event-cards-welcome-tamers-pack-st-22"
+        }
+      ]
+    },
+    "24531": {
+      "name": "Time Stranger",
+      "abbreviation": "BT-24",
+      "modifiedOn": "2026-10-02T11:26:50.653",
+      "publishedOn": "2026-01-23",
+      "setId": "dgm-g24531",
+      "products": [
+        {
+          "tcgplayerId": 668498,
+          "name": "Time Stranger Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668498_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668498/digimon-card-game-time-stranger-time-stranger-booster-pack"
+        },
+        {
+          "tcgplayerId": 668499,
+          "name": "Time Stranger Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-01-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668499_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668499/digimon-card-game-time-stranger-time-stranger-booster-box"
+        },
+        {
+          "tcgplayerId": 668500,
+          "name": "Time Stranger Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-01-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668500_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668500/digimon-card-game-time-stranger-time-stranger-booster-box-case"
+        },
+        {
+          "tcgplayerId": 671171,
+          "name": "Time Stranger Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671171_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671171/digimon-card-game-time-stranger-time-stranger-promo-pack"
+        }
+      ]
+    },
+    "24561": {
+      "name": "Advanced Booster Digimon Generation",
+      "abbreviation": "AD-01",
+      "modifiedOn": "2026-09-18T15:17:05.887",
+      "publishedOn": "2026-03-27",
+      "setId": "dgm-g24561",
+      "products": [
+        {
+          "tcgplayerId": 671787,
+          "name": "Advanced Booster Digimon Generation Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671787_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671787/digimon-card-game-advanced-booster-digimon-generation-advanced-booster-digimon-generation-booster-pack"
+        },
+        {
+          "tcgplayerId": 671788,
+          "name": "Advanced Booster Digimon Generation Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671788_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671788/digimon-card-game-advanced-booster-digimon-generation-advanced-booster-digimon-generation-booster-box"
+        },
+        {
+          "tcgplayerId": 671789,
+          "name": "Advanced Booster Digimon Generation Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671789_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671789/digimon-card-game-advanced-booster-digimon-generation-advanced-booster-digimon-generation-booster-box-case"
+        }
+      ]
+    },
+    "24574": {
+      "name": "Dual Revolution",
+      "abbreviation": "BT-25",
+      "modifiedOn": "2026-08-18T18:07:42.2",
+      "publishedOn": "2026-05-22",
+      "setId": "dgm-g24574",
+      "products": [
+        {
+          "tcgplayerId": 680502,
+          "name": "Dual Revolution Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-05-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680502_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680502/digimon-card-game-dual-revolution-dual-revolution-booster-pack"
+        },
+        {
+          "tcgplayerId": 680503,
+          "name": "Dual Revolution Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-05-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680503_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680503/digimon-card-game-dual-revolution-dual-revolution-booster-box"
+        },
+        {
+          "tcgplayerId": 680504,
+          "name": "Dual Revolution Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-05-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680504_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680504/digimon-card-game-dual-revolution-dual-revolution-booster-box-case"
+        }
+      ]
+    },
+    "24595": {
+      "name": "Time Stranger Release Event Cards",
+      "abbreviation": "BT-24_PR",
+      "modifiedOn": "2026-02-24T14:06:05.137",
+      "publishedOn": "2026-01-16",
+      "setId": "dgm-g24595",
+      "products": []
+    },
+    "24618": {
+      "name": "Starter Deck 23: Beatbreak",
+      "abbreviation": "ST-23",
+      "modifiedOn": "2026-08-05T21:53:30.6",
+      "publishedOn": "2026-05-15",
+      "setId": "dgm-g24618",
+      "products": [
+        {
+          "tcgplayerId": 680505,
+          "name": "Beatbreak Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2026-05-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680505_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680505/digimon-card-game-starter-deck-23-beatbreak-beatbreak-starter-deck"
+        },
+        {
+          "tcgplayerId": 680506,
+          "name": "Beatbreak Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-05-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680506/digimon-card-game-starter-deck-23-beatbreak-beatbreak-starter-deck-display"
+        }
+      ]
+    },
+    "24619": {
+      "name": "Starter Deck 24: Data Squad",
+      "abbreviation": "ST-24",
+      "modifiedOn": "2026-08-05T21:56:03.1",
+      "publishedOn": "2026-05-15",
+      "setId": "dgm-g24619",
+      "products": [
+        {
+          "tcgplayerId": 680507,
+          "name": "Data Squad Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2026-05-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680507_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680507/digimon-card-game-starter-deck-24-data-squad-data-squad-starter-deck"
+        },
+        {
+          "tcgplayerId": 680508,
+          "name": "Data Squad Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-05-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680508_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680508/digimon-card-game-starter-deck-24-data-squad-data-squad-starter-deck-display"
+        }
+      ]
+    },
+    "24623": {
+      "name": "Timeless Bonds",
+      "abbreviation": "BT-26",
+      "modifiedOn": "2026-09-03T12:27:09.467",
+      "publishedOn": "2026-09-04",
+      "setId": "dgm-g24623",
+      "products": [
+        {
+          "tcgplayerId": 679248,
+          "name": "Timeless Bonds Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-09-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679248_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679248/digimon-card-game-timeless-bonds-timeless-bonds-booster-pack"
+        },
+        {
+          "tcgplayerId": 679250,
+          "name": "Timeless Bonds Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-09-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679250_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679250/digimon-card-game-timeless-bonds-timeless-bonds-booster-box"
+        },
+        {
+          "tcgplayerId": 679252,
+          "name": "Timeless Bonds Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-09-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679252_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679252/digimon-card-game-timeless-bonds-timeless-bonds-booster-box-case"
+        },
+        {
+          "tcgplayerId": 714955,
+          "name": "Timeless Bonds Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-09-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714955_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714955/digimon-card-game-timeless-bonds-timeless-bonds-release-event-pack"
+        }
+      ]
+    },
+    "24627": {
+      "name": "Dual Revolution Release Event Cards",
+      "abbreviation": "BT-25_PR",
+      "modifiedOn": "2026-07-16T18:29:23.08",
+      "publishedOn": "2026-05-15",
+      "setId": "dgm-g24627",
+      "products": [
+        {
+          "tcgplayerId": 694588,
+          "name": "Dual Revolution Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-05-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694588/digimon-card-game-dual-revolution-release-event-cards-dual-revolution-release-event-pack"
+        }
+      ]
+    },
+    "24628": {
+      "name": "Starter Deck 23: Beatbreak Release Event Cards",
+      "abbreviation": "ST-23_PR",
+      "modifiedOn": "2026-06-29T18:53:02.323",
+      "publishedOn": "2026-05-08",
+      "setId": "dgm-g24628",
+      "products": [
+        {
+          "tcgplayerId": 694371,
+          "name": "Welcome Tamers Pack Vol.2 (ST-23 & ST-24)",
+          "kind": "booster",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694371_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694371/digimon-card-game-starter-deck-23-beatbreak-release-event-cards-welcome-tamers-pack-vol2-st-23-and-st-24"
+        }
+      ]
+    },
+    "24629": {
+      "name": "Starter Deck 24: Data Squad Release Event Cards",
+      "abbreviation": "ST-24_PR",
+      "modifiedOn": "2026-06-29T18:53:21.39",
+      "publishedOn": "2026-05-08",
+      "setId": "dgm-g24629",
+      "products": []
+    },
+    "24630": {
+      "name": "Digital World Shambala",
+      "abbreviation": "EX-12",
+      "modifiedOn": "2026-08-18T18:05:55.32",
+      "publishedOn": "2026-07-03",
+      "setId": "dgm-g24630",
+      "products": [
+        {
+          "tcgplayerId": 680509,
+          "name": "Digital World Shambala Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-07-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680509_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680509/digimon-card-game-digital-world-shambala-digital-world-shambala-booster-pack"
+        },
+        {
+          "tcgplayerId": 680510,
+          "name": "Digital World Shambala Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-07-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680510_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680510/digimon-card-game-digital-world-shambala-digital-world-shambala-booster-box"
+        },
+        {
+          "tcgplayerId": 680511,
+          "name": "Digital World Shambala Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-07-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680511_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680511/digimon-card-game-digital-world-shambala-digital-world-shambala-booster-box-case"
+        }
+      ]
+    },
+    "24631": {
+      "name": "Limited Card Pack -Final Crest-",
+      "abbreviation": "LM-08",
+      "modifiedOn": "2026-08-10T14:23:17.887",
+      "publishedOn": "2026-08-07",
+      "setId": "dgm-g24631",
+      "products": [
+        {
+          "tcgplayerId": 680512,
+          "name": "Limited Card Pack -Final Crest- (Sealed Promotional Pack)",
+          "kind": "booster",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680512_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680512/digimon-card-game-limited-card-pack-final-crest-limited-card-pack-final-crest-sealed-promotional-pack"
+        }
+      ]
+    },
+    "24635": {
+      "name": "Chivalrous XIII",
+      "abbreviation": "EX-13",
+      "modifiedOn": "2026-09-21T19:31:17.033",
+      "publishedOn": "2026-10-02",
+      "setId": "dgm-g24635",
+      "products": [
+        {
+          "tcgplayerId": 711380,
+          "name": "Chivalrous XIII - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711380_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711380/digimon-card-game-chivalrous-xiii-chivalrous-xiii-booster-pack"
+        },
+        {
+          "tcgplayerId": 711381,
+          "name": "Chivalrous XIII - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-10-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711381_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711381/digimon-card-game-chivalrous-xiii-chivalrous-xiii-booster-box"
+        },
+        {
+          "tcgplayerId": 711382,
+          "name": "Chivalrous XIII - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-10-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711382_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711382/digimon-card-game-chivalrous-xiii-chivalrous-xiii-booster-box-case"
+        }
+      ]
+    },
+    "24824": {
+      "name": "Timeless Bonds Release Event Cards",
+      "abbreviation": "BT-26",
+      "modifiedOn": "2026-09-04T12:52:49.797",
+      "publishedOn": "2026-08-28",
+      "setId": "dgm-g24824",
+      "products": []
+    },
+    "24865": {
+      "name": "Ignition of X",
+      "abbreviation": "BT27",
+      "modifiedOn": "2026-10-16T19:47:13.987",
+      "publishedOn": "2026-12-11",
+      "setId": "dgm-g24865",
+      "products": [
+        {
+          "tcgplayerId": 714848,
+          "name": "Ignition of X Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714848_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714848/digimon-card-game-ignition-of-x-ignition-of-x-booster-pack"
+        },
+        {
+          "tcgplayerId": 714850,
+          "name": "Ignition of X Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714850_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714850/digimon-card-game-ignition-of-x-ignition-of-x-booster-box"
+        },
+        {
+          "tcgplayerId": 714851,
+          "name": "Ignition of X Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714851_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714851/digimon-card-game-ignition-of-x-ignition-of-x-booster-box-case"
+        }
+      ]
+    },
+    "24866": {
+      "name": "Ignition of X Release Event Cards",
+      "abbreviation": "BT27_RE",
+      "modifiedOn": "2026-09-02T13:54:22.173",
+      "publishedOn": "2026-12-11",
+      "setId": "dgm-g24866",
+      "products": []
+    }
+  }
+}

@@ -1,0 +1,1696 @@
+{
+  "version": 1,
+  "game": "lorcana",
+  "lang": "en",
+  "products": [
+    {
+      "id": "lor-en-tcp723333",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Into the Inkdark Collector Booster Display",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723333_200w.jpg",
+      "source": {
+        "tcgplayer": 723333
+      }
+    },
+    {
+      "id": "lor-en-tcp723335",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Into the Inkdark Collector Booster Pack",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723335_200w.jpg",
+      "source": {
+        "tcgplayer": 723335
+      }
+    },
+    {
+      "id": "lor-en-tcp723336",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Into the Inkdark Booster Box",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723336_200w.jpg",
+      "source": {
+        "tcgplayer": 723336
+      }
+    },
+    {
+      "id": "lor-en-tcp723341",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Into the Inkdark Booster Pack",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723341_200w.jpg",
+      "source": {
+        "tcgplayer": 723341
+      }
+    },
+    {
+      "id": "lor-en-tcp723342",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Into the Inkdark Sleeved Booster Pack",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723342_200w.jpg",
+      "source": {
+        "tcgplayer": 723342
+      }
+    },
+    {
+      "id": "lor-en-tcp723343",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Into the Inkdark Illumineer's Trove",
+      "lang": "en",
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723343_200w.jpg",
+      "source": {
+        "tcgplayer": 723343
+      }
+    },
+    {
+      "id": "lor-en-tcp719729",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Hyperia City Gift Box - Beast",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/719729_200w.jpg",
+      "source": {
+        "tcgplayer": 719729
+      }
+    },
+    {
+      "id": "lor-en-tcp706239",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Hyperia City Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706239_200w.jpg",
+      "source": {
+        "tcgplayer": 706239
+      }
+    },
+    {
+      "id": "lor-en-tcp706241",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Hyperia City Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706241_200w.jpg",
+      "source": {
+        "tcgplayer": 706241
+      }
+    },
+    {
+      "id": "lor-en-tcp706242",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Hyperia City Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706242_200w.jpg",
+      "source": {
+        "tcgplayer": 706242
+      }
+    },
+    {
+      "id": "lor-en-tcp706243",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Hyperia City Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706243_200w.jpg",
+      "source": {
+        "tcgplayer": 706243
+      }
+    },
+    {
+      "id": "lor-en-tcp717854",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Hyperia City 2-Player Starter Set",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/717854_200w.jpg",
+      "source": {
+        "tcgplayer": 717854
+      }
+    },
+    {
+      "id": "lor-en-tcp706245",
+      "game": "lorcana",
+      "kind": "build_battle",
+      "name": "Disney Lorcana: Hyperia City Prerelease Box",
+      "lang": "en",
+      "setIds": [
+        "lor-14"
+      ],
+      "releasedAt": "2026-10-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706245_200w.jpg",
+      "source": {
+        "tcgplayer": 706245
+      }
+    },
+    {
+      "id": "lor-en-tcp701135",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Illumineer's Quest: The Great Hunny Rescue",
+      "lang": "en",
+      "setIds": [
+        "lor-Q3"
+      ],
+      "releasedAt": "2026-10-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/701135_200w.jpg",
+      "source": {
+        "tcgplayer": 701135
+      }
+    },
+    {
+      "id": "lor-en-tcp696136",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Attack of the Vine! Collection Starter Set - Rapunzel Edition",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-09-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696136_200w.jpg",
+      "source": {
+        "tcgplayer": 696136
+      }
+    },
+    {
+      "id": "lor-en-tcp690384",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Attack of the Vine! Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690384_200w.jpg",
+      "source": {
+        "tcgplayer": 690384
+      }
+    },
+    {
+      "id": "lor-en-tcp690386",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Attack of the Vine! Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690386_200w.jpg",
+      "source": {
+        "tcgplayer": 690386
+      }
+    },
+    {
+      "id": "lor-en-tcp690387",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Attack of the Vine! Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690387_200w.jpg",
+      "source": {
+        "tcgplayer": 690387
+      }
+    },
+    {
+      "id": "lor-en-tcp690388",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Attack of the Vine! Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690388_200w.jpg",
+      "source": {
+        "tcgplayer": 690388
+      }
+    },
+    {
+      "id": "lor-en-tcp690389",
+      "game": "lorcana",
+      "kind": "build_battle",
+      "name": "Disney Lorcana: Attack of the Vine! Prerelease Box",
+      "lang": "en",
+      "setIds": [
+        "lor-13"
+      ],
+      "releasedAt": "2026-07-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690389_200w.jpg",
+      "source": {
+        "tcgplayer": 690389
+      }
+    },
+    {
+      "id": "lor-en-tcp678165",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Wilds Unknown Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678165_200w.jpg",
+      "source": {
+        "tcgplayer": 678165
+      }
+    },
+    {
+      "id": "lor-en-tcp678167",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Wilds Unknown Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678167_200w.jpg",
+      "source": {
+        "tcgplayer": 678167
+      }
+    },
+    {
+      "id": "lor-en-tcp678168",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Wilds Unknown Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678168_200w.jpg",
+      "source": {
+        "tcgplayer": 678168
+      }
+    },
+    {
+      "id": "lor-en-tcp682038",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Wilds Unknown 2-Player Starter Set",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682038_200w.jpg",
+      "source": {
+        "tcgplayer": 682038
+      }
+    },
+    {
+      "id": "lor-en-tcp682040",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Wilds Unknown Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682040_200w.jpg",
+      "source": {
+        "tcgplayer": 682040
+      }
+    },
+    {
+      "id": "lor-en-tcp682077",
+      "game": "lorcana",
+      "kind": "build_battle",
+      "name": "Disney Lorcana: Wilds Unknown Prerelease Box",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682077_200w.jpg",
+      "source": {
+        "tcgplayer": 682077
+      }
+    },
+    {
+      "id": "lor-en-tcp719823",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Wilds Unknown Best Buddies Bundle",
+      "lang": "en",
+      "setIds": [
+        "lor-12"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/719823_200w.jpg",
+      "source": {
+        "tcgplayer": 719823
+      }
+    },
+    {
+      "id": "lor-en-tcp668328",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Winterspell Gift Box - Scrooge McDuck",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-03-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668328_200w.jpg",
+      "source": {
+        "tcgplayer": 668328
+      }
+    },
+    {
+      "id": "lor-en-tcp668330",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Winterspell Collection Starter Set - Stitch Edition",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-03-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668330_200w.jpg",
+      "source": {
+        "tcgplayer": 668330
+      }
+    },
+    {
+      "id": "lor-en-tcp664819",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Winterspell Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-02-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664819_200w.jpg",
+      "source": {
+        "tcgplayer": 664819
+      }
+    },
+    {
+      "id": "lor-en-tcp664821",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Winterspell Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-02-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664821_200w.jpg",
+      "source": {
+        "tcgplayer": 664821
+      }
+    },
+    {
+      "id": "lor-en-tcp664822",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Winterspell Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-02-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664822_200w.jpg",
+      "source": {
+        "tcgplayer": 664822
+      }
+    },
+    {
+      "id": "lor-en-tcp664826",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Winterspell Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-11"
+      ],
+      "releasedAt": "2026-02-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664826_200w.jpg",
+      "source": {
+        "tcgplayer": 664826
+      }
+    },
+    {
+      "id": "lor-en-tcp652701",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Whispers in the Well Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652701_200w.jpg",
+      "source": {
+        "tcgplayer": 652701
+      }
+    },
+    {
+      "id": "lor-en-tcp652703",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Whispers in the Well Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652703_200w.jpg",
+      "source": {
+        "tcgplayer": 652703
+      }
+    },
+    {
+      "id": "lor-en-tcp652705",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Whispers in the Well Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652705_200w.jpg",
+      "source": {
+        "tcgplayer": 652705
+      }
+    },
+    {
+      "id": "lor-en-tcp652706",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Whispers in the Well Starter Deck (Sapphire & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652706_200w.jpg",
+      "source": {
+        "tcgplayer": 652706
+      }
+    },
+    {
+      "id": "lor-en-tcp652707",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Whispers in the Well Starter Deck (Amber & Emerald)",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652707_200w.jpg",
+      "source": {
+        "tcgplayer": 652707
+      }
+    },
+    {
+      "id": "lor-en-tcp652709",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Whispers in the Well Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-10"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652709_200w.jpg",
+      "source": {
+        "tcgplayer": 652709
+      }
+    },
+    {
+      "id": "lor-en-tcp646033",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Fabled Collection Starter Set",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-10-03",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646033_200w.jpg",
+      "source": {
+        "tcgplayer": 646033
+      }
+    },
+    {
+      "id": "lor-en-tcp645298",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Fabled Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-09-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645298_200w.jpg",
+      "source": {
+        "tcgplayer": 645298
+      }
+    },
+    {
+      "id": "lor-en-tcp645305",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Fabled Starter Deck (Emerald & Ruby)",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-09-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645305_200w.jpg",
+      "source": {
+        "tcgplayer": 645305
+      }
+    },
+    {
+      "id": "lor-en-tcp645306",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Fabled Starter Deck (Amber & Sapphire)",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-09-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645306_200w.jpg",
+      "source": {
+        "tcgplayer": 645306
+      }
+    },
+    {
+      "id": "lor-en-tcp645299",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Fabled Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-08-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645299_200w.jpg",
+      "source": {
+        "tcgplayer": 645299
+      }
+    },
+    {
+      "id": "lor-en-tcp645308",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Fabled Gift Set",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-08-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645308_200w.jpg",
+      "source": {
+        "tcgplayer": 645308
+      }
+    },
+    {
+      "id": "lor-en-tcp649927",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Fabled Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-08-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649927_200w.jpg",
+      "source": {
+        "tcgplayer": 649927
+      }
+    },
+    {
+      "id": "lor-en-tcp652306",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Fabled Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-9"
+      ],
+      "releasedAt": "2025-08-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/652306_200w.jpg",
+      "source": {
+        "tcgplayer": 652306
+      }
+    },
+    {
+      "id": "lor-en-tcp623058",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck (Amber & Amethyst)",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623058_200w.jpg",
+      "source": {
+        "tcgplayer": 623058
+      }
+    },
+    {
+      "id": "lor-en-tcp623059",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck (Ruby & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623059_200w.jpg",
+      "source": {
+        "tcgplayer": 623059
+      }
+    },
+    {
+      "id": "lor-en-tcp623061",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Reign of Jafar Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623061_200w.jpg",
+      "source": {
+        "tcgplayer": 623061
+      }
+    },
+    {
+      "id": "lor-en-tcp623062",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Reign of Jafar Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623062_200w.jpg",
+      "source": {
+        "tcgplayer": 623062
+      }
+    },
+    {
+      "id": "lor-en-tcp623063",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Reign of Jafar Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623063_200w.jpg",
+      "source": {
+        "tcgplayer": 623063
+      }
+    },
+    {
+      "id": "lor-en-tcp623064",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Reign of Jafar Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-8"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623064_200w.jpg",
+      "source": {
+        "tcgplayer": 623064
+      }
+    },
+    {
+      "id": "lor-en-tcp623065",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Illumineer's Quest: Palace Heist",
+      "lang": "en",
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/623065_200w.jpg",
+      "source": {
+        "tcgplayer": 623065
+      }
+    },
+    {
+      "id": "lor-en-tcp607758",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Archazia's Island Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607758_200w.jpg",
+      "source": {
+        "tcgplayer": 607758
+      }
+    },
+    {
+      "id": "lor-en-tcp607760",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Archazia's Island Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607760_200w.jpg",
+      "source": {
+        "tcgplayer": 607760
+      }
+    },
+    {
+      "id": "lor-en-tcp607761",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Archazia's Island Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607761_200w.jpg",
+      "source": {
+        "tcgplayer": 607761
+      }
+    },
+    {
+      "id": "lor-en-tcp607762",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Archazia's Island Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607762_200w.jpg",
+      "source": {
+        "tcgplayer": 607762
+      }
+    },
+    {
+      "id": "lor-en-tcp607763",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Archazia's Island Sleeved Booster Pack Art Bundle",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607763_200w.jpg",
+      "source": {
+        "tcgplayer": 607763
+      }
+    },
+    {
+      "id": "lor-en-tcp607765",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Archazia's Island Gift Box",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607765_200w.jpg",
+      "source": {
+        "tcgplayer": 607765
+      }
+    },
+    {
+      "id": "lor-en-tcp607802",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Archazia's Island Starter Deck (Ruby & Sapphire)",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607802_200w.jpg",
+      "source": {
+        "tcgplayer": 607802
+      }
+    },
+    {
+      "id": "lor-en-tcp607803",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Archazia's Island Starter Deck (Amethyst & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-7"
+      ],
+      "releasedAt": "2025-03-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607803_200w.jpg",
+      "source": {
+        "tcgplayer": 607803
+      }
+    },
+    {
+      "id": "lor-en-tcp578093",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Azurite Sea Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578093_200w.jpg",
+      "source": {
+        "tcgplayer": 578093
+      }
+    },
+    {
+      "id": "lor-en-tcp578095",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Azurite Sea Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578095_200w.jpg",
+      "source": {
+        "tcgplayer": 578095
+      }
+    },
+    {
+      "id": "lor-en-tcp578121",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Azurite Sea Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578121_200w.jpg",
+      "source": {
+        "tcgplayer": 578121
+      }
+    },
+    {
+      "id": "lor-en-tcp578122",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Stitch Collector's Gift Set",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578122_200w.jpg",
+      "source": {
+        "tcgplayer": 578122
+      }
+    },
+    {
+      "id": "lor-en-tcp578123",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Azurite Sea Starter Deck (Amber & Ruby)",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578123_200w.jpg",
+      "source": {
+        "tcgplayer": 578123
+      }
+    },
+    {
+      "id": "lor-en-tcp578124",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Azurite Sea Starter Deck (Emerald & Sapphire)",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578124_200w.jpg",
+      "source": {
+        "tcgplayer": 578124
+      }
+    },
+    {
+      "id": "lor-en-tcp593831",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Azurite Sea Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-6"
+      ],
+      "releasedAt": "2024-11-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/593831_200w.jpg",
+      "source": {
+        "tcgplayer": 593831
+      }
+    },
+    {
+      "id": "lor-en-tcp555130",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Shimmering Skies Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555130_200w.jpg",
+      "source": {
+        "tcgplayer": 555130
+      }
+    },
+    {
+      "id": "lor-en-tcp555142",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Shimmering Skies Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555142_200w.jpg",
+      "source": {
+        "tcgplayer": 555142
+      }
+    },
+    {
+      "id": "lor-en-tcp555143",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Gateway",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555143_200w.jpg",
+      "source": {
+        "tcgplayer": 555143
+      }
+    },
+    {
+      "id": "lor-en-tcp555144",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck (Amethyst & Ruby)",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555144_200w.jpg",
+      "source": {
+        "tcgplayer": 555144
+      }
+    },
+    {
+      "id": "lor-en-tcp555145",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck (Emerald & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555145_200w.jpg",
+      "source": {
+        "tcgplayer": 555145
+      }
+    },
+    {
+      "id": "lor-en-tcp555148",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Shimmering Skies Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555148_200w.jpg",
+      "source": {
+        "tcgplayer": 555148
+      }
+    },
+    {
+      "id": "lor-en-tcp565133",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Shimmering Skies Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-5"
+      ],
+      "releasedAt": "2024-08-09",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/565133_200w.jpg",
+      "source": {
+        "tcgplayer": 565133
+      }
+    },
+    {
+      "id": "lor-en-tcp543859",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Ursula's Return Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543859_200w.jpg",
+      "source": {
+        "tcgplayer": 543859
+      }
+    },
+    {
+      "id": "lor-en-tcp543860",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Ursula's Return Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543860_200w.jpg",
+      "source": {
+        "tcgplayer": 543860
+      }
+    },
+    {
+      "id": "lor-en-tcp543861",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Ursula's Return Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543861_200w.jpg",
+      "source": {
+        "tcgplayer": 543861
+      }
+    },
+    {
+      "id": "lor-en-tcp543863",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Ursula's Return Starter Deck (Amber & Amethyst)",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543863_200w.jpg",
+      "source": {
+        "tcgplayer": 543863
+      }
+    },
+    {
+      "id": "lor-en-tcp543864",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Ursula's Return Starter Deck (Sapphire & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543864_200w.jpg",
+      "source": {
+        "tcgplayer": 543864
+      }
+    },
+    {
+      "id": "lor-en-tcp543862",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Illumineer's Quest: Deep Trouble",
+      "lang": "en",
+      "releasedAt": "2024-05-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543862_200w.jpg",
+      "source": {
+        "tcgplayer": 543862
+      }
+    },
+    {
+      "id": "lor-en-tcp553902",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Ursula's Return Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-4"
+      ],
+      "releasedAt": "2024-05-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/553902_200w.jpg",
+      "source": {
+        "tcgplayer": 553902
+      }
+    },
+    {
+      "id": "lor-en-tcp531521",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Into the Inklands Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531521_200w.jpg",
+      "source": {
+        "tcgplayer": 531521
+      }
+    },
+    {
+      "id": "lor-en-tcp531523",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Into the Inklands Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531523_200w.jpg",
+      "source": {
+        "tcgplayer": 531523
+      }
+    },
+    {
+      "id": "lor-en-tcp531524",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Into the Inklands Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531524_200w.jpg",
+      "source": {
+        "tcgplayer": 531524
+      }
+    },
+    {
+      "id": "lor-en-tcp531526",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Into the Inklands Starter Deck (Amber & Emerald)",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531526_200w.jpg",
+      "source": {
+        "tcgplayer": 531526
+      }
+    },
+    {
+      "id": "lor-en-tcp531527",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Into the Inklands Starter Deck (Ruby & Sapphire)",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531527_200w.jpg",
+      "source": {
+        "tcgplayer": 531527
+      }
+    },
+    {
+      "id": "lor-en-tcp531528",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Into the Inklands Gift Set",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531528_200w.jpg",
+      "source": {
+        "tcgplayer": 531528
+      }
+    },
+    {
+      "id": "lor-en-tcp543932",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Into the Inklands Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543932_200w.jpg",
+      "source": {
+        "tcgplayer": 543932
+      }
+    },
+    {
+      "id": "lor-en-tcp614148",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Into the Inklands Bundle",
+      "lang": "en",
+      "setIds": [
+        "lor-3"
+      ],
+      "releasedAt": "2024-02-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614148_200w.jpg",
+      "source": {
+        "tcgplayer": 614148
+      }
+    },
+    {
+      "id": "lor-en-tcp516276",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: Rise of the Floodborn Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516276_200w.jpg",
+      "source": {
+        "tcgplayer": 516276
+      }
+    },
+    {
+      "id": "lor-en-tcp516277",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Rise of the Floodborn Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516277_200w.jpg",
+      "source": {
+        "tcgplayer": 516277
+      }
+    },
+    {
+      "id": "lor-en-tcp516281",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Disney Lorcana: Disney100 Collector's Edition",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516281_200w.jpg",
+      "source": {
+        "tcgplayer": 516281
+      }
+    },
+    {
+      "id": "lor-en-tcp516290",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck (Amber & Sapphire)",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516290_200w.jpg",
+      "source": {
+        "tcgplayer": 516290
+      }
+    },
+    {
+      "id": "lor-en-tcp516293",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck (Amethyst & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516293_200w.jpg",
+      "source": {
+        "tcgplayer": 516293
+      }
+    },
+    {
+      "id": "lor-en-tcp516297",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Rise of the Floodborn Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516297_200w.jpg",
+      "source": {
+        "tcgplayer": 516297
+      }
+    },
+    {
+      "id": "lor-en-tcp529695",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: Rise of the Floodborn Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-2"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/529695_200w.jpg",
+      "source": {
+        "tcgplayer": 529695
+      }
+    },
+    {
+      "id": "lor-en-tcp482406",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: The First Chapter Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482406_200w.jpg",
+      "source": {
+        "tcgplayer": 482406
+      }
+    },
+    {
+      "id": "lor-en-tcp482407",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: The First Chapter Gift Set",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482407_200w.jpg",
+      "source": {
+        "tcgplayer": 482407
+      }
+    },
+    {
+      "id": "lor-en-tcp482411",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: The First Chapter Illumineer's Trove",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482411_200w.jpg",
+      "source": {
+        "tcgplayer": 482411
+      }
+    },
+    {
+      "id": "lor-en-tcp482417",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Amber & Amethyst)",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482417_200w.jpg",
+      "source": {
+        "tcgplayer": 482417
+      }
+    },
+    {
+      "id": "lor-en-tcp482418",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Emerald & Ruby)",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482418_200w.jpg",
+      "source": {
+        "tcgplayer": 482418
+      }
+    },
+    {
+      "id": "lor-en-tcp482419",
+      "game": "lorcana",
+      "kind": "deck",
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Sapphire & Steel)",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/482419_200w.jpg",
+      "source": {
+        "tcgplayer": 482419
+      }
+    },
+    {
+      "id": "lor-en-tcp485256",
+      "game": "lorcana",
+      "kind": "booster_box",
+      "name": "Disney Lorcana: The First Chapter Booster Box",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485256_200w.jpg",
+      "source": {
+        "tcgplayer": 485256
+      }
+    },
+    {
+      "id": "lor-en-tcp491182",
+      "game": "lorcana",
+      "kind": "booster",
+      "name": "Disney Lorcana: The First Chapter Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491182_200w.jpg",
+      "source": {
+        "tcgplayer": 491182
+      }
+    },
+    {
+      "id": "lor-en-tcp599719",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: The First Chapter Starter Blister Bundle",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/599719_200w.jpg",
+      "source": {
+        "tcgplayer": 599719
+      }
+    },
+    {
+      "id": "lor-en-tcp662116",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Collector Set Bundle",
+      "lang": "en",
+      "setIds": [
+        "lor-1"
+      ],
+      "releasedAt": "2023-08-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662116_200w.jpg",
+      "source": {
+        "tcgplayer": 662116
+      }
+    },
+    {
+      "id": "lor-en-tcp666352",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Portfolio Bundle",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/666352_200w.jpg",
+      "source": {
+        "tcgplayer": 666352
+      }
+    },
+    {
+      "id": "lor-en-tcp702474",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Curator's Collection: Heroines Edition",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/702474_200w.jpg",
+      "source": {
+        "tcgplayer": 702474
+      }
+    },
+    {
+      "id": "lor-en-tcp712752",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: Curator's Collection: Beauty and the Beast Edition",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712752_200w.jpg",
+      "source": {
+        "tcgplayer": 712752
+      }
+    },
+    {
+      "id": "lor-en-tcp721004",
+      "game": "lorcana",
+      "kind": "bundle",
+      "name": "Disney Lorcana: Wonder Bundle",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721004_200w.jpg",
+      "source": {
+        "tcgplayer": 721004
+      }
+    },
+    {
+      "id": "lor-en-tcp454414",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "D23 Expo Promo Set - 2022",
+      "lang": "en",
+      "setIds": [
+        "lor-D23"
+      ],
+      "releasedAt": "2022-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/454414_200w.jpg",
+      "source": {
+        "tcgplayer": 454414
+      }
+    },
+    {
+      "id": "lor-en-tcp559531",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: D23 Collection - 2024",
+      "lang": "en",
+      "setIds": [
+        "lor-D23"
+      ],
+      "releasedAt": "2022-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/559531_200w.jpg",
+      "source": {
+        "tcgplayer": 559531
+      }
+    },
+    {
+      "id": "lor-en-tcp711071",
+      "game": "lorcana",
+      "kind": "collection",
+      "name": "Disney Lorcana: D23 Collection - 2026",
+      "lang": "en",
+      "setIds": [
+        "lor-D23"
+      ],
+      "releasedAt": "2022-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711071_200w.jpg",
+      "source": {
+        "tcgplayer": 711071
+      }
+    }
+  ]
+}

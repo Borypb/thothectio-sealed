@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "game": "palworld",
+  "lang": "en",
+  "products": [
+    {
+      "id": "pal-en-tcp716519",
+      "game": "palworld",
+      "kind": "booster_box",
+      "name": "Legends Awaken Booster Box",
+      "lang": "en",
+      "setIds": [
+        "pal-g24850"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716519_200w.jpg",
+      "source": {
+        "tcgplayer": 716519
+      }
+    },
+    {
+      "id": "pal-en-tcp716521",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "Legends Awaken Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "pal-g24850"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716521_200w.jpg",
+      "source": {
+        "tcgplayer": 716521
+      }
+    },
+    {
+      "id": "pal-en-tcp713786",
+      "game": "palworld",
+      "kind": "booster_box",
+      "name": "Dawn of Palpagos Booster Box",
+      "lang": "en",
+      "setIds": [
+        "pal-g24842"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713786_200w.jpg",
+      "source": {
+        "tcgplayer": 713786
+      }
+    },
+    {
+      "id": "pal-en-tcp713787",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "Dawn of Palpagos Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "pal-g24842"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713787_200w.jpg",
+      "source": {
+        "tcgplayer": 713787
+      }
+    },
+    {
+      "id": "pal-en-tcp713791",
+      "game": "palworld",
+      "kind": "deck",
+      "name": "Dawn of Palpagos Red•Blue Trial Deck",
+      "lang": "en",
+      "setIds": [
+        "pal-g24843"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713791_200w.jpg",
+      "source": {
+        "tcgplayer": 713791
+      }
+    },
+    {
+      "id": "pal-en-tcp713795",
+      "game": "palworld",
+      "kind": "deck",
+      "name": "Dawn of Palpagos Green•Purple Trial Deck",
+      "lang": "en",
+      "setIds": [
+        "pal-g24844"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713795_200w.jpg",
+      "source": {
+        "tcgplayer": 713795
+      }
+    },
+    {
+      "id": "pal-en-tcp722750",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "PR Card Pack Vol.1",
+      "lang": "en",
+      "setIds": [
+        "pal-g24851"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722750_200w.jpg",
+      "source": {
+        "tcgplayer": 722750
+      }
+    }
+  ]
+}

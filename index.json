@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updatedAt": "2026-10-16",
+  "version": 15,
+  "updatedAt": "2026-10-18",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -39,6 +39,78 @@
           "count": 748
         }
       }
+    },
+    "onepiece": {
+      "files": {
+        "en": {
+          "file": "onepiece-en.json",
+          "version": 1,
+          "count": 311
+        }
+      }
+    },
+    "magic": {
+      "files": {
+        "en": {
+          "file": "magic-en.json",
+          "version": 1,
+          "count": 3268
+        }
+      }
+    },
+    "yugioh": {
+      "files": {
+        "en": {
+          "file": "yugioh-en.json",
+          "version": 1,
+          "count": 1065
+        }
+      }
+    },
+    "lorcana": {
+      "files": {
+        "en": {
+          "file": "lorcana-en.json",
+          "version": 1,
+          "count": 115
+        }
+      }
+    },
+    "digimon": {
+      "files": {
+        "en": {
+          "file": "digimon-en.json",
+          "version": 1,
+          "count": 259
+        }
+      }
+    },
+    "dragonball": {
+      "files": {
+        "en": {
+          "file": "dragonball-en.json",
+          "version": 1,
+          "count": 139
+        }
+      }
+    },
+    "riftbound": {
+      "files": {
+        "en": {
+          "file": "riftbound-en.json",
+          "version": 1,
+          "count": 53
+        }
+      }
+    },
+    "palworld": {
+      "files": {
+        "en": {
+          "file": "palworld-en.json",
+          "version": 1,
+          "count": 7
+        }
+      }
     }
   },
   "prices": {
@@ -46,6 +118,46 @@
       "file": "prices-pokemon.json",
       "date": "2026-10-18",
       "count": 3234
+    },
+    "onepiece": {
+      "file": "prices-onepiece.json",
+      "date": "2026-10-18",
+      "count": 383
+    },
+    "magic": {
+      "file": "prices-magic.json",
+      "date": "2026-10-18",
+      "count": 3155
+    },
+    "yugioh": {
+      "file": "prices-yugioh.json",
+      "date": "2026-10-18",
+      "count": 964
+    },
+    "lorcana": {
+      "file": "prices-lorcana.json",
+      "date": "2026-10-18",
+      "count": 152
+    },
+    "digimon": {
+      "file": "prices-digimon.json",
+      "date": "2026-10-18",
+      "count": 290
+    },
+    "dragonball": {
+      "file": "prices-dragonball.json",
+      "date": "2026-10-18",
+      "count": 146
+    },
+    "riftbound": {
+      "file": "prices-riftbound.json",
+      "date": "2026-10-18",
+      "count": 67
+    },
+    "palworld": {
+      "file": "prices-palworld.json",
+      "date": "2026-10-18",
+      "count": 13
     }
   }
 }

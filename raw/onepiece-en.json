@@ -1,0 +1,4151 @@
+{
+  "game": "onepiece",
+  "lang": "en",
+  "categoryId": 68,
+  "harvestedAt": "2026-10-18T18:26:40.069Z",
+  "groups": {
+    "3188": {
+      "name": "Romance Dawn",
+      "abbreviation": "OP01",
+      "modifiedOn": "2026-01-16T19:07:04.12",
+      "publishedOn": "2022-12-02",
+      "setId": "op-op01",
+      "products": [
+        {
+          "tcgplayerId": 450085,
+          "name": "Romance Dawn - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450085_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450085/one-piece-card-game-romance-dawn-romance-dawn-booster-pack"
+        },
+        {
+          "tcgplayerId": 450086,
+          "name": "Romance Dawn - Booster Box (Wave 1 - Blue)",
+          "kind": "booster_box",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450086_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450086/one-piece-card-game-romance-dawn-romance-dawn-booster-box-wave-1-blue"
+        },
+        {
+          "tcgplayerId": 450087,
+          "name": "Romance Dawn - Booster Box Case (Wave 2 - White)",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450087_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450087/one-piece-card-game-romance-dawn-romance-dawn-booster-box-case-wave-2-white"
+        },
+        {
+          "tcgplayerId": 531774,
+          "name": "Romance Dawn - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531774_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531774/one-piece-card-game-romance-dawn-romance-dawn-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 532645,
+          "name": "Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532645_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532645/one-piece-card-game-romance-dawn-box-promotion-pack"
+        },
+        {
+          "tcgplayerId": 557280,
+          "name": "Romance Dawn - Booster Box (Wave 2 - White)",
+          "kind": "booster_box",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557280_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557280/one-piece-card-game-romance-dawn-romance-dawn-booster-box-wave-2-white"
+        },
+        {
+          "tcgplayerId": 650853,
+          "name": "Romance Dawn - Booster Box Case (Wave 1 - Blue)",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/650853_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/650853/one-piece-card-game-romance-dawn-romance-dawn-booster-box-case-wave-1-blue"
+        }
+      ]
+    },
+    "3189": {
+      "name": "ST-01: Starter Deck 1 Straw Hat Crew",
+      "abbreviation": "ST-01",
+      "modifiedOn": "2026-10-08T15:48:55.97",
+      "publishedOn": "2022-12-02",
+      "setId": "op-st01",
+      "products": [
+        {
+          "tcgplayerId": 288221,
+          "name": "Starter Deck 1: Straw Hat Crew",
+          "kind": "deck",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288221_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288221/one-piece-card-game-st-01-starter-deck-1-straw-hat-crew-starter-deck-1-straw-hat-crew"
+        },
+        {
+          "tcgplayerId": 288222,
+          "name": "Starter Deck 1: Straw Hat Crew Display",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288222_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288222/one-piece-card-game-st-01-starter-deck-1-straw-hat-crew-starter-deck-1-straw-hat-crew-display"
+        }
+      ]
+    },
+    "3190": {
+      "name": "ST-04: Starter Deck 4 Animal Kingdom Pirates",
+      "abbreviation": "ST-04",
+      "modifiedOn": "2026-10-08T15:50:29.21",
+      "publishedOn": "2022-12-02",
+      "setId": "op-st04",
+      "products": [
+        {
+          "tcgplayerId": 288223,
+          "name": "Starter Deck 4: Animal Kingdom Pirates Display",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288223_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288223/one-piece-card-game-st-04-starter-deck-4-animal-kingdom-pirates-starter-deck-4-animal-kingdom-pirates-display"
+        },
+        {
+          "tcgplayerId": 288224,
+          "name": "Starter Deck 4: Animal Kingdom Pirates",
+          "kind": "deck",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288224_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288224/one-piece-card-game-st-04-starter-deck-4-animal-kingdom-pirates-starter-deck-4-animal-kingdom-pirates"
+        }
+      ]
+    },
+    "3191": {
+      "name": "ST-02: Starter Deck 2 Worst Generation",
+      "abbreviation": "ST-02",
+      "modifiedOn": "2026-10-08T15:49:47.86",
+      "publishedOn": "2022-12-02",
+      "setId": "op-st02",
+      "products": [
+        {
+          "tcgplayerId": 288226,
+          "name": "Starter Deck 2: Worst Generation",
+          "kind": "deck",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288226_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288226/one-piece-card-game-st-02-starter-deck-2-worst-generation-starter-deck-2-worst-generation"
+        },
+        {
+          "tcgplayerId": 288231,
+          "name": "Starter Deck 2: Worst Generation Display",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288231_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288231/one-piece-card-game-st-02-starter-deck-2-worst-generation-starter-deck-2-worst-generation-display"
+        }
+      ]
+    },
+    "3192": {
+      "name": "ST-03: Starter Deck 3 The Seven Warlords of The Sea",
+      "abbreviation": "ST-03",
+      "modifiedOn": "2026-10-08T15:50:16.85",
+      "publishedOn": "2022-12-02",
+      "setId": "op-st03",
+      "products": [
+        {
+          "tcgplayerId": 288227,
+          "name": "Starter Deck 3: The Seven Warlords of The Sea",
+          "kind": "deck",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288227_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288227/one-piece-card-game-st-03-starter-deck-3-the-seven-warlords-of-the-sea-starter-deck-3-the-seven-warlords-of-the-sea"
+        },
+        {
+          "tcgplayerId": 288233,
+          "name": "Starter Deck 3: The Seven Warlords of The Sea Display",
+          "kind": "case",
+          "releasedOn": "2022-12-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/288233_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/288233/one-piece-card-game-st-03-starter-deck-3-the-seven-warlords-of-the-sea-starter-deck-3-the-seven-warlords-of-the-sea-display"
+        }
+      ]
+    },
+    "17658": {
+      "name": "ST-02: Starter Deck 2 Worst Generation (Super Pre-Release Edition)",
+      "abbreviation": "ST-02 PRE",
+      "modifiedOn": "2026-10-08T15:49:55.243",
+      "publishedOn": "2022-09-30",
+      "products": [
+        {
+          "tcgplayerId": 408197,
+          "name": "Super Pre-Release Starter Deck 2: Worst Generation",
+          "kind": "build_battle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/408197_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/408197/one-piece-card-game-st-02-starter-deck-2-worst-generation-super-pre-release-edition-super-pre-release-starter-deck-2-worst-generation"
+        },
+        {
+          "tcgplayerId": 408957,
+          "name": "Super Pre-Release Starter Deck 2: Worst Generation Display",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/408957_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/408957/one-piece-card-game-st-02-starter-deck-2-worst-generation-super-pre-release-edition-super-pre-release-starter-deck-2-worst-generation-display"
+        }
+      ]
+    },
+    "17659": {
+      "name": "ST-01: Starter Deck 1 Straw Hat Crew (Super Pre-Release Edition)",
+      "abbreviation": "ST-01 PRE",
+      "modifiedOn": "2026-10-08T15:49:40.697",
+      "publishedOn": "2022-09-30",
+      "products": [
+        {
+          "tcgplayerId": 409506,
+          "name": "Super Pre-Release Starter Deck 1: Straw Hat Crew",
+          "kind": "build_battle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/409506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/409506/one-piece-card-game-st-01-starter-deck-1-straw-hat-crew-super-pre-release-edition-super-pre-release-starter-deck-1-straw-hat-crew"
+        },
+        {
+          "tcgplayerId": 409743,
+          "name": "Super Pre-Release Starter Deck 1: Straw Hat Crew Display",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/409743_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/409743/one-piece-card-game-st-01-starter-deck-1-straw-hat-crew-super-pre-release-edition-super-pre-release-starter-deck-1-straw-hat-crew-display"
+        }
+      ]
+    },
+    "17660": {
+      "name": "ST-03: Starter Deck 3 The Seven Warlords of The Sea (Super Pre-Release Edition)",
+      "abbreviation": "ST-03 PRE",
+      "modifiedOn": "2026-10-08T15:50:23.713",
+      "publishedOn": "2022-09-30",
+      "products": [
+        {
+          "tcgplayerId": 411279,
+          "name": "Super Pre-Release Starter Deck 3: The Seven Warlords of The Sea",
+          "kind": "build_battle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/411279_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/411279/one-piece-card-game-st-03-starter-deck-3-the-seven-warlords-of-the-sea-super-pre-release-edition-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea"
+        },
+        {
+          "tcgplayerId": 412137,
+          "name": "Super Pre-Release Starter Deck 3: The Seven Warlords of The Sea Display",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/412137_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/412137/one-piece-card-game-st-03-starter-deck-3-the-seven-warlords-of-the-sea-super-pre-release-edition-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-display"
+        }
+      ]
+    },
+    "17661": {
+      "name": "ST-04: Starter Deck 4 Animal Kingdom Pirates (Super Pre-Release Edition)",
+      "abbreviation": "ST-04 PRE",
+      "modifiedOn": "2026-10-08T15:50:36.087",
+      "publishedOn": "2022-09-30",
+      "products": [
+        {
+          "tcgplayerId": 422137,
+          "name": "Super Pre-Release Starter Deck 4: Animal Kingdom Pirates",
+          "kind": "build_battle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422137_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/422137/one-piece-card-game-st-04-starter-deck-4-animal-kingdom-pirates-super-pre-release-edition-super-pre-release-starter-deck-4-animal-kingdom-pirates"
+        },
+        {
+          "tcgplayerId": 422760,
+          "name": "Super Pre-Release Starter Deck 4: Animal Kingdom Pirates Display",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/422760_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/422760/one-piece-card-game-st-04-starter-deck-4-animal-kingdom-pirates-super-pre-release-edition-super-pre-release-starter-deck-4-animal-kingdom-pirates-display"
+        }
+      ]
+    },
+    "17675": {
+      "name": "One Piece Promotion Cards",
+      "abbreviation": "OP-PR",
+      "modifiedOn": "2026-10-07T11:39:13.607",
+      "publishedOn": "2022-09-30",
+      "products": [
+        {
+          "tcgplayerId": 457013,
+          "name": "Tournament Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/457013_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/457013/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 457017,
+          "name": "Winner Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/457017_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/457017/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 457043,
+          "name": "Promotion Pack 2022",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/457043_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/457043/one-piece-card-game-one-piece-promotion-cards-promotion-pack-2022"
+        },
+        {
+          "tcgplayerId": 483109,
+          "name": "Promotion Pack 2023 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483109_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/483109/one-piece-card-game-one-piece-promotion-cards-promotion-pack-2023-vol-1"
+        },
+        {
+          "tcgplayerId": 483112,
+          "name": "Tournament Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483112_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/483112/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 483164,
+          "name": "Winner Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483164_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/483164/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 483165,
+          "name": "DON!! Card Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483165_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/483165/one-piece-card-game-one-piece-promotion-cards-don-card-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 483166,
+          "name": "Event Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/483166_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/483166/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 484943,
+          "name": "Gift Collection 2023",
+          "kind": "collection",
+          "releasedOn": "2023-10-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484943_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/484943/one-piece-card-game-one-piece-promotion-cards-gift-collection-2023"
+        },
+        {
+          "tcgplayerId": 485271,
+          "name": "Premium Card Collection 25th Edition",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/485271_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/485271/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-25th-edition"
+        },
+        {
+          "tcgplayerId": 488903,
+          "name": "One Piece Film Red Uta Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/488903_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/488903/one-piece-card-game-one-piece-promotion-cards-one-piece-film-red-uta-promo-pack"
+        },
+        {
+          "tcgplayerId": 493339,
+          "name": "DON!! Card Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493339_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493339/one-piece-card-game-one-piece-promotion-cards-don-card-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 493744,
+          "name": "Gift Collection 2023 Display",
+          "kind": "case",
+          "releasedOn": "2023-10-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493744_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493744/one-piece-card-game-one-piece-promotion-cards-gift-collection-2023-display"
+        },
+        {
+          "tcgplayerId": 497007,
+          "name": "Tournament Pack Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497007_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/497007/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-3"
+        },
+        {
+          "tcgplayerId": 497008,
+          "name": "Winner Pack Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497008_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/497008/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-3"
+        },
+        {
+          "tcgplayerId": 502570,
+          "name": "Judge Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502570_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502570/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 503251,
+          "name": "Tournament Pack Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503251_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503251/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-4"
+        },
+        {
+          "tcgplayerId": 503252,
+          "name": "Winner Pack Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/503252_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/503252/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-4"
+        },
+        {
+          "tcgplayerId": 504466,
+          "name": "Premium Card Collection -ONE PIECE FILM RED Edition-",
+          "kind": "collection",
+          "releasedOn": "2023-11-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504466_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/504466/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-one-piece-film-red-edition"
+        },
+        {
+          "tcgplayerId": 509458,
+          "name": "Event Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/509458_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/509458/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 514054,
+          "name": "Online Regional Participation Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514054_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/514054/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 514200,
+          "name": "Offline Regional Participation Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514200_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/514200/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 518704,
+          "name": "Sealed Battle Kit Vol. 1",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/518704_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/518704/one-piece-card-game-one-piece-promotion-cards-sealed-battle-kit-vol-1"
+        },
+        {
+          "tcgplayerId": 519829,
+          "name": "Tournament Pack Vol. 5",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519829_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/519829/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-5"
+        },
+        {
+          "tcgplayerId": 519831,
+          "name": "Winner Pack Vol. 5",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/519831_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/519831/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-5"
+        },
+        {
+          "tcgplayerId": 525294,
+          "name": "Premium Card Collection -Best Selection Vol. 1-",
+          "kind": "collection",
+          "releasedOn": "2024-04-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/525294_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/525294/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-1"
+        },
+        {
+          "tcgplayerId": 527128,
+          "name": "Premium Card Collection -Live Action Edition-",
+          "kind": "collection",
+          "releasedOn": "2024-04-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/527128_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/527128/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-live-action-edition"
+        },
+        {
+          "tcgplayerId": 536257,
+          "name": "Judge Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536257_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536257/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 536278,
+          "name": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536278_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536278/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-bandai-card-games-fest-23-24-edition"
+        },
+        {
+          "tcgplayerId": 537448,
+          "name": "Tournament Pack Vol. 6",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/537448_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/537448/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-6"
+        },
+        {
+          "tcgplayerId": 537449,
+          "name": "Winner Pack Vol. 6",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/537449_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/537449/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-6"
+        },
+        {
+          "tcgplayerId": 538837,
+          "name": "Premium Card Collection -Uta-",
+          "kind": "collection",
+          "releasedOn": "2024-08-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538837_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538837/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-uta"
+        },
+        {
+          "tcgplayerId": 539178,
+          "name": "Online Regional Participation Pack 2024 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539178_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/539178/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-2024-vol-1"
+        },
+        {
+          "tcgplayerId": 539179,
+          "name": "Event Pack Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539179_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/539179/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-3"
+        },
+        {
+          "tcgplayerId": 539204,
+          "name": "Offline Regional Participation Pack 2024 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/539204_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/539204/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-2024-vol-1"
+        },
+        {
+          "tcgplayerId": 544798,
+          "name": "Event Pack Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544798_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/544798/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-4"
+        },
+        {
+          "tcgplayerId": 544799,
+          "name": "Judge Pack Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544799_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/544799/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-3"
+        },
+        {
+          "tcgplayerId": 544800,
+          "name": "Online Regional Participation Pack 2024 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544800_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/544800/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-2024-vol-2"
+        },
+        {
+          "tcgplayerId": 544801,
+          "name": "Offline Regional Participation Pack 2024 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/544801_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/544801/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-2024-vol-2"
+        },
+        {
+          "tcgplayerId": 545700,
+          "name": "1st Anniversary DON!! Card Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545700_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545700/one-piece-card-game-one-piece-promotion-cards-1st-anniversary-don-card-pack"
+        },
+        {
+          "tcgplayerId": 546889,
+          "name": "Uta Deck Battle Participation Pack (8 Cards)",
+          "kind": "deck",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/546889_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/546889/one-piece-card-game-one-piece-promotion-cards-uta-deck-battle-participation-pack-8-cards"
+        },
+        {
+          "tcgplayerId": 547692,
+          "name": "Gift Collection 2023 Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/547692_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/547692/one-piece-card-game-one-piece-promotion-cards-gift-collection-2023-promotion-pack"
+        },
+        {
+          "tcgplayerId": 548440,
+          "name": "Tournament Pack Vol. 7",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/548440_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/548440/one-piece-card-game-one-piece-promotion-cards-tournament-pack-vol-7"
+        },
+        {
+          "tcgplayerId": 548441,
+          "name": "Winner Pack Vol. 7",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/548441_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/548441/one-piece-card-game-one-piece-promotion-cards-winner-pack-vol-7"
+        },
+        {
+          "tcgplayerId": 558742,
+          "name": "Welcome Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558742_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558742/one-piece-card-game-one-piece-promotion-cards-welcome-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 565285,
+          "name": "Treasure Booster Set",
+          "kind": "booster",
+          "releasedOn": "2024-08-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565285_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565285/one-piece-card-game-one-piece-promotion-cards-treasure-booster-set"
+        },
+        {
+          "tcgplayerId": 566951,
+          "name": "Premium Card Collection -Leader Collection-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/566951_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/566951/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-leader-collection"
+        },
+        {
+          "tcgplayerId": 579379,
+          "name": "Championship 2024 Top Player Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/579379_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/579379/one-piece-card-game-one-piece-promotion-cards-championship-2024-top-player-pack"
+        },
+        {
+          "tcgplayerId": 579991,
+          "name": "CS 2024 Event Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/579991_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/579991/one-piece-card-game-one-piece-promotion-cards-cs-2024-event-pack"
+        },
+        {
+          "tcgplayerId": 580041,
+          "name": "CS 2024 Event Pack Finalist Ver.",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580041_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/580041/one-piece-card-game-one-piece-promotion-cards-cs-2024-event-pack-finalist-ver"
+        },
+        {
+          "tcgplayerId": 580054,
+          "name": "CS 2024 Celebration Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/580054_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/580054/one-piece-card-game-one-piece-promotion-cards-cs-2024-celebration-pack"
+        },
+        {
+          "tcgplayerId": 583731,
+          "name": "Tournament Pack 2024 Oct.-Dec.",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583731_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583731/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2024-oct-dec"
+        },
+        {
+          "tcgplayerId": 583732,
+          "name": "Winner Pack 2024 Oct.-Dec.",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583732_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583732/one-piece-card-game-one-piece-promotion-cards-winner-pack-2024-oct-dec"
+        },
+        {
+          "tcgplayerId": 583733,
+          "name": "Event Pack Vol. 5",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583733_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583733/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-5"
+        },
+        {
+          "tcgplayerId": 583744,
+          "name": "Judge Pack Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583744_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583744/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-4"
+        },
+        {
+          "tcgplayerId": 585580,
+          "name": "Online Regional Participation Pack 2024 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/585580_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/585580/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-2024-vol-3"
+        },
+        {
+          "tcgplayerId": 586031,
+          "name": "Offline Regional Participation Pack 2024 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586031_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586031/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-2024-vol-3"
+        },
+        {
+          "tcgplayerId": 587220,
+          "name": "Premium Card Collection -Best Selection Vol. 2-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587220_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/587220/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-2"
+        },
+        {
+          "tcgplayerId": 588183,
+          "name": "ST15 - ST20 Release Event Winner Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/588183_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/588183/one-piece-card-game-one-piece-promotion-cards-st15-st20-release-event-winner-pack"
+        },
+        {
+          "tcgplayerId": 588184,
+          "name": "ST15 - ST20 Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/588184_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/588184/one-piece-card-game-one-piece-promotion-cards-st15-st20-release-event-pack"
+        },
+        {
+          "tcgplayerId": 606589,
+          "name": "Premium Card Collection -Best Selection Vol. 3-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606589/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-3"
+        },
+        {
+          "tcgplayerId": 609714,
+          "name": "Tournament Pack 2025 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/609714_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/609714/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2025-vol-1"
+        },
+        {
+          "tcgplayerId": 609715,
+          "name": "Winner Pack 2025 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/609715_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/609715/one-piece-card-game-one-piece-promotion-cards-winner-pack-2025-vol-1"
+        },
+        {
+          "tcgplayerId": 610116,
+          "name": "One Piece Card Game Illustration Box Vol. 1",
+          "kind": "collection",
+          "releasedOn": "2025-03-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/610116_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/610116/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-1"
+        },
+        {
+          "tcgplayerId": 610117,
+          "name": "One Piece Card Game Illustration Box Vol. 2",
+          "kind": "collection",
+          "releasedOn": "2025-03-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/610117_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/610117/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-2"
+        },
+        {
+          "tcgplayerId": 610118,
+          "name": "One Piece Card Game Illustration Box EX",
+          "kind": "collection",
+          "releasedOn": "2025-03-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/610118_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/610118/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-ex"
+        },
+        {
+          "tcgplayerId": 619192,
+          "name": "Offline Regional Participation Pack 2025 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619192_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/619192/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-2025-vol-1"
+        },
+        {
+          "tcgplayerId": 619193,
+          "name": "Event Pack Vol. 6",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619193_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/619193/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-6"
+        },
+        {
+          "tcgplayerId": 619194,
+          "name": "Judge Pack Vol. 5",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619194_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/619194/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-5"
+        },
+        {
+          "tcgplayerId": 620141,
+          "name": "Special DON!! Set Vol. 1 -Luffy-",
+          "kind": "other",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620141_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620141/one-piece-card-game-one-piece-promotion-cards-special-don-set-vol-1-luffy"
+        },
+        {
+          "tcgplayerId": 620142,
+          "name": "Special DON!! Set Vol. 2 -Ace-",
+          "kind": "other",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620142_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620142/one-piece-card-game-one-piece-promotion-cards-special-don-set-vol-2-ace"
+        },
+        {
+          "tcgplayerId": 620143,
+          "name": "Special DON!! Set Vol. 3 -Sabo-",
+          "kind": "other",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620143_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620143/one-piece-card-game-one-piece-promotion-cards-special-don-set-vol-3-sabo"
+        },
+        {
+          "tcgplayerId": 620278,
+          "name": "One Piece Tin Pack Set Vol. 1 -Gol.D.Roger-",
+          "kind": "tin",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620278_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620278/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-1-goldroger"
+        },
+        {
+          "tcgplayerId": 620279,
+          "name": "One Piece Tin Pack Set Vol. 1 -Monkey.D.Luffy-",
+          "kind": "tin",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620279_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620279/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-1-monkeydluffy"
+        },
+        {
+          "tcgplayerId": 620280,
+          "name": "One Piece Tin Pack Set Vol. 1 Display",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620280_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620280/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-1-display"
+        },
+        {
+          "tcgplayerId": 620281,
+          "name": "One Piece Tin Pack Set Vol. 1 Display Case",
+          "kind": "case",
+          "releasedOn": "2025-04-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620281_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620281/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-1-display-case"
+        },
+        {
+          "tcgplayerId": 622589,
+          "name": "Tournament Pack 2025 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622589/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2025-vol-2"
+        },
+        {
+          "tcgplayerId": 622590,
+          "name": "Winner Pack 2025 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622590_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622590/one-piece-card-game-one-piece-promotion-cards-winner-pack-2025-vol-2"
+        },
+        {
+          "tcgplayerId": 622717,
+          "name": "Championship 2024 Top Player Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622717_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622717/one-piece-card-game-one-piece-promotion-cards-championship-2024-top-player-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 636531,
+          "name": "Beginners Deck Party [ST-23] - [ST-28] Participation Pack",
+          "kind": "deck",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636531_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/636531/one-piece-card-game-one-piece-promotion-cards-beginners-deck-party-st-23-st-28-participation-pack"
+        },
+        {
+          "tcgplayerId": 636532,
+          "name": "Beginners Deck Party [ST-23] - [ST-28] Winner Pack",
+          "kind": "deck",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636532_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/636532/one-piece-card-game-one-piece-promotion-cards-beginners-deck-party-st-23-st-28-winner-pack"
+        },
+        {
+          "tcgplayerId": 641167,
+          "name": "Winner Pack 2025 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641167_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641167/one-piece-card-game-one-piece-promotion-cards-winner-pack-2025-vol-3"
+        },
+        {
+          "tcgplayerId": 641169,
+          "name": "Tournament Pack 2025 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641169_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641169/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2025-vol-3"
+        },
+        {
+          "tcgplayerId": 641217,
+          "name": "Judge Pack Vol. 6",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641217_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641217/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-6"
+        },
+        {
+          "tcgplayerId": 646249,
+          "name": "Treasure Booster Set Display Case",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646249_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646249/one-piece-card-game-one-piece-promotion-cards-treasure-booster-set-display-case"
+        },
+        {
+          "tcgplayerId": 646591,
+          "name": "One Piece Card Game Illustration Box Vol. 3",
+          "kind": "collection",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646591_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646591/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-3"
+        },
+        {
+          "tcgplayerId": 646592,
+          "name": "One Piece Card Game Illustration Box Vol. 4",
+          "kind": "collection",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646592/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-4"
+        },
+        {
+          "tcgplayerId": 646715,
+          "name": "Offline Regional Participation Pack 2025 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646715_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646715/one-piece-card-game-one-piece-promotion-cards-offline-regional-participation-pack-2025-vol-2"
+        },
+        {
+          "tcgplayerId": 646736,
+          "name": "Event Pack Vol. 7",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/646736_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/646736/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-7"
+        },
+        {
+          "tcgplayerId": 649617,
+          "name": "CS 25-26 Event Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649617_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649617/one-piece-card-game-one-piece-promotion-cards-cs-25-26-event-pack"
+        },
+        {
+          "tcgplayerId": 649629,
+          "name": "CS 25-26 Celebration Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649629_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649629/one-piece-card-game-one-piece-promotion-cards-cs-25-26-celebration-pack"
+        },
+        {
+          "tcgplayerId": 649662,
+          "name": "CS 25-26 Event Pack Finalist Ver.",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649662_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649662/one-piece-card-game-one-piece-promotion-cards-cs-25-26-event-pack-finalist-ver"
+        },
+        {
+          "tcgplayerId": 649671,
+          "name": "CS 25-26 Top Player Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649671_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649671/one-piece-card-game-one-piece-promotion-cards-cs-25-26-top-player-pack"
+        },
+        {
+          "tcgplayerId": 649681,
+          "name": "Premium Card Collection -Best Selection Vol. 4-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649681_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649681/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-4"
+        },
+        {
+          "tcgplayerId": 649694,
+          "name": "Premium Card Collection -6 assort vol.1-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649694_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649694/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-6-assort-vol1"
+        },
+        {
+          "tcgplayerId": 649735,
+          "name": "Online Regional Participation Pack 2025 Vol.2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649735_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649735/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-2025-vol2"
+        },
+        {
+          "tcgplayerId": 653799,
+          "name": "Welcome Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/653799_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/653799/one-piece-card-game-one-piece-promotion-cards-welcome-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 655958,
+          "name": "Tournament Pack 2025 Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/655958_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/655958/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2025-vol-4"
+        },
+        {
+          "tcgplayerId": 655959,
+          "name": "Winner Pack 2025 Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/655959_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/655959/one-piece-card-game-one-piece-promotion-cards-winner-pack-2025-vol-4"
+        },
+        {
+          "tcgplayerId": 657215,
+          "name": "Premium Card Collection -Best Selection Vol. 5-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657215_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657215/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-5"
+        },
+        {
+          "tcgplayerId": 657218,
+          "name": "One Piece Tin Pack Set Vol. 2 Display",
+          "kind": "case",
+          "releasedOn": "2026-01-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657218_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657218/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-2-display"
+        },
+        {
+          "tcgplayerId": 657219,
+          "name": "One Piece Tin Pack Set Vol. 2 Display Case",
+          "kind": "case",
+          "releasedOn": "2026-01-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657219_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657219/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-2-display-case"
+        },
+        {
+          "tcgplayerId": 660407,
+          "name": "Dash Pack 2025",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/660407_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/660407/one-piece-card-game-one-piece-promotion-cards-dash-pack-2025"
+        },
+        {
+          "tcgplayerId": 661447,
+          "name": "3rd Anniversary One Piece Card Game Treasure Campaign Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661447_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661447/one-piece-card-game-one-piece-promotion-cards-3rd-anniversary-one-piece-card-game-treasure-campaign-pack"
+        },
+        {
+          "tcgplayerId": 666567,
+          "name": "Online Regional Participation Pack 2025 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666567_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666567/one-piece-card-game-one-piece-promotion-cards-online-regional-participation-pack-2025-vol-1"
+        },
+        {
+          "tcgplayerId": 666910,
+          "name": "CS 25-26 Top Player Pack Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666910_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666910/one-piece-card-game-one-piece-promotion-cards-cs-25-26-top-player-pack-vol-2"
+        },
+        {
+          "tcgplayerId": 668163,
+          "name": "Tournament Pack 2026 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668163_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668163/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2026-vol-1"
+        },
+        {
+          "tcgplayerId": 668184,
+          "name": "Winner Pack 2026 Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668184_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668184/one-piece-card-game-one-piece-promotion-cards-winner-pack-2026-vol-1"
+        },
+        {
+          "tcgplayerId": 668191,
+          "name": "Judge Pack Vol. 7",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668191_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/668191/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-7"
+        },
+        {
+          "tcgplayerId": 669241,
+          "name": "One Piece Card Game Illustration Box Vol. 5",
+          "kind": "collection",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/669241_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/669241/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-5"
+        },
+        {
+          "tcgplayerId": 669242,
+          "name": "One Piece Card Game Illustration Box Vol. 6",
+          "kind": "collection",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/669242_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/669242/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-6"
+        },
+        {
+          "tcgplayerId": 669273,
+          "name": "One Piece Tin Pack Set Vol. 2 -Monkey.D.Luffy-",
+          "kind": "tin",
+          "releasedOn": "2026-01-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/669273_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/669273/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-2-monkeydluffy"
+        },
+        {
+          "tcgplayerId": 669277,
+          "name": "One Piece Tin Pack Set Vol. 2 -Portgas.D.Ace-",
+          "kind": "tin",
+          "releasedOn": "2026-01-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/669277_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/669277/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-2-portgasdace"
+        },
+        {
+          "tcgplayerId": 669278,
+          "name": "One Piece Tin Pack Set Vol. 2 -Sabo-",
+          "kind": "tin",
+          "releasedOn": "2026-01-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/669278_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/669278/one-piece-card-game-one-piece-promotion-cards-one-piece-tin-pack-set-vol-2-sabo"
+        },
+        {
+          "tcgplayerId": 672601,
+          "name": "One Piece Card Game Illustration Box Vol. 5 Case",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672601_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/672601/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-5-case"
+        },
+        {
+          "tcgplayerId": 672604,
+          "name": "One Piece Card Game Illustration Box Vol. 6 Case",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672604_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/672604/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-6-case"
+        },
+        {
+          "tcgplayerId": 675734,
+          "name": "Event Pack Vol. 8",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675734_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675734/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-8"
+        },
+        {
+          "tcgplayerId": 676678,
+          "name": "Heroines Battle Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/676678_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/676678/one-piece-card-game-one-piece-promotion-cards-heroines-battle-pack"
+        },
+        {
+          "tcgplayerId": 683970,
+          "name": "Welcome Pack 2026 Vol.1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/683970_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/683970/one-piece-card-game-one-piece-promotion-cards-welcome-pack-2026-vol1"
+        },
+        {
+          "tcgplayerId": 684301,
+          "name": "Winner Pack 2026 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684301_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/684301/one-piece-card-game-one-piece-promotion-cards-winner-pack-2026-vol-2"
+        },
+        {
+          "tcgplayerId": 684308,
+          "name": "Tournament Pack 2026 Vol. 2",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684308_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/684308/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2026-vol-2"
+        },
+        {
+          "tcgplayerId": 690658,
+          "name": "Premium Card Collection -Live Action Edition Vol.2 Straw Hat Crew-",
+          "kind": "collection",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690658_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690658/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-live-action-edition-vol2-straw-hat-crew"
+        },
+        {
+          "tcgplayerId": 690659,
+          "name": "Premium Card Collection -Live Action Edition Vol.2 Baroque Works-",
+          "kind": "collection",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690659_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690659/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-live-action-edition-vol2-baroque-works"
+        },
+        {
+          "tcgplayerId": 694721,
+          "name": "One Piece Card Game Illustration Box Vol. 7",
+          "kind": "collection",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694721_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694721/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-7"
+        },
+        {
+          "tcgplayerId": 694722,
+          "name": "One Piece Card Game Illustration Box Vol. 8",
+          "kind": "collection",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694722_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694722/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-8"
+        },
+        {
+          "tcgplayerId": 694874,
+          "name": "Premium Card Collection -Best Selection Vol. 6-",
+          "kind": "collection",
+          "releasedOn": "2026-07-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694874_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694874/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-best-selection-vol-6"
+        },
+        {
+          "tcgplayerId": 696826,
+          "name": "Store Championship 2023 Participation Pack Vol.1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696826_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/696826/one-piece-card-game-one-piece-promotion-cards-store-championship-2023-participation-pack-vol1"
+        },
+        {
+          "tcgplayerId": 700808,
+          "name": "Seven Warlords of the Sea Binder Set (Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/700808_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/700808/one-piece-card-game-one-piece-promotion-cards-seven-warlords-of-the-sea-binder-set-bundle"
+        },
+        {
+          "tcgplayerId": 708202,
+          "name": "Round 1 Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708202_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/708202/one-piece-card-game-one-piece-promotion-cards-round-1-promotion-pack"
+        },
+        {
+          "tcgplayerId": 708460,
+          "name": "Tournament Pack 2026 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708460_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/708460/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2026-vol-3"
+        },
+        {
+          "tcgplayerId": 708461,
+          "name": "Winner Pack 2026 Vol. 3",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/708461_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/708461/one-piece-card-game-one-piece-promotion-cards-winner-pack-2026-vol-3"
+        },
+        {
+          "tcgplayerId": 709534,
+          "name": "Event Pack Vol. 9",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/709534_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/709534/one-piece-card-game-one-piece-promotion-cards-event-pack-vol-9"
+        },
+        {
+          "tcgplayerId": 710211,
+          "name": "CS 26-27 Event Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710211_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710211/one-piece-card-game-one-piece-promotion-cards-cs-26-27-event-pack"
+        },
+        {
+          "tcgplayerId": 710246,
+          "name": "CS 26-27 Celebration Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710246_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710246/one-piece-card-game-one-piece-promotion-cards-cs-26-27-celebration-pack"
+        },
+        {
+          "tcgplayerId": 710247,
+          "name": "CS 26-27 Top Player Pack Vol. 1",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710247_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710247/one-piece-card-game-one-piece-promotion-cards-cs-26-27-top-player-pack-vol-1"
+        },
+        {
+          "tcgplayerId": 710256,
+          "name": "CS 26-27 Event Pack Finalist Ver.",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710256_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710256/one-piece-card-game-one-piece-promotion-cards-cs-26-27-event-pack-finalist-ver"
+        },
+        {
+          "tcgplayerId": 711511,
+          "name": "One Piece Card Game Illustration Box Vol. 7 Case",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711511_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711511/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-7-case"
+        },
+        {
+          "tcgplayerId": 711512,
+          "name": "One Piece Card Game Illustration Box Vol. 8 Case",
+          "kind": "case",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711512_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711512/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-8-case"
+        },
+        {
+          "tcgplayerId": 714348,
+          "name": "4th Anniversary One Piece Card Game Treasure Campaign Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714348_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714348/one-piece-card-game-one-piece-promotion-cards-4th-anniversary-one-piece-card-game-treasure-campaign-pack"
+        },
+        {
+          "tcgplayerId": 717026,
+          "name": "Premium Card Collection -Flame-Flame Fruit Coliseum Edition-",
+          "kind": "collection",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717026_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/717026/one-piece-card-game-one-piece-promotion-cards-premium-card-collection-flame-flame-fruit-coliseum-edition"
+        },
+        {
+          "tcgplayerId": 717406,
+          "name": "Judge Pack Vol. 8",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717406_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/717406/one-piece-card-game-one-piece-promotion-cards-judge-pack-vol-8"
+        },
+        {
+          "tcgplayerId": 717458,
+          "name": "Official 9 Pocket Binder Vol.1 (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717458_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/717458/one-piece-card-game-one-piece-promotion-cards-official-9-pocket-binder-vol1-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 722628,
+          "name": "Tournament Pack 2026 Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722628_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/722628/one-piece-card-game-one-piece-promotion-cards-tournament-pack-2026-vol-4"
+        },
+        {
+          "tcgplayerId": 722629,
+          "name": "Winner Pack 2026 Vol. 4",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722629_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/722629/one-piece-card-game-one-piece-promotion-cards-winner-pack-2026-vol-4"
+        },
+        {
+          "tcgplayerId": 722701,
+          "name": "Beginners Deck Party [ST-31] - [ST-36] Participation Pack",
+          "kind": "deck",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722701_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/722701/one-piece-card-game-one-piece-promotion-cards-beginners-deck-party-st-31-st-36-participation-pack"
+        },
+        {
+          "tcgplayerId": 722702,
+          "name": "Beginners Deck Party [ST-31] - [ST-36] Winner Pack",
+          "kind": "deck",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722702_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/722702/one-piece-card-game-one-piece-promotion-cards-beginners-deck-party-st-31-st-36-winner-pack"
+        }
+      ]
+    },
+    "17687": {
+      "name": "ST-05: Starter Deck 5 Film Edition",
+      "abbreviation": "ST-05",
+      "modifiedOn": "2026-10-08T15:51:38.913",
+      "publishedOn": "2023-02-03",
+      "setId": "op-st05",
+      "products": [
+        {
+          "tcgplayerId": 455859,
+          "name": "Starter Deck 5: Film Edition",
+          "kind": "deck",
+          "releasedOn": "2023-02-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455859_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455859/one-piece-card-game-st-05-starter-deck-5-film-edition-starter-deck-5-film-edition"
+        },
+        {
+          "tcgplayerId": 455860,
+          "name": "Starter Deck 5: Film Edition Display",
+          "kind": "case",
+          "releasedOn": "2023-02-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455860_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455860/one-piece-card-game-st-05-starter-deck-5-film-edition-starter-deck-5-film-edition-display"
+        },
+        {
+          "tcgplayerId": 477332,
+          "name": "Starter Deck 5: Film Edition Display Case",
+          "kind": "case",
+          "releasedOn": "2023-02-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477332_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477332/one-piece-card-game-st-05-starter-deck-5-film-edition-starter-deck-5-film-edition-display-case"
+        }
+      ]
+    },
+    "17698": {
+      "name": "Paramount War",
+      "abbreviation": "OP02",
+      "modifiedOn": "2025-05-19T18:00:59.76",
+      "publishedOn": "2023-03-10",
+      "setId": "op-op02",
+      "products": [
+        {
+          "tcgplayerId": 455865,
+          "name": "Paramount War - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455865_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455865/one-piece-card-game-paramount-war-paramount-war-booster-pack"
+        },
+        {
+          "tcgplayerId": 455866,
+          "name": "Paramount War - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455866_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455866/one-piece-card-game-paramount-war-paramount-war-booster-box"
+        },
+        {
+          "tcgplayerId": 455867,
+          "name": "Paramount War - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455867_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455867/one-piece-card-game-paramount-war-paramount-war-booster-box-case"
+        },
+        {
+          "tcgplayerId": 487126,
+          "name": "Revision Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487126_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/487126/one-piece-card-game-paramount-war-revision-pack"
+        },
+        {
+          "tcgplayerId": 488298,
+          "name": "Box Promotion Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/488298_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/488298/one-piece-card-game-paramount-war-box-promotion-pack"
+        },
+        {
+          "tcgplayerId": 531775,
+          "name": "Paramount War - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531775_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531775/one-piece-card-game-paramount-war-paramount-war-sleeved-booster-pack"
+        }
+      ]
+    },
+    "17699": {
+      "name": "ST-06: Starter Deck 6 Absolute Justice",
+      "abbreviation": "ST-06",
+      "modifiedOn": "2026-10-14T17:55:38.107",
+      "publishedOn": "2023-03-10",
+      "setId": "op-st06",
+      "products": [
+        {
+          "tcgplayerId": 455868,
+          "name": "Starter Deck 6: Absolute Justice",
+          "kind": "deck",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455868_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455868/one-piece-card-game-st-06-starter-deck-6-absolute-justice-starter-deck-6-absolute-justice"
+        },
+        {
+          "tcgplayerId": 455869,
+          "name": "Starter Deck 6: Absolute Justice Display",
+          "kind": "case",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455869_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455869/one-piece-card-game-st-06-starter-deck-6-absolute-justice-starter-deck-6-absolute-justice-display"
+        },
+        {
+          "tcgplayerId": 480247,
+          "name": "Starter Deck 6: Absolute Justice Display Case",
+          "kind": "case",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/480247_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/480247/one-piece-card-game-st-06-starter-deck-6-absolute-justice-starter-deck-6-absolute-justice-display-case"
+        }
+      ]
+    },
+    "22890": {
+      "name": "Pillars of Strength",
+      "abbreviation": "OP03",
+      "modifiedOn": "2025-11-10T18:37:04.147",
+      "publishedOn": "2023-06-30",
+      "setId": "op-op03",
+      "products": [
+        {
+          "tcgplayerId": 477175,
+          "name": "Pillars of Strength - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477175_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477175/one-piece-card-game-pillars-of-strength-pillars-of-strength-booster-pack"
+        },
+        {
+          "tcgplayerId": 477176,
+          "name": "Pillars of Strength - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477176_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477176/one-piece-card-game-pillars-of-strength-pillars-of-strength-booster-box"
+        },
+        {
+          "tcgplayerId": 477177,
+          "name": "Pillars of Strength - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477177_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477177/one-piece-card-game-pillars-of-strength-pillars-of-strength-booster-box-case"
+        },
+        {
+          "tcgplayerId": 531776,
+          "name": "Pillars of Strength - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531776_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531776/one-piece-card-game-pillars-of-strength-pillars-of-strength-sleeved-booster-pack"
+        }
+      ]
+    },
+    "22930": {
+      "name": "ST-07: Starter Deck 7 Big Mom Pirates",
+      "abbreviation": "ST-07",
+      "modifiedOn": "2026-09-29T19:25:28.55",
+      "publishedOn": "2023-06-30",
+      "setId": "op-st07",
+      "products": [
+        {
+          "tcgplayerId": 480236,
+          "name": "Starter Deck 7: Big Mom Pirates",
+          "kind": "deck",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/480236_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/480236/one-piece-card-game-st-07-starter-deck-7-big-mom-pirates-starter-deck-7-big-mom-pirates"
+        },
+        {
+          "tcgplayerId": 480240,
+          "name": "Starter Deck 7: Big Mom Pirates Display",
+          "kind": "case",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/480240_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/480240/one-piece-card-game-st-07-starter-deck-7-big-mom-pirates-starter-deck-7-big-mom-pirates-display"
+        },
+        {
+          "tcgplayerId": 480241,
+          "name": "Starter Deck 7: Big Mom Pirates Display Case",
+          "kind": "case",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/480241_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/480241/one-piece-card-game-st-07-starter-deck-7-big-mom-pirates-starter-deck-7-big-mom-pirates-display-case"
+        }
+      ]
+    },
+    "22934": {
+      "name": "Paramount War Pre-Release Cards",
+      "abbreviation": "OP02 PRE",
+      "modifiedOn": "2024-01-04T21:54:19.293",
+      "publishedOn": "2023-03-03",
+      "products": [
+        {
+          "tcgplayerId": 482217,
+          "name": "Paramount War - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-03-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/482217_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/482217/one-piece-card-game-paramount-war-pre-release-cards-paramount-war-pre-release-pack"
+        }
+      ]
+    },
+    "22956": {
+      "name": "ST-08: Starter Deck 8 Monkey.D.Luffy",
+      "abbreviation": "ST-08",
+      "modifiedOn": "2026-09-29T19:25:34.5",
+      "publishedOn": "2023-08-11",
+      "setId": "op-st08",
+      "products": [
+        {
+          "tcgplayerId": 502975,
+          "name": "Starter Deck 8: Monkey.D.Luffy",
+          "kind": "deck",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502975_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502975/one-piece-card-game-st-08-starter-deck-8-monkeydluffy-starter-deck-8-monkeydluffy"
+        },
+        {
+          "tcgplayerId": 502976,
+          "name": "Starter Deck 8: Monkey.D.Luffy Display",
+          "kind": "case",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502976_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502976/one-piece-card-game-st-08-starter-deck-8-monkeydluffy-starter-deck-8-monkeydluffy-display"
+        },
+        {
+          "tcgplayerId": 502977,
+          "name": "Starter Deck 8: Monkey.D.Luffy Display Case",
+          "kind": "case",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502977_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502977/one-piece-card-game-st-08-starter-deck-8-monkeydluffy-starter-deck-8-monkeydluffy-display-case"
+        }
+      ]
+    },
+    "22957": {
+      "name": "ST-09: Starter Deck 9 Yamato",
+      "abbreviation": "ST-09",
+      "modifiedOn": "2026-10-08T15:57:26.273",
+      "publishedOn": "2023-08-11",
+      "setId": "op-st09",
+      "products": [
+        {
+          "tcgplayerId": 502978,
+          "name": "Starter Deck 9: Yamato",
+          "kind": "deck",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502978_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502978/one-piece-card-game-st-09-starter-deck-9-yamato-starter-deck-9-yamato"
+        },
+        {
+          "tcgplayerId": 502979,
+          "name": "Starter Deck 9: Yamato Display",
+          "kind": "case",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502979_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502979/one-piece-card-game-st-09-starter-deck-9-yamato-starter-deck-9-yamato-display"
+        },
+        {
+          "tcgplayerId": 502980,
+          "name": "Starter Deck 9: Yamato Display Case",
+          "kind": "case",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502980_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502980/one-piece-card-game-st-09-starter-deck-9-yamato-starter-deck-9-yamato-display-case"
+        }
+      ]
+    },
+    "23024": {
+      "name": "Kingdoms of Intrigue",
+      "abbreviation": "OP04",
+      "modifiedOn": "2025-10-28T14:10:26.78",
+      "publishedOn": "2023-09-22",
+      "setId": "op-op04",
+      "products": [
+        {
+          "tcgplayerId": 485832,
+          "name": "Kingdoms of Intrigue - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/485832_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/485832/one-piece-card-game-kingdoms-of-intrigue-kingdoms-of-intrigue-booster-pack"
+        },
+        {
+          "tcgplayerId": 485833,
+          "name": "Kingdoms of Intrigue - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/485833_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/485833/one-piece-card-game-kingdoms-of-intrigue-kingdoms-of-intrigue-booster-box"
+        },
+        {
+          "tcgplayerId": 485834,
+          "name": "Kingdoms of Intrigue - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/485834_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/485834/one-piece-card-game-kingdoms-of-intrigue-kingdoms-of-intrigue-booster-box-case"
+        },
+        {
+          "tcgplayerId": 493752,
+          "name": "Double Pack Set Volume 1",
+          "kind": "blister",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/493752_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/493752/one-piece-card-game-kingdoms-of-intrigue-double-pack-set-volume-1"
+        },
+        {
+          "tcgplayerId": 514029,
+          "name": "Double Pack Set Volume 1 Display",
+          "kind": "case",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/514029_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/514029/one-piece-card-game-kingdoms-of-intrigue-double-pack-set-volume-1-display"
+        },
+        {
+          "tcgplayerId": 516954,
+          "name": "Kingdoms of Intrigue - Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516954_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516954/one-piece-card-game-kingdoms-of-intrigue-kingdoms-of-intrigue-dash-pack"
+        },
+        {
+          "tcgplayerId": 521201,
+          "name": "Special DON!! Card Pack DP-01",
+          "kind": "booster",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521201_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521201/one-piece-card-game-kingdoms-of-intrigue-special-don-card-pack-dp-01"
+        },
+        {
+          "tcgplayerId": 531777,
+          "name": "Kingdoms of Intrigue - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-09-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531777_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531777/one-piece-card-game-kingdoms-of-intrigue-kingdoms-of-intrigue-sleeved-booster-pack"
+        }
+      ]
+    },
+    "23213": {
+      "name": "Awakening of the New Era",
+      "abbreviation": "OP05",
+      "modifiedOn": "2026-01-12T12:04:25.403",
+      "publishedOn": "2023-12-08",
+      "setId": "op-op05",
+      "products": [
+        {
+          "tcgplayerId": 498733,
+          "name": "Awakening of the New Era - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/498733_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/498733/one-piece-card-game-awakening-of-the-new-era-awakening-of-the-new-era-booster-pack"
+        },
+        {
+          "tcgplayerId": 498734,
+          "name": "Awakening of the New Era - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/498734_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/498734/one-piece-card-game-awakening-of-the-new-era-awakening-of-the-new-era-booster-box"
+        },
+        {
+          "tcgplayerId": 498735,
+          "name": "Awakening of the New Era - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/498735_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/498735/one-piece-card-game-awakening-of-the-new-era-awakening-of-the-new-era-booster-box-case"
+        },
+        {
+          "tcgplayerId": 527060,
+          "name": "Double Pack Set Volume 2",
+          "kind": "blister",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/527060_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/527060/one-piece-card-game-awakening-of-the-new-era-double-pack-set-volume-2"
+        },
+        {
+          "tcgplayerId": 527062,
+          "name": "Double Pack Set Volume 2 Display",
+          "kind": "case",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/527062_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/527062/one-piece-card-game-awakening-of-the-new-era-double-pack-set-volume-2-display"
+        },
+        {
+          "tcgplayerId": 527063,
+          "name": "Double Pack Set Volume 2 Display Case",
+          "kind": "case",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/527063_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/527063/one-piece-card-game-awakening-of-the-new-era-double-pack-set-volume-2-display-case"
+        },
+        {
+          "tcgplayerId": 531575,
+          "name": "Awakening of the New Era - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531575_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531575/one-piece-card-game-awakening-of-the-new-era-awakening-of-the-new-era-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 531974,
+          "name": "Special DON!! Card Pack DP-02",
+          "kind": "booster",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531974_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531974/one-piece-card-game-awakening-of-the-new-era-special-don-card-pack-dp-02"
+        }
+      ]
+    },
+    "23232": {
+      "name": "Pillars of Strength Pre-Release Cards",
+      "abbreviation": "OP03 PRE",
+      "modifiedOn": "2024-04-15T11:26:41.767",
+      "publishedOn": "2023-06-30",
+      "products": [
+        {
+          "tcgplayerId": 502624,
+          "name": "Pillars of Strength - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502624_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502624/one-piece-card-game-pillars-of-strength-pre-release-cards-pillars-of-strength-pre-release-pack"
+        }
+      ]
+    },
+    "23243": {
+      "name": "ST-10: Ultra Deck The Three Captains",
+      "abbreviation": "ST-10",
+      "modifiedOn": "2026-09-29T19:20:29.013",
+      "publishedOn": "2023-11-10",
+      "setId": "op-st10",
+      "products": [
+        {
+          "tcgplayerId": 502982,
+          "name": "Ultra Deck: The Three Captains",
+          "kind": "deck",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502982_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502982/one-piece-card-game-st-10-ultra-deck-the-three-captains-ultra-deck-the-three-captains"
+        },
+        {
+          "tcgplayerId": 502983,
+          "name": "Ultra Deck: The Three Captains Display",
+          "kind": "case",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502983_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502983/one-piece-card-game-st-10-ultra-deck-the-three-captains-ultra-deck-the-three-captains-display"
+        },
+        {
+          "tcgplayerId": 502984,
+          "name": "Ultra Deck: The Three Captains Display Case",
+          "kind": "case",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502984_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502984/one-piece-card-game-st-10-ultra-deck-the-three-captains-ultra-deck-the-three-captains-display-case"
+        }
+      ]
+    },
+    "23250": {
+      "name": "ST-11: Starter Deck 11 Uta",
+      "abbreviation": "ST-11",
+      "modifiedOn": "2026-10-08T15:57:39.053",
+      "publishedOn": "2024-02-02",
+      "setId": "op-st11",
+      "products": [
+        {
+          "tcgplayerId": 515294,
+          "name": "Starter Deck 11: Uta",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515294_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515294/one-piece-card-game-st-11-starter-deck-11-uta-starter-deck-11-uta"
+        },
+        {
+          "tcgplayerId": 515296,
+          "name": "Starter Deck 11: Uta Display",
+          "kind": "case",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515296_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515296/one-piece-card-game-st-11-starter-deck-11-uta-starter-deck-11-uta-display"
+        },
+        {
+          "tcgplayerId": 515297,
+          "name": "Starter Deck 11: Uta Display Case",
+          "kind": "case",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515297_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515297/one-piece-card-game-st-11-starter-deck-11-uta-starter-deck-11-uta-display-case"
+        }
+      ]
+    },
+    "23272": {
+      "name": "Wings of the Captain",
+      "abbreviation": "OP06",
+      "modifiedOn": "2025-09-17T15:38:05.033",
+      "publishedOn": "2024-03-15",
+      "setId": "op-op06",
+      "products": [
+        {
+          "tcgplayerId": 515077,
+          "name": "Wings of the Captain - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515077_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515077/one-piece-card-game-wings-of-the-captain-wings-of-the-captain-booster-pack"
+        },
+        {
+          "tcgplayerId": 515080,
+          "name": "Wings of the Captain - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515080_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515080/one-piece-card-game-wings-of-the-captain-wings-of-the-captain-booster-box"
+        },
+        {
+          "tcgplayerId": 515081,
+          "name": "Wings of the Captain - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515081_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/515081/one-piece-card-game-wings-of-the-captain-wings-of-the-captain-booster-box-case"
+        },
+        {
+          "tcgplayerId": 541542,
+          "name": "Double Pack Set Volume 3",
+          "kind": "blister",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/541542_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/541542/one-piece-card-game-wings-of-the-captain-double-pack-set-volume-3"
+        },
+        {
+          "tcgplayerId": 541543,
+          "name": "Double Pack Set Volume 3 Display",
+          "kind": "case",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/541543_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/541543/one-piece-card-game-wings-of-the-captain-double-pack-set-volume-3-display"
+        },
+        {
+          "tcgplayerId": 541544,
+          "name": "Double Pack Set Volume 3 Display Case",
+          "kind": "case",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/541544_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/541544/one-piece-card-game-wings-of-the-captain-double-pack-set-volume-3-display-case"
+        },
+        {
+          "tcgplayerId": 543371,
+          "name": "Wings of the Captain - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543371_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543371/one-piece-card-game-wings-of-the-captain-wings-of-the-captain-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 543906,
+          "name": "Special DON!! Card Pack DP-03",
+          "kind": "booster",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543906_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543906/one-piece-card-game-wings-of-the-captain-special-don-card-pack-dp-03"
+        }
+      ]
+    },
+    "23297": {
+      "name": "Kingdoms of Intrigue Pre-Release Cards",
+      "abbreviation": "OP04 PRE",
+      "modifiedOn": "2024-01-08T12:57:05.41",
+      "publishedOn": "2023-09-15",
+      "products": [
+        {
+          "tcgplayerId": 516961,
+          "name": "Kingdoms of Intrigue - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2023-09-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516961_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516961/one-piece-card-game-kingdoms-of-intrigue-pre-release-cards-kingdoms-of-intrigue-pre-release-pack"
+        }
+      ]
+    },
+    "23304": {
+      "name": "One Piece Collection Sets",
+      "abbreviation": "OP-CS",
+      "modifiedOn": "2026-10-07T18:52:04.753",
+      "publishedOn": "2023-11-03",
+      "products": [
+        {
+          "tcgplayerId": 516299,
+          "name": "Devil Fruits Collection Vol. 1",
+          "kind": "collection",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516299_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516299/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-1"
+        },
+        {
+          "tcgplayerId": 516301,
+          "name": "Devil Fruits Collection Vol. 1 Case",
+          "kind": "case",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516301_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516301/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-1-case"
+        },
+        {
+          "tcgplayerId": 536154,
+          "name": "One Piece Card Game: Japanese 1st Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536154_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536154/one-piece-card-game-one-piece-collection-sets-one-piece-card-game-japanese-1st-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 536588,
+          "name": "One Piece Card Game: English Version 1st Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536588/one-piece-card-game-one-piece-collection-sets-one-piece-card-game-english-version-1st-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 593446,
+          "name": "Devil Fruits Collection Vol. 2",
+          "kind": "collection",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593446_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593446/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-2"
+        },
+        {
+          "tcgplayerId": 593447,
+          "name": "Devil Fruits Collection Vol. 2 Case",
+          "kind": "case",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593447_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593447/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-2-case"
+        },
+        {
+          "tcgplayerId": 617585,
+          "name": "One Piece Japanese Version 2nd Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2025-03-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617585_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/617585/one-piece-card-game-one-piece-collection-sets-one-piece-japanese-version-2nd-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 635482,
+          "name": "One Piece English Version 2nd Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635482_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635482/one-piece-card-game-one-piece-collection-sets-one-piece-english-version-2nd-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 649748,
+          "name": "Devil Fruits Collection Vol. 3",
+          "kind": "collection",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649748_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649748/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-3"
+        },
+        {
+          "tcgplayerId": 649749,
+          "name": "Devil Fruits Collection Vol. 3 Case",
+          "kind": "case",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649749_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649749/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-3-case"
+        },
+        {
+          "tcgplayerId": 680488,
+          "name": "One Piece Japanese Version 3rd Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680488_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680488/one-piece-card-game-one-piece-collection-sets-one-piece-japanese-version-3rd-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 710691,
+          "name": "One Piece English Version 3rd Anniversary Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710691_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710691/one-piece-card-game-one-piece-collection-sets-one-piece-english-version-3rd-anniversary-set-sealed-promotional-bundle"
+        },
+        {
+          "tcgplayerId": 714385,
+          "name": "Devil Fruits Collection Vol. 3 (Retail Box Version)",
+          "kind": "collection",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714385_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714385/one-piece-card-game-one-piece-collection-sets-devil-fruits-collection-vol-3-retail-box-version"
+        },
+        {
+          "tcgplayerId": 717554,
+          "name": "One Piece Heroines Special Set (Sealed Promotional Bundle)",
+          "kind": "bundle",
+          "releasedOn": "2023-11-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/717554_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/717554/one-piece-card-game-one-piece-collection-sets-one-piece-heroines-special-set-sealed-promotional-bundle"
+        }
+      ]
+    },
+    "23333": {
+      "name": "Extra Booster: Memorial Collection",
+      "abbreviation": "EB01",
+      "modifiedOn": "2026-10-07T11:49:17.39",
+      "publishedOn": "2024-05-03",
+      "setId": "op-eb01",
+      "products": [
+        {
+          "tcgplayerId": 521160,
+          "name": "Memorial Collection - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521160_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521160/one-piece-card-game-extra-booster-memorial-collection-memorial-collection-booster-pack"
+        },
+        {
+          "tcgplayerId": 521161,
+          "name": "Memorial Collection - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521161_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521161/one-piece-card-game-extra-booster-memorial-collection-memorial-collection-booster-box"
+        },
+        {
+          "tcgplayerId": 521162,
+          "name": "Memorial Collection - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521162_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521162/one-piece-card-game-extra-booster-memorial-collection-memorial-collection-booster-box-case"
+        }
+      ]
+    },
+    "23348": {
+      "name": "ST-12: Starter Deck 12 Zoro and Sanji",
+      "abbreviation": "ST-12",
+      "modifiedOn": "2026-10-08T15:57:47.483",
+      "publishedOn": "2024-03-15",
+      "setId": "op-st12",
+      "products": [
+        {
+          "tcgplayerId": 536585,
+          "name": "Starter Deck 12: Zoro and Sanji",
+          "kind": "deck",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536585_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536585/one-piece-card-game-st-12-starter-deck-12-zoro-and-sanji-starter-deck-12-zoro-and-sanji"
+        },
+        {
+          "tcgplayerId": 536586,
+          "name": "Starter Deck 12: Zoro and Sanji Display",
+          "kind": "case",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536586_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536586/one-piece-card-game-st-12-starter-deck-12-zoro-and-sanji-starter-deck-12-zoro-and-sanji-display"
+        },
+        {
+          "tcgplayerId": 536587,
+          "name": "Starter Deck 12: Zoro and Sanji Display Case",
+          "kind": "case",
+          "releasedOn": "2024-03-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/536587_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/536587/one-piece-card-game-st-12-starter-deck-12-zoro-and-sanji-starter-deck-12-zoro-and-sanji-display-case"
+        }
+      ]
+    },
+    "23349": {
+      "name": "ST-13: Ultra Deck The Three Brothers",
+      "abbreviation": "ST-13",
+      "modifiedOn": "2026-10-08T15:57:55.023",
+      "publishedOn": "2024-04-19",
+      "setId": "op-st13",
+      "products": [
+        {
+          "tcgplayerId": 543595,
+          "name": "Ultra Deck: The Three Brothers",
+          "kind": "deck",
+          "releasedOn": "2024-04-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543595_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543595/one-piece-card-game-st-13-ultra-deck-the-three-brothers-ultra-deck-the-three-brothers"
+        },
+        {
+          "tcgplayerId": 543596,
+          "name": "Ultra Deck: The Three Brothers Display",
+          "kind": "case",
+          "releasedOn": "2024-04-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543596_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543596/one-piece-card-game-st-13-ultra-deck-the-three-brothers-ultra-deck-the-three-brothers-display"
+        },
+        {
+          "tcgplayerId": 543597,
+          "name": "Ultra Deck: The Three Brothers Display Case",
+          "kind": "case",
+          "releasedOn": "2024-04-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543597_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543597/one-piece-card-game-st-13-ultra-deck-the-three-brothers-ultra-deck-the-three-brothers-display-case"
+        }
+      ]
+    },
+    "23368": {
+      "name": "Awakening of the New Era: 1st Anniversary Tournament Cards",
+      "abbreviation": "OP05 ANN",
+      "modifiedOn": "2025-05-02T19:38:52.543",
+      "publishedOn": "2023-12-08",
+      "products": [
+        {
+          "tcgplayerId": 520771,
+          "name": "Awakening of the New Era - 1st Anniversary Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2023-12-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/520771_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/520771/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-awakening-of-the-new-era-1st-anniversary-tournament-pack"
+        }
+      ]
+    },
+    "23387": {
+      "name": "500 Years in the Future",
+      "abbreviation": "OP07",
+      "modifiedOn": "2026-01-22T13:59:19.727",
+      "publishedOn": "2024-06-28",
+      "setId": "op-op07",
+      "products": [
+        {
+          "tcgplayerId": 532104,
+          "name": "500 Years in the Future - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532104_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532104/one-piece-card-game-500-years-in-the-future-500-years-in-the-future-booster-pack"
+        },
+        {
+          "tcgplayerId": 532105,
+          "name": "500 Years in the Future - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532105_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532105/one-piece-card-game-500-years-in-the-future-500-years-in-the-future-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 532106,
+          "name": "500 Years in the Future - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532106_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532106/one-piece-card-game-500-years-in-the-future-500-years-in-the-future-booster-box"
+        },
+        {
+          "tcgplayerId": 532107,
+          "name": "500 Years in the Future - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532107_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532107/one-piece-card-game-500-years-in-the-future-500-years-in-the-future-booster-box-case"
+        },
+        {
+          "tcgplayerId": 549493,
+          "name": "Double Pack Set Volume 4",
+          "kind": "blister",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549493_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549493/one-piece-card-game-500-years-in-the-future-double-pack-set-volume-4"
+        },
+        {
+          "tcgplayerId": 549495,
+          "name": "Double Pack Set Volume 4 Display",
+          "kind": "case",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549495_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549495/one-piece-card-game-500-years-in-the-future-double-pack-set-volume-4-display"
+        },
+        {
+          "tcgplayerId": 549496,
+          "name": "Double Pack Set Volume 4 Display Case",
+          "kind": "case",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549496_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549496/one-piece-card-game-500-years-in-the-future-double-pack-set-volume-4-display-case"
+        },
+        {
+          "tcgplayerId": 557077,
+          "name": "Special DON!! Card Pack DP-04",
+          "kind": "booster",
+          "releasedOn": "2024-06-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557077_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557077/one-piece-card-game-500-years-in-the-future-special-don-card-pack-dp-04"
+        }
+      ]
+    },
+    "23424": {
+      "name": "Wings of the Captain Pre-Release Cards",
+      "abbreviation": "OP06 PRE",
+      "modifiedOn": "2024-03-27T12:35:24.723",
+      "publishedOn": "2024-03-08",
+      "products": [
+        {
+          "tcgplayerId": 537437,
+          "name": "Wings of the Captain - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-03-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/537437_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/537437/one-piece-card-game-wings-of-the-captain-pre-release-cards-wings-of-the-captain-pre-release-pack"
+        }
+      ]
+    },
+    "23462": {
+      "name": "Two Legends",
+      "abbreviation": "OP08",
+      "modifiedOn": "2026-04-05T14:04:26.857",
+      "publishedOn": "2024-09-13",
+      "setId": "op-op08",
+      "products": [
+        {
+          "tcgplayerId": 542502,
+          "name": "Two Legends - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542502_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542502/one-piece-card-game-two-legends-two-legends-booster-pack"
+        },
+        {
+          "tcgplayerId": 542503,
+          "name": "Two Legends - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542503_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542503/one-piece-card-game-two-legends-two-legends-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 542504,
+          "name": "Two Legends - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542504_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542504/one-piece-card-game-two-legends-two-legends-booster-box"
+        },
+        {
+          "tcgplayerId": 542505,
+          "name": "Two Legends - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542505_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542505/one-piece-card-game-two-legends-two-legends-booster-box-case"
+        },
+        {
+          "tcgplayerId": 561689,
+          "name": "Double Pack Set Volume 5",
+          "kind": "blister",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561689_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561689/one-piece-card-game-two-legends-double-pack-set-volume-5"
+        },
+        {
+          "tcgplayerId": 561690,
+          "name": "Double Pack Set Volume 5 Display",
+          "kind": "case",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561690_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561690/one-piece-card-game-two-legends-double-pack-set-volume-5-display"
+        },
+        {
+          "tcgplayerId": 561691,
+          "name": "Double Pack Set Volume 5 Display Case",
+          "kind": "case",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/561691_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/561691/one-piece-card-game-two-legends-double-pack-set-volume-5-display-case"
+        },
+        {
+          "tcgplayerId": 586061,
+          "name": "Special DON!! Card Pack DP-05",
+          "kind": "booster",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586061_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586061/one-piece-card-game-two-legends-special-don-card-pack-dp-05"
+        }
+      ]
+    },
+    "23489": {
+      "name": "ST-14: Starter Deck 14 3D2Y",
+      "abbreviation": "ST-14",
+      "modifiedOn": "2026-10-08T15:58:05.313",
+      "publishedOn": "2024-08-16",
+      "setId": "op-st14",
+      "products": [
+        {
+          "tcgplayerId": 545026,
+          "name": "Starter Deck 14: 3D2Y",
+          "kind": "deck",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545026_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545026/one-piece-card-game-st-14-starter-deck-14-3d2y-starter-deck-14-3d2y"
+        },
+        {
+          "tcgplayerId": 545028,
+          "name": "Starter Deck 14: 3D2Y Display",
+          "kind": "case",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545028_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545028/one-piece-card-game-st-14-starter-deck-14-3d2y-starter-deck-14-3d2y-display"
+        },
+        {
+          "tcgplayerId": 545030,
+          "name": "Starter Deck 14: 3D2Y Display Case",
+          "kind": "case",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545030_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545030/one-piece-card-game-st-14-starter-deck-14-3d2y-starter-deck-14-3d2y-display-case"
+        }
+      ]
+    },
+    "23490": {
+      "name": "ST-15: Starter Deck 15 RED Edward.Newgate",
+      "abbreviation": "ST-15",
+      "modifiedOn": "2026-10-08T15:58:14.833",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st15",
+      "products": [
+        {
+          "tcgplayerId": 545033,
+          "name": "Starter Deck 15: RED Edward.Newgate",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545033_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545033/one-piece-card-game-st-15-starter-deck-15-red-edwardnewgate-starter-deck-15-red-edwardnewgate"
+        },
+        {
+          "tcgplayerId": 545034,
+          "name": "Starter Deck 15: RED Edward.Newgate Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545034_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545034/one-piece-card-game-st-15-starter-deck-15-red-edwardnewgate-starter-deck-15-red-edwardnewgate-display"
+        },
+        {
+          "tcgplayerId": 545035,
+          "name": "Starter Deck 15: RED Edward.Newgate Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545035_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545035/one-piece-card-game-st-15-starter-deck-15-red-edwardnewgate-starter-deck-15-red-edwardnewgate-display-case"
+        }
+      ]
+    },
+    "23491": {
+      "name": "ST-16: Starter Deck 16 GREEN Uta",
+      "abbreviation": "ST-16",
+      "modifiedOn": "2026-10-08T15:58:24.487",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st16",
+      "products": [
+        {
+          "tcgplayerId": 545036,
+          "name": "Starter Deck 16: GREEN Uta",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545036_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545036/one-piece-card-game-st-16-starter-deck-16-green-uta-starter-deck-16-green-uta"
+        },
+        {
+          "tcgplayerId": 545037,
+          "name": "Starter Deck 16: GREEN Uta Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545037_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545037/one-piece-card-game-st-16-starter-deck-16-green-uta-starter-deck-16-green-uta-display"
+        },
+        {
+          "tcgplayerId": 545038,
+          "name": "Starter Deck 16: GREEN Uta Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545038_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545038/one-piece-card-game-st-16-starter-deck-16-green-uta-starter-deck-16-green-uta-display-case"
+        }
+      ]
+    },
+    "23492": {
+      "name": "ST-17: Starter Deck 17 BLUE Donquixote Doflamingo",
+      "abbreviation": "ST-17",
+      "modifiedOn": "2026-10-08T15:58:33.617",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st17",
+      "products": [
+        {
+          "tcgplayerId": 545039,
+          "name": "Starter Deck 17: BLUE Donquixote Doflamingo",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545039_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545039/one-piece-card-game-st-17-starter-deck-17-blue-donquixote-doflamingo-starter-deck-17-blue-donquixote-doflamingo"
+        },
+        {
+          "tcgplayerId": 545040,
+          "name": "Starter Deck 17: BLUE Donquixote Doflamingo Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545040_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545040/one-piece-card-game-st-17-starter-deck-17-blue-donquixote-doflamingo-starter-deck-17-blue-donquixote-doflamingo-display"
+        },
+        {
+          "tcgplayerId": 545041,
+          "name": "Starter Deck 17: BLUE Donquixote Doflamingo Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545041_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545041/one-piece-card-game-st-17-starter-deck-17-blue-donquixote-doflamingo-starter-deck-17-blue-donquixote-doflamingo-display-case"
+        }
+      ]
+    },
+    "23493": {
+      "name": "ST-18: Starter Deck 18 PURPLE Monkey.D.Luffy",
+      "abbreviation": "ST-18",
+      "modifiedOn": "2026-10-08T15:58:42.013",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st18",
+      "products": [
+        {
+          "tcgplayerId": 545042,
+          "name": "Starter Deck 18: PURPLE Monkey.D.Luffy",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545042_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545042/one-piece-card-game-st-18-starter-deck-18-purple-monkeydluffy-starter-deck-18-purple-monkeydluffy"
+        },
+        {
+          "tcgplayerId": 545043,
+          "name": "Starter Deck 18: PURPLE Monkey.D.Luffy Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545043_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545043/one-piece-card-game-st-18-starter-deck-18-purple-monkeydluffy-starter-deck-18-purple-monkeydluffy-display"
+        },
+        {
+          "tcgplayerId": 545044,
+          "name": "Starter Deck 18: PURPLE Monkey.D.Luffy Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545044_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545044/one-piece-card-game-st-18-starter-deck-18-purple-monkeydluffy-starter-deck-18-purple-monkeydluffy-display-case"
+        }
+      ]
+    },
+    "23494": {
+      "name": "ST-19: Starter Deck 19 BLACK Smoker",
+      "abbreviation": "ST-19",
+      "modifiedOn": "2026-10-08T15:58:49.32",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st19",
+      "products": [
+        {
+          "tcgplayerId": 545045,
+          "name": "Starter Deck 19: BLACK Smoker",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545045_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545045/one-piece-card-game-st-19-starter-deck-19-black-smoker-starter-deck-19-black-smoker"
+        },
+        {
+          "tcgplayerId": 545046,
+          "name": "Starter Deck 19: BLACK Smoker Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545046_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545046/one-piece-card-game-st-19-starter-deck-19-black-smoker-starter-deck-19-black-smoker-display"
+        },
+        {
+          "tcgplayerId": 545047,
+          "name": "Starter Deck 19: BLACK Smoker Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545047_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545047/one-piece-card-game-st-19-starter-deck-19-black-smoker-starter-deck-19-black-smoker-display-case"
+        }
+      ]
+    },
+    "23495": {
+      "name": "ST-20: Starter Deck 20 YELLOW Charlotte Katakuri",
+      "abbreviation": "ST-20",
+      "modifiedOn": "2026-10-08T15:58:55.617",
+      "publishedOn": "2024-10-25",
+      "setId": "op-st20",
+      "products": [
+        {
+          "tcgplayerId": 545048,
+          "name": "Starter Deck 20: YELLOW Charlotte Katakuri",
+          "kind": "deck",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545048_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545048/one-piece-card-game-st-20-starter-deck-20-yellow-charlotte-katakuri-starter-deck-20-yellow-charlotte-katakuri"
+        },
+        {
+          "tcgplayerId": 545049,
+          "name": "Starter Deck 20: YELLOW Charlotte Katakuri Display",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545049_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545049/one-piece-card-game-st-20-starter-deck-20-yellow-charlotte-katakuri-starter-deck-20-yellow-charlotte-katakuri-display"
+        },
+        {
+          "tcgplayerId": 545050,
+          "name": "Starter Deck 20: YELLOW Charlotte Katakuri Display Case",
+          "kind": "case",
+          "releasedOn": "2024-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545050_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545050/one-piece-card-game-st-20-starter-deck-20-yellow-charlotte-katakuri-starter-deck-20-yellow-charlotte-katakuri-display-case"
+        }
+      ]
+    },
+    "23496": {
+      "name": "Premium Booster -The Best-",
+      "abbreviation": "PRB-01",
+      "modifiedOn": "2026-02-06T14:23:33.453",
+      "publishedOn": "2024-11-08",
+      "setId": "op-prb01",
+      "products": [
+        {
+          "tcgplayerId": 545398,
+          "name": "Premium Booster - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545398_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545398/one-piece-card-game-premium-booster-the-best-premium-booster-booster-pack"
+        },
+        {
+          "tcgplayerId": 545399,
+          "name": "Premium Booster - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545399_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545399/one-piece-card-game-premium-booster-the-best-premium-booster-booster-box"
+        },
+        {
+          "tcgplayerId": 545400,
+          "name": "Premium Booster - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545400_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545400/one-piece-card-game-premium-booster-the-best-premium-booster-booster-box-case"
+        },
+        {
+          "tcgplayerId": 622980,
+          "name": "Premium Booster - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622980_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622980/one-piece-card-game-premium-booster-the-best-premium-booster-sleeved-booster-pack"
+        }
+      ]
+    },
+    "23512": {
+      "name": "500 Years in the Future Pre-Release Cards",
+      "abbreviation": "OP07 PRE",
+      "modifiedOn": "2025-05-01T18:10:31.933",
+      "publishedOn": "2024-06-21",
+      "products": [
+        {
+          "tcgplayerId": 552054,
+          "name": "500 Years in the Future - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-06-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/552054_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/552054/one-piece-card-game-500-years-in-the-future-pre-release-cards-500-years-in-the-future-pre-release-pack"
+        }
+      ]
+    },
+    "23589": {
+      "name": "Emperors in the New World",
+      "abbreviation": "OP09",
+      "modifiedOn": "2026-09-08T13:39:46.39",
+      "publishedOn": "2024-12-13",
+      "setId": "op-op09",
+      "products": [
+        {
+          "tcgplayerId": 563833,
+          "name": "Emperors in the New World - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563833_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563833/one-piece-card-game-emperors-in-the-new-world-emperors-in-the-new-world-booster-pack"
+        },
+        {
+          "tcgplayerId": 563834,
+          "name": "Emperors in the New World - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563834_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563834/one-piece-card-game-emperors-in-the-new-world-emperors-in-the-new-world-booster-box"
+        },
+        {
+          "tcgplayerId": 563835,
+          "name": "Emperors in the New World - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563835_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563835/one-piece-card-game-emperors-in-the-new-world-emperors-in-the-new-world-booster-box-case"
+        },
+        {
+          "tcgplayerId": 563842,
+          "name": "Double Pack Set Volume 6",
+          "kind": "blister",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563842_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563842/one-piece-card-game-emperors-in-the-new-world-double-pack-set-volume-6"
+        },
+        {
+          "tcgplayerId": 563843,
+          "name": "Double Pack Set Volume 6 Display",
+          "kind": "case",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563843_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563843/one-piece-card-game-emperors-in-the-new-world-double-pack-set-volume-6-display"
+        },
+        {
+          "tcgplayerId": 606604,
+          "name": "Emperors in the New World - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606604_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606604/one-piece-card-game-emperors-in-the-new-world-emperors-in-the-new-world-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 617844,
+          "name": "Special DON!! Card Pack DP-06",
+          "kind": "booster",
+          "releasedOn": "2024-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617844_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/617844/one-piece-card-game-emperors-in-the-new-world-special-don-card-pack-dp-06"
+        }
+      ]
+    },
+    "23590": {
+      "name": "Emperors in the New World: 2nd Anniversary Tournament Cards",
+      "abbreviation": "OP09 ANN",
+      "modifiedOn": "2025-10-10T19:04:43.637",
+      "publishedOn": "2024-12-06",
+      "products": [
+        {
+          "tcgplayerId": 600705,
+          "name": "Emperors in the New World - 2nd Anniversary Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2024-12-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/600705_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/600705/one-piece-card-game-emperors-in-the-new-world-2nd-anniversary-tournament-cards-emperors-in-the-new-world-2nd-anniversary-tournament-pack"
+        }
+      ]
+    },
+    "23737": {
+      "name": "Two Legends Pre-Release Cards",
+      "abbreviation": "OP08 PRE",
+      "modifiedOn": "2025-04-10T14:33:52.243",
+      "publishedOn": "2024-09-06",
+      "products": [
+        {
+          "tcgplayerId": 577144,
+          "name": "Two Legends - Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-09-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/577144_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/577144/one-piece-card-game-two-legends-pre-release-cards-two-legends-pre-release-pack"
+        }
+      ]
+    },
+    "23766": {
+      "name": "Royal Blood",
+      "abbreviation": "OP10",
+      "modifiedOn": "2026-07-16T18:40:09.333",
+      "publishedOn": "2025-03-21",
+      "setId": "op-op10",
+      "products": [
+        {
+          "tcgplayerId": 586670,
+          "name": "Royal Blood Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-03-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586670_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586670/one-piece-card-game-royal-blood-royal-blood-booster-pack"
+        },
+        {
+          "tcgplayerId": 586671,
+          "name": "Royal Blood Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-03-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586671_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586671/one-piece-card-game-royal-blood-royal-blood-booster-box"
+        },
+        {
+          "tcgplayerId": 586673,
+          "name": "Royal Blood Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-03-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586673_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586673/one-piece-card-game-royal-blood-royal-blood-booster-box-case"
+        },
+        {
+          "tcgplayerId": 624523,
+          "name": "Royal Blood - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-03-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624523_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624523/one-piece-card-game-royal-blood-royal-blood-sleeved-booster-pack"
+        }
+      ]
+    },
+    "23834": {
+      "name": "Extra Booster: Anime 25th Collection",
+      "abbreviation": "EB02",
+      "modifiedOn": "2026-10-07T11:49:24.343",
+      "publishedOn": "2025-05-09",
+      "setId": "op-eb02",
+      "products": [
+        {
+          "tcgplayerId": 594068,
+          "name": "Extra Booster: Anime 25th Collection Pack",
+          "kind": "booster",
+          "releasedOn": "2025-05-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594068_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594068/one-piece-card-game-extra-booster-anime-25th-collection-extra-booster-anime-25th-collection-pack"
+        },
+        {
+          "tcgplayerId": 594069,
+          "name": "Extra Booster: Anime 25th Collection Box",
+          "kind": "booster",
+          "releasedOn": "2025-05-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594069_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594069/one-piece-card-game-extra-booster-anime-25th-collection-extra-booster-anime-25th-collection-box"
+        },
+        {
+          "tcgplayerId": 594070,
+          "name": "Extra Booster: Anime 25th Collection Box Case",
+          "kind": "case",
+          "releasedOn": "2025-05-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/594070_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/594070/one-piece-card-game-extra-booster-anime-25th-collection-extra-booster-anime-25th-collection-box-case"
+        }
+      ]
+    },
+    "23890": {
+      "name": "Revision Pack Cards",
+      "abbreviation": "OP-RP",
+      "modifiedOn": "2026-04-25T17:48:38.433",
+      "publishedOn": "2024-11-26",
+      "products": []
+    },
+    "23907": {
+      "name": "One Piece Demo Deck Cards",
+      "abbreviation": "OP-DD",
+      "modifiedOn": "2026-07-13T16:06:45.973",
+      "publishedOn": "2024-12-05",
+      "products": []
+    },
+    "23991": {
+      "name": "ST-21: Starter Deck 21 EX Gear 5",
+      "abbreviation": "ST-21",
+      "modifiedOn": "2026-10-08T16:01:30.043",
+      "publishedOn": "2025-03-14",
+      "setId": "op-st21",
+      "products": [
+        {
+          "tcgplayerId": 606575,
+          "name": "Starter Deck EX: Gear 5",
+          "kind": "deck",
+          "releasedOn": "2025-03-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606575_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606575/one-piece-card-game-st-21-starter-deck-21-ex-gear-5-starter-deck-ex-gear-5"
+        },
+        {
+          "tcgplayerId": 606576,
+          "name": "Starter Deck EX: Gear 5 Display",
+          "kind": "case",
+          "releasedOn": "2025-03-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606576_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606576/one-piece-card-game-st-21-starter-deck-21-ex-gear-5-starter-deck-ex-gear-5-display"
+        },
+        {
+          "tcgplayerId": 628485,
+          "name": "Starter Deck EX: Gear 5 Bonus Pack",
+          "kind": "deck",
+          "releasedOn": "2025-03-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628485_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628485/one-piece-card-game-st-21-starter-deck-21-ex-gear-5-starter-deck-ex-gear-5-bonus-pack"
+        }
+      ]
+    },
+    "24068": {
+      "name": "Royal Blood Release Event Cards",
+      "abbreviation": "OP10 RE",
+      "modifiedOn": "2025-05-01T18:12:19.65",
+      "publishedOn": "2025-03-14",
+      "products": [
+        {
+          "tcgplayerId": 620841,
+          "name": "Royal Blood - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-03-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620841_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620841/one-piece-card-game-royal-blood-release-event-cards-royal-blood-release-event-pack"
+        }
+      ]
+    },
+    "24241": {
+      "name": "A Fist of Divine Speed",
+      "abbreviation": "OP11",
+      "modifiedOn": "2026-07-15T22:13:52.673",
+      "publishedOn": "2025-06-06",
+      "setId": "op-op11",
+      "products": [
+        {
+          "tcgplayerId": 606561,
+          "name": "Double Pack Set Volume 7",
+          "kind": "blister",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606561_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606561/one-piece-card-game-a-fist-of-divine-speed-double-pack-set-volume-7"
+        },
+        {
+          "tcgplayerId": 606562,
+          "name": "Double Pack Set Volume 7 Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/606562_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/606562/one-piece-card-game-a-fist-of-divine-speed-double-pack-set-volume-7-display"
+        },
+        {
+          "tcgplayerId": 620179,
+          "name": "A Fist of Divine Speed Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620179_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620179/one-piece-card-game-a-fist-of-divine-speed-a-fist-of-divine-speed-booster-pack"
+        },
+        {
+          "tcgplayerId": 620180,
+          "name": "A Fist of Divine Speed Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620180_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620180/one-piece-card-game-a-fist-of-divine-speed-a-fist-of-divine-speed-booster-box"
+        },
+        {
+          "tcgplayerId": 620181,
+          "name": "A Fist of Divine Speed Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620181_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620181/one-piece-card-game-a-fist-of-divine-speed-a-fist-of-divine-speed-booster-box-case"
+        },
+        {
+          "tcgplayerId": 636741,
+          "name": "A Fist of Divine Speed - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636741_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/636741/one-piece-card-game-a-fist-of-divine-speed-a-fist-of-divine-speed-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 636743,
+          "name": "Special DON!! Card Pack DP-07",
+          "kind": "booster",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/636743_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/636743/one-piece-card-game-a-fist-of-divine-speed-special-don-card-pack-dp-07"
+        }
+      ]
+    },
+    "24242": {
+      "name": "A Fist of Divine Speed Release Event Cards",
+      "abbreviation": "OP11 RE",
+      "modifiedOn": "2025-06-10T18:38:30.397",
+      "publishedOn": "2025-05-30",
+      "products": [
+        {
+          "tcgplayerId": 634527,
+          "name": "A Fist of Divine Speed - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-05-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634527_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/634527/one-piece-card-game-a-fist-of-divine-speed-release-event-cards-a-fist-of-divine-speed-release-event-pack"
+        }
+      ]
+    },
+    "24282": {
+      "name": "ST-23: Starter Deck 23 RED Shanks",
+      "abbreviation": "ST-23",
+      "modifiedOn": "2026-10-08T16:01:50.463",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st23",
+      "products": [
+        {
+          "tcgplayerId": 627669,
+          "name": "Starter Deck 23: RED Shanks",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627669_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627669/one-piece-card-game-st-23-starter-deck-23-red-shanks-starter-deck-23-red-shanks"
+        },
+        {
+          "tcgplayerId": 627670,
+          "name": "Starter Deck 23: RED Shanks Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627670_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627670/one-piece-card-game-st-23-starter-deck-23-red-shanks-starter-deck-23-red-shanks-display"
+        }
+      ]
+    },
+    "24283": {
+      "name": "ST-24: Starter Deck 24 GREEN Jewelry Bonney",
+      "abbreviation": "ST-24",
+      "modifiedOn": "2026-10-08T16:02:00.477",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st24",
+      "products": [
+        {
+          "tcgplayerId": 627671,
+          "name": "Starter Deck 24: GREEN Jewelry Bonney Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627671_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627671/one-piece-card-game-st-24-starter-deck-24-green-jewelry-bonney-starter-deck-24-green-jewelry-bonney-display"
+        },
+        {
+          "tcgplayerId": 627672,
+          "name": "Starter Deck 24: GREEN Jewelry Bonney",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627672_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627672/one-piece-card-game-st-24-starter-deck-24-green-jewelry-bonney-starter-deck-24-green-jewelry-bonney"
+        }
+      ]
+    },
+    "24284": {
+      "name": "ST-25: Starter Deck 25 BLUE Buggy",
+      "abbreviation": "ST-25",
+      "modifiedOn": "2026-10-08T16:02:13.557",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st25",
+      "products": [
+        {
+          "tcgplayerId": 627674,
+          "name": "Starter Deck 25: BLUE Buggy",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627674_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627674/one-piece-card-game-st-25-starter-deck-25-blue-buggy-starter-deck-25-blue-buggy"
+        },
+        {
+          "tcgplayerId": 627675,
+          "name": "Starter Deck 25: BLUE Buggy Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627675_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627675/one-piece-card-game-st-25-starter-deck-25-blue-buggy-starter-deck-25-blue-buggy-display"
+        }
+      ]
+    },
+    "24285": {
+      "name": "ST-26: Starter Deck 26 PURPLE/BLACK Monkey.D.Luffy",
+      "abbreviation": "ST-26",
+      "modifiedOn": "2026-10-08T16:02:32.677",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st26",
+      "products": [
+        {
+          "tcgplayerId": 627676,
+          "name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627676_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627676/one-piece-card-game-st-26-starter-deck-26-purple-black-monkeydluffy-starter-deck-26-purple-black-monkeydluffy-display"
+        },
+        {
+          "tcgplayerId": 627677,
+          "name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627677_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627677/one-piece-card-game-st-26-starter-deck-26-purple-black-monkeydluffy-starter-deck-26-purple-black-monkeydluffy"
+        }
+      ]
+    },
+    "24286": {
+      "name": "ST-27: Starter Deck 27 BLACK Marshall.D.Teach",
+      "abbreviation": "ST-27",
+      "modifiedOn": "2026-10-08T16:02:45.797",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st27",
+      "products": [
+        {
+          "tcgplayerId": 627678,
+          "name": "Starter Deck 27: BLACK Marshall.D.Teach",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627678_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627678/one-piece-card-game-st-27-starter-deck-27-black-marshalldteach-starter-deck-27-black-marshalldteach"
+        },
+        {
+          "tcgplayerId": 627679,
+          "name": "Starter Deck 27: BLACK Marshall.D.Teach Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627679_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627679/one-piece-card-game-st-27-starter-deck-27-black-marshalldteach-starter-deck-27-black-marshalldteach-display"
+        }
+      ]
+    },
+    "24287": {
+      "name": "ST-28: Starter Deck 28 GREEN/YELLOW Yamato",
+      "abbreviation": "ST-28",
+      "modifiedOn": "2026-10-08T16:02:54.003",
+      "publishedOn": "2025-06-06",
+      "setId": "op-st28",
+      "products": [
+        {
+          "tcgplayerId": 627680,
+          "name": "Starter Deck 28: GREEN/YELLOW Yamato Display",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627680_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627680/one-piece-card-game-st-28-starter-deck-28-green-yellow-yamato-starter-deck-28-green-yellow-yamato-display"
+        },
+        {
+          "tcgplayerId": 627681,
+          "name": "Starter Deck 28: GREEN/YELLOW Yamato",
+          "kind": "deck",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/627681_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/627681/one-piece-card-game-st-28-starter-deck-28-green-yellow-yamato-starter-deck-28-green-yellow-yamato"
+        }
+      ]
+    },
+    "24302": {
+      "name": "Legacy of the Master",
+      "abbreviation": "OP12",
+      "modifiedOn": "2026-07-15T22:13:17.917",
+      "publishedOn": "2025-08-22",
+      "setId": "op-op12",
+      "products": [
+        {
+          "tcgplayerId": 628345,
+          "name": "Legacy of the Master Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628345_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628345/one-piece-card-game-legacy-of-the-master-legacy-of-the-master-booster-pack"
+        },
+        {
+          "tcgplayerId": 628346,
+          "name": "Legacy of the Master Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628346_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628346/one-piece-card-game-legacy-of-the-master-legacy-of-the-master-booster-box"
+        },
+        {
+          "tcgplayerId": 628347,
+          "name": "Legacy of the Master Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628347_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628347/one-piece-card-game-legacy-of-the-master-legacy-of-the-master-booster-box-case"
+        },
+        {
+          "tcgplayerId": 628348,
+          "name": "Double Pack Set Vol. 8",
+          "kind": "blister",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628348_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628348/one-piece-card-game-legacy-of-the-master-double-pack-set-vol-8"
+        },
+        {
+          "tcgplayerId": 628349,
+          "name": "Double Pack Set Vol. 8 Display",
+          "kind": "case",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628349_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628349/one-piece-card-game-legacy-of-the-master-double-pack-set-vol-8-display"
+        },
+        {
+          "tcgplayerId": 650645,
+          "name": "Legacy of the Master - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/650645_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/650645/one-piece-card-game-legacy-of-the-master-legacy-of-the-master-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 651980,
+          "name": "Special DON!! Card Pack DP-08",
+          "kind": "booster",
+          "releasedOn": "2025-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/651980_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/651980/one-piece-card-game-legacy-of-the-master-special-don-card-pack-dp-08"
+        }
+      ]
+    },
+    "24303": {
+      "name": "Carrying On His Will",
+      "abbreviation": "OP13",
+      "modifiedOn": "2026-10-01T14:45:26.337",
+      "publishedOn": "2025-11-07",
+      "setId": "op-op13",
+      "products": [
+        {
+          "tcgplayerId": 628351,
+          "name": "Carrying On His Will Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628351_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628351/one-piece-card-game-carrying-on-his-will-carrying-on-his-will-booster-pack"
+        },
+        {
+          "tcgplayerId": 628352,
+          "name": "Carrying On His Will Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628352_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628352/one-piece-card-game-carrying-on-his-will-carrying-on-his-will-booster-box"
+        },
+        {
+          "tcgplayerId": 628353,
+          "name": "Carrying On His Will Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628353_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628353/one-piece-card-game-carrying-on-his-will-carrying-on-his-will-booster-box-case"
+        },
+        {
+          "tcgplayerId": 652643,
+          "name": "Carrying On His Will Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/652643_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/652643/one-piece-card-game-carrying-on-his-will-carrying-on-his-will-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24304": {
+      "name": "ST-22: Starter Deck 22 Ace & Newgate",
+      "abbreviation": "ST-22",
+      "modifiedOn": "2026-10-08T16:01:42.363",
+      "publishedOn": "2025-09-05",
+      "setId": "op-st22",
+      "products": [
+        {
+          "tcgplayerId": 628448,
+          "name": "Starter Deck 22: Ace & Newgate",
+          "kind": "deck",
+          "releasedOn": "2025-09-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628448_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628448/one-piece-card-game-st-22-starter-deck-22-ace-and-newgate-starter-deck-22-ace-and-newgate"
+        },
+        {
+          "tcgplayerId": 628449,
+          "name": "Starter Deck 22: Ace & Newgate Display",
+          "kind": "case",
+          "releasedOn": "2025-09-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628449_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628449/one-piece-card-game-st-22-starter-deck-22-ace-and-newgate-starter-deck-22-ace-and-newgate-display"
+        }
+      ]
+    },
+    "24305": {
+      "name": "Premium Booster -The Best- Vol. 2",
+      "abbreviation": "PRB-02",
+      "modifiedOn": "2026-07-15T22:12:21.567",
+      "publishedOn": "2025-10-03",
+      "setId": "op-prb02",
+      "products": [
+        {
+          "tcgplayerId": 628451,
+          "name": "Premium Booster Vol. 2 - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628451_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628451/one-piece-card-game-premium-booster-the-best-vol-2-premium-booster-vol-2-booster-pack"
+        },
+        {
+          "tcgplayerId": 628452,
+          "name": "Premium Booster Vol. 2 - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628452_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628452/one-piece-card-game-premium-booster-the-best-vol-2-premium-booster-vol-2-booster-box"
+        },
+        {
+          "tcgplayerId": 628453,
+          "name": "Premium Booster Vol. 2 - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628453_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628453/one-piece-card-game-premium-booster-the-best-vol-2-premium-booster-vol-2-booster-box-case"
+        },
+        {
+          "tcgplayerId": 657211,
+          "name": "Premium Booster Vol. 2 - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657211_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657211/one-piece-card-game-premium-booster-the-best-vol-2-premium-booster-vol-2-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24306": {
+      "name": "Learn Together Deck Set",
+      "abbreviation": "LT-01",
+      "modifiedOn": "2026-10-08T15:46:59.827",
+      "publishedOn": "2025-10-03",
+      "products": [
+        {
+          "tcgplayerId": 628478,
+          "name": "Learn Together Deck Set",
+          "kind": "deck",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628478_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628478/one-piece-card-game-learn-together-deck-set-learn-together-deck-set"
+        },
+        {
+          "tcgplayerId": 628479,
+          "name": "Learn Together Deck Set Display",
+          "kind": "case",
+          "releasedOn": "2025-10-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628479_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628479/one-piece-card-game-learn-together-deck-set-learn-together-deck-set-display"
+        }
+      ]
+    },
+    "24406": {
+      "name": "Legacy of the Master Release Event Cards",
+      "abbreviation": "OP12 RE",
+      "modifiedOn": "2025-08-15T13:27:08.743",
+      "publishedOn": "2025-08-15",
+      "products": [
+        {
+          "tcgplayerId": 649244,
+          "name": "Legacy of the Master - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-08-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649244_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649244/one-piece-card-game-legacy-of-the-master-release-event-cards-legacy-of-the-master-release-event-pack"
+        }
+      ]
+    },
+    "24498": {
+      "name": "Carrying On His Will: 3rd Anniversary Tournament Cards",
+      "abbreviation": "OP13 ANN",
+      "modifiedOn": "2026-06-28T15:47:13.743",
+      "publishedOn": "2025-10-31",
+      "products": [
+        {
+          "tcgplayerId": 657796,
+          "name": "Carrying On His Will - 3rd Anniversary Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657796_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657796/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-carrying-on-his-will-3rd-anniversary-tournament-pack"
+        },
+        {
+          "tcgplayerId": 657797,
+          "name": "Carrying On His Will - 3rd Anniversary Tournament 3 Brothers Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657797_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657797/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-carrying-on-his-will-3rd-anniversary-tournament-3-brothers-pack"
+        }
+      ]
+    },
+    "24537": {
+      "name": "The Azure Sea's Seven",
+      "abbreviation": "OP14-EB04",
+      "modifiedOn": "2026-10-07T11:48:59.68",
+      "publishedOn": "2026-01-16",
+      "products": [
+        {
+          "tcgplayerId": 665598,
+          "name": "The Azure Sea's Seven Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/665598_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/665598/one-piece-card-game-the-azure-seas-seven-the-azure-seas-seven-booster-box"
+        },
+        {
+          "tcgplayerId": 665599,
+          "name": "The Azure Sea's Seven Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/665599_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/665599/one-piece-card-game-the-azure-seas-seven-the-azure-seas-seven-booster-box-case"
+        },
+        {
+          "tcgplayerId": 666576,
+          "name": "The Azure Sea's Seven Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666576_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666576/one-piece-card-game-the-azure-seas-seven-the-azure-seas-seven-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 666577,
+          "name": "The Azure Sea's Seven Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666577_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666577/one-piece-card-game-the-azure-seas-seven-the-azure-seas-seven-booster-pack"
+        },
+        {
+          "tcgplayerId": 666578,
+          "name": "Double Pack Set Vol. 9",
+          "kind": "blister",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666578_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666578/one-piece-card-game-the-azure-seas-seven-double-pack-set-vol-9"
+        },
+        {
+          "tcgplayerId": 666579,
+          "name": "Double Pack Set Vol. 9 Display",
+          "kind": "case",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666579_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666579/one-piece-card-game-the-azure-seas-seven-double-pack-set-vol-9-display"
+        },
+        {
+          "tcgplayerId": 672372,
+          "name": "The Azure Sea's Seven - Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672372_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/672372/one-piece-card-game-the-azure-seas-seven-the-azure-seas-seven-dash-pack"
+        },
+        {
+          "tcgplayerId": 675812,
+          "name": "Special DON!! Card Pack DP-09",
+          "kind": "booster",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675812_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675812/one-piece-card-game-the-azure-seas-seven-special-don-card-pack-dp-09"
+        }
+      ]
+    },
+    "24545": {
+      "name": "Extra Booster: One Piece Heroines Edition",
+      "abbreviation": "EB03",
+      "modifiedOn": "2026-10-07T11:49:05.48",
+      "publishedOn": "2026-02-20",
+      "setId": "op-eb03",
+      "products": [
+        {
+          "tcgplayerId": 666727,
+          "name": "Extra Booster: One Piece Heroines Edition Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666727_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666727/one-piece-card-game-extra-booster-one-piece-heroines-edition-extra-booster-one-piece-heroines-edition-pack"
+        },
+        {
+          "tcgplayerId": 666891,
+          "name": "Extra Booster: One Piece Heroines Edition Box",
+          "kind": "booster",
+          "releasedOn": "2026-02-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666891_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666891/one-piece-card-game-extra-booster-one-piece-heroines-edition-extra-booster-one-piece-heroines-edition-box"
+        },
+        {
+          "tcgplayerId": 666892,
+          "name": "Extra Booster: One Piece Heroines Edition Box Case",
+          "kind": "case",
+          "releasedOn": "2026-02-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666892_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666892/one-piece-card-game-extra-booster-one-piece-heroines-edition-extra-booster-one-piece-heroines-edition-box-case"
+        },
+        {
+          "tcgplayerId": 675744,
+          "name": "One Piece Heroines Campaign - Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675744_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675744/one-piece-card-game-extra-booster-one-piece-heroines-edition-one-piece-heroines-campaign-dash-pack"
+        },
+        {
+          "tcgplayerId": 679503,
+          "name": "Extra Booster: One Piece Heroines Edition Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679503_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679503/one-piece-card-game-extra-booster-one-piece-heroines-edition-extra-booster-one-piece-heroines-edition-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24575": {
+      "name": "ST-29: Starter Deck 29 Egghead",
+      "abbreviation": "ST-29",
+      "modifiedOn": "2026-10-08T16:03:09.037",
+      "publishedOn": "2026-01-16",
+      "setId": "op-st29",
+      "products": [
+        {
+          "tcgplayerId": 671479,
+          "name": "Starter Deck 29: Egghead",
+          "kind": "deck",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671479_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671479/one-piece-card-game-st-29-starter-deck-29-egghead-starter-deck-29-egghead"
+        },
+        {
+          "tcgplayerId": 671480,
+          "name": "Starter Deck 29: Egghead Display",
+          "kind": "case",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671480_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671480/one-piece-card-game-st-29-starter-deck-29-egghead-starter-deck-29-egghead-display"
+        },
+        {
+          "tcgplayerId": 672894,
+          "name": "Starter Deck 29: Egghead Bonus Pack",
+          "kind": "deck",
+          "releasedOn": "2026-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672894_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/672894/one-piece-card-game-st-29-starter-deck-29-egghead-starter-deck-29-egghead-bonus-pack"
+        }
+      ]
+    },
+    "24579": {
+      "name": "The Azure Sea's Seven Release Event Cards",
+      "abbreviation": "OP14 RE",
+      "modifiedOn": "2026-06-16T01:31:33.443",
+      "publishedOn": "2026-01-09",
+      "products": [
+        {
+          "tcgplayerId": 671882,
+          "name": "The Azure Sea's Seven - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-01-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671882_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671882/one-piece-card-game-the-azure-seas-seven-release-event-cards-the-azure-seas-seven-release-event-pack"
+        }
+      ]
+    },
+    "24637": {
+      "name": "Adventure on Kami's Island",
+      "abbreviation": "OP15-EB04",
+      "modifiedOn": "2026-10-07T11:48:44.107",
+      "publishedOn": "2026-04-03",
+      "products": [
+        {
+          "tcgplayerId": 682056,
+          "name": "Adventure on Kami's Island Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682056_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682056/one-piece-card-game-adventure-on-kamis-island-adventure-on-kamis-island-booster-pack"
+        },
+        {
+          "tcgplayerId": 682057,
+          "name": "Adventure on Kami's Island Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682057_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682057/one-piece-card-game-adventure-on-kamis-island-adventure-on-kamis-island-booster-box"
+        },
+        {
+          "tcgplayerId": 682058,
+          "name": "Adventure on Kami's Island Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682058_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682058/one-piece-card-game-adventure-on-kamis-island-adventure-on-kamis-island-booster-box-case"
+        },
+        {
+          "tcgplayerId": 682789,
+          "name": "Double Pack Set Vol. 10",
+          "kind": "blister",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682789_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682789/one-piece-card-game-adventure-on-kamis-island-double-pack-set-vol-10"
+        },
+        {
+          "tcgplayerId": 682790,
+          "name": "Double Pack Set Vol. 10 Display",
+          "kind": "case",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682790_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682790/one-piece-card-game-adventure-on-kamis-island-double-pack-set-vol-10-display"
+        },
+        {
+          "tcgplayerId": 686290,
+          "name": "Adventure on Kami's Island - Dash Pack",
+          "kind": "booster",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686290_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/686290/one-piece-card-game-adventure-on-kamis-island-adventure-on-kamis-island-dash-pack"
+        },
+        {
+          "tcgplayerId": 688634,
+          "name": "Adventure on Kami's Island - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688634_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/688634/one-piece-card-game-adventure-on-kamis-island-adventure-on-kamis-island-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 689162,
+          "name": "Special DON!! Card Pack DP-10",
+          "kind": "booster",
+          "releasedOn": "2026-04-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/689162_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/689162/one-piece-card-game-adventure-on-kamis-island-special-don-card-pack-dp-10"
+        }
+      ]
+    },
+    "24638": {
+      "name": "Adventure on Kami's Island Release Event Cards",
+      "abbreviation": "OP15 RE",
+      "modifiedOn": "2026-04-21T20:49:19.597",
+      "publishedOn": "2026-03-27",
+      "products": [
+        {
+          "tcgplayerId": 686456,
+          "name": "Adventure on Kami's Island - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-03-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686456_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/686456/one-piece-card-game-adventure-on-kamis-island-release-event-cards-adventure-on-kamis-island-release-event-pack"
+        }
+      ]
+    },
+    "24664": {
+      "name": "The Time of Battle",
+      "abbreviation": "OP16",
+      "modifiedOn": "2026-08-12T15:26:22.413",
+      "publishedOn": "2026-06-12",
+      "setId": "op-op16",
+      "products": [
+        {
+          "tcgplayerId": 689336,
+          "name": "The Time of Battle Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/689336_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/689336/one-piece-card-game-the-time-of-battle-the-time-of-battle-booster-box"
+        },
+        {
+          "tcgplayerId": 689338,
+          "name": "The Time of Battle Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/689338_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/689338/one-piece-card-game-the-time-of-battle-the-time-of-battle-booster-box-case"
+        },
+        {
+          "tcgplayerId": 689341,
+          "name": "The Time of Battle Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/689341_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/689341/one-piece-card-game-the-time-of-battle-the-time-of-battle-booster-pack"
+        },
+        {
+          "tcgplayerId": 689347,
+          "name": "The Time of Battle Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/689347_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/689347/one-piece-card-game-the-time-of-battle-the-time-of-battle-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 693364,
+          "name": "Double Pack Set Vol. 11",
+          "kind": "blister",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693364_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/693364/one-piece-card-game-the-time-of-battle-double-pack-set-vol-11"
+        },
+        {
+          "tcgplayerId": 693365,
+          "name": "Double Pack Set Vol. 11 Display",
+          "kind": "case",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693365_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/693365/one-piece-card-game-the-time-of-battle-double-pack-set-vol-11-display"
+        },
+        {
+          "tcgplayerId": 701593,
+          "name": "Special DON!! Card Pack DP-11",
+          "kind": "booster",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/701593_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/701593/one-piece-card-game-the-time-of-battle-special-don-card-pack-dp-11"
+        }
+      ]
+    },
+    "24677": {
+      "name": "The Time of Battle Release Event Cards",
+      "abbreviation": "OP16 RE",
+      "modifiedOn": "2026-06-16T15:41:06.043",
+      "publishedOn": "2026-06-05",
+      "products": [
+        {
+          "tcgplayerId": 697491,
+          "name": "The Time of Battle - Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/697491_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/697491/one-piece-card-game-the-time-of-battle-release-event-cards-the-time-of-battle-release-event-pack"
+        }
+      ]
+    },
+    "24678": {
+      "name": "ST-30: Starter Deck 30 EX Luffy & Ace",
+      "abbreviation": "ST-30",
+      "modifiedOn": "2026-10-08T16:03:21.453",
+      "publishedOn": "2026-06-12",
+      "setId": "op-st30",
+      "products": [
+        {
+          "tcgplayerId": 692138,
+          "name": "Starter Deck EX: Luffy & Ace",
+          "kind": "deck",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692138_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692138/one-piece-card-game-st-30-starter-deck-30-ex-luffy-and-ace-starter-deck-ex-luffy-and-ace"
+        },
+        {
+          "tcgplayerId": 692139,
+          "name": "Starter Deck EX: Luffy & Ace Display",
+          "kind": "case",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692139_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692139/one-piece-card-game-st-30-starter-deck-30-ex-luffy-and-ace-starter-deck-ex-luffy-and-ace-display"
+        },
+        {
+          "tcgplayerId": 692140,
+          "name": "Starter Deck EX: Luffy & Ace Bonus Pack",
+          "kind": "deck",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692140_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692140/one-piece-card-game-st-30-starter-deck-30-ex-luffy-and-ace-starter-deck-ex-luffy-and-ace-bonus-pack"
+        }
+      ]
+    },
+    "24708": {
+      "name": "Set Sail Deck Set",
+      "abbreviation": "SD01",
+      "modifiedOn": "2026-10-08T15:47:05.967",
+      "publishedOn": "2026-09-18",
+      "products": [
+        {
+          "tcgplayerId": 694893,
+          "name": "Set Sail Deck Set",
+          "kind": "deck",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694893_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694893/one-piece-card-game-set-sail-deck-set-set-sail-deck-set"
+        },
+        {
+          "tcgplayerId": 694894,
+          "name": "Set Sail Deck Set Display",
+          "kind": "case",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694894_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694894/one-piece-card-game-set-sail-deck-set-set-sail-deck-set-display"
+        }
+      ]
+    },
+    "24736": {
+      "name": "The World's Strongest Warriors",
+      "abbreviation": "OP17",
+      "modifiedOn": "2026-09-21T13:09:20.52",
+      "publishedOn": "2026-08-28",
+      "setId": "op-op17",
+      "products": [
+        {
+          "tcgplayerId": 704752,
+          "name": "The World's Strongest Warriors Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704752_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704752/one-piece-card-game-the-worlds-strongest-warriors-the-worlds-strongest-warriors-booster-box"
+        },
+        {
+          "tcgplayerId": 704754,
+          "name": "The World's Strongest Warriors Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704754_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704754/one-piece-card-game-the-worlds-strongest-warriors-the-worlds-strongest-warriors-booster-box-case"
+        },
+        {
+          "tcgplayerId": 704755,
+          "name": "The World's Strongest Warriors Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704755_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704755/one-piece-card-game-the-worlds-strongest-warriors-the-worlds-strongest-warriors-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 704756,
+          "name": "The World's Strongest Warriors Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704756_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704756/one-piece-card-game-the-worlds-strongest-warriors-the-worlds-strongest-warriors-booster-pack"
+        },
+        {
+          "tcgplayerId": 704757,
+          "name": "Double Pack Set Vol. 12",
+          "kind": "blister",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704757_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704757/one-piece-card-game-the-worlds-strongest-warriors-double-pack-set-vol-12"
+        },
+        {
+          "tcgplayerId": 704878,
+          "name": "Double Pack Set Vol. 12 Display",
+          "kind": "case",
+          "releasedOn": "2026-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704878_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704878/one-piece-card-game-the-worlds-strongest-warriors-double-pack-set-vol-12-display"
+        }
+      ]
+    },
+    "24749": {
+      "name": "ST-31: Starter Deck 31 RED Monkey.D.Luffy",
+      "abbreviation": "ST-31",
+      "modifiedOn": "2026-10-14T17:49:21.957",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st31",
+      "products": [
+        {
+          "tcgplayerId": 704885,
+          "name": "Starter Deck 31: RED Monkey.D.Luffy",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704885_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704885/one-piece-card-game-st-31-starter-deck-31-red-monkeydluffy-starter-deck-31-red-monkeydluffy"
+        },
+        {
+          "tcgplayerId": 704886,
+          "name": "Starter Deck 31: RED Monkey.D.Luffy Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704886_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704886/one-piece-card-game-st-31-starter-deck-31-red-monkeydluffy-starter-deck-31-red-monkeydluffy-display"
+        }
+      ]
+    },
+    "24750": {
+      "name": "ST-32: Starter Deck 32 GREEN Roronoa Zoro",
+      "abbreviation": "ST-32",
+      "modifiedOn": "2026-10-14T17:53:09.61",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st32",
+      "products": [
+        {
+          "tcgplayerId": 704888,
+          "name": "Starter Deck 32: GREEN Roronoa Zoro Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704888_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704888/one-piece-card-game-st-32-starter-deck-32-green-roronoa-zoro-starter-deck-32-green-roronoa-zoro-display"
+        },
+        {
+          "tcgplayerId": 704889,
+          "name": "Starter Deck 32: GREEN Roronoa Zoro",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704889_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704889/one-piece-card-game-st-32-starter-deck-32-green-roronoa-zoro-starter-deck-32-green-roronoa-zoro"
+        }
+      ]
+    },
+    "24751": {
+      "name": "ST-33: Starter Deck 33 BLUE Kuzan",
+      "abbreviation": "ST-33",
+      "modifiedOn": "2026-10-14T17:52:42.08",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st33",
+      "products": [
+        {
+          "tcgplayerId": 704890,
+          "name": "Starter Deck 33: BLUE Kuzan",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704890_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704890/one-piece-card-game-st-33-starter-deck-33-blue-kuzan-starter-deck-33-blue-kuzan"
+        },
+        {
+          "tcgplayerId": 704891,
+          "name": "Starter Deck 33: BLUE Kuzan Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704891_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704891/one-piece-card-game-st-33-starter-deck-33-blue-kuzan-starter-deck-33-blue-kuzan-display"
+        }
+      ]
+    },
+    "24752": {
+      "name": "ST-34: Starter Deck 34 PURPLE Charlotte Katakuri",
+      "abbreviation": "ST-34",
+      "modifiedOn": "2026-10-14T17:52:10.62",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st34",
+      "products": [
+        {
+          "tcgplayerId": 704892,
+          "name": "Starter Deck 34: PURPLE Charlotte Katakuri Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704892_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704892/one-piece-card-game-st-34-starter-deck-34-purple-charlotte-katakuri-starter-deck-34-purple-charlotte-katakuri-display"
+        },
+        {
+          "tcgplayerId": 704893,
+          "name": "Starter Deck 34: PURPLE Charlotte Katakuri",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704893_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704893/one-piece-card-game-st-34-starter-deck-34-purple-charlotte-katakuri-starter-deck-34-purple-charlotte-katakuri"
+        }
+      ]
+    },
+    "24753": {
+      "name": "ST-35: Starter Deck 35 RED/BLACK Sabo",
+      "abbreviation": "ST-35",
+      "modifiedOn": "2026-10-14T17:51:52.817",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st35",
+      "products": [
+        {
+          "tcgplayerId": 704894,
+          "name": "Starter Deck 35: RED/BLACK Sabo",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704894_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704894/one-piece-card-game-st-35-starter-deck-35-red-black-sabo-starter-deck-35-red-black-sabo"
+        },
+        {
+          "tcgplayerId": 704895,
+          "name": "Starter Deck 35: RED/BLACK Sabo Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704895_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704895/one-piece-card-game-st-35-starter-deck-35-red-black-sabo-starter-deck-35-red-black-sabo-display"
+        }
+      ]
+    },
+    "24754": {
+      "name": "ST-36: Starter Deck 36 YELLOW Eustass\"Captain\"Kid",
+      "abbreviation": "ST-36",
+      "modifiedOn": "2026-10-14T17:50:56.513",
+      "publishedOn": "2026-07-31",
+      "setId": "op-st36",
+      "products": [
+        {
+          "tcgplayerId": 704896,
+          "name": "Starter Deck 36: YELLOW Eustass”Captain”Kid Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704896_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704896/one-piece-card-game-st-36-starter-deck-36-yellow-eustasscaptainkid-starter-deck-36-yellow-eustass”captain”kid-display"
+        },
+        {
+          "tcgplayerId": 704897,
+          "name": "Starter Deck 36: YELLOW Eustass”Captain”Kid",
+          "kind": "deck",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704897_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704897/one-piece-card-game-st-36-starter-deck-36-yellow-eustasscaptainkid-starter-deck-36-yellow-eustass”captain”kid"
+        }
+      ]
+    },
+    "24775": {
+      "name": "The World's Strongest Warriors Release Event Cards",
+      "abbreviation": "OP17 RE",
+      "modifiedOn": "2026-09-01T11:12:42.277",
+      "publishedOn": "2026-08-21",
+      "products": [
+        {
+          "tcgplayerId": 712741,
+          "name": "The World's Strongest Warriors - 4th Anniversary Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712741_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712741/one-piece-card-game-the-worlds-strongest-warriors-release-event-cards-the-worlds-strongest-warriors-4th-anniversary-tournament-pack"
+        }
+      ]
+    },
+    "24820": {
+      "name": "Extra Booster: One Piece Heroines Edition Vol. 2",
+      "abbreviation": "EB05",
+      "modifiedOn": "2026-10-15T15:34:08.603",
+      "publishedOn": "2026-10-30",
+      "setId": "op-eb05",
+      "products": [
+        {
+          "tcgplayerId": 711383,
+          "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711383_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711383/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-extra-booster-one-piece-heroines-edition-vol2-booster-pack"
+        },
+        {
+          "tcgplayerId": 711384,
+          "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711384_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711384/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-extra-booster-one-piece-heroines-edition-vol2-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 711385,
+          "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711385_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711385/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-extra-booster-one-piece-heroines-edition-vol2-booster-box"
+        },
+        {
+          "tcgplayerId": 711386,
+          "name": "Extra Booster: One Piece Heroines Edition Vol.2 - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711386_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711386/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-extra-booster-one-piece-heroines-edition-vol2-booster-box-case"
+        }
+      ]
+    },
+    "24833": {
+      "name": "The Dominance of God",
+      "abbreviation": "OP18",
+      "modifiedOn": "2026-10-16T19:27:11.263",
+      "publishedOn": "2026-11-20",
+      "setId": "op-op18",
+      "products": [
+        {
+          "tcgplayerId": 712901,
+          "name": "The Dominance of God Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712901_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712901/one-piece-card-game-the-dominance-of-god-the-dominance-of-god-booster-box"
+        },
+        {
+          "tcgplayerId": 712902,
+          "name": "The Dominance of God Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712902_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712902/one-piece-card-game-the-dominance-of-god-the-dominance-of-god-booster-box-case"
+        },
+        {
+          "tcgplayerId": 712903,
+          "name": "The Dominance of God Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712903_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712903/one-piece-card-game-the-dominance-of-god-the-dominance-of-god-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 712904,
+          "name": "The Dominance of God Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712904_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712904/one-piece-card-game-the-dominance-of-god-the-dominance-of-god-booster-pack"
+        },
+        {
+          "tcgplayerId": 712907,
+          "name": "Double Pack Set Vol. 13",
+          "kind": "blister",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712907_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712907/one-piece-card-game-the-dominance-of-god-double-pack-set-vol-13"
+        },
+        {
+          "tcgplayerId": 712909,
+          "name": "Double Pack Set Vol. 13 Display",
+          "kind": "case",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712909_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712909/one-piece-card-game-the-dominance-of-god-double-pack-set-vol-13-display"
+        }
+      ]
+    },
+    "24834": {
+      "name": "The Dominance of God Release Event Cards",
+      "abbreviation": "OP18 RE",
+      "modifiedOn": "2026-10-15T19:09:47.647",
+      "publishedOn": "2026-11-13",
+      "products": []
+    }
+  }
+}

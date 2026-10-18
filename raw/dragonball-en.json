@@ -1,0 +1,1829 @@
+{
+  "game": "dragonball",
+  "lang": "en",
+  "categoryId": 80,
+  "harvestedAt": "2026-10-18T18:31:01.010Z",
+  "groups": {
+    "23401": {
+      "name": "Awakened Pulse",
+      "abbreviation": "FB01",
+      "modifiedOn": "2025-07-21T13:32:34.987",
+      "publishedOn": "2024-02-23",
+      "setId": "db-g23401",
+      "products": [
+        {
+          "tcgplayerId": 535546,
+          "name": "Awakened Pulse Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535546_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535546/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-booster-box"
+        },
+        {
+          "tcgplayerId": 535547,
+          "name": "Awakened Pulse Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535547_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535547/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-booster-box-case"
+        },
+        {
+          "tcgplayerId": 535549,
+          "name": "Awakened Pulse Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535549_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535549/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-booster-pack"
+        },
+        {
+          "tcgplayerId": 543398,
+          "name": "Awakened Pulse Sleeved Booster Pack [Son Goku]",
+          "kind": "booster",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543398_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543398/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-sleeved-booster-pack-son-goku"
+        },
+        {
+          "tcgplayerId": 543399,
+          "name": "Awakened Pulse Sleeved Booster Pack [Son Goku (Awakened)]",
+          "kind": "booster",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543399_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543399/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-sleeved-booster-pack-son-goku-awakened"
+        },
+        {
+          "tcgplayerId": 543401,
+          "name": "Awakened Pulse Sleeved Booster Pack [Son Gohan : Childhood]",
+          "kind": "booster",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543401_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543401/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-sleeved-booster-pack-son-gohan-childhood"
+        },
+        {
+          "tcgplayerId": 543402,
+          "name": "Awakened Pulse Sleeved Booster Pack [Trunks : Future]",
+          "kind": "booster",
+          "releasedOn": "2024-02-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543402_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543402/dragon-ball-super-fusion-world-awakened-pulse-awakened-pulse-sleeved-booster-pack-trunks-future"
+        }
+      ]
+    },
+    "23407": {
+      "name": "Awakened Pulse Pre-Release Cards",
+      "abbreviation": "FB01_PR",
+      "modifiedOn": "2025-03-04T14:42:50.56",
+      "publishedOn": "2024-02-16",
+      "setId": "db-g23407",
+      "products": [
+        {
+          "tcgplayerId": 542642,
+          "name": "FB01 Awakened Pulse Pre-Release Pack",
+          "kind": "build_battle",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/542642_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/542642/dragon-ball-super-fusion-world-awakened-pulse-pre-release-cards-fb01-awakened-pulse-pre-release-pack"
+        }
+      ]
+    },
+    "23408": {
+      "name": "Starter Deck 1: Son Goku",
+      "abbreviation": "FS01",
+      "modifiedOn": "2024-08-05T20:53:18.173",
+      "publishedOn": "2024-02-16",
+      "setId": "db-g23408",
+      "products": [
+        {
+          "tcgplayerId": 535550,
+          "name": "Starter Deck 1: Son Goku",
+          "kind": "deck",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535550_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535550/dragon-ball-super-fusion-world-starter-deck-1-son-goku-starter-deck-1-son-goku"
+        },
+        {
+          "tcgplayerId": 535551,
+          "name": "Starter Deck 1: Son Goku Display",
+          "kind": "case",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535551_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535551/dragon-ball-super-fusion-world-starter-deck-1-son-goku-starter-deck-1-son-goku-display"
+        }
+      ]
+    },
+    "23409": {
+      "name": "Starter Deck 2: Vegeta",
+      "abbreviation": "FS02",
+      "modifiedOn": "2024-06-25T20:48:25.48",
+      "publishedOn": "2024-02-16",
+      "setId": "db-g23409",
+      "products": [
+        {
+          "tcgplayerId": 535552,
+          "name": "Starter Deck 2: Vegeta",
+          "kind": "deck",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535552_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535552/dragon-ball-super-fusion-world-starter-deck-2-vegeta-starter-deck-2-vegeta"
+        },
+        {
+          "tcgplayerId": 535554,
+          "name": "Starter Deck 2: Vegeta Display",
+          "kind": "case",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535554_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535554/dragon-ball-super-fusion-world-starter-deck-2-vegeta-starter-deck-2-vegeta-display"
+        }
+      ]
+    },
+    "23410": {
+      "name": "Starter Deck 3: Broly",
+      "abbreviation": "FS03",
+      "modifiedOn": "2025-07-10T12:56:18.773",
+      "publishedOn": "2024-02-16",
+      "setId": "db-g23410",
+      "products": [
+        {
+          "tcgplayerId": 535557,
+          "name": "Starter Deck 3: Broly",
+          "kind": "deck",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535557_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535557/dragon-ball-super-fusion-world-starter-deck-3-broly-starter-deck-3-broly"
+        },
+        {
+          "tcgplayerId": 535558,
+          "name": "Starter Deck 3: Broly Display",
+          "kind": "case",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535558_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535558/dragon-ball-super-fusion-world-starter-deck-3-broly-starter-deck-3-broly-display"
+        }
+      ]
+    },
+    "23411": {
+      "name": "Starter Deck 4: Frieza",
+      "abbreviation": "FS04",
+      "modifiedOn": "2024-03-05T21:21:37.057",
+      "publishedOn": "2024-02-16",
+      "setId": "db-g23411",
+      "products": [
+        {
+          "tcgplayerId": 535565,
+          "name": "Starter Deck 4: Frieza",
+          "kind": "deck",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535565_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535565/dragon-ball-super-fusion-world-starter-deck-4-frieza-starter-deck-4-frieza"
+        },
+        {
+          "tcgplayerId": 535566,
+          "name": "Starter Deck 4: Frieza Display",
+          "kind": "case",
+          "releasedOn": "2024-02-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/535566_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/535566/dragon-ball-super-fusion-world-starter-deck-4-frieza-starter-deck-4-frieza-display"
+        }
+      ]
+    },
+    "23428": {
+      "name": "Fusion World Promotion Cards and Packs",
+      "abbreviation": "DBSFW_PR",
+      "modifiedOn": "2026-10-16T18:15:36.087",
+      "publishedOn": "2024-02-14",
+      "setId": "db-g23428",
+      "products": [
+        {
+          "tcgplayerId": 538748,
+          "name": "Promotion Pack Vol.1",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538748_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538748/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol1"
+        },
+        {
+          "tcgplayerId": 549628,
+          "name": "Promotion Pack Vol.2",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549628_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549628/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol2"
+        },
+        {
+          "tcgplayerId": 562117,
+          "name": "Promotion Pack Vol.3",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/562117_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/562117/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol3"
+        },
+        {
+          "tcgplayerId": 564561,
+          "name": "Premium Card Collection 01 -Leaders-",
+          "kind": "collection",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564561_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/564561/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-premium-card-collection-01-leaders"
+        },
+        {
+          "tcgplayerId": 586756,
+          "name": "Promotion Pack Vol.4",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586756_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586756/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol4"
+        },
+        {
+          "tcgplayerId": 610108,
+          "name": "Promotion Pack Vol.5",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/610108_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/610108/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol5"
+        },
+        {
+          "tcgplayerId": 631754,
+          "name": "Promotion Pack Vol.6",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631754_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/631754/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-promotion-pack-vol6"
+        },
+        {
+          "tcgplayerId": 642096,
+          "name": "1st Anniversary Set Bundle",
+          "kind": "bundle",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/642096_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/642096/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-1st-anniversary-set-bundle"
+        },
+        {
+          "tcgplayerId": 648346,
+          "name": "Premium Card Collection 02",
+          "kind": "collection",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648346_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648346/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-premium-card-collection-02"
+        },
+        {
+          "tcgplayerId": 682179,
+          "name": "2nd Anniversary Pack",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682179_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682179/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-2nd-anniversary-pack"
+        },
+        {
+          "tcgplayerId": 684108,
+          "name": "Dragon Ball Games Battle Hour 2026 Premium Card Collection",
+          "kind": "collection",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684108_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/684108/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-dragon-ball-games-battle-hour-2026-premium-card-collection"
+        },
+        {
+          "tcgplayerId": 696140,
+          "name": "2nd Anniversary Set Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696140_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/696140/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-2nd-anniversary-set-bundle"
+        },
+        {
+          "tcgplayerId": 712767,
+          "name": "Premium Card Collection 03",
+          "kind": "collection",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712767_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712767/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-premium-card-collection-03"
+        }
+      ]
+    },
+    "23429": {
+      "name": "Tournament and Championship Promos",
+      "abbreviation": "DBSFW_TPR",
+      "modifiedOn": "2026-10-15T18:43:33.713",
+      "publishedOn": "2024-02-14",
+      "setId": "db-g23429",
+      "products": [
+        {
+          "tcgplayerId": 538809,
+          "name": "Tournament Pack 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538809_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538809/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-01"
+        },
+        {
+          "tcgplayerId": 538810,
+          "name": "Tournament Pack -Winner- 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538810_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538810/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-01"
+        },
+        {
+          "tcgplayerId": 538811,
+          "name": "Judge Pack (Store Judge) 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538811_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538811/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-store-judge-01"
+        },
+        {
+          "tcgplayerId": 549637,
+          "name": "Tournament Pack 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549637_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549637/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-02"
+        },
+        {
+          "tcgplayerId": 549647,
+          "name": "Tournament Pack -Winner- 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549647_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549647/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-02"
+        },
+        {
+          "tcgplayerId": 549664,
+          "name": "Championship Pack 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549664_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549664/dragon-ball-super-fusion-world-tournament-and-championship-promos-championship-pack-01"
+        },
+        {
+          "tcgplayerId": 562120,
+          "name": "Championship Pack 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/562120_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/562120/dragon-ball-super-fusion-world-tournament-and-championship-promos-championship-pack-02"
+        },
+        {
+          "tcgplayerId": 564471,
+          "name": "Tournament Pack 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564471_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/564471/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-03"
+        },
+        {
+          "tcgplayerId": 564537,
+          "name": "Tournament Pack -Winner- 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564537_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/564537/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-03"
+        },
+        {
+          "tcgplayerId": 564539,
+          "name": "Judge Pack (Store Judge) 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564539_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/564539/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-store-judge-02"
+        },
+        {
+          "tcgplayerId": 583856,
+          "name": "Tournament Pack -Winner- 04",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583856_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583856/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-04"
+        },
+        {
+          "tcgplayerId": 583857,
+          "name": "Tournament Pack 04",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/583857_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/583857/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-04"
+        },
+        {
+          "tcgplayerId": 596283,
+          "name": "Championship Pack 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/596283_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/596283/dragon-ball-super-fusion-world-tournament-and-championship-promos-championship-pack-03"
+        },
+        {
+          "tcgplayerId": 596284,
+          "name": "Championship Pack -Finalist- 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/596284_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/596284/dragon-ball-super-fusion-world-tournament-and-championship-promos-championship-pack-finalist-03"
+        },
+        {
+          "tcgplayerId": 596287,
+          "name": "Selection Pack -Finalist- 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/596287_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/596287/dragon-ball-super-fusion-world-tournament-and-championship-promos-selection-pack-finalist-01"
+        },
+        {
+          "tcgplayerId": 596288,
+          "name": "Selection Pack 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/596288_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/596288/dragon-ball-super-fusion-world-tournament-and-championship-promos-selection-pack-01"
+        },
+        {
+          "tcgplayerId": 607963,
+          "name": "Judge Pack (Store Judge) 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607963_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/607963/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-store-judge-03"
+        },
+        {
+          "tcgplayerId": 607972,
+          "name": "Tournament Pack 05",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607972_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/607972/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-05"
+        },
+        {
+          "tcgplayerId": 607986,
+          "name": "Tournament Pack -Winner- 05",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/607986_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/607986/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-05"
+        },
+        {
+          "tcgplayerId": 626553,
+          "name": "Limited Pack 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/626553_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/626553/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-01"
+        },
+        {
+          "tcgplayerId": 626604,
+          "name": "Judge Pack (Event Judge) 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/626604_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/626604/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-event-judge-03"
+        },
+        {
+          "tcgplayerId": 628130,
+          "name": "Tournament Pack -Winner- 06",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628130_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628130/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-06"
+        },
+        {
+          "tcgplayerId": 628133,
+          "name": "Tournament Pack 06",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/628133_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/628133/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-06"
+        },
+        {
+          "tcgplayerId": 641305,
+          "name": "Limited Pack 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641305_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641305/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-02"
+        },
+        {
+          "tcgplayerId": 641354,
+          "name": "Judge Pack (Event Judge) 04",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641354_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641354/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-event-judge-04"
+        },
+        {
+          "tcgplayerId": 644867,
+          "name": "Tournament Pack 07",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644867_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644867/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-07"
+        },
+        {
+          "tcgplayerId": 644868,
+          "name": "Tournament Pack -Winner- 07",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644868_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644868/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-07"
+        },
+        {
+          "tcgplayerId": 644870,
+          "name": "Judge Pack (Store Judge) 04",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644870_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644870/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-store-judge-04"
+        },
+        {
+          "tcgplayerId": 648116,
+          "name": "Limited Pack MANGA Version 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648116_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648116/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-manga-version-01"
+        },
+        {
+          "tcgplayerId": 648241,
+          "name": "Tournament Pack -Winner- 08",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648241_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648241/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-08"
+        },
+        {
+          "tcgplayerId": 648242,
+          "name": "Tournament Pack 08",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648242_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648242/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-08"
+        },
+        {
+          "tcgplayerId": 657513,
+          "name": "Tournament Pack MANGA ver.",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657513_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657513/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-manga-ver"
+        },
+        {
+          "tcgplayerId": 660045,
+          "name": "Limited Pack MANGA Version 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/660045_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/660045/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-manga-version-02"
+        },
+        {
+          "tcgplayerId": 671688,
+          "name": "Tournament Pack -Winner- 09",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671688_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671688/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-winner-09"
+        },
+        {
+          "tcgplayerId": 671690,
+          "name": "Tournament Pack 09",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671690_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671690/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-09"
+        },
+        {
+          "tcgplayerId": 671692,
+          "name": "Judge Pack (Store Judge) 05",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/671692_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/671692/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-store-judge-05"
+        },
+        {
+          "tcgplayerId": 682322,
+          "name": "Tournament Pack 10",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682322_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682322/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-10"
+        },
+        {
+          "tcgplayerId": 688660,
+          "name": "Limited Pack 26-27 WAVE1",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688660_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/688660/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-26-27-wave1"
+        },
+        {
+          "tcgplayerId": 696524,
+          "name": "Tournament Pack 11",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696524_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/696524/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-11"
+        },
+        {
+          "tcgplayerId": 698079,
+          "name": "Judge Pack (Event Judge) 05",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/698079_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/698079/dragon-ball-super-fusion-world-tournament-and-championship-promos-judge-pack-event-judge-05"
+        },
+        {
+          "tcgplayerId": 707446,
+          "name": "Limited Pack 26-27 WAVE2",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707446_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707446/dragon-ball-super-fusion-world-tournament-and-championship-promos-limited-pack-26-27-wave2"
+        },
+        {
+          "tcgplayerId": 719782,
+          "name": "Tournament Pack 12",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719782_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/719782/dragon-ball-super-fusion-world-tournament-and-championship-promos-tournament-pack-12"
+        }
+      ]
+    },
+    "23430": {
+      "name": "Fusion World Energy Markers",
+      "abbreviation": "DBSFW_EM",
+      "modifiedOn": "2026-08-21T20:13:04.687",
+      "publishedOn": "2024-02-14",
+      "setId": "db-g23430",
+      "products": [
+        {
+          "tcgplayerId": 538747,
+          "name": "Energy Marker Pack 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538747_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538747/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-01"
+        },
+        {
+          "tcgplayerId": 549653,
+          "name": "Energy Marker Pack 02",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549653_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/549653/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-02"
+        },
+        {
+          "tcgplayerId": 562727,
+          "name": "Energy Marker Pack 03",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/562727_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/562727/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-03"
+        },
+        {
+          "tcgplayerId": 586799,
+          "name": "Energy Marker Pack 04",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586799_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586799/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-04"
+        },
+        {
+          "tcgplayerId": 610135,
+          "name": "Energy Marker Pack 05",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/610135_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/610135/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-05"
+        },
+        {
+          "tcgplayerId": 641326,
+          "name": "Energy Marker Pack 06",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641326_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641326/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-06"
+        },
+        {
+          "tcgplayerId": 679729,
+          "name": "Energy Marker Pack - 2nd Anniversary Edition",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679729_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679729/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-2nd-anniversary-edition"
+        },
+        {
+          "tcgplayerId": 682309,
+          "name": "Energy Marker Pack 09",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682309_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682309/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-09"
+        },
+        {
+          "tcgplayerId": 704881,
+          "name": "Energy Marker Pack 10",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704881_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/704881/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-10"
+        },
+        {
+          "tcgplayerId": 707468,
+          "name": "Energy Marker Pack - Judge Edition 01",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707468_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707468/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-judge-edition-01"
+        }
+      ]
+    },
+    "23470": {
+      "name": "Blazing Aura",
+      "abbreviation": "FB02",
+      "modifiedOn": "2025-12-04T12:59:05.787",
+      "publishedOn": "2024-05-10",
+      "setId": "db-g23470",
+      "products": [
+        {
+          "tcgplayerId": 543426,
+          "name": "Blazing Aura Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543426_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543426/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-booster-pack"
+        },
+        {
+          "tcgplayerId": 543427,
+          "name": "Blazing Aura Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543427_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543427/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-booster-box"
+        },
+        {
+          "tcgplayerId": 543428,
+          "name": "Blazing Aura Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543428_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543428/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-booster-box-case"
+        },
+        {
+          "tcgplayerId": 554331,
+          "name": "Blazing Aura Sleeved Booster Pack [Son Goku (Awakened)]",
+          "kind": "booster",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/554331_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/554331/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-sleeved-booster-pack-son-goku-awakened"
+        },
+        {
+          "tcgplayerId": 554332,
+          "name": "Blazing Aura Sleeved Booster Pack [Son Gohan : Adolescence]",
+          "kind": "booster",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/554332_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/554332/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-sleeved-booster-pack-son-gohan-adolescence"
+        },
+        {
+          "tcgplayerId": 554333,
+          "name": "Blazing Aura Sleeved Booster Pack [Vegito]",
+          "kind": "booster",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/554333_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/554333/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-sleeved-booster-pack-vegito"
+        },
+        {
+          "tcgplayerId": 554334,
+          "name": "Blazing Aura Sleeved Booster Pack [Vegeta (Awakened)]",
+          "kind": "booster",
+          "releasedOn": "2024-05-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/554334_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/554334/dragon-ball-super-fusion-world-blazing-aura-blazing-aura-sleeved-booster-pack-vegeta-awakened"
+        }
+      ]
+    },
+    "23471": {
+      "name": "Blazing Aura Release Event Cards",
+      "abbreviation": "FB02_PR",
+      "modifiedOn": "2024-10-10T20:07:19.48",
+      "publishedOn": "2024-05-03",
+      "setId": "db-g23471",
+      "products": [
+        {
+          "tcgplayerId": 552692,
+          "name": "FB02 Blazing Aura Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/552692_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/552692/dragon-ball-super-fusion-world-blazing-aura-release-event-cards-fb02-blazing-aura-release-event-pack"
+        }
+      ]
+    },
+    "23505": {
+      "name": "Awakened Pulse Alternate Art Reprints",
+      "abbreviation": "FB01_AR",
+      "modifiedOn": "2025-01-29T15:27:58.317",
+      "publishedOn": "2024-05-10",
+      "setId": "db-g23505",
+      "products": []
+    },
+    "23517": {
+      "name": "Raging Roar",
+      "abbreviation": "FB03",
+      "modifiedOn": "2024-08-20T15:30:57.113",
+      "publishedOn": "2024-08-16",
+      "setId": "db-g23517",
+      "products": [
+        {
+          "tcgplayerId": 551680,
+          "name": "Raging Roar Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551680_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551680/dragon-ball-super-fusion-world-raging-roar-raging-roar-booster-box"
+        },
+        {
+          "tcgplayerId": 551681,
+          "name": "Raging Roar Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551681_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551681/dragon-ball-super-fusion-world-raging-roar-raging-roar-booster-pack"
+        },
+        {
+          "tcgplayerId": 551682,
+          "name": "Raging Roar Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-08-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551682_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551682/dragon-ball-super-fusion-world-raging-roar-raging-roar-booster-box-case"
+        }
+      ]
+    },
+    "23518": {
+      "name": "Raging Roar Release Event Cards",
+      "abbreviation": "FB03_PR",
+      "modifiedOn": "2024-11-06T21:22:56.987",
+      "publishedOn": "2024-08-09",
+      "setId": "db-g23518",
+      "products": [
+        {
+          "tcgplayerId": 563059,
+          "name": "FB03 Raging Roar Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563059_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563059/dragon-ball-super-fusion-world-raging-roar-release-event-cards-fb03-raging-roar-release-event-pack"
+        }
+      ]
+    },
+    "23519": {
+      "name": "Starter Deck 5: Bardock",
+      "abbreviation": "FS05",
+      "modifiedOn": "2025-03-14T18:46:23.033",
+      "publishedOn": "2024-08-09",
+      "setId": "db-g23519",
+      "products": [
+        {
+          "tcgplayerId": 551677,
+          "name": "Starter Deck 5: Bardock",
+          "kind": "deck",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551677_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551677/dragon-ball-super-fusion-world-starter-deck-5-bardock-starter-deck-5-bardock"
+        },
+        {
+          "tcgplayerId": 551678,
+          "name": "Starter Deck 5: Bardock Display",
+          "kind": "case",
+          "releasedOn": "2024-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/551678_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/551678/dragon-ball-super-fusion-world-starter-deck-5-bardock-starter-deck-5-bardock-display"
+        }
+      ]
+    },
+    "23581": {
+      "name": "Starter Deck 4: Frieza Alternate Art Reprints",
+      "abbreviation": "FS04_AR",
+      "modifiedOn": "2024-08-07T18:51:15.92",
+      "publishedOn": "2024-08-16",
+      "setId": "db-g23581",
+      "products": []
+    },
+    "23582": {
+      "name": "Starter Deck 1: Son Goku Alternate Art Reprints",
+      "abbreviation": "FS01_AR",
+      "modifiedOn": "2024-08-07T18:49:04.383",
+      "publishedOn": "2024-05-10",
+      "setId": "db-g23582",
+      "products": []
+    },
+    "23583": {
+      "name": "Starter Deck 3: Broly Alternate Art Reprints",
+      "abbreviation": "FS03_AR",
+      "modifiedOn": "2024-08-07T18:48:41.7",
+      "publishedOn": "2024-05-10",
+      "setId": "db-g23583",
+      "products": []
+    },
+    "23654": {
+      "name": "Starter Deck 6: Son Goku (Mini)",
+      "abbreviation": "FS06",
+      "modifiedOn": "2024-11-13T15:42:28.23",
+      "publishedOn": "2024-11-08",
+      "setId": "db-g23654",
+      "products": [
+        {
+          "tcgplayerId": 565614,
+          "name": "Starter Deck 6: Son Goku (Mini)",
+          "kind": "deck",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565614_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565614/dragon-ball-super-fusion-world-starter-deck-6-son-goku-mini-starter-deck-6-son-goku-mini"
+        },
+        {
+          "tcgplayerId": 565615,
+          "name": "Starter Deck 6: Son Goku (Mini) Display",
+          "kind": "case",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565615_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565615/dragon-ball-super-fusion-world-starter-deck-6-son-goku-mini-starter-deck-6-son-goku-mini-display"
+        }
+      ]
+    },
+    "23655": {
+      "name": "Starter Deck 7: Vegeta (Mini)",
+      "abbreviation": "FS07",
+      "modifiedOn": "2024-11-13T15:44:29.693",
+      "publishedOn": "2024-11-08",
+      "setId": "db-g23655",
+      "products": [
+        {
+          "tcgplayerId": 565616,
+          "name": "Starter Deck 7: Vegeta (Mini)",
+          "kind": "deck",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565616_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565616/dragon-ball-super-fusion-world-starter-deck-7-vegeta-mini-starter-deck-7-vegeta-mini"
+        },
+        {
+          "tcgplayerId": 565617,
+          "name": "Starter Deck 7: Vegeta (Mini) Display",
+          "kind": "case",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565617_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565617/dragon-ball-super-fusion-world-starter-deck-7-vegeta-mini-starter-deck-7-vegeta-mini-display"
+        }
+      ]
+    },
+    "23658": {
+      "name": "Ultra Limit",
+      "abbreviation": "FB04",
+      "modifiedOn": "2025-12-05T20:48:11.823",
+      "publishedOn": "2024-11-15",
+      "setId": "db-g23658",
+      "products": [
+        {
+          "tcgplayerId": 565626,
+          "name": "Ultra Limit Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-11-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565626_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565626/dragon-ball-super-fusion-world-ultra-limit-ultra-limit-booster-box"
+        },
+        {
+          "tcgplayerId": 565627,
+          "name": "Ultra Limit Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-11-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565627_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565627/dragon-ball-super-fusion-world-ultra-limit-ultra-limit-booster-box-case"
+        },
+        {
+          "tcgplayerId": 565628,
+          "name": "Ultra Limit Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565628_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/565628/dragon-ball-super-fusion-world-ultra-limit-ultra-limit-booster-pack"
+        }
+      ]
+    },
+    "23769": {
+      "name": "Ultra Limit Release Event Cards",
+      "abbreviation": "FB04_PR",
+      "modifiedOn": "2024-11-13T21:46:40.337",
+      "publishedOn": "2024-11-08",
+      "setId": "db-g23769",
+      "products": [
+        {
+          "tcgplayerId": 593778,
+          "name": "FB04 Ultra Limit Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/593778_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/593778/dragon-ball-super-fusion-world-ultra-limit-release-event-cards-fb04-ultra-limit-release-event-pack"
+        }
+      ]
+    },
+    "23823": {
+      "name": "Raging Roar Alternate Art Reprints",
+      "abbreviation": "FB03_AR",
+      "modifiedOn": "2025-08-13T12:59:03",
+      "publishedOn": "2024-11-15",
+      "setId": "db-g23823",
+      "products": []
+    },
+    "23928": {
+      "name": "New Adventure",
+      "abbreviation": "FB05",
+      "modifiedOn": "2025-07-03T16:10:50.793",
+      "publishedOn": "2025-02-14",
+      "setId": "db-g23928",
+      "products": [
+        {
+          "tcgplayerId": 604241,
+          "name": "New Adventure Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/604241_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/604241/dragon-ball-super-fusion-world-new-adventure-new-adventure-booster-box"
+        },
+        {
+          "tcgplayerId": 604242,
+          "name": "New Adventure Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/604242_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/604242/dragon-ball-super-fusion-world-new-adventure-new-adventure-booster-box-case"
+        },
+        {
+          "tcgplayerId": 604243,
+          "name": "New Adventure Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/604243_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/604243/dragon-ball-super-fusion-world-new-adventure-new-adventure-booster-pack"
+        }
+      ]
+    },
+    "24183": {
+      "name": "Blazing Aura Alternate Art Reprints",
+      "abbreviation": "FB02_AR",
+      "modifiedOn": "2025-12-05T12:58:00.817",
+      "publishedOn": "2025-02-14",
+      "setId": "db-g24183",
+      "products": []
+    },
+    "24184": {
+      "name": "Ultra Limit Alternate Art Reprints",
+      "abbreviation": "FB04_AR",
+      "modifiedOn": "2025-12-04T13:00:17.457",
+      "publishedOn": "2025-02-14",
+      "setId": "db-g24184",
+      "products": []
+    },
+    "24185": {
+      "name": "Starter Deck 5: Bardock Alternate Art Reprints",
+      "abbreviation": "FS05_AR",
+      "modifiedOn": "2025-08-29T16:50:04.887",
+      "publishedOn": "2025-02-14",
+      "setId": "db-g24185",
+      "products": []
+    },
+    "24186": {
+      "name": "New Adventure Release Event Cards",
+      "abbreviation": "FB05_PR",
+      "modifiedOn": "2025-02-07T14:30:23.957",
+      "publishedOn": "2025-02-07",
+      "setId": "db-g24186",
+      "products": [
+        {
+          "tcgplayerId": 617799,
+          "name": "FB05 New Adventure Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-02-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617799_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/617799/dragon-ball-super-fusion-world-new-adventure-release-event-cards-fb05-new-adventure-release-event-pack"
+        }
+      ]
+    },
+    "24239": {
+      "name": "Starter Deck 8: Vegeta (Mini) Super Saiyan 3",
+      "abbreviation": "FS08",
+      "modifiedOn": "2026-03-10T11:59:32.797",
+      "publishedOn": "2025-04-25",
+      "setId": "db-g24239",
+      "products": [
+        {
+          "tcgplayerId": 620102,
+          "name": "Starter Deck 8: Vegeta (Mini) Super Saiyan 3",
+          "kind": "deck",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620102_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620102/dragon-ball-super-fusion-world-starter-deck-8-vegeta-mini-super-saiyan-3-starter-deck-8-vegeta-mini-super-saiyan-3"
+        },
+        {
+          "tcgplayerId": 620105,
+          "name": "Starter Deck 8: Vegeta (Mini) Super Saiyan 3 Display",
+          "kind": "case",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/620105_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/620105/dragon-ball-super-fusion-world-starter-deck-8-vegeta-mini-super-saiyan-3-starter-deck-8-vegeta-mini-super-saiyan-3-display"
+        }
+      ]
+    },
+    "24247": {
+      "name": "Rivals Clash",
+      "abbreviation": "FB06",
+      "modifiedOn": "2026-10-16T15:00:43.893",
+      "publishedOn": "2025-05-02",
+      "setId": "db-g24247",
+      "products": [
+        {
+          "tcgplayerId": 624222,
+          "name": "Rivals Clash Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-05-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624222_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624222/dragon-ball-super-fusion-world-rivals-clash-rivals-clash-booster-pack"
+        },
+        {
+          "tcgplayerId": 624223,
+          "name": "Rivals Clash Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-05-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624223_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624223/dragon-ball-super-fusion-world-rivals-clash-rivals-clash-booster-box"
+        },
+        {
+          "tcgplayerId": 624224,
+          "name": "Rivals Clash Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-05-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624224_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624224/dragon-ball-super-fusion-world-rivals-clash-rivals-clash-booster-box-case"
+        },
+        {
+          "tcgplayerId": 644884,
+          "name": "Rivals Clash Revision Pack",
+          "kind": "booster",
+          "releasedOn": "2025-05-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644884_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644884/dragon-ball-super-fusion-world-rivals-clash-rivals-clash-revision-pack"
+        }
+      ]
+    },
+    "24248": {
+      "name": "Rivals Clash Release Event Cards",
+      "abbreviation": "FB06_PR",
+      "modifiedOn": "2026-03-17T16:15:28.593",
+      "publishedOn": "2025-04-25",
+      "setId": "db-g24248",
+      "products": [
+        {
+          "tcgplayerId": 631753,
+          "name": "FB06 Rivals Clash Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-04-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631753_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/631753/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-fb06-rivals-clash-release-event-pack"
+        }
+      ]
+    },
+    "24251": {
+      "name": "Starter Deck 9: Shallot",
+      "abbreviation": "FS09",
+      "modifiedOn": "2026-09-22T12:34:22.103",
+      "publishedOn": "2025-06-13",
+      "setId": "db-g24251",
+      "products": [
+        {
+          "tcgplayerId": 634266,
+          "name": "Starter Deck 9: Shallot",
+          "kind": "deck",
+          "releasedOn": "2025-06-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634266_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/634266/dragon-ball-super-fusion-world-starter-deck-9-shallot-starter-deck-9-shallot"
+        },
+        {
+          "tcgplayerId": 634267,
+          "name": "Starter Deck 9: Shallot Display",
+          "kind": "case",
+          "releasedOn": "2025-06-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/634267_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/634267/dragon-ball-super-fusion-world-starter-deck-9-shallot-starter-deck-9-shallot-display"
+        }
+      ]
+    },
+    "24288": {
+      "name": "Manga Booster 02",
+      "abbreviation": "SB02",
+      "modifiedOn": "2026-07-28T14:02:37.147",
+      "publishedOn": "2025-11-14",
+      "setId": "db-g24288",
+      "products": [
+        {
+          "tcgplayerId": 647779,
+          "name": "Manga Booster 02 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647779_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647779/dragon-ball-super-fusion-world-manga-booster-02-manga-booster-02-booster-box"
+        },
+        {
+          "tcgplayerId": 647781,
+          "name": "Manga Booster 02 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647781_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647781/dragon-ball-super-fusion-world-manga-booster-02-manga-booster-02-booster-box-case"
+        },
+        {
+          "tcgplayerId": 647783,
+          "name": "Manga Booster 02 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647783_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647783/dragon-ball-super-fusion-world-manga-booster-02-manga-booster-02-booster-pack"
+        }
+      ]
+    },
+    "24311": {
+      "name": "New Adventure Alternate Art Reprints",
+      "abbreviation": "FB03_AR",
+      "modifiedOn": "2025-04-18T15:04:51.54",
+      "publishedOn": "2025-05-02",
+      "setId": "db-g24311",
+      "products": []
+    },
+    "24335": {
+      "name": "Manga Booster 01",
+      "abbreviation": "SB01",
+      "modifiedOn": "2025-09-25T17:48:42.827",
+      "publishedOn": "2025-06-27",
+      "setId": "db-g24335",
+      "products": [
+        {
+          "tcgplayerId": 637461,
+          "name": "Manga Booster 01 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/637461_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/637461/dragon-ball-super-fusion-world-manga-booster-01-manga-booster-01-booster-pack"
+        },
+        {
+          "tcgplayerId": 637462,
+          "name": "Manga Booster 01 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-06-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/637462_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/637462/dragon-ball-super-fusion-world-manga-booster-01-manga-booster-01-booster-box"
+        },
+        {
+          "tcgplayerId": 637463,
+          "name": "Manga Booster 01 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-06-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/637463_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/637463/dragon-ball-super-fusion-world-manga-booster-01-manga-booster-01-booster-box-case"
+        },
+        {
+          "tcgplayerId": 644846,
+          "name": "Manga Booster 01 Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644846_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644846/dragon-ball-super-fusion-world-manga-booster-01-manga-booster-01-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24336": {
+      "name": "Starter Deck 10: Giblet",
+      "abbreviation": "FS10",
+      "modifiedOn": "2026-09-29T13:43:23.117",
+      "publishedOn": "2025-06-13",
+      "setId": "db-g24336",
+      "products": [
+        {
+          "tcgplayerId": 635743,
+          "name": "Starter Deck 10: Giblet",
+          "kind": "deck",
+          "releasedOn": "2025-06-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635743_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635743/dragon-ball-super-fusion-world-starter-deck-10-giblet-starter-deck-10-giblet"
+        },
+        {
+          "tcgplayerId": 635744,
+          "name": "Starter Deck 10: Giblet Display",
+          "kind": "case",
+          "releasedOn": "2025-06-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635744_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635744/dragon-ball-super-fusion-world-starter-deck-10-giblet-starter-deck-10-giblet-display"
+        }
+      ]
+    },
+    "24368": {
+      "name": "Manga Booster 01 Release Event Cards",
+      "abbreviation": "SB01_PR",
+      "modifiedOn": "2025-09-25T16:36:50.563",
+      "publishedOn": "2025-06-27",
+      "setId": "db-g24368",
+      "products": [
+        {
+          "tcgplayerId": 644883,
+          "name": "SB01 Mange Booster 01 Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644883_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/644883/dragon-ball-super-fusion-world-manga-booster-01-release-event-cards-sb01-mange-booster-01-release-event-pack"
+        }
+      ]
+    },
+    "24397": {
+      "name": "Wish For Shenron",
+      "abbreviation": "FB07",
+      "modifiedOn": "2026-07-28T14:02:50.47",
+      "publishedOn": "2025-09-19",
+      "setId": "db-g24397",
+      "products": [
+        {
+          "tcgplayerId": 647770,
+          "name": "Wish For Shenron Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647770_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647770/dragon-ball-super-fusion-world-wish-for-shenron-wish-for-shenron-booster-box"
+        },
+        {
+          "tcgplayerId": 647771,
+          "name": "Wish For Shenron Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647771_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647771/dragon-ball-super-fusion-world-wish-for-shenron-wish-for-shenron-booster-box-case"
+        },
+        {
+          "tcgplayerId": 647773,
+          "name": "Wish For Shenron Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647773_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647773/dragon-ball-super-fusion-world-wish-for-shenron-wish-for-shenron-booster-pack"
+        }
+      ]
+    },
+    "24419": {
+      "name": "Wish For Shenron Release Event Cards",
+      "abbreviation": "FB07_PR",
+      "modifiedOn": "2025-09-12T12:16:28.703",
+      "publishedOn": "2025-09-12",
+      "setId": "db-g24419",
+      "products": [
+        {
+          "tcgplayerId": 648356,
+          "name": "FB07 Wish For Shenron Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-09-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648356_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648356/dragon-ball-super-fusion-world-wish-for-shenron-release-event-cards-fb07-wish-for-shenron-release-event-pack"
+        }
+      ]
+    },
+    "24450": {
+      "name": "Saiyan's Pride",
+      "abbreviation": "FB08",
+      "modifiedOn": "2026-07-28T14:02:19.313",
+      "publishedOn": "2025-12-12",
+      "setId": "db-g24450",
+      "products": [
+        {
+          "tcgplayerId": 654568,
+          "name": "Saiyan's Pride Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-12-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/654568_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/654568/dragon-ball-super-fusion-world-saiyans-pride-saiyans-pride-booster-box"
+        },
+        {
+          "tcgplayerId": 654569,
+          "name": "Saiyan's Pride Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-12-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/654569_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/654569/dragon-ball-super-fusion-world-saiyans-pride-saiyans-pride-booster-box-case"
+        },
+        {
+          "tcgplayerId": 654570,
+          "name": "Saiyan's Pride Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-12-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/654570_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/654570/dragon-ball-super-fusion-world-saiyans-pride-saiyans-pride-booster-pack"
+        }
+      ]
+    },
+    "24492": {
+      "name": "Manga Booster 02 Release Event Cards",
+      "abbreviation": "SB02_RE",
+      "modifiedOn": "2025-11-14T18:54:06.083",
+      "publishedOn": "2025-11-14",
+      "setId": "db-g24492",
+      "products": [
+        {
+          "tcgplayerId": 657515,
+          "name": "SB02 Mange Booster 02 Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657515_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657515/dragon-ball-super-fusion-world-manga-booster-02-release-event-cards-sb02-mange-booster-02-release-event-pack"
+        }
+      ]
+    },
+    "24518": {
+      "name": "Saiyan's Pride Release Event Cards",
+      "abbreviation": "FB08_PR",
+      "modifiedOn": "2026-04-03T19:25:26.393",
+      "publishedOn": "2025-12-19",
+      "setId": "db-g24518",
+      "products": [
+        {
+          "tcgplayerId": 666884,
+          "name": "FB08 Saiyan's Pride Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2025-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/666884_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/666884/dragon-ball-super-fusion-world-saiyans-pride-release-event-cards-fb08-saiyans-pride-release-event-pack"
+        }
+      ]
+    },
+    "24569": {
+      "name": "Dual Evolution",
+      "abbreviation": "FB09",
+      "modifiedOn": "2026-07-28T14:01:44.72",
+      "publishedOn": "2026-03-13",
+      "setId": "db-g24569",
+      "products": [
+        {
+          "tcgplayerId": 670183,
+          "name": "Dual Evolution Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670183_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670183/dragon-ball-super-fusion-world-dual-evolution-dual-evolution-booster-box"
+        },
+        {
+          "tcgplayerId": 670184,
+          "name": "Dual Evolution Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670184_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670184/dragon-ball-super-fusion-world-dual-evolution-dual-evolution-booster-box-case"
+        },
+        {
+          "tcgplayerId": 670186,
+          "name": "Dual Evolution Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670186_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670186/dragon-ball-super-fusion-world-dual-evolution-dual-evolution-booster-pack"
+        },
+        {
+          "tcgplayerId": 690748,
+          "name": "Dual Evolution Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690748_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690748/dragon-ball-super-fusion-world-dual-evolution-dual-evolution-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24570": {
+      "name": "Starter Deck EX: The Phase of Evolution",
+      "abbreviation": "FS11",
+      "modifiedOn": "2026-07-28T14:02:06.57",
+      "publishedOn": "2026-03-13",
+      "setId": "db-g24570",
+      "products": [
+        {
+          "tcgplayerId": 670177,
+          "name": "Starter Deck EX: The Phase of Evolution",
+          "kind": "deck",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670177_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670177/dragon-ball-super-fusion-world-starter-deck-ex-the-phase-of-evolution-starter-deck-ex-the-phase-of-evolution"
+        },
+        {
+          "tcgplayerId": 670178,
+          "name": "Starter Deck EX: The Phase of Evolution Display",
+          "kind": "case",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670178_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670178/dragon-ball-super-fusion-world-starter-deck-ex-the-phase-of-evolution-starter-deck-ex-the-phase-of-evolution-display"
+        }
+      ]
+    },
+    "24571": {
+      "name": "Starter Deck EX: The Beat of Ki",
+      "abbreviation": "FS12",
+      "modifiedOn": "2026-07-28T14:02:02.077",
+      "publishedOn": "2026-03-13",
+      "setId": "db-g24571",
+      "products": [
+        {
+          "tcgplayerId": 670179,
+          "name": "Starter Deck EX: The Beat of Ki",
+          "kind": "deck",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670179_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670179/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-starter-deck-ex-the-beat-of-ki"
+        },
+        {
+          "tcgplayerId": 670181,
+          "name": "Starter Deck EX: The Beat of Ki Display",
+          "kind": "case",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670181_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/670181/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-starter-deck-ex-the-beat-of-ki-display"
+        }
+      ]
+    },
+    "24604": {
+      "name": "Cross Force",
+      "abbreviation": "FB10",
+      "modifiedOn": "2026-07-28T14:01:32.78",
+      "publishedOn": "2026-06-19",
+      "setId": "db-g24604",
+      "products": [
+        {
+          "tcgplayerId": 675645,
+          "name": "Cross Force Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675645_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675645/dragon-ball-super-fusion-world-cross-force-cross-force-booster-box"
+        },
+        {
+          "tcgplayerId": 675646,
+          "name": "Cross Force Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675646_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675646/dragon-ball-super-fusion-world-cross-force-cross-force-booster-box-case"
+        },
+        {
+          "tcgplayerId": 675647,
+          "name": "Cross Force Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675647_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675647/dragon-ball-super-fusion-world-cross-force-cross-force-booster-pack"
+        },
+        {
+          "tcgplayerId": 702811,
+          "name": "Cross Force Sleeved Booster Pack [Son Goku and Vegeta]",
+          "kind": "booster",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/702811_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/702811/dragon-ball-super-fusion-world-cross-force-cross-force-sleeved-booster-pack-son-goku-and-vegeta"
+        },
+        {
+          "tcgplayerId": 703184,
+          "name": "Cross Force Sleeved Booster Pack [Cell]",
+          "kind": "booster",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/703184_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/703184/dragon-ball-super-fusion-world-cross-force-cross-force-sleeved-booster-pack-cell"
+        },
+        {
+          "tcgplayerId": 703185,
+          "name": "Cross Force Sleeved Booster Pack [Son Gohan and Piccolo]",
+          "kind": "booster",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/703185_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/703185/dragon-ball-super-fusion-world-cross-force-cross-force-sleeved-booster-pack-son-gohan-and-piccolo"
+        },
+        {
+          "tcgplayerId": 703186,
+          "name": "Cross Force Sleeved Booster Pack [SS Son Goku]",
+          "kind": "booster",
+          "releasedOn": "2026-06-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/703186_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/703186/dragon-ball-super-fusion-world-cross-force-cross-force-sleeved-booster-pack-ss-son-goku"
+        }
+      ]
+    },
+    "24663": {
+      "name": "Dual Evolution Release Event Cards",
+      "abbreviation": "FB09_PR",
+      "modifiedOn": "2026-04-03T19:46:36.427",
+      "publishedOn": "2026-03-13",
+      "setId": "db-g24663",
+      "products": [
+        {
+          "tcgplayerId": 688539,
+          "name": "FB09 Dual Evolution Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-03-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/688539_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/688539/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-fb09-dual-evolution-release-event-pack"
+        }
+      ]
+    },
+    "24680": {
+      "name": "Story Booster 01",
+      "abbreviation": "ST01",
+      "modifiedOn": "2026-08-24T11:38:46.6",
+      "publishedOn": "2026-08-21",
+      "setId": "db-g24680",
+      "products": [
+        {
+          "tcgplayerId": 692391,
+          "name": "Story Booster 01 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-08-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692391_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692391/dragon-ball-super-fusion-world-story-booster-01-story-booster-01-booster-box"
+        },
+        {
+          "tcgplayerId": 692395,
+          "name": "Story Booster 01 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-08-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692395_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692395/dragon-ball-super-fusion-world-story-booster-01-story-booster-01-booster-box-case"
+        },
+        {
+          "tcgplayerId": 692398,
+          "name": "Story Booster 01 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692398_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/692398/dragon-ball-super-fusion-world-story-booster-01-story-booster-01-booster-pack"
+        },
+        {
+          "tcgplayerId": 711584,
+          "name": "Story Booster 01 Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711584_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711584/dragon-ball-super-fusion-world-story-booster-01-story-booster-01-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24716": {
+      "name": "Brightness of Hope",
+      "abbreviation": "FB11",
+      "modifiedOn": "2026-10-16T14:15:59.65",
+      "publishedOn": "2026-10-16",
+      "setId": "db-g24716",
+      "products": [
+        {
+          "tcgplayerId": 695727,
+          "name": "Brightness of Hope Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-10-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/695727_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/695727/dragon-ball-super-fusion-world-brightness-of-hope-brightness-of-hope-booster-box"
+        },
+        {
+          "tcgplayerId": 695728,
+          "name": "Brightness of Hope Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-10-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/695728_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/695728/dragon-ball-super-fusion-world-brightness-of-hope-brightness-of-hope-booster-box-case"
+        },
+        {
+          "tcgplayerId": 695729,
+          "name": "Brightness of Hope Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/695729_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/695729/dragon-ball-super-fusion-world-brightness-of-hope-brightness-of-hope-booster-pack"
+        },
+        {
+          "tcgplayerId": 723540,
+          "name": "Brightness of Hope Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723540_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723540/dragon-ball-super-fusion-world-brightness-of-hope-brightness-of-hope-sleeved-booster-pack"
+        }
+      ]
+    },
+    "24733": {
+      "name": "Cross Force Release Event Cards",
+      "abbreviation": "FB10_PR",
+      "modifiedOn": "2026-07-22T19:56:44.387",
+      "publishedOn": "2026-06-12",
+      "setId": "db-g24733",
+      "products": [
+        {
+          "tcgplayerId": 700805,
+          "name": "FB10 Cross Force Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/700805_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/700805/dragon-ball-super-fusion-world-cross-force-release-event-cards-fb10-cross-force-release-event-pack"
+        }
+      ]
+    },
+    "24783": {
+      "name": "Reach the God",
+      "abbreviation": "FB12",
+      "modifiedOn": "2026-10-16T14:41:18.53",
+      "publishedOn": "2026-12-11",
+      "setId": "db-g24783",
+      "products": [
+        {
+          "tcgplayerId": 707521,
+          "name": "Reach the God Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707521_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707521/dragon-ball-super-fusion-world-reach-the-god-reach-the-god-booster-box"
+        },
+        {
+          "tcgplayerId": 707522,
+          "name": "Reach the God Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707522_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707522/dragon-ball-super-fusion-world-reach-the-god-reach-the-god-booster-box-case"
+        },
+        {
+          "tcgplayerId": 707523,
+          "name": "Reach the God Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707523_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707523/dragon-ball-super-fusion-world-reach-the-god-reach-the-god-booster-pack"
+        }
+      ]
+    },
+    "24874": {
+      "name": "Brightness of Hope Release Event Cards",
+      "abbreviation": "FB11_PR",
+      "modifiedOn": "2026-10-16T14:10:47.287",
+      "publishedOn": "2026-10-16",
+      "setId": "db-g24874",
+      "products": [
+        {
+          "tcgplayerId": 716319,
+          "name": "FB11 Brightness of Hope Release Event Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716319_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/716319/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-fb11-brightness-of-hope-release-event-pack"
+        }
+      ]
+    },
+    "24895": {
+      "name": "Starter Deck 13: The Saiyan Raised on Earth",
+      "abbreviation": "FS13",
+      "modifiedOn": "2026-09-29T18:53:43.55",
+      "publishedOn": "2027-01-22",
+      "setId": "db-g24895",
+      "products": [
+        {
+          "tcgplayerId": 721534,
+          "name": "Starter Deck 13: The Saiyan Raised on Earth",
+          "kind": "deck",
+          "releasedOn": "2027-01-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721534_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/721534/dragon-ball-super-fusion-world-starter-deck-13-the-saiyan-raised-on-earth-starter-deck-13-the-saiyan-raised-on-earth"
+        },
+        {
+          "tcgplayerId": 721535,
+          "name": "Starter Deck 13: The Saiyan Raised on Earth Display",
+          "kind": "case",
+          "releasedOn": "2027-01-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721535_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/721535/dragon-ball-super-fusion-world-starter-deck-13-the-saiyan-raised-on-earth-starter-deck-13-the-saiyan-raised-on-earth-display"
+        }
+      ]
+    },
+    "24896": {
+      "name": "Starter Deck 14: The Prince of Saiyan",
+      "abbreviation": "FS14",
+      "modifiedOn": "2026-09-29T18:35:43.37",
+      "publishedOn": "2027-01-22",
+      "setId": "db-g24896",
+      "products": [
+        {
+          "tcgplayerId": 721537,
+          "name": "Starter Deck 14: The Prince of Saiyan",
+          "kind": "deck",
+          "releasedOn": "2027-01-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721537_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/721537/dragon-ball-super-fusion-world-starter-deck-14-the-prince-of-saiyan-starter-deck-14-the-prince-of-saiyan"
+        },
+        {
+          "tcgplayerId": 721538,
+          "name": "Starter Deck 14: The Prince of Saiyan Display",
+          "kind": "case",
+          "releasedOn": "2027-01-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/721538_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/721538/dragon-ball-super-fusion-world-starter-deck-14-the-prince-of-saiyan-starter-deck-14-the-prince-of-saiyan-display"
+        }
+      ]
+    }
+  }
+}

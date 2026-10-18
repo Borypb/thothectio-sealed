@@ -1,0 +1,802 @@
+{
+  "version": 1,
+  "game": "riftbound",
+  "lang": "en",
+  "products": [
+    {
+      "id": "rb-en-tcp712806",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Legacy - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24832"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712806_200w.jpg",
+      "source": {
+        "tcgplayer": 712806
+      }
+    },
+    {
+      "id": "rb-en-tcp712807",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Legacy - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24832"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712807_200w.jpg",
+      "source": {
+        "tcgplayer": 712807
+      }
+    },
+    {
+      "id": "rb-en-tcp712809",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Legacy - Pre-Rift Event Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24832"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712809_200w.jpg",
+      "source": {
+        "tcgplayer": 712809
+      }
+    },
+    {
+      "id": "rb-en-tcp712810",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Legacy - Pre-Rift Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24832"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712810_200w.jpg",
+      "source": {
+        "tcgplayer": 712810
+      }
+    },
+    {
+      "id": "rb-en-tcp712813",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Legacy - Vault Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24832"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712813_200w.jpg",
+      "source": {
+        "tcgplayer": 712813
+      }
+    },
+    {
+      "id": "rb-en-tcp714486",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Gift of the Rift Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24901"
+      ],
+      "releasedAt": "2026-12-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714486_200w.jpg",
+      "source": {
+        "tcgplayer": 714486
+      }
+    },
+    {
+      "id": "rb-en-tcp711362",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Radiance - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711362_200w.jpg",
+      "source": {
+        "tcgplayer": 711362
+      }
+    },
+    {
+      "id": "rb-en-tcp711363",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Radiance - Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711363_200w.jpg",
+      "source": {
+        "tcgplayer": 711363
+      }
+    },
+    {
+      "id": "rb-en-tcp711364",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Radiance - Sleeved Booster Pack Art Bundle (Set of 3)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711364_200w.jpg",
+      "source": {
+        "tcgplayer": 711364
+      }
+    },
+    {
+      "id": "rb-en-tcp711365",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Radiance - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711365_200w.jpg",
+      "source": {
+        "tcgplayer": 711365
+      }
+    },
+    {
+      "id": "rb-en-tcp711368",
+      "game": "riftbound",
+      "kind": "other",
+      "name": "Radiance - Showdown Decks: Evelynn vs Seraphine",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711368_200w.jpg",
+      "source": {
+        "tcgplayer": 711368
+      }
+    },
+    {
+      "id": "rb-en-tcp711370",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Radiance - Pre-Rift Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711370_200w.jpg",
+      "source": {
+        "tcgplayer": 711370
+      }
+    },
+    {
+      "id": "rb-en-tcp711371",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Radiance - Pre-Rift Event Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711371_200w.jpg",
+      "source": {
+        "tcgplayer": 711371
+      }
+    },
+    {
+      "id": "rb-en-tcp711372",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Radiance - Vault Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711372_200w.jpg",
+      "source": {
+        "tcgplayer": 711372
+      }
+    },
+    {
+      "id": "rb-en-tcp716007",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "T1 Worlds Champion Player Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24861"
+      ],
+      "releasedAt": "2026-08-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716007_200w.jpg",
+      "source": {
+        "tcgplayer": 716007
+      }
+    },
+    {
+      "id": "rb-en-tcp716008",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "T1 Worlds Champion Signature Edition Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24861"
+      ],
+      "releasedAt": "2026-08-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716008_200w.jpg",
+      "source": {
+        "tcgplayer": 716008
+      }
+    },
+    {
+      "id": "rb-en-tcp693377",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Vendetta - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693377_200w.jpg",
+      "source": {
+        "tcgplayer": 693377
+      }
+    },
+    {
+      "id": "rb-en-tcp693380",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Vendetta - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
+      "source": {
+        "tcgplayer": 693380
+      }
+    },
+    {
+      "id": "rb-en-tcp697969",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Vendetta - Pre-Rift Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697969_200w.jpg",
+      "source": {
+        "tcgplayer": 697969
+      }
+    },
+    {
+      "id": "rb-en-tcp697970",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Vendetta - Vault Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697970_200w.jpg",
+      "source": {
+        "tcgplayer": 697970
+      }
+    },
+    {
+      "id": "rb-en-tcp697971",
+      "game": "riftbound",
+      "kind": "other",
+      "name": "Vendetta - Showdown Decks: Zed vs Shen",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697971_200w.jpg",
+      "source": {
+        "tcgplayer": 697971
+      }
+    },
+    {
+      "id": "rb-en-tcp707963",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Vendetta - Pre-Rift Event Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707963_200w.jpg",
+      "source": {
+        "tcgplayer": 707963
+      }
+    },
+    {
+      "id": "rb-en-tcp710855",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Vendetta - Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710855_200w.jpg",
+      "source": {
+        "tcgplayer": 710855
+      }
+    },
+    {
+      "id": "rb-en-tcp711001",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Vendetta - Nexus Night Promo Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24698"
+      ],
+      "releasedAt": "2026-07-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711001_200w.jpg",
+      "source": {
+        "tcgplayer": 711001
+      }
+    },
+    {
+      "id": "rb-en-tcp678149",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Unleashed - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678149_200w.jpg",
+      "source": {
+        "tcgplayer": 678149
+      }
+    },
+    {
+      "id": "rb-en-tcp678150",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Unleashed - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
+      "source": {
+        "tcgplayer": 678150
+      }
+    },
+    {
+      "id": "rb-en-tcp678155",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Unleashed - Champion Deck (Vex)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678155_200w.jpg",
+      "source": {
+        "tcgplayer": 678155
+      }
+    },
+    {
+      "id": "rb-en-tcp678157",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Unleashed - Champion Deck (Vi)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678157_200w.jpg",
+      "source": {
+        "tcgplayer": 678157
+      }
+    },
+    {
+      "id": "rb-en-tcp678159",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Unleashed - Pre-Rift Event Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678159_200w.jpg",
+      "source": {
+        "tcgplayer": 678159
+      }
+    },
+    {
+      "id": "rb-en-tcp678162",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Unleashed - Vault Bundle",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678162_200w.jpg",
+      "source": {
+        "tcgplayer": 678162
+      }
+    },
+    {
+      "id": "rb-en-tcp678898",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Unleashed - Pre-Rift Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678898_200w.jpg",
+      "source": {
+        "tcgplayer": 678898
+      }
+    },
+    {
+      "id": "rb-en-tcp695122",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Unleashed - Nexus Night Promo Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695122_200w.jpg",
+      "source": {
+        "tcgplayer": 695122
+      }
+    },
+    {
+      "id": "rb-en-tcp696523",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Unleashed - Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24560"
+      ],
+      "releasedAt": "2026-05-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696523_200w.jpg",
+      "source": {
+        "tcgplayer": 696523
+      }
+    },
+    {
+      "id": "rb-en-tcp661934",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Spiritforged - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/661934_200w.jpg",
+      "source": {
+        "tcgplayer": 661934
+      }
+    },
+    {
+      "id": "rb-en-tcp661939",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Spiritforged - Champion Deck (Rumble)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/661939_200w.jpg",
+      "source": {
+        "tcgplayer": 661939
+      }
+    },
+    {
+      "id": "rb-en-tcp661942",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Spiritforged - Champion Deck (Fiora)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/661942_200w.jpg",
+      "source": {
+        "tcgplayer": 661942
+      }
+    },
+    {
+      "id": "rb-en-tcp661954",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Spiritforged - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/661954_200w.jpg",
+      "source": {
+        "tcgplayer": 661954
+      }
+    },
+    {
+      "id": "rb-en-tcp678130",
+      "game": "riftbound",
+      "kind": "other",
+      "name": "Riftbound: Bulk Runes",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678130_200w.jpg",
+      "source": {
+        "tcgplayer": 678130
+      }
+    },
+    {
+      "id": "rb-en-tcp678690",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Spiritforged - Pre-Rift Event Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678690_200w.jpg",
+      "source": {
+        "tcgplayer": 678690
+      }
+    },
+    {
+      "id": "rb-en-tcp678766",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Spiritforged - Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678766_200w.jpg",
+      "source": {
+        "tcgplayer": 678766
+      }
+    },
+    {
+      "id": "rb-en-tcp679041",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Spiritforged - Pre-Rift Kit",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/679041_200w.jpg",
+      "source": {
+        "tcgplayer": 679041
+      }
+    },
+    {
+      "id": "rb-en-tcp680454",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Spiritforged - Nexus Night Promo Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24519"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680454_200w.jpg",
+      "source": {
+        "tcgplayer": 680454
+      }
+    },
+    {
+      "id": "rb-en-tcp655495",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Riftbound: League of Legends Arcane Box Set",
+      "lang": "en",
+      "setIds": [
+        "rb-g24343"
+      ],
+      "releasedAt": "2026-02-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/655495_200w.jpg",
+      "source": {
+        "tcgplayer": 655495
+      }
+    },
+    {
+      "id": "rb-en-tcp635366",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Origins - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635366_200w.jpg",
+      "source": {
+        "tcgplayer": 635366
+      }
+    },
+    {
+      "id": "rb-en-tcp635368",
+      "game": "riftbound",
+      "kind": "booster_box",
+      "name": "Origins - Booster Display",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635368_200w.jpg",
+      "source": {
+        "tcgplayer": 635368
+      }
+    },
+    {
+      "id": "rb-en-tcp635371",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Origins - Champion Deck (Jinx)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635371_200w.jpg",
+      "source": {
+        "tcgplayer": 635371
+      }
+    },
+    {
+      "id": "rb-en-tcp635374",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Origins - Champion Deck (Viktor)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635374_200w.jpg",
+      "source": {
+        "tcgplayer": 635374
+      }
+    },
+    {
+      "id": "rb-en-tcp635375",
+      "game": "riftbound",
+      "kind": "deck",
+      "name": "Origins - Champion Deck (Lee Sin)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635375_200w.jpg",
+      "source": {
+        "tcgplayer": 635375
+      }
+    },
+    {
+      "id": "rb-en-tcp635459",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Origins - Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635459_200w.jpg",
+      "source": {
+        "tcgplayer": 635459
+      }
+    },
+    {
+      "id": "rb-en-tcp635460",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Origins - Proving Grounds Box Set",
+      "lang": "en",
+      "setIds": [
+        "rb-g24439"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635460_200w.jpg",
+      "source": {
+        "tcgplayer": 635460
+      }
+    },
+    {
+      "id": "rb-en-tcp675404",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Origins - Nexus Night Promo Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24344"
+      ],
+      "releasedAt": "2025-10-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/675404_200w.jpg",
+      "source": {
+        "tcgplayer": 675404
+      }
+    },
+    {
+      "id": "rb-en-tcp658333",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Riftbound: Worlds Bundle 2025",
+      "lang": "en",
+      "setIds": [
+        "rb-g24502"
+      ],
+      "releasedAt": "2025-10-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/658333_200w.jpg",
+      "source": {
+        "tcgplayer": 658333
+      }
+    },
+    {
+      "id": "rb-en-tcp710238",
+      "game": "riftbound",
+      "kind": "collection",
+      "name": "Secret Garden Box",
+      "lang": "en",
+      "setIds": [
+        "rb-g24797"
+      ],
+      "releasedAt": "2025-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710238_200w.jpg",
+      "source": {
+        "tcgplayer": 710238
+      }
+    }
+  ]
+}

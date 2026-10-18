@@ -1,0 +1,724 @@
+{
+  "game": "riftbound",
+  "lang": "en",
+  "categoryId": 89,
+  "harvestedAt": "2026-10-18T18:31:12.684Z",
+  "groups": {
+    "24343": {
+      "name": "Riftbound Promotional Cards",
+      "abbreviation": "PR",
+      "modifiedOn": "2026-10-16T19:49:09.07",
+      "publishedOn": "2025-10-31",
+      "setId": "rb-g24343",
+      "products": [
+        {
+          "tcgplayerId": 655495,
+          "name": "Riftbound: League of Legends Arcane Box Set",
+          "kind": "collection",
+          "releasedOn": "2026-02-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/655495_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/655495/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-league-of-legends-arcane-box-set"
+        }
+      ]
+    },
+    "24344": {
+      "name": "Origins",
+      "abbreviation": "OGN",
+      "modifiedOn": "2026-08-12T20:21:07.447",
+      "publishedOn": "2025-10-31",
+      "setId": "rb-g24344",
+      "products": [
+        {
+          "tcgplayerId": 635366,
+          "name": "Origins - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635366_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635366/riftbound-league-of-legends-trading-card-game-origins-origins-booster-pack"
+        },
+        {
+          "tcgplayerId": 635368,
+          "name": "Origins - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635368_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635368/riftbound-league-of-legends-trading-card-game-origins-origins-booster-display"
+        },
+        {
+          "tcgplayerId": 635369,
+          "name": "Origins - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635369_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635369/riftbound-league-of-legends-trading-card-game-origins-origins-booster-display-case"
+        },
+        {
+          "tcgplayerId": 635371,
+          "name": "Origins - Champion Deck (Jinx)",
+          "kind": "deck",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635371_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635371/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-jinx"
+        },
+        {
+          "tcgplayerId": 635372,
+          "name": "Origins - Champion Deck (Jinx) Display",
+          "kind": "case",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635372_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635372/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-jinx-display"
+        },
+        {
+          "tcgplayerId": 635373,
+          "name": "Origins - Champion Deck (Viktor) Display",
+          "kind": "case",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635373_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635373/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-viktor-display"
+        },
+        {
+          "tcgplayerId": 635374,
+          "name": "Origins - Champion Deck (Viktor)",
+          "kind": "deck",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635374_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635374/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-viktor"
+        },
+        {
+          "tcgplayerId": 635375,
+          "name": "Origins - Champion Deck (Lee Sin)",
+          "kind": "deck",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635375_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635375/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-lee-sin"
+        },
+        {
+          "tcgplayerId": 635458,
+          "name": "Origins - Champion Deck (Lee Sin) Display",
+          "kind": "case",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635458_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635458/riftbound-league-of-legends-trading-card-game-origins-origins-champion-deck-lee-sin-display"
+        },
+        {
+          "tcgplayerId": 635459,
+          "name": "Origins - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635459_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635459/riftbound-league-of-legends-trading-card-game-origins-origins-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 675404,
+          "name": "Origins - Nexus Night Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/675404_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/675404/riftbound-league-of-legends-trading-card-game-origins-origins-nexus-night-promo-pack"
+        }
+      ]
+    },
+    "24439": {
+      "name": "Origins: Proving Grounds",
+      "abbreviation": "OGS",
+      "modifiedOn": "2026-08-12T20:22:47.78",
+      "publishedOn": "2025-10-31",
+      "setId": "rb-g24439",
+      "products": [
+        {
+          "tcgplayerId": 635460,
+          "name": "Origins - Proving Grounds Box Set",
+          "kind": "collection",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635460_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/635460/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set"
+        },
+        {
+          "tcgplayerId": 663920,
+          "name": "Origins - Proving Grounds Box Set Case",
+          "kind": "case",
+          "releasedOn": "2025-10-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/663920_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/663920/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set-case"
+        }
+      ]
+    },
+    "24502": {
+      "name": "Riftbound Worlds Bundle 2025",
+      "abbreviation": "RWB",
+      "modifiedOn": "2026-10-05T18:04:31.84",
+      "publishedOn": "2025-10-28",
+      "setId": "rb-g24502",
+      "products": [
+        {
+          "tcgplayerId": 658333,
+          "name": "Riftbound: Worlds Bundle 2025",
+          "kind": "bundle",
+          "releasedOn": "2025-10-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/658333_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/658333/riftbound-league-of-legends-trading-card-game-riftbound-worlds-bundle-2025-riftbound-worlds-bundle-2025"
+        }
+      ]
+    },
+    "24519": {
+      "name": "Spiritforged",
+      "abbreviation": "SFD",
+      "modifiedOn": "2026-09-29T20:35:58.87",
+      "publishedOn": "2026-02-13",
+      "setId": "rb-g24519",
+      "products": [
+        {
+          "tcgplayerId": 661934,
+          "name": "Spiritforged - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661934_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661934/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-booster-display"
+        },
+        {
+          "tcgplayerId": 661937,
+          "name": "Spiritforged - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661937_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661937/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-booster-display-case"
+        },
+        {
+          "tcgplayerId": 661939,
+          "name": "Spiritforged - Champion Deck (Rumble)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661939_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661939/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-champion-deck-rumble"
+        },
+        {
+          "tcgplayerId": 661942,
+          "name": "Spiritforged - Champion Deck (Fiora)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661942_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661942/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-champion-deck-fiora"
+        },
+        {
+          "tcgplayerId": 661948,
+          "name": "Spiritforged - Champion Deck (Rumble) Display",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661948_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661948/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-champion-deck-rumble-display"
+        },
+        {
+          "tcgplayerId": 661949,
+          "name": "Spiritforged - Champion Deck (Fiora) Display",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661949_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661949/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-champion-deck-fiora-display"
+        },
+        {
+          "tcgplayerId": 661954,
+          "name": "Spiritforged - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661954_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/661954/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-booster-pack"
+        },
+        {
+          "tcgplayerId": 678130,
+          "name": "Riftbound: Bulk Runes",
+          "kind": "other",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678130_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678130/riftbound-league-of-legends-trading-card-game-spiritforged-riftbound-bulk-runes"
+        },
+        {
+          "tcgplayerId": 678131,
+          "name": "Riftbound: Bulk Runes Case",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678131_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678131/riftbound-league-of-legends-trading-card-game-spiritforged-riftbound-bulk-runes-case"
+        },
+        {
+          "tcgplayerId": 678690,
+          "name": "Spiritforged - Pre-Rift Event Kit",
+          "kind": "collection",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678690_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678690/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-pre-rift-event-kit"
+        },
+        {
+          "tcgplayerId": 678766,
+          "name": "Spiritforged - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678766_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678766/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 679041,
+          "name": "Spiritforged - Pre-Rift Kit",
+          "kind": "collection",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/679041_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/679041/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-pre-rift-kit"
+        },
+        {
+          "tcgplayerId": 680454,
+          "name": "Spiritforged - Nexus Night Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/680454_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/680454/riftbound-league-of-legends-trading-card-game-spiritforged-spiritforged-nexus-night-promo-pack"
+        }
+      ]
+    },
+    "24528": {
+      "name": "Riftbound Organized Play Promotional Cards",
+      "abbreviation": "OPP",
+      "modifiedOn": "2026-10-12T12:41:25.713",
+      "publishedOn": "2025-10-31",
+      "setId": "rb-g24528",
+      "products": []
+    },
+    "24552": {
+      "name": "Riftbound Judge Promotional Cards",
+      "abbreviation": "JDG",
+      "modifiedOn": "2026-10-02T12:45:49.813",
+      "publishedOn": "2025-12-01",
+      "setId": "rb-g24552",
+      "products": []
+    },
+    "24560": {
+      "name": "Unleashed",
+      "abbreviation": "UNL",
+      "modifiedOn": "2026-08-17T18:31:38.02",
+      "publishedOn": "2026-05-08",
+      "setId": "rb-g24560",
+      "products": [
+        {
+          "tcgplayerId": 678149,
+          "name": "Unleashed - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678149_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678149/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-booster-pack"
+        },
+        {
+          "tcgplayerId": 678150,
+          "name": "Unleashed - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678150_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678150/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-booster-display"
+        },
+        {
+          "tcgplayerId": 678152,
+          "name": "Unleashed - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678152_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678152/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-booster-display-case"
+        },
+        {
+          "tcgplayerId": 678153,
+          "name": "Unleashed - Champion Deck (Vex) Display",
+          "kind": "case",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678153_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678153/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-champion-deck-vex-display"
+        },
+        {
+          "tcgplayerId": 678154,
+          "name": "Unleashed - Champion Deck (Vi) Display",
+          "kind": "case",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678154_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678154/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-champion-deck-vi-display"
+        },
+        {
+          "tcgplayerId": 678155,
+          "name": "Unleashed - Champion Deck (Vex)",
+          "kind": "deck",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678155_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678155/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-champion-deck-vex"
+        },
+        {
+          "tcgplayerId": 678157,
+          "name": "Unleashed - Champion Deck (Vi)",
+          "kind": "deck",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678157_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678157/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-champion-deck-vi"
+        },
+        {
+          "tcgplayerId": 678159,
+          "name": "Unleashed - Pre-Rift Event Kit",
+          "kind": "collection",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678159_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678159/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-pre-rift-event-kit"
+        },
+        {
+          "tcgplayerId": 678162,
+          "name": "Unleashed - Vault Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678162_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678162/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-vault-bundle"
+        },
+        {
+          "tcgplayerId": 678898,
+          "name": "Unleashed - Pre-Rift Kit",
+          "kind": "collection",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/678898_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/678898/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-pre-rift-kit"
+        },
+        {
+          "tcgplayerId": 695122,
+          "name": "Unleashed - Nexus Night Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/695122_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/695122/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-nexus-night-promo-pack"
+        },
+        {
+          "tcgplayerId": 696523,
+          "name": "Unleashed - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/696523_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/696523/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 711445,
+          "name": "Unleashed - Vault Bundle Case",
+          "kind": "case",
+          "releasedOn": "2026-05-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711445_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711445/riftbound-league-of-legends-trading-card-game-unleashed-unleashed-vault-bundle-case"
+        }
+      ]
+    },
+    "24698": {
+      "name": "Vendetta",
+      "abbreviation": "VEN",
+      "modifiedOn": "2026-10-12T12:55:49.4",
+      "publishedOn": "2026-07-31",
+      "setId": "rb-g24698",
+      "products": [
+        {
+          "tcgplayerId": 693377,
+          "name": "Vendetta - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693377_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/693377/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-booster-pack"
+        },
+        {
+          "tcgplayerId": 693380,
+          "name": "Vendetta - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693380_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/693380/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-booster-display"
+        },
+        {
+          "tcgplayerId": 693382,
+          "name": "Vendetta - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/693382_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/693382/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-booster-display-case"
+        },
+        {
+          "tcgplayerId": 697969,
+          "name": "Vendetta - Pre-Rift Kit",
+          "kind": "collection",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/697969_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/697969/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-pre-rift-kit"
+        },
+        {
+          "tcgplayerId": 697970,
+          "name": "Vendetta - Vault Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/697970_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/697970/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-vault-bundle"
+        },
+        {
+          "tcgplayerId": 697971,
+          "name": "Vendetta - Showdown Decks: Zed vs Shen",
+          "kind": "other",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/697971_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/697971/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-showdown-decks-zed-vs-shen"
+        },
+        {
+          "tcgplayerId": 706237,
+          "name": "Vendetta - Showdown Decks: Zed vs Shen Display",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/706237_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/706237/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-showdown-decks-zed-vs-shen-display"
+        },
+        {
+          "tcgplayerId": 707963,
+          "name": "Vendetta - Pre-Rift Event Kit",
+          "kind": "collection",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707963_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707963/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-pre-rift-event-kit"
+        },
+        {
+          "tcgplayerId": 710855,
+          "name": "Vendetta - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710855_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710855/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 711001,
+          "name": "Vendetta - Nexus Night Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711001_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711001/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-nexus-night-promo-pack"
+        },
+        {
+          "tcgplayerId": 711444,
+          "name": "Vendetta - Vault Bundle Case",
+          "kind": "case",
+          "releasedOn": "2026-07-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711444_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711444/riftbound-league-of-legends-trading-card-game-vendetta-vendetta-vault-bundle-case"
+        }
+      ]
+    },
+    "24797": {
+      "name": "Secret Garden",
+      "abbreviation": "SGN",
+      "modifiedOn": "2026-08-12T20:31:38.323",
+      "publishedOn": "2025-07-30",
+      "setId": "rb-g24797",
+      "products": [
+        {
+          "tcgplayerId": 710238,
+          "name": "Secret Garden Box",
+          "kind": "collection",
+          "releasedOn": "2025-07-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710238_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710238/riftbound-league-of-legends-trading-card-game-secret-garden-secret-garden-box"
+        }
+      ]
+    },
+    "24819": {
+      "name": "Radiance",
+      "abbreviation": "RAD",
+      "modifiedOn": "2026-10-16T20:39:42.287",
+      "publishedOn": "2026-10-23",
+      "setId": "rb-g24819",
+      "products": [
+        {
+          "tcgplayerId": 711362,
+          "name": "Radiance - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711362_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711362/riftbound-league-of-legends-trading-card-game-radiance-radiance-booster-pack"
+        },
+        {
+          "tcgplayerId": 711363,
+          "name": "Radiance - Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711363_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711363/riftbound-league-of-legends-trading-card-game-radiance-radiance-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 711364,
+          "name": "Radiance - Sleeved Booster Pack Art Bundle (Set of 3)",
+          "kind": "bundle",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711364_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711364/riftbound-league-of-legends-trading-card-game-radiance-radiance-sleeved-booster-pack-art-bundle-set-of-3"
+        },
+        {
+          "tcgplayerId": 711365,
+          "name": "Radiance - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711365_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711365/riftbound-league-of-legends-trading-card-game-radiance-radiance-booster-display"
+        },
+        {
+          "tcgplayerId": 711366,
+          "name": "Radiance - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711366_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711366/riftbound-league-of-legends-trading-card-game-radiance-radiance-booster-display-case"
+        },
+        {
+          "tcgplayerId": 711368,
+          "name": "Radiance - Showdown Decks: Evelynn vs Seraphine",
+          "kind": "other",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711368_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711368/riftbound-league-of-legends-trading-card-game-radiance-radiance-showdown-decks-evelynn-vs-seraphine"
+        },
+        {
+          "tcgplayerId": 711369,
+          "name": "Radiance - Showdown Decks: Evelynn vs Seraphine Display",
+          "kind": "case",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711369_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711369/riftbound-league-of-legends-trading-card-game-radiance-radiance-showdown-decks-evelynn-vs-seraphine-display"
+        },
+        {
+          "tcgplayerId": 711370,
+          "name": "Radiance - Pre-Rift Kit",
+          "kind": "collection",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711370_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711370/riftbound-league-of-legends-trading-card-game-radiance-radiance-pre-rift-kit"
+        },
+        {
+          "tcgplayerId": 711371,
+          "name": "Radiance - Pre-Rift Event Kit",
+          "kind": "collection",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711371_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711371/riftbound-league-of-legends-trading-card-game-radiance-radiance-pre-rift-event-kit"
+        },
+        {
+          "tcgplayerId": 711372,
+          "name": "Radiance - Vault Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711372_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711372/riftbound-league-of-legends-trading-card-game-radiance-radiance-vault-bundle"
+        },
+        {
+          "tcgplayerId": 711446,
+          "name": "Radiance - Vault Bundle Case",
+          "kind": "case",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711446_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711446/riftbound-league-of-legends-trading-card-game-radiance-radiance-vault-bundle-case"
+        }
+      ]
+    },
+    "24832": {
+      "name": "Legacy",
+      "abbreviation": "LGC",
+      "modifiedOn": "2026-08-31T12:49:15.887",
+      "publishedOn": "2027-01-29",
+      "setId": "rb-g24832",
+      "products": [
+        {
+          "tcgplayerId": 712806,
+          "name": "Legacy - Booster Display",
+          "kind": "booster_box",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712806_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712806/riftbound-league-of-legends-trading-card-game-legacy-legacy-booster-display"
+        },
+        {
+          "tcgplayerId": 712807,
+          "name": "Legacy - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712807_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712807/riftbound-league-of-legends-trading-card-game-legacy-legacy-booster-pack"
+        },
+        {
+          "tcgplayerId": 712808,
+          "name": "Legacy - Booster Display Case",
+          "kind": "case",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712808_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712808/riftbound-league-of-legends-trading-card-game-legacy-legacy-booster-display-case"
+        },
+        {
+          "tcgplayerId": 712809,
+          "name": "Legacy - Pre-Rift Event Kit",
+          "kind": "collection",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712809_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712809/riftbound-league-of-legends-trading-card-game-legacy-legacy-pre-rift-event-kit"
+        },
+        {
+          "tcgplayerId": 712810,
+          "name": "Legacy - Pre-Rift Kit",
+          "kind": "collection",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712810_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712810/riftbound-league-of-legends-trading-card-game-legacy-legacy-pre-rift-kit"
+        },
+        {
+          "tcgplayerId": 712812,
+          "name": "Legacy - Vault Bundle Case",
+          "kind": "case",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712812_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712812/riftbound-league-of-legends-trading-card-game-legacy-legacy-vault-bundle-case"
+        },
+        {
+          "tcgplayerId": 712813,
+          "name": "Legacy - Vault Bundle",
+          "kind": "bundle",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712813_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/712813/riftbound-league-of-legends-trading-card-game-legacy-legacy-vault-bundle"
+        }
+      ]
+    },
+    "24861": {
+      "name": "T1 2025 Worlds Champion Bundles",
+      "abbreviation": "T12025",
+      "modifiedOn": "2026-10-05T18:15:46.257",
+      "publishedOn": "2026-08-01",
+      "setId": "rb-g24861",
+      "products": [
+        {
+          "tcgplayerId": 716007,
+          "name": "T1 Worlds Champion Player Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-08-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716007_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/716007/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-t1-worlds-champion-player-bundle"
+        },
+        {
+          "tcgplayerId": 716008,
+          "name": "T1 Worlds Champion Signature Edition Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-08-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/716008_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/716008/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-t1-worlds-champion-signature-edition-bundle"
+        }
+      ]
+    },
+    "24901": {
+      "name": "Gift of the Rift Bundle",
+      "abbreviation": "GRFT",
+      "modifiedOn": "2026-10-05T18:19:34.767",
+      "publishedOn": "2026-12-04",
+      "setId": "rb-g24901",
+      "products": [
+        {
+          "tcgplayerId": 714486,
+          "name": "Gift of the Rift Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/714486_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/714486/riftbound-league-of-legends-trading-card-game-gift-of-the-rift-bundle-gift-of-the-rift-bundle"
+        }
+      ]
+    }
+  }
+}

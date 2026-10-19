@@ -252,7 +252,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.24
+          "usd": 0.25
         }
       ]
     },
@@ -327,7 +327,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -432,7 +432,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.67
+          "usd": 5.51
         }
       ]
     },
@@ -522,7 +522,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.29
+          "usd": 4.16
         }
       ]
     },
@@ -552,7 +552,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8.94
+          "usd": 8.88
         }
       ]
     },
@@ -765,7 +765,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 16.5
+          "usd": 16.41
         }
       ]
     },
@@ -1258,7 +1258,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 44.55
+          "usd": 43.81
         }
       ]
     },
@@ -1302,7 +1302,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/555279_200w.jpg",
       "url": "https://www.tcgplayer.com/product/555279/digimon-card-game-infernal-ascension-ophanimon-ace-textured",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 113.21
+        }
+      ]
     },
     {
       "id": 555280,
@@ -1444,7 +1449,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.22
+          "usd": 1.21
         }
       ]
     },
@@ -1705,7 +1710,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.27
+          "usd": 6.91
         }
       ]
     },
@@ -1726,5 +1731,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-18"
+  "pricesAt": "2026-10-19"
 }

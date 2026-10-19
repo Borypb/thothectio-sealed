@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-10-18",
+  "version": 16,
+  "updatedAt": "2026-10-19",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -121,43 +121,43 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "count": 383
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-10-18",
-      "count": 3155
+      "date": "2026-10-19",
+      "count": 3154
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "count": 964
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "count": 152
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "count": 290
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-10-18",
-      "count": 146
+      "date": "2026-10-19",
+      "count": 149
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-10-18",
-      "count": 67
+      "date": "2026-10-19",
+      "count": 68
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-10-18",
-      "count": 13
+      "date": "2026-10-19",
+      "count": 14
     }
   }
 }

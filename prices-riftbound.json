@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": {
     "rb-en-tcp655495": {
       "tp": {
         "market": 525.52,
-        "low": 439.99
+        "low": 424
       }
     },
     "rb-en-tcp635366": {
       "tp": {
-        "market": 12.64,
-        "low": 9.49
+        "market": 12.52,
+        "low": 9
       }
     },
     "rb-en-tcp635368": {
       "tp": {
-        "market": 217.06,
-        "low": 214.96
+        "market": 218.15,
+        "low": 224
       }
     },
     "rb-en-tcp635369": {
       "tp": {
-        "market": 1539.09,
-        "low": 1349.99
+        "market": 1524.09,
+        "low": 1354.99
       }
     },
     "rb-en-tcp635371": {
@@ -44,7 +44,7 @@
     },
     "rb-en-tcp635374": {
       "tp": {
-        "market": 63.1,
+        "market": 63.22,
         "low": 58
       }
     },
@@ -68,13 +68,13 @@
     },
     "rb-en-tcp675404": {
       "tp": {
-        "market": 32.38,
+        "market": 32.19,
         "low": 40
       }
     },
     "rb-en-tcp635460": {
       "tp": {
-        "market": 53.17,
+        "market": 53.13,
         "low": 49.55
       }
     },
@@ -87,12 +87,12 @@
     "rb-en-tcp658333": {
       "tp": {
         "market": 1088.15,
-        "low": 965
+        "low": 950
       }
     },
     "rb-en-tcp661934": {
       "tp": {
-        "market": 167.34,
+        "market": 165.96,
         "low": 160.99
       }
     },
@@ -104,14 +104,14 @@
     },
     "rb-en-tcp661939": {
       "tp": {
-        "market": 25.48,
+        "market": 25.59,
         "low": 19.99
       }
     },
     "rb-en-tcp661942": {
       "tp": {
         "market": 33.87,
-        "low": 29.99
+        "low": 29.88
       }
     },
     "rb-en-tcp661948": {
@@ -128,7 +128,7 @@
     },
     "rb-en-tcp661954": {
       "tp": {
-        "market": 9.45,
+        "market": 9.26,
         "low": 7.5
       }
     },
@@ -146,7 +146,7 @@
     },
     "rb-en-tcp678690": {
       "tp": {
-        "market": 1599.99,
+        "market": 1566.66,
         "low": 1500
       }
     },
@@ -170,14 +170,14 @@
     },
     "rb-en-tcp678149": {
       "tp": {
-        "market": 7.94,
+        "market": 7.98,
         "low": 6.4
       }
     },
     "rb-en-tcp678150": {
       "tp": {
-        "market": 173.35,
-        "low": 161.96
+        "market": 170.32,
+        "low": 165
       }
     },
     "rb-en-tcp678152": {
@@ -200,20 +200,20 @@
     },
     "rb-en-tcp678155": {
       "tp": {
-        "market": 20.96,
+        "market": 21.13,
         "low": 16.24
       }
     },
     "rb-en-tcp678157": {
       "tp": {
-        "market": 15.96,
+        "market": 15.76,
         "low": 12.81
       }
     },
     "rb-en-tcp678159": {
       "tp": {
         "market": 783.11,
-        "low": 799.99
+        "low": 750
       }
     },
     "rb-en-tcp678162": {
@@ -224,14 +224,14 @@
     },
     "rb-en-tcp678898": {
       "tp": {
-        "market": 44.42,
+        "market": 44.18,
         "low": 25
       }
     },
     "rb-en-tcp695122": {
       "tp": {
-        "market": 8.32,
-        "low": 4
+        "market": 7.73,
+        "low": 5
       }
     },
     "rb-en-tcp696523": {
@@ -248,31 +248,31 @@
     },
     "rb-en-tcp693380": {
       "tp": {
-        "market": 136.75,
-        "low": 133
+        "market": 136.03,
+        "low": 137.62
       }
     },
     "rb-en-tcp693382": {
       "tp": {
-        "market": 875.53,
+        "market": 873.93,
         "low": 840
       }
     },
     "rb-en-tcp697969": {
       "tp": {
-        "market": 32.68,
-        "low": 32.9
+        "market": 32.73,
+        "low": 29.94
       }
     },
     "rb-en-tcp697970": {
       "tp": {
-        "market": 47.38,
+        "market": 47.34,
         "low": 39.99
       }
     },
     "rb-en-tcp697971": {
       "tp": {
-        "market": 14.88,
+        "market": 14.71,
         "low": 9.95
       }
     },
@@ -290,14 +290,14 @@
     },
     "rb-en-tcp710855": {
       "tp": {
-        "market": 8.64,
-        "low": 6.99
+        "market": 8.56,
+        "low": 7.49
       }
     },
     "rb-en-tcp711001": {
       "tp": {
-        "market": 8.78,
-        "low": 7
+        "market": 8.67,
+        "low": 6
       }
     },
     "rb-en-tcp711444": {
@@ -309,12 +309,12 @@
     "rb-en-tcp710238": {
       "tp": {
         "market": 294.89,
-        "low": 277.99
+        "low": 260
       }
     },
     "rb-en-tcp711362": {
       "tp": {
-        "market": 6.99,
+        "market": 6.5,
         "low": 6
       }
     },
@@ -326,43 +326,49 @@
     },
     "rb-en-tcp711365": {
       "tp": {
-        "market": 142.95,
-        "low": 137.71
+        "market": 143.31,
+        "low": 134.59
       }
     },
     "rb-en-tcp711366": {
       "tp": {
-        "market": 891.89,
-        "low": 872.77
+        "market": 892.92,
+        "low": 897.73
       }
     },
     "rb-en-tcp711368": {
       "tp": {
-        "market": 38.2,
-        "low": 24.3
+        "market": 36.46,
+        "low": 26.3
       }
     },
     "rb-en-tcp711369": {
       "tp": {
-        "market": 98.12,
+        "market": 98.51,
         "low": 97.69
       }
     },
     "rb-en-tcp711370": {
       "tp": {
         "market": 30,
-        "low": 30
+        "low": 42
+      }
+    },
+    "rb-en-tcp711371": {
+      "tp": {
+        "market": 1000,
+        "low": 950
       }
     },
     "rb-en-tcp711372": {
       "tp": {
-        "market": 49.67,
+        "market": 49.28,
         "low": 45
       }
     },
     "rb-en-tcp711446": {
       "tp": {
-        "low": 799.66
+        "low": 799.65
       }
     },
     "rb-en-tcp712806": {
@@ -373,7 +379,7 @@
     "rb-en-tcp712808": {
       "tp": {
         "market": 1440,
-        "low": 1410
+        "low": 1405.01
       }
     },
     "rb-en-tcp712812": {
@@ -394,8 +400,8 @@
     },
     "rb-en-tcp714486": {
       "tp": {
-        "market": 288.18,
-        "low": 286.85
+        "market": 288.09,
+        "low": 286.55
       }
     }
   }

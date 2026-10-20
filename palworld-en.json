@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "palworld",
   "lang": "en",
   "products": [
@@ -106,6 +106,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722750_200w.jpg",
       "source": {
         "tcgplayer": 722750
+      }
+    },
+    {
+      "id": "pal-en-tcp724539",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "PR Card Pack Vol.1.5",
+      "lang": "en",
+      "setIds": [
+        "pal-g24851"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724539_200w.jpg",
+      "source": {
+        "tcgplayer": 724539
       }
     }
   ]

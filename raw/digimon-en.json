@@ -2,7 +2,7 @@
   "game": "digimon",
   "lang": "en",
   "categoryId": 63,
-  "harvestedAt": "2026-10-19T10:02:44.465Z",
+  "harvestedAt": "2026-10-20T09:31:07.289Z",
   "groups": {
     "2733": {
       "name": "Release Special Booster 1.0",
@@ -3421,7 +3421,7 @@
     "24865": {
       "name": "Ignition of X",
       "abbreviation": "BT27",
-      "modifiedOn": "2026-10-16T19:47:13.987",
+      "modifiedOn": "2026-10-19T19:33:35.923",
       "publishedOn": "2026-12-11",
       "setId": "dgm-g24865",
       "products": [
@@ -3448,6 +3448,38 @@
           "releasedOn": "2026-12-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/714851_200w.jpg",
           "url": "https://www.tcgplayer.com/product/714851/digimon-card-game-ignition-of-x-ignition-of-x-booster-box-case"
+        },
+        {
+          "tcgplayerId": 724671,
+          "name": "LoaderLeomon",
+          "kind": "other",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/724671_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/724671/digimon-card-game-ignition-of-x-loaderleomon"
+        },
+        {
+          "tcgplayerId": 724672,
+          "name": "ProtoGizmon",
+          "kind": "other",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/724672_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/724672/digimon-card-game-ignition-of-x-protogizmon"
+        },
+        {
+          "tcgplayerId": 724673,
+          "name": "Gizmon: AT",
+          "kind": "other",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/724673_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/724673/digimon-card-game-ignition-of-x-gizmon-at"
+        },
+        {
+          "tcgplayerId": 724674,
+          "name": "Gizmon: XT",
+          "kind": "other",
+          "releasedOn": "2026-12-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/724674_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/724674/digimon-card-game-ignition-of-x-gizmon-xt"
         }
       ]
     },

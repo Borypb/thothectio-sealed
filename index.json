@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updatedAt": "2026-10-19",
+  "version": 17,
+  "updatedAt": "2026-10-20",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -53,8 +53,8 @@
       "files": {
         "en": {
           "file": "magic-en.json",
-          "version": 1,
-          "count": 3268
+          "version": 2,
+          "count": 3270
         }
       }
     },
@@ -80,8 +80,8 @@
       "files": {
         "en": {
           "file": "digimon-en.json",
-          "version": 1,
-          "count": 259
+          "version": 2,
+          "count": 263
         }
       }
     },
@@ -107,8 +107,8 @@
       "files": {
         "en": {
           "file": "palworld-en.json",
-          "version": 1,
-          "count": 7
+          "version": 2,
+          "count": 8
         }
       }
     }
@@ -121,42 +121,42 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 383
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-10-19",
-      "count": 3154
+      "date": "2026-10-20",
+      "count": 3158
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 964
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 152
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-10-19",
-      "count": 290
+      "date": "2026-10-20",
+      "count": 289
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 149
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 68
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "count": 14
     }
   }

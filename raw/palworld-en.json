@@ -2,7 +2,7 @@
   "game": "palworld",
   "lang": "en",
   "categoryId": 91,
-  "harvestedAt": "2026-10-19T10:03:00.822Z",
+  "harvestedAt": "2026-10-20T09:31:21.489Z",
   "groups": {
     "24842": {
       "name": "BP01: Dawn of Palpagos",
@@ -139,7 +139,7 @@
     "24851": {
       "name": "Palworld Promo Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-08T17:32:45.913",
+      "modifiedOn": "2026-10-19T15:11:54.24",
       "publishedOn": "2026-07-30",
       "setId": "pal-g24851",
       "products": [
@@ -150,6 +150,14 @@
           "releasedOn": "2026-07-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/722750_200w.jpg",
           "url": "https://www.tcgplayer.com/product/722750/palworld-official-card-game-palworld-promo-cards-pr-card-pack-vol1"
+        },
+        {
+          "tcgplayerId": 724539,
+          "name": "PR Card Pack Vol.1.5",
+          "kind": "booster",
+          "releasedOn": "2026-07-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/724539_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/724539/palworld-official-card-game-palworld-promo-cards-pr-card-pack-vol15"
         }
       ]
     },

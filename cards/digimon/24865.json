@@ -29,7 +29,7 @@
       "label": "X Antibody",
       "number": "BT27-070 SR",
       "rarity": "Super Rare",
-      "type": "Digimon",
+      "type": "Digimon/Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724452_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724452/digimon-card-game-ignition-of-x-craniamon-x-antibody-ultimate-crossblade-dainsleif",
       "prices": []
@@ -43,7 +43,196 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724453_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724453/digimon-card-game-ignition-of-x-miragegaogamon-burst-mode-full-moon-meteor-impact",
       "prices": []
+    },
+    {
+      "id": 724464,
+      "name": "Alphamon: Ouryuken // Ultimate Ouryuken",
+      "number": "BT27-103 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724464/digimon-card-game-ignition-of-x-alphamon-ouryuken-ultimate-ouryuken",
+      "prices": []
+    },
+    {
+      "id": 724465,
+      "name": "Craniamon // Ultimate Crossblade Dainsleif",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT27-070 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724465/digimon-card-game-ignition-of-x-craniamon-x-antibody-ultimate-crossblade-dainsleif-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 724466,
+      "name": "Hjaoningar Waltz",
+      "number": "BT27-100 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724466/digimon-card-game-ignition-of-x-hjaoningar-waltz",
+      "prices": []
+    },
+    {
+      "id": 724467,
+      "name": "MirageGaogamon: Burst Mode // Full Moon Meteor Impact",
+      "label": "Alternate Art",
+      "number": "BT27-035 UR",
+      "rarity": "Ultimate Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724467/digimon-card-game-ignition-of-x-miragegaogamon-burst-mode-full-moon-meteor-impact-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 724469,
+      "name": "Alphamon: Ouryuken // Ultimate Ouryuken",
+      "label": "Alternate Art",
+      "number": "BT27-103 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724469/digimon-card-game-ignition-of-x-alphamon-ouryuken-ultimate-ouryuken-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 724628,
+      "name": "Shaujinmon",
+      "number": "BT27-028 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724628/digimon-card-game-ignition-of-x-shaujinmon",
+      "prices": []
+    },
+    {
+      "id": 724629,
+      "name": "JumboGamemon",
+      "number": "BT27-031 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724629/digimon-card-game-ignition-of-x-jumbogamemon",
+      "prices": []
+    },
+    {
+      "id": 724630,
+      "name": "Chapmon",
+      "number": "BT27-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724630/digimon-card-game-ignition-of-x-chapmon",
+      "prices": []
+    },
+    {
+      "id": 724631,
+      "name": "Kamemon",
+      "number": "BT27-020 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724631/digimon-card-game-ignition-of-x-kamemon",
+      "prices": []
+    },
+    {
+      "id": 724632,
+      "name": "Gawappamon",
+      "number": "BT27-025 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724632/digimon-card-game-ignition-of-x-gawappamon",
+      "prices": []
+    },
+    {
+      "id": 724633,
+      "name": "Homer Yushima",
+      "number": "BT27-095 C",
+      "rarity": "Common",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724633/digimon-card-game-ignition-of-x-homer-yushima",
+      "prices": []
+    },
+    {
+      "id": 724634,
+      "name": "Chiropmon",
+      "number": "BT27-073 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724634/digimon-card-game-ignition-of-x-chiropmon",
+      "prices": []
+    },
+    {
+      "id": 724636,
+      "name": "NightChiropmon",
+      "number": "BT27-077 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724636/digimon-card-game-ignition-of-x-nightchiropmon",
+      "prices": []
+    },
+    {
+      "id": 724637,
+      "name": "ScourgeChiropmon",
+      "number": "BT27-080 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724637/digimon-card-game-ignition-of-x-scourgechiropmon",
+      "prices": []
+    },
+    {
+      "id": 724639,
+      "name": "Nosferamon // Rampage Bullet",
+      "number": "BT27-082 SR",
+      "rarity": "Super Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724639/digimon-card-game-ignition-of-x-nosferamon-rampage-bullet",
+      "prices": []
+    },
+    {
+      "id": 724640,
+      "name": "Nosferamon // Rampage Bullet",
+      "label": "Alternate Art",
+      "number": "BT27-082 SR",
+      "rarity": "Super Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724640/digimon-card-game-ignition-of-x-nosferamon-rampage-bullet-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 724668,
+      "name": "Frimon",
+      "number": "BT27-003 C",
+      "rarity": "Common",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724668/digimon-card-game-ignition-of-x-frimon",
+      "prices": []
+    },
+    {
+      "id": 724669,
+      "name": "Liollmon",
+      "number": "BT27-045 U",
+      "rarity": "Uncommon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724669/digimon-card-game-ignition-of-x-liollmon",
+      "prices": []
+    },
+    {
+      "id": 724670,
+      "name": "Liamon",
+      "number": "BT27-049 C",
+      "rarity": "Common",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724670/digimon-card-game-ignition-of-x-liamon",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-19"
+  "pricesAt": "2026-10-20"
 }

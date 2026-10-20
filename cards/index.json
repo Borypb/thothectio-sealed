@@ -20,10 +20,10 @@
           "name": "Brightness of Hope Release Event Cards",
           "code": "FB11_PR",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-16T14:10:47.287",
+          "modifiedOn": "2026-10-19T13:56:56.4",
           "count": 75,
           "file": "cards/dragonball/24874.json",
-          "version": "1a9965baaf22"
+          "version": "3e626510bbfb"
         },
         {
           "groupId": 24680,
@@ -546,7 +546,7 @@
           "name": "Palworld Promo Cards",
           "code": "PR",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-08T17:32:45.913",
+          "modifiedOn": "2026-10-19T15:11:54.24",
           "count": 26,
           "file": "cards/palworld/24851.json",
           "version": "1bc2c1150b4d"
@@ -592,10 +592,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-16T19:47:13.987",
-          "count": 4,
+          "modifiedOn": "2026-10-19T19:33:35.923",
+          "count": 23,
           "file": "cards/digimon/24865.json",
-          "version": "7f23037eced0"
+          "version": "1cc72690bdf7"
         },
         {
           "groupId": 24635,
@@ -1607,10 +1607,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-16T20:39:42.287",
-          "count": 219,
+          "modifiedOn": "2026-10-19T18:38:42.377",
+          "count": 234,
           "file": "cards/riftbound/24819.json",
-          "version": "853c4eac2ec1"
+          "version": "0f2e7c583ddf"
         },
         {
           "groupId": 24861,
@@ -1725,5 +1725,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-19"
+  "updatedAt": "2026-10-20"
 }

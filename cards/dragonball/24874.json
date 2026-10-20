@@ -63,7 +63,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/707295_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716238/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-goku-fb11-008",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716238_200w.jpg"
     },
     {
@@ -172,12 +177,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715994_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716247/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-vegeta-fb11-022",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.35
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716247_200w.jpg"
     },
     {
@@ -373,12 +373,7 @@
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709979_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716263/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-desperate-strike",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.15
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716263_200w.jpg"
     },
     {
@@ -580,7 +575,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709958_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716280/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-cabba",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716280_200w.jpg"
     },
     {
@@ -605,7 +605,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8
+          "usd": 8.75
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716282_200w.jpg"
@@ -675,6 +675,7 @@
       "name": "Son Goku",
       "number": "FB11-089",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/710546_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716288/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-goku-fb11-089",
       "prices": [],
@@ -685,6 +686,7 @@
       "name": "Son Gohan : Adolescence",
       "number": "FB11-091",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/705022_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716289/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-gohan-adolescence-fb11-091",
       "prices": [],
@@ -695,6 +697,7 @@
       "name": "Bido",
       "number": "FB11-092",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/710991_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716290/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-bido",
       "prices": [
@@ -710,6 +713,7 @@
       "name": "Beerus",
       "number": "FB11-093",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716041_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716291/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-beerus-fb11-093",
       "prices": [
@@ -725,6 +729,7 @@
       "name": "Vegeta",
       "number": "FB11-095",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712917_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716292/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-vegeta-fb11-095",
       "prices": [],
@@ -735,6 +740,7 @@
       "name": "Omnipotence Crystallized",
       "number": "FB11-096",
       "rarity": "Common",
+      "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711481_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716293/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-omnipotence-crystallized",
       "prices": [],
@@ -745,6 +751,7 @@
       "name": "Ipana",
       "number": "FB11-098",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716043_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716294/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-ipana",
       "prices": [],
@@ -755,12 +762,13 @@
       "name": "Fasha",
       "number": "FB11-099",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/710752_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716295/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-fasha",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8
+          "usd": 8.75
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716295_200w.jpg"
@@ -771,6 +779,7 @@
       "label": "Great Ape",
       "number": "FB11-100",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716296_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716296/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-fasha-great-ape",
       "prices": []
@@ -780,6 +789,7 @@
       "name": "Cell",
       "number": "FB11-101",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711206_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716297/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-cell-fb11-101",
       "prices": [],
@@ -790,6 +800,7 @@
       "name": "Cell",
       "number": "FB11-102",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711207_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716298/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-cell-fb11-102",
       "prices": [],
@@ -800,6 +811,7 @@
       "name": "Son Goku",
       "number": "FB11-104",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/707715_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716299/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-goku-fb11-104",
       "prices": [],
@@ -811,6 +823,7 @@
       "label": "Great Ape",
       "number": "FB11-107",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716300_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716300/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-tora-great-ape",
       "prices": [
@@ -825,6 +838,7 @@
       "name": "Borgos",
       "number": "FB11-108",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709943_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716301/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-borgos",
       "prices": [],
@@ -836,6 +850,7 @@
       "label": "Great Ape",
       "number": "FB11-109",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716302_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716302/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-borgos-great-ape",
       "prices": []
@@ -845,6 +860,7 @@
       "name": "Bardock",
       "number": "FB11-111",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712958_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716303/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-bardock-fb11-111",
       "prices": [],
@@ -855,6 +871,7 @@
       "name": "Bardock's Crew",
       "number": "FB11-115",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716048_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716304/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-bardocks-crew-fb11-115",
       "prices": [],
@@ -865,6 +882,7 @@
       "name": "Shugesh",
       "number": "FB11-116",
       "rarity": "Uncommon",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711515_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716305/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-shugesh",
       "prices": [],
@@ -876,6 +894,7 @@
       "label": "Great Ape",
       "number": "FB11-117",
       "rarity": "Common",
+      "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716306_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716306/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-shugesh-great-ape",
       "prices": []
@@ -885,6 +904,7 @@
       "name": "Solitary Avenger",
       "number": "FB11-118",
       "rarity": "Uncommon",
+      "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/713241_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716307/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-solitary-avenger",
       "prices": [
@@ -900,11 +920,12 @@
       "name": "Rebellious Saiyan",
       "number": "FB11-120",
       "rarity": "Common",
+      "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/713240_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716308/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-rebellious-saiyan",
       "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716308_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-19"
+  "pricesAt": "2026-10-20"
 }

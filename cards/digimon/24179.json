@@ -147,7 +147,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.24
+          "usd": 0.98
         }
       ]
     },
@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.52
+          "usd": 4.02
         }
       ]
     },
@@ -207,7 +207,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.59
+          "usd": 1.67
         }
       ]
     },
@@ -234,7 +234,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/618954_200w.jpg",
       "url": "https://www.tcgplayer.com/product/618954/digimon-card-game-release-special-booster-25-celebration-event-cards-raptorsparrowmon",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.26
+        }
+      ]
     },
     {
       "id": 618955,
@@ -512,7 +517,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.67
+          "usd": 7.17
         }
       ]
     },
@@ -527,7 +532,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.93
+          "usd": 2.48
         }
       ]
     },
@@ -558,7 +563,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.78
+          "usd": 0.72
         }
       ]
     },
@@ -619,7 +624,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.07
+          "usd": 3.22
         }
       ]
     },
@@ -649,7 +654,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.58
+          "usd": 7.53
         }
       ]
     },
@@ -1162,7 +1167,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.16
+          "usd": 1.15
         }
       ]
     },
@@ -1178,10 +1183,10 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.75
+          "usd": 7.67
         }
       ]
     }
   ],
-  "pricesAt": "2026-10-19"
+  "pricesAt": "2026-10-20"
 }

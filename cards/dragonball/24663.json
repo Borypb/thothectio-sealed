@@ -281,7 +281,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/677212_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688565/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-veku-br-fb09-016",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.12
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688565_200w.jpg"
     },
     {
@@ -439,7 +444,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.27
+          "usd": 3.16
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688575_200w.jpg"
@@ -1160,7 +1165,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 13.17
+          "usd": 13.31
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688621_200w.jpg"
@@ -1182,5 +1187,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688622_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-19"
+  "pricesAt": "2026-10-20"
 }

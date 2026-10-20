@@ -187,7 +187,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.4
+          "usd": 3.22
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672626_200w.jpg"
@@ -299,7 +299,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.19
+          "usd": 1.21
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672636_200w.jpg"
@@ -570,7 +570,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.67
+          "usd": 1.72
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672655_200w.jpg"
@@ -647,7 +647,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/668616_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672660/digimon-card-game-time-stranger-release-event-cards-ogremon",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.2
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672660_200w.jpg"
     },
     {
@@ -791,11 +796,11 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.8
+          "usd": 0.74
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/677196_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-19"
+  "pricesAt": "2026-10-20"
 }

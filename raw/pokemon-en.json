@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-20T08:53:43.530Z",
+  "harvestedAt": "2026-10-21T08:54:13.035Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -4191,7 +4191,7 @@
     "1539": {
       "name": "League & Championship Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-13T04:23:44.003",
+      "modifiedOn": "2026-10-20T19:34:00.857",
       "publishedOn": "2016-06-01",
       "products": []
     },
@@ -5093,7 +5093,7 @@
     "1780": {
       "name": "XY - Fates Collide",
       "abbreviation": "FCO",
-      "modifiedOn": "2026-07-16T17:21:01.123",
+      "modifiedOn": "2026-10-19T21:12:22.457",
       "publishedOn": "2016-05-02",
       "setCode": "xy10",
       "products": [
@@ -5250,14 +5250,6 @@
           "url": "https://www.tcgplayer.com/product/168114/pokemon-xy-fates-collide-xy-fates-collide-booster-pack"
         },
         {
-          "tcgplayerId": 276598,
-          "name": "Fates Collide Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2016-05-02",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276598_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276598/pokemon-xy-fates-collide-fates-collide-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 504697,
           "name": "XY - Fates Collide Sleeved Booster Pack [Mega Alakazam]",
           "kind": "booster",
@@ -5292,7 +5284,7 @@
         {
           "tcgplayerId": 656708,
           "name": "Fates Collide Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2016-05-02",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656708_200w.jpg",
           "url": "https://www.tcgplayer.com/product/656708/pokemon-xy-fates-collide-fates-collide-sleeved-booster-case"
@@ -5535,9 +5527,66 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-15T13:16:44.43",
+      "modifiedOn": "2026-10-20T19:38:04.913",
       "publishedOn": "2016-09-01",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 725080,
+          "name": "Emboar",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725080_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725080/pokemon-deck-exclusives-emboar"
+        },
+        {
+          "tcgplayerId": 725081,
+          "name": "Hop's Dubwool",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725081_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725081/pokemon-deck-exclusives-hops-dubwool"
+        },
+        {
+          "tcgplayerId": 725082,
+          "name": "Magearna",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725082_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725082/pokemon-deck-exclusives-magearna"
+        },
+        {
+          "tcgplayerId": 725083,
+          "name": "Samurott",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725083_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725083/pokemon-deck-exclusives-samurott"
+        },
+        {
+          "tcgplayerId": 725084,
+          "name": "Team Rocket's Wobbuffet",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725084_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725084/pokemon-deck-exclusives-team-rockets-wobbuffet"
+        },
+        {
+          "tcgplayerId": 725085,
+          "name": "Team Rocket's Zapdos",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725085_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725085/pokemon-deck-exclusives-team-rockets-zapdos"
+        },
+        {
+          "tcgplayerId": 725086,
+          "name": "Terrakion",
+          "kind": "other",
+          "releasedOn": "2016-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725086_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725086/pokemon-deck-exclusives-terrakion"
+        }
+      ]
     },
     "1842": {
       "name": "XY - Evolutions",
@@ -8178,7 +8227,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-19T14:47:47.903",
+      "modifiedOn": "2026-10-19T22:09:11.617",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -23873,7 +23922,7 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-10-14T21:40:45.783",
+      "modifiedOn": "2026-10-19T20:12:05.4",
       "publishedOn": "2026-11-06",
       "products": [
         {
@@ -23990,11 +24039,11 @@
         },
         {
           "tcgplayerId": 712108,
-          "name": "Delta Reign Single Pack Blister [Spitzee]",
+          "name": "Delta Reign Single Pack Blister [Spritzee]",
           "kind": "blister",
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712108_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/712108/pokemon-me06-delta-reign-delta-reign-single-pack-blister-spitzee"
+          "url": "https://www.tcgplayer.com/product/712108/pokemon-me06-delta-reign-delta-reign-single-pack-blister-spritzee"
         },
         {
           "tcgplayerId": 712109,

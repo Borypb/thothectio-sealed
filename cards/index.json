@@ -523,13 +523,13 @@
       "sets": [
         {
           "groupId": 24908,
-          "name": "Sleeve and Card Sets",
-          "code": "ESS",
+          "name": "Sleeve and Card Set Vol. 1",
+          "code": "ESS01",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-16T12:56:26.38",
+          "modifiedOn": "2026-10-20T16:39:34.647",
           "count": 10,
           "file": "cards/palworld/24908.json",
-          "version": "ffcab8691962"
+          "version": "bb4a02dbb90f"
         },
         {
           "groupId": 24842,
@@ -1607,10 +1607,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-19T18:38:42.377",
+          "modifiedOn": "2026-10-20T12:32:06.26",
           "count": 234,
           "file": "cards/riftbound/24819.json",
-          "version": "0f2e7c583ddf"
+          "version": "167183f56062"
         },
         {
           "groupId": 24861,
@@ -1687,7 +1687,7 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-12T12:41:25.713",
+          "modifiedOn": "2026-10-20T15:36:29.61",
           "count": 241,
           "file": "cards/riftbound/24528.json",
           "version": "f2bed2306f99"
@@ -1725,5 +1725,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-20"
+  "updatedAt": "2026-10-21"
 }

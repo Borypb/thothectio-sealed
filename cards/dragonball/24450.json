@@ -434,7 +434,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/662473_200w.jpg",
       "url": "https://www.tcgplayer.com/product/662473/dragon-ball-super-fusion-world-saiyans-pride-son-goku-fb08-007",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.31
+        }
+      ]
     },
     {
       "id": 662474,
@@ -477,7 +482,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.25
+          "usd": 7.38
         }
       ]
     },
@@ -507,7 +512,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7
+          "usd": 7.32
         }
       ]
     },
@@ -642,7 +647,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 26.45
+          "usd": 26.49
         }
       ]
     },
@@ -867,7 +872,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -972,7 +977,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.17
+          "usd": 0.18
         }
       ]
     },
@@ -1685,7 +1690,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.84
+          "usd": 6.72
         }
       ]
     },
@@ -1700,7 +1705,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.4
+          "usd": 3.24
         }
       ]
     },
@@ -1716,7 +1721,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 15.22
+          "usd": 15.03
         }
       ]
     },
@@ -1731,7 +1736,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.11
         }
       ]
     },
@@ -2070,7 +2075,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.58
+          "usd": 1.64
         }
       ]
     },
@@ -2101,7 +2106,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.66
+          "usd": 3.03
         }
       ]
     },
@@ -2256,7 +2261,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.92
+          "usd": 4.21
         }
       ]
     },
@@ -2318,7 +2323,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 42.77
+          "usd": 42.63
         }
       ]
     },
@@ -2369,5 +2374,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-20"
+  "pricesAt": "2026-10-21"
 }

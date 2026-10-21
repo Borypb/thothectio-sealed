@@ -148,7 +148,12 @@
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/655541_200w.jpg",
       "url": "https://www.tcgplayer.com/product/663217/dragon-ball-super-fusion-world-manga-booster-02-release-event-cards-hyperbolic-time-chamber",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 18.37
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/663217_200w.jpg"
     },
     {
@@ -610,7 +615,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.97
+          "usd": 7.22
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/663246_200w.jpg"
@@ -690,7 +695,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 14.99
+          "usd": 16.66
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/663251_200w.jpg"
@@ -989,7 +994,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 25.61
+          "usd": 35.42
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/663270_200w.jpg"
@@ -1091,5 +1096,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/663276_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-20"
+  "pricesAt": "2026-10-21"
 }

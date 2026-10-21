@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -253,7 +253,7 @@
     {
       "id": "pkm-en-tcp712108",
       "kind": "blister",
-      "name": "Delta Reign Single Pack Blister [Spitzee]",
+      "name": "Delta Reign Single Pack Blister [Spritzee]",
       "lang": "en",
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712108_200w.jpg",
@@ -21169,6 +21169,83 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/686507_200w.jpg",
       "source": {
         "tcgplayer": 686507
+      }
+    },
+    {
+      "id": "pkm-en-tcp725080",
+      "kind": "other",
+      "name": "Emboar",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725080_200w.jpg",
+      "source": {
+        "tcgplayer": 725080
+      }
+    },
+    {
+      "id": "pkm-en-tcp725081",
+      "kind": "other",
+      "name": "Hop's Dubwool",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725081_200w.jpg",
+      "source": {
+        "tcgplayer": 725081
+      }
+    },
+    {
+      "id": "pkm-en-tcp725082",
+      "kind": "other",
+      "name": "Magearna",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725082_200w.jpg",
+      "source": {
+        "tcgplayer": 725082
+      }
+    },
+    {
+      "id": "pkm-en-tcp725083",
+      "kind": "other",
+      "name": "Samurott",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725083_200w.jpg",
+      "source": {
+        "tcgplayer": 725083
+      }
+    },
+    {
+      "id": "pkm-en-tcp725084",
+      "kind": "other",
+      "name": "Team Rocket's Wobbuffet",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725084_200w.jpg",
+      "source": {
+        "tcgplayer": 725084
+      }
+    },
+    {
+      "id": "pkm-en-tcp725085",
+      "kind": "other",
+      "name": "Team Rocket's Zapdos",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725085_200w.jpg",
+      "source": {
+        "tcgplayer": 725085
+      }
+    },
+    {
+      "id": "pkm-en-tcp725086",
+      "kind": "other",
+      "name": "Terrakion",
+      "lang": "en",
+      "releasedAt": "2016-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725086_200w.jpg",
+      "source": {
+        "tcgplayer": 725086
       }
     },
     {

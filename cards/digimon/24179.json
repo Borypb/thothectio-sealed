@@ -222,7 +222,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.26
+          "usd": 0.25
         }
       ]
     },
@@ -444,7 +444,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/618968_200w.jpg",
       "url": "https://www.tcgplayer.com/product/618968/digimon-card-game-release-special-booster-25-celebration-event-cards-dracomon",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.05
+        }
+      ]
     },
     {
       "id": 618969,
@@ -578,7 +583,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.63
+          "usd": 5.75
         }
       ]
     },
@@ -609,7 +614,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.91
+          "usd": 0.94
         }
       ]
     },
@@ -639,7 +644,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.44
+          "usd": 0.46
         }
       ]
     },
@@ -669,7 +674,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.97
+          "usd": 6.15
         }
       ]
     },
@@ -699,7 +704,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.65
+          "usd": 1.67
         }
       ]
     },
@@ -850,7 +855,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.91
+          "usd": 5.52
         }
       ]
     },
@@ -1061,7 +1066,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.12
+          "usd": 2.7
         }
       ]
     },
@@ -1188,5 +1193,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-20"
+  "pricesAt": "2026-10-21"
 }

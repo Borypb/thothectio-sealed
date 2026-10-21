@@ -53,7 +53,30 @@ const POKEMON_LANGS = [
   ["ko", "ko"], ["zh", "zh-tw"], ["zh-cn", "zh-cn"], ["nl", "nl"], ["pl", "pl"], ["ru", "ru"], ["th", "th"], ["id", "id"]
 ];
 
-/** cartes Pokémon d'une langue ; le détail d'une extension n'est relu que si son nombre de cartes a changé */
+/** format de l'état d'une extension (v2 : cartes sans image gardées, pour leur donner une autre image) */
+const POKEMON_STATE = 2;
+/** éditions internationales : une carte porte le même identifiant TCGdex dans toutes ces langues */
+const SHARED = new Set(["en", "fr", "de", "es", "it", "pt", "nl", "pl", "ru"]);
+/** vieilles extensions et promos diverses souvent seulement en anglais chez TCGdex, mais vendues partout en anglais */
+const englishEverywhere = (id, s) => id === "miscp" || (s.date ?? "9999") < "2004";
+
+/** image TCGplayer d'une carte (impression anglaise), d'après cards/pokemon-tcgplayer.json (pokemon-variants.mjs) */
+async function tcgplayerImages() {
+  const sets = (await readJson("cards/pokemon-tcgplayer.json", { sets: {} })).sets ?? {};
+  return (key) => {
+    const i = key.lastIndexOf("-");
+    const num = key.slice(i + 1);
+    const pid = sets[key.slice(0, i)]?.[/^\d+$/.test(num) ? String(Number(num)) : num.toUpperCase()];
+    return pid ? `https://tcgplayer-cdn.tcgplayer.com/product/${pid}_200w.jpg` : undefined;
+  };
+}
+
+/**
+ * cartes Pokémon d'une langue ; le détail d'une extension n'est relu que si son nombre de cartes a changé.
+ * Une carte sans image dans cette langue prend celle de la carte anglaise (même identifiant), sinon l'image
+ * TCGplayer : elle reste reconnaissable à l'image (vieilles cartes françaises, promos…). Les vieilles extensions
+ * seulement anglaises chez TCGdex (Mew ancien…) sont ajoutées aux autres langues, avec leur fiche anglaise (« l »).
+ */
 async function pokemon(appLang, tcgLang) {
   const statePath = join(OUT, "state", `pokemon-${appLang}.sets.json`);
   const prev = await readJson(statePath, {});
@@ -61,18 +84,20 @@ async function pokemon(appLang, tcgLang) {
   const next = {};
   for (const s of sets) {
     const total = s.cardCount?.total ?? 0;
-    if (prev[s.id] && prev[s.id].total === total && prev[s.id].name) {
+    if (prev[s.id] && prev[s.id].total === total && prev[s.id].name && prev[s.id].v === POKEMON_STATE) {
       next[s.id] = prev[s.id];
       continue;
     }
     try {
       const full = await getJson(`${TCGDEX}/${tcgLang}/sets/${encodeURIComponent(s.id)}`, { delay: 100 });
       next[s.id] = {
+        v: POKEMON_STATE,
         total,
         name: full.name,
         official: full.cardCount?.official,
         date: full.releaseDate ?? "",
-        cards: (full.cards ?? []).filter((c) => c.image).map((c) => [c.id, `${c.image}/low.webp`])
+        cards: (full.cards ?? []).filter((c) => c.image).map((c) => [c.id, `${c.image}/low.webp`]),
+        missing: (full.cards ?? []).filter((c) => !c.image).map((c) => c.id)
       };
     } catch (e) {
       console.warn(`TCGdex ${tcgLang}/${s.id} : ${e.message}`);
@@ -80,23 +105,29 @@ async function pokemon(appLang, tcgLang) {
     }
   }
   await writeJsonCompact(statePath, next);
+  const shared = SHARED.has(appLang);
+  const enState = appLang === "en" ? next : shared ? await readJson(join(OUT, "state", "pokemon-en.sets.json"), {}) : {};
+  const enImg = new Map(Object.values(enState).flatMap((s) => s.cards ?? []));
+  const tcgImg = shared ? await tcgplayerImages() : () => undefined;
+  const otherImage = (key) => (appLang !== "en" ? enImg.get(key) : undefined) ?? tcgImg(key);
+  const detail = (key, lang, l) => async () => {
+    const d = await getJson(`${TCGDEX}/${lang}/cards/${encodeURIComponent(key)}`, { delay: 60, retries: 2 });
+    const vd = d.variants_detailed?.map(({ pricing, ...v }) => v);
+    return clean({ localId: d.localId, name: d.name, rarity: d.rarity, types: d.types, variants: d.variants, vd: vd?.length ? vd : undefined, l });
+  };
+  const listOf = (id, s, lang, l) => {
+    const set = { id, name: s.name, official: s.official, date: s.date || undefined };
+    const own = s.cards ?? [];
+    const borrowed = (s.missing ?? []).map((key) => [key, otherImage(key)]).filter(([, img]) => img);
+    // fiche : détail de la carte, sans les cotes (une requête par carte nouvelle)
+    return [...own, ...borrowed].map(([key, img]) => ({ key, img, set, detail: detail(key, lang, l) }));
+  };
+  // vieilles extensions anglaises absentes de cette langue
+  const englishOnly = appLang !== "en" && shared ? Object.entries(enState).filter(([id, s]) => !next[id] && englishEverywhere(id, s)) : [];
   // les extensions les plus récentes d'abord : ce sont celles qu'on scanne le plus
-  return Object.entries(next)
+  return [...Object.entries(next).map(([id, s]) => [id, s, tcgLang, undefined]), ...englishOnly.map(([id, s]) => [id, s, "en", "en"])]
     .sort(([, a], [, b]) => (b.date ?? "").localeCompare(a.date ?? ""))
-    .flatMap(([id, s]) => {
-      const set = { id, name: s.name, official: s.official, date: s.date || undefined };
-      return s.cards.map(([key, img]) => ({
-        key,
-        img,
-        set,
-        // fiche : détail de la carte, sans les cotes (une requête par carte nouvelle)
-        detail: async () => {
-          const d = await getJson(`${TCGDEX}/${tcgLang}/cards/${encodeURIComponent(key)}`, { delay: 60, retries: 2 });
-          const vd = d.variants_detailed?.map(({ pricing, ...v }) => v);
-          return clean({ localId: d.localId, name: d.name, rarity: d.rarity, types: d.types, variants: d.variants, vd: vd?.length ? vd : undefined });
-        }
-      }));
-    });
+    .flatMap(([id, s, lang, l]) => listOf(id, s, lang, l));
 }
 
 /**

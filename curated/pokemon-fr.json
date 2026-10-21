@@ -871,6 +871,30 @@
         "elite trainer box",
         "flammes fantasmagoriques"
       ]
+    },
+    {
+      "id": "pkm-fr-promo-film-je-te-choisis",
+      "kind": "booster",
+      "name": "Booster promo Pokémon, le film : Je te choisis !",
+      "lang": "fr",
+      "setIds": [
+        "pkm-smp"
+      ],
+      "contents": [
+        {
+          "type": "promo",
+          "name": "Pikachu de Sacha (promo SM)",
+          "qty": 1
+        }
+      ],
+      "aliases": [
+        "booster du film",
+        "booster promo",
+        "je te choisis",
+        "pikachu de sacha",
+        "film pokemon",
+        "promo cinema"
+      ]
     }
   ]
 }

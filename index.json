@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "updatedAt": "2026-10-21",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -111,6 +111,15 @@
           "count": 8
         }
       }
+    },
+    "cyberpunk": {
+      "files": {
+        "en": {
+          "file": "cyberpunk-en.json",
+          "version": 1,
+          "count": 10
+        }
+      }
     }
   },
   "prices": {
@@ -158,6 +167,11 @@
       "file": "prices-palworld.json",
       "date": "2026-10-21",
       "count": 14
+    },
+    "cyberpunk": {
+      "file": "prices-cyberpunk.json",
+      "date": "2026-10-21",
+      "count": 13
     }
   }
 }

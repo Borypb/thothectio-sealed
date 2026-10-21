@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "game": "cyberpunk",
+  "lang": "en",
+  "products": [
+    {
+      "id": "cyb-en-tcp714495",
+      "game": "cyberpunk",
+      "kind": "booster_box",
+      "name": "Welcome to Night City - Retail Booster Box",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24855"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714495_200w.jpg",
+      "source": {
+        "tcgplayer": 714495
+      }
+    },
+    {
+      "id": "cyb-en-tcp714496",
+      "game": "cyberpunk",
+      "kind": "booster",
+      "name": "Welcome to Night City - Retail Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24855"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714496_200w.jpg",
+      "source": {
+        "tcgplayer": 714496
+      }
+    },
+    {
+      "id": "cyb-en-tcp714498",
+      "game": "cyberpunk",
+      "kind": "deck",
+      "name": "Starter Deck: Embracing Power - Retail",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24858"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714498_200w.jpg",
+      "source": {
+        "tcgplayer": 714498
+      }
+    },
+    {
+      "id": "cyb-en-tcp714499",
+      "game": "cyberpunk",
+      "kind": "deck",
+      "name": "Starter Deck: The Heist - Retail",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24859"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714499_200w.jpg",
+      "source": {
+        "tcgplayer": 714499
+      }
+    },
+    {
+      "id": "cyb-en-tcp714344",
+      "game": "cyberpunk",
+      "kind": "deck",
+      "name": "Starter Deck: Embracing Power - Beta",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24846"
+      ],
+      "releasedAt": "2026-09-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714344_200w.jpg",
+      "source": {
+        "tcgplayer": 714344
+      }
+    },
+    {
+      "id": "cyb-en-tcp714345",
+      "game": "cyberpunk",
+      "kind": "deck",
+      "name": "Starter Deck: The Heist - Beta",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24847"
+      ],
+      "releasedAt": "2026-09-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714345_200w.jpg",
+      "source": {
+        "tcgplayer": 714345
+      }
+    },
+    {
+      "id": "cyb-en-tcp714346",
+      "game": "cyberpunk",
+      "kind": "booster_box",
+      "name": "Welcome to Night City - Beta Booster Box",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24845"
+      ],
+      "releasedAt": "2026-09-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714346_200w.jpg",
+      "source": {
+        "tcgplayer": 714346
+      }
+    },
+    {
+      "id": "cyb-en-tcp714347",
+      "game": "cyberpunk",
+      "kind": "booster",
+      "name": "Welcome to Night City - Beta Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24845"
+      ],
+      "releasedAt": "2026-09-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/714347_200w.jpg",
+      "source": {
+        "tcgplayer": 714347
+      }
+    },
+    {
+      "id": "cyb-en-tcp718647",
+      "game": "cyberpunk",
+      "kind": "build_battle",
+      "name": "Pre-Release Beta - Beta Event Kit",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24880"
+      ],
+      "releasedAt": "2026-09-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/718647_200w.jpg",
+      "source": {
+        "tcgplayer": 718647
+      }
+    },
+    {
+      "id": "cyb-en-tcp717414",
+      "game": "cyberpunk",
+      "kind": "collection",
+      "name": "Alpha Kit",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24881"
+      ],
+      "releasedAt": "2026-09-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/717414_200w.jpg",
+      "source": {
+        "tcgplayer": 717414
+      }
+    }
+  ]
+}

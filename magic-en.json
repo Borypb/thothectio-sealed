@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -882,7 +882,7 @@
       "setIds": [
         "mtg-fra"
       ],
-      "releasedAt": "2026-10-23",
+      "releasedAt": "2026-10-30",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/692991_200w.jpg",
       "source": {
         "tcgplayer": 692991

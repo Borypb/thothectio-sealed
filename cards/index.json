@@ -1723,6 +1723,123 @@
           "version": "6c79db1260ba"
         }
       ]
+    },
+    "cyberpunk": {
+      "categoryId": 92,
+      "category": "Cyberpunk TCG",
+      "sets": [
+        {
+          "groupId": 24857,
+          "name": "Box Toppers - Retail",
+          "releasedAt": "2026-11-06",
+          "modifiedOn": "2026-10-15T18:39:52.643",
+          "count": 6,
+          "file": "cards/cyberpunk/24857.json",
+          "version": "d8ed0930caa6"
+        },
+        {
+          "groupId": 24858,
+          "name": "Embracing Power - Retail Starter Deck",
+          "releasedAt": "2026-11-06",
+          "modifiedOn": "2026-10-15T18:50:02.783",
+          "count": 20,
+          "file": "cards/cyberpunk/24858.json",
+          "version": "920450d6edcf"
+        },
+        {
+          "groupId": 24860,
+          "name": "Set 1 Promos",
+          "releasedAt": "2026-11-06",
+          "modifiedOn": "2026-10-15T18:54:21.53",
+          "count": 4,
+          "file": "cards/cyberpunk/24860.json",
+          "version": "91e83fcf627a"
+        },
+        {
+          "groupId": 24859,
+          "name": "The Heist - Retail Starter Deck",
+          "releasedAt": "2026-11-06",
+          "modifiedOn": "2026-10-15T18:57:24.137",
+          "count": 20,
+          "file": "cards/cyberpunk/24859.json",
+          "version": "5601590283c0"
+        },
+        {
+          "groupId": 24855,
+          "name": "Welcome to Night City - Retail",
+          "releasedAt": "2026-11-06",
+          "modifiedOn": "2026-10-15T19:42:25.39",
+          "count": 141,
+          "file": "cards/cyberpunk/24855.json",
+          "version": "b4a5bc2bcd71"
+        },
+        {
+          "groupId": 24884,
+          "name": "Night City Brawl Season 1",
+          "code": "NCB01",
+          "releasedAt": "2026-09-11",
+          "modifiedOn": "2026-10-15T18:51:50.733",
+          "count": 18,
+          "file": "cards/cyberpunk/24884.json",
+          "version": "6c70efa498e9"
+        },
+        {
+          "groupId": 24848,
+          "name": "Box Toppers - Beta",
+          "releasedAt": "2026-09-10",
+          "modifiedOn": "2026-10-15T18:38:05.36",
+          "count": 6,
+          "file": "cards/cyberpunk/24848.json",
+          "version": "13b1686bb9a7"
+        },
+        {
+          "groupId": 24846,
+          "name": "Embracing Power - Beta Starter Deck",
+          "releasedAt": "2026-09-10",
+          "modifiedOn": "2026-10-15T18:48:52.687",
+          "count": 20,
+          "file": "cards/cyberpunk/24846.json",
+          "version": "0dc696395821"
+        },
+        {
+          "groupId": 24880,
+          "name": "Pre-Release Beta",
+          "code": "PRR",
+          "releasedAt": "2026-09-10",
+          "modifiedOn": "2026-10-16T19:12:55.367",
+          "count": 11,
+          "file": "cards/cyberpunk/24880.json",
+          "version": "de44751b0203"
+        },
+        {
+          "groupId": 24847,
+          "name": "The Heist - Beta Starter Deck",
+          "releasedAt": "2026-09-10",
+          "modifiedOn": "2026-10-15T18:56:14.833",
+          "count": 20,
+          "file": "cards/cyberpunk/24847.json",
+          "version": "d26c2d6465c6"
+        },
+        {
+          "groupId": 24845,
+          "name": "Welcome to Night City - Beta",
+          "releasedAt": "2026-09-10",
+          "modifiedOn": "2026-10-15T19:00:07.43",
+          "count": 172,
+          "file": "cards/cyberpunk/24845.json",
+          "version": "4c877b65ecf9"
+        },
+        {
+          "groupId": 24883,
+          "name": "Edgerunner Open Season 1",
+          "code": "EOR01",
+          "releasedAt": "2026-09-04",
+          "modifiedOn": "2026-10-15T18:46:00.06",
+          "count": 21,
+          "file": "cards/cyberpunk/24883.json",
+          "version": "b9fe0bace32a"
+        }
+      ]
     }
   },
   "updatedAt": "2026-10-21"

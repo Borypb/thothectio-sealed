@@ -23,7 +23,7 @@
 //   yugioh     identifiant YGOPRODeck ; fiche : carte avec ses extensions, l'illustration de l'entrée en tête
 //   lorcana    code d'extension ; fiche : carte Lorcast ; sets : { code, name, released_at }
 //   onepiece   produit punk-records ; fiche : carte punk-records ; sets : { id, name } (identifiants de l'app)
-//   riftbound, dragonball, palworld, digimon : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
+//   riftbound, dragonball, palworld, digimon, cyberpunk : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
 import { createHash } from "node:crypto";
 import { readFile, writeFile, mkdir, rm, readdir } from "node:fs/promises";
 import { createReadStream, createWriteStream } from "node:fs";
@@ -291,7 +291,7 @@ async function onepiece(lang) {
 }
 
 /** préfixe des identifiants d'extension dans l'app (src/catalog/sources/tcgcatalog.ts) */
-const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb" };
+const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb" };
 
 /** licences du catalogue TCGplayer publiées par ce dépôt (cards/) */
 async function tcgcatalog(game) {
@@ -333,6 +333,7 @@ const FILES = [
   { game: "dragonball", lang: "en", list: () => tcgcatalog("dragonball") },
   { game: "digimon", lang: "en", list: () => tcgcatalog("digimon") },
   { game: "palworld", lang: "en", list: () => tcgcatalog("palworld") },
+  { game: "cyberpunk", lang: "en", list: () => tcgcatalog("cyberpunk") },
   { game: "yugioh", lang: "en", list: yugioh },
   ...POKEMON_LANGS.slice(3).map(([l, t]) => ({ game: "pokemon", lang: l, list: () => pokemon(l, t) })),
   { game: "magic", lang: "en", list: magic }

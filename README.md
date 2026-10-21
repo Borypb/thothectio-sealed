@@ -53,7 +53,7 @@ lu en mémoire par l'app. Une seconde Action (`.github/workflows/scan-index.yml`
 et à la demande avec un choix de licences et un temps maximal) le construit avec `scripts/scan-index.mjs` :
 
 - pour chaque carte connue de sa source (TCGdex, Scryfall, YGOPRODeck, Lorcast, punk-records, Riftcodex, et `cards/` pour
-  Dragon Ball, Digimon, Palworld), l'image est téléchargée une fois et réduite à une **empreinte** de 512 bits
+  Dragon Ball, Digimon, Palworld, Cyberpunk), l'image est téléchargée une fois et réduite à une **empreinte** de 512 bits
   (`scripts/scan/fingerprint.mjs`, copie conforme du calcul de l'app, vérifiée au démarrage par `scripts/scan/vector.json`) ;
 - la **fiche** de la carte (champs bruts de la source : nom, numéro, rareté, variantes…, **sans les cotes**) est publiée avec :
   l'app l'affiche aussitôt, sans attendre la source, en la convertissant avec les mêmes fonctions que pour un pack
@@ -77,7 +77,7 @@ Un fichier contient au plus 20 000 cartes (limite de jsDelivr) et son nom change
 Le sens de `keys[i]`, `cards[i]` et `sets` selon la licence est décrit en tête de `scripts/scan-index.mjs`.
 
 Fichiers : Pokémon dans les 15 langues TCGdex (français, anglais et japonais d'abord), One Piece (anglais, japonais,
-français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld (anglais).
+français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld, Cyberpunk (anglais).
 
 Essai local, sans réseau : `SCAN_LIST_FILE=liste.json SCAN_OUT=/tmp/scan node scripts/scan-index.mjs`
 (après `npm i --no-save sharp`), avec une liste `[{ "game", "lang", "entries": [{ "key", "img", "set"?, "rec"? }] }]`.
@@ -149,6 +149,6 @@ Les versions sont gérées par `build.mjs` : pour corriger un produit, modifie `
 
 Non affilié à Nintendo, The Pokémon Company, Bandai, Wizards of the Coast, Konami, Ravensburger, Riot Games, Pocketpair.
 
-5. **Cartes** (`cards.mjs`) : cartes des licences sans API publique — Dragon Ball Super Fusion World, Palworld, Digimon —
+5. **Cartes** (`cards.mjs`) : cartes des licences sans API publique — Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk —
    depuis le catalogue TCGplayer (TCGCSV), avec images du CDN TCGplayer et cote du jour en $.
    `cards/index.json` liste les extensions ; une extension = un fichier `cards/<licence>/<groupId>.json`.

@@ -1,6 +1,6 @@
 name: Coffrets des autres licences
 
-# Produits scellés One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball, Riftbound, Palworld
+# Produits scellés One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball, Riftbound, Palworld, Cyberpunk
 # (catalogue TCGplayer via TCGCSV, en anglais) et leurs cotes TCGplayer du jour.
 on:
   schedule:

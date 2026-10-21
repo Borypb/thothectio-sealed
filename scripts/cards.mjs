@@ -1,4 +1,4 @@
-// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound),
+// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk),
 // depuis le catalogue TCGplayer (TCGCSV). Images du CDN TCGplayer, cote du marché américain en $.
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
 // Sortie : cards/index.json + cards/<licence>/<groupId>.json
@@ -12,7 +12,8 @@ export const CARD_GAMES = {
   dragonball: [/^dragon ball super fusion world$/i, /fusion world/i],
   palworld: [/^palworld/i],
   digimon: [/^digimon card game$/i, /^digimon/i],
-  riftbound: [/^riftbound/i, /riftbound/i]
+  riftbound: [/^riftbound/i, /riftbound/i],
+  cyberpunk: [/^cyberpunk tcg$/i, /cyberpunk/i]
 };
 
 /**

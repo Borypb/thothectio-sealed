@@ -30,10 +30,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 340
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
       - name: Index précédent (branche scan)
         run: git clone --depth 1 --branch scan "https://github.com/${{ github.repository }}.git" scan-out || mkdir -p scan-out
       - name: Décodeur d'images

@@ -46,6 +46,11 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
 
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
+**Relance après échec** (`.github/workflows/relance.yml`) : quand une tâche du robot échoue (site source
+injoignable, panne passagère), ses étapes en échec sont relancées 15 min plus tard, puis 1 h après le premier
+échec si besoin. Deux essais au plus, jamais de relance d'une relance : pas de boucle. Tout se passe sur GitHub,
+gratuitement (dépôt public). Les tâches tournent sous Node 24.
+
 ## Index du scan à l'image (branche `scan`)
 
 Thothectio reconnaît une carte à l'image **sans rien télécharger d'avance ni rien enregistrer** grâce à cet index,

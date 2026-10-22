@@ -192,6 +192,7 @@
       "name": "Nosferamon // Rampage Bullet",
       "number": "BT27-082 SR",
       "rarity": "Super Rare",
+      "type": "Digimon/Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724639_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724639/digimon-card-game-ignition-of-x-nosferamon-rampage-bullet",
       "prices": []
@@ -202,6 +203,7 @@
       "label": "Alternate Art",
       "number": "BT27-082 SR",
       "rarity": "Super Rare",
+      "type": "Digimon/Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724640_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724640/digimon-card-game-ignition-of-x-nosferamon-rampage-bullet-alternate-art",
       "prices": []
@@ -211,6 +213,7 @@
       "name": "Frimon",
       "number": "BT27-003 C",
       "rarity": "Common",
+      "type": "Digi-Egg",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724668_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724668/digimon-card-game-ignition-of-x-frimon",
       "prices": []
@@ -220,6 +223,7 @@
       "name": "Liollmon",
       "number": "BT27-045 U",
       "rarity": "Uncommon",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724669_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724669/digimon-card-game-ignition-of-x-liollmon",
       "prices": []
@@ -229,10 +233,101 @@
       "name": "Liamon",
       "number": "BT27-049 C",
       "rarity": "Common",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724670_200w.jpg",
       "url": "https://www.tcgplayer.com/product/724670/digimon-card-game-ignition-of-x-liamon",
       "prices": []
+    },
+    {
+      "id": 724671,
+      "name": "LoaderLeomon",
+      "number": "BT27-051 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724671/digimon-card-game-ignition-of-x-loaderleomon",
+      "prices": []
+    },
+    {
+      "id": 724672,
+      "name": "ProtoGizmon",
+      "number": "BT27-079 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724672/digimon-card-game-ignition-of-x-protogizmon",
+      "prices": []
+    },
+    {
+      "id": 724673,
+      "name": "Gizmon: AT",
+      "number": "BT27-076 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724673/digimon-card-game-ignition-of-x-gizmon-at",
+      "prices": []
+    },
+    {
+      "id": 724674,
+      "name": "Gizmon: XT",
+      "number": "BT27-079 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724674/digimon-card-game-ignition-of-x-gizmon-xt",
+      "prices": []
+    },
+    {
+      "id": 725243,
+      "name": "Akihiro Kurata",
+      "number": "BT27-098 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725243/digimon-card-game-ignition-of-x-akihiro-kurata",
+      "prices": []
+    },
+    {
+      "id": 725246,
+      "name": "Kentaurosmon // Ultimate Crossbow Einherjar",
+      "label": "X Antibody",
+      "number": "BT27-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725246/digimon-card-game-ignition-of-x-kentaurosmon-x-antibody-ultimate-crossbow-einherjar",
+      "prices": []
+    },
+    {
+      "id": 725251,
+      "name": "Kentaurosmon // Ultimate Crossbow Einherjar",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT27-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725251/digimon-card-game-ignition-of-x-kentaurosmon-x-antibody-ultimate-crossbow-einherjar-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 725252,
+      "name": "Surtr Brander",
+      "number": "BT27-099 C",
+      "rarity": "Common",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725252/digimon-card-game-ignition-of-x-surtr-brander",
+      "prices": []
+    },
+    {
+      "id": 725253,
+      "name": "Etemon",
+      "number": "BT27-040 U",
+      "rarity": "Uncommon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725253/digimon-card-game-ignition-of-x-etemon",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-21"
+  "pricesAt": "2026-10-22"
 }

@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-21T15:09:59.358Z",
+  "harvestedAt": "2026-10-22T08:56:43.683Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -2388,7 +2388,7 @@
     "1417": {
       "name": "Legends Awakened",
       "abbreviation": "LA",
-      "modifiedOn": "2026-10-13T02:57:12.077",
+      "modifiedOn": "2026-10-21T15:53:28.097",
       "publishedOn": "2008-08-20",
       "setCode": "dp6",
       "products": [
@@ -3715,7 +3715,7 @@
     "1509": {
       "name": "XY - Primal Clash",
       "abbreviation": "PRC",
-      "modifiedOn": "2026-08-12T19:25:55.18",
+      "modifiedOn": "2026-10-21T04:44:47.057",
       "publishedOn": "2015-02-04",
       "setCode": "xy5",
       "products": [
@@ -3840,14 +3840,6 @@
           "url": "https://www.tcgplayer.com/product/97820/pokemon-xy-primal-clash-flygon-ex-box"
         },
         {
-          "tcgplayerId": 276593,
-          "name": "Primal Clash Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2015-02-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276593_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276593/pokemon-xy-primal-clash-primal-clash-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 546608,
           "name": "XY - Primal Clash Sleeved Booster Pack",
           "kind": "booster",
@@ -3858,7 +3850,7 @@
         {
           "tcgplayerId": 656978,
           "name": "Primal Clash Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2015-02-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656978_200w.jpg",
           "url": "https://www.tcgplayer.com/product/656978/pokemon-xy-primal-clash-primal-clash-sleeved-booster-case"
@@ -5527,64 +5519,16 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-20T19:38:04.913",
+      "modifiedOn": "2026-10-21T19:24:49.387",
       "publishedOn": "2016-09-01",
       "products": [
         {
-          "tcgplayerId": 725080,
-          "name": "Emboar",
+          "tcgplayerId": 725355,
+          "name": "Water Energy (Unnumbered) (No E Reader)",
           "kind": "other",
           "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725080_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725080/pokemon-deck-exclusives-emboar"
-        },
-        {
-          "tcgplayerId": 725081,
-          "name": "Hop's Dubwool",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725081_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725081/pokemon-deck-exclusives-hops-dubwool"
-        },
-        {
-          "tcgplayerId": 725082,
-          "name": "Magearna",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725082_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725082/pokemon-deck-exclusives-magearna"
-        },
-        {
-          "tcgplayerId": 725083,
-          "name": "Samurott",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725083_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725083/pokemon-deck-exclusives-samurott"
-        },
-        {
-          "tcgplayerId": 725084,
-          "name": "Team Rocket's Wobbuffet",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725084_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725084/pokemon-deck-exclusives-team-rockets-wobbuffet"
-        },
-        {
-          "tcgplayerId": 725085,
-          "name": "Team Rocket's Zapdos",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725085_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725085/pokemon-deck-exclusives-team-rockets-zapdos"
-        },
-        {
-          "tcgplayerId": 725086,
-          "name": "Terrakion",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725086_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725086/pokemon-deck-exclusives-terrakion"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725355_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725355/pokemon-deck-exclusives-water-energy-unnumbered-no-e-reader"
         }
       ]
     },
@@ -5872,7 +5816,7 @@
     "1853": {
       "name": "EX Battle Stadium",
       "abbreviation": "BST",
-      "modifiedOn": "2026-09-10T14:33:53.347",
+      "modifiedOn": "2026-10-21T18:48:16.48",
       "publishedOn": "2004-10-18",
       "products": [
         {
@@ -6161,7 +6105,7 @@
     "1919": {
       "name": "SM - Guardians Rising",
       "abbreviation": "SM02",
-      "modifiedOn": "2026-09-10T18:03:52.54",
+      "modifiedOn": "2026-10-21T15:37:23.713",
       "publishedOn": "2017-05-05",
       "setCode": "sm2",
       "products": [
@@ -6374,14 +6318,6 @@
           "url": "https://www.tcgplayer.com/product/177870/pokemon-sm-guardians-rising-triple-effect-tin-vaporeon"
         },
         {
-          "tcgplayerId": 177871,
-          "name": "Triple Effect Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2017-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/177871_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/177871/pokemon-sm-guardians-rising-triple-effect-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 184339,
           "name": "Guardians Rising 3 Pack Blister [Vikavolt]",
           "kind": "blister",
@@ -6444,30 +6380,6 @@
           "releasedOn": "2017-05-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/242964_200w.jpg",
           "url": "https://www.tcgplayer.com/product/242964/pokemon-sm-guardians-rising-guardians-rising-single-pack-blister-alolan-persian"
-        },
-        {
-          "tcgplayerId": 267037,
-          "name": "Guardians Rising Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2017-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267037_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267037/pokemon-sm-guardians-rising-guardians-rising-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 276577,
-          "name": "Guardians Rising Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2017-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276577_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276577/pokemon-sm-guardians-rising-guardians-rising-booster-pack-art-bundle-set-of-5"
-        },
-        {
-          "tcgplayerId": 276578,
-          "name": "Guardians Rising Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2017-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276578_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276578/pokemon-sm-guardians-rising-guardians-rising-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 616825,
@@ -7477,7 +7389,7 @@
     "2278": {
       "name": "SM - Celestial Storm",
       "abbreviation": "CES",
-      "modifiedOn": "2026-08-11T04:57:39.987",
+      "modifiedOn": "2026-10-21T15:35:20.64",
       "publishedOn": "2018-08-03",
       "setCode": "sm7",
       "products": [
@@ -7618,14 +7530,6 @@
           "url": "https://www.tcgplayer.com/product/175561/pokemon-sm-celestial-storm-solgaleo-gx-box-and-lunala-gx-box"
         },
         {
-          "tcgplayerId": 175562,
-          "name": "Evolution Celebration Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2018-08-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/175562_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/175562/pokemon-sm-celestial-storm-evolution-celebration-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 177898,
           "name": "Celestial Storm Single Pack Blister [Tapu Bulu]",
           "kind": "blister",
@@ -7642,25 +7546,9 @@
           "url": "https://www.tcgplayer.com/product/177899/pokemon-sm-celestial-storm-celestial-storm-single-pack-blister-tapu-fini"
         },
         {
-          "tcgplayerId": 267042,
-          "name": "Celestial Storm Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2018-08-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267042_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267042/pokemon-sm-celestial-storm-celestial-storm-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 276582,
-          "name": "Celestial Storm Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2018-08-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276582_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276582/pokemon-sm-celestial-storm-celestial-storm-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 451149,
           "name": "Celestial Storm Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2018-08-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/451149_200w.jpg",
           "url": "https://www.tcgplayer.com/product/451149/pokemon-sm-celestial-storm-celestial-storm-build-and-battle-box-display"
@@ -8227,7 +8115,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-19T22:09:11.617",
+      "modifiedOn": "2026-10-21T18:22:29.49",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13645,7 +13533,7 @@
     "2585": {
       "name": "SWSH01: Sword & Shield Base Set",
       "abbreviation": "SWSH01",
-      "modifiedOn": "2026-09-23T00:56:45.547",
+      "modifiedOn": "2026-10-21T15:33:19.85",
       "publishedOn": "2020-02-07",
       "setCode": "swsh1",
       "products": [
@@ -13700,7 +13588,7 @@
         {
           "tcgplayerId": 206033,
           "name": "Sword & Shield Build & Battle Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2020-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/206033_200w.jpg",
           "url": "https://www.tcgplayer.com/product/206033/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-build-and-battle-display"
@@ -13708,7 +13596,7 @@
         {
           "tcgplayerId": 206034,
           "name": "Sword & Shield Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2020-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/206034_200w.jpg",
           "url": "https://www.tcgplayer.com/product/206034/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-theme-deck-display"
@@ -13762,14 +13650,6 @@
           "url": "https://www.tcgplayer.com/product/206040/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-build-and-battle-box"
         },
         {
-          "tcgplayerId": 206044,
-          "name": "Sword & Shield Trial Deck [Set of 3]",
-          "kind": "other",
-          "releasedOn": "2020-02-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/206044_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/206044/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-trial-deck-set-of-3"
-        },
-        {
           "tcgplayerId": 206417,
           "name": "Galar Partners Tin [Inteleon V]",
           "kind": "tin",
@@ -13792,14 +13672,6 @@
           "releasedOn": "2020-02-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/206422_200w.jpg",
           "url": "https://www.tcgplayer.com/product/206422/pokemon-swsh01-sword-and-shield-base-set-galar-partners-tin-rillaboom-v"
-        },
-        {
-          "tcgplayerId": 206423,
-          "name": "Galar Partners Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2020-02-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/206423_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/206423/pokemon-swsh01-sword-and-shield-base-set-galar-partners-tin-set-of-3"
         },
         {
           "tcgplayerId": 206424,
@@ -13858,28 +13730,12 @@
           "url": "https://www.tcgplayer.com/product/220752/pokemon-swsh01-sword-and-shield-base-set-galar-partners-box-inteleon-v"
         },
         {
-          "tcgplayerId": 244411,
-          "name": "Sword & Shield Elite Trainer Box [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2020-02-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244411_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/244411/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-elite-trainer-box-set-of-2"
-        },
-        {
           "tcgplayerId": 263544,
           "name": "Sword and Shield Base Set Sleeved Booster Pack",
           "kind": "booster",
           "releasedOn": "2020-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/263544_200w.jpg",
           "url": "https://www.tcgplayer.com/product/263544/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-base-set-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 265314,
-          "name": "Sword and Shield Base Set Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-02-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265314_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265314/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-base-set-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 282885,
@@ -13904,14 +13760,6 @@
           "releasedOn": "2020-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/282887_200w.jpg",
           "url": "https://www.tcgplayer.com/product/282887/pokemon-swsh01-sword-and-shield-base-set-galar-partners-international-tin-rillaboom-v"
-        },
-        {
-          "tcgplayerId": 283071,
-          "name": "Galar Partners International Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2020-02-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/283071_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/283071/pokemon-swsh01-sword-and-shield-base-set-galar-partners-international-tin-set-of-3"
         },
         {
           "tcgplayerId": 287500,
@@ -13960,14 +13808,6 @@
           "releasedOn": "2020-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/287507_200w.jpg",
           "url": "https://www.tcgplayer.com/product/287507/pokemon-swsh01-sword-and-shield-base-set-legends-of-galar-tin-plus-galar-partners-tin-2-pack-zamazenta-v-rillaboom-v-retail-exclusive"
-        },
-        {
-          "tcgplayerId": 487795,
-          "name": "Sword And Shield Base Set Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-02-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487795_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/487795/pokemon-swsh01-sword-and-shield-base-set-sword-and-shield-base-set-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 530142,
@@ -16229,7 +16069,7 @@
     "2906": {
       "name": "SWSH08: Fusion Strike",
       "abbreviation": "SWSH08",
-      "modifiedOn": "2026-10-15T20:33:43.653",
+      "modifiedOn": "2026-10-21T15:32:01.723",
       "publishedOn": "2021-11-12",
       "setCode": "swsh8",
       "products": [
@@ -16478,7 +16318,7 @@
     "2948": {
       "name": "SWSH09: Brilliant Stars",
       "abbreviation": "SWSH09",
-      "modifiedOn": "2026-10-02T16:14:48.877",
+      "modifiedOn": "2026-10-21T15:45:00.6",
       "publishedOn": "2022-02-25",
       "setCode": "swsh9",
       "products": [
@@ -16529,30 +16369,6 @@
           "releasedOn": "2022-02-25",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/256132_200w.jpg",
           "url": "https://www.tcgplayer.com/product/256132/pokemon-swsh09-brilliant-stars-brilliant-stars-3-pack-blister-glaceon"
-        },
-        {
-          "tcgplayerId": 256134,
-          "name": "Brilliant Stars Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-02-25",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256134_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256134/pokemon-swsh09-brilliant-stars-brilliant-stars-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 256135,
-          "name": "Brilliant Stars Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-02-25",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256135_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256135/pokemon-swsh09-brilliant-stars-brilliant-stars-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 256136,
-          "name": "Brilliant Stars Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2022-02-25",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256136_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256136/pokemon-swsh09-brilliant-stars-brilliant-stars-sleeved-booster-pack-bundle-set-of-8"
         },
         {
           "tcgplayerId": 256137,
@@ -16613,7 +16429,7 @@
         {
           "tcgplayerId": 256144,
           "name": "Brilliant Stars Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-02-25",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/256144_200w.jpg",
           "url": "https://www.tcgplayer.com/product/256144/pokemon-swsh09-brilliant-stars-brilliant-stars-build-and-battle-box-display"
@@ -16677,7 +16493,7 @@
         {
           "tcgplayerId": 599964,
           "name": "Brilliant Stars Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2022-02-25",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/599964_200w.jpg",
           "url": "https://www.tcgplayer.com/product/599964/pokemon-swsh09-brilliant-stars-brilliant-stars-sleeved-booster-pack-case"
@@ -16693,7 +16509,7 @@
         {
           "tcgplayerId": 651285,
           "name": "Arceus V Figure Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2022-02-25",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/651285_200w.jpg",
           "url": "https://www.tcgplayer.com/product/651285/pokemon-swsh09-brilliant-stars-arceus-v-figure-collection-case"
@@ -17890,7 +17706,7 @@
     "17688": {
       "name": "SWSH: Crown Zenith",
       "abbreviation": "CRZ",
-      "modifiedOn": "2026-09-25T14:32:56.02",
+      "modifiedOn": "2026-10-21T04:45:42.56",
       "publishedOn": "2023-01-20",
       "setCode": "swsh12.5",
       "products": [
@@ -17985,18 +17801,10 @@
         {
           "tcgplayerId": 453493,
           "name": "Crown Zenith Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/453493_200w.jpg",
           "url": "https://www.tcgplayer.com/product/453493/pokemon-swsh-crown-zenith-crown-zenith-mini-tin-display"
-        },
-        {
-          "tcgplayerId": 453494,
-          "name": "Crown Zenith Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2023-02-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/453494_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/453494/pokemon-swsh-crown-zenith-crown-zenith-mini-tin-set-of-5"
         },
         {
           "tcgplayerId": 454246,
@@ -18103,22 +17911,6 @@
           "url": "https://www.tcgplayer.com/product/475633/pokemon-swsh-crown-zenith-crown-zenith-tin-galarian-zapdos-international-version"
         },
         {
-          "tcgplayerId": 475634,
-          "name": "Crown Zenith Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2023-03-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/475634_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/475634/pokemon-swsh-crown-zenith-crown-zenith-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 475635,
-          "name": "Crown Zenith Tin [Set of 3] (International Version)",
-          "kind": "tin",
-          "releasedOn": "2023-01-20",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/475635_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/475635/pokemon-swsh-crown-zenith-crown-zenith-tin-set-of-3-international-version"
-        },
-        {
           "tcgplayerId": 475644,
           "name": "Morpeko V-UNION Playmat Premium Collection",
           "kind": "collection",
@@ -18153,7 +17945,7 @@
         {
           "tcgplayerId": 485423,
           "name": "Pikachu VMAX Special Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/485423_200w.jpg",
           "url": "https://www.tcgplayer.com/product/485423/pokemon-swsh-crown-zenith-pikachu-vmax-special-collection-case"
@@ -18161,7 +17953,7 @@
         {
           "tcgplayerId": 490542,
           "name": "Crown Zenith Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/490542_200w.jpg",
           "url": "https://www.tcgplayer.com/product/490542/pokemon-swsh-crown-zenith-crown-zenith-collection-case"
@@ -18233,7 +18025,7 @@
         {
           "tcgplayerId": 664978,
           "name": "Crown Zenith Premium Figure Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/664978_200w.jpg",
           "url": "https://www.tcgplayer.com/product/664978/pokemon-swsh-crown-zenith-crown-zenith-premium-figure-collection-case"
@@ -18241,7 +18033,7 @@
         {
           "tcgplayerId": 693210,
           "name": "Morpeko V-UNION Premium Treasures Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693210_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693210/pokemon-swsh-crown-zenith-morpeko-v-union-premium-treasures-collection-case"
@@ -18249,7 +18041,7 @@
         {
           "tcgplayerId": 711447,
           "name": "Crown Zenith Pin Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/711447_200w.jpg",
           "url": "https://www.tcgplayer.com/product/711447/pokemon-swsh-crown-zenith-crown-zenith-pin-collection-case"
@@ -18763,7 +18555,7 @@
     "23228": {
       "name": "SV03: Obsidian Flames",
       "abbreviation": "OBF",
-      "modifiedOn": "2026-10-07T19:50:32.247",
+      "modifiedOn": "2026-10-21T15:44:09.54",
       "publishedOn": "2023-08-11",
       "setCode": "sv03",
       "products": [
@@ -18806,14 +18598,6 @@
           "releasedOn": "2023-08-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/501260_200w.jpg",
           "url": "https://www.tcgplayer.com/product/501260/pokemon-sv03-obsidian-flames-obsidian-flames-3-pack-blister-houndstone"
-        },
-        {
-          "tcgplayerId": 501261,
-          "name": "Obsidian Flames 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-08-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/501261_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/501261/pokemon-sv03-obsidian-flames-obsidian-flames-3-pack-blister-set-of-2"
         },
         {
           "tcgplayerId": 501262,
@@ -18880,28 +18664,12 @@
           "url": "https://www.tcgplayer.com/product/512047/pokemon-sv03-obsidian-flames-obsidian-flames-single-pack-blister-paldean-wooper"
         },
         {
-          "tcgplayerId": 513422,
-          "name": "Obsidian Flames Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-08-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/513422_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/513422/pokemon-sv03-obsidian-flames-obsidian-flames-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 514193,
           "name": "Obsidian Flames Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2023-08-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/514193_200w.jpg",
           "url": "https://www.tcgplayer.com/product/514193/pokemon-sv03-obsidian-flames-obsidian-flames-build-and-battle-box-display"
-        },
-        {
-          "tcgplayerId": 515079,
-          "name": "Obsidian Flames Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-08-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515079_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/515079/pokemon-sv03-obsidian-flames-obsidian-flames-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 534087,
@@ -18946,7 +18714,7 @@
         {
           "tcgplayerId": 606743,
           "name": "Obsidian Flames Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2023-08-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/606743_200w.jpg",
           "url": "https://www.tcgplayer.com/product/606743/pokemon-sv03-obsidian-flames-obsidian-flames-sleeved-booster-pack-case"
@@ -18964,7 +18732,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-10-16T20:12:52.58",
+      "modifiedOn": "2026-10-21T15:30:45.03",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -19558,7 +19326,7 @@
     "23353": {
       "name": "SV: Paldean Fates",
       "abbreviation": "PAF",
-      "modifiedOn": "2026-10-12T18:37:58.667",
+      "modifiedOn": "2026-10-21T15:43:04.217",
       "publishedOn": "2024-01-26",
       "setCode": "sv04.5",
       "products": [
@@ -20683,7 +20451,7 @@
     "23561": {
       "name": "Trick or Trade BOOster Bundle 2024",
       "abbreviation": "TTBB24",
-      "modifiedOn": "2026-07-18T02:24:43.193",
+      "modifiedOn": "2026-10-21T00:37:50.9",
       "publishedOn": "2024-08-30",
       "products": [
         {
@@ -21518,7 +21286,7 @@
     "24269": {
       "name": "SV10: Destined Rivals",
       "abbreviation": "DRI",
-      "modifiedOn": "2026-10-15T20:13:36.807",
+      "modifiedOn": "2026-10-21T04:47:15.563",
       "publishedOn": "2025-05-30",
       "setCode": "sv10",
       "products": [
@@ -22542,7 +22310,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-10-15T20:19:35.027",
+      "modifiedOn": "2026-10-21T15:41:05.407",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22942,7 +22710,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-10-01T19:23:33.15",
+      "modifiedOn": "2026-10-21T02:32:48.213",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [
@@ -22993,14 +22761,6 @@
           "releasedOn": "2026-03-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/672398_200w.jpg",
           "url": "https://www.tcgplayer.com/product/672398/pokemon-me03-perfect-order-perfect-order-booster-pack"
-        },
-        {
-          "tcgplayerId": 672399,
-          "name": "Perfect Order Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-03-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672399_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/672399/pokemon-me03-perfect-order-perfect-order-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 672400,
@@ -23093,7 +22853,7 @@
         {
           "tcgplayerId": 672411,
           "name": "Perfect Order Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2026-03-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/672411_200w.jpg",
           "url": "https://www.tcgplayer.com/product/672411/pokemon-me03-perfect-order-perfect-order-sleeved-booster-case"
@@ -23107,17 +22867,9 @@
           "url": "https://www.tcgplayer.com/product/672412/pokemon-me03-perfect-order-perfect-order-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 672413,
-          "name": "Perfect Order Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-03-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/672413_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/672413/pokemon-me03-perfect-order-perfect-order-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 690172,
           "name": "Perfect Order Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2026-03-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/690172_200w.jpg",
           "url": "https://www.tcgplayer.com/product/690172/pokemon-me03-perfect-order-perfect-order-build-and-battle-box-display"
@@ -23125,7 +22877,7 @@
         {
           "tcgplayerId": 706309,
           "name": "Perfect Order 3 Pack Blister Case [Chikorita]",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2026-03-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/706309_200w.jpg",
           "url": "https://www.tcgplayer.com/product/706309/pokemon-me03-perfect-order-perfect-order-3-pack-blister-case-chikorita"
@@ -23143,7 +22895,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-10-15T20:25:48.65",
+      "modifiedOn": "2026-10-21T02:32:06.3",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [
@@ -23320,7 +23072,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-10-16T04:31:35.74",
+      "modifiedOn": "2026-10-21T02:30:27.933",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [
@@ -23497,7 +23249,7 @@
     "24722": {
       "name": "ME: 30th Celebration",
       "abbreviation": "30C",
-      "modifiedOn": "2026-10-07T19:41:44.523",
+      "modifiedOn": "2026-10-21T17:23:42.083",
       "publishedOn": "2026-09-16",
       "setCode": "30th",
       "products": [
@@ -23572,14 +23324,6 @@
           "releasedOn": "2026-12-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/704150_200w.jpg",
           "url": "https://www.tcgplayer.com/product/704150/pokemon-me-30th-celebration-30th-celebration-ex-tin-greninja-ex-international-version"
-        },
-        {
-          "tcgplayerId": 704151,
-          "name": "30th Celebration ex Tin [Set of 2] (International Version)",
-          "kind": "tin",
-          "releasedOn": "2026-12-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/704151_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/704151/pokemon-me-30th-celebration-30th-celebration-ex-tin-set-of-2-international-version"
         },
         {
           "tcgplayerId": 704152,
@@ -23712,7 +23456,7 @@
         {
           "tcgplayerId": 704186,
           "name": "30th Celebration Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2026-10-02",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/704186_200w.jpg",
           "url": "https://www.tcgplayer.com/product/704186/pokemon-me-30th-celebration-30th-celebration-mini-tin-display"
@@ -23784,7 +23528,7 @@
         {
           "tcgplayerId": 709016,
           "name": "30th Celebration Battle Deck Case",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2026-10-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709016_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709016/pokemon-me-30th-celebration-30th-celebration-battle-deck-case"
@@ -23800,7 +23544,7 @@
         {
           "tcgplayerId": 709018,
           "name": "30th Celebration Ditto Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709018_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709018/pokemon-me-30th-celebration-30th-celebration-ditto-premium-collection-case"
@@ -23808,7 +23552,7 @@
         {
           "tcgplayerId": 709019,
           "name": "30th Celebration Figure Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709019_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709019/pokemon-me-30th-celebration-30th-celebration-figure-collection-case"
@@ -23816,7 +23560,7 @@
         {
           "tcgplayerId": 709029,
           "name": "30th Celebration Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709029_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709029/pokemon-me-30th-celebration-30th-celebration-ultra-premium-collection-case"
@@ -23840,7 +23584,7 @@
         {
           "tcgplayerId": 709032,
           "name": "30th Celebration Binder Collection Case",
-          "kind": "binder",
+          "kind": "case",
           "releasedOn": "2026-12-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709032_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709032/pokemon-me-30th-celebration-30th-celebration-binder-collection-case"
@@ -23848,7 +23592,7 @@
         {
           "tcgplayerId": 709033,
           "name": "30th Celebration Poster Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709033_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709033/pokemon-me-30th-celebration-30th-celebration-poster-collection-case"
@@ -23856,7 +23600,7 @@
         {
           "tcgplayerId": 709034,
           "name": "30th Celebration Tech Sticker Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709034_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709034/pokemon-me-30th-celebration-30th-celebration-tech-sticker-collection-case"
@@ -23864,7 +23608,7 @@
         {
           "tcgplayerId": 709035,
           "name": "30th Celebration Knock Out Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709035_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709035/pokemon-me-30th-celebration-30th-celebration-knock-out-collection-case"
@@ -23880,7 +23624,7 @@
         {
           "tcgplayerId": 709037,
           "name": "30th Celebration ex Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709037_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709037/pokemon-me-30th-celebration-30th-celebration-ex-box-case"
@@ -23900,22 +23644,6 @@
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/718674_200w.jpg",
           "url": "https://www.tcgplayer.com/product/718674/pokemon-me-30th-celebration-30th-celebration-ex-tin-sylveon-ex-retail-version"
-        },
-        {
-          "tcgplayerId": 718675,
-          "name": "30th Celebration ex Tin [Set of 2] (Retail Version)",
-          "kind": "tin",
-          "releasedOn": "2026-09-16",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/718675_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/718675/pokemon-me-30th-celebration-30th-celebration-ex-tin-set-of-2-retail-version"
-        },
-        {
-          "tcgplayerId": 722832,
-          "name": "30th Celebration ex Box [Set of 2]",
-          "kind": "collection",
-          "releasedOn": "2026-09-16",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722832_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/722832/pokemon-me-30th-celebration-30th-celebration-ex-box-set-of-2"
         }
       ]
     },

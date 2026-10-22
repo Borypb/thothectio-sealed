@@ -139,7 +139,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.75
+          "usd": 1.68
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672623_200w.jpg"
@@ -235,7 +235,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.38
+          "usd": 0.37
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672631_200w.jpg"
@@ -251,7 +251,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.33
+          "usd": 0.32
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672632_200w.jpg"
@@ -506,7 +506,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.83
+          "usd": 1.85
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672651_200w.jpg"
@@ -631,7 +631,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/668615_200w.jpg",
       "url": "https://www.tcgplayer.com/product/672659/digimon-card-game-time-stranger-release-event-cards-hyogamon",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.11
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/672659_200w.jpg"
     },
     {
@@ -797,5 +802,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/677196_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-21"
+  "pricesAt": "2026-10-22"
 }

@@ -592,10 +592,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-19T19:33:35.923",
-          "count": 23,
+          "modifiedOn": "2026-10-21T14:14:08.983",
+          "count": 32,
           "file": "cards/digimon/24865.json",
-          "version": "1cc72690bdf7"
+          "version": "9b333926d709"
         },
         {
           "groupId": 24635,
@@ -1687,10 +1687,10 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-20T15:36:29.61",
+          "modifiedOn": "2026-10-21T18:58:49.277",
           "count": 241,
           "file": "cards/riftbound/24528.json",
-          "version": "f2bed2306f99"
+          "version": "5aebb7a43fb7"
         },
         {
           "groupId": 24343,
@@ -1842,5 +1842,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-10-22"
 }

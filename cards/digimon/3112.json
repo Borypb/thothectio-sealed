@@ -282,7 +282,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.19
+          "usd": 0.2
         }
       ]
     },
@@ -568,7 +568,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.19
+          "usd": 0.2
         }
       ]
     },
@@ -735,7 +735,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18
+          "usd": 0.19
         }
       ]
     },
@@ -781,7 +781,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.27
+          "usd": 0.26
         }
       ]
     },
@@ -811,7 +811,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.26
+          "usd": 0.25
         }
       ]
     },
@@ -841,7 +841,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -1376,7 +1376,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.52
+          "usd": 2.59
         }
       ]
     },
@@ -1424,7 +1424,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.3
+          "usd": 5.28
         }
       ]
     },
@@ -1456,7 +1456,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 22.87
+          "usd": 22.82
         }
       ]
     },
@@ -1472,7 +1472,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 34.5
+          "usd": 34.14
         }
       ]
     },
@@ -1504,7 +1504,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.11
+          "usd": 4.19
         }
       ]
     },
@@ -2392,7 +2392,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12.35
+          "usd": 12.23
         }
       ]
     },
@@ -2574,7 +2574,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.62
+          "usd": 1.61
         }
       ]
     },
@@ -2618,7 +2618,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/576563_200w.jpg",
       "url": "https://www.tcgplayer.com/product/576563/digimon-card-game-xros-encounter-venusmon-2024-regionals-finalist",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 29.88
+        }
+      ]
     },
     {
       "id": 576564,
@@ -2744,5 +2749,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-21"
+  "pricesAt": "2026-10-22"
 }

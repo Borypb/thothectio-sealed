@@ -751,7 +751,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.08
         }
       ]
     },
@@ -1354,7 +1354,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.53
+          "usd": 2.48
         }
       ]
     },
@@ -1505,7 +1505,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.37
+          "usd": 0.36
         }
       ]
     },
@@ -1552,7 +1552,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15.07
+          "usd": 15.3
         }
       ]
     },
@@ -1659,7 +1659,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.43
+          "usd": 7.55
         }
       ]
     },
@@ -1736,7 +1736,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.87
+          "usd": 5.91
         }
       ]
     },
@@ -1782,7 +1782,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.33
+          "usd": 2.36
         }
       ]
     },
@@ -1798,7 +1798,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.88
+          "usd": 6.94
         }
       ]
     },
@@ -1828,7 +1828,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.37
+          "usd": 0.35
         }
       ]
     },
@@ -1888,7 +1888,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.06
         }
       ]
     },
@@ -2008,7 +2008,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -2145,7 +2145,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18
+          "usd": 0.16
         }
       ]
     },
@@ -2237,7 +2237,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.11
         }
       ]
     },
@@ -2330,7 +2330,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.32
+          "usd": 1.34
         }
       ]
     },
@@ -2500,7 +2500,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.19
+          "usd": 0.18
         }
       ]
     },
@@ -2662,7 +2662,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.17
+          "usd": 0.16
         }
       ]
     },
@@ -2788,7 +2788,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.51
+          "usd": 0.5
         }
       ]
     },
@@ -3167,7 +3167,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 23.18
+          "usd": 23.7
         }
       ]
     },
@@ -3243,7 +3243,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15
+          "usd": 0.14
         }
       ]
     },
@@ -3428,7 +3428,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.49
+          "usd": 0.45
         }
       ]
     },
@@ -3444,7 +3444,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.3
+          "usd": 3.24
         }
       ]
     },
@@ -3984,7 +3984,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.66
+          "usd": 2.63
         }
       ]
     },
@@ -4336,7 +4336,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18
+          "usd": 0.17
         }
       ]
     },
@@ -4640,7 +4640,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.69
+          "usd": 1.58
         }
       ]
     },
@@ -4848,7 +4848,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.62
+          "usd": 0.64
         }
       ]
     },
@@ -5895,7 +5895,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.28
+          "usd": 1.15
         }
       ]
     },
@@ -5956,7 +5956,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/501768_200w.jpg",
       "url": "https://www.tcgplayer.com/product/501768/digimon-card-game-release-special-booster-10-metalgreymon-bt1-021-2023-regionals-finalist",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.96
+        }
+      ]
     },
     {
       "id": 501769,
@@ -5997,7 +6002,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.39
+          "usd": 0.4
         }
       ]
     },
@@ -6130,5 +6135,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-21"
+  "pricesAt": "2026-10-22"
 }

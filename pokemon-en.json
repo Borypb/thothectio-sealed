@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -21172,80 +21172,14 @@
       }
     },
     {
-      "id": "pkm-en-tcp725080",
+      "id": "pkm-en-tcp725355",
       "kind": "other",
-      "name": "Emboar",
+      "name": "Water Energy (Unnumbered) (No E Reader)",
       "lang": "en",
       "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725080_200w.jpg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725355_200w.jpg",
       "source": {
-        "tcgplayer": 725080
-      }
-    },
-    {
-      "id": "pkm-en-tcp725081",
-      "kind": "other",
-      "name": "Hop's Dubwool",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725081_200w.jpg",
-      "source": {
-        "tcgplayer": 725081
-      }
-    },
-    {
-      "id": "pkm-en-tcp725082",
-      "kind": "other",
-      "name": "Magearna",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725082_200w.jpg",
-      "source": {
-        "tcgplayer": 725082
-      }
-    },
-    {
-      "id": "pkm-en-tcp725083",
-      "kind": "other",
-      "name": "Samurott",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725083_200w.jpg",
-      "source": {
-        "tcgplayer": 725083
-      }
-    },
-    {
-      "id": "pkm-en-tcp725084",
-      "kind": "other",
-      "name": "Team Rocket's Wobbuffet",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725084_200w.jpg",
-      "source": {
-        "tcgplayer": 725084
-      }
-    },
-    {
-      "id": "pkm-en-tcp725085",
-      "kind": "other",
-      "name": "Team Rocket's Zapdos",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725085_200w.jpg",
-      "source": {
-        "tcgplayer": 725085
-      }
-    },
-    {
-      "id": "pkm-en-tcp725086",
-      "kind": "other",
-      "name": "Terrakion",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725086_200w.jpg",
-      "source": {
-        "tcgplayer": 725086
+        "tcgplayer": 725355
       }
     },
     {

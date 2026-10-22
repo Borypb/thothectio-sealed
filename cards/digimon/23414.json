@@ -72,7 +72,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18
+          "usd": 0.17
         }
       ]
     },
@@ -87,7 +87,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.08
         }
       ]
     },
@@ -207,7 +207,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.45
+          "usd": 4.47
         }
       ]
     },
@@ -342,7 +342,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.19
+          "usd": 0.2
         }
       ]
     },
@@ -432,7 +432,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.51
+          "usd": 5.39
         }
       ]
     },
@@ -462,7 +462,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.29
+          "usd": 2.28
         }
       ]
     },
@@ -598,7 +598,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.06
+          "usd": 12.16
         }
       ]
     },
@@ -688,7 +688,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.12
         }
       ]
     },
@@ -765,7 +765,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 16.25
+          "usd": 15.38
         }
       ]
     },
@@ -843,7 +843,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.78
+          "usd": 0.77
         }
       ]
     },
@@ -858,7 +858,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.36
+          "usd": 1.31
         }
       ]
     },
@@ -1302,12 +1302,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/555279_200w.jpg",
       "url": "https://www.tcgplayer.com/product/555279/digimon-card-game-infernal-ascension-ophanimon-ace-textured",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 113.21
-        }
-      ]
+      "prices": []
     },
     {
       "id": 555280,
@@ -1542,7 +1537,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.54
+          "usd": 2.45
         }
       ]
     },
@@ -1635,7 +1630,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 11.89
+          "usd": 11.9
         }
       ]
     },
@@ -1694,7 +1689,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.36
+          "usd": 0.33
         }
       ]
     },
@@ -1731,5 +1726,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-21"
+  "pricesAt": "2026-10-22"
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "digimon",
   "lang": "en",
   "products": [
@@ -46,66 +46,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/714850_200w.jpg",
       "source": {
         "tcgplayer": 714850
-      }
-    },
-    {
-      "id": "dgm-en-tcp724671",
-      "game": "digimon",
-      "kind": "other",
-      "name": "LoaderLeomon",
-      "lang": "en",
-      "setIds": [
-        "dgm-g24865"
-      ],
-      "releasedAt": "2026-12-11",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724671_200w.jpg",
-      "source": {
-        "tcgplayer": 724671
-      }
-    },
-    {
-      "id": "dgm-en-tcp724672",
-      "game": "digimon",
-      "kind": "other",
-      "name": "ProtoGizmon",
-      "lang": "en",
-      "setIds": [
-        "dgm-g24865"
-      ],
-      "releasedAt": "2026-12-11",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724672_200w.jpg",
-      "source": {
-        "tcgplayer": 724672
-      }
-    },
-    {
-      "id": "dgm-en-tcp724673",
-      "game": "digimon",
-      "kind": "other",
-      "name": "Gizmon: AT",
-      "lang": "en",
-      "setIds": [
-        "dgm-g24865"
-      ],
-      "releasedAt": "2026-12-11",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724673_200w.jpg",
-      "source": {
-        "tcgplayer": 724673
-      }
-    },
-    {
-      "id": "dgm-en-tcp724674",
-      "game": "digimon",
-      "kind": "other",
-      "name": "Gizmon: XT",
-      "lang": "en",
-      "setIds": [
-        "dgm-g24865"
-      ],
-      "releasedAt": "2026-12-11",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724674_200w.jpg",
-      "source": {
-        "tcgplayer": 724674
       }
     },
     {

@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-10-21T15:13:32.227Z",
+  "harvestedAt": "2026-10-22T09:29:18.986Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -5178,7 +5178,7 @@
     "341": {
       "name": "Turbo Pack Booster One Pack",
       "abbreviation": "TU01",
-      "modifiedOn": "2024-08-18T15:17:44.773",
+      "modifiedOn": "2026-10-21T16:01:34.01",
       "publishedOn": "2009-09-12",
       "setId": "ygo-tu01",
       "products": []
@@ -5186,7 +5186,7 @@
     "342": {
       "name": "Turbo Pack: Booster Four",
       "abbreviation": "TU04",
-      "modifiedOn": "2024-08-18T15:26:42.417",
+      "modifiedOn": "2026-10-21T19:51:40.793",
       "publishedOn": "2010-11-13",
       "setId": "ygo-tu04",
       "products": []
@@ -5819,7 +5819,7 @@
     "593": {
       "name": "Turbo Pack: Booster Eight",
       "abbreviation": "TU08",
-      "modifiedOn": "2023-08-04T15:55:54.85",
+      "modifiedOn": "2026-10-21T19:48:51.783",
       "publishedOn": "2012-06-01",
       "setId": "ygo-tu08",
       "products": []
@@ -5827,7 +5827,7 @@
     "594": {
       "name": "Turbo Pack: Booster Five",
       "abbreviation": "TU05",
-      "modifiedOn": "2024-08-18T15:28:49.757",
+      "modifiedOn": "2026-10-21T19:49:09.79",
       "publishedOn": "2011-04-09",
       "setId": "ygo-tu05",
       "products": []
@@ -5852,7 +5852,7 @@
     "596": {
       "name": "Turbo Pack: Booster Six",
       "abbreviation": "TU06",
-      "modifiedOn": "2024-08-18T15:32:01.453",
+      "modifiedOn": "2026-10-21T19:49:04.143",
       "publishedOn": "2011-08-04",
       "setId": "ygo-tu06",
       "products": []
@@ -5860,7 +5860,7 @@
     "597": {
       "name": "Turbo Pack: Booster Three",
       "abbreviation": "TU03",
-      "modifiedOn": "2024-08-18T15:26:36.593",
+      "modifiedOn": "2026-10-21T19:51:48.793",
       "publishedOn": "2010-07-10",
       "setId": "ygo-tu03",
       "products": []
@@ -5868,7 +5868,7 @@
     "598": {
       "name": "Turbo Pack: Booster Two",
       "abbreviation": "TU02",
-      "modifiedOn": "2024-08-18T15:20:51.84",
+      "modifiedOn": "2026-10-21T16:02:21.707",
       "publishedOn": "2010-01-09",
       "setId": "ygo-tu02",
       "products": []
@@ -6062,7 +6062,7 @@
     "1142": {
       "name": "Judgment of the Light",
       "abbreviation": "JOTL",
-      "modifiedOn": "2026-01-08T14:27:22.043",
+      "modifiedOn": "2026-10-20T21:38:26",
       "publishedOn": "2013-08-09",
       "setId": "ygo-jotl",
       "products": [
@@ -6097,6 +6097,14 @@
           "releasedOn": "2013-08-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/71459_200w.jpg",
           "url": "https://www.tcgplayer.com/product/71459/yugioh-judgment-of-the-light-judgment-of-the-light-booster-pack-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 725099,
+          "name": "Judgment of the Light - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2013-08-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725099_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725099/yugioh-judgment-of-the-light-judgment-of-the-light-blister-pack"
         }
       ]
     },
@@ -6505,7 +6513,7 @@
     "1288": {
       "name": "Astral Pack 2",
       "abbreviation": "AP02",
-      "modifiedOn": "2026-01-02T18:11:27.273",
+      "modifiedOn": "2026-10-21T16:29:25.323",
       "publishedOn": "2013-04-19",
       "setId": "ygo-ap02",
       "products": []
@@ -6513,7 +6521,7 @@
     "1289": {
       "name": "Astral Pack 3",
       "abbreviation": "AP03",
-      "modifiedOn": "2024-10-24T15:19:22.827",
+      "modifiedOn": "2026-10-21T16:30:08.133",
       "publishedOn": "2013-09-13",
       "setId": "ygo-ap03",
       "products": []
@@ -6734,7 +6742,7 @@
     "1309": {
       "name": "Astral Pack 4",
       "abbreviation": "AP04",
-      "modifiedOn": "2026-06-09T17:47:34.973",
+      "modifiedOn": "2026-10-21T16:30:51.473",
       "publishedOn": "2014-02-07",
       "setId": "ygo-ap04",
       "products": []
@@ -6860,7 +6868,7 @@
     "1322": {
       "name": "Yu-Gi-Oh! Tokens",
       "abbreviation": "TKN",
-      "modifiedOn": "2026-10-06T15:02:39.047",
+      "modifiedOn": "2026-10-21T19:14:27.05",
       "publishedOn": "2006-07-20",
       "products": []
     },
@@ -7272,7 +7280,7 @@
     "1479": {
       "name": "Astral Pack 5",
       "abbreviation": "AP05",
-      "modifiedOn": "2026-01-07T20:58:05.897",
+      "modifiedOn": "2026-10-21T16:32:11.067",
       "publishedOn": "2014-07-25",
       "setId": "ygo-ap05",
       "products": []
@@ -7280,7 +7288,7 @@
     "1480": {
       "name": "Duelist Alliance",
       "abbreviation": "DUEA",
-      "modifiedOn": "2026-06-26T01:39:38.393",
+      "modifiedOn": "2026-10-20T21:43:12.967",
       "publishedOn": "2014-08-15",
       "setId": "ygo-duea",
       "products": [
@@ -7299,6 +7307,14 @@
           "releasedOn": "2014-08-15",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/92294_200w.jpg",
           "url": "https://www.tcgplayer.com/product/92294/yugioh-duelist-alliance-duelist-alliance-booster-pack"
+        },
+        {
+          "tcgplayerId": 725100,
+          "name": "Duelist Alliance - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2014-08-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725100_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725100/yugioh-duelist-alliance-duelist-alliance-blister-pack"
         }
       ]
     },
@@ -7423,7 +7439,7 @@
     "1493": {
       "name": "The New Challengers",
       "abbreviation": "NECH",
-      "modifiedOn": "2026-03-13T18:47:51.943",
+      "modifiedOn": "2026-10-21T15:24:11.033",
       "publishedOn": "2014-11-07",
       "setId": "ygo-nech",
       "products": [
@@ -7466,6 +7482,14 @@
           "releasedOn": "2014-11-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/129387_200w.jpg",
           "url": "https://www.tcgplayer.com/product/129387/yugioh-the-new-challengers-the-new-challengers-super-edition-display"
+        },
+        {
+          "tcgplayerId": 725265,
+          "name": "The New Challengers - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2014-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725265_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725265/yugioh-the-new-challengers-the-new-challengers-blister-pack"
         }
       ]
     },
@@ -7497,7 +7521,7 @@
     "1505": {
       "name": "Secrets of Eternity",
       "abbreviation": "SECE",
-      "modifiedOn": "2026-01-07T19:40:19.403",
+      "modifiedOn": "2026-10-21T15:22:32.117",
       "publishedOn": "2015-01-16",
       "setId": "ygo-sece",
       "products": [
@@ -7540,13 +7564,21 @@
           "releasedOn": "2015-01-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/129386_200w.jpg",
           "url": "https://www.tcgplayer.com/product/129386/yugioh-secrets-of-eternity-secrets-of-eternity-super-edition-display"
+        },
+        {
+          "tcgplayerId": 725263,
+          "name": "Secrets of Eternity - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2015-01-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725263_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725263/yugioh-secrets-of-eternity-secrets-of-eternity-blister-pack"
         }
       ]
     },
     "1506": {
       "name": "Astral Pack 6",
       "abbreviation": "AP06",
-      "modifiedOn": "2023-08-04T14:47:26.32",
+      "modifiedOn": "2026-10-21T16:32:51.76",
       "publishedOn": "2014-12-12",
       "setId": "ygo-ap06",
       "products": []
@@ -7752,7 +7784,7 @@
     "1572": {
       "name": "Astral Pack 7",
       "abbreviation": "AP07",
-      "modifiedOn": "2025-11-21T00:45:11.55",
+      "modifiedOn": "2026-10-21T16:33:32.593",
       "publishedOn": "2015-06-05",
       "setId": "ygo-ap07",
       "products": []
@@ -7975,7 +8007,7 @@
     "1671": {
       "name": "Astral Pack 8",
       "abbreviation": "AP08",
-      "modifiedOn": "2025-11-12T23:41:55.703",
+      "modifiedOn": "2026-10-21T16:34:25.503",
       "publishedOn": "2015-10-23",
       "setId": "ygo-ap08",
       "products": []
@@ -9509,7 +9541,7 @@
     "2212": {
       "name": "Flames of Destruction",
       "abbreviation": "FLOD",
-      "modifiedOn": "2026-03-30T19:05:47.73",
+      "modifiedOn": "2026-10-21T15:28:56.23",
       "publishedOn": "2018-05-04",
       "setId": "ygo-flod",
       "products": [
@@ -9544,6 +9576,14 @@
           "releasedOn": "2018-05-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/168362_200w.jpg",
           "url": "https://www.tcgplayer.com/product/168362/yugioh-flames-of-destruction-flames-of-destruction-special-edition-display"
+        },
+        {
+          "tcgplayerId": 725269,
+          "name": "Flames of Destruction - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2018-05-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725269_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725269/yugioh-flames-of-destruction-flames-of-destruction-blister-pack"
         }
       ]
     },
@@ -9953,7 +9993,7 @@
     "2343": {
       "name": "Hidden Summoners",
       "abbreviation": "HISU",
-      "modifiedOn": "2026-02-02T14:42:28.82",
+      "modifiedOn": "2026-10-21T14:27:37.047",
       "publishedOn": "2018-11-16",
       "setId": "ygo-hisu",
       "products": [
@@ -9972,6 +10012,14 @@
           "releasedOn": "2018-11-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/176962_200w.jpg",
           "url": "https://www.tcgplayer.com/product/176962/yugioh-hidden-summoners-hidden-summoners-booster-pack"
+        },
+        {
+          "tcgplayerId": 725259,
+          "name": "Hidden Summoners - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2018-11-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725259_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725259/yugioh-hidden-summoners-hidden-summoners-blister-pack"
         }
       ]
     },
@@ -10801,7 +10849,7 @@
     "2567": {
       "name": "Legendary Duelists: Magical Hero",
       "abbreviation": "LED6",
-      "modifiedOn": "2026-08-18T19:55:44.11",
+      "modifiedOn": "2026-10-21T16:00:20.03",
       "publishedOn": "2020-01-17",
       "setId": "ygo-led6",
       "products": [
@@ -10836,6 +10884,14 @@
           "releasedOn": "2020-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/213399_200w.jpg",
           "url": "https://www.tcgplayer.com/product/213399/yugioh-legendary-duelists-magical-hero-legendary-duelists-magical-hero-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 725292,
+          "name": "Legendary duelists: Magical Hero - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2020-01-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725292_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725292/yugioh-legendary-duelists-magical-hero-legendary-duelists-magical-hero-blister-pack"
         }
       ]
     },
@@ -11789,7 +11845,7 @@
     "2808": {
       "name": "King's Court",
       "abbreviation": "KICO",
-      "modifiedOn": "2026-07-10T17:39:54.867",
+      "modifiedOn": "2026-10-21T15:29:59.907",
       "publishedOn": "2021-07-09",
       "setId": "ygo-kico",
       "products": [
@@ -11808,6 +11864,14 @@
           "releasedOn": "2021-07-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/236333_200w.jpg",
           "url": "https://www.tcgplayer.com/product/236333/yugioh-kings-court-kings-court-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725270,
+          "name": "King's Court - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2021-07-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725270_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725270/yugioh-kings-court-kings-court-blister-pack"
         }
       ]
     },
@@ -11896,7 +11960,7 @@
     "2829": {
       "name": "Legendary Duelists: Synchro Storm",
       "abbreviation": "LED8",
-      "modifiedOn": "2026-09-14T21:38:50.713",
+      "modifiedOn": "2026-10-21T15:18:29.663",
       "publishedOn": "2021-11-05",
       "setId": "ygo-led8",
       "products": [
@@ -11915,6 +11979,14 @@
           "releasedOn": "2021-10-29",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/240556_200w.jpg",
           "url": "https://www.tcgplayer.com/product/240556/yugioh-legendary-duelists-synchro-storm-legendary-duelists-synchro-storm-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 725262,
+          "name": "Legendary Duelist: Synchro Storm - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2021-11-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725262_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725262/yugioh-legendary-duelists-synchro-storm-legendary-duelist-synchro-storm-blister-pack"
         }
       ]
     },
@@ -12207,7 +12279,7 @@
     "2964": {
       "name": "The Grand Creators",
       "abbreviation": "GRCR",
-      "modifiedOn": "2026-09-10T13:51:24.483",
+      "modifiedOn": "2026-10-21T14:29:27.563",
       "publishedOn": "2022-01-28",
       "setId": "ygo-grcr",
       "products": [
@@ -12226,13 +12298,21 @@
           "releasedOn": "2022-01-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257384_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257384/yugioh-the-grand-creators-the-grand-creators-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725260,
+          "name": "The Grand Creators - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-01-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725260_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725260/yugioh-the-grand-creators-the-grand-creators-blister-pack"
         }
       ]
     },
     "2969": {
       "name": "Battle of Chaos",
       "abbreviation": "BACH",
-      "modifiedOn": "2026-07-23T13:30:27.647",
+      "modifiedOn": "2026-10-21T14:26:49.227",
       "publishedOn": "2022-02-11",
       "setId": "ygo-bach",
       "products": [
@@ -12251,6 +12331,14 @@
           "releasedOn": "2022-02-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257390_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257390/yugioh-battle-of-chaos-battle-of-chaos-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725256,
+          "name": "Battle of Chaos - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-02-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725256_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725256/yugioh-battle-of-chaos-battle-of-chaos-blister-pack"
         }
       ]
     },
@@ -12314,7 +12402,7 @@
     "3013": {
       "name": "Legendary Duelists: Duels From the Deep",
       "abbreviation": "LED9",
-      "modifiedOn": "2026-08-17T17:45:37.43",
+      "modifiedOn": "2026-10-21T15:27:28.987",
       "publishedOn": "2022-06-17",
       "setId": "ygo-led9",
       "products": [
@@ -12333,13 +12421,21 @@
           "releasedOn": "2022-06-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/260859_200w.jpg",
           "url": "https://www.tcgplayer.com/product/260859/yugioh-legendary-duelists-duels-from-the-deep-legendary-duelists-duels-from-the-deep-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 725268,
+          "name": "Legendary Deulists: Duels From the Deep - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-06-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725268_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725268/yugioh-legendary-duelists-duels-from-the-deep-legendary-deulists-duels-from-the-deep-blister-pack"
         }
       ]
     },
     "3029": {
       "name": "Dimension Force",
       "abbreviation": "DIFO",
-      "modifiedOn": "2026-06-24T22:46:03.82",
+      "modifiedOn": "2026-10-21T14:26:44.823",
       "publishedOn": "2022-05-20",
       "setId": "ygo-difo",
       "products": [
@@ -12358,6 +12454,14 @@
           "releasedOn": "2022-05-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/265274_200w.jpg",
           "url": "https://www.tcgplayer.com/product/265274/yugioh-dimension-force-dimension-force-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 725255,
+          "name": "Dimension Force - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-05-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725255_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725255/yugioh-dimension-force-dimension-force-blister-pack"
         }
       ]
     },
@@ -12529,7 +12633,7 @@
     "3104": {
       "name": "Power of the Elements",
       "abbreviation": "POTE",
-      "modifiedOn": "2026-09-15T17:20:32.313",
+      "modifiedOn": "2026-10-21T15:30:53.553",
       "publishedOn": "2022-08-05",
       "setId": "ygo-pote",
       "products": [
@@ -12564,6 +12668,14 @@
           "releasedOn": "2022-08-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/457022_200w.jpg",
           "url": "https://www.tcgplayer.com/product/457022/yugioh-power-of-the-elements-power-of-the-elements-booster-pack-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 725271,
+          "name": "Power of the Elements - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-08-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725271_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725271/yugioh-power-of-the-elements-power-of-the-elements-blister-pack"
         }
       ]
     },
@@ -12636,7 +12748,7 @@
     "3155": {
       "name": "Battles of Legend: Crystal Revenge",
       "abbreviation": "BLCR",
-      "modifiedOn": "2026-10-09T16:14:05.49",
+      "modifiedOn": "2026-10-21T14:16:43.623",
       "publishedOn": "2022-11-18",
       "setId": "ygo-blcr",
       "products": [
@@ -12655,6 +12767,14 @@
           "releasedOn": "2022-11-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/282083_200w.jpg",
           "url": "https://www.tcgplayer.com/product/282083/yugioh-battles-of-legend-crystal-revenge-battles-of-legend-crystal-revenge-booster-pack"
+        },
+        {
+          "tcgplayerId": 725101,
+          "name": "Battles of Legend: Crystal Revenge - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2022-11-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725101_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725101/yugioh-battles-of-legend-crystal-revenge-battles-of-legend-crystal-revenge-blister-pack"
         }
       ]
     },
@@ -12702,7 +12822,7 @@
     "17663": {
       "name": "Amazing Defenders",
       "abbreviation": "AMDE",
-      "modifiedOn": "2026-08-24T15:35:09.98",
+      "modifiedOn": "2026-10-21T14:26:53.097",
       "publishedOn": "2023-01-20",
       "setId": "ygo-amde",
       "products": [
@@ -12721,13 +12841,21 @@
           "releasedOn": "2023-01-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/448632_200w.jpg",
           "url": "https://www.tcgplayer.com/product/448632/yugioh-amazing-defenders-amazing-defenders-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725257,
+          "name": "Amazing Defenders - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2023-01-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725257_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725257/yugioh-amazing-defenders-amazing-defenders-blister-pack"
         }
       ]
     },
     "17680": {
       "name": "Photon Hypernova",
       "abbreviation": "PHHY",
-      "modifiedOn": "2026-09-14T22:29:43.07",
+      "modifiedOn": "2026-10-21T15:26:06.363",
       "publishedOn": "2023-02-10",
       "setId": "ygo-phhy",
       "products": [
@@ -12746,6 +12874,14 @@
           "releasedOn": "2023-02-10",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/451304_200w.jpg",
           "url": "https://www.tcgplayer.com/product/451304/yugioh-photon-hypernova-photon-hypernova-booster-pack"
+        },
+        {
+          "tcgplayerId": 725267,
+          "name": "Photon Hypernova - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2023-02-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725267_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725267/yugioh-photon-hypernova-photon-hypernova-blister-pack"
         }
       ]
     },
@@ -12802,7 +12938,7 @@
     "17701": {
       "name": "Maze of Memories",
       "abbreviation": "MAZE",
-      "modifiedOn": "2026-10-02T18:51:18.933",
+      "modifiedOn": "2026-10-21T14:26:16.783",
       "publishedOn": "2023-03-10",
       "setId": "ygo-maze",
       "products": [
@@ -12821,6 +12957,14 @@
           "releasedOn": "2023-03-10",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/457030_200w.jpg",
           "url": "https://www.tcgplayer.com/product/457030/yugioh-maze-of-memories-maze-of-memories-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725258,
+          "name": "Maze of Memories - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2023-03-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725258_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725258/yugioh-maze-of-memories-maze-of-memories-blister-pack"
         }
       ]
     },
@@ -12928,7 +13072,7 @@
     "22896": {
       "name": "Cyberstorm Access",
       "abbreviation": "CYAC",
-      "modifiedOn": "2026-09-10T13:01:22.443",
+      "modifiedOn": "2026-10-21T14:30:45.26",
       "publishedOn": "2023-05-05",
       "setId": "ygo-cyac",
       "products": [
@@ -12947,6 +13091,14 @@
           "releasedOn": "2023-05-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/484142_200w.jpg",
           "url": "https://www.tcgplayer.com/product/484142/yugioh-cyberstorm-access-cyberstorm-access-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 725261,
+          "name": "Cyberstorm Access - Blister Pack",
+          "kind": "blister",
+          "releasedOn": "2023-05-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725261_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725261/yugioh-cyberstorm-access-cyberstorm-access-blister-pack"
         }
       ]
     },
@@ -13027,7 +13179,7 @@
     "23031": {
       "name": "Battles of Legend: Monstrous Revenge",
       "abbreviation": "BLMR",
-      "modifiedOn": "2026-09-14T22:28:18.9",
+      "modifiedOn": "2026-10-21T18:44:35.75",
       "publishedOn": "2023-06-23",
       "setId": "ygo-blmr",
       "products": [
@@ -13046,6 +13198,14 @@
           "releasedOn": "2023-06-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/485800_200w.jpg",
           "url": "https://www.tcgplayer.com/product/485800/yugioh-battles-of-legend-monstrous-revenge-battles-of-legend-monstrous-revenge-booster-pack"
+        },
+        {
+          "tcgplayerId": 725285,
+          "name": "Battles of Legend: Monstrous revenge Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-06-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725285_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725285/yugioh-battles-of-legend-monstrous-revenge-battles-of-legend-monstrous-revenge-sleeved-booster-pack"
         }
       ]
     },
@@ -13474,7 +13634,7 @@
     "23284": {
       "name": "Valiant Smashers",
       "abbreviation": "VASM",
-      "modifiedOn": "2026-07-23T10:41:58.763",
+      "modifiedOn": "2026-10-21T15:55:13.833",
       "publishedOn": "2023-11-17",
       "setId": "ygo-vasm",
       "products": [
@@ -13493,6 +13653,14 @@
           "releasedOn": "2023-11-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/512537_200w.jpg",
           "url": "https://www.tcgplayer.com/product/512537/yugioh-valiant-smashers-valiant-smashers-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725281,
+          "name": "Valiant Smashers Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-11-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725281_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725281/yugioh-valiant-smashers-valiant-smashers-sleeved-booster-pack"
         }
       ]
     },
@@ -13771,7 +13939,7 @@
     "23441": {
       "name": "Battles of Legend: Terminal Revenge",
       "abbreviation": "BLTR",
-      "modifiedOn": "2026-09-10T15:19:20.077",
+      "modifiedOn": "2026-10-21T15:58:11.643",
       "publishedOn": "2024-06-21",
       "setId": "ygo-bltr",
       "products": [
@@ -13790,6 +13958,14 @@
           "releasedOn": "2024-06-21",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/541576_200w.jpg",
           "url": "https://www.tcgplayer.com/product/541576/yugioh-battles-of-legend-terminal-revenge-battles-of-legend-terminal-revenge-booster-pack"
+        },
+        {
+          "tcgplayerId": 725288,
+          "name": "Battles of Legend: Terminal revenge Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-06-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725288_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725288/yugioh-battles-of-legend-terminal-revenge-battles-of-legend-terminal-revenge-sleeved-booster-pack"
         }
       ]
     },
@@ -14051,7 +14227,7 @@
     "23656": {
       "name": "Quarter Century Bonanza",
       "abbreviation": "RA03",
-      "modifiedOn": "2026-08-08T02:35:19.6",
+      "modifiedOn": "2026-10-21T15:57:46.033",
       "publishedOn": "2024-11-08",
       "setId": "ygo-ra03",
       "products": [
@@ -14078,6 +14254,14 @@
           "releasedOn": "2024-11-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/605130_200w.jpg",
           "url": "https://www.tcgplayer.com/product/605130/yugioh-quarter-century-bonanza-quarter-century-bonanza-tuck-box-retail-exclusive"
+        },
+        {
+          "tcgplayerId": 725289,
+          "name": "Quarter Century Bonanza Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-11-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725289_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725289/yugioh-quarter-century-bonanza-quarter-century-bonanza-sleeved-booster-pack"
         }
       ]
     },
@@ -15022,7 +15206,7 @@
     "24806": {
       "name": "Ultimate Tournament Pack 2",
       "abbreviation": "UP02",
-      "modifiedOn": "2026-10-07T15:49:44.023",
+      "modifiedOn": "2026-10-21T18:45:03.29",
       "publishedOn": "2026-11-04",
       "products": []
     },
@@ -15062,7 +15246,7 @@
     "24815": {
       "name": "Beyond the Brave",
       "abbreviation": "BETB",
-      "modifiedOn": "2026-10-19T21:46:26.91",
+      "modifiedOn": "2026-10-21T18:31:51.39",
       "publishedOn": "2026-10-09",
       "setId": "ygo-betb",
       "products": [
@@ -15081,6 +15265,14 @@
           "releasedOn": "2026-10-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/711264_200w.jpg",
           "url": "https://www.tcgplayer.com/product/711264/yugioh-beyond-the-brave-beyond-the-brave-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 725351,
+          "name": "Beyond the Brave Tuck Box (Retail Exclusive)",
+          "kind": "collection",
+          "releasedOn": "2026-10-09",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725351_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725351/yugioh-beyond-the-brave-beyond-the-brave-tuck-box-retail-exclusive"
         }
       ]
     },

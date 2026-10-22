@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "yugioh",
   "lang": "en",
   "products": [
@@ -85,6 +85,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711264_200w.jpg",
       "source": {
         "tcgplayer": 711264
+      }
+    },
+    {
+      "id": "ygo-en-tcp725351",
+      "game": "yugioh",
+      "kind": "collection",
+      "name": "Beyond the Brave Tuck Box (Retail Exclusive)",
+      "lang": "en",
+      "setIds": [
+        "ygo-betb"
+      ],
+      "releasedAt": "2026-10-09",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725351_200w.jpg",
+      "source": {
+        "tcgplayer": 725351
       }
     },
     {
@@ -1150,6 +1165,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725289",
+      "game": "yugioh",
+      "kind": "booster",
+      "name": "Quarter Century Bonanza Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-ra03"
+      ],
+      "releasedAt": "2024-11-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725289_200w.jpg",
+      "source": {
+        "tcgplayer": 725289
+      }
+    },
+    {
       "id": "ygo-en-tcp555696",
       "game": "yugioh",
       "kind": "booster_box",
@@ -1387,6 +1417,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/541576_200w.jpg",
       "source": {
         "tcgplayer": 541576
+      }
+    },
+    {
+      "id": "ygo-en-tcp725288",
+      "game": "yugioh",
+      "kind": "booster",
+      "name": "Battles of Legend: Terminal revenge Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-bltr"
+      ],
+      "releasedAt": "2024-06-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725288_200w.jpg",
+      "source": {
+        "tcgplayer": 725288
       }
     },
     {
@@ -1732,6 +1777,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725281",
+      "game": "yugioh",
+      "kind": "booster",
+      "name": "Valiant Smashers Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-vasm"
+      ],
+      "releasedAt": "2023-11-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725281_200w.jpg",
+      "source": {
+        "tcgplayer": 725281
+      }
+    },
+    {
       "id": "ygo-en-tcp501747",
       "game": "yugioh",
       "kind": "booster",
@@ -2074,6 +2134,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725285",
+      "game": "yugioh",
+      "kind": "booster",
+      "name": "Battles of Legend: Monstrous revenge Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-blmr"
+      ],
+      "releasedAt": "2023-06-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725285_200w.jpg",
+      "source": {
+        "tcgplayer": 725285
+      }
+    },
+    {
       "id": "ygo-en-tcp485088",
       "game": "yugioh",
       "kind": "booster_box",
@@ -2161,6 +2236,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/484142_200w.jpg",
       "source": {
         "tcgplayer": 484142
+      }
+    },
+    {
+      "id": "ygo-en-tcp725261",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Cyberstorm Access - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-cyac"
+      ],
+      "releasedAt": "2023-05-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725261_200w.jpg",
+      "source": {
+        "tcgplayer": 725261
       }
     },
     {
@@ -2311,6 +2401,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725258",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Maze of Memories - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-maze"
+      ],
+      "releasedAt": "2023-03-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725258_200w.jpg",
+      "source": {
+        "tcgplayer": 725258
+      }
+    },
+    {
       "id": "ygo-en-tcp620843",
       "game": "yugioh",
       "kind": "deck",
@@ -2371,6 +2476,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725267",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Photon Hypernova - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-phhy"
+      ],
+      "releasedAt": "2023-02-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725267_200w.jpg",
+      "source": {
+        "tcgplayer": 725267
+      }
+    },
+    {
       "id": "ygo-en-tcp448631",
       "game": "yugioh",
       "kind": "booster_box",
@@ -2398,6 +2518,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/448632_200w.jpg",
       "source": {
         "tcgplayer": 448632
+      }
+    },
+    {
+      "id": "ygo-en-tcp725257",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Amazing Defenders - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-amde"
+      ],
+      "releasedAt": "2023-01-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725257_200w.jpg",
+      "source": {
+        "tcgplayer": 725257
       }
     },
     {
@@ -2458,6 +2593,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/282083_200w.jpg",
       "source": {
         "tcgplayer": 282083
+      }
+    },
+    {
+      "id": "ygo-en-tcp725101",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Battles of Legend: Crystal Revenge - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-blcr"
+      ],
+      "releasedAt": "2022-11-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725101_200w.jpg",
+      "source": {
+        "tcgplayer": 725101
       }
     },
     {
@@ -2701,6 +2851,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725271",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Power of the Elements - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-pote"
+      ],
+      "releasedAt": "2022-08-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725271_200w.jpg",
+      "source": {
+        "tcgplayer": 725271
+      }
+    },
+    {
       "id": "ygo-en-tcp272035",
       "game": "yugioh",
       "kind": "booster",
@@ -2761,6 +2926,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725268",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Legendary Deulists: Duels From the Deep - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-led9"
+      ],
+      "releasedAt": "2022-06-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725268_200w.jpg",
+      "source": {
+        "tcgplayer": 725268
+      }
+    },
+    {
       "id": "ygo-en-tcp265273",
       "game": "yugioh",
       "kind": "booster",
@@ -2788,6 +2968,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/265274_200w.jpg",
       "source": {
         "tcgplayer": 265274
+      }
+    },
+    {
+      "id": "ygo-en-tcp725255",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Dimension Force - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-difo"
+      ],
+      "releasedAt": "2022-05-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725255_200w.jpg",
+      "source": {
+        "tcgplayer": 725255
       }
     },
     {
@@ -2911,6 +3106,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725256",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Battle of Chaos - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-bach"
+      ],
+      "releasedAt": "2022-02-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725256_200w.jpg",
+      "source": {
+        "tcgplayer": 725256
+      }
+    },
+    {
       "id": "ygo-en-tcp257383",
       "game": "yugioh",
       "kind": "booster_box",
@@ -2938,6 +3148,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/257384_200w.jpg",
       "source": {
         "tcgplayer": 257384
+      }
+    },
+    {
+      "id": "ygo-en-tcp725260",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "The Grand Creators - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-grcr"
+      ],
+      "releasedAt": "2022-01-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725260_200w.jpg",
+      "source": {
+        "tcgplayer": 725260
       }
     },
     {
@@ -3013,6 +3238,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/251927_200w.jpg",
       "source": {
         "tcgplayer": 251927
+      }
+    },
+    {
+      "id": "ygo-en-tcp725262",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Legendary Duelist: Synchro Storm - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-led8"
+      ],
+      "releasedAt": "2021-11-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725262_200w.jpg",
+      "source": {
+        "tcgplayer": 725262
       }
     },
     {
@@ -3235,6 +3475,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/236333_200w.jpg",
       "source": {
         "tcgplayer": 236333
+      }
+    },
+    {
+      "id": "ygo-en-tcp725270",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "King's Court - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-kico"
+      ],
+      "releasedAt": "2021-07-09",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725270_200w.jpg",
+      "source": {
+        "tcgplayer": 725270
       }
     },
     {
@@ -4270,6 +4525,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725292",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Legendary duelists: Magical Hero - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-led6"
+      ],
+      "releasedAt": "2020-01-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725292_200w.jpg",
+      "source": {
+        "tcgplayer": 725292
+      }
+    },
+    {
       "id": "ygo-en-tcp199013",
       "game": "yugioh",
       "kind": "booster_box",
@@ -5110,6 +5380,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725259",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Hidden Summoners - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-hisu"
+      ],
+      "releasedAt": "2018-11-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725259_200w.jpg",
+      "source": {
+        "tcgplayer": 725259
+      }
+    },
+    {
       "id": "ygo-en-tcp176848",
       "game": "yugioh",
       "kind": "collection",
@@ -5539,6 +5824,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/168261_200w.jpg",
       "source": {
         "tcgplayer": 168261
+      }
+    },
+    {
+      "id": "ygo-en-tcp725269",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Flames of Destruction - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-flod"
+      ],
+      "releasedAt": "2018-05-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725269_200w.jpg",
+      "source": {
+        "tcgplayer": 725269
       }
     },
     {
@@ -7579,6 +7879,21 @@
       }
     },
     {
+      "id": "ygo-en-tcp725263",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Secrets of Eternity - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-sece"
+      ],
+      "releasedAt": "2015-01-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725263_200w.jpg",
+      "source": {
+        "tcgplayer": 725263
+      }
+    },
+    {
       "id": "ygo-en-tcp95324",
       "game": "yugioh",
       "kind": "booster",
@@ -7636,6 +7951,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/93827_200w.jpg",
       "source": {
         "tcgplayer": 93827
+      }
+    },
+    {
+      "id": "ygo-en-tcp725265",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "The New Challengers - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-nech"
+      ],
+      "releasedAt": "2014-11-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725265_200w.jpg",
+      "source": {
+        "tcgplayer": 725265
       }
     },
     {
@@ -7786,6 +8116,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/92551_200w.jpg",
       "source": {
         "tcgplayer": 92551
+      }
+    },
+    {
+      "id": "ygo-en-tcp725100",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Duelist Alliance - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-duea"
+      ],
+      "releasedAt": "2014-08-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725100_200w.jpg",
+      "source": {
+        "tcgplayer": 725100
       }
     },
     {
@@ -8596,6 +8941,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/71459_200w.jpg",
       "source": {
         "tcgplayer": 71459
+      }
+    },
+    {
+      "id": "ygo-en-tcp725099",
+      "game": "yugioh",
+      "kind": "blister",
+      "name": "Judgment of the Light - Blister Pack",
+      "lang": "en",
+      "setIds": [
+        "ygo-jotl"
+      ],
+      "releasedAt": "2013-08-09",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725099_200w.jpg",
+      "source": {
+        "tcgplayer": 725099
       }
     },
     {

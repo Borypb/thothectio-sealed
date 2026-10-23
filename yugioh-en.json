@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "yugioh",
   "lang": "en",
   "products": [
@@ -9334,21 +9334,6 @@
       }
     },
     {
-      "id": "ygo-en-tcp723373",
-      "game": "yugioh",
-      "kind": "booster",
-      "name": "Astral Pack 1",
-      "lang": "en",
-      "setIds": [
-        "ygo-ap01"
-      ],
-      "releasedAt": "2012-11-30",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723373_200w.jpg",
-      "source": {
-        "tcgplayer": 723373
-      }
-    },
-    {
       "id": "ygo-en-tcp250030",
       "game": "yugioh",
       "kind": "blister",
@@ -9991,21 +9976,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/670282_200w.jpg",
       "source": {
         "tcgplayer": 670282
-      }
-    },
-    {
-      "id": "ygo-en-tcp515427",
-      "game": "yugioh",
-      "kind": "booster",
-      "name": "Turbo Pack: Booster Seven Booster Pack",
-      "lang": "en",
-      "setIds": [
-        "ygo-tu07"
-      ],
-      "releasedAt": "2012-01-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/515427_200w.jpg",
-      "source": {
-        "tcgplayer": 515427
       }
     },
     {

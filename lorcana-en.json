@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "lorcana",
   "lang": "en",
   "products": [
@@ -1645,6 +1645,66 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/721004_200w.jpg",
       "source": {
         "tcgplayer": 721004
+      }
+    },
+    {
+      "id": "lor-en-tcp722997",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Everyone Knows Juanita",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722997_200w.jpg",
+      "source": {
+        "tcgplayer": 722997
+      }
+    },
+    {
+      "id": "lor-en-tcp722998",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Tramp - Quick on His Feet",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722998_200w.jpg",
+      "source": {
+        "tcgplayer": 722998
+      }
+    },
+    {
+      "id": "lor-en-tcp722999",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Arthur - Novice Blacksmith",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722999_200w.jpg",
+      "source": {
+        "tcgplayer": 722999
+      }
+    },
+    {
+      "id": "lor-en-tcp723000",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Minnie Mouse - Urban Visionary",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723000_200w.jpg",
+      "source": {
+        "tcgplayer": 723000
+      }
+    },
+    {
+      "id": "lor-en-tcp723002",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Nick Wilde - Providing Backup",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723002_200w.jpg",
+      "source": {
+        "tcgplayer": 723002
       }
     },
     {

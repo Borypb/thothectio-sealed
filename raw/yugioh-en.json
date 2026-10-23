@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-10-22T09:29:18.986Z",
+  "harvestedAt": "2026-10-23T09:25:15.950Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -5178,7 +5178,7 @@
     "341": {
       "name": "Turbo Pack Booster One Pack",
       "abbreviation": "TU01",
-      "modifiedOn": "2026-10-21T16:01:34.01",
+      "modifiedOn": "2026-10-21T19:54:18.03",
       "publishedOn": "2009-09-12",
       "setId": "ygo-tu01",
       "products": []
@@ -5835,19 +5835,10 @@
     "595": {
       "name": "Turbo Pack: Booster Seven",
       "abbreviation": "TU07",
-      "modifiedOn": "2024-08-18T15:32:07.07",
+      "modifiedOn": "2026-10-21T19:56:32.543",
       "publishedOn": "2012-01-01",
       "setId": "ygo-tu07",
-      "products": [
-        {
-          "tcgplayerId": 515427,
-          "name": "Turbo Pack: Booster Seven Booster Pack",
-          "kind": "booster",
-          "releasedOn": "2012-01-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/515427_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/515427/yugioh-turbo-pack-booster-seven-turbo-pack-booster-seven-booster-pack"
-        }
-      ]
+      "products": []
     },
     "596": {
       "name": "Turbo Pack: Booster Six",
@@ -5868,7 +5859,7 @@
     "598": {
       "name": "Turbo Pack: Booster Two",
       "abbreviation": "TU02",
-      "modifiedOn": "2026-10-21T16:02:21.707",
+      "modifiedOn": "2026-10-21T19:54:11.457",
       "publishedOn": "2010-01-09",
       "setId": "ygo-tu02",
       "products": []
@@ -6496,24 +6487,15 @@
     "1287": {
       "name": "Astral Pack 1",
       "abbreviation": "AP01",
-      "modifiedOn": "2026-10-13T20:46:06.433",
+      "modifiedOn": "2026-10-21T19:56:21.27",
       "publishedOn": "2012-11-30",
       "setId": "ygo-ap01",
-      "products": [
-        {
-          "tcgplayerId": 723373,
-          "name": "Astral Pack 1",
-          "kind": "booster",
-          "releasedOn": "2012-11-30",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723373_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/723373/yugioh-astral-pack-1-astral-pack-1"
-        }
-      ]
+      "products": []
     },
     "1288": {
       "name": "Astral Pack 2",
       "abbreviation": "AP02",
-      "modifiedOn": "2026-10-21T16:29:25.323",
+      "modifiedOn": "2026-10-21T19:55:29.45",
       "publishedOn": "2013-04-19",
       "setId": "ygo-ap02",
       "products": []
@@ -6521,7 +6503,7 @@
     "1289": {
       "name": "Astral Pack 3",
       "abbreviation": "AP03",
-      "modifiedOn": "2026-10-21T16:30:08.133",
+      "modifiedOn": "2026-10-21T19:56:11.573",
       "publishedOn": "2013-09-13",
       "setId": "ygo-ap03",
       "products": []
@@ -6742,7 +6724,7 @@
     "1309": {
       "name": "Astral Pack 4",
       "abbreviation": "AP04",
-      "modifiedOn": "2026-10-21T16:30:51.473",
+      "modifiedOn": "2026-10-21T19:55:11.463",
       "publishedOn": "2014-02-07",
       "setId": "ygo-ap04",
       "products": []
@@ -7280,7 +7262,7 @@
     "1479": {
       "name": "Astral Pack 5",
       "abbreviation": "AP05",
-      "modifiedOn": "2026-10-21T16:32:11.067",
+      "modifiedOn": "2026-10-21T19:55:02.67",
       "publishedOn": "2014-07-25",
       "setId": "ygo-ap05",
       "products": []
@@ -7578,7 +7560,7 @@
     "1506": {
       "name": "Astral Pack 6",
       "abbreviation": "AP06",
-      "modifiedOn": "2026-10-21T16:32:51.76",
+      "modifiedOn": "2026-10-21T19:54:53.203",
       "publishedOn": "2014-12-12",
       "setId": "ygo-ap06",
       "products": []
@@ -7784,7 +7766,7 @@
     "1572": {
       "name": "Astral Pack 7",
       "abbreviation": "AP07",
-      "modifiedOn": "2026-10-21T16:33:32.593",
+      "modifiedOn": "2026-10-21T19:54:42",
       "publishedOn": "2015-06-05",
       "setId": "ygo-ap07",
       "products": []
@@ -8007,7 +7989,7 @@
     "1671": {
       "name": "Astral Pack 8",
       "abbreviation": "AP08",
-      "modifiedOn": "2026-10-21T16:34:25.503",
+      "modifiedOn": "2026-10-21T19:54:34.27",
       "publishedOn": "2015-10-23",
       "setId": "ygo-ap08",
       "products": []
@@ -9541,7 +9523,7 @@
     "2212": {
       "name": "Flames of Destruction",
       "abbreviation": "FLOD",
-      "modifiedOn": "2026-10-21T15:28:56.23",
+      "modifiedOn": "2026-10-22T19:12:11.39",
       "publishedOn": "2018-05-04",
       "setId": "ygo-flod",
       "products": [
@@ -12059,7 +12041,7 @@
     "2847": {
       "name": "2021 Tin of Ancient Battles",
       "abbreviation": "MP21",
-      "modifiedOn": "2026-10-02T02:23:54.07",
+      "modifiedOn": "2026-10-21T20:24:48.517",
       "publishedOn": "2021-10-01",
       "setId": "ygo-mp21",
       "products": [
@@ -12173,7 +12155,7 @@
     "2896": {
       "name": "Maximum Gold: El Dorado",
       "abbreviation": "MGED",
-      "modifiedOn": "2026-10-15T20:41:39.42",
+      "modifiedOn": "2026-10-22T04:40:22.263",
       "publishedOn": "2021-11-19",
       "setId": "ygo-mged",
       "products": [
@@ -14571,7 +14553,7 @@
     "24308": {
       "name": "2025 Mega-Pack",
       "abbreviation": "MP25",
-      "modifiedOn": "2026-10-15T20:37:51.45",
+      "modifiedOn": "2026-10-21T20:24:22.42",
       "publishedOn": "2025-09-05",
       "setId": "ygo-mp25",
       "products": [
@@ -14991,7 +14973,7 @@
     },
     "24559": {
       "name": "Maze of Muertos",
-      "modifiedOn": "2026-10-15T19:39:35.01",
+      "modifiedOn": "2026-10-22T04:41:44.787",
       "publishedOn": "2026-02-20",
       "setId": "ygo-mzmu",
       "products": [
@@ -15082,7 +15064,7 @@
     "24675": {
       "name": "Chaos Origins",
       "abbreviation": "CORI",
-      "modifiedOn": "2026-10-13T20:22:25.06",
+      "modifiedOn": "2026-10-21T20:18:54.403",
       "publishedOn": "2026-07-03",
       "setId": "ygo-cori",
       "products": [

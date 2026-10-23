@@ -490,7 +490,7 @@
           "name": "Fusion World Energy Markers",
           "code": "DBSFW_EM",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-08-21T20:13:04.687",
+          "modifiedOn": "2026-10-22T15:05:41.49",
           "count": 310,
           "file": "cards/dragonball/23430.json",
           "version": "48237f77f256"
@@ -510,10 +510,10 @@
           "name": "Tournament and Championship Promos",
           "code": "DBSFW_TPR",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-10-15T18:43:33.713",
-          "count": 445,
+          "modifiedOn": "2026-10-22T15:27:38.147",
+          "count": 446,
           "file": "cards/dragonball/23429.json",
-          "version": "98d110aebe83"
+          "version": "98bde6412a8b"
         }
       ]
     },
@@ -1687,7 +1687,7 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-21T18:58:49.277",
+          "modifiedOn": "2026-10-22T18:41:39.833",
           "count": 241,
           "file": "cards/riftbound/24528.json",
           "version": "5aebb7a43fb7"
@@ -1741,7 +1741,7 @@
           "groupId": 24858,
           "name": "Embracing Power - Retail Starter Deck",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-15T18:50:02.783",
+          "modifiedOn": "2026-10-22T18:53:39.95",
           "count": 20,
           "file": "cards/cyberpunk/24858.json",
           "version": "920450d6edcf"
@@ -1759,7 +1759,7 @@
           "groupId": 24859,
           "name": "The Heist - Retail Starter Deck",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-15T18:57:24.137",
+          "modifiedOn": "2026-10-22T18:52:46.43",
           "count": 20,
           "file": "cards/cyberpunk/24859.json",
           "version": "5601590283c0"
@@ -1768,7 +1768,7 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-15T19:42:25.39",
+          "modifiedOn": "2026-10-22T18:51:54.85",
           "count": 141,
           "file": "cards/cyberpunk/24855.json",
           "version": "b4a5bc2bcd71"
@@ -1842,5 +1842,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-22"
+  "updatedAt": "2026-10-23"
 }

@@ -59,7 +59,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12.91
+          "usd": 12.55
         }
       ]
     },
@@ -136,7 +136,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.26
+          "usd": 0.24
         }
       ]
     },
@@ -631,7 +631,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.79
+          "usd": 1.89
         }
       ]
     },
@@ -708,7 +708,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.56
+          "usd": 0.55
         }
       ]
     },
@@ -739,7 +739,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.13
         }
       ]
     },
@@ -755,7 +755,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.19
+          "usd": 2.17
         }
       ]
     },
@@ -1049,7 +1049,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.75
+          "usd": 4.43
         }
       ]
     },
@@ -1080,7 +1080,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.04
+          "usd": 5.99
         }
       ]
     },
@@ -1157,7 +1157,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.34
+          "usd": 0.35
         }
       ]
     },
@@ -1173,7 +1173,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12.73
+          "usd": 11.88
         }
       ]
     },
@@ -1281,7 +1281,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.16
+          "usd": 0.17
         }
       ]
     },
@@ -1605,7 +1605,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.08
         }
       ]
     },
@@ -1683,7 +1683,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.39
+          "usd": 7.36
         }
       ]
     },
@@ -1712,12 +1712,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/565016_200w.jpg",
       "url": "https://www.tcgplayer.com/product/565016/digimon-card-game-digimon-liberator-beelstarmon-ace-textured",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 550
-        }
-      ]
+      "prices": []
     },
     {
       "id": 565017,
@@ -2041,7 +2036,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.88
+          "usd": 0.89
         }
       ]
     },
@@ -2072,7 +2067,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.17
+          "usd": 1.18
         }
       ]
     },
@@ -2135,7 +2130,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 120.38
+          "usd": 117.5
         }
       ]
     },
@@ -2259,7 +2254,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.81
+          "usd": 1.74
         }
       ]
     },
@@ -2403,7 +2398,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.7
+          "usd": 2.58
         }
       ]
     },
@@ -2451,5 +2446,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-22"
+  "pricesAt": "2026-10-23"
 }

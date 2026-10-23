@@ -888,7 +888,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.35
+          "usd": 0.36
         }
       ]
     },
@@ -1038,7 +1038,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.31
+          "usd": 0.33
         }
       ]
     },
@@ -1098,7 +1098,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.14
+          "usd": 0.13
         }
       ]
     },
@@ -1278,7 +1278,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.33
+          "usd": 0.69
         }
       ]
     },
@@ -1350,7 +1350,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/649219_200w.jpg",
       "url": "https://www.tcgplayer.com/product/649219/dragon-ball-super-fusion-world-wish-for-shenron-pan-sh",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.4
+        }
+      ]
     },
     {
       "id": 649710,
@@ -1438,7 +1443,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.36
+          "usd": 0.37
         }
       ]
     },
@@ -1483,7 +1488,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.29
+          "usd": 0.3
         }
       ]
     },
@@ -1603,7 +1608,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1813,7 +1818,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 31.59
+          "usd": 29.91
         }
       ]
     },
@@ -1924,7 +1929,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 131.38
+          "usd": 131.94
         }
       ]
     },
@@ -2019,7 +2024,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 51.43
+          "usd": 50.89
         }
       ]
     },
@@ -2303,7 +2308,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 24.68
+          "usd": 24.56
         }
       ]
     },
@@ -2370,5 +2375,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-22"
+  "pricesAt": "2026-10-23"
 }

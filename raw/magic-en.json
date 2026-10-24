@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-10-23T09:24:45.634Z",
+  "harvestedAt": "2026-10-24T08:56:38.675Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -1262,7 +1262,7 @@
     "30": {
       "name": "Duel Decks: Ajani vs. Nicol Bolas",
       "abbreviation": "DDH",
-      "modifiedOn": "2026-09-14T13:09:34.673",
+      "modifiedOn": "2026-10-22T19:58:08.56",
       "publishedOn": "2011-09-02",
       "setId": "mtg-ddh",
       "products": [
@@ -5310,7 +5310,7 @@
     "115": {
       "name": "Unlimited Edition",
       "abbreviation": "2ED",
-      "modifiedOn": "2026-10-07T19:21:43.347",
+      "modifiedOn": "2026-10-23T03:07:22.87",
       "publishedOn": "1993-12-06",
       "setId": "mtg-2ed",
       "products": [
@@ -7590,7 +7590,7 @@
     "1277": {
       "name": "Journey Into Nyx",
       "abbreviation": "JOU",
-      "modifiedOn": "2026-10-21T13:17:35.19",
+      "modifiedOn": "2026-10-23T14:01:46.037",
       "publishedOn": "2014-05-02",
       "setId": "mtg-jou",
       "products": [
@@ -10116,7 +10116,7 @@
     "2067": {
       "name": "Standard Showdown Promos",
       "abbreviation": "SSP",
-      "modifiedOn": "2026-10-14T13:29:15.89",
+      "modifiedOn": "2026-10-23T17:56:58.733",
       "products": []
     },
     "2076": {
@@ -25113,7 +25113,7 @@
     "17684": {
       "name": "Phyrexia: All Will Be One",
       "abbreviation": "ONE",
-      "modifiedOn": "2026-10-21T22:06:26.43",
+      "modifiedOn": "2026-10-23T13:53:25.593",
       "publishedOn": "2023-02-03",
       "setId": "mtg-one",
       "products": [
@@ -27691,7 +27691,7 @@
     "23447": {
       "name": "Bloomburrow",
       "abbreviation": "BLB",
-      "modifiedOn": "2026-10-15T20:02:44.977",
+      "modifiedOn": "2026-10-23T13:51:07.69",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blb",
       "products": [
@@ -30319,7 +30319,7 @@
     "24464": {
       "name": "Commander: Lorwyn Eclipsed",
       "abbreviation": "ECC",
-      "modifiedOn": "2026-10-21T13:20:41.263",
+      "modifiedOn": "2026-10-23T13:47:26.763",
       "publishedOn": "2026-01-23",
       "setId": "mtg-ecc",
       "products": [
@@ -30376,7 +30376,7 @@
     "24495": {
       "name": "Teenage Mutant Ninja Turtles",
       "abbreviation": "TMT",
-      "modifiedOn": "2026-09-23T19:00:04.123",
+      "modifiedOn": "2026-10-23T13:52:16.497",
       "publishedOn": "2026-03-06",
       "setId": "mtg-tmt",
       "products": [
@@ -31261,7 +31261,7 @@
     "24603": {
       "name": "Secrets of Strixhaven: Mystical Archive",
       "abbreviation": "SOA",
-      "modifiedOn": "2026-10-22T05:02:38.87",
+      "modifiedOn": "2026-10-23T19:27:08.41",
       "publishedOn": "2026-04-24",
       "setId": "mtg-soa",
       "products": []
@@ -31307,7 +31307,7 @@
     "24683": {
       "name": "The Hobbit",
       "abbreviation": "HOB",
-      "modifiedOn": "2026-10-21T12:46:38.777",
+      "modifiedOn": "2026-10-23T13:57:52.863",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hob",
       "products": [
@@ -31492,7 +31492,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-10-21T17:56:58.363",
+      "modifiedOn": "2026-10-23T13:58:52.527",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -31676,7 +31676,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-10-22T19:15:48.063",
+      "modifiedOn": "2026-10-23T18:07:12.093",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [

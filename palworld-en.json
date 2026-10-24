@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "palworld",
   "lang": "en",
   "products": [
@@ -121,6 +121,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/724539_200w.jpg",
       "source": {
         "tcgplayer": 724539
+      }
+    },
+    {
+      "id": "pal-en-tcp725648",
+      "game": "palworld",
+      "kind": "booster_box",
+      "name": "Dawn of Palpagos Booster Box (2nd Edition)",
+      "lang": "en",
+      "setIds": [
+        "pal-g24842"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725648_200w.jpg",
+      "source": {
+        "tcgplayer": 725648
+      }
+    },
+    {
+      "id": "pal-en-tcp725649",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "Dawn of Palpagos Booster Pack (2nd Edition)",
+      "lang": "en",
+      "setIds": [
+        "pal-g24842"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725649_200w.jpg",
+      "source": {
+        "tcgplayer": 725649
       }
     }
   ]

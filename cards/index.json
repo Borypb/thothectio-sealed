@@ -536,10 +536,10 @@
           "name": "BP01: Dawn of Palpagos",
           "code": "BP01",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-02T15:37:49.13",
-          "count": 162,
+          "modifiedOn": "2026-10-23T18:14:52.397",
+          "count": 324,
           "file": "cards/palworld/24842.json",
-          "version": "defc39ddf408"
+          "version": "00656d577725"
         },
         {
           "groupId": 24851,
@@ -1607,7 +1607,7 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-20T12:32:06.26",
+          "modifiedOn": "2026-10-23T15:46:05.177",
           "count": 234,
           "file": "cards/riftbound/24819.json",
           "version": "167183f56062"
@@ -1627,7 +1627,7 @@
           "name": "Vendetta",
           "code": "VEN",
           "releasedAt": "2026-07-31",
-          "modifiedOn": "2026-10-12T12:55:49.4",
+          "modifiedOn": "2026-10-22T20:00:13.91",
           "count": 248,
           "file": "cards/riftbound/24698.json",
           "version": "391657d81f8c"
@@ -1637,7 +1637,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-08-17T18:31:38.02",
+          "modifiedOn": "2026-10-22T19:59:48.717",
           "count": 308,
           "file": "cards/riftbound/24560.json",
           "version": "3b6140146afd"
@@ -1647,7 +1647,7 @@
           "name": "Spiritforged",
           "code": "SFD",
           "releasedAt": "2026-02-13",
-          "modifiedOn": "2026-09-29T20:35:58.87",
+          "modifiedOn": "2026-10-22T19:57:34.58",
           "count": 309,
           "file": "cards/riftbound/24519.json",
           "version": "a09289fd0a6a"
@@ -1667,7 +1667,7 @@
           "name": "Origins",
           "code": "OGN",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-08-12T20:21:07.447",
+          "modifiedOn": "2026-10-22T19:56:34.517",
           "count": 353,
           "file": "cards/riftbound/24344.json",
           "version": "236bf3df6275"
@@ -1687,7 +1687,7 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-22T18:41:39.833",
+          "modifiedOn": "2026-10-23T16:57:12.443",
           "count": 241,
           "file": "cards/riftbound/24528.json",
           "version": "5aebb7a43fb7"
@@ -1750,10 +1750,10 @@
           "groupId": 24860,
           "name": "Set 1 Promos",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-15T18:54:21.53",
-          "count": 4,
+          "modifiedOn": "2026-10-23T16:01:08.827",
+          "count": 5,
           "file": "cards/cyberpunk/24860.json",
-          "version": "91e83fcf627a"
+          "version": "04a6500255a3"
         },
         {
           "groupId": 24859,
@@ -1768,7 +1768,7 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-22T18:51:54.85",
+          "modifiedOn": "2026-10-23T14:22:58.503",
           "count": 141,
           "file": "cards/cyberpunk/24855.json",
           "version": "b4a5bc2bcd71"
@@ -1824,7 +1824,7 @@
           "groupId": 24845,
           "name": "Welcome to Night City - Beta",
           "releasedAt": "2026-09-10",
-          "modifiedOn": "2026-10-15T19:00:07.43",
+          "modifiedOn": "2026-10-23T14:23:10.627",
           "count": 172,
           "file": "cards/cyberpunk/24845.json",
           "version": "4c877b65ecf9"
@@ -1842,5 +1842,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-23"
+  "updatedAt": "2026-10-24"
 }

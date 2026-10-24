@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-23T08:51:40.789Z",
+  "harvestedAt": "2026-10-24T08:25:31.062Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -1646,7 +1646,7 @@
     "1398": {
       "name": "EX Unseen Forces",
       "abbreviation": "UF",
-      "modifiedOn": "2026-08-18T19:14:13.46",
+      "modifiedOn": "2026-10-23T05:33:18.01",
       "publishedOn": "2005-08-22",
       "setCode": "ex10",
       "products": [
@@ -7838,7 +7838,7 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-10-19T13:34:52.953",
+      "modifiedOn": "2026-10-23T18:40:11.873",
       "products": []
     },
     "2295": {
@@ -13510,7 +13510,7 @@
     "2545": {
       "name": "SWSH: Sword & Shield Promo Cards",
       "abbreviation": "SWSD",
-      "modifiedOn": "2026-10-16T17:54:26.373",
+      "modifiedOn": "2026-10-23T13:40:57.723",
       "publishedOn": "2019-11-15",
       "setCode": "swshp",
       "products": []
@@ -16535,7 +16535,7 @@
     "3040": {
       "name": "SWSH10: Astral Radiance",
       "abbreviation": "SWSH10",
-      "modifiedOn": "2026-09-14T21:49:27.48",
+      "modifiedOn": "2026-10-23T05:03:29.61",
       "publishedOn": "2022-05-27",
       "setCode": "swsh10",
       "products": [
@@ -16636,30 +16636,6 @@
           "url": "https://www.tcgplayer.com/product/265529/pokemon-swsh10-astral-radiance-astral-radiance-build-and-battle-box"
         },
         {
-          "tcgplayerId": 265542,
-          "name": "Astral Radiance Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2022-05-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265542_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265542/pokemon-swsh10-astral-radiance-astral-radiance-booster-pack-art-bundle-set-of-5"
-        },
-        {
-          "tcgplayerId": 265543,
-          "name": "Astral Radiance Sleeved Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2022-05-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265543_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265543/pokemon-swsh10-astral-radiance-astral-radiance-sleeved-booster-pack-art-bundle-set-of-5"
-        },
-        {
-          "tcgplayerId": 265544,
-          "name": "Astral Radiance Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2022-05-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265544_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265544/pokemon-swsh10-astral-radiance-astral-radiance-sleeved-booster-pack-bundle-set-of-8"
-        },
-        {
           "tcgplayerId": 265545,
           "name": "Astral Radiance Elite Trainer Box Case",
           "kind": "case",
@@ -16668,25 +16644,9 @@
           "url": "https://www.tcgplayer.com/product/265545/pokemon-swsh10-astral-radiance-astral-radiance-elite-trainer-box-case"
         },
         {
-          "tcgplayerId": 265546,
-          "name": "Astral Radiance 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-05-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265546_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265546/pokemon-swsh10-astral-radiance-astral-radiance-3-pack-blister-set-of-2"
-        },
-        {
-          "tcgplayerId": 265558,
-          "name": "Astral Radiance Single Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-05-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265558_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265558/pokemon-swsh10-astral-radiance-astral-radiance-single-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 272137,
           "name": "Astral Radiance Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-05-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/272137_200w.jpg",
           "url": "https://www.tcgplayer.com/product/272137/pokemon-swsh10-astral-radiance-astral-radiance-build-and-battle-box-display"
@@ -16742,7 +16702,7 @@
         {
           "tcgplayerId": 496130,
           "name": "Astral Radiance Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2022-05-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496130_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496130/pokemon-swsh10-astral-radiance-astral-radiance-sleeved-booster-pack-case"
@@ -16766,7 +16726,7 @@
         {
           "tcgplayerId": 679043,
           "name": "Astral Radiance 3 Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2022-05-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/679043_200w.jpg",
           "url": "https://www.tcgplayer.com/product/679043/pokemon-swsh10-astral-radiance-astral-radiance-3-pack-blister-case"
@@ -16774,7 +16734,7 @@
         {
           "tcgplayerId": 696160,
           "name": "Astral Radiance Premium Checklane Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2022-05-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/696160_200w.jpg",
           "url": "https://www.tcgplayer.com/product/696160/pokemon-swsh10-astral-radiance-astral-radiance-premium-checklane-blister-case"
@@ -18059,7 +18019,7 @@
     "22873": {
       "name": "SV01: Scarlet & Violet Base Set",
       "abbreviation": "SVI",
-      "modifiedOn": "2026-10-15T20:24:39.313",
+      "modifiedOn": "2026-10-23T13:39:43.043",
       "publishedOn": "2023-03-31",
       "setCode": "sv01",
       "products": [
@@ -18724,7 +18684,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-10-21T15:30:45.03",
+      "modifiedOn": "2026-10-22T19:56:00.547",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -21278,7 +21238,7 @@
     "24269": {
       "name": "SV10: Destined Rivals",
       "abbreviation": "DRI",
-      "modifiedOn": "2026-10-21T04:47:15.563",
+      "modifiedOn": "2026-10-23T05:01:30.893",
       "publishedOn": "2025-05-30",
       "setCode": "sv10",
       "products": [
@@ -21793,7 +21753,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-10-14T13:05:08.167",
+      "modifiedOn": "2026-10-23T13:43:55.18",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -22887,7 +22847,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-10-21T02:32:06.3",
+      "modifiedOn": "2026-10-23T13:44:56.557",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [
@@ -23064,7 +23024,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-10-21T02:30:27.933",
+      "modifiedOn": "2026-10-22T19:55:02.45",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [
@@ -23809,7 +23769,7 @@
     "24864": {
       "name": "Southeast Asia Exclusives",
       "abbreviation": "SEA",
-      "modifiedOn": "2026-10-12T16:12:14.923",
+      "modifiedOn": "2026-10-23T19:24:04.817",
       "publishedOn": "2023-08-05",
       "products": []
     }

@@ -10,7 +10,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/521388_200w.jpg",
       "url": "https://www.tcgplayer.com/product/521388/digimon-card-game-blast-ace-metalgreymon-ace-english-exclusive-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.63
+        }
+      ]
     },
     {
       "id": 521389,
@@ -86,7 +91,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.21
+          "usd": 0.2
         }
       ]
     },
@@ -161,7 +166,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.06
+          "usd": 0.07
         }
       ]
     },
@@ -191,7 +196,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.29
+          "usd": 1.33
         }
       ]
     },
@@ -506,7 +511,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -956,7 +961,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.05
+          "usd": 0.06
         }
       ]
     },
@@ -971,7 +976,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.06
+          "usd": 0.07
         }
       ]
     },
@@ -1031,7 +1036,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.13
         }
       ]
     },
@@ -1226,7 +1231,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.06
+          "usd": 0.07
         }
       ]
     },
@@ -1241,7 +1246,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.06
         }
       ]
     },
@@ -1256,7 +1261,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -1361,7 +1366,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.05
+          "usd": 0.04
         }
       ]
     },
@@ -1481,7 +1486,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15
+          "usd": 0.14
         }
       ]
     },
@@ -1874,7 +1879,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.06
+          "usd": 4.92
         }
       ]
     },
@@ -2290,7 +2295,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.64
+          "usd": 0.62
         }
       ]
     },
@@ -2306,7 +2311,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.15
+          "usd": 1.09
         }
       ]
     },
@@ -2503,5 +2508,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-23"
+  "pricesAt": "2026-10-24"
 }

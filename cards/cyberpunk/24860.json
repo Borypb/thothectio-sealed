@@ -22,7 +22,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 239.12
+          "usd": 235.86
         }
       ]
     },
@@ -46,7 +46,18 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719653_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719653/cyberpunk-tcg-set-1-promos-misty-olszewski-mender-of-broken-spirits",
       "prices": []
+    },
+    {
+      "id": 725838,
+      "name": "Gorilla Arms",
+      "label": "Pre-release",
+      "number": "011",
+      "rarity": "NR",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725838_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725838/cyberpunk-tcg-set-1-promos-gorilla-arms-pre-release",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-23"
+  "pricesAt": "2026-10-24"
 }

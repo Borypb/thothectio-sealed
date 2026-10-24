@@ -341,7 +341,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.66
+          "usd": 0.67
         }
       ]
     },
@@ -745,7 +745,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7
+          "usd": 7.19
         }
       ]
     },
@@ -1006,7 +1006,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/604323_200w.jpg",
       "url": "https://www.tcgplayer.com/product/604323/digimon-card-game-chain-of-liberation-apemon-limited-foil",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.89
+        }
+      ]
     },
     {
       "id": 604324,
@@ -1500,7 +1505,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.1
         }
       ]
     },
@@ -1625,7 +1630,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.96
+          "usd": 0.91
         }
       ]
     },
@@ -1641,7 +1646,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.98
+          "usd": 2.88
         }
       ]
     },
@@ -1687,7 +1692,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.13
         }
       ]
     },
@@ -1703,7 +1708,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.69
+          "usd": 7.99
         }
       ]
     },
@@ -2168,7 +2173,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.1
+          "usd": 0.12
         }
       ]
     },
@@ -2184,7 +2189,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.52
+          "usd": 6.5
         }
       ]
     },
@@ -2311,7 +2316,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.12
+          "usd": 1.08
         }
       ]
     },
@@ -2492,5 +2497,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-23"
+  "pricesAt": "2026-10-24"
 }

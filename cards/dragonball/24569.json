@@ -87,7 +87,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.35
+          "usd": 0.34
         }
       ]
     },
@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.49
+          "usd": 4.68
         }
       ]
     },
@@ -207,7 +207,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15
+          "usd": 0.14
         }
       ]
     },
@@ -372,7 +372,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.33
+          "usd": 0.35
         }
       ]
     },
@@ -417,7 +417,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.56
+          "usd": 4.66
         }
       ]
     },
@@ -837,7 +837,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.25
+          "usd": 0.26
         }
       ]
     },
@@ -1429,7 +1429,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.3
+          "usd": 0.31
         }
       ]
     },
@@ -1489,7 +1489,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.21
+          "usd": 0.22
         }
       ]
     },
@@ -1607,7 +1607,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/681997_200w.jpg",
       "url": "https://www.tcgplayer.com/product/681997/dragon-ball-super-fusion-world-dual-evolution-golden-frieza-br-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 46.59
+        }
+      ]
     },
     {
       "id": 681998,
@@ -1651,7 +1656,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.23
+          "usd": 6.34
         }
       ]
     },
@@ -1729,7 +1734,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.35
+          "usd": 0.36
         }
       ]
     },
@@ -1745,7 +1750,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 16.32
+          "usd": 16.09
         }
       ]
     },
@@ -1760,7 +1765,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.16
+          "usd": 1.15
         }
       ]
     },
@@ -1823,7 +1828,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 89.34
+          "usd": 88.57
         }
       ]
     },
@@ -2086,7 +2091,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.61
+          "usd": 5.66
         }
       ]
     },
@@ -2129,7 +2134,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/682099_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682099/dragon-ball-super-fusion-world-dual-evolution-paikuhan-fb09-088",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.74
+        }
+      ]
     },
     {
       "id": 682100,
@@ -2143,7 +2153,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 22.34
+          "usd": 23.47
         }
       ]
     },
@@ -2174,7 +2184,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.1
+          "usd": 3.06
         }
       ]
     },
@@ -2190,7 +2200,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 14.01
+          "usd": 13.63
         }
       ]
     },
@@ -2205,7 +2215,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 8.28
+          "usd": 9.16
         }
       ]
     },
@@ -2221,7 +2231,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 16.61
+          "usd": 16.5
         }
       ]
     },
@@ -2298,7 +2308,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.89
+          "usd": 3.88
         }
       ]
     },
@@ -2345,7 +2355,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 2.34
+          "usd": 2.26
         }
       ]
     },
@@ -2376,7 +2386,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 36.73
+          "usd": 37.39
         }
       ]
     },
@@ -2423,7 +2433,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 24.67
+          "usd": 24.71
         }
       ]
     },
@@ -2465,7 +2475,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 22.66
+          "usd": 22.79
         }
       ]
     },
@@ -2497,5 +2507,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-23"
+  "pricesAt": "2026-10-24"
 }

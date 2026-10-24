@@ -49,7 +49,12 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715198_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715198/cyberpunk-tcg-box-toppers-retail-viktor-vektor-sit-down-and-relax",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25
+        }
+      ]
     },
     {
       "id": 715199,
@@ -62,5 +67,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-23"
+  "pricesAt": "2026-10-24"
 }

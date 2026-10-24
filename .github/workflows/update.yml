@@ -9,7 +9,7 @@ on:
   # une modification des scripts relance la chaîne aussitôt
   push:
     branches: [main]
-    paths: ["scripts/**", "!scripts/sealed-licences.mjs"]
+    paths: ["scripts/**", "!scripts/sealed-licences.mjs", "curated/**"]
 
 permissions:
   contents: write

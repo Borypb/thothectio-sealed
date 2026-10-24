@@ -8,6 +8,14 @@ import { fx } from "./fx.mjs";
 import { cards } from "./cards.mjs";
 import { pokemonVariants } from "./pokemon-variants.mjs";
 import { pokemonNames } from "./pokemon-names.mjs";
+import { curatedCards } from "./curated-cards.mjs";
+
+// cartes ajoutées à la main (curated/cards.json) : en premier, une erreur de saisie n'empêche pas le reste
+try {
+  await curatedCards();
+} catch (e) {
+  console.log(`::error title=Cartes ajoutées à la main::${e.message}`);
+}
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);

@@ -592,10 +592,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-21T14:14:08.983",
-          "count": 32,
+          "modifiedOn": "2026-10-23T20:22:02.407",
+          "count": 41,
           "file": "cards/digimon/24865.json",
-          "version": "9b333926d709"
+          "version": "0b46b958f27b"
         },
         {
           "groupId": 24635,
@@ -1842,5 +1842,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-24"
+  "updatedAt": "2026-10-25"
 }

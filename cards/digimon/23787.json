@@ -177,7 +177,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.34
+          "usd": 0.39
         }
       ]
     },
@@ -432,7 +432,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.39
+          "usd": 0.35
         }
       ]
     },
@@ -652,7 +652,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3
+          "usd": 2.96
         }
       ]
     },
@@ -712,7 +712,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.2
+          "usd": 1.73
         }
       ]
     },
@@ -770,7 +770,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/588281_200w.jpg",
       "url": "https://www.tcgplayer.com/product/588281/digimon-card-game-release-special-booster-20-celebration-event-cards-wizardmon-x-antibody",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.73
+        }
+      ]
     },
     {
       "id": 588282,
@@ -1030,5 +1035,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-24"
+  "pricesAt": "2026-10-25"
 }

@@ -39,7 +39,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715222_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715222/cyberpunk-tcg-embracing-power-retail-starter-deck-ruthless-lowlife",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
     },
     {
       "id": 715223,
@@ -202,5 +207,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-24"
+  "pricesAt": "2026-10-25"
 }

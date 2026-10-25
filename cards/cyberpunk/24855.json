@@ -31,7 +31,12 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715007_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715007/cyberpunk-tcg-welcome-to-night-city-retail-adam-smasher-ender-of-legends-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20
+        }
+      ]
     },
     {
       "id": 715008,
@@ -1445,5 +1450,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-24"
+  "pricesAt": "2026-10-25"
 }

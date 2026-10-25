@@ -315,6 +315,7 @@
       "name": "Surtr Brander",
       "number": "BT27-099 C",
       "rarity": "Common",
+      "type": "Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725252_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725252/digimon-card-game-ignition-of-x-surtr-brander",
       "prices": []
@@ -324,10 +325,102 @@
       "name": "Etemon",
       "number": "BT27-040 U",
       "rarity": "Uncommon",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725253_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725253/digimon-card-game-ignition-of-x-etemon",
       "prices": []
+    },
+    {
+      "id": 725870,
+      "name": "Pristimon",
+      "number": "BT27-056 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725870/digimon-card-game-ignition-of-x-pristimon",
+      "prices": []
+    },
+    {
+      "id": 725871,
+      "name": "Wolvermon",
+      "number": "BT27-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725871/digimon-card-game-ignition-of-x-wolvermon",
+      "prices": []
+    },
+    {
+      "id": 725872,
+      "name": "Bearcatmon",
+      "number": "BT27-064 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725872_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725872/digimon-card-game-ignition-of-x-bearcatmon",
+      "prices": []
+    },
+    {
+      "id": 725873,
+      "name": "Artiomon // Doom Buster",
+      "number": "BT27-067 SR",
+      "rarity": "Secret Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725873/digimon-card-game-ignition-of-x-artiomon-doom-buster",
+      "prices": []
+    },
+    {
+      "id": 725874,
+      "name": "Artiomon // Doom Buster",
+      "label": "Alternate Art",
+      "number": "BT27-067 SR",
+      "rarity": "Secret Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725874/digimon-card-game-ignition-of-x-artiomon-doom-buster-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 725875,
+      "name": "Ryudamon",
+      "number": "BT27-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725875/digimon-card-game-ignition-of-x-ryudamon",
+      "prices": []
+    },
+    {
+      "id": 725876,
+      "name": "Ginryumon",
+      "number": "BT27-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725876/digimon-card-game-ignition-of-x-ginryumon",
+      "prices": []
+    },
+    {
+      "id": 725877,
+      "name": "Hisyaryumon",
+      "number": "BT27-013 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725877/digimon-card-game-ignition-of-x-hisyaryumon",
+      "prices": []
+    },
+    {
+      "id": 725878,
+      "name": "Ouryumon",
+      "number": "BT27-015 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725878/digimon-card-game-ignition-of-x-ouryumon",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-24"
+  "pricesAt": "2026-10-25"
 }

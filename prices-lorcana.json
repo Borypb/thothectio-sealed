@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": {
     "lor-en-tcp559531": {
       "tp": {
@@ -9,7 +9,7 @@
     },
     "lor-en-tcp711071": {
       "tp": {
-        "market": 144.79,
+        "market": 142.31,
         "low": 125
       }
     },
@@ -93,25 +93,50 @@
     },
     "lor-en-tcp702474": {
       "tp": {
-        "market": 392.54,
+        "market": 390.66,
         "low": 350
       }
     },
     "lor-en-tcp712752": {
       "tp": {
-        "market": 186.61,
+        "market": 187.72,
         "low": 186.93
       }
     },
     "lor-en-tcp721004": {
       "tp": {
         "market": 89.99,
-        "low": 72
+        "low": 76.99
+      }
+    },
+    "lor-en-tcp722997": {
+      "tp": {
+        "market": 10,
+        "low": 4.65
+      }
+    },
+    "lor-en-tcp722998": {
+      "tp": {
+        "market": 7.25,
+        "low": 4.75
+      }
+    },
+    "lor-en-tcp722999": {
+      "tp": {
+        "market": 10,
+        "low": 4.6
       }
     },
     "lor-en-tcp723000": {
       "tp": {
-        "low": 14
+        "market": 9,
+        "low": 5.19
+      }
+    },
+    "lor-en-tcp723002": {
+      "tp": {
+        "market": 6.5,
+        "low": 4.65
       }
     },
     "lor-en-tcp516276": {
@@ -146,7 +171,7 @@
     },
     "lor-en-tcp516297": {
       "tp": {
-        "market": 6.37,
+        "market": 6.21,
         "low": 4.99
       }
     },
@@ -176,7 +201,7 @@
     },
     "lor-en-tcp531521": {
       "tp": {
-        "market": 124.91,
+        "market": 124.78,
         "low": 112
       }
     },
@@ -188,7 +213,7 @@
     },
     "lor-en-tcp531523": {
       "tp": {
-        "market": 5.3,
+        "market": 5.15,
         "low": 4.76
       }
     },
@@ -200,14 +225,14 @@
     },
     "lor-en-tcp531525": {
       "tp": {
-        "market": 32.68,
+        "market": 32.79,
         "low": 32.68
       }
     },
     "lor-en-tcp531526": {
       "tp": {
         "market": 7.5,
-        "low": 4.56
+        "low": 6.49
       }
     },
     "lor-en-tcp531527": {
@@ -248,14 +273,14 @@
     },
     "lor-en-tcp543859": {
       "tp": {
-        "market": 126.17,
+        "market": 126.73,
         "low": 120
       }
     },
     "lor-en-tcp543860": {
       "tp": {
         "market": 7.79,
-        "low": 5.99
+        "low": 6
       }
     },
     "lor-en-tcp543861": {
@@ -279,7 +304,7 @@
     "lor-en-tcp543884": {
       "tp": {
         "market": 43.38,
-        "low": 38.85
+        "low": 42.95
       }
     },
     "lor-en-tcp543885": {
@@ -366,6 +391,12 @@
         "low": 5
       }
     },
+    "lor-en-tcp690740": {
+      "tp": {
+        "market": 244.99,
+        "low": 400
+      }
+    },
     "lor-en-tcp578093": {
       "tp": {
         "market": 120.66,
@@ -374,7 +405,7 @@
     },
     "lor-en-tcp578094": {
       "tp": {
-        "market": 438.79,
+        "market": 442.44,
         "low": 527
       }
     },
@@ -428,13 +459,13 @@
     },
     "lor-en-tcp607758": {
       "tp": {
-        "market": 147.35,
+        "market": 147.37,
         "low": 134.99
       }
     },
     "lor-en-tcp607759": {
       "tp": {
-        "market": 570.05,
+        "market": 575.13,
         "low": 595
       }
     },
@@ -524,7 +555,7 @@
     },
     "lor-en-tcp623061": {
       "tp": {
-        "market": 49.9,
+        "market": 49.87,
         "low": 40
       }
     },
@@ -542,7 +573,7 @@
     },
     "lor-en-tcp623064": {
       "tp": {
-        "market": 155.27,
+        "market": 155.34,
         "low": 149.99
       }
     },
@@ -561,7 +592,7 @@
     "lor-en-tcp645298": {
       "tp": {
         "market": 826.51,
-        "low": 826.51
+        "low": 799
       }
     },
     "lor-en-tcp645299": {
@@ -573,7 +604,7 @@
     "lor-en-tcp645300": {
       "tp": {
         "market": 3361.75,
-        "low": 3740
+        "low": 3751
       }
     },
     "lor-en-tcp645305": {
@@ -584,13 +615,13 @@
     },
     "lor-en-tcp645306": {
       "tp": {
-        "market": 39.39,
+        "market": 39.36,
         "low": 39.97
       }
     },
     "lor-en-tcp645308": {
       "tp": {
-        "market": 37.74,
+        "market": 37.65,
         "low": 29.99
       }
     },
@@ -602,13 +633,13 @@
     },
     "lor-en-tcp646033": {
       "tp": {
-        "market": 107.8,
-        "low": 80
+        "market": 106.69,
+        "low": 94.8
       }
     },
     "lor-en-tcp649927": {
       "tp": {
-        "market": 29.58,
+        "market": 29.66,
         "low": 29.53
       }
     },
@@ -644,13 +675,13 @@
     },
     "lor-en-tcp652703": {
       "tp": {
-        "market": 217.47,
-        "low": 214.99
+        "market": 216.25,
+        "low": 207
       }
     },
     "lor-en-tcp652704": {
       "tp": {
-        "market": 891.24,
+        "market": 892.24,
         "low": 865
       }
     },
@@ -662,13 +693,13 @@
     },
     "lor-en-tcp652706": {
       "tp": {
-        "market": 15.02,
+        "market": 15.06,
         "low": 11.99
       }
     },
     "lor-en-tcp652707": {
       "tp": {
-        "market": 12.78,
+        "market": 12.8,
         "low": 11.75
       }
     },
@@ -692,7 +723,7 @@
     },
     "lor-en-tcp664819": {
       "tp": {
-        "market": 250.46,
+        "market": 251.24,
         "low": 244.85
       }
     },
@@ -704,14 +735,14 @@
     },
     "lor-en-tcp664821": {
       "tp": {
-        "market": 10.6,
+        "market": 10.62,
         "low": 8.39
       }
     },
     "lor-en-tcp664822": {
       "tp": {
         "market": 10.73,
-        "low": 18
+        "low": 13.01
       }
     },
     "lor-en-tcp664826": {
@@ -722,13 +753,13 @@
     },
     "lor-en-tcp668328": {
       "tp": {
-        "market": 25.22,
-        "low": 24.4
+        "market": 25.05,
+        "low": 24.3
       }
     },
     "lor-en-tcp668330": {
       "tp": {
-        "market": 40.15,
+        "market": 39.95,
         "low": 35
       }
     },
@@ -740,8 +771,8 @@
     },
     "lor-en-tcp678165": {
       "tp": {
-        "market": 226.1,
-        "low": 226.1
+        "market": 226.86,
+        "low": 226.34
       }
     },
     "lor-en-tcp678166": {
@@ -752,14 +783,14 @@
     },
     "lor-en-tcp678167": {
       "tp": {
-        "market": 9.57,
+        "market": 9.49,
         "low": 6.5
       }
     },
     "lor-en-tcp678168": {
       "tp": {
-        "market": 100.36,
-        "low": 95.61
+        "market": 100.68,
+        "low": 95.99
       }
     },
     "lor-en-tcp680711": {
@@ -800,25 +831,25 @@
     },
     "lor-en-tcp719823": {
       "tp": {
-        "market": 70,
+        "market": 70.22,
         "low": 64.99
       }
     },
     "lor-en-tcp690384": {
       "tp": {
-        "market": 176.8,
-        "low": 171
+        "market": 177.95,
+        "low": 179.98
       }
     },
     "lor-en-tcp690385": {
       "tp": {
-        "market": 777.39,
-        "low": 773.98
+        "market": 776.75,
+        "low": 774.99
       }
     },
     "lor-en-tcp690386": {
       "tp": {
-        "market": 9.08,
+        "market": 9.06,
         "low": 7.5
       }
     },
@@ -830,14 +861,14 @@
     },
     "lor-en-tcp690388": {
       "tp": {
-        "market": 79.11,
-        "low": 79.99
+        "market": 78.64,
+        "low": 70
       }
     },
     "lor-en-tcp690389": {
       "tp": {
-        "market": 58.45,
-        "low": 56.85
+        "market": 58.67,
+        "low": 63.6
       }
     },
     "lor-en-tcp693924": {
@@ -848,8 +879,8 @@
     },
     "lor-en-tcp696136": {
       "tp": {
-        "market": 37.92,
-        "low": 35
+        "market": 38.05,
+        "low": 29.99
       }
     },
     "lor-en-tcp705926": {
@@ -860,74 +891,74 @@
     },
     "lor-en-tcp701135": {
       "tp": {
-        "market": 38.18,
+        "market": 38.43,
         "low": 36
       }
     },
     "lor-en-tcp706239": {
       "tp": {
-        "market": 152.43,
-        "low": 144
+        "market": 150.45,
+        "low": 140
       }
     },
     "lor-en-tcp706240": {
       "tp": {
-        "market": 630.94,
-        "low": 599.99
+        "market": 620.93,
+        "low": 598.01
       }
     },
     "lor-en-tcp706241": {
       "tp": {
-        "market": 11.99,
+        "market": 10.96,
         "low": 6.99
       }
     },
     "lor-en-tcp706242": {
       "tp": {
         "market": 12.99,
-        "low": 10.74
+        "low": 6.98
       }
     },
     "lor-en-tcp706243": {
       "tp": {
-        "market": 71.98,
-        "low": 69.99
+        "market": 76.91,
+        "low": 70
       }
     },
     "lor-en-tcp706244": {
       "tp": {
         "market": 404.55,
-        "low": 368.83
+        "low": 358.75
       }
     },
     "lor-en-tcp706245": {
       "tp": {
-        "market": 43.44,
-        "low": 38.47
+        "market": 44.35,
+        "low": 40
       }
     },
     "lor-en-tcp706246": {
       "tp": {
-        "market": 823.2,
-        "low": 644.99
+        "market": 784.33,
+        "low": 590
       }
     },
     "lor-en-tcp717854": {
       "tp": {
-        "market": 30.88,
-        "low": 24.99
+        "market": 29.46,
+        "low": 23.99
       }
     },
     "lor-en-tcp717855": {
       "tp": {
         "market": 159.99,
-        "low": 109
+        "low": 108
       }
     },
     "lor-en-tcp719729": {
       "tp": {
         "market": 69.3,
-        "low": 69.16
+        "low": 69.15
       }
     },
     "lor-en-tcp723333": {
@@ -942,11 +973,13 @@
     },
     "lor-en-tcp723337": {
       "tp": {
-        "low": 999.69
+        "market": 999.99,
+        "low": 899
       }
     },
     "lor-en-tcp723343": {
       "tp": {
+        "market": 99.99,
         "low": 99.69
       }
     }

@@ -72,7 +72,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.16
+          "usd": 0.15
         }
       ]
     },
@@ -147,7 +147,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.24
+          "usd": 0.23
         }
       ]
     },
@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.25
+          "usd": 0.24
         }
       ]
     },
@@ -312,7 +312,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.2
+          "usd": 0.19
         }
       ]
     },
@@ -417,7 +417,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.43
+          "usd": 4.3
         }
       ]
     },
@@ -507,7 +507,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -792,7 +792,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.09
         }
       ]
     },
@@ -822,7 +822,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.32
+          "usd": 0.31
         }
       ]
     },
@@ -882,7 +882,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.12
+          "usd": 0.11
         }
       ]
     },
@@ -912,7 +912,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.95
+          "usd": 1.93
         }
       ]
     },
@@ -928,7 +928,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.22
+          "usd": 5.28
         }
       ]
     },
@@ -958,7 +958,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -1018,7 +1018,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.09
         }
       ]
     },
@@ -1079,7 +1079,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.87
+          "usd": 5.83
         }
       ]
     },
@@ -1207,7 +1207,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12.12
+          "usd": 11.96
         }
       ]
     },
@@ -1268,7 +1268,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 17.65
+          "usd": 17.68
         }
       ]
     },
@@ -1523,7 +1523,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 21.02
+          "usd": 21.87
         }
       ]
     },
@@ -1651,7 +1651,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.75
+          "usd": 6.66
         }
       ]
     },
@@ -1696,12 +1696,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/652694_200w.jpg",
       "url": "https://www.tcgplayer.com/product/652694/digimon-card-game-sinister-order-skullknightmon-limited-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 2.18
-        }
-      ]
+      "prices": []
     },
     {
       "id": 652696,
@@ -1859,7 +1854,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 18.35
+          "usd": 17.97
         }
       ]
     },
@@ -2190,7 +2185,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.3
+          "usd": 0.25
         }
       ]
     },
@@ -2206,5 +2201,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-25"
+  "pricesAt": "2026-10-26"
 }

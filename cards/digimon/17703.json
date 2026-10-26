@@ -117,7 +117,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.43
+          "usd": 2.47
         }
       ]
     },
@@ -177,7 +177,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.63
+          "usd": 2.65
         }
       ]
     },
@@ -478,7 +478,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/564268_200w.jpg",
       "url": "https://www.tcgplayer.com/product/564268/digimon-card-game-starter-deck-14-beelzemon-advanced-deck-set-beelzemon-blast-mode-digimon-3-on-3-champion",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 249.84
+        }
+      ]
     },
     {
       "id": 619050,
@@ -529,5 +534,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-25"
+  "pricesAt": "2026-10-26"
 }

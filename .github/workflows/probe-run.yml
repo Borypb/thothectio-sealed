@@ -1,0 +1,23 @@
+name: probe-run
+on:
+  push:
+    branches: [probe-run]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: |
+          (node scripts/pokemon-prices.mjs; node scripts/cardmarket-prices.mjs; node scripts/onepiece-prices.mjs) 2>&1 | tee log.txt
+      - run: |
+          mkdir out && cp log.txt cards/pokemon-prices.json cards/cardmarket-*.json cards/onepiece-tcgplayer.json out/ && cd out
+          git init -q && git checkout -q -b probe-run-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-run-out

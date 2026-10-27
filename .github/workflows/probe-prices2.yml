@@ -1,0 +1,22 @@
+name: probe-prices2
+on:
+  push:
+    branches: [probe-prices2]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/pokemon-prices.mjs 2>&1 | tee log.txt
+      - run: |
+          mkdir out && cp cards/pokemon-prices.json log.txt out/ && cd out
+          git init -q && git checkout -q -b probe-prices2-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-prices2-out

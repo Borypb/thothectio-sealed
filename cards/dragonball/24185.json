@@ -13,7 +13,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.2
+          "usd": 5.2,
+          "low": 4,
+          "mid": 6.75
         }
       ]
     },
@@ -29,7 +31,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 31.3
+          "usd": 31.3,
+          "low": 29.29,
+          "mid": 34.99
         }
       ]
     }

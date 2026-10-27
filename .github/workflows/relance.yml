@@ -1,0 +1,79 @@
+name: Relance après échec
+
+# Une tâche du robot a échoué (site source injoignable, panne passagère de GitHub…) : ses étapes en échec
+# sont relancées 15 min plus tard, puis, si elles échouent encore, 1 h après le premier échec.
+# Deux essais au plus, et seulement après l'échec d'une première passe (programmée, à la demande ou après
+# une modification) : une relance n'est jamais relancée, il n'y a pas de boucle possible.
+# Gratuit (dépôt public) et sans intervention : tout se passe sur GitHub.
+# GitHub ne déclenche « workflow_run » que pour les workflows de la branche principale.
+on:
+  workflow_run:
+    workflows:
+      - "Mise à jour du catalogue"
+      - "Cartes japonaises officielles"
+      - "Cartes officielles (Digimon, Dragon Ball)"
+      - "Coffrets des autres licences"
+      - "Index du scan à l'image"
+    types: [completed]
+
+permissions:
+  actions: write
+  contents: read
+
+# une seule relance à la fois par tâche
+concurrency:
+  group: relance-${{ github.event.workflow_run.workflow_id }}
+  cancel-in-progress: false
+
+jobs:
+  relance:
+    if: github.event.workflow_run.conclusion == 'failure' && github.event.workflow_run.run_attempt == 1
+    runs-on: ubuntu-latest
+    # l'index du scan peut tourner plusieurs heures : on le suit jusqu'au bout, dans la limite de GitHub
+    timeout-minutes: 355
+    steps:
+      - name: Relancer (15 min puis 1 h après l'échec)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RUN: ${{ github.event.workflow_run.id }}
+          NAME: ${{ github.event.workflow_run.name }}
+          URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          set -u
+          debut=$(date +%s)
+          # attend jusqu'à N secondes après l'échec (rien si c'est déjà passé)
+          attendre() {
+            local reste=$(( debut + $1 - $(date +%s) ))
+            if [ "$reste" -gt 0 ]; then
+              echo "Attente de $(( (reste + 59) / 60 )) min."
+              sleep "$reste"
+            fi
+          }
+          echo "Échec de « $NAME » : $URL"
+          for essai in 1 2; do
+            if [ "$essai" = 1 ]; then attendre 900; else attendre 3600; fi
+            echo "Relance n° $essai des étapes en échec."
+            if ! gh run rerun "$RUN" --failed -R "$REPO"; then
+              echo "::error::GitHub a refusé la relance de « $NAME »."
+              exit 1
+            fi
+            # la relance démarre (ou attend son tour derrière les autres tâches du robot) : on suit son état
+            sleep 60
+            while :; do
+              etat=$(gh run view "$RUN" -R "$REPO" --json status,conclusion --jq '.status + " " + (.conclusion // "")' 2>/dev/null || echo "inconnu")
+              case "$etat" in
+                "completed success")
+                  echo "Relance n° $essai réussie."
+                  exit 0
+                  ;;
+                completed*)
+                  echo "Relance n° $essai en échec ($etat)."
+                  break
+                  ;;
+              esac
+              sleep 60
+            done
+          done
+          echo "::error::« $NAME » a encore échoué après deux relances ; prochain essai à la passe suivante."
+          exit 1

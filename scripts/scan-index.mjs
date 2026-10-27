@@ -35,6 +35,7 @@ import { join } from "node:path";
 import { UA, getJson, readJson } from "./lib.mjs";
 import { FP_VERSION, fingerprintPixels } from "./scan/fingerprint.mjs";
 import { selfTest } from "./scan/selftest.mjs";
+import { curatedScanEntries } from "./curated-cards.mjs";
 
 const OUT = process.env.SCAN_OUT ?? "scan-out";
 const BUDGET_MS = Number(process.env.SCAN_BUDGET_MIN ?? 300) * 60_000;
@@ -382,18 +383,24 @@ async function previous(oldIndex, name) {
 }
 
 let sharp;
-async function fingerprintImage(url, game) {
+async function fingerprintImage(url, game, photo = false) {
   const res = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(30_000) });
   if (!res.ok) throw Object.assign(new Error(`${res.status}`), { lasting: [403, 404, 410].includes(res.status) });
   const buf = Buffer.from(await res.arrayBuffer());
   // pixels tels que décodés, à la taille d'origine : comme l'app
   let decoded;
   try {
-    decoded = await sharp(buf, { failOn: "none" }).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+    // photo prise au téléphone : redressée selon son orientation EXIF, comme l'affiche l'app
+    const img = sharp(buf, { failOn: "none" });
+    decoded = await (photo ? img.rotate() : img).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
   } catch (e) {
     throw Object.assign(e, { lasting: true }); // fichier qui n'est pas une image lisible
   }
   const { data, info } = decoded;
+  // photo d'une carte ajoutée à la main : l'empreinte suppose une image recadrée au ras de la carte
+  if (photo && Math.abs(info.width / info.height - 63 / 88) > 0.04) {
+    console.log(`::warning title=Cartes ajoutées à la main::${url} : ${info.width} × ${info.height}, pas au format d'une carte (63 × 88). À recadrer au ras de la carte, sinon le scan la reconnaîtra mal.`);
+  }
   const fp = fingerprintPixels(data, info.width, info.height, game);
   const out = Buffer.alloc(ENTRY);
   for (let i = 0; i < 8; i++) out.writeUInt32LE(fp.full[i], i * 4);
@@ -457,6 +464,8 @@ async function main() {
       keepOld(`liste indisponible (${e.message})`);
       continue;
     }
+    // cartes ajoutées à la main (curated/cards.json), reconnues à partir de leur photo
+    entries = [...(await curatedScanEntries(f.game, f.lang).catch(() => [])), ...entries];
     // une adresse d'image = une entrée
     const seen = new Set();
     entries = entries.filter((e) => (seen.has(e.img) ? false : (seen.add(e.img), true)));
@@ -485,7 +494,7 @@ async function main() {
         const e = todo[next++];
         if (!e.hash) {
           try {
-            e.hash = await fingerprintImage(e.img, f.game);
+            e.hash = await fingerprintImage(e.img, f.game, String(e.key).startsWith("cur:"));
             delete failed[e.img];
           } catch (err) {
             // image absente ou illisible : mise de côté une semaine ; panne passagère (réseau, 5xx, 429) : réessayée à la passe suivante

@@ -12,6 +12,8 @@ pokemon-fr.json        # fichiers lus par l'app (générés, ne pas modifier à 
 pokemon-en.json
 pokemon-ja.json
 curated/               # catalogue vérifié à la main : prioritaire sur tout le reste
+                       #   (cards.json : cartes ajoutées à la main, voir plus bas)
+cards/curated.json     # ces cartes au format de l'app (généré)
 raw/                   # récolte brute (script 1)
 generated/             # produits déduits dans d'autres langues (script 2)
 review/                # produits que le script 2 n'a pas su traduire, à compléter à la main
@@ -44,7 +46,22 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
 5. **Taux de change** (`fx.mjs`) : taux de référence de la BCE (1 € = x devise) dans `fx.json`.
    L'app les prend d'abord chez Frankfurter (même source BCE) et se rabat sur ce fichier si besoin.
 
+6. **Cotes des cartes Pokémon que TCGdex ne cote pas** (`pokemon-prices.mjs`) : TCGdex lit le guide de prix
+   public de Cardmarket et les prix TCGplayer, mais seulement pour les cartes qu'il a reliées à un produit.
+   Les autres (promos Wizards, Black & White, Diamant et Perle, Nintendo, Shiny Vault de Destinées Occultes…)
+   n'ont pas de cote dans l'app. Le script les retrouve chaque nuit :
+   Cardmarket par le nom anglais et les attaques dans l'extension Cardmarket (« Arcanine [Quick Attack | Flames of Rage] »),
+   TCGplayer par le produit indiqué dans la fiche TCGdex, sinon par le numéro dans le groupe de l'extension.
+   Champs identiques à ceux de TCGdex (`pricing.cardmarket`, `pricing.tcgplayer`, sans le prix « haut » de TCGplayer,
+   qui est une annonce et pas une vente), dans `cards/pokemon-prices.json` :
+   `{ updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp } } } }`.
+
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
+
+**Relance après échec** (`.github/workflows/relance.yml`) : quand une tâche du robot échoue (site source
+injoignable, panne passagère), ses étapes en échec sont relancées 15 min plus tard, puis 1 h après le premier
+échec si besoin. Deux essais au plus, jamais de relance d'une relance : pas de boucle. Tout se passe sur GitHub,
+gratuitement (dépôt public). Les tâches tournent sous Node 24.
 
 ## Index du scan à l'image (branche `scan`)
 
@@ -81,6 +98,76 @@ français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld
 
 Essai local, sans réseau : `SCAN_LIST_FILE=liste.json SCAN_OUT=/tmp/scan node scripts/scan-index.mjs`
 (après `npm i --no-save sharp`), avec une liste `[{ "game", "lang", "entries": [{ "key", "img", "set"?, "rec"? }] }]`.
+
+## Cartes ajoutées à la main
+
+Pour les cartes qu'aucune source ne connaît (vieilles promos japonaises, Mew ancien en français, promos sans numéro…).
+On les décrit dans **`curated/cards.json`** ; à chaque modification poussée sur `main`, le robot vérifie le fichier et
+publie `cards/curated.json`, que l'app lit (une fois par jour au plus). Dans l'app, ces cartes apparaissent dans la
+recherche, dans leur extension (Licences) et dans la fiche, avec la mention « Carte ajoutée à la main ». Le scan à
+l'image les reconnaît à partir de la nuit suivante (index du scan), grâce à leur photo.
+
+Une erreur de saisie (champ obligatoire manquant, langue ou finition inconnue, identifiant en double) bloque ce
+fichier seulement : la version déjà publiée reste en place (le scan, lui, ignore ces cartes jusqu'à correction), le
+reste du catalogue se met à jour, et l'erreur est affichée dans le résumé de la tâche (onglet Actions).
+
+```json
+{
+  "photos": "Borypb/thothectio-photos",
+  "sets": [
+    { "id": "pkm-cur-jp-promos", "game": "pokemon", "name": "Promos japonaises anciennes", "series": "Promos", "releasedAt": "1997-01-01" }
+  ],
+  "cards": [
+    { "id": "ja-pikachu-corocoro", "game": "pokemon", "lang": "ja", "set": "pkm-cur-jp-promos",
+      "name": "ピカチュウ", "nameEn": "Pikachu", "finish": "holo", "tags": ["promo"], "label": "CoroCoro",
+      "photo": "pokemon/ja/pikachu-corocoro.jpg" },
+    { "id": "fr-mew-ancien", "game": "pokemon", "lang": "fr", "set": "pkm-basep", "setName": "Promos Wizards",
+      "name": "Mew ancien", "nameEn": "Ancient Mew", "finish": "holo", "tags": ["promo"],
+      "photo": "pokemon/fr/mew-ancien.jpg" }
+  ]
+}
+```
+
+**`sets`** : extensions créées pour ces cartes, quand aucune extension existante ne convient.
+
+| Champ | | |
+|---|---|---|
+| `id` | obligatoire | unique ; commence par le préfixe de la licence (`pkm-` pour Pokémon), par exemple `pkm-cur-…` |
+| `game` | obligatoire | `pokemon`, `onepiece`, `magic`, `yugioh`, `lorcana`, `digimon`, `dragonball`, `riftbound`, `palworld`, `cyberpunk` |
+| `name` | obligatoire | nom affiché |
+| `releasedAt`, `series`, `printedTotal` | facultatifs | date (AAAA-MM-JJ), série, nombre de cartes imprimé |
+
+**`cards`** : une ligne par impression (une même carte en holo et en normale = deux lignes).
+
+| Champ | | |
+|---|---|---|
+| `id` | obligatoire | unique, ne change plus ensuite (il sert d'identifiant à la carte dans les collections) |
+| `game`, `lang` | obligatoires | licence ; langue de la carte : `fr`, `en`, `ja`, `de`, `es`, `it`, `pt`, `ko`, `zh` (traditionnel), `zh-cn`, `nl`, `pl`, `ru`, `th`, `id` |
+| `set` | obligatoire | une extension de `sets`, ou une extension déjà connue de l'app (Pokémon : `pkm-` suivi de l'identifiant TCGdex, `pkm-basep` pour les promos Wizards) |
+| `setName` | conseillé si `set` existe déjà | nom de l'extension, affiché tant que l'app ne l'a pas en mémoire |
+| `name` | obligatoire | nom imprimé sur la carte |
+| `nameEn` | conseillé | nom anglais (la recherche le trouve aussi) |
+| `number` | si imprimé | numéro tel qu'imprimé ; sans numéro, laisser vide |
+| `finish` | facultatif | `normal` (par défaut), `holo`, `reverse`, `metal` |
+| `tags` | facultatif | `promo`, `stamped`, `first_edition`, `full_art`, `alt_art`, `special_alt`, `parallel`, `jumbo`, `master_ball`, `poke_ball`, `leader`, `manga`, `lucky` |
+| `label` | facultatif | mention courte affichée sur la carte (« CoroCoro », « Tampon Ligue »…) |
+| `rarity`, `releasedAt` | facultatifs | rareté, date de sortie (sinon celle de l'extension) |
+| `photo` | conseillé | chemin dans le dépôt `photos`, ou adresse complète d'une image |
+| `showPhoto` | facultatif | `false` : la photo sert au scan mais n'est pas affichée dans l'app |
+| `source`, `note` | facultatifs | d'où vient l'information (lien, référence) ; non publiés |
+
+**Photos** : dans un dépôt GitHub **public** à part (`photos`, par exemple `Borypb/thothectio-photos`), qu'on peut
+fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse la carte, la photo doit être :
+
+- **recadrée au ras de la carte**, sans fond autour (le robot prévient dans l'onglet Actions quand le format s'éloigne
+  de 63 × 88) ; le scanner de documents de l'iPhone (Notes ou Fichiers › Scanner des documents) recadre et redresse tout seul ;
+- **de face**, à plat, **hors sleeve**, sans reflet sur l'illustration, lumière du jour ;
+- au moins 600 pixels de haut, en JPEG, PNG ou WebP.
+
+Pour remplacer une photo, lui donner **un nouveau nom** : le robot garde l'empreinte d'une adresse déjà traitée.
+
+Le scan à l'image n'a d'index que pour Pokémon (15 langues), One Piece (anglais, japonais, français) et l'anglais des
+autres licences : ailleurs, la carte est dans la recherche et le catalogue, pas dans le scan.
 
 ## index.json
 

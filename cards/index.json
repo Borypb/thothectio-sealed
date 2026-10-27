@@ -522,11 +522,21 @@
       "category": "Palworld OFFICIAL CARD GAME",
       "sets": [
         {
+          "groupId": 24850,
+          "name": "BP02: Legends Awaken",
+          "code": "BP02",
+          "releasedAt": "2026-10-30",
+          "modifiedOn": "2026-10-26T19:21:18.673",
+          "count": 164,
+          "file": "cards/palworld/24850.json",
+          "version": "228b855fb834"
+        },
+        {
           "groupId": 24908,
           "name": "Sleeve and Card Set Vol. 1",
           "code": "ESS01",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-20T16:39:34.647",
+          "modifiedOn": "2026-10-26T19:22:00.43",
           "count": 10,
           "file": "cards/palworld/24908.json",
           "version": "bb4a02dbb90f"
@@ -536,17 +546,17 @@
           "name": "BP01: Dawn of Palpagos",
           "code": "BP01",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-23T18:14:52.397",
+          "modifiedOn": "2026-10-26T19:21:32.83",
           "count": 324,
           "file": "cards/palworld/24842.json",
-          "version": "00656d577725"
+          "version": "05c8c3208641"
         },
         {
           "groupId": 24851,
           "name": "Palworld Promo Cards",
           "code": "PR",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-19T15:11:54.24",
+          "modifiedOn": "2026-10-26T19:21:45.907",
           "count": 26,
           "file": "cards/palworld/24851.json",
           "version": "1bc2c1150b4d"
@@ -566,7 +576,7 @@
           "name": "TD01: Dawn of Palpagos Red•Blue",
           "code": "TD01",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-08T15:09:35.36",
+          "modifiedOn": "2026-10-26T19:22:10.103",
           "count": 39,
           "file": "cards/palworld/24843.json",
           "version": "d662dc11f40a"
@@ -576,7 +586,7 @@
           "name": "TD02: Dawn of Palpagos Green•Purple",
           "code": "TD02",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-08T15:09:38.257",
+          "modifiedOn": "2026-10-26T19:22:15.62",
           "count": 38,
           "file": "cards/palworld/24844.json",
           "version": "4436028825ea"
@@ -592,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-23T20:22:02.407",
-          "count": 41,
+          "modifiedOn": "2026-10-26T15:50:59.75",
+          "count": 54,
           "file": "cards/digimon/24865.json",
-          "version": "0b46b958f27b"
+          "version": "e743347dd0a5"
         },
         {
           "groupId": 24635,
@@ -1637,7 +1647,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-10-22T19:59:48.717",
+          "modifiedOn": "2026-10-26T16:36:17.453",
           "count": 308,
           "file": "cards/riftbound/24560.json",
           "version": "3b6140146afd"
@@ -1687,7 +1697,7 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-23T16:57:12.443",
+          "modifiedOn": "2026-10-26T19:46:37.26",
           "count": 241,
           "file": "cards/riftbound/24528.json",
           "version": "5aebb7a43fb7"
@@ -1842,5 +1852,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-26"
+  "updatedAt": "2026-10-27"
 }

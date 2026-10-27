@@ -146,7 +146,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.2
+          "usd": 0.19
         }
       ]
     },
@@ -191,7 +191,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.15
+          "usd": 0.14
         }
       ]
     },
@@ -236,7 +236,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.43
+          "usd": 3.44
         }
       ]
     },
@@ -266,7 +266,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.9
+          "usd": 0.91
         }
       ]
     },
@@ -281,7 +281,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.44
+          "usd": 0.48
         }
       ]
     },
@@ -311,7 +311,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.35
+          "usd": 0.34
         }
       ]
     },
@@ -521,7 +521,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.1
+          "usd": 1.11
         }
       ]
     },
@@ -626,7 +626,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.15
+          "usd": 0.16
         }
       ]
     },
@@ -671,7 +671,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.18
+          "usd": 0.19
         }
       ]
     },
@@ -791,7 +791,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 12.61
+          "usd": 12.62
         }
       ]
     },
@@ -806,7 +806,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.41
+          "usd": 4.34
         }
       ]
     },
@@ -821,7 +821,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 10.12
+          "usd": 10.24
         }
       ]
     },
@@ -836,7 +836,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.74
+          "usd": 0.68
         }
       ]
     },
@@ -896,7 +896,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.19
+          "usd": 0.18
         }
       ]
     },
@@ -911,7 +911,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.18
+          "usd": 0.17
         }
       ]
     },
@@ -1091,7 +1091,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.24
+          "usd": 0.23
         }
       ]
     },
@@ -1436,7 +1436,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.34
+          "usd": 0.35
         }
       ]
     },
@@ -1451,7 +1451,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.21
+          "usd": 0.22
         }
       ]
     },
@@ -1466,7 +1466,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.19
+          "usd": 0.18
         }
       ]
     },
@@ -1561,7 +1561,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 147.06
+          "usd": 150.34
         }
       ]
     },
@@ -1828,7 +1828,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/660107_200w.jpg",
       "url": "https://www.tcgplayer.com/product/660107/dragon-ball-super-fusion-world-manga-booster-02-son-gohan-childhood-fb01-140",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2000
+        }
+      ]
     },
     {
       "id": 660108,
@@ -1947,7 +1952,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.14
+          "usd": 0.16
         }
       ]
     },
@@ -1962,7 +1967,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -2009,7 +2014,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 237.26
+          "usd": 250.29
         }
       ]
     },
@@ -2025,7 +2030,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 185.96
+          "usd": 191.33
         }
       ]
     },
@@ -2056,5 +2061,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-26"
+  "pricesAt": "2026-10-27"
 }

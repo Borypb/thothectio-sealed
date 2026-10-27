@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-26T09:23:39.707Z",
+  "harvestedAt": "2026-10-27T09:22:11.185Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -1052,7 +1052,7 @@
     "1387": {
       "name": "XY Base Set",
       "abbreviation": "XY",
-      "modifiedOn": "2026-08-05T21:48:06.933",
+      "modifiedOn": "2026-10-26T13:57:17.783",
       "publishedOn": "2014-02-05",
       "setCode": "xy1",
       "products": [
@@ -1247,14 +1247,6 @@
           "releasedOn": "2014-02-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/97748_200w.jpg",
           "url": "https://www.tcgplayer.com/product/97748/pokemon-xy-base-set-xy-elite-trainer-box-yveltal"
-        },
-        {
-          "tcgplayerId": 276589,
-          "name": "XY Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2014-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276589_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276589/pokemon-xy-base-set-xy-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 562107,
@@ -3554,7 +3546,7 @@
     "1494": {
       "name": "XY - Phantom Forces",
       "abbreviation": "PHF",
-      "modifiedOn": "2026-10-22T18:27:29.36",
+      "modifiedOn": "2026-10-26T13:54:54.053",
       "publishedOn": "2014-11-05",
       "setCode": "xy4",
       "products": [
@@ -4668,7 +4660,7 @@
     "1663": {
       "name": "Base Set (Shadowless)",
       "abbreviation": "BSS",
-      "modifiedOn": "2026-10-02T23:10:07.707",
+      "modifiedOn": "2026-10-26T13:55:46.507",
       "publishedOn": "1999-01-09",
       "setCode": "base1",
       "products": [
@@ -8107,7 +8099,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-22T02:02:42.583",
+      "modifiedOn": "2026-10-26T13:27:34.15",
       "products": [
         {
           "tcgplayerId": 179376,

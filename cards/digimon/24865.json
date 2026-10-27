@@ -420,7 +420,137 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725878_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725878/digimon-card-game-ignition-of-x-ouryumon",
       "prices": []
+    },
+    {
+      "id": 725891,
+      "name": "Yuji Musya",
+      "number": "BT27-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725891/digimon-card-game-ignition-of-x-yuji-musya",
+      "prices": []
+    },
+    {
+      "id": 725895,
+      "name": "Keenan Crier",
+      "number": "BT27-096 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725895/digimon-card-game-ignition-of-x-keenan-crier",
+      "prices": []
+    },
+    {
+      "id": 725896,
+      "name": "Silver-Winged Yaksha",
+      "number": "BT27-101 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725896/digimon-card-game-ignition-of-x-silver-winged-yaksha",
+      "prices": []
+    },
+    {
+      "id": 725897,
+      "name": "Falcomon",
+      "number": "BT27-074 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725897/digimon-card-game-ignition-of-x-falcomon",
+      "prices": []
+    },
+    {
+      "id": 725898,
+      "name": "Peckmon",
+      "number": "BT27-078 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725898/digimon-card-game-ignition-of-x-peckmon",
+      "prices": []
+    },
+    {
+      "id": 725901,
+      "name": "Crowmon",
+      "number": "BT27-081 U",
+      "rarity": "Uncommon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725901/digimon-card-game-ignition-of-x-crowmon",
+      "prices": []
+    },
+    {
+      "id": 725902,
+      "name": "Ravemon // Ame-no-Ohabari",
+      "number": "BT27-083 R",
+      "rarity": "Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725902/digimon-card-game-ignition-of-x-ravemon-ame-no-ohabari",
+      "prices": []
+    },
+    {
+      "id": 725903,
+      "name": "Ravemon: Burst Mode // Mourning Dance",
+      "number": "BT27-085 UR",
+      "rarity": "Ultimate Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725903/digimon-card-game-ignition-of-x-ravemon-burst-mode-mourning-dance",
+      "prices": []
+    },
+    {
+      "id": 725904,
+      "name": "Ravemon: Burst Mode // Mourning Dance",
+      "label": "Alternate Art",
+      "number": "BT27-085 UR",
+      "rarity": "Ultimate Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725904/digimon-card-game-ignition-of-x-ravemon-burst-mode-mourning-dance-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 725905,
+      "name": "Kapurimon",
+      "number": "BT27-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725905/digimon-card-game-ignition-of-x-kapurimon",
+      "prices": []
+    },
+    {
+      "id": 725906,
+      "name": "PawnChessmon",
+      "number": "BT27-036 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725906/digimon-card-game-ignition-of-x-pawnchessmon",
+      "prices": []
+    },
+    {
+      "id": 725907,
+      "name": "KnightChessmon",
+      "number": "BT27-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725907/digimon-card-game-ignition-of-x-knightchessmon",
+      "prices": []
+    },
+    {
+      "id": 725908,
+      "name": "BishopChessmon",
+      "number": "BT27-041 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/725908/digimon-card-game-ignition-of-x-bishopchessmon",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-26"
+  "pricesAt": "2026-10-27"
 }

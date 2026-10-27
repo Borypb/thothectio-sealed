@@ -54,7 +54,25 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
    TCGplayer par le produit indiqué dans la fiche TCGdex, sinon par le numéro dans le groupe de l'extension.
    Champs identiques à ceux de TCGdex (`pricing.cardmarket`, `pricing.tcgplayer`, sans le prix « haut » de TCGplayer,
    qui est une annonce et pas une vente), dans `cards/pokemon-prices.json` :
-   `{ updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp } } } }`.
+   `{ updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix } } } }`.
+   Il corrige aussi les liens faux de TCGdex (cartes interverties ou décalées d'un numéro) : quand la fiche Cardmarket
+   indiquée par TCGdex n'a pas les attaques de la carte et qu'une fiche de la même extension a exactement son nom et
+   ses attaques, sa cote est publiée avec `fix: 1` et l'app la préfère (705 cartes le 27/10).
+
+7. **Cotes Cardmarket des autres licences** (`cardmarket-prices.mjs`) : Lorcana (cartes de Lorcast), Riftbound et
+   Cyberpunk (catalogue TCGplayer de `cards/`), retrouvées dans le guide de prix public de Cardmarket par leur nom dans
+   leur extension. Une extension Cardmarket est attribuée à une extension de l'app si elle contient au moins 60 % de
+   ses cartes, avec une nette avance sur la suivante. Cartes de même nom (enchantées, versions alternatives) : dans
+   l'ordre des numéros. Pas One Piece, Digimon ni Dragon Ball Fusion World : Cardmarket y sépare éditions anglaise et
+   japonaise sans dire laquelle est laquelle. Sortie : `cards/cardmarket-<licence>.json`
+   (`{ updatedAt, cardmarketAt, fields, cards: { <produit TCGplayer ou « extension:numéro »>: [valeurs] } }`).
+
+8. **Cotes One Piece** (`onepiece-prices.mjs`) : prix TCGplayer (via TCGCSV) de la version normale (`std`), parallèle
+   (`p1`) et manga (`p2`) de chaque code dans son extension d'origine, quand elles sont sans ambiguïté.
+   Sortie : `cards/onepiece-tcgplayer.json` (`{ updatedAt, cards: { "OP01-120|p1": [{ sub, usd, low, mid }] } }`).
+
+Les catalogues TCGplayer de `cards/<licence>/` gardent aussi, pour chaque finition, le prix bas (`low`) et le prix
+médian des annonces (`mid`) en plus du prix du marché (`usd`), pour la fenêtre « Détail des prix » de l'app.
 
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 

@@ -8,6 +8,8 @@ import { fx } from "./fx.mjs";
 import { cards } from "./cards.mjs";
 import { pokemonVariants } from "./pokemon-variants.mjs";
 import { pokemonPrices } from "./pokemon-prices.mjs";
+import { cardmarketPrices } from "./cardmarket-prices.mjs";
+import { onePiecePrices } from "./onepiece-prices.mjs";
 import { pokemonNames } from "./pokemon-names.mjs";
 import { curatedCards } from "./curated-cards.mjs";
 
@@ -56,6 +58,17 @@ try {
   await pokemonPrices();
 } catch (e) {
   console.warn("Cotes des cartes Pokémon indisponibles :", e.message);
+}
+// cotes Cardmarket des autres licences (Lorcana, Riftbound, Cyberpunk) et cotes TCGplayer de One Piece
+try {
+  await cardmarketPrices();
+} catch (e) {
+  console.warn("Cotes Cardmarket des autres licences indisponibles :", e.message);
+}
+try {
+  await onePiecePrices();
+} catch (e) {
+  console.warn("Cotes One Piece indisponibles :", e.message);
 }
 // noms des Pokémon dans toutes les langues (recherche d'une langue à l'autre)
 try {

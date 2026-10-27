@@ -10,7 +10,9 @@
 //    dans le groupe de l'extension ; prix bas, milieu et marché par version (en $). Le prix « haut » est laissé de côté :
 //    c'est l'annonce la plus chère en ligne, pas une vente.
 // Les champs reprennent ceux de TCGdex (`pricing.cardmarket`, `pricing.tcgplayer`) : l'app les lit de la même façon.
-// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp } } } }
+// Corrige aussi les liens faux de TCGdex : quand la fiche Cardmarket qu'il indique n'a pas les attaques de la carte et
+// qu'une fiche de la même extension a exactement son nom et ses attaques, sa cote est publiée avec « fix: 1 ».
+// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix } } } }
 // Éditions internationales seulement (dossier data/ de TCGdex, sans TCG Pocket).
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
@@ -301,7 +303,14 @@ export async function pokemonPrices() {
   const out = {};
   let withCm = 0;
   let withTp = 0;
-  for (const s of todo) {
+  let fixed = 0;
+  // liens faux de TCGdex : la fiche Cardmarket qu'il indique n'a pas les attaques de la carte, alors qu'une fiche
+  // de la même extension a exactement son nom et ses attaques (cartes interverties, décalées d'un numéro…)
+  const keyOf = new Map(cm.products.map((p) => [p.idProduct, cmKey(p.name)]));
+  const sameKey = (a, b) => a && b && a.name === b.name && a.moves === b.moves;
+  const wrongLink = (c) => c.cm.length && c.cm.every((id) => keyOf.has(id) && !sameKey(keyOf.get(id), cardKey(c)));
+  const work = sets.filter((s) => todo.includes(s) || (expOf.has(s.id) && s.cards.some(wrongLink)));
+  for (const s of work) {
     const cmIds = expOf.has(s.id) ? matchCardmarket(s, expOf.get(s.id), cm.products) : new Map();
     for (const c of s.cards) {
       const entry = {};
@@ -312,8 +321,16 @@ export async function pokemonPrices() {
           entry.cm = prices;
           withCm++;
         }
+      } else if (wrongLink(c) && sameKey(keyOf.get(cmIds.get(c.number)), cardKey(c))) {
+        const prices = cmPrices(guide.get(cmIds.get(c.number)) ?? {});
+        if (prices) {
+          // l'app préfère cette cote à celle de TCGdex
+          entry.cm = prices;
+          entry.fix = 1;
+          fixed++;
+        }
       }
-      if (needsTp(s, c)) {
+      if (todo.includes(s) && needsTp(s, c)) {
         let pid = c.tp[0];
         if (!pid && groupOf.has(s.id)) {
           // même numéro dans le groupe ; plusieurs produits : celui dont le nom commence par celui de la carte
@@ -338,7 +355,8 @@ export async function pokemonPrices() {
   const missing = todo.reduce((n, s) => n + s.cards.filter((c) => needsCm(c) || needsTp(s, c)).length, 0);
   console.log(
     `cotes Pokémon : ${total} cartes chez TCGdex, ${missing} sans cote complète chez lui ; ` +
-      `comblées : ${withCm} en € (${guessed} extensions Cardmarket retrouvées par les cartes), ${withTp} en $ ` +
+      `comblées : ${withCm} en € (${guessed} extensions Cardmarket retrouvées par les cartes), ${withTp} en $ ; ` +
+      `${fixed} liens Cardmarket faux de TCGdex corrigés ` +
       `(${tcgdexGroups.size} groupes TCGplayer chez TCGdex)`
   );
   return out;

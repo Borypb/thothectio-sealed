@@ -144,13 +144,17 @@ export async function cards() {
         };
       }
       if (!data.cards.length) continue;
-      // cotes du jour : une ligne par finition (Normal, Foil…)
+      // cotes du jour : une ligne par finition (Normal, Foil…). usd : prix du marché (ventes), sinon milieu, sinon bas ;
+      // low / mid : annonce la moins chère et prix médian des annonces en cours (détail des prix dans l'app).
+      // Pas de prix « haut » : c'est l'annonce la plus chère, pas une vente.
       try {
         const prices = (await getJson(`${TCGCSV}/${cat.categoryId}/${g.groupId}/prices`, { delay: 150 })).results ?? [];
         const by = new Map();
+        const cents = (n) => (typeof n === "number" && n > 0 ? Math.round(n * 100) / 100 : undefined);
         for (const r of prices) {
           const v = r.marketPrice ?? r.midPrice ?? r.lowPrice;
-          by.set(r.productId, [...(by.get(r.productId) ?? []), { sub: r.subTypeName, usd: v ?? null }]);
+          const row = { sub: r.subTypeName, usd: v ?? null, low: cents(r.lowPrice), mid: cents(r.midPrice) };
+          by.set(r.productId, [...(by.get(r.productId) ?? []), row]);
         }
         for (const c of data.cards) c.prices = by.get(c.id) ?? [];
         data.pricesAt = new Date().toISOString().slice(0, 10);

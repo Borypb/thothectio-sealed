@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-10-26T10:15:14.927Z",
+  "harvestedAt": "2026-10-27T09:53:04.143Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -5343,7 +5343,7 @@
     "116": {
       "name": "Urza's Destiny",
       "abbreviation": "UDS",
-      "modifiedOn": "2026-09-18T12:55:35.063",
+      "modifiedOn": "2026-10-26T13:04:48.93",
       "publishedOn": "1999-06-07",
       "setId": "mtg-uds",
       "products": [
@@ -8441,7 +8441,7 @@
     "1512": {
       "name": "Magic Origins",
       "abbreviation": "ORI",
-      "modifiedOn": "2026-09-11T23:50:35.927",
+      "modifiedOn": "2026-10-26T12:57:59.78",
       "publishedOn": "2015-07-17",
       "setId": "mtg-ori",
       "products": [
@@ -9688,7 +9688,7 @@
     "1874": {
       "name": "Launch Party & Release Event Promos",
       "abbreviation": "LARP",
-      "modifiedOn": "2026-10-21T20:56:25.913",
+      "modifiedOn": "2026-10-26T19:13:34.89",
       "products": []
     },
     "1879": {
@@ -11901,7 +11901,7 @@
     "2376": {
       "name": "MagicFest Cards",
       "abbreviation": "MFP",
-      "modifiedOn": "2026-10-22T12:38:37.767",
+      "modifiedOn": "2026-10-26T19:33:41.11",
       "products": []
     },
     "2379": {
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-10-22T02:15:06.723",
+      "modifiedOn": "2026-10-26T15:48:33.017",
       "setId": "mtg-sld",
       "products": [
         {
@@ -20709,6 +20709,62 @@
           "releasedOn": "2026-10-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
           "url": "https://www.tcgplayer.com/product/722935/magic-secret-lair-drop-series-secret-lair-drop-secret-gallery-atlanta-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 723365,
+          "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle - Bundle Everything Edition",
+          "kind": "bundle",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723365_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723365/magic-secret-lair-drop-series-secret-lair-chaos-vault-reality-fracture-secret-lair-bundle-bundle-everything-edition"
+        },
+        {
+          "tcgplayerId": 723366,
+          "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle Bundle - Non-Foil Edition",
+          "kind": "bundle",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723366_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723366/magic-secret-lair-drop-series-secret-lair-chaos-vault-reality-fracture-secret-lair-bundle-bundle-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 723367,
+          "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle Bundle - Foil Edition",
+          "kind": "bundle",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723367_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723367/magic-secret-lair-drop-series-secret-lair-chaos-vault-reality-fracture-secret-lair-bundle-bundle-foil-edition"
+        },
+        {
+          "tcgplayerId": 723368,
+          "name": "Secret Lair Drop: Strange School - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723368_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723368/magic-secret-lair-drop-series-secret-lair-drop-strange-school-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 723369,
+          "name": "Secret Lair Drop: Strange School - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723369_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723369/magic-secret-lair-drop-series-secret-lair-drop-strange-school-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 723370,
+          "name": "Secret Lair Drop: Duality Distorted - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723370_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723370/magic-secret-lair-drop-series-secret-lair-drop-duality-distorted-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 723371,
+          "name": "Secret Lair Drop: Duality Distorted - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-11-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723371_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723371/magic-secret-lair-drop-series-secret-lair-drop-duality-distorted-traditional-foil-edition"
         }
       ]
     },
@@ -21632,7 +21688,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-10-22T19:54:40.313",
+      "modifiedOn": "2026-10-26T14:42:19.503",
       "products": []
     },
     "2716": {
@@ -23963,7 +24019,7 @@
     "3047": {
       "name": "Commander Legends: Battle for Baldur's Gate",
       "abbreviation": "CLB",
-      "modifiedOn": "2026-10-21T13:19:56.913",
+      "modifiedOn": "2026-10-26T13:09:58.71",
       "publishedOn": "2022-06-10",
       "setId": "mtg-clb",
       "products": [
@@ -24178,7 +24234,7 @@
     "3070": {
       "name": "Double Masters 2022",
       "abbreviation": "2X2",
-      "modifiedOn": "2026-10-01T05:23:06.06",
+      "modifiedOn": "2026-10-26T13:21:12.833",
       "publishedOn": "2022-07-08",
       "setId": "mtg-2x2",
       "products": [
@@ -25056,7 +25112,7 @@
     "17670": {
       "name": "Dominaria Remastered",
       "abbreviation": "DMR",
-      "modifiedOn": "2026-10-21T15:58:47.503",
+      "modifiedOn": "2026-10-26T13:13:02.957",
       "publishedOn": "2023-01-13",
       "setId": "mtg-dmr",
       "products": [
@@ -25113,7 +25169,7 @@
     "17684": {
       "name": "Phyrexia: All Will Be One",
       "abbreviation": "ONE",
-      "modifiedOn": "2026-10-23T13:53:25.593",
+      "modifiedOn": "2026-10-26T12:57:17.263",
       "publishedOn": "2023-02-03",
       "setId": "mtg-one",
       "products": [
@@ -25548,7 +25604,7 @@
     "22979": {
       "name": "Commander: March of the Machine",
       "abbreviation": "MOC",
-      "modifiedOn": "2026-10-07T17:03:46.963",
+      "modifiedOn": "2026-10-26T13:10:52.487",
       "publishedOn": "2023-04-21",
       "setId": "mtg-moc",
       "products": [
@@ -25966,7 +26022,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-10-15T19:59:59.567",
+      "modifiedOn": "2026-10-26T13:03:43.037",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -26095,14 +26151,14 @@
     "23025": {
       "name": "Un-Known Event Playtest Cards",
       "abbreviation": "UNK",
-      "modifiedOn": "2026-08-27T21:00:12.903",
+      "modifiedOn": "2026-10-26T12:42:48.82",
       "setId": "mtg-unk",
       "products": []
     },
     "23071": {
       "name": "Commander: The Lord of the Rings: Tales of Middle-earth",
       "abbreviation": "LTC",
-      "modifiedOn": "2026-10-21T13:32:50.613",
+      "modifiedOn": "2026-10-26T13:15:52.843",
       "publishedOn": "2023-06-23",
       "setId": "mtg-ltc",
       "products": [
@@ -26326,7 +26382,7 @@
     "23164": {
       "name": "Commander: Wilds of Eldraine",
       "abbreviation": "WOC",
-      "modifiedOn": "2026-10-05T14:36:30.217",
+      "modifiedOn": "2026-10-26T12:50:14.807",
       "publishedOn": "2023-09-08",
       "setId": "mtg-woc",
       "products": [
@@ -26492,7 +26548,7 @@
     "23312": {
       "name": "The Lost Caverns of Ixalan",
       "abbreviation": "LCI",
-      "modifiedOn": "2026-10-09T06:49:05.657",
+      "modifiedOn": "2026-10-26T13:22:37.423",
       "publishedOn": "2023-11-17",
       "setId": "mtg-lci",
       "products": [
@@ -26669,7 +26725,7 @@
     "23316": {
       "name": "Commander: The Lost Caverns of Ixalan",
       "abbreviation": "LCC",
-      "modifiedOn": "2026-10-21T13:23:12.373",
+      "modifiedOn": "2026-10-26T12:55:58.18",
       "publishedOn": "2023-11-17",
       "setId": "mtg-lcc",
       "products": [
@@ -27489,7 +27545,7 @@
     "23445": {
       "name": "Commander: Modern Horizons 3",
       "abbreviation": "M3C",
-      "modifiedOn": "2026-10-21T16:09:53.793",
+      "modifiedOn": "2026-10-26T13:18:25.037",
       "publishedOn": "2024-06-14",
       "setId": "mtg-m3c",
       "products": [
@@ -29092,7 +29148,7 @@
     "24220": {
       "name": "Commander: FINAL FANTASY",
       "abbreviation": "FIC",
-      "modifiedOn": "2026-10-15T19:40:37.403",
+      "modifiedOn": "2026-10-26T13:08:29.41",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fic",
       "products": [
@@ -29511,7 +29567,7 @@
     "24234": {
       "name": "Commander: Tarkir: Dragonstorm",
       "abbreviation": "TDC",
-      "modifiedOn": "2026-10-23T20:43:53.483",
+      "modifiedOn": "2026-10-26T12:55:07.66",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdc",
       "products": [
@@ -29608,7 +29664,7 @@
     "24236": {
       "name": "Commander: Edge of Eternities",
       "abbreviation": "EOC",
-      "modifiedOn": "2026-09-23T00:51:52.227",
+      "modifiedOn": "2026-10-26T12:52:27.193",
       "publishedOn": "2025-08-01",
       "setId": "mtg-eoc",
       "products": [
@@ -31276,7 +31332,7 @@
     "24661": {
       "name": "Promo Pack: Secrets of Strixhaven",
       "abbreviation": "PPSOS",
-      "modifiedOn": "2026-10-02T14:08:27.487",
+      "modifiedOn": "2026-10-26T12:42:35.153",
       "publishedOn": "2026-04-24",
       "products": [
         {
@@ -31492,7 +31548,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-10-23T13:58:52.527",
+      "modifiedOn": "2026-10-26T12:49:07.093",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -31596,7 +31652,7 @@
           "tcgplayerId": 692991,
           "name": "Reality Fracture - Secret Lair Bundle",
           "kind": "bundle",
-          "releasedOn": "2026-10-30",
+          "releasedOn": "2026-10-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692991_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692991/magic-reality-fracture-reality-fracture-secret-lair-bundle"
         },
@@ -31604,7 +31660,7 @@
           "tcgplayerId": 692992,
           "name": "Reality Fracture - Secret Lair Bundle Case",
           "kind": "case",
-          "releasedOn": "2026-10-30",
+          "releasedOn": "2026-10-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692992_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692992/magic-reality-fracture-reality-fracture-secret-lair-bundle-case"
         },
@@ -31676,7 +31732,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-10-23T18:07:12.093",
+      "modifiedOn": "2026-10-26T18:12:40.567",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [

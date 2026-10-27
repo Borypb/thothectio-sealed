@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -559,6 +559,111 @@
       }
     },
     {
+      "id": "mtg-en-tcp723365",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle - Bundle Everything Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723365_200w.jpg",
+      "source": {
+        "tcgplayer": 723365
+      }
+    },
+    {
+      "id": "mtg-en-tcp723366",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle Bundle - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723366_200w.jpg",
+      "source": {
+        "tcgplayer": 723366
+      }
+    },
+    {
+      "id": "mtg-en-tcp723367",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Chaos Vault: Reality Fracture Secret Lair Bundle Bundle - Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723367_200w.jpg",
+      "source": {
+        "tcgplayer": 723367
+      }
+    },
+    {
+      "id": "mtg-en-tcp723368",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Strange School - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723368_200w.jpg",
+      "source": {
+        "tcgplayer": 723368
+      }
+    },
+    {
+      "id": "mtg-en-tcp723369",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Strange School - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723369_200w.jpg",
+      "source": {
+        "tcgplayer": 723369
+      }
+    },
+    {
+      "id": "mtg-en-tcp723370",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Duality Distorted - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723370_200w.jpg",
+      "source": {
+        "tcgplayer": 723370
+      }
+    },
+    {
+      "id": "mtg-en-tcp723371",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Duality Distorted - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-11-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723371_200w.jpg",
+      "source": {
+        "tcgplayer": 723371
+      }
+    },
+    {
       "id": "mtg-en-tcp706136",
       "game": "magic",
       "kind": "booster",
@@ -882,7 +987,7 @@
       "setIds": [
         "mtg-fra"
       ],
-      "releasedAt": "2026-10-30",
+      "releasedAt": "2026-10-23",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/692991_200w.jpg",
       "source": {
         "tcgplayer": 692991

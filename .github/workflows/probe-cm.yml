@@ -1,0 +1,21 @@
+name: probe-cm
+on:
+  push:
+    branches: [probe-cm]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: mkdir out && cd out && node ../probe/dump.mjs | tee log.txt
+      - run: |
+          cd out
+          git init -q && git checkout -q -b probe-cm-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-cm-out

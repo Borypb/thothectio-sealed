@@ -46,6 +46,16 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
 5. **Taux de change** (`fx.mjs`) : taux de référence de la BCE (1 € = x devise) dans `fx.json`.
    L'app les prend d'abord chez Frankfurter (même source BCE) et se rabat sur ce fichier si besoin.
 
+6. **Cotes des cartes Pokémon que TCGdex ne cote pas** (`pokemon-prices.mjs`) : TCGdex lit le guide de prix
+   public de Cardmarket et les prix TCGplayer, mais seulement pour les cartes qu'il a reliées à un produit.
+   Les autres (promos Wizards, Black & White, Diamant et Perle, Nintendo, Shiny Vault de Destinées Occultes…)
+   n'ont pas de cote dans l'app. Le script les retrouve chaque nuit :
+   Cardmarket par le nom anglais et les attaques dans l'extension Cardmarket (« Arcanine [Quick Attack | Flames of Rage] »),
+   TCGplayer par le produit indiqué dans la fiche TCGdex, sinon par le numéro dans le groupe de l'extension.
+   Champs identiques à ceux de TCGdex (`pricing.cardmarket`, `pricing.tcgplayer`, sans le prix « haut » de TCGplayer,
+   qui est une annonce et pas une vente), dans `cards/pokemon-prices.json` :
+   `{ updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp } } } }`.
+
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
 **Relance après échec** (`.github/workflows/relance.yml`) : quand une tâche du robot échoue (site source

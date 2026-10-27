@@ -7,6 +7,7 @@ import { prices } from "./prices.mjs";
 import { fx } from "./fx.mjs";
 import { cards } from "./cards.mjs";
 import { pokemonVariants } from "./pokemon-variants.mjs";
+import { pokemonPrices } from "./pokemon-prices.mjs";
 import { pokemonNames } from "./pokemon-names.mjs";
 import { curatedCards } from "./curated-cards.mjs";
 
@@ -49,6 +50,12 @@ try {
   await pokemonVariants();
 } catch (e) {
   console.warn("Versions Pokémon indisponibles :", e.message);
+}
+// cotes des cartes Pokémon que TCGdex ne sait pas coter (promos Wizards, BW, DP, Nintendo, Shiny Vault…)
+try {
+  await pokemonPrices();
+} catch (e) {
+  console.warn("Cotes des cartes Pokémon indisponibles :", e.message);
 }
 // noms des Pokémon dans toutes les langues (recherche d'une langue à l'autre)
 try {

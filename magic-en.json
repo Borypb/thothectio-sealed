@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -1006,21 +1006,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722934_200w.jpg",
       "source": {
         "tcgplayer": 722934
-      }
-    },
-    {
-      "id": "mtg-en-tcp722935",
-      "game": "magic",
-      "kind": "collection",
-      "name": "Secret Lair Drop: Secret Gallery: Atlanta - Traditional Foil Edition",
-      "lang": "en",
-      "setIds": [
-        "mtg-sld"
-      ],
-      "releasedAt": "2026-10-23",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
-      "source": {
-        "tcgplayer": 722935
       }
     },
     {
@@ -47647,6 +47632,20 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722789_200w.jpg",
       "source": {
         "tcgplayer": 722789
+      }
+    },
+    {
+      "id": "mtg-en-tcp722935",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Gallery: Atlanta - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
+      "source": {
+        "tcgplayer": 722935
       }
     },
     {

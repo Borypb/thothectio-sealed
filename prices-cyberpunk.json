@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "items": {
     "cyb-en-tcp714346": {
       "tp": {
-        "market": 318.88,
-        "low": 320.3
+        "market": 322.83,
+        "low": 320
       }
     },
     "cyb-en-tcp714347": {
       "tp": {
-        "market": 12.06,
+        "market": 12.3,
         "low": 9
       }
     },
     "cyb-en-tcp714493": {
       "tp": {
-        "market": 1747.14,
+        "market": 1751.3,
         "low": 1709.99
       }
     },
     "cyb-en-tcp714344": {
       "tp": {
-        "market": 25.28,
+        "market": 24.76,
         "low": 20
       }
     },
@@ -32,8 +32,8 @@
     },
     "cyb-en-tcp714345": {
       "tp": {
-        "market": 37.64,
-        "low": 31.99
+        "market": 35.88,
+        "low": 32
       }
     },
     "cyb-en-tcp714418": {
@@ -44,13 +44,13 @@
     "cyb-en-tcp714494": {
       "tp": {
         "market": 1100,
-        "low": 1049.99
+        "low": 989.98
       }
     },
     "cyb-en-tcp714495": {
       "tp": {
-        "market": 181.81,
-        "low": 179.99
+        "market": 175.97,
+        "low": 160.75
       }
     },
     "cyb-en-tcp714497": {
@@ -60,7 +60,7 @@
     },
     "cyb-en-tcp714498": {
       "tp": {
-        "market": 34.85,
+        "market": 34.84,
         "low": 34.73
       }
     },
@@ -77,8 +77,13 @@
     },
     "cyb-en-tcp718647": {
       "tp": {
-        "market": 91.59,
+        "market": 93.79,
         "low": 98.98
+      }
+    },
+    "cyb-en-tcp724462": {
+      "tp": {
+        "low": 999.99
       }
     },
     "cyb-en-tcp717414": {

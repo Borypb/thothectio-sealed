@@ -28,7 +28,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.59,
+          "usd": 0.57,
           "low": 0.2,
           "mid": 0.6
         }
@@ -47,7 +47,7 @@
           "sub": "Holofoil",
           "usd": 6.81,
           "low": 5.4,
-          "mid": 7.28
+          "mid": 7.63
         }
       ]
     },
@@ -79,7 +79,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.7,
+          "usd": 4.68,
           "low": 4,
           "mid": 6
         }
@@ -96,7 +96,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 2.72,
+          "usd": 2.68,
           "low": 1.5,
           "mid": 2.99
         }
@@ -113,9 +113,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.47,
+          "usd": 3.54,
           "low": 2,
-          "mid": 3.49
+          "mid": 3.5
         }
       ]
     },
@@ -200,7 +200,7 @@
           "sub": "Normal",
           "usd": 0.33,
           "low": 0.07,
-          "mid": 0.33
+          "mid": 0.34
         }
       ]
     },
@@ -268,7 +268,7 @@
           "sub": "Normal",
           "usd": 0.34,
           "low": 0.1,
-          "mid": 0.28
+          "mid": 0.29
         }
       ]
     },
@@ -285,7 +285,7 @@
           "sub": "Normal",
           "usd": 1.01,
           "low": 1.39,
-          "mid": 1.58
+          "mid": 1.79
         }
       ]
     },
@@ -319,7 +319,7 @@
           "sub": "Normal",
           "usd": 0.27,
           "low": 0.07,
-          "mid": 0.29
+          "mid": 0.3
         }
       ]
     },
@@ -408,7 +408,7 @@
         {
           "sub": "Holofoil",
           "usd": 35.45,
-          "low": 48.77,
+          "low": 35.46,
           "mid": 68.48
         }
       ]
@@ -445,7 +445,7 @@
           "sub": "Holofoil",
           "usd": 45.63,
           "low": 37.99,
-          "mid": 75.96
+          "mid": 82.98
         }
       ]
     },
@@ -476,7 +476,14 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638032_200w.jpg",
       "url": "https://www.tcgplayer.com/product/638032/dragon-ball-super-fusion-world-starter-deck-9-shallot-beerus-bonus-pack-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 38.9,
+          "low": 200,
+          "mid": 200
+        }
+      ]
     },
     {
       "id": 638033,
@@ -491,7 +498,7 @@
         {
           "sub": "Holofoil",
           "usd": 78.67,
-          "low": 78.89,
+          "low": 79.99,
           "mid": 132.88
         }
       ]
@@ -563,7 +570,7 @@
         {
           "sub": "Holofoil",
           "usd": 20.39,
-          "low": 20.38,
+          "low": 20.25,
           "mid": 40.01
         }
       ]
@@ -582,7 +589,7 @@
           "sub": "Holofoil",
           "usd": 59.74,
           "low": 51.99,
-          "mid": 60
+          "mid": 59.98
         }
       ]
     },
@@ -600,7 +607,7 @@
           "sub": "Holofoil",
           "usd": 5.8,
           "low": 4.15,
-          "mid": 5.95
+          "mid": 5.94
         }
       ]
     },
@@ -641,5 +648,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-27"
+  "pricesAt": "2026-10-28"
 }

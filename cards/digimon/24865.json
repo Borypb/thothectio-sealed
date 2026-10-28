@@ -476,6 +476,7 @@
       "name": "Crowmon",
       "number": "BT27-081 U",
       "rarity": "Uncommon",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725901/digimon-card-game-ignition-of-x-crowmon",
       "prices": []
@@ -550,7 +551,57 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725908_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725908/digimon-card-game-ignition-of-x-bishopchessmon",
       "prices": []
+    },
+    {
+      "id": 726151,
+      "name": "Tomoro Tenma",
+      "number": "BT27-091 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726151/digimon-card-game-ignition-of-x-tomoro-tenma",
+      "prices": []
+    },
+    {
+      "id": 726153,
+      "name": "Gekkomon",
+      "number": "BT27-044 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726153/digimon-card-game-ignition-of-x-gekkomon",
+      "prices": []
+    },
+    {
+      "id": 726154,
+      "name": "Armalizamon",
+      "number": "BT27-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726154/digimon-card-game-ignition-of-x-armalizamon",
+      "prices": []
+    },
+    {
+      "id": 726156,
+      "name": "Monarchlizamon",
+      "number": "BT27-050 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726156/digimon-card-game-ignition-of-x-monarchlizamon",
+      "prices": []
+    },
+    {
+      "id": 726157,
+      "name": "Atratusmon",
+      "number": "BT27-052 UR",
+      "rarity": "Ultimate Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726157/digimon-card-game-ignition-of-x-atratusmon",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-27"
+  "pricesAt": "2026-10-28"
 }

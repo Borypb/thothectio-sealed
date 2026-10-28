@@ -536,7 +536,7 @@
           "name": "Sleeve and Card Set Vol. 1",
           "code": "ESS01",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-26T19:22:00.43",
+          "modifiedOn": "2026-10-27T13:49:57.77",
           "count": 10,
           "file": "cards/palworld/24908.json",
           "version": "bb4a02dbb90f"
@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-26T15:50:59.75",
-          "count": 54,
+          "modifiedOn": "2026-10-27T14:50:00.55",
+          "count": 59,
           "file": "cards/digimon/24865.json",
-          "version": "e743347dd0a5"
+          "version": "fe1c7ad79722"
         },
         {
           "groupId": 24635,
@@ -1617,7 +1617,7 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-23T15:46:05.177",
+          "modifiedOn": "2026-10-27T14:21:51.303",
           "count": 234,
           "file": "cards/riftbound/24819.json",
           "version": "167183f56062"
@@ -1637,7 +1637,7 @@
           "name": "Vendetta",
           "code": "VEN",
           "releasedAt": "2026-07-31",
-          "modifiedOn": "2026-10-22T20:00:13.91",
+          "modifiedOn": "2026-10-27T19:35:12.717",
           "count": 248,
           "file": "cards/riftbound/24698.json",
           "version": "391657d81f8c"
@@ -1647,7 +1647,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-10-26T16:36:17.453",
+          "modifiedOn": "2026-10-27T19:31:39.34",
           "count": 308,
           "file": "cards/riftbound/24560.json",
           "version": "3b6140146afd"
@@ -1657,7 +1657,7 @@
           "name": "Spiritforged",
           "code": "SFD",
           "releasedAt": "2026-02-13",
-          "modifiedOn": "2026-10-22T19:57:34.58",
+          "modifiedOn": "2026-10-27T19:26:05.21",
           "count": 309,
           "file": "cards/riftbound/24519.json",
           "version": "a09289fd0a6a"
@@ -1697,10 +1697,10 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-26T19:46:37.26",
-          "count": 241,
+          "modifiedOn": "2026-10-27T19:59:23.72",
+          "count": 265,
           "file": "cards/riftbound/24528.json",
-          "version": "5aebb7a43fb7"
+          "version": "0aa93b3d63a7"
         },
         {
           "groupId": 24343,
@@ -1852,5 +1852,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-27"
+  "updatedAt": "2026-10-28"
 }

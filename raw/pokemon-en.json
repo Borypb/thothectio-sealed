@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-27T20:01:17.526Z",
+  "harvestedAt": "2026-10-28T10:03:04.605Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -14079,7 +14079,7 @@
     "2675": {
       "name": "SWSH03: Darkness Ablaze",
       "abbreviation": "SWSH03",
-      "modifiedOn": "2026-10-01T19:39:45.627",
+      "modifiedOn": "2026-10-27T04:45:50.927",
       "publishedOn": "2020-08-14",
       "setCode": "swsh3",
       "products": [
@@ -14150,7 +14150,7 @@
         {
           "tcgplayerId": 216862,
           "name": "Darkness Ablaze Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2020-08-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/216862_200w.jpg",
           "url": "https://www.tcgplayer.com/product/216862/pokemon-swsh03-darkness-ablaze-darkness-ablaze-build-and-battle-box-display"
@@ -14166,7 +14166,7 @@
         {
           "tcgplayerId": 216864,
           "name": "Darkness Ablaze Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2020-08-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/216864_200w.jpg",
           "url": "https://www.tcgplayer.com/product/216864/pokemon-swsh03-darkness-ablaze-darkness-ablaze-theme-deck-display"
@@ -14252,28 +14252,12 @@
           "url": "https://www.tcgplayer.com/product/257320/pokemon-swsh03-darkness-ablaze-darkness-ablaze-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 265317,
-          "name": "Darkness Ablaze Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-08-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265317_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265317/pokemon-swsh03-darkness-ablaze-darkness-ablaze-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 266951,
           "name": "Darkness Ablaze Elite Trainer Box Case",
           "kind": "case",
           "releasedOn": "2020-08-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/266951_200w.jpg",
           "url": "https://www.tcgplayer.com/product/266951/pokemon-swsh03-darkness-ablaze-darkness-ablaze-elite-trainer-box-case"
-        },
-        {
-          "tcgplayerId": 487797,
-          "name": "Darkness Ablaze Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-08-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487797_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/487797/pokemon-swsh03-darkness-ablaze-darkness-ablaze-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 653206,
@@ -22234,7 +22218,7 @@
     "24461": {
       "name": "MEE: Mega Evolution Energies",
       "abbreviation": "MEE",
-      "modifiedOn": "2026-09-25T14:31:21.853",
+      "modifiedOn": "2026-10-26T20:35:10.703",
       "publishedOn": "2025-09-26",
       "products": []
     },
@@ -23193,7 +23177,7 @@
     "24722": {
       "name": "ME: 30th Celebration",
       "abbreviation": "30C",
-      "modifiedOn": "2026-10-22T19:20:46.42",
+      "modifiedOn": "2026-10-26T20:09:21.847",
       "publishedOn": "2026-09-16",
       "setCode": "30th",
       "products": [

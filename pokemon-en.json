@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -320,6 +320,20 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/704188_200w.jpg",
       "source": {
         "tcgplayer": 704188
+      }
+    },
+    {
+      "id": "pkm-en-tcp726826",
+      "kind": "deck",
+      "name": "30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]",
+      "lang": "en",
+      "setIds": [
+        "pkm-30th"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
+      "source": {
+        "tcgplayer": 726826
       }
     },
     {
@@ -21169,17 +21183,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/686507_200w.jpg",
       "source": {
         "tcgplayer": 686507
-      }
-    },
-    {
-      "id": "pkm-en-tcp725355",
-      "kind": "other",
-      "name": "Water Energy (Unnumbered) (No E Reader)",
-      "lang": "en",
-      "releasedAt": "2016-09-01",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725355_200w.jpg",
-      "source": {
-        "tcgplayer": 725355
       }
     },
     {

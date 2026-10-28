@@ -9,7 +9,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725443_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725443/palworld-official-card-game-bp02-legends-awaken-orserk-thunderclap-roar",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.99,
+          "low": 17.99,
+          "mid": 17.99
+        }
+      ]
     },
     {
       "id": 725444,
@@ -197,6 +204,7 @@
       "name": "Rayhound - Soaring Flash",
       "number": "EBP02-005",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725455_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725455/palworld-official-card-game-bp02-legends-awaken-rayhound-soaring-flash",
       "prices": [
@@ -214,6 +222,7 @@
       "label": "SR",
       "number": "EBP02-005SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725456_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725456/palworld-official-card-game-bp02-legends-awaken-rayhound-soaring-flash-sr",
       "prices": []
@@ -269,6 +278,7 @@
       "label": "SR",
       "number": "EBP02-007SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725460_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725460/palworld-official-card-game-bp02-legends-awaken-flambelle-feverish-tears-sr",
       "prices": []
@@ -340,6 +350,7 @@
       "name": "Leezpunk Ignis - Hot-Blooded Finish",
       "number": "EBP02-011",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725465_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725465/palworld-official-card-game-bp02-legends-awaken-leezpunk-ignis-hot-blooded-finish",
       "prices": []
@@ -366,6 +377,7 @@
       "name": "Foxparks - Breathing Practice",
       "number": "EBP02-013",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725467_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725467/palworld-official-card-game-bp02-legends-awaken-foxparks-breathing-practice",
       "prices": [
@@ -471,6 +483,7 @@
       "name": "Flamethrower",
       "number": "EBP02-019",
       "rarity": "U",
+      "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725474_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725474/palworld-official-card-game-bp02-legends-awaken-flamethrower",
       "prices": [
@@ -581,6 +594,7 @@
       "name": "Flame Funnel",
       "number": "EBP02-024",
       "rarity": "C",
+      "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725482_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725482/palworld-official-card-game-bp02-legends-awaken-flame-funnel",
       "prices": [
@@ -597,9 +611,17 @@
       "name": "Frostallion - Everlasting Rime",
       "number": "EBP02-025",
       "rarity": "RR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725483_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725483/palworld-official-card-game-bp02-legends-awaken-frostallion-everlasting-rime",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 24.99,
+          "low": 24.99,
+          "mid": 24.99
+        }
+      ]
     },
     {
       "id": 725484,
@@ -607,6 +629,7 @@
       "label": "SR",
       "number": "EBP02-025OSR",
       "rarity": "OSR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725484_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725484/palworld-official-card-game-bp02-legends-awaken-frostallion-everlasting-rime-sr",
       "prices": [
@@ -624,6 +647,7 @@
       "label": "SSP",
       "number": "EBP02-025SSP",
       "rarity": "SSP",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725485_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725485/palworld-official-card-game-bp02-legends-awaken-frostallion-everlasting-rime-ssp",
       "prices": [
@@ -640,6 +664,7 @@
       "name": "Foxcicle - Aurora Hymn",
       "number": "EBP02-026",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725486_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725486/palworld-official-card-game-bp02-legends-awaken-foxcicle-aurora-hymn",
       "prices": [
@@ -657,6 +682,7 @@
       "label": "SR",
       "number": "EBP02-026OSR",
       "rarity": "OSR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725487_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725487/palworld-official-card-game-bp02-legends-awaken-foxcicle-aurora-hymn-sr",
       "prices": [
@@ -674,6 +700,7 @@
       "label": "SP",
       "number": "EBP02-026SP",
       "rarity": "SP",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725488_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725488/palworld-official-card-game-bp02-legends-awaken-foxcicle-aurora-hymn-sp",
       "prices": []
@@ -722,7 +749,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725491_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725491/palworld-official-card-game-bp02-legends-awaken-sweepa-record-breaker-sp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1000,
+          "low": 1000,
+          "mid": 1000
+        }
+      ]
     },
     {
       "id": 725492,
@@ -774,6 +808,7 @@
       "name": "Gobfin - Sunken Memories",
       "number": "EBP02-030",
       "rarity": "U",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725495_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725495/palworld-official-card-game-bp02-legends-awaken-gobfin-sunken-memories",
       "prices": [
@@ -807,6 +842,7 @@
       "name": "Kingpaca Cryst - Prideful Solitude",
       "number": "EBP02-032",
       "rarity": "U",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725497_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725497/palworld-official-card-game-bp02-legends-awaken-kingpaca-cryst-prideful-solitude",
       "prices": [
@@ -823,6 +859,7 @@
       "name": "Pengullet - Locked and Loaded",
       "number": "EBP02-033",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725498_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725498/palworld-official-card-game-bp02-legends-awaken-pengullet-locked-and-loaded",
       "prices": [
@@ -840,6 +877,7 @@
       "label": "SR",
       "number": "EBP02-033SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725499_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725499/palworld-official-card-game-bp02-legends-awaken-pengullet-locked-and-loaded-sr",
       "prices": []
@@ -877,6 +915,7 @@
       "name": "Kelpsea - Spirited Splash",
       "number": "EBP02-035",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725502_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725502/palworld-official-card-game-bp02-legends-awaken-kelpsea-spirited-splash",
       "prices": []
@@ -903,6 +942,7 @@
       "name": "Kingpaca Cryst - Frosty Solitude",
       "number": "EBP02-037",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725504/palworld-official-card-game-bp02-legends-awaken-kingpaca-cryst-frosty-solitude",
       "prices": []
@@ -929,6 +969,7 @@
       "name": "Antique Cabinet",
       "number": "EBP02-039",
       "rarity": "R",
+      "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725506_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725506/palworld-official-card-game-bp02-legends-awaken-antique-cabinet",
       "prices": [
@@ -1028,6 +1069,7 @@
       "name": "Frostallion Saddle",
       "number": "EBP02-044",
       "rarity": "U",
+      "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725513_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725513/palworld-official-card-game-bp02-legends-awaken-frostallion-saddle",
       "prices": [
@@ -1198,9 +1240,17 @@
       "name": "Mammorest - Gaia Crusher",
       "number": "EBP02-050",
       "rarity": "RR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725524_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725524/palworld-official-card-game-bp02-legends-awaken-mammorest-gaia-crusher",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.99,
+          "low": 15.99,
+          "mid": 15.99
+        }
+      ]
     },
     {
       "id": 725525,
@@ -1208,6 +1258,7 @@
       "label": "SR",
       "number": "EBP02-050OSR",
       "rarity": "OSR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725525_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725525/palworld-official-card-game-bp02-legends-awaken-mammorest-gaia-crusher-sr",
       "prices": [
@@ -1225,6 +1276,7 @@
       "label": "SP",
       "number": "EBP02-050SP",
       "rarity": "SP",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725526_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725526/palworld-official-card-game-bp02-legends-awaken-mammorest-gaia-crusher-sp",
       "prices": []
@@ -1280,6 +1332,7 @@
       "name": "Fuddler - Claw-Honing Mole",
       "number": "EBP02-052",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725530_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725530/palworld-official-card-game-bp02-legends-awaken-fuddler-claw-honing-mole",
       "prices": [
@@ -1297,6 +1350,7 @@
       "label": "SR",
       "number": "EBP02-052SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725531_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725531/palworld-official-card-game-bp02-legends-awaken-fuddler-claw-honing-mole-sr",
       "prices": []
@@ -1334,6 +1388,7 @@
       "name": "Quivern Botan - Meadow's Grace",
       "number": "EBP02-054",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725534_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725534/palworld-official-card-game-bp02-legends-awaken-quivern-botan-meadows-grace",
       "prices": [
@@ -1351,6 +1406,7 @@
       "label": "SR",
       "number": "EBP02-054SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725535_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725535/palworld-official-card-game-bp02-legends-awaken-quivern-botan-meadows-grace-sr",
       "prices": []
@@ -1388,6 +1444,7 @@
       "name": "Lifmunk - Hidden Power",
       "number": "EBP02-056",
       "rarity": "U",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725538_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725538/palworld-official-card-game-bp02-legends-awaken-lifmunk-hidden-power",
       "prices": [
@@ -1405,6 +1462,7 @@
       "label": "SR",
       "number": "EBP02-056SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725539_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725539/palworld-official-card-game-bp02-legends-awaken-lifmunk-hidden-power-sr",
       "prices": []
@@ -1564,6 +1622,7 @@
       "name": "Pioneer Ranch",
       "number": "EBP02-066",
       "rarity": "C",
+      "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725550_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725550/palworld-official-card-game-bp02-legends-awaken-pioneer-ranch",
       "prices": [
@@ -1590,6 +1649,7 @@
       "name": "Lifmunk's Submachine Gun",
       "number": "EBP02-068",
       "rarity": "R",
+      "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725552_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725552/palworld-official-card-game-bp02-legends-awaken-lifmunks-submachine-gun",
       "prices": [
@@ -1707,9 +1767,17 @@
       "name": "Frostallion Noct - Eternal Darkness",
       "number": "EBP02-073",
       "rarity": "RR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725560_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725560/palworld-official-card-game-bp02-legends-awaken-frostallion-noct-eternal-darkness",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 24.99,
+          "low": 24.99,
+          "mid": 24.99
+        }
+      ]
     },
     {
       "id": 725561,
@@ -1717,9 +1785,17 @@
       "label": "SR",
       "number": "EBP02-073OSR",
       "rarity": "OSR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725561_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725561/palworld-official-card-game-bp02-legends-awaken-frostallion-noct-eternal-darkness-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 59.99,
+          "low": 59.99,
+          "mid": 59.99
+        }
+      ]
     },
     {
       "id": 725562,
@@ -1727,6 +1803,7 @@
       "label": "SSP",
       "number": "EBP02-073SSP",
       "rarity": "SSP",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725562_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725562/palworld-official-card-game-bp02-legends-awaken-frostallion-noct-eternal-darkness-ssp",
       "prices": []
@@ -1835,6 +1912,7 @@
       "name": "Prixter - Nightfall Stinger",
       "number": "EBP02-076",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725569_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725569/palworld-official-card-game-bp02-legends-awaken-prixter-nightfall-stinger",
       "prices": [
@@ -1852,6 +1930,7 @@
       "label": "SR",
       "number": "EBP02-076SR",
       "rarity": "SR",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725570_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725570/palworld-official-card-game-bp02-legends-awaken-prixter-nightfall-stinger-sr",
       "prices": []
@@ -1864,14 +1943,7 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725571_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725571/palworld-official-card-game-bp02-legends-awaken-shroomer-noct-spores-of-the-void",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 4.99,
-          "low": 4.99,
-          "mid": 4.99
-        }
-      ]
+      "prices": []
     },
     {
       "id": 725572,
@@ -1889,6 +1961,7 @@
       "name": "Kitsun Noct - Umbral Prowler",
       "number": "EBP02-078",
       "rarity": "R",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725573_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725573/palworld-official-card-game-bp02-legends-awaken-kitsun-noct-umbral-prowler",
       "prices": [
@@ -2034,6 +2107,7 @@
       "name": "Killamari - Abyssal Terror",
       "number": "EBP02-084",
       "rarity": "C",
+      "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725583_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725583/palworld-official-card-game-bp02-legends-awaken-killamari-abyssal-terror",
       "prices": []
@@ -2143,6 +2217,7 @@
       "name": "Frostallion Noct Saddle",
       "number": "EBP02-092",
       "rarity": "U",
+      "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725592_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725592/palworld-official-card-game-bp02-legends-awaken-frostallion-noct-saddle",
       "prices": [
@@ -2159,6 +2234,7 @@
       "name": "Poison Arrow Crossbow",
       "number": "EBP02-093",
       "rarity": "U",
+      "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725593_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725593/palworld-official-card-game-bp02-legends-awaken-poison-arrow-crossbow",
       "prices": [
@@ -2217,9 +2293,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 179.99,
+          "usd": 1090,
           "low": 179.99,
-          "mid": 179.99
+          "mid": 1090
         }
       ]
     },
@@ -2256,6 +2332,7 @@
       "name": "Poison Fog",
       "number": "EBP02-096",
       "rarity": "C",
+      "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725599_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725599/palworld-official-card-game-bp02-legends-awaken-poison-fog",
       "prices": [

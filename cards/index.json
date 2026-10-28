@@ -10,7 +10,7 @@
           "name": "Brightness of Hope",
           "code": "FB11",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-16T14:15:59.65",
+          "modifiedOn": "2026-10-28T18:20:47.313",
           "count": 162,
           "file": "cards/dragonball/24716.json",
           "version": "dd12d65afa21"
@@ -20,7 +20,7 @@
           "name": "Brightness of Hope Release Event Cards",
           "code": "FB11_PR",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-19T13:56:56.4",
+          "modifiedOn": "2026-10-28T18:19:08.413",
           "count": 75,
           "file": "cards/dragonball/24874.json",
           "version": "3e626510bbfb"
@@ -500,10 +500,10 @@
           "name": "Fusion World Promotion Cards and Packs",
           "code": "DBSFW_PR",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-10-16T18:15:36.087",
+          "modifiedOn": "2026-10-28T12:28:08.993",
           "count": 119,
           "file": "cards/dragonball/23428.json",
-          "version": "6e5468c6c76e"
+          "version": "258b014f8659"
         },
         {
           "groupId": 23429,
@@ -526,10 +526,10 @@
           "name": "BP02: Legends Awaken",
           "code": "BP02",
           "releasedAt": "2026-10-30",
-          "modifiedOn": "2026-10-26T19:21:18.673",
+          "modifiedOn": "2026-10-28T17:11:24.45",
           "count": 164,
           "file": "cards/palworld/24850.json",
-          "version": "228b855fb834"
+          "version": "ce625ecc5881"
         },
         {
           "groupId": 24908,
@@ -602,17 +602,17 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-27T14:50:00.55",
-          "count": 59,
+          "modifiedOn": "2026-10-28T18:35:37.183",
+          "count": 64,
           "file": "cards/digimon/24865.json",
-          "version": "fe1c7ad79722"
+          "version": "09314de8fb94"
         },
         {
           "groupId": 24635,
           "name": "Chivalrous XIII",
           "code": "EX-13",
           "releasedAt": "2026-10-02",
-          "modifiedOn": "2026-09-21T19:31:17.033",
+          "modifiedOn": "2026-10-28T15:12:45.607",
           "count": 164,
           "file": "cards/digimon/24635.json",
           "version": "3fceca636261"
@@ -1637,7 +1637,7 @@
           "name": "Vendetta",
           "code": "VEN",
           "releasedAt": "2026-07-31",
-          "modifiedOn": "2026-10-27T19:35:12.717",
+          "modifiedOn": "2026-10-27T20:23:01.593",
           "count": 248,
           "file": "cards/riftbound/24698.json",
           "version": "391657d81f8c"
@@ -1647,7 +1647,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-10-27T19:31:39.34",
+          "modifiedOn": "2026-10-27T20:24:30.507",
           "count": 308,
           "file": "cards/riftbound/24560.json",
           "version": "3b6140146afd"
@@ -1697,17 +1697,17 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-27T19:59:23.72",
+          "modifiedOn": "2026-10-27T20:32:16.03",
           "count": 265,
           "file": "cards/riftbound/24528.json",
-          "version": "0aa93b3d63a7"
+          "version": "f8bd32821ff8"
         },
         {
           "groupId": 24343,
           "name": "Riftbound Promotional Cards",
           "code": "PR",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-16T19:49:09.07",
+          "modifiedOn": "2026-10-28T19:31:31.163",
           "count": 12,
           "file": "cards/riftbound/24343.json",
           "version": "88c615f504e1"

@@ -22,9 +22,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 218,
-          "low": 198,
-          "mid": 287.51
+          "usd": 209.38,
+          "low": 297.01,
+          "mid": 498.49
         }
       ]
     },
@@ -58,7 +58,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725838_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725838/cyberpunk-tcg-set-1-promos-gorilla-arms-pre-release",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99,
+          "low": 19.99,
+          "mid": 19.99
+        }
+      ]
     }
   ],
   "pricesAt": "2026-10-28"

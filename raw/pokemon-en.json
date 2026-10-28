@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-28T10:03:04.605Z",
+  "harvestedAt": "2026-10-28T23:33:11.668Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -576,7 +576,7 @@
     "1375": {
       "name": "Expedition",
       "abbreviation": "EX",
-      "modifiedOn": "2026-10-19T13:57:48.007",
+      "modifiedOn": "2026-10-28T10:45:01.62",
       "publishedOn": "2002-09-15",
       "setCode": "ecard1",
       "products": [
@@ -2413,7 +2413,7 @@
     "1418": {
       "name": "WoTC Promo",
       "abbreviation": "PR",
-      "modifiedOn": "2026-09-09T17:11:50.003",
+      "modifiedOn": "2026-10-28T17:46:24.57",
       "publishedOn": "1999-07-01",
       "products": [
         {
@@ -5503,18 +5503,9 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-21T19:24:49.387",
+      "modifiedOn": "2026-10-28T16:24:06.06",
       "publishedOn": "2016-09-01",
-      "products": [
-        {
-          "tcgplayerId": 725355,
-          "name": "Water Energy (Unnumbered) (No E Reader)",
-          "kind": "other",
-          "releasedOn": "2016-09-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725355_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/725355/pokemon-deck-exclusives-water-energy-unnumbered-no-e-reader"
-        }
-      ]
+      "products": []
     },
     "1842": {
       "name": "XY - Evolutions",
@@ -8099,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-26T13:27:34.15",
+      "modifiedOn": "2026-10-28T17:52:05.593",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13502,7 +13493,7 @@
     "2545": {
       "name": "SWSH: Sword & Shield Promo Cards",
       "abbreviation": "SWSD",
-      "modifiedOn": "2026-10-23T13:40:57.723",
+      "modifiedOn": "2026-10-28T17:50:29.22",
       "publishedOn": "2019-11-15",
       "setCode": "swshp",
       "products": []
@@ -17987,7 +17978,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-10-15T12:59:04.453",
+      "modifiedOn": "2026-10-28T17:38:14.177",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -18195,7 +18186,7 @@
     },
     "22880": {
       "name": "Prize Pack Series Cards",
-      "modifiedOn": "2026-10-16T14:50:26.923",
+      "modifiedOn": "2026-10-28T05:22:20.777",
       "publishedOn": "2022-11-30",
       "products": [
         {
@@ -19214,7 +19205,7 @@
     "23323": {
       "name": "Trading Card Game Classic",
       "abbreviation": "CL",
-      "modifiedOn": "2026-09-10T14:54:31.72",
+      "modifiedOn": "2026-10-28T17:34:40.697",
       "publishedOn": "2023-11-17",
       "products": [
         {
@@ -19254,7 +19245,7 @@
     "23353": {
       "name": "SV: Paldean Fates",
       "abbreviation": "PAF",
-      "modifiedOn": "2026-10-21T15:43:04.217",
+      "modifiedOn": "2026-10-27T21:31:47.533",
       "publishedOn": "2024-01-26",
       "setCode": "sv04.5",
       "products": [
@@ -20178,7 +20169,7 @@
     "23537": {
       "name": "SV07: Stellar Crown",
       "abbreviation": "SCR",
-      "modifiedOn": "2026-09-09T17:14:32.977",
+      "modifiedOn": "2026-10-28T05:41:01.487",
       "publishedOn": "2024-09-13",
       "setCode": "sv07",
       "products": [
@@ -20271,22 +20262,6 @@
           "url": "https://www.tcgplayer.com/product/557354/pokemon-sv07-stellar-crown-stellar-crown-booster-box"
         },
         {
-          "tcgplayerId": 557357,
-          "name": "Stellar Crown Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-09-13",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557357_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/557357/pokemon-sv07-stellar-crown-stellar-crown-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 557361,
-          "name": "Stellar Crown Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-09-13",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557361_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/557361/pokemon-sv07-stellar-crown-stellar-crown-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 557363,
           "name": "Stellar Crown Pokemon Center Elite Trainer Box (Exclusive) Case",
           "kind": "case",
@@ -20301,14 +20276,6 @@
           "releasedOn": "2024-09-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/557365_200w.jpg",
           "url": "https://www.tcgplayer.com/product/557365/pokemon-sv07-stellar-crown-stellar-crown-booster-box-case"
-        },
-        {
-          "tcgplayerId": 557366,
-          "name": "Stellar Crown Build & Battle Box [Set of 10]",
-          "kind": "build_battle",
-          "releasedOn": "2024-09-13",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557366_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/557366/pokemon-sv07-stellar-crown-stellar-crown-build-and-battle-box-set-of-10"
         },
         {
           "tcgplayerId": 559102,
@@ -20636,7 +20603,7 @@
     "23821": {
       "name": "SV: Prismatic Evolutions",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-10-22T19:16:09.003",
+      "modifiedOn": "2026-10-27T21:29:47.553",
       "publishedOn": "2025-01-17",
       "setCode": "sv08.5",
       "products": [
@@ -22001,7 +21968,7 @@
     "24448": {
       "name": "ME02: Phantasmal Flames",
       "abbreviation": "PFL",
-      "modifiedOn": "2026-10-07T20:32:08.55",
+      "modifiedOn": "2026-10-27T21:23:46.263",
       "publishedOn": "2025-11-14",
       "setCode": "me02",
       "products": [
@@ -22112,7 +22079,7 @@
         {
           "tcgplayerId": 654164,
           "name": "Phantasmal Flames Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2025-11-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/654164_200w.jpg",
           "url": "https://www.tcgplayer.com/product/654164/pokemon-me02-phantasmal-flames-phantasmal-flames-build-and-battle-box-display"
@@ -22126,14 +22093,6 @@
           "url": "https://www.tcgplayer.com/product/654170/pokemon-me02-phantasmal-flames-phantasmal-flames-elite-trainer-box-case"
         },
         {
-          "tcgplayerId": 654174,
-          "name": "Phantasmal Flames Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-11-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/654174_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/654174/pokemon-me02-phantasmal-flames-phantasmal-flames-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 655281,
           "name": "Phantasmal Flames Booster Box Case",
           "kind": "case",
@@ -22144,7 +22103,7 @@
         {
           "tcgplayerId": 655282,
           "name": "Phantasmal Flames Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2025-11-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/655282_200w.jpg",
           "url": "https://www.tcgplayer.com/product/655282/pokemon-me02-phantasmal-flames-phantasmal-flames-sleeved-booster-case"
@@ -22156,14 +22115,6 @@
           "releasedOn": "2025-11-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/662725_200w.jpg",
           "url": "https://www.tcgplayer.com/product/662725/pokemon-me02-phantasmal-flames-phantasmal-flames-build-and-battle-box"
-        },
-        {
-          "tcgplayerId": 664903,
-          "name": "Phantasmal Flames Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-11-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664903_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/664903/pokemon-me02-phantasmal-flames-phantasmal-flames-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 668931,
@@ -22184,7 +22135,7 @@
         {
           "tcgplayerId": 685215,
           "name": "Phantasmal Flames 3-Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2025-11-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685215_200w.jpg",
           "url": "https://www.tcgplayer.com/product/685215/pokemon-me02-phantasmal-flames-phantasmal-flames-3-pack-blister-case"
@@ -22192,7 +22143,7 @@
         {
           "tcgplayerId": 688345,
           "name": "Phantasmal Flames Sleeved Booster Case (48 ct)",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2025-11-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/688345_200w.jpg",
           "url": "https://www.tcgplayer.com/product/688345/pokemon-me02-phantasmal-flames-phantasmal-flames-sleeved-booster-case-48-ct"
@@ -22210,7 +22161,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-10-16T17:32:44.313",
+      "modifiedOn": "2026-10-28T17:19:39.617",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -22238,7 +22189,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-10-23T20:29:48.31",
+      "modifiedOn": "2026-10-27T21:29:08.127",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22638,7 +22589,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-10-23T20:43:02.35",
+      "modifiedOn": "2026-10-27T21:30:21.15",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [
@@ -22823,7 +22774,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-10-23T13:44:56.557",
+      "modifiedOn": "2026-10-27T21:24:28.73",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [
@@ -23177,7 +23128,7 @@
     "24722": {
       "name": "ME: 30th Celebration",
       "abbreviation": "30C",
-      "modifiedOn": "2026-10-26T20:09:21.847",
+      "modifiedOn": "2026-10-28T19:13:30.043",
       "publishedOn": "2026-09-16",
       "setCode": "30th",
       "products": [
@@ -23572,13 +23523,21 @@
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/718674_200w.jpg",
           "url": "https://www.tcgplayer.com/product/718674/pokemon-me-30th-celebration-30th-celebration-ex-tin-sylveon-ex-retail-version"
+        },
+        {
+          "tcgplayerId": 726826,
+          "name": "30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]",
+          "kind": "deck",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726826/pokemon-me-30th-celebration-30th-celebration-battle-deck-umbreon-ex-espeon-ex-set-of-two"
         }
       ]
     },
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-10-19T20:12:05.4",
+      "modifiedOn": "2026-10-28T18:36:29.03",
       "publishedOn": "2026-11-06",
       "products": [
         {

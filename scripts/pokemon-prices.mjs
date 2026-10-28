@@ -12,7 +12,9 @@
 // Les champs reprennent ceux de TCGdex (`pricing.cardmarket`, `pricing.tcgplayer`) : l'app les lit de la même façon.
 // Corrige aussi les liens faux de TCGdex : quand la fiche Cardmarket qu'il indique n'a pas les attaques de la carte et
 // qu'une fiche de la même extension a exactement son nom et ses attaques, sa cote est publiée avec « fix: 1 ».
-// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix } } } }
+// Versions de la carte (v) : cote propre à chaque version quand elle en a une — produit TCGplayer de la version,
+// fiche Cardmarket de la version si Cardmarket les sépare, sinon fiche partagée (« normal-1st-movie », « holo-cosmos »…).
+// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix, v } } } }
 // Éditions internationales seulement (dossier data/ de TCGdex, sans TCG Pocket).
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
@@ -50,12 +52,52 @@ function block(src, key) {
 const names = (list) => (list ? [...list.matchAll(new RegExp(String.raw`\bname:\s*\{[^}]*?\ben:\s*` + STR, "g"))].map((m) => unq(m[2])) : []);
 const ids = (src, kind) => [...(src ?? "").matchAll(new RegExp(String.raw`\b${kind}:\s*(\d+)`, "g"))].map((m) => Number(m[1]));
 
+/** objets de premier niveau d'une liste (« { type: … }, { … } »), sans se perdre dans les accolades imbriquées */
+function objects(list) {
+  const out = [];
+  let depth = 0;
+  let start = -1;
+  for (let i = 0; i < (list ?? "").length; i++) {
+    const ch = list[i];
+    if (ch === "{") {
+      if (depth === 0) start = i;
+      depth++;
+    } else if (ch === "}") {
+      depth--;
+      if (depth === 0 && start >= 0) out.push(list.slice(start, i + 1));
+    }
+  }
+  return out;
+}
+
+/** clé d'une version, comme l'identifiant de l'impression dans l'app (tcgdexVariants.ts) : « normal-1st-movie », « holo-cosmos » */
+const keyPart = (s) =>
+  String(s)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[’']/g, "'")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/ /g, "-");
+function variantOf(obj) {
+  const str = (k) => obj.match(new RegExp(String.raw`\b${k}:\s*["']([^"']+)["']`))?.[1];
+  const stamps = [...(obj.match(/\bstamp:\s*\[([^\]]*)\]/)?.[1] ?? "").matchAll(/["']([^"']+)["']/g)].map((m) => keyPart(m[1]));
+  const type = keyPart(str("type") ?? "normal");
+  const jumbo = keyPart(str("size") ?? "") === "jumbo";
+  const key = [type, str("foil") && keyPart(str("foil")), str("subtype") && keyPart(str("subtype")), jumbo ? "jumbo" : undefined, ...stamps].filter(Boolean).join("-");
+  return { key, type, plain: key === type, cm: ids(obj, "cardmarket")[0], tp: ids(obj, "tcgplayer")[0] };
+}
+
 function parseCard(src) {
   const third = src.match(/^\tthirdParty:\s*\{([^}]*)\}/m)?.[1];
   const variants = block(src, "variants");
   const types = [];
   if (variants) for (const m of variants.matchAll(/\btype:\s*["']([\w-]+)["']/g)) types.push(m[1]);
+  // versions détaillées (liste « variants: [ … ] ») : clé, produit TCGplayer et fiche Cardmarket de chacune
+  const list = /^\tvariants:\s*\[/m.test(src) ? objects(variants).map(variantOf) : [];
   return {
+    versions: list,
     name: enOf(block(src, "name")),
     moves: [...names(block(src, "abilities")), ...names(block(src, "attacks"))],
     // identifiants de la carte, puis ceux de ses versions (le premier est la version de base)
@@ -209,7 +251,33 @@ function matchCardmarket(set, expansion, products) {
     cards.forEach((c, i) => {
       if (hits[i]) out.set(c.number, hits[i].idProduct);
     });
+    // carte seule de ce nom : toutes ses fiches (versions que Cardmarket sépare, comme l'Évoli holo cosmos et
+    // l'Évoli tamponné « Jr. Stamp Rally » de la même promo), dans l'ordre de leur création
+    if (cards.length === 1 && hits.length) out.set(`${cards[0].number}#all`, hits.map((h) => h.idProduct));
   }
+  return out;
+}
+
+/**
+ * Fiche Cardmarket de chaque version d'une carte.
+ * - Autant de fiches que de versions (Évoli holo cosmos et Évoli tamponné « Jr. Stamp Rally ») : dans l'ordre.
+ * - Sinon, Cardmarket ne les distingue pas : la fiche va à la version courante de la carte — la version simple
+ *   (normale, holo, reverse) quand elle existe ; sinon, celles qui ont leur produit TCGplayer (Électek tamponné
+ *   « 1st Movie », que tout le monde a, et pas sa variante au tampon inversé). Une variante rare (erreur d'impression,
+ *   étoile grise, Mew brillante…) ne reçoit pas la cote de la carte courante : elle garde seulement la sienne
+ *   chez TCGplayer quand elle en a une.
+ */
+function versionProducts(card, all, base) {
+  const out = new Map();
+  const vs = card.versions;
+  if (!vs.length || !base) return out;
+  if (all && all.length > 1 && all.length === vs.length) {
+    vs.forEach((v, i) => out.set(v.key, all[i]));
+    return out;
+  }
+  const plain = vs.filter((v) => v.plain);
+  const sold = vs.filter((v) => v.tp);
+  for (const v of plain.length ? plain : sold.length ? sold : vs) out.set(v.key, base);
   return out;
 }
 
@@ -344,7 +412,22 @@ export async function pokemonPrices() {
           withTp++;
         }
       }
-      if (entry.cm || entry.tp) (out[s.id] ??= {})[c.number] = entry;
+      // versions particulières (tampon du film, holo cosmos…) : leur produit TCGplayer et leur fiche Cardmarket
+      if (todo.includes(s) && c.versions.some((v) => !v.plain || c.versions.length > 1)) {
+        const perVersion = needsCm(c) ? versionProducts(c, cmIds.get(`${c.number}#all`), cmIds.get(c.number)) : new Map();
+        const v = {};
+        for (const ver of c.versions) {
+          const e = {};
+          const g = perVersion.has(ver.key) ? guide.get(perVersion.get(ver.key)) : undefined;
+          const cmP = g && cmPrices(g);
+          if (cmP) e.cm = cmP;
+          const tpP = ver.tp && needsTp(s, c) ? tpPrices(rowsOf.get(ver.tp)) : undefined;
+          if (tpP) e.tp = tpP;
+          if (e.cm || e.tp) v[ver.key] = e;
+        }
+        if (Object.keys(v).length) entry.v = v;
+      }
+      if (entry.cm || entry.tp || entry.v) (out[s.id] ??= {})[c.number] = entry;
     }
   }
 

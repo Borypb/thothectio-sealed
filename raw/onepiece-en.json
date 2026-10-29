@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-10-28T10:39:31.549Z",
+  "harvestedAt": "2026-10-29T10:57:24.248Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -268,7 +268,7 @@
     "17675": {
       "name": "One Piece Promotion Cards",
       "abbreviation": "OP-PR",
-      "modifiedOn": "2026-10-22T18:23:42.327",
+      "modifiedOn": "2026-10-28T11:43:50.477",
       "publishedOn": "2022-09-30",
       "products": [
         {
@@ -1438,6 +1438,70 @@
           "releasedOn": "2022-09-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/722702_200w.jpg",
           "url": "https://www.tcgplayer.com/product/722702/one-piece-card-game-one-piece-promotion-cards-beginners-deck-party-st-31-st-36-winner-pack"
+        },
+        {
+          "tcgplayerId": 725378,
+          "name": "One Piece Mini Case Set Vol. 3 Display Case",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725378_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725378/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-display-case"
+        },
+        {
+          "tcgplayerId": 725379,
+          "name": "One Piece Mini Case Set Vol. 3 Display",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725379_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725379/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-display"
+        },
+        {
+          "tcgplayerId": 725380,
+          "name": "One Piece Mini Case Set Vol. 3 -Shanks- (Sunohara Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725380_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725380/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-shanks-sunohara-artwork"
+        },
+        {
+          "tcgplayerId": 725381,
+          "name": "One Piece Mini Case Set Vol. 3 -Monkey.D.Luffy- (Sunohara Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725381_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725381/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-monkeydluffy-sunohara-artwork"
+        },
+        {
+          "tcgplayerId": 725382,
+          "name": "One Piece Mini Case Set Vol. 3 -Boa Hancock- (Sunohara Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725382_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725382/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-boa-hancock-sunohara-artwork"
+        },
+        {
+          "tcgplayerId": 725384,
+          "name": "One Piece Mini Case Set Vol. 3 -Shanks- (Ryuda Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725384_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725384/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-shanks-ryuda-artwork"
+        },
+        {
+          "tcgplayerId": 725385,
+          "name": "One Piece Mini Case Set Vol. 3 -Monkey.D.Luffy- (Ryuda Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725385_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725385/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-monkeydluffy-ryuda-artwork"
+        },
+        {
+          "tcgplayerId": 725386,
+          "name": "One Piece Mini Case Set Vol. 3 Boa Hancock (Ryuda Artwork)",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/725386_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/725386/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-boa-hancock-ryuda-artwork"
         }
       ]
     },
@@ -3498,7 +3562,7 @@
     "24545": {
       "name": "Extra Booster: One Piece Heroines Edition",
       "abbreviation": "EB03",
-      "modifiedOn": "2026-10-07T11:49:05.48",
+      "modifiedOn": "2026-10-28T11:52:59.513",
       "publishedOn": "2026-02-20",
       "setId": "op-eb03",
       "products": [
@@ -3822,7 +3886,7 @@
     "24736": {
       "name": "The World's Strongest Warriors",
       "abbreviation": "OP17",
-      "modifiedOn": "2026-09-21T13:09:20.52",
+      "modifiedOn": "2026-10-28T14:57:47.407",
       "publishedOn": "2026-08-28",
       "setId": "op-op17",
       "products": [
@@ -4045,7 +4109,7 @@
     "24820": {
       "name": "Extra Booster: One Piece Heroines Edition Vol. 2",
       "abbreviation": "EB05",
-      "modifiedOn": "2026-10-27T17:57:17.347",
+      "modifiedOn": "2026-10-28T18:40:31.753",
       "publishedOn": "2026-10-30",
       "setId": "op-eb05",
       "products": [
@@ -4086,7 +4150,7 @@
     "24833": {
       "name": "The Dominance of God",
       "abbreviation": "OP18",
-      "modifiedOn": "2026-10-27T14:10:13.86",
+      "modifiedOn": "2026-10-28T18:24:08.747",
       "publishedOn": "2026-11-20",
       "setId": "op-op18",
       "products": [

@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -946,6 +946,1746 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709724_200w.jpg",
       "source": {
         "tcgplayer": 709724
+      }
+    },
+    {
+      "id": "mtg-en-tcp726828",
+      "game": "magic",
+      "kind": "other",
+      "name": "Imperial Hullbreachers",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726828_200w.jpg",
+      "source": {
+        "tcgplayer": 726828
+      }
+    },
+    {
+      "id": "mtg-en-tcp726829",
+      "game": "magic",
+      "kind": "other",
+      "name": "Indelicate Healer",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726829_200w.jpg",
+      "source": {
+        "tcgplayer": 726829
+      }
+    },
+    {
+      "id": "mtg-en-tcp726830",
+      "game": "magic",
+      "kind": "other",
+      "name": "Martok, Hero of the Empire",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726830_200w.jpg",
+      "source": {
+        "tcgplayer": 726830
+      }
+    },
+    {
+      "id": "mtg-en-tcp726831",
+      "game": "magic",
+      "kind": "other",
+      "name": "Merciful Mandate",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726831_200w.jpg",
+      "source": {
+        "tcgplayer": 726831
+      }
+    },
+    {
+      "id": "mtg-en-tcp726832",
+      "game": "magic",
+      "kind": "other",
+      "name": "Right of Vengeance",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726832_200w.jpg",
+      "source": {
+        "tcgplayer": 726832
+      }
+    },
+    {
+      "id": "mtg-en-tcp726833",
+      "game": "magic",
+      "kind": "other",
+      "name": "Concerted Effort",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726833_200w.jpg",
+      "source": {
+        "tcgplayer": 726833
+      }
+    },
+    {
+      "id": "mtg-en-tcp726834",
+      "game": "magic",
+      "kind": "other",
+      "name": "Duelist's Heritage",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726834_200w.jpg",
+      "source": {
+        "tcgplayer": 726834
+      }
+    },
+    {
+      "id": "mtg-en-tcp726835",
+      "game": "magic",
+      "kind": "other",
+      "name": "Path to Exile",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726835_200w.jpg",
+      "source": {
+        "tcgplayer": 726835
+      }
+    },
+    {
+      "id": "mtg-en-tcp726836",
+      "game": "magic",
+      "kind": "other",
+      "name": "Valorous Stance",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726836_200w.jpg",
+      "source": {
+        "tcgplayer": 726836
+      }
+    },
+    {
+      "id": "mtg-en-tcp726837",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vanquish the Horde",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726837_200w.jpg",
+      "source": {
+        "tcgplayer": 726837
+      }
+    },
+    {
+      "id": "mtg-en-tcp726838",
+      "game": "magic",
+      "kind": "other",
+      "name": "Imperial Hullbreachers (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726838_200w.jpg",
+      "source": {
+        "tcgplayer": 726838
+      }
+    },
+    {
+      "id": "mtg-en-tcp726839",
+      "game": "magic",
+      "kind": "other",
+      "name": "Indelicate Healer (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726839_200w.jpg",
+      "source": {
+        "tcgplayer": 726839
+      }
+    },
+    {
+      "id": "mtg-en-tcp726840",
+      "game": "magic",
+      "kind": "other",
+      "name": "Martok, Hero of the Empire (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726840_200w.jpg",
+      "source": {
+        "tcgplayer": 726840
+      }
+    },
+    {
+      "id": "mtg-en-tcp726841",
+      "game": "magic",
+      "kind": "other",
+      "name": "Merciful Mandate (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726841_200w.jpg",
+      "source": {
+        "tcgplayer": 726841
+      }
+    },
+    {
+      "id": "mtg-en-tcp726842",
+      "game": "magic",
+      "kind": "other",
+      "name": "Right of Vengeance (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726842_200w.jpg",
+      "source": {
+        "tcgplayer": 726842
+      }
+    },
+    {
+      "id": "mtg-en-tcp726843",
+      "game": "magic",
+      "kind": "other",
+      "name": "Concerted Effort (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726843_200w.jpg",
+      "source": {
+        "tcgplayer": 726843
+      }
+    },
+    {
+      "id": "mtg-en-tcp726844",
+      "game": "magic",
+      "kind": "other",
+      "name": "Duelist's Heritage (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726844_200w.jpg",
+      "source": {
+        "tcgplayer": 726844
+      }
+    },
+    {
+      "id": "mtg-en-tcp726845",
+      "game": "magic",
+      "kind": "other",
+      "name": "Path to Exile (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726845_200w.jpg",
+      "source": {
+        "tcgplayer": 726845
+      }
+    },
+    {
+      "id": "mtg-en-tcp726846",
+      "game": "magic",
+      "kind": "other",
+      "name": "Valorous Stance (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726846_200w.jpg",
+      "source": {
+        "tcgplayer": 726846
+      }
+    },
+    {
+      "id": "mtg-en-tcp726847",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vanquish the Horde (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726847_200w.jpg",
+      "source": {
+        "tcgplayer": 726847
+      }
+    },
+    {
+      "id": "mtg-en-tcp726848",
+      "game": "magic",
+      "kind": "other",
+      "name": "Blood-Sport Champion",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726848_200w.jpg",
+      "source": {
+        "tcgplayer": 726848
+      }
+    },
+    {
+      "id": "mtg-en-tcp726849",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kurn, Son of Mogh",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726849_200w.jpg",
+      "source": {
+        "tcgplayer": 726849
+      }
+    },
+    {
+      "id": "mtg-en-tcp726850",
+      "game": "magic",
+      "kind": "other",
+      "name": "The Promise of Kahless",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726850_200w.jpg",
+      "source": {
+        "tcgplayer": 726850
+      }
+    },
+    {
+      "id": "mtg-en-tcp726851",
+      "game": "magic",
+      "kind": "other",
+      "name": "Voq, Torchbearer",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726851_200w.jpg",
+      "source": {
+        "tcgplayer": 726851
+      }
+    },
+    {
+      "id": "mtg-en-tcp726852",
+      "game": "magic",
+      "kind": "other",
+      "name": "Night's Whisper",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726852_200w.jpg",
+      "source": {
+        "tcgplayer": 726852
+      }
+    },
+    {
+      "id": "mtg-en-tcp726853",
+      "game": "magic",
+      "kind": "other",
+      "name": "Painful Truths",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726853_200w.jpg",
+      "source": {
+        "tcgplayer": 726853
+      }
+    },
+    {
+      "id": "mtg-en-tcp726854",
+      "game": "magic",
+      "kind": "other",
+      "name": "Blood-Sport Champion (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726854_200w.jpg",
+      "source": {
+        "tcgplayer": 726854
+      }
+    },
+    {
+      "id": "mtg-en-tcp726855",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kurn, Son of Mogh (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726855_200w.jpg",
+      "source": {
+        "tcgplayer": 726855
+      }
+    },
+    {
+      "id": "mtg-en-tcp726856",
+      "game": "magic",
+      "kind": "other",
+      "name": "The Promise of Kahless (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726856_200w.jpg",
+      "source": {
+        "tcgplayer": 726856
+      }
+    },
+    {
+      "id": "mtg-en-tcp726857",
+      "game": "magic",
+      "kind": "other",
+      "name": "Voq, Torchbearer (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726857_200w.jpg",
+      "source": {
+        "tcgplayer": 726857
+      }
+    },
+    {
+      "id": "mtg-en-tcp726858",
+      "game": "magic",
+      "kind": "other",
+      "name": "Night's Whisper (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726858_200w.jpg",
+      "source": {
+        "tcgplayer": 726858
+      }
+    },
+    {
+      "id": "mtg-en-tcp726859",
+      "game": "magic",
+      "kind": "other",
+      "name": "Painful Truths (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726859_200w.jpg",
+      "source": {
+        "tcgplayer": 726859
+      }
+    },
+    {
+      "id": "mtg-en-tcp726860",
+      "game": "magic",
+      "kind": "other",
+      "name": "The Beacon of Kahless",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726860_200w.jpg",
+      "source": {
+        "tcgplayer": 726860
+      }
+    },
+    {
+      "id": "mtg-en-tcp726861",
+      "game": "magic",
+      "kind": "other",
+      "name": "Ferocious Colonist",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726861_200w.jpg",
+      "source": {
+        "tcgplayer": 726861
+      }
+    },
+    {
+      "id": "mtg-en-tcp726862",
+      "game": "magic",
+      "kind": "other",
+      "name": "Gagh Slinger",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726862_200w.jpg",
+      "source": {
+        "tcgplayer": 726862
+      }
+    },
+    {
+      "id": "mtg-en-tcp726863",
+      "game": "magic",
+      "kind": "other",
+      "name": "Galvanizing Tenor",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726863_200w.jpg",
+      "source": {
+        "tcgplayer": 726863
+      }
+    },
+    {
+      "id": "mtg-en-tcp726864",
+      "game": "magic",
+      "kind": "other",
+      "name": "Glory to the Empire!",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726864_200w.jpg",
+      "source": {
+        "tcgplayer": 726864
+      }
+    },
+    {
+      "id": "mtg-en-tcp726865",
+      "game": "magic",
+      "kind": "other",
+      "name": "Gnarling Targ",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726865_200w.jpg",
+      "source": {
+        "tcgplayer": 726865
+      }
+    },
+    {
+      "id": "mtg-en-tcp726866",
+      "game": "magic",
+      "kind": "other",
+      "name": "Grilka, Widowed Warrior",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726866_200w.jpg",
+      "source": {
+        "tcgplayer": 726866
+      }
+    },
+    {
+      "id": "mtg-en-tcp726867",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kang, Suspicious Captain",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726867_200w.jpg",
+      "source": {
+        "tcgplayer": 726867
+      }
+    },
+    {
+      "id": "mtg-en-tcp726868",
+      "game": "magic",
+      "kind": "other",
+      "name": "Own the Day",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726868_200w.jpg",
+      "source": {
+        "tcgplayer": 726868
+      }
+    },
+    {
+      "id": "mtg-en-tcp726869",
+      "game": "magic",
+      "kind": "other",
+      "name": "Qo'noS Quartermaster",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726869_200w.jpg",
+      "source": {
+        "tcgplayer": 726869
+      }
+    },
+    {
+      "id": "mtg-en-tcp726870",
+      "game": "magic",
+      "kind": "other",
+      "name": "Combat Celebrant",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726870_200w.jpg",
+      "source": {
+        "tcgplayer": 726870
+      }
+    },
+    {
+      "id": "mtg-en-tcp726871",
+      "game": "magic",
+      "kind": "other",
+      "name": "Disrupt Decorum",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726871_200w.jpg",
+      "source": {
+        "tcgplayer": 726871
+      }
+    },
+    {
+      "id": "mtg-en-tcp726872",
+      "game": "magic",
+      "kind": "other",
+      "name": "Professional Face-Breaker",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726872_200w.jpg",
+      "source": {
+        "tcgplayer": 726872
+      }
+    },
+    {
+      "id": "mtg-en-tcp726873",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shared Animosity",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726873_200w.jpg",
+      "source": {
+        "tcgplayer": 726873
+      }
+    },
+    {
+      "id": "mtg-en-tcp726874",
+      "game": "magic",
+      "kind": "other",
+      "name": "World at War",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726874_200w.jpg",
+      "source": {
+        "tcgplayer": 726874
+      }
+    },
+    {
+      "id": "mtg-en-tcp726875",
+      "game": "magic",
+      "kind": "other",
+      "name": "The Beacon of Kahless (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726875_200w.jpg",
+      "source": {
+        "tcgplayer": 726875
+      }
+    },
+    {
+      "id": "mtg-en-tcp726876",
+      "game": "magic",
+      "kind": "other",
+      "name": "Ferocious Colonist (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726876_200w.jpg",
+      "source": {
+        "tcgplayer": 726876
+      }
+    },
+    {
+      "id": "mtg-en-tcp726877",
+      "game": "magic",
+      "kind": "other",
+      "name": "Gagh Slinger (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726877_200w.jpg",
+      "source": {
+        "tcgplayer": 726877
+      }
+    },
+    {
+      "id": "mtg-en-tcp726878",
+      "game": "magic",
+      "kind": "other",
+      "name": "Galvanizing Tenor (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726878_200w.jpg",
+      "source": {
+        "tcgplayer": 726878
+      }
+    },
+    {
+      "id": "mtg-en-tcp726879",
+      "game": "magic",
+      "kind": "other",
+      "name": "Glory to the Empire! (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726879_200w.jpg",
+      "source": {
+        "tcgplayer": 726879
+      }
+    },
+    {
+      "id": "mtg-en-tcp726880",
+      "game": "magic",
+      "kind": "other",
+      "name": "Gnarling Targ (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726880_200w.jpg",
+      "source": {
+        "tcgplayer": 726880
+      }
+    },
+    {
+      "id": "mtg-en-tcp726881",
+      "game": "magic",
+      "kind": "other",
+      "name": "Grilka, Widowed Warrior (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726881_200w.jpg",
+      "source": {
+        "tcgplayer": 726881
+      }
+    },
+    {
+      "id": "mtg-en-tcp726882",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kang, Suspicious Captain (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726882_200w.jpg",
+      "source": {
+        "tcgplayer": 726882
+      }
+    },
+    {
+      "id": "mtg-en-tcp726883",
+      "game": "magic",
+      "kind": "other",
+      "name": "Own the Day (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726883_200w.jpg",
+      "source": {
+        "tcgplayer": 726883
+      }
+    },
+    {
+      "id": "mtg-en-tcp726884",
+      "game": "magic",
+      "kind": "other",
+      "name": "Qo'noS Quartermaster (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726884_200w.jpg",
+      "source": {
+        "tcgplayer": 726884
+      }
+    },
+    {
+      "id": "mtg-en-tcp726885",
+      "game": "magic",
+      "kind": "other",
+      "name": "Combat Celebrant (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726885_200w.jpg",
+      "source": {
+        "tcgplayer": 726885
+      }
+    },
+    {
+      "id": "mtg-en-tcp726886",
+      "game": "magic",
+      "kind": "other",
+      "name": "Disrupt Decorum (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726886_200w.jpg",
+      "source": {
+        "tcgplayer": 726886
+      }
+    },
+    {
+      "id": "mtg-en-tcp726887",
+      "game": "magic",
+      "kind": "other",
+      "name": "Professional Face-Breaker (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726887_200w.jpg",
+      "source": {
+        "tcgplayer": 726887
+      }
+    },
+    {
+      "id": "mtg-en-tcp726888",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shared Animosity (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726888_200w.jpg",
+      "source": {
+        "tcgplayer": 726888
+      }
+    },
+    {
+      "id": "mtg-en-tcp726889",
+      "game": "magic",
+      "kind": "other",
+      "name": "World at War (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726889_200w.jpg",
+      "source": {
+        "tcgplayer": 726889
+      }
+    },
+    {
+      "id": "mtg-en-tcp726890",
+      "game": "magic",
+      "kind": "other",
+      "name": "Alexander, Ship's Fool",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726890_200w.jpg",
+      "source": {
+        "tcgplayer": 726890
+      }
+    },
+    {
+      "id": "mtg-en-tcp726891",
+      "game": "magic",
+      "kind": "other",
+      "name": "Chancellor Gorkon",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726891_200w.jpg",
+      "source": {
+        "tcgplayer": 726891
+      }
+    },
+    {
+      "id": "mtg-en-tcp726892",
+      "game": "magic",
+      "kind": "other",
+      "name": "Curzon Dax, Bound by Blood",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726892_200w.jpg",
+      "source": {
+        "tcgplayer": 726892
+      }
+    },
+    {
+      "id": "mtg-en-tcp726893",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kor, Cause of Vengeance",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726893_200w.jpg",
+      "source": {
+        "tcgplayer": 726893
+      }
+    },
+    {
+      "id": "mtg-en-tcp726894",
+      "game": "magic",
+      "kind": "other",
+      "name": "Rite of Ascension",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726894_200w.jpg",
+      "source": {
+        "tcgplayer": 726894
+      }
+    },
+    {
+      "id": "mtg-en-tcp726895",
+      "game": "magic",
+      "kind": "other",
+      "name": "Sins of the Father",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726895_200w.jpg",
+      "source": {
+        "tcgplayer": 726895
+      }
+    },
+    {
+      "id": "mtg-en-tcp726896",
+      "game": "magic",
+      "kind": "other",
+      "name": "Pest Control",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726896_200w.jpg",
+      "source": {
+        "tcgplayer": 726896
+      }
+    },
+    {
+      "id": "mtg-en-tcp726897",
+      "game": "magic",
+      "kind": "other",
+      "name": "Rite of Oblivion",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726897_200w.jpg",
+      "source": {
+        "tcgplayer": 726897
+      }
+    },
+    {
+      "id": "mtg-en-tcp726898",
+      "game": "magic",
+      "kind": "other",
+      "name": "Ruinous Ultimatum",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726898_200w.jpg",
+      "source": {
+        "tcgplayer": 726898
+      }
+    },
+    {
+      "id": "mtg-en-tcp726899",
+      "game": "magic",
+      "kind": "other",
+      "name": "Terminate",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726899_200w.jpg",
+      "source": {
+        "tcgplayer": 726899
+      }
+    },
+    {
+      "id": "mtg-en-tcp726900",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vindicate",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726900_200w.jpg",
+      "source": {
+        "tcgplayer": 726900
+      }
+    },
+    {
+      "id": "mtg-en-tcp726901",
+      "game": "magic",
+      "kind": "other",
+      "name": "Warleader's Call",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726901_200w.jpg",
+      "source": {
+        "tcgplayer": 726901
+      }
+    },
+    {
+      "id": "mtg-en-tcp726902",
+      "game": "magic",
+      "kind": "other",
+      "name": "Alexander, Ship's Fool (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726902_200w.jpg",
+      "source": {
+        "tcgplayer": 726902
+      }
+    },
+    {
+      "id": "mtg-en-tcp726903",
+      "game": "magic",
+      "kind": "other",
+      "name": "Chancellor Gorkon (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726903_200w.jpg",
+      "source": {
+        "tcgplayer": 726903
+      }
+    },
+    {
+      "id": "mtg-en-tcp726904",
+      "game": "magic",
+      "kind": "other",
+      "name": "Curzon Dax, Bound by Blood (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726904_200w.jpg",
+      "source": {
+        "tcgplayer": 726904
+      }
+    },
+    {
+      "id": "mtg-en-tcp726905",
+      "game": "magic",
+      "kind": "other",
+      "name": "Kor, Cause of Vengeance (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726905_200w.jpg",
+      "source": {
+        "tcgplayer": 726905
+      }
+    },
+    {
+      "id": "mtg-en-tcp726906",
+      "game": "magic",
+      "kind": "other",
+      "name": "Rite of Ascension (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726906_200w.jpg",
+      "source": {
+        "tcgplayer": 726906
+      }
+    },
+    {
+      "id": "mtg-en-tcp726907",
+      "game": "magic",
+      "kind": "other",
+      "name": "Sins of the Father (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726907_200w.jpg",
+      "source": {
+        "tcgplayer": 726907
+      }
+    },
+    {
+      "id": "mtg-en-tcp726908",
+      "game": "magic",
+      "kind": "other",
+      "name": "Pest Control (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726908_200w.jpg",
+      "source": {
+        "tcgplayer": 726908
+      }
+    },
+    {
+      "id": "mtg-en-tcp726909",
+      "game": "magic",
+      "kind": "other",
+      "name": "Rite of Oblivion (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726909_200w.jpg",
+      "source": {
+        "tcgplayer": 726909
+      }
+    },
+    {
+      "id": "mtg-en-tcp726910",
+      "game": "magic",
+      "kind": "other",
+      "name": "Ruinous Ultimatum (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726910_200w.jpg",
+      "source": {
+        "tcgplayer": 726910
+      }
+    },
+    {
+      "id": "mtg-en-tcp726911",
+      "game": "magic",
+      "kind": "other",
+      "name": "Terminate (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726911_200w.jpg",
+      "source": {
+        "tcgplayer": 726911
+      }
+    },
+    {
+      "id": "mtg-en-tcp726912",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vindicate (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726912_200w.jpg",
+      "source": {
+        "tcgplayer": 726912
+      }
+    },
+    {
+      "id": "mtg-en-tcp726913",
+      "game": "magic",
+      "kind": "other",
+      "name": "Warleader's Call (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726913_200w.jpg",
+      "source": {
+        "tcgplayer": 726913
+      }
+    },
+    {
+      "id": "mtg-en-tcp726914",
+      "game": "magic",
+      "kind": "other",
+      "name": "I.K.S. Negh'Var, Imperial Flagship",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726914_200w.jpg",
+      "source": {
+        "tcgplayer": 726914
+      }
+    },
+    {
+      "id": "mtg-en-tcp726915",
+      "game": "magic",
+      "kind": "other",
+      "name": "K't'inga-Class Battle Cruiser",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726915_200w.jpg",
+      "source": {
+        "tcgplayer": 726915
+      }
+    },
+    {
+      "id": "mtg-en-tcp726916",
+      "game": "magic",
+      "kind": "other",
+      "name": "K'Vort-Class Raider",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726916_200w.jpg",
+      "source": {
+        "tcgplayer": 726916
+      }
+    },
+    {
+      "id": "mtg-en-tcp726917",
+      "game": "magic",
+      "kind": "other",
+      "name": "Herald's Horn",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726917_200w.jpg",
+      "source": {
+        "tcgplayer": 726917
+      }
+    },
+    {
+      "id": "mtg-en-tcp726918",
+      "game": "magic",
+      "kind": "other",
+      "name": "Lightning Greaves",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726918_200w.jpg",
+      "source": {
+        "tcgplayer": 726918
+      }
+    },
+    {
+      "id": "mtg-en-tcp726919",
+      "game": "magic",
+      "kind": "other",
+      "name": "Sword of Light and Shadow",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726919_200w.jpg",
+      "source": {
+        "tcgplayer": 726919
+      }
+    },
+    {
+      "id": "mtg-en-tcp726920",
+      "game": "magic",
+      "kind": "other",
+      "name": "Talisman of Indulgence",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726920_200w.jpg",
+      "source": {
+        "tcgplayer": 726920
+      }
+    },
+    {
+      "id": "mtg-en-tcp726921",
+      "game": "magic",
+      "kind": "other",
+      "name": "I.K.S. Negh'Var, Imperial Flagship (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726921_200w.jpg",
+      "source": {
+        "tcgplayer": 726921
+      }
+    },
+    {
+      "id": "mtg-en-tcp726922",
+      "game": "magic",
+      "kind": "other",
+      "name": "K't'inga-Class Battle Cruiser (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726922_200w.jpg",
+      "source": {
+        "tcgplayer": 726922
+      }
+    },
+    {
+      "id": "mtg-en-tcp726923",
+      "game": "magic",
+      "kind": "other",
+      "name": "K'Vort-Class Raider (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726923_200w.jpg",
+      "source": {
+        "tcgplayer": 726923
+      }
+    },
+    {
+      "id": "mtg-en-tcp726924",
+      "game": "magic",
+      "kind": "other",
+      "name": "Herald's Horn (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726924_200w.jpg",
+      "source": {
+        "tcgplayer": 726924
+      }
+    },
+    {
+      "id": "mtg-en-tcp726925",
+      "game": "magic",
+      "kind": "other",
+      "name": "Lightning Greaves (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726925_200w.jpg",
+      "source": {
+        "tcgplayer": 726925
+      }
+    },
+    {
+      "id": "mtg-en-tcp726926",
+      "game": "magic",
+      "kind": "other",
+      "name": "Sword of Light and Shadow (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726926_200w.jpg",
+      "source": {
+        "tcgplayer": 726926
+      }
+    },
+    {
+      "id": "mtg-en-tcp726927",
+      "game": "magic",
+      "kind": "other",
+      "name": "Talisman of Indulgence (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726927_200w.jpg",
+      "source": {
+        "tcgplayer": 726927
+      }
+    },
+    {
+      "id": "mtg-en-tcp726928",
+      "game": "magic",
+      "kind": "other",
+      "name": "Canyon Slough",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726928_200w.jpg",
+      "source": {
+        "tcgplayer": 726928
+      }
+    },
+    {
+      "id": "mtg-en-tcp726929",
+      "game": "magic",
+      "kind": "other",
+      "name": "Dragonskull Summit",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726929_200w.jpg",
+      "source": {
+        "tcgplayer": 726929
+      }
+    },
+    {
+      "id": "mtg-en-tcp726930",
+      "game": "magic",
+      "kind": "other",
+      "name": "Foreboding Ruins",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726930_200w.jpg",
+      "source": {
+        "tcgplayer": 726930
+      }
+    },
+    {
+      "id": "mtg-en-tcp726931",
+      "game": "magic",
+      "kind": "other",
+      "name": "Nomad Outpost",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726931_200w.jpg",
+      "source": {
+        "tcgplayer": 726931
+      }
+    },
+    {
+      "id": "mtg-en-tcp726932",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shattered Landscape",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726932_200w.jpg",
+      "source": {
+        "tcgplayer": 726932
+      }
+    },
+    {
+      "id": "mtg-en-tcp726933",
+      "game": "magic",
+      "kind": "other",
+      "name": "Smoldering Marsh",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726933_200w.jpg",
+      "source": {
+        "tcgplayer": 726933
+      }
+    },
+    {
+      "id": "mtg-en-tcp726934",
+      "game": "magic",
+      "kind": "other",
+      "name": "Temple of Malice",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726934_200w.jpg",
+      "source": {
+        "tcgplayer": 726934
+      }
+    },
+    {
+      "id": "mtg-en-tcp726935",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vault of Champions",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726935_200w.jpg",
+      "source": {
+        "tcgplayer": 726935
+      }
+    },
+    {
+      "id": "mtg-en-tcp726936",
+      "game": "magic",
+      "kind": "other",
+      "name": "Canyon Slough (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726936_200w.jpg",
+      "source": {
+        "tcgplayer": 726936
+      }
+    },
+    {
+      "id": "mtg-en-tcp726937",
+      "game": "magic",
+      "kind": "other",
+      "name": "Dragonskull Summit (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726937_200w.jpg",
+      "source": {
+        "tcgplayer": 726937
+      }
+    },
+    {
+      "id": "mtg-en-tcp726938",
+      "game": "magic",
+      "kind": "other",
+      "name": "Foreboding Ruins (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726938_200w.jpg",
+      "source": {
+        "tcgplayer": 726938
+      }
+    },
+    {
+      "id": "mtg-en-tcp726939",
+      "game": "magic",
+      "kind": "other",
+      "name": "Nomad Outpost (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726939_200w.jpg",
+      "source": {
+        "tcgplayer": 726939
+      }
+    },
+    {
+      "id": "mtg-en-tcp726940",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shattered Landscape (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726940_200w.jpg",
+      "source": {
+        "tcgplayer": 726940
+      }
+    },
+    {
+      "id": "mtg-en-tcp726941",
+      "game": "magic",
+      "kind": "other",
+      "name": "Smoldering Marsh (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726941_200w.jpg",
+      "source": {
+        "tcgplayer": 726941
+      }
+    },
+    {
+      "id": "mtg-en-tcp726942",
+      "game": "magic",
+      "kind": "other",
+      "name": "Temple of Malice (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726942_200w.jpg",
+      "source": {
+        "tcgplayer": 726942
+      }
+    },
+    {
+      "id": "mtg-en-tcp726943",
+      "game": "magic",
+      "kind": "other",
+      "name": "Vault of Champions (Surge Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-trc"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726943_200w.jpg",
+      "source": {
+        "tcgplayer": 726943
       }
     },
     {
@@ -47646,6 +49386,17 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
       "source": {
         "tcgplayer": 722935
+      }
+    },
+    {
+      "id": "mtg-en-tcp726944",
+      "game": "magic",
+      "kind": "other",
+      "name": "Fable of the Mirror-Breaker (Winner)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726944_200w.jpg",
+      "source": {
+        "tcgplayer": 726944
       }
     },
     {

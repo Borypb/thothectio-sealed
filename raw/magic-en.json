@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-10-28T10:39:39.696Z",
+  "harvestedAt": "2026-10-29T10:57:33.190Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -1887,8 +1887,16 @@
     "52": {
       "name": "Game Day & Store Championship Promos",
       "abbreviation": "GAME",
-      "modifiedOn": "2026-10-16T15:47:26.297",
-      "products": []
+      "modifiedOn": "2026-10-28T19:50:37.63",
+      "products": [
+        {
+          "tcgplayerId": 726944,
+          "name": "Fable of the Mirror-Breaker (Winner)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726944_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726944/magic-game-day-and-store-championship-promos-fable-of-the-mirror-breaker-winner"
+        }
+      ]
     },
     "53": {
       "name": "WPN & Gateway Promos",
@@ -12448,7 +12456,7 @@
     "2494": {
       "name": "Throne of Eldraine",
       "abbreviation": "ELD",
-      "modifiedOn": "2026-10-09T05:41:04.34",
+      "modifiedOn": "2026-10-28T05:43:04.007",
       "publishedOn": "2019-10-04",
       "setId": "mtg-eld",
       "products": [
@@ -12952,7 +12960,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-10-27T19:36:13.353",
+      "modifiedOn": "2026-10-28T16:00:42.913",
       "setId": "mtg-sld",
       "products": [
         {
@@ -21687,7 +21695,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-10-27T18:37:51.917",
+      "modifiedOn": "2026-10-28T14:56:43.41",
       "products": []
     },
     "2716": {
@@ -23113,7 +23121,7 @@
     "2870": {
       "name": "Commander: Adventures in the Forgotten Realms",
       "abbreviation": "AFC",
-      "modifiedOn": "2026-09-18T13:35:39.823",
+      "modifiedOn": "2026-10-28T11:17:40.127",
       "publishedOn": "2021-07-23",
       "setId": "mtg-afc",
       "products": [
@@ -24233,7 +24241,7 @@
     "3070": {
       "name": "Double Masters 2022",
       "abbreviation": "2X2",
-      "modifiedOn": "2026-10-26T19:41:27.653",
+      "modifiedOn": "2026-10-28T17:36:33.88",
       "publishedOn": "2022-07-08",
       "setId": "mtg-2x2",
       "products": [
@@ -26788,7 +26796,7 @@
     "23319": {
       "name": "Ravnica Remastered",
       "abbreviation": "RVR",
-      "modifiedOn": "2026-10-27T19:39:00.213",
+      "modifiedOn": "2026-10-28T19:45:27.51",
       "publishedOn": "2024-01-12",
       "setId": "mtg-rvr",
       "products": [
@@ -27746,7 +27754,7 @@
     "23447": {
       "name": "Bloomburrow",
       "abbreviation": "BLB",
-      "modifiedOn": "2026-10-23T19:56:00.777",
+      "modifiedOn": "2026-10-28T13:40:51.887",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blb",
       "products": [
@@ -28178,7 +28186,7 @@
     "23551": {
       "name": "Commander: Duskmourn: House of Horror",
       "abbreviation": "DSC",
-      "modifiedOn": "2026-10-21T13:12:10.32",
+      "modifiedOn": "2026-10-28T11:21:44.493",
       "publishedOn": "2024-09-27",
       "setId": "mtg-dsc",
       "products": [
@@ -28842,7 +28850,7 @@
     "24219": {
       "name": "FINAL FANTASY",
       "abbreviation": "FIN",
-      "modifiedOn": "2026-10-20T17:23:35.993",
+      "modifiedOn": "2026-10-28T07:09:14.673",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fin",
       "products": [
@@ -29284,7 +29292,7 @@
     "24226": {
       "name": "FINAL FANTASY: Through the Ages",
       "abbreviation": "FCA",
-      "modifiedOn": "2026-09-23T06:53:37.213",
+      "modifiedOn": "2026-10-28T07:08:09.21",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fca",
       "products": []
@@ -29566,7 +29574,7 @@
     "24234": {
       "name": "Commander: Tarkir: Dragonstorm",
       "abbreviation": "TDC",
-      "modifiedOn": "2026-10-26T12:55:07.66",
+      "modifiedOn": "2026-10-28T11:18:36.753",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdc",
       "products": [
@@ -31731,7 +31739,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-10-27T19:28:51.1",
+      "modifiedOn": "2026-10-28T18:13:28.043",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -31884,7 +31892,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-10-27T19:42:07.15",
+      "modifiedOn": "2026-10-28T19:43:41.277",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -31967,13 +31975,941 @@
           "releasedOn": "2026-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/706181_200w.jpg",
           "url": "https://www.tcgplayer.com/product/706181/magic-commander-star-trek-star-trek-commander-deck-case-collectors-edition"
+        },
+        {
+          "tcgplayerId": 726828,
+          "name": "Imperial Hullbreachers",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726828_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726828/magic-commander-star-trek-imperial-hullbreachers"
+        },
+        {
+          "tcgplayerId": 726829,
+          "name": "Indelicate Healer",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726829_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726829/magic-commander-star-trek-indelicate-healer"
+        },
+        {
+          "tcgplayerId": 726830,
+          "name": "Martok, Hero of the Empire",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726830_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726830/magic-commander-star-trek-martok-hero-of-the-empire"
+        },
+        {
+          "tcgplayerId": 726831,
+          "name": "Merciful Mandate",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726831_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726831/magic-commander-star-trek-merciful-mandate"
+        },
+        {
+          "tcgplayerId": 726832,
+          "name": "Right of Vengeance",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726832_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726832/magic-commander-star-trek-right-of-vengeance"
+        },
+        {
+          "tcgplayerId": 726833,
+          "name": "Concerted Effort",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726833_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726833/magic-commander-star-trek-concerted-effort"
+        },
+        {
+          "tcgplayerId": 726834,
+          "name": "Duelist's Heritage",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726834_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726834/magic-commander-star-trek-duelists-heritage"
+        },
+        {
+          "tcgplayerId": 726835,
+          "name": "Path to Exile",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726835_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726835/magic-commander-star-trek-path-to-exile"
+        },
+        {
+          "tcgplayerId": 726836,
+          "name": "Valorous Stance",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726836_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726836/magic-commander-star-trek-valorous-stance"
+        },
+        {
+          "tcgplayerId": 726837,
+          "name": "Vanquish the Horde",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726837_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726837/magic-commander-star-trek-vanquish-the-horde"
+        },
+        {
+          "tcgplayerId": 726838,
+          "name": "Imperial Hullbreachers (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726838_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726838/magic-commander-star-trek-imperial-hullbreachers-surge-foil"
+        },
+        {
+          "tcgplayerId": 726839,
+          "name": "Indelicate Healer (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726839_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726839/magic-commander-star-trek-indelicate-healer-surge-foil"
+        },
+        {
+          "tcgplayerId": 726840,
+          "name": "Martok, Hero of the Empire (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726840_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726840/magic-commander-star-trek-martok-hero-of-the-empire-surge-foil"
+        },
+        {
+          "tcgplayerId": 726841,
+          "name": "Merciful Mandate (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726841_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726841/magic-commander-star-trek-merciful-mandate-surge-foil"
+        },
+        {
+          "tcgplayerId": 726842,
+          "name": "Right of Vengeance (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726842_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726842/magic-commander-star-trek-right-of-vengeance-surge-foil"
+        },
+        {
+          "tcgplayerId": 726843,
+          "name": "Concerted Effort (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726843_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726843/magic-commander-star-trek-concerted-effort-surge-foil"
+        },
+        {
+          "tcgplayerId": 726844,
+          "name": "Duelist's Heritage (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726844_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726844/magic-commander-star-trek-duelists-heritage-surge-foil"
+        },
+        {
+          "tcgplayerId": 726845,
+          "name": "Path to Exile (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726845_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726845/magic-commander-star-trek-path-to-exile-surge-foil"
+        },
+        {
+          "tcgplayerId": 726846,
+          "name": "Valorous Stance (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726846_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726846/magic-commander-star-trek-valorous-stance-surge-foil"
+        },
+        {
+          "tcgplayerId": 726847,
+          "name": "Vanquish the Horde (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726847_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726847/magic-commander-star-trek-vanquish-the-horde-surge-foil"
+        },
+        {
+          "tcgplayerId": 726848,
+          "name": "Blood-Sport Champion",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726848_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726848/magic-commander-star-trek-blood-sport-champion"
+        },
+        {
+          "tcgplayerId": 726849,
+          "name": "Kurn, Son of Mogh",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726849_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726849/magic-commander-star-trek-kurn-son-of-mogh"
+        },
+        {
+          "tcgplayerId": 726850,
+          "name": "The Promise of Kahless",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726850_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726850/magic-commander-star-trek-the-promise-of-kahless"
+        },
+        {
+          "tcgplayerId": 726851,
+          "name": "Voq, Torchbearer",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726851_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726851/magic-commander-star-trek-voq-torchbearer"
+        },
+        {
+          "tcgplayerId": 726852,
+          "name": "Night's Whisper",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726852_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726852/magic-commander-star-trek-nights-whisper"
+        },
+        {
+          "tcgplayerId": 726853,
+          "name": "Painful Truths",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726853_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726853/magic-commander-star-trek-painful-truths"
+        },
+        {
+          "tcgplayerId": 726854,
+          "name": "Blood-Sport Champion (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726854_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726854/magic-commander-star-trek-blood-sport-champion-surge-foil"
+        },
+        {
+          "tcgplayerId": 726855,
+          "name": "Kurn, Son of Mogh (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726855_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726855/magic-commander-star-trek-kurn-son-of-mogh-surge-foil"
+        },
+        {
+          "tcgplayerId": 726856,
+          "name": "The Promise of Kahless (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726856_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726856/magic-commander-star-trek-the-promise-of-kahless-surge-foil"
+        },
+        {
+          "tcgplayerId": 726857,
+          "name": "Voq, Torchbearer (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726857_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726857/magic-commander-star-trek-voq-torchbearer-surge-foil"
+        },
+        {
+          "tcgplayerId": 726858,
+          "name": "Night's Whisper (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726858_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726858/magic-commander-star-trek-nights-whisper-surge-foil"
+        },
+        {
+          "tcgplayerId": 726859,
+          "name": "Painful Truths (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726859_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726859/magic-commander-star-trek-painful-truths-surge-foil"
+        },
+        {
+          "tcgplayerId": 726860,
+          "name": "The Beacon of Kahless",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726860_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726860/magic-commander-star-trek-the-beacon-of-kahless"
+        },
+        {
+          "tcgplayerId": 726861,
+          "name": "Ferocious Colonist",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726861_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726861/magic-commander-star-trek-ferocious-colonist"
+        },
+        {
+          "tcgplayerId": 726862,
+          "name": "Gagh Slinger",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726862_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726862/magic-commander-star-trek-gagh-slinger"
+        },
+        {
+          "tcgplayerId": 726863,
+          "name": "Galvanizing Tenor",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726863_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726863/magic-commander-star-trek-galvanizing-tenor"
+        },
+        {
+          "tcgplayerId": 726864,
+          "name": "Glory to the Empire!",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726864_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726864/magic-commander-star-trek-glory-to-the-empire"
+        },
+        {
+          "tcgplayerId": 726865,
+          "name": "Gnarling Targ",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726865_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726865/magic-commander-star-trek-gnarling-targ"
+        },
+        {
+          "tcgplayerId": 726866,
+          "name": "Grilka, Widowed Warrior",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726866_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726866/magic-commander-star-trek-grilka-widowed-warrior"
+        },
+        {
+          "tcgplayerId": 726867,
+          "name": "Kang, Suspicious Captain",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726867_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726867/magic-commander-star-trek-kang-suspicious-captain"
+        },
+        {
+          "tcgplayerId": 726868,
+          "name": "Own the Day",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726868_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726868/magic-commander-star-trek-own-the-day"
+        },
+        {
+          "tcgplayerId": 726869,
+          "name": "Qo'noS Quartermaster",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726869_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726869/magic-commander-star-trek-qonos-quartermaster"
+        },
+        {
+          "tcgplayerId": 726870,
+          "name": "Combat Celebrant",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726870_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726870/magic-commander-star-trek-combat-celebrant"
+        },
+        {
+          "tcgplayerId": 726871,
+          "name": "Disrupt Decorum",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726871_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726871/magic-commander-star-trek-disrupt-decorum"
+        },
+        {
+          "tcgplayerId": 726872,
+          "name": "Professional Face-Breaker",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726872_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726872/magic-commander-star-trek-professional-face-breaker"
+        },
+        {
+          "tcgplayerId": 726873,
+          "name": "Shared Animosity",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726873_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726873/magic-commander-star-trek-shared-animosity"
+        },
+        {
+          "tcgplayerId": 726874,
+          "name": "World at War",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726874_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726874/magic-commander-star-trek-world-at-war"
+        },
+        {
+          "tcgplayerId": 726875,
+          "name": "The Beacon of Kahless (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726875_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726875/magic-commander-star-trek-the-beacon-of-kahless-surge-foil"
+        },
+        {
+          "tcgplayerId": 726876,
+          "name": "Ferocious Colonist (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726876_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726876/magic-commander-star-trek-ferocious-colonist-surge-foil"
+        },
+        {
+          "tcgplayerId": 726877,
+          "name": "Gagh Slinger (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726877_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726877/magic-commander-star-trek-gagh-slinger-surge-foil"
+        },
+        {
+          "tcgplayerId": 726878,
+          "name": "Galvanizing Tenor (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726878_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726878/magic-commander-star-trek-galvanizing-tenor-surge-foil"
+        },
+        {
+          "tcgplayerId": 726879,
+          "name": "Glory to the Empire! (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726879_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726879/magic-commander-star-trek-glory-to-the-empire-surge-foil"
+        },
+        {
+          "tcgplayerId": 726880,
+          "name": "Gnarling Targ (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726880_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726880/magic-commander-star-trek-gnarling-targ-surge-foil"
+        },
+        {
+          "tcgplayerId": 726881,
+          "name": "Grilka, Widowed Warrior (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726881_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726881/magic-commander-star-trek-grilka-widowed-warrior-surge-foil"
+        },
+        {
+          "tcgplayerId": 726882,
+          "name": "Kang, Suspicious Captain (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726882_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726882/magic-commander-star-trek-kang-suspicious-captain-surge-foil"
+        },
+        {
+          "tcgplayerId": 726883,
+          "name": "Own the Day (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726883_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726883/magic-commander-star-trek-own-the-day-surge-foil"
+        },
+        {
+          "tcgplayerId": 726884,
+          "name": "Qo'noS Quartermaster (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726884_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726884/magic-commander-star-trek-qonos-quartermaster-surge-foil"
+        },
+        {
+          "tcgplayerId": 726885,
+          "name": "Combat Celebrant (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726885_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726885/magic-commander-star-trek-combat-celebrant-surge-foil"
+        },
+        {
+          "tcgplayerId": 726886,
+          "name": "Disrupt Decorum (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726886_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726886/magic-commander-star-trek-disrupt-decorum-surge-foil"
+        },
+        {
+          "tcgplayerId": 726887,
+          "name": "Professional Face-Breaker (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726887_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726887/magic-commander-star-trek-professional-face-breaker-surge-foil"
+        },
+        {
+          "tcgplayerId": 726888,
+          "name": "Shared Animosity (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726888_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726888/magic-commander-star-trek-shared-animosity-surge-foil"
+        },
+        {
+          "tcgplayerId": 726889,
+          "name": "World at War (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726889_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726889/magic-commander-star-trek-world-at-war-surge-foil"
+        },
+        {
+          "tcgplayerId": 726890,
+          "name": "Alexander, Ship's Fool",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726890_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726890/magic-commander-star-trek-alexander-ships-fool"
+        },
+        {
+          "tcgplayerId": 726891,
+          "name": "Chancellor Gorkon",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726891_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726891/magic-commander-star-trek-chancellor-gorkon"
+        },
+        {
+          "tcgplayerId": 726892,
+          "name": "Curzon Dax, Bound by Blood",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726892_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726892/magic-commander-star-trek-curzon-dax-bound-by-blood"
+        },
+        {
+          "tcgplayerId": 726893,
+          "name": "Kor, Cause of Vengeance",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726893_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726893/magic-commander-star-trek-kor-cause-of-vengeance"
+        },
+        {
+          "tcgplayerId": 726894,
+          "name": "Rite of Ascension",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726894_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726894/magic-commander-star-trek-rite-of-ascension"
+        },
+        {
+          "tcgplayerId": 726895,
+          "name": "Sins of the Father",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726895_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726895/magic-commander-star-trek-sins-of-the-father"
+        },
+        {
+          "tcgplayerId": 726896,
+          "name": "Pest Control",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726896_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726896/magic-commander-star-trek-pest-control"
+        },
+        {
+          "tcgplayerId": 726897,
+          "name": "Rite of Oblivion",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726897_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726897/magic-commander-star-trek-rite-of-oblivion"
+        },
+        {
+          "tcgplayerId": 726898,
+          "name": "Ruinous Ultimatum",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726898_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726898/magic-commander-star-trek-ruinous-ultimatum"
+        },
+        {
+          "tcgplayerId": 726899,
+          "name": "Terminate",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726899_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726899/magic-commander-star-trek-terminate"
+        },
+        {
+          "tcgplayerId": 726900,
+          "name": "Vindicate",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726900_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726900/magic-commander-star-trek-vindicate"
+        },
+        {
+          "tcgplayerId": 726901,
+          "name": "Warleader's Call",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726901_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726901/magic-commander-star-trek-warleaders-call"
+        },
+        {
+          "tcgplayerId": 726902,
+          "name": "Alexander, Ship's Fool (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726902_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726902/magic-commander-star-trek-alexander-ships-fool-surge-foil"
+        },
+        {
+          "tcgplayerId": 726903,
+          "name": "Chancellor Gorkon (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726903_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726903/magic-commander-star-trek-chancellor-gorkon-surge-foil"
+        },
+        {
+          "tcgplayerId": 726904,
+          "name": "Curzon Dax, Bound by Blood (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726904_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726904/magic-commander-star-trek-curzon-dax-bound-by-blood-surge-foil"
+        },
+        {
+          "tcgplayerId": 726905,
+          "name": "Kor, Cause of Vengeance (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726905_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726905/magic-commander-star-trek-kor-cause-of-vengeance-surge-foil"
+        },
+        {
+          "tcgplayerId": 726906,
+          "name": "Rite of Ascension (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726906_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726906/magic-commander-star-trek-rite-of-ascension-surge-foil"
+        },
+        {
+          "tcgplayerId": 726907,
+          "name": "Sins of the Father (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726907_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726907/magic-commander-star-trek-sins-of-the-father-surge-foil"
+        },
+        {
+          "tcgplayerId": 726908,
+          "name": "Pest Control (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726908_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726908/magic-commander-star-trek-pest-control-surge-foil"
+        },
+        {
+          "tcgplayerId": 726909,
+          "name": "Rite of Oblivion (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726909_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726909/magic-commander-star-trek-rite-of-oblivion-surge-foil"
+        },
+        {
+          "tcgplayerId": 726910,
+          "name": "Ruinous Ultimatum (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726910_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726910/magic-commander-star-trek-ruinous-ultimatum-surge-foil"
+        },
+        {
+          "tcgplayerId": 726911,
+          "name": "Terminate (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726911_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726911/magic-commander-star-trek-terminate-surge-foil"
+        },
+        {
+          "tcgplayerId": 726912,
+          "name": "Vindicate (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726912_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726912/magic-commander-star-trek-vindicate-surge-foil"
+        },
+        {
+          "tcgplayerId": 726913,
+          "name": "Warleader's Call (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726913_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726913/magic-commander-star-trek-warleaders-call-surge-foil"
+        },
+        {
+          "tcgplayerId": 726914,
+          "name": "I.K.S. Negh'Var, Imperial Flagship",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726914_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726914/magic-commander-star-trek-iks-neghvar-imperial-flagship"
+        },
+        {
+          "tcgplayerId": 726915,
+          "name": "K't'inga-Class Battle Cruiser",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726915_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726915/magic-commander-star-trek-ktinga-class-battle-cruiser"
+        },
+        {
+          "tcgplayerId": 726916,
+          "name": "K'Vort-Class Raider",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726916_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726916/magic-commander-star-trek-kvort-class-raider"
+        },
+        {
+          "tcgplayerId": 726917,
+          "name": "Herald's Horn",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726917_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726917/magic-commander-star-trek-heralds-horn"
+        },
+        {
+          "tcgplayerId": 726918,
+          "name": "Lightning Greaves",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726918_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726918/magic-commander-star-trek-lightning-greaves"
+        },
+        {
+          "tcgplayerId": 726919,
+          "name": "Sword of Light and Shadow",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726919_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726919/magic-commander-star-trek-sword-of-light-and-shadow"
+        },
+        {
+          "tcgplayerId": 726920,
+          "name": "Talisman of Indulgence",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726920_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726920/magic-commander-star-trek-talisman-of-indulgence"
+        },
+        {
+          "tcgplayerId": 726921,
+          "name": "I.K.S. Negh'Var, Imperial Flagship (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726921_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726921/magic-commander-star-trek-iks-neghvar-imperial-flagship-surge-foil"
+        },
+        {
+          "tcgplayerId": 726922,
+          "name": "K't'inga-Class Battle Cruiser (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726922_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726922/magic-commander-star-trek-ktinga-class-battle-cruiser-surge-foil"
+        },
+        {
+          "tcgplayerId": 726923,
+          "name": "K'Vort-Class Raider (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726923_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726923/magic-commander-star-trek-kvort-class-raider-surge-foil"
+        },
+        {
+          "tcgplayerId": 726924,
+          "name": "Herald's Horn (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726924_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726924/magic-commander-star-trek-heralds-horn-surge-foil"
+        },
+        {
+          "tcgplayerId": 726925,
+          "name": "Lightning Greaves (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726925_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726925/magic-commander-star-trek-lightning-greaves-surge-foil"
+        },
+        {
+          "tcgplayerId": 726926,
+          "name": "Sword of Light and Shadow (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726926_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726926/magic-commander-star-trek-sword-of-light-and-shadow-surge-foil"
+        },
+        {
+          "tcgplayerId": 726927,
+          "name": "Talisman of Indulgence (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726927_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726927/magic-commander-star-trek-talisman-of-indulgence-surge-foil"
+        },
+        {
+          "tcgplayerId": 726928,
+          "name": "Canyon Slough",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726928_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726928/magic-commander-star-trek-canyon-slough"
+        },
+        {
+          "tcgplayerId": 726929,
+          "name": "Dragonskull Summit",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726929_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726929/magic-commander-star-trek-dragonskull-summit"
+        },
+        {
+          "tcgplayerId": 726930,
+          "name": "Foreboding Ruins",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726930_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726930/magic-commander-star-trek-foreboding-ruins"
+        },
+        {
+          "tcgplayerId": 726931,
+          "name": "Nomad Outpost",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726931_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726931/magic-commander-star-trek-nomad-outpost"
+        },
+        {
+          "tcgplayerId": 726932,
+          "name": "Shattered Landscape",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726932_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726932/magic-commander-star-trek-shattered-landscape"
+        },
+        {
+          "tcgplayerId": 726933,
+          "name": "Smoldering Marsh",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726933_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726933/magic-commander-star-trek-smoldering-marsh"
+        },
+        {
+          "tcgplayerId": 726934,
+          "name": "Temple of Malice",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726934_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726934/magic-commander-star-trek-temple-of-malice"
+        },
+        {
+          "tcgplayerId": 726935,
+          "name": "Vault of Champions",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726935_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726935/magic-commander-star-trek-vault-of-champions"
+        },
+        {
+          "tcgplayerId": 726936,
+          "name": "Canyon Slough (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726936_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726936/magic-commander-star-trek-canyon-slough-surge-foil"
+        },
+        {
+          "tcgplayerId": 726937,
+          "name": "Dragonskull Summit (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726937_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726937/magic-commander-star-trek-dragonskull-summit-surge-foil"
+        },
+        {
+          "tcgplayerId": 726938,
+          "name": "Foreboding Ruins (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726938_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726938/magic-commander-star-trek-foreboding-ruins-surge-foil"
+        },
+        {
+          "tcgplayerId": 726939,
+          "name": "Nomad Outpost (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726939_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726939/magic-commander-star-trek-nomad-outpost-surge-foil"
+        },
+        {
+          "tcgplayerId": 726940,
+          "name": "Shattered Landscape (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726940_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726940/magic-commander-star-trek-shattered-landscape-surge-foil"
+        },
+        {
+          "tcgplayerId": 726941,
+          "name": "Smoldering Marsh (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726941_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726941/magic-commander-star-trek-smoldering-marsh-surge-foil"
+        },
+        {
+          "tcgplayerId": 726942,
+          "name": "Temple of Malice (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726942_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726942/magic-commander-star-trek-temple-of-malice-surge-foil"
+        },
+        {
+          "tcgplayerId": 726943,
+          "name": "Vault of Champions (Surge Foil)",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726943_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726943/magic-commander-star-trek-vault-of-champions-surge-foil"
         }
       ]
     },
     "24771": {
       "name": "Star Trek: Stardates",
       "abbreviation": "SDS",
-      "modifiedOn": "2026-10-21T14:04:46.76",
+      "modifiedOn": "2026-10-28T18:27:51.237",
       "publishedOn": "2026-11-13",
       "setId": "mtg-sds",
       "products": []

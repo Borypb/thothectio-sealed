@@ -59,6 +59,10 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
    indiquée par TCGdex n'a pas les attaques de la carte et qu'une fiche de la même extension a exactement son nom et
    ses attaques, sa cote est publiée avec `fix: 1` et l'app la préfère (705 cartes le 27/10).
 
+   Fiches Cardmarket reliées à la main, quand le rapprochement automatique ne peut pas (extension Cardmarket d'une
+   seule carte, comme Ancient Mew) : `curated/cardmarket-links.json`, clé `<id TCGdex de l'extension>/<numéro TCGdex>`,
+   valeur : numéro du produit Cardmarket.
+
 7. **Cotes Cardmarket des autres licences** (`cardmarket-prices.mjs`) : Lorcana (cartes de Lorcast), Riftbound et
    Cyberpunk (catalogue TCGplayer de `cards/`), retrouvées dans le guide de prix public de Cardmarket par leur nom dans
    leur extension. Une extension Cardmarket est attribuée à une extension de l'app si elle contient au moins 60 % de
@@ -173,6 +177,7 @@ reste du catalogue se met à jour, et l'erreur est affichée dans le résumé de
 | `photo` | conseillé | chemin dans le dépôt `photos`, ou adresse complète d'une image |
 | `showPhoto` | facultatif | `false` : la photo sert au scan mais n'est pas affichée dans l'app |
 | `source`, `note` | facultatifs | d'où vient l'information (lien, référence) ; non publiés |
+| `cardmarket`, `tcgplayer` | facultatifs | numéro du produit chez Cardmarket (liste publique `products_singles_<jeu>.json`) ou TCGplayer : la carte reçoit sa cote chaque nuit (Pokémon : `cards/pokemon-prices.json`, champ `ids`) |
 
 **Photos** : dans un dépôt GitHub **public** à part (`photos`, par exemple `Borypb/thothectio-photos`), qu'on peut
 fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse la carte, la photo doit être :

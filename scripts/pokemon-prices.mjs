@@ -14,13 +14,16 @@
 // qu'une fiche de la même extension a exactement son nom et ses attaques, sa cote est publiée avec « fix: 1 ».
 // Versions de la carte (v) : cote propre à chaque version quand elle en a une — produit TCGplayer de la version,
 // fiche Cardmarket de la version si Cardmarket les sépare, sinon fiche partagée (« normal-1st-movie », « holo-cosmos »…).
-// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix, v } } } }
+// Liens faits à la main : curated/cardmarket-links.json (carte TCGdex → fiche Cardmarket) ; cartes ajoutées à la main
+// (curated/cards.json) avec « cardmarket » ou « tcgplayer » : cote dans « ids », par identifiant de l'impression.
+// Sortie : cards/pokemon-prices.json  { updatedAt, cardmarketAt, sets: { <id TCGdex>: { <numéro>: { cm, tp, fix, v } } }, ids }
 // Éditions internationales seulement (dossier data/ de TCGdex, sans TCG Pocket).
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { gunzipSync } from "node:zlib";
-import { getJson } from "./lib.mjs";
+import { getJson, readJson } from "./lib.mjs";
+import { readCurated, toPrinting } from "./curated-cards.mjs";
 
 const CM = "https://downloads.s3.cardmarket.com/productCatalog";
 const TCGCSV = "https://tcgcsv.com/tcgplayer";
@@ -329,6 +332,20 @@ function tpPrices(rows) {
   return compact(out);
 }
 
+/* ---------- liens faits à la main ---------- */
+
+/**
+ * curated/cardmarket-links.json : fiches Cardmarket reliées à la main quand le rapprochement automatique ne peut pas
+ * (extension Cardmarket d'une seule carte, comme Ancient Mew). Clé « <id TCGdex de l'extension>/<numéro TCGdex> »,
+ * valeur : identifiant du produit Cardmarket (liste publique products_singles_6.json).
+ */
+async function readLinks() {
+  const json = await readJson("curated/cardmarket-links.json", {});
+  const out = {};
+  for (const [k, v] of Object.entries(json.pokemon ?? {})) if (Number.isInteger(v) && v > 0) out[k] = v;
+  return out;
+}
+
 /* ---------- assemblage ---------- */
 
 export async function pokemonPrices() {
@@ -377,11 +394,16 @@ export async function pokemonPrices() {
   const keyOf = new Map(cm.products.map((p) => [p.idProduct, cmKey(p.name)]));
   const sameKey = (a, b) => a && b && a.name === b.name && a.moves === b.moves;
   const wrongLink = (c) => c.cm.length && c.cm.every((id) => keyOf.has(id) && !sameKey(keyOf.get(id), cardKey(c)));
+  const links = await readLinks();
   const work = sets.filter((s) => todo.includes(s) || (expOf.has(s.id) && s.cards.some(wrongLink)));
   for (const s of work) {
     const cmIds = expOf.has(s.id) ? matchCardmarket(s, expOf.get(s.id), cm.products) : new Map();
     for (const c of s.cards) {
       const entry = {};
+      // fiche Cardmarket reliée à la main (curated/cardmarket-links.json) : prioritaire sur le rapprochement
+      const linked = links[`${s.id}/${c.number}`];
+      if (linked) cmIds.set(c.number, linked);
+      if (linked) cmIds.set(`${c.number}#all`, [linked]);
       if (needsCm(c)) {
         const g = guide.get(cmIds.get(c.number));
         const prices = g && cmPrices(g);
@@ -431,10 +453,30 @@ export async function pokemonPrices() {
     }
   }
 
+  // cartes ajoutées à la main (curated/cards.json) avec leur fiche Cardmarket ou leur produit TCGplayer :
+  // cote par identifiant de l'impression dans l'app (versions japonaises d'Ancient Mew…)
+  const ids = {};
+  try {
+    const { photos, sets: cSets, cards: cCards, errors } = await readCurated();
+    if (!errors.length) {
+      for (const c of cCards) {
+        if (c.game !== "pokemon" || (!c.cardmarket && !c.tcgplayer)) continue;
+        const e = {};
+        const cmP = c.cardmarket && guide.get(Number(c.cardmarket)) ? cmPrices(guide.get(Number(c.cardmarket))) : undefined;
+        if (cmP) e.cm = cmP;
+        const tpP = c.tcgplayer ? tpPrices(rowsOf.get(Number(c.tcgplayer))) : undefined;
+        if (tpP) e.tp = tpP;
+        if (e.cm || e.tp) ids[toPrinting(c, cSets.get(c.set), photos).id] = e;
+      }
+    }
+  } catch (e) {
+    console.warn("cotes des cartes ajoutées à la main indisponibles :", e.message);
+  }
+
   const updatedAt = new Date().toISOString().slice(0, 10);
   // compact : le fichier change chaque jour et les apps le téléchargent
   mkdirSync("cards", { recursive: true });
-  writeFileSync("cards/pokemon-prices.json", JSON.stringify({ updatedAt, cardmarketAt: cm.guide.createdAt, sets: out }));
+  writeFileSync("cards/pokemon-prices.json", JSON.stringify({ updatedAt, cardmarketAt: cm.guide.createdAt, sets: out, ids }));
   const missing = todo.reduce((n, s) => n + s.cards.filter((c) => needsCm(c) || needsTp(s, c)).length, 0);
   console.log(
     `cotes Pokémon : ${total} cartes chez TCGdex, ${missing} sans cote complète chez lui ; ` +

@@ -5,7 +5,8 @@
 // Format de curated/cards.json (voir le README, « Cartes ajoutées à la main ») :
 //   photos  dépôt GitHub public des photos (« Borypb/thothectio-photos »), branche main
 //   sets    extensions créées pour ces cartes : { id, game, name, releasedAt?, series?, printedTotal? }
-//   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note? }
+//   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note?,
+//             cardmarket?, tcgplayer? }  (produits pour la cote : repris par pokemon-prices.mjs)
 //           set : une extension de `sets`, ou une extension déjà connue de l'app (« pkm-miscp », « pkm-basep »…)
 // Sortie : cards/curated.json  { updatedAt, sets: [SetDef], cards: [CardPrinting], extraLangs: { <id extension>: [langues] } }
 import { readJson, writeJson } from "./lib.mjs";
@@ -51,6 +52,9 @@ export async function readCurated() {
     if (!finish) errors.push(`${where} : finition inconnue « ${c.finish} » (normal, holo, reverse, metal)`);
     const bad = (c.tags ?? []).filter((t) => !TAGS.includes(t));
     if (bad.length) errors.push(`${where} : variantes inconnues ${bad.join(", ")}`);
+    for (const f of ["cardmarket", "tcgplayer"]) {
+      if (c[f] != null && !(Number.isInteger(c[f]) && c[f] > 0)) errors.push(`${where} : « ${f} » doit être le numéro du produit (nombre entier)`);
+    }
     if (seen.has(c.id)) errors.push(`${where} : id en double`);
     seen.add(c.id);
     cards.push({ ...c, finish });

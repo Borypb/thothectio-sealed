@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "sets": [],
-  "cards": [],
-  "extraLangs": {}
+  "cards": [
+    {
+      "id": "pkm-miscp:x-ja-ancient-mew-1999-nintedo:ja:holo-curated",
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "—",
+      "name": "古代ミュウ",
+      "nameEn": "Ancient Mew",
+      "lang": "ja",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "1999 · erreur « Nintedo »",
+      "releasedAt": "1999-07-17",
+      "curated": true
+    },
+    {
+      "id": "pkm-miscp:x-ja-ancient-mew-1999-nintendo:ja:holo-curated",
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "—",
+      "name": "古代ミュウ",
+      "nameEn": "Ancient Mew",
+      "lang": "ja",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "1999 · « Nintendo » corrigé",
+      "releasedAt": "1999-07-17",
+      "curated": true
+    },
+    {
+      "id": "pkm-miscp:x-ja-ancient-mew-1999-cosmos:ja:holo-curated",
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "—",
+      "name": "古代ミュウ",
+      "nameEn": "Ancient Mew",
+      "lang": "ja",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "Holo cosmos",
+      "curated": true
+    },
+    {
+      "id": "pkm-miscp:x-ja-ancient-mew-2019:ja:holo-curated",
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "—",
+      "name": "古代ミュウ",
+      "nameEn": "Ancient Mew",
+      "lang": "ja",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "Réédition 2019",
+      "releasedAt": "2019-07-12",
+      "curated": true
+    },
+    {
+      "id": "pkm-miscp:x-ko-ancient-mew-2020:ko:holo-curated",
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "—",
+      "name": "고대 뮤",
+      "nameEn": "Ancient Mew",
+      "lang": "ko",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "Corée 2020",
+      "releasedAt": "2020-09-30",
+      "curated": true
+    }
+  ],
+  "extraLangs": {
+    "pkm-miscp": [
+      "ja",
+      "ko"
+    ]
+  }
 }

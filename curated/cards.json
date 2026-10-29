@@ -2,5 +2,95 @@
   "_aide": "Cartes qu'aucune source ne connaît, ajoutées à la main. Format et exemple : README, « Cartes ajoutées à la main ».",
   "photos": "Borypb/thothectio-photos",
   "sets": [],
-  "cards": []
+  "cards": [
+    {
+      "game": "pokemon",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "nameEn": "Ancient Mew",
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], versions de « Unnumbered Promos »",
+      "id": "ja-ancient-mew-1999-nintedo",
+      "lang": "ja",
+      "name": "古代ミュウ",
+      "label": "1999 · erreur « Nintedo »",
+      "releasedAt": "1999-07-17",
+      "note": "Première impression japonaise (livret du film « Mewtwo contre-attaque » / « The Power of One »), holo pailleté, copyright « Nintedo »."
+    },
+    {
+      "game": "pokemon",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "nameEn": "Ancient Mew",
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], versions de « Unnumbered Promos »",
+      "id": "ja-ancient-mew-1999-nintendo",
+      "lang": "ja",
+      "name": "古代ミュウ",
+      "label": "1999 · « Nintendo » corrigé",
+      "releasedAt": "1999-07-17",
+      "note": "Impression japonaise corrigée, brève, holo pailleté, copyright « Nintendo »."
+    },
+    {
+      "game": "pokemon",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "nameEn": "Ancient Mew",
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], versions de « Unnumbered Promos »",
+      "id": "ja-ancient-mew-1999-cosmos",
+      "lang": "ja",
+      "name": "古代ミュウ",
+      "label": "Holo cosmos",
+      "note": "Troisième impression japonaise, holo cosmos comme la version internationale, police du copyright différente."
+    },
+    {
+      "game": "pokemon",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "nameEn": "Ancient Mew",
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], versions de « Unnumbered Promos »",
+      "id": "ja-ancient-mew-2019",
+      "lang": "ja",
+      "name": "古代ミュウ",
+      "label": "Réédition 2019",
+      "releasedAt": "2019-07-12",
+      "note": "Réédition du film « Mewtwo contre-attaque – L'évolution », holo pailleté, copyright 2019."
+    },
+    {
+      "game": "pokemon",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "nameEn": "Ancient Mew",
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], versions de « Unnumbered Promos »",
+      "id": "ko-ancient-mew-2020",
+      "lang": "ko",
+      "name": "고대 뮤",
+      "label": "Corée 2020",
+      "releasedAt": "2020-09-30",
+      "note": "Édition coréenne, holo pailleté, copyright 2020, sous cellophane."
+    }
+  ]
 }

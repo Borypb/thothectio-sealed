@@ -1,0 +1,6 @@
+{
+  "_aide": "Fiches Cardmarket reliées à la main, quand le rapprochement automatique ne peut pas (extension Cardmarket d'une seule carte). Clé « <id TCGdex de l'extension>/<numéro TCGdex> », valeur : identifiant du produit Cardmarket (liste publique products_singles_6.json). Voir le README, « Cotes des cartes Pokémon ».",
+  "pokemon": {
+    "miscp/001": 275577
+  }
+}

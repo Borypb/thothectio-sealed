@@ -183,6 +183,7 @@ reste du catalogue se met à jour, et l'erreur est affichée dans le résumé de
 | `variant` | facultatif | clé de version imposée : l'impression devient `extension:numéro:langue:variant` (sinon finition suivie de `-curated`). La clé d'une impression que la source connaît déjà (`holo-cosmos` pour Ancient Mew en anglais chez TCGdex) la **complète** (image, mention, lien, rang) au lieu d'en créer une autre |
 | `order` | facultatif | rang parmi les éditions de la carte (1, 2, 3…) |
 | `aka` | facultatif | autres noms trouvés par la recherche (`["古代ミュウ", "고대 뮤"]`) |
+| `marks` | facultatif | mentions imprimées propres à l'édition, lues par le scan dans le bas de la carte (`["nintedo"]`, `["2019"]`) : une mention lue désigne l'édition ; sans mention lue, l'image départage les éditions qui n'en ont pas |
 
 **Photos** : dans un dépôt GitHub **public** à part (`photos`, par exemple `Borypb/thothectio-photos`), qu'on peut
 fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse la carte, la photo doit être :

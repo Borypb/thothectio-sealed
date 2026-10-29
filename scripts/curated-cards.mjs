@@ -6,7 +6,7 @@
 //   photos  dépôt GitHub public des photos (« Borypb/thothectio-photos »), branche main
 //   sets    extensions créées pour ces cartes : { id, game, name, releasedAt?, series?, printedTotal? }
 //   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note?,
-//             cardmarket?, tcgplayer?, cardmarketUrl?, allLangs?, variant?, order?, aka? }  (produits pour la cote : repris par
+//             cardmarket?, tcgplayer?, cardmarketUrl?, allLangs?, variant?, order?, aka?, marks? }  (produits pour la cote : repris par
 //             pokemon-prices.mjs ; cardmarketUrl : page de la carte chez Cardmarket, pour « Voir les offres »)
 //           allLangs : édition d'une carte sans langue propre (Ancient Mew, en glyphes) montrée dans toutes les langues ;
 //           variant : clé de version imposée (id `extension:numéro:langue:variant`) ; la même clé qu'une impression de
@@ -72,6 +72,8 @@ export async function readCurated() {
     if (c.variant != null && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(c.variant)) errors.push(`${where} : « variant » : minuscules, chiffres et tirets`);
     if (c.order != null && !Number.isInteger(c.order)) errors.push(`${where} : « order » doit être un nombre entier`);
     if (c.allLangs != null && typeof c.allLangs !== "boolean") errors.push(`${where} : « allLangs » vaut true ou false`);
+    if (c.marks != null && !(Array.isArray(c.marks) && c.marks.every((m) => typeof m === "string" && m.trim().length >= 3)))
+      errors.push(`${where} : « marks » : liste de mentions imprimées (3 caractères au moins)`);
     if (seen.has(c.id)) errors.push(`${where} : id en double`);
     seen.add(c.id);
     cards.push({ ...c, finish });
@@ -115,6 +117,8 @@ export function toPrinting(c, set, photos) {
     printedTotal: set?.printedTotal ? String(set.printedTotal) : undefined,
     name: c.name,
     nameEn: c.nameEn,
+    // mentions imprimées qui distinguent l'édition (ligne de copyright : « nintedo », « 2019 ») : lues par le scan
+    marks: Array.isArray(c.marks) && c.marks.length ? c.marks.map((m) => String(m).trim().toLowerCase()) : undefined,
     // autres noms, pour la recherche (« 古代ミュウ »)
     aka: Array.isArray(c.aka) && c.aka.length ? c.aka.map(String) : undefined,
     lang: c.lang,

@@ -6,7 +6,8 @@
 //   photos  dépôt GitHub public des photos (« Borypb/thothectio-photos »), branche main
 //   sets    extensions créées pour ces cartes : { id, game, name, releasedAt?, series?, printedTotal? }
 //   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note?,
-//             cardmarket?, tcgplayer? }  (produits pour la cote : repris par pokemon-prices.mjs)
+//             cardmarket?, tcgplayer?, cardmarketUrl? }  (produits pour la cote : repris par pokemon-prices.mjs ;
+//             cardmarketUrl : page de la carte chez Cardmarket, pour « Voir les offres »)
 //           set : une extension de `sets`, ou une extension déjà connue de l'app (« pkm-miscp », « pkm-basep »…)
 // Images de remplacement (curated/images.json) : cartes que la source connaît sans image, ou avec une image fausse
 // (dos de carte chez TCGplayer) ; { <licence>: { <identifiant de la carte à la source>: chemin dans ce dépôt ou adresse } }.
@@ -62,6 +63,8 @@ export async function readCurated() {
     for (const f of ["cardmarket", "tcgplayer"]) {
       if (c[f] != null && !(Number.isInteger(c[f]) && c[f] > 0)) errors.push(`${where} : « ${f} » doit être le numéro du produit (nombre entier)`);
     }
+    if (c.cardmarketUrl != null && !/^https:\/\/www\.cardmarket\.com\/[a-z]{2}\/[^?#]+$/.test(c.cardmarketUrl))
+      errors.push(`${where} : « cardmarketUrl » doit être l'adresse d'une page de www.cardmarket.com`);
     if (seen.has(c.id)) errors.push(`${where} : id en double`);
     seen.add(c.id);
     cards.push({ ...c, finish });
@@ -91,6 +94,8 @@ export function toPrinting(c, set, photos) {
     releasedAt: c.releasedAt ?? set?.releasedAt,
     imageSmall: img,
     imageLarge: img,
+    // « Voir les offres » : la page de la version chez Cardmarket (la recherche par nom japonais ne trouve rien)
+    shopLinks: c.cardmarketUrl ? { cardmarket: c.cardmarketUrl } : undefined,
     curated: true
   });
 }

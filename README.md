@@ -178,6 +178,7 @@ reste du catalogue se met à jour, et l'erreur est affichée dans le résumé de
 | `showPhoto` | facultatif | `false` : la photo sert au scan mais n'est pas affichée dans l'app |
 | `source`, `note` | facultatifs | d'où vient l'information (lien, référence) ; non publiés |
 | `cardmarket`, `tcgplayer` | facultatifs | numéro du produit chez Cardmarket (liste publique `products_singles_<jeu>.json`) ou TCGplayer : la carte reçoit sa cote chaque nuit (Pokémon : `cards/pokemon-prices.json`, champ `ids`) |
+| `cardmarketUrl` | facultatif | page de la carte chez Cardmarket (`https://www.cardmarket.com/en/…`) : « Voir les offres » l'ouvre, dans la langue de l'app, au lieu d'une recherche par nom |
 
 **Photos** : dans un dépôt GitHub **public** à part (`photos`, par exemple `Borypb/thothectio-photos`), qu'on peut
 fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse la carte, la photo doit être :

@@ -189,6 +189,22 @@ fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse l
 
 Pour remplacer une photo, lui donner **un nouveau nom** : le robot garde l'empreinte d'une adresse déjà traitée.
 
+Tant que le dépôt des photos n'existe pas, une photo peut aussi être rangée dans **`photos/`** de ce dépôt-ci et
+donnée par son adresse complète (`https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/…`) : c'est
+le cas des versions japonaises et coréenne d'Ancient Mew.
+
+### Images de remplacement
+
+**`curated/images.json`** : image pour une carte que la source connaît mais sans image, ou avec une image fausse
+(Ancient Mew international : rien chez TCGdex, dos de carte chez TCGplayer). Clé : identifiant de la carte chez
+TCGdex (« `<extension>-<numéro>` ») ; valeur : chemin dans ce dépôt (`photos/…`, le fichier doit exister) ou adresse
+complète. Publiée dans `cards/curated.json` (champ `images`) : l'app la montre quand la carte n'a pas d'image à elle, et
+le scan à l'image s'en sert à la passe suivante.
+
+```json
+{ "pokemon": { "miscp-001": "photos/pokemon/en/ancient-mew-2000.webp" } }
+```
+
 Le scan à l'image n'a d'index que pour Pokémon (15 langues), One Piece (anglais, japonais, français) et l'anglais des
 autres licences : ailleurs, la carte est dans la recherche et le catalogue, pas dans le scan.
 

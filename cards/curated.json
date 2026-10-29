@@ -18,6 +18,8 @@
       ],
       "variantLabel": "1999 · erreur « Nintedo »",
       "releasedAt": "1999-07-17",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintedo.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintedo.webp",
       "curated": true
     },
     {
@@ -36,6 +38,8 @@
       ],
       "variantLabel": "1999 · « Nintendo » corrigé",
       "releasedAt": "1999-07-17",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintendo.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintendo.webp",
       "curated": true
     },
     {
@@ -53,6 +57,8 @@
         "promo"
       ],
       "variantLabel": "Holo cosmos",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-cosmos.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-cosmos.webp",
       "curated": true
     },
     {
@@ -71,6 +77,8 @@
       ],
       "variantLabel": "Réédition 2019",
       "releasedAt": "2019-07-12",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-2019.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-2019.webp",
       "curated": true
     },
     {
@@ -89,6 +97,8 @@
       ],
       "variantLabel": "Corée 2020",
       "releasedAt": "2020-09-30",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ko/ancient-mew-2020.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ko/ancient-mew-2020.webp",
       "curated": true
     }
   ],
@@ -97,5 +107,10 @@
       "ja",
       "ko"
     ]
+  },
+  "images": {
+    "pokemon": {
+      "miscp-001": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/en/ancient-mew-2000.webp"
+    }
   }
 }

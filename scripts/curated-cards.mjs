@@ -8,10 +8,17 @@
 //   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note?,
 //             cardmarket?, tcgplayer? }  (produits pour la cote : repris par pokemon-prices.mjs)
 //           set : une extension de `sets`, ou une extension déjà connue de l'app (« pkm-miscp », « pkm-basep »…)
-// Sortie : cards/curated.json  { updatedAt, sets: [SetDef], cards: [CardPrinting], extraLangs: { <id extension>: [langues] } }
+// Images de remplacement (curated/images.json) : cartes que la source connaît sans image, ou avec une image fausse
+// (dos de carte chez TCGplayer) ; { <licence>: { <identifiant de la carte à la source>: chemin dans ce dépôt ou adresse } }.
+// Sortie : cards/curated.json  { updatedAt, sets: [SetDef], cards: [CardPrinting], extraLangs: { <id extension>: [langues] },
+//                               images: { <licence>: { <identifiant>: adresse } } }
+import { existsSync } from "node:fs";
 import { readJson, writeJson } from "./lib.mjs";
 
 const SOURCE = "curated/cards.json";
+const IMAGES = "curated/images.json";
+/** fichiers de ce dépôt (photos/…) servis tels quels */
+const SELF = "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/";
 const OUT = "cards/curated.json";
 const GAMES = ["pokemon", "digimon", "onepiece", "dragonball", "palworld", "yugioh", "magic", "lorcana", "riftbound", "cyberpunk"];
 const LANGS = ["fr", "en", "ja", "de", "es", "it", "pt", "nl", "pl", "ru", "ko", "zh", "zh-cn", "th", "id"];
@@ -88,6 +95,30 @@ export function toPrinting(c, set, photos) {
   });
 }
 
+/**
+ * images de remplacement, par licence : { pokemon: { "miscp-001": adresse } } ; un chemin (photos/…) doit exister
+ * dans ce dépôt. Renvoie aussi les erreurs (elles bloquent la publication, comme pour les cartes).
+ */
+export async function readImageFixes() {
+  const src = await readJson(IMAGES, {});
+  const images = {};
+  const errors = [];
+  for (const [game, map] of Object.entries(src)) {
+    if (game.startsWith("_")) continue;
+    if (!GAMES.includes(game) || !map || typeof map !== "object") {
+      errors.push(`${IMAGES} : licence inconnue « ${game} »`);
+      continue;
+    }
+    for (const [key, v] of Object.entries(map)) {
+      if (typeof v !== "string" || !v.trim()) errors.push(`${IMAGES} : ${game} ${key} sans image`);
+      else if (/^https?:\/\//.test(v)) (images[game] ??= {})[key] = v;
+      else if (!existsSync(v)) errors.push(`${IMAGES} : ${game} ${key} : fichier ${v} absent du dépôt`);
+      else (images[game] ??= {})[key] = SELF + v.split("/").map(encodeURIComponent).join("/");
+    }
+  }
+  return { images, errors };
+}
+
 /** retire les champs vides */
 function clean(o) {
   return Object.fromEntries(Object.entries(o).filter(([, v]) => v != null && v !== "" && !(Array.isArray(v) && !v.length)));
@@ -103,7 +134,9 @@ export async function curatedScanEntries(game, lang) {
 }
 
 export async function curatedCards() {
-  const { photos, sets, cards, errors } = await readCurated();
+  const { photos, sets, cards, errors: cardErrors } = await readCurated();
+  const { images, errors: imageErrors } = await readImageFixes();
+  const errors = [...cardErrors, ...imageErrors];
   if (errors.length) {
     for (const e of errors) console.error(`cartes ajoutées à la main : ${e}`);
     throw new Error(`${errors.length} erreur(s) dans ${SOURCE} : rien n'est publié tant qu'elles ne sont pas corrigées`);
@@ -128,8 +161,9 @@ export async function curatedCards() {
   // extensions déjà connues de l'app qui reçoivent des cartes dans une nouvelle langue
   const extraLangs = Object.fromEntries([...langs.entries()].filter(([id]) => !sets.has(id)).map(([id, l]) => [id, [...l]]));
   const outCards = cards.map((c) => toPrinting(c, sets.get(c.set), photos));
-  await writeJson(OUT, { updatedAt: new Date().toISOString().slice(0, 10), sets: outSets, cards: outCards, extraLangs });
-  console.log(`cartes ajoutées à la main : ${outCards.length} carte(s), ${outSets.length} extension(s) créée(s)`);
+  await writeJson(OUT, { updatedAt: new Date().toISOString().slice(0, 10), sets: outSets, cards: outCards, extraLangs, images });
+  const fixes = Object.values(images).reduce((n, m) => n + Object.keys(m).length, 0);
+  console.log(`cartes ajoutées à la main : ${outCards.length} carte(s), ${outSets.length} extension(s) créée(s), ${fixes} image(s) de remplacement`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) await curatedCards();

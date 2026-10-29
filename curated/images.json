@@ -1,0 +1,6 @@
+{
+  "_aide": "Images de remplacement pour des cartes que la source connaît, mais sans image (ou avec une image fausse : dos de carte). Clé : identifiant TCGdex de la carte (« <extension>-<numéro> »). Valeur : chemin dans ce dépôt (photos/…) ou adresse complète. Voir le README, « Images de remplacement ».",
+  "pokemon": {
+    "miscp-001": "photos/pokemon/en/ancient-mew-2000.webp"
+  }
+}

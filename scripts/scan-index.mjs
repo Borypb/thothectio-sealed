@@ -35,7 +35,7 @@ import { join } from "node:path";
 import { UA, getJson, readJson } from "./lib.mjs";
 import { FP_VERSION, fingerprintPixels } from "./scan/fingerprint.mjs";
 import { selfTest } from "./scan/selftest.mjs";
-import { curatedScanEntries } from "./curated-cards.mjs";
+import { curatedScanEntries, readImageFixes } from "./curated-cards.mjs";
 
 const OUT = process.env.SCAN_OUT ?? "scan-out";
 const BUDGET_MS = Number(process.env.SCAN_BUDGET_MIN ?? 300) * 60_000;
@@ -110,7 +110,9 @@ async function pokemon(appLang, tcgLang) {
   const enState = appLang === "en" ? next : shared ? await readJson(join(OUT, "state", "pokemon-en.sets.json"), {}) : {};
   const enImg = new Map(Object.values(enState).flatMap((s) => s.cards ?? []));
   const tcgImg = shared ? await tcgplayerImages() : () => undefined;
-  const otherImage = (key) => (appLang !== "en" ? enImg.get(key) : undefined) ?? tcgImg(key);
+  // image de remplacement (curated/images.json) : carte sans image chez TCGdex et dos de carte chez TCGplayer (Ancient Mew…)
+  const fixes = (await readImageFixes().catch(() => ({ images: {} }))).images.pokemon ?? {};
+  const otherImage = (key) => fixes[key] ?? (appLang !== "en" ? enImg.get(key) : undefined) ?? tcgImg(key);
   const detail = (key, lang, l) => async () => {
     const d = await getJson(`${TCGDEX}/${lang}/cards/${encodeURIComponent(key)}`, { delay: 60, retries: 2 });
     const vd = d.variants_detailed?.map(({ pricing, ...v }) => v);
@@ -118,7 +120,7 @@ async function pokemon(appLang, tcgLang) {
   };
   const listOf = (id, s, lang, l) => {
     const set = { id, name: s.name, official: s.official, date: s.date || undefined };
-    const own = s.cards ?? [];
+    const own = (s.cards ?? []).map(([key, img]) => [key, fixes[key] ?? img]);
     const borrowed = (s.missing ?? []).map((key) => [key, otherImage(key)]).filter(([, img]) => img);
     // fiche : détail de la carte, sans les cotes (une requête par carte nouvelle)
     return [...own, ...borrowed].map(([key, img]) => ({ key, img, set, detail: detail(key, lang, l) }));

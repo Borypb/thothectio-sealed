@@ -3,104 +3,184 @@
   "sets": [],
   "cards": [
     {
-      "id": "pkm-miscp:x-ja-ancient-mew-1999-nintedo:ja:holo-curated",
+      "id": "pkm-miscp:001:ja:holo-1999-nintedo",
+      "formerIds": [
+        "pkm-miscp:x-ja-ancient-mew-1999-nintedo:ja:holo-curated"
+      ],
       "game": "pokemon",
       "setId": "pkm-miscp",
       "setName": "Miscellaneous Promos",
-      "number": "—",
-      "name": "古代ミュウ",
+      "number": "001",
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "lang": "ja",
       "rarity": "Promo",
       "finish": "holofoil",
       "variantTags": [
         "promo"
       ],
-      "variantLabel": "1999 · erreur « Nintedo »",
+      "variantLabel": "Japon 1999 · erreur « Nintedo »",
       "releasedAt": "1999-07-17",
       "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintedo.webp",
       "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintedo.webp",
       "shopLinks": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V1-UNP"
       },
+      "anyLang": true,
+      "order": 1,
       "curated": true
     },
     {
-      "id": "pkm-miscp:x-ja-ancient-mew-1999-nintendo:ja:holo-curated",
+      "id": "pkm-miscp:001:ja:holo-1999-nintendo",
+      "formerIds": [
+        "pkm-miscp:x-ja-ancient-mew-1999-nintendo:ja:holo-curated"
+      ],
       "game": "pokemon",
       "setId": "pkm-miscp",
       "setName": "Miscellaneous Promos",
-      "number": "—",
-      "name": "古代ミュウ",
+      "number": "001",
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "lang": "ja",
       "rarity": "Promo",
       "finish": "holofoil",
       "variantTags": [
         "promo"
       ],
-      "variantLabel": "1999 · « Nintendo » corrigé",
+      "variantLabel": "Japon 1999 · « Nintendo » corrigé",
       "releasedAt": "1999-07-17",
       "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintendo.webp",
       "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintendo.webp",
       "shopLinks": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V2-UNP"
       },
+      "anyLang": true,
+      "order": 2,
       "curated": true
     },
     {
-      "id": "pkm-miscp:x-ja-ancient-mew-1999-cosmos:ja:holo-curated",
+      "id": "pkm-miscp:001:ja:holo-1999-cosmos",
+      "formerIds": [
+        "pkm-miscp:x-ja-ancient-mew-1999-cosmos:ja:holo-curated"
+      ],
       "game": "pokemon",
       "setId": "pkm-miscp",
       "setName": "Miscellaneous Promos",
-      "number": "—",
-      "name": "古代ミュウ",
+      "number": "001",
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "lang": "ja",
       "rarity": "Promo",
       "finish": "holofoil",
       "variantTags": [
         "promo"
       ],
-      "variantLabel": "1999 · holo cosmos",
+      "variantLabel": "Japon 1999 · holo cosmos",
       "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-cosmos.webp",
       "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-cosmos.webp",
       "shopLinks": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V3-UNP"
       },
+      "anyLang": true,
+      "order": 3,
       "curated": true
     },
     {
-      "id": "pkm-miscp:x-ja-ancient-mew-2019:ja:holo-curated",
+      "id": "pkm-miscp:001:en:holo-cosmos",
+      "formerIds": [
+        "pkm-miscp:x-en-ancient-mew-2000:en:holo-curated"
+      ],
       "game": "pokemon",
       "setId": "pkm-miscp",
       "setName": "Miscellaneous Promos",
-      "number": "—",
-      "name": "古代ミュウ",
+      "number": "001",
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "variantLabel": "Internationale 2000",
+      "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/en/ancient-mew-2000.webp",
+      "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/en/ancient-mew-2000.webp",
+      "shopLinks": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Promos/Ancient-Mew-PR11"
+      },
+      "anyLang": true,
+      "order": 4,
+      "curated": true
+    },
+    {
+      "id": "pkm-miscp:001:ja:holo-2019",
+      "formerIds": [
+        "pkm-miscp:x-ja-ancient-mew-2019:ja:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "001",
+      "name": "Ancient Mew",
+      "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "lang": "ja",
       "rarity": "Promo",
       "finish": "holofoil",
       "variantTags": [
         "promo"
       ],
-      "variantLabel": "Réédition 2019",
+      "variantLabel": "Japon 2019 · réédition",
       "releasedAt": "2019-07-12",
       "imageSmall": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-2019.webp",
       "imageLarge": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-2019.webp",
       "shopLinks": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V4-UNP"
       },
+      "anyLang": true,
+      "order": 5,
       "curated": true
     },
     {
-      "id": "pkm-miscp:x-ko-ancient-mew-2020:ko:holo-curated",
+      "id": "pkm-miscp:001:ko:holo-2020",
+      "formerIds": [
+        "pkm-miscp:x-ko-ancient-mew-2020:ko:holo-curated"
+      ],
       "game": "pokemon",
       "setId": "pkm-miscp",
       "setName": "Miscellaneous Promos",
-      "number": "—",
-      "name": "고대 뮤",
+      "number": "001",
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "lang": "ko",
       "rarity": "Promo",
       "finish": "holofoil",
@@ -114,12 +194,15 @@
       "shopLinks": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V5-UNP"
       },
+      "anyLang": true,
+      "order": 6,
       "curated": true
     }
   ],
   "extraLangs": {
     "pkm-miscp": [
       "ja",
+      "en",
       "ko"
     ]
   },

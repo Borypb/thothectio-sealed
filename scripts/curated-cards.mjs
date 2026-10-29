@@ -6,8 +6,12 @@
 //   photos  dépôt GitHub public des photos (« Borypb/thothectio-photos »), branche main
 //   sets    extensions créées pour ces cartes : { id, game, name, releasedAt?, series?, printedTotal? }
 //   cards   { id, game, lang, set, name, nameEn?, number?, finish?, tags?, label?, rarity?, photo?, showPhoto?, source?, note?,
-//             cardmarket?, tcgplayer?, cardmarketUrl? }  (produits pour la cote : repris par pokemon-prices.mjs ;
-//             cardmarketUrl : page de la carte chez Cardmarket, pour « Voir les offres »)
+//             cardmarket?, tcgplayer?, cardmarketUrl?, allLangs?, variant?, order?, aka? }  (produits pour la cote : repris par
+//             pokemon-prices.mjs ; cardmarketUrl : page de la carte chez Cardmarket, pour « Voir les offres »)
+//           allLangs : édition d'une carte sans langue propre (Ancient Mew, en glyphes) montrée dans toutes les langues ;
+//           variant : clé de version imposée (id `extension:numéro:langue:variant`) ; la même clé qu'une impression de
+//           la source complète cette impression (image, mention, lien, ordre) au lieu d'en créer une autre ;
+//           order : rang parmi les éditions de la carte
 //           set : une extension de `sets`, ou une extension déjà connue de l'app (« pkm-miscp », « pkm-basep »…)
 // Images de remplacement (curated/images.json) : cartes que la source connaît sans image, ou avec une image fausse
 // (dos de carte chez TCGplayer) ; { <licence>: { <identifiant de la carte à la source>: chemin dans ce dépôt ou adresse } }.
@@ -65,20 +69,45 @@ export async function readCurated() {
     }
     if (c.cardmarketUrl != null && !/^https:\/\/www\.cardmarket\.com\/[a-z]{2}\/[^?#]+$/.test(c.cardmarketUrl))
       errors.push(`${where} : « cardmarketUrl » doit être l'adresse d'une page de www.cardmarket.com`);
+    if (c.variant != null && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(c.variant)) errors.push(`${where} : « variant » : minuscules, chiffres et tirets`);
+    if (c.order != null && !Number.isInteger(c.order)) errors.push(`${where} : « order » doit être un nombre entier`);
+    if (c.allLangs != null && typeof c.allLangs !== "boolean") errors.push(`${where} : « allLangs » vaut true ou false`);
     if (seen.has(c.id)) errors.push(`${where} : id en double`);
     seen.add(c.id);
     cards.push({ ...c, finish });
   }
+  // deux cartes ne doivent pas donner la même impression
+  const printed = new Map();
+  for (const c of cards) {
+    const pid = printingId(c);
+    if (printed.has(pid)) errors.push(`cartes ${printed.get(pid)} et ${c.id} : même impression ${pid} (changer « variant »)`);
+    else printed.set(pid, c.id);
+  }
   return { photos: src.photos, sets, cards, errors };
 }
 
-/** carte au format de l'app (`CardPrinting`), identifiant stable `extension:numéro:langue:variante` */
-export function toPrinting(c, set, photos) {
+/**
+ * identifiant stable `extension:numéro:langue:variante` ; variante imposée (« variant ») telle quelle, sinon
+ * finition et badges suivis de « -curated »
+ */
+export function printingId(c) {
   const number = String(c.number ?? "").trim() || `x-${c.id}`;
-  const key = [FINISH_KEY[c.finish], ...(c.tags ?? []).filter((t) => t === "first_edition" || t === "stamped")].join("-");
+  const key = c.variant ?? `${[FINISH_KEY[c.finish], ...(c.tags ?? []).filter((t) => t === "first_edition" || t === "stamped")].join("-")}-curated`;
+  return `${c.set}:${number}:${c.lang}:${key}`;
+}
+
+/** identifiant d'avant « number » et « variant » : l'app y rattache les exemplaires déjà enregistrés */
+function formerId(c) {
+  return printingId({ ...c, number: undefined, variant: undefined });
+}
+
+/** carte au format de l'app (`CardPrinting`) */
+export function toPrinting(c, set, photos) {
   const img = c.showPhoto === false ? undefined : photoUrl(photos, c.photo);
+  const id = printingId(c);
   return clean({
-    id: `${c.set}:${number}:${c.lang}:${key}-curated`,
+    id,
+    formerIds: formerId(c) !== id ? [formerId(c)] : undefined,
     game: c.game,
     setId: c.set,
     setName: set?.name ?? c.setName ?? c.set,
@@ -86,6 +115,8 @@ export function toPrinting(c, set, photos) {
     printedTotal: set?.printedTotal ? String(set.printedTotal) : undefined,
     name: c.name,
     nameEn: c.nameEn,
+    // autres noms, pour la recherche (« 古代ミュウ »)
+    aka: Array.isArray(c.aka) && c.aka.length ? c.aka.map(String) : undefined,
     lang: c.lang,
     rarity: c.rarity,
     finish: c.finish,
@@ -96,6 +127,9 @@ export function toPrinting(c, set, photos) {
     imageLarge: img,
     // « Voir les offres » : la page de la version chez Cardmarket (la recherche par nom japonais ne trouve rien)
     shopLinks: c.cardmarketUrl ? { cardmarket: c.cardmarketUrl } : undefined,
+    // édition montrée dans toutes les langues, à son rang parmi les éditions de la carte
+    anyLang: c.allLangs || undefined,
+    order: c.order,
     curated: true
   });
 }
@@ -134,7 +168,8 @@ export async function curatedScanEntries(game, lang) {
   const { photos, sets, cards, errors } = await readCurated();
   if (errors.length) return [];
   return cards
-    .filter((c) => c.game === game && c.lang === lang && photoUrl(photos, c.photo))
+    // édition sans langue propre (Ancient Mew) : reconnue dans toutes les langues
+    .filter((c) => c.game === game && (c.lang === lang || c.allLangs) && photoUrl(photos, c.photo))
     .map((c) => ({ key: `cur:${c.id}`, img: photoUrl(photos, c.photo), rec: { cur: 1, p: toPrinting(c, sets.get(c.set), photos) } }));
 }
 

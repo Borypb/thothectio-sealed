@@ -179,6 +179,10 @@ reste du catalogue se met à jour, et l'erreur est affichée dans le résumé de
 | `source`, `note` | facultatifs | d'où vient l'information (lien, référence) ; non publiés |
 | `cardmarket`, `tcgplayer` | facultatifs | numéro du produit chez Cardmarket (liste publique `products_singles_<jeu>.json`) ou TCGplayer : la carte reçoit sa cote chaque nuit (Pokémon : `cards/pokemon-prices.json`, champ `ids`) |
 | `cardmarketUrl` | facultatif | page de la carte chez Cardmarket (`https://www.cardmarket.com/en/…`) : « Voir les offres » l'ouvre, dans la langue de l'app, au lieu d'une recherche par nom |
+| `allLangs` | facultatif | `true` : édition d'une carte sans langue propre (Ancient Mew, écrit en glyphes), montrée dans toutes les langues ; ses éditions sont les versions d'une même carte (même extension et même numéro), quelle que soit leur langue d'impression |
+| `variant` | facultatif | clé de version imposée : l'impression devient `extension:numéro:langue:variant` (sinon finition suivie de `-curated`). La clé d'une impression que la source connaît déjà (`holo-cosmos` pour Ancient Mew en anglais chez TCGdex) la **complète** (image, mention, lien, rang) au lieu d'en créer une autre |
+| `order` | facultatif | rang parmi les éditions de la carte (1, 2, 3…) |
+| `aka` | facultatif | autres noms trouvés par la recherche (`["古代ミュウ", "고대 뮤"]`) |
 
 **Photos** : dans un dépôt GitHub **public** à part (`photos`, par exemple `Borypb/thothectio-photos`), qu'on peut
 fermer à tout moment sans toucher à ce dépôt. Pour que le scan reconnaisse la carte, la photo doit être :

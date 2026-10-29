@@ -4,108 +4,182 @@
   "sets": [],
   "cards": [
     {
+      "id": "ja-ancient-mew-1999-nintedo",
       "game": "pokemon",
+      "lang": "ja",
       "set": "pkm-miscp",
       "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-1999-nintedo",
+      "allLangs": true,
+      "order": 1,
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "finish": "holo",
       "tags": [
         "promo"
       ],
       "rarity": "Promo",
-      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], « Unnumbered Promos » version 1 (produit 765790, relié d'après la capture de l'auteur) ; photo : rarecards.nl, « Alle 6 Ancient Mew kaarten uitgelegd »",
-      "id": "ja-ancient-mew-1999-nintedo",
-      "lang": "ja",
-      "name": "古代ミュウ",
-      "label": "1999 · erreur « Nintedo »",
-      "releasedAt": "1999-07-17",
-      "note": "Première impression japonaise (livret du film « Mewtwo contre-attaque » / « The Power of One »), holo pailleté, copyright « Nintedo ».",
+      "label": "Japon 1999 · erreur « Nintedo »",
       "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintedo.webp",
       "cardmarket": 765790,
-      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V1-UNP"
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V1-UNP",
+      "note": "Première impression japonaise (livret du film « Mewtwo contre-attaque » / « The Power of One »), holo pailleté, copyright « Nintedo ».",
+      "releasedAt": "1999-07-17",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
     },
     {
+      "id": "ja-ancient-mew-1999-nintendo",
       "game": "pokemon",
+      "lang": "ja",
       "set": "pkm-miscp",
       "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-1999-nintendo",
+      "allLangs": true,
+      "order": 2,
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "finish": "holo",
       "tags": [
         "promo"
       ],
       "rarity": "Promo",
-      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], « Unnumbered Promos » version 2 (produit 654102, relié d'après la capture de l'auteur) ; photo : rarecards.nl, « Alle 6 Ancient Mew kaarten uitgelegd »",
-      "id": "ja-ancient-mew-1999-nintendo",
-      "lang": "ja",
-      "name": "古代ミュウ",
-      "label": "1999 · « Nintendo » corrigé",
-      "releasedAt": "1999-07-17",
-      "note": "Impression japonaise corrigée, brève, holo pailleté, copyright « Nintendo ».",
+      "label": "Japon 1999 · « Nintendo » corrigé",
       "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-nintendo.webp",
       "cardmarket": 654102,
-      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V2-UNP"
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V2-UNP",
+      "note": "Impression japonaise corrigée, brève, holo pailleté, copyright « Nintendo ».",
+      "releasedAt": "1999-07-17",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
     },
     {
+      "id": "ja-ancient-mew-1999-cosmos",
       "game": "pokemon",
+      "lang": "ja",
       "set": "pkm-miscp",
       "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-1999-cosmos",
+      "allLangs": true,
+      "order": 3,
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "finish": "holo",
       "tags": [
         "promo"
       ],
       "rarity": "Promo",
-      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], « Unnumbered Promos » version 3 (produit 765791, relié d'après la capture de l'auteur) ; photo : rarecards.nl, « Alle 6 Ancient Mew kaarten uitgelegd »",
-      "id": "ja-ancient-mew-1999-cosmos",
-      "lang": "ja",
-      "name": "古代ミュウ",
-      "label": "1999 · holo cosmos",
-      "note": "Troisième impression japonaise du film de 1999 (après la corrigée), holo cosmos comme la version internationale, police du copyright différente.",
+      "label": "Japon 1999 · holo cosmos",
       "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-1999-cosmos.webp",
       "cardmarket": 765791,
-      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V3-UNP"
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V3-UNP",
+      "note": "Troisième impression japonaise du film de 1999 (après la corrigée), holo cosmos comme la version internationale, police du copyright différente.",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
     },
     {
+      "id": "en-ancient-mew-2000",
       "game": "pokemon",
+      "lang": "en",
       "set": "pkm-miscp",
       "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-cosmos",
+      "allLangs": true,
+      "order": 4,
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "finish": "holo",
       "tags": [
         "promo"
       ],
       "rarity": "Promo",
-      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], « Unnumbered Promos » version 4 (produit 765792, relié d'après la capture de l'auteur) ; photo : rarecards.nl, « Alle 6 Ancient Mew kaarten uitgelegd »",
+      "label": "Internationale 2000",
+      "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/en/ancient-mew-2000.webp",
+      "cardmarket": 275577,
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Promos/Ancient-Mew-PR11",
+      "note": "Version internationale du film « Pokémon 2000 » (« The Power of One »), holo cosmos, copyright Wizards. Même impression que la carte TCGdex miscp-001 : elle la complète (image, mention, lien) au lieu d'en créer une autre.",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
+    },
+    {
       "id": "ja-ancient-mew-2019",
+      "game": "pokemon",
       "lang": "ja",
-      "name": "古代ミュウ",
-      "label": "Réédition 2019",
-      "releasedAt": "2019-07-12",
-      "note": "Réédition du film « Mewtwo contre-attaque – L'évolution », holo pailleté, copyright 2019.",
+      "set": "pkm-miscp",
+      "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-2019",
+      "allLangs": true,
+      "order": 5,
+      "name": "Ancient Mew",
+      "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
+      "finish": "holo",
+      "tags": [
+        "promo"
+      ],
+      "rarity": "Promo",
+      "label": "Japon 2019 · réédition",
       "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ja/ancient-mew-2019.webp",
       "cardmarket": 765792,
-      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V4-UNP"
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V4-UNP",
+      "note": "Réédition du film « Mewtwo contre-attaque – L'évolution », holo pailleté, copyright 2019.",
+      "releasedAt": "2019-07-12",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
     },
     {
+      "id": "ko-ancient-mew-2020",
       "game": "pokemon",
+      "lang": "ko",
       "set": "pkm-miscp",
       "setName": "Miscellaneous Promos",
+      "number": "001",
+      "variant": "holo-2020",
+      "allLangs": true,
+      "order": 6,
+      "name": "Ancient Mew",
       "nameEn": "Ancient Mew",
+      "aka": [
+        "古代ミュウ",
+        "고대 뮤",
+        "Mew ancien"
+      ],
       "finish": "holo",
       "tags": [
         "promo"
       ],
       "rarity": "Promo",
-      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, fiche Ancient Mew [Psyche], « Unnumbered Promos » version 5 (produit 765794, relié d'après la capture de l'auteur) ; photo : rarecards.nl, « Alle 6 Ancient Mew kaarten uitgelegd »",
-      "id": "ko-ancient-mew-2020",
-      "lang": "ko",
-      "name": "고대 뮤",
       "label": "Corée 2020",
-      "releasedAt": "2020-09-30",
-      "note": "Édition coréenne, holo pailleté, copyright 2020, sous cellophane.",
       "photo": "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/photos/pokemon/ko/ancient-mew-2020.webp",
       "cardmarket": 765794,
-      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V5-UNP"
+      "cardmarketUrl": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unnumbered-Promos/Ancient-Mew-V5-UNP",
+      "note": "Édition coréenne, holo pailleté, copyright 2020, sous cellophane.",
+      "releasedAt": "2020-09-30",
+      "source": "Bulbapedia, « Ancient Mew (The Power of One promo) » ; Cardmarket, page Versions d'Ancient Mew [Psyche] (capture de l'auteur) ; photo : rarecards.nl"
     }
   ]
 }

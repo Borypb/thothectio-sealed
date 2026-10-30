@@ -12,9 +12,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 17.99,
-          "low": 17.99,
-          "mid": 17.99
+          "usd": 17.96,
+          "low": 17.88,
+          "mid": 17.9
         }
       ]
     },
@@ -30,9 +30,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 49.99,
-          "low": 49.99,
-          "mid": 49.99
+          "usd": 40,
+          "low": 40,
+          "mid": 40
         }
       ]
     },
@@ -59,8 +59,8 @@
         {
           "sub": "Foil",
           "usd": 9.99,
-          "low": 9.99,
-          "mid": 9.99
+          "low": 9.89,
+          "mid": 9.9
         }
       ]
     },
@@ -76,9 +76,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 34.99,
-          "low": 34.99,
-          "mid": 34.99
+          "usd": 25.99,
+          "low": 25,
+          "mid": 25.99
         }
       ]
     },
@@ -94,9 +94,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 124.99,
-          "low": 124.99,
-          "mid": 124.99
+          "usd": 100,
+          "low": 99,
+          "mid": 100
         }
       ]
     },
@@ -111,9 +111,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 11.99,
-          "low": 11.99,
-          "mid": 11.99
+          "usd": 10,
+          "low": 9.98,
+          "mid": 9.99
         }
       ]
     },
@@ -129,9 +129,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29.99,
-          "low": 29.99,
-          "mid": 29.99
+          "usd": 23.5,
+          "low": 22.5,
+          "mid": 23.5
         }
       ]
     },
@@ -165,8 +165,8 @@
         {
           "sub": "Foil",
           "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "low": 1.38,
+          "mid": 1.4
         }
       ]
     },
@@ -179,7 +179,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725453_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725453/palworld-official-card-game-bp02-legends-awaken-chillet-ignis-ember-clad-dragon-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18,
+          "low": 17.99,
+          "mid": 18
+        }
+      ]
     },
     {
       "id": 725454,
@@ -193,9 +200,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 124.99,
-          "low": 124.99,
-          "mid": 124.99
+          "usd": 120,
+          "low": 119.99,
+          "mid": 120
         }
       ]
     },
@@ -211,8 +218,8 @@
         {
           "sub": "Foil",
           "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "low": 0.94,
+          "mid": 0.95
         }
       ]
     },
@@ -225,7 +232,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725456_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725456/palworld-official-card-game-bp02-legends-awaken-rayhound-soaring-flash-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725457,
@@ -238,9 +252,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.96,
+          "low": 0.94,
+          "mid": 0.95
         }
       ]
     },
@@ -253,7 +267,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725458_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725458/palworld-official-card-game-bp02-legends-awaken-mossanda-lux-apex-grenadier-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 14.99,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 725459,
@@ -281,7 +302,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725460_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725460/palworld-official-card-game-bp02-legends-awaken-flambelle-feverish-tears-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725461,
@@ -309,7 +337,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725462_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725462/palworld-official-card-game-bp02-legends-awaken-dazzi-thunder-maiden-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725463,
@@ -322,9 +357,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -341,7 +376,7 @@
           "sub": "Normal",
           "usd": 0.49,
           "low": 0.49,
-          "mid": 0.49
+          "mid": 0.57
         }
       ]
     },
@@ -353,7 +388,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725465_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725465/palworld-official-card-game-bp02-legends-awaken-leezpunk-ignis-hot-blooded-finish",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725466,
@@ -366,9 +408,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.62,
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -383,9 +425,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.62,
+          "low": 0.49,
+          "mid": 0.49
         }
       ]
     },
@@ -397,7 +439,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725468_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725468/palworld-official-card-game-bp02-legends-awaken-beakon-thunderbolt-glory",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725469,
@@ -444,9 +493,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -461,9 +510,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "usd": 1.47,
+          "low": 1.38,
+          "mid": 1.45
         }
       ]
     },
@@ -476,7 +525,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725473_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725473/palworld-official-card-game-bp02-legends-awaken-rocket-launcher-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13,
+          "low": 13,
+          "mid": 13
+        }
+      ]
     },
     {
       "id": 725474,
@@ -503,7 +559,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725475_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725475/palworld-official-card-game-bp02-legends-awaken-musket",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725476,
@@ -513,7 +576,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725476_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725476/palworld-official-card-game-bp02-legends-awaken-mossanda-luxs-grenade-launcher",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725477,
@@ -526,9 +596,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "usd": 1.4,
+          "low": 1.38,
+          "mid": 1.4
         }
       ]
     },
@@ -544,9 +614,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 39.99,
-          "low": 39.99,
-          "mid": 39.99
+          "usd": 29.49,
+          "low": 28,
+          "mid": 29.49
         }
       ]
     },
@@ -572,8 +642,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
+          "usd": 1,
+          "low": 0.94,
           "mid": 0.99
         }
       ]
@@ -587,7 +657,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725481_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725481/palworld-official-card-game-bp02-legends-awaken-marcus-turf-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725482,
@@ -600,9 +677,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.59,
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -617,9 +694,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 24.99,
-          "low": 24.99,
-          "mid": 24.99
+          "usd": 23.96,
+          "low": 23.49,
+          "mid": 23.5
         }
       ]
     },
@@ -635,9 +712,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 59.99,
-          "low": 59.99,
-          "mid": 59.99
+          "usd": 54.95,
+          "low": 49.98,
+          "mid": 54.95
         }
       ]
     },
@@ -653,9 +730,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 699.99,
-          "low": 699.99,
-          "mid": 699.99
+          "usd": 600,
+          "low": 500,
+          "mid": 600
         }
       ]
     },
@@ -670,9 +747,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.98,
+          "low": 0.94,
+          "mid": 0.95
         }
       ]
     },
@@ -688,9 +765,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 39.99,
-          "low": 39.99,
-          "mid": 39.99
+          "usd": 31,
+          "low": 29.99,
+          "mid": 31
         }
       ]
     },
@@ -703,7 +780,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725488_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725488/palworld-official-card-game-bp02-legends-awaken-foxcicle-aurora-hymn-sp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 300,
+          "low": 300,
+          "mid": 300
+        }
+      ]
     },
     {
       "id": 725489,
@@ -717,8 +801,8 @@
         {
           "sub": "Foil",
           "usd": 2.99,
-          "low": 2.99,
-          "mid": 2.99
+          "low": 2.9,
+          "mid": 2.9
         }
       ]
     },
@@ -734,9 +818,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 34.99,
-          "low": 34.99,
-          "mid": 34.99
+          "usd": 26.88,
+          "low": 25,
+          "mid": 26.88
         }
       ]
     },
@@ -752,9 +836,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1000,
-          "low": 1000,
-          "mid": 1000
+          "usd": 200,
+          "low": 199.99,
+          "mid": 200
         }
       ]
     },
@@ -769,9 +853,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.99,
-          "low": 1.99,
-          "mid": 1.99
+          "usd": 1.43,
+          "low": 0.94,
+          "mid": 1.43
         }
       ]
     },
@@ -784,7 +868,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725493_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725493/palworld-official-card-game-bp02-legends-awaken-sibelyx-silken-spinner-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725494,
@@ -798,7 +889,7 @@
         {
           "sub": "Normal",
           "usd": 0.49,
-          "low": 0.49,
+          "low": 0.1,
           "mid": 0.49
         }
       ]
@@ -814,9 +905,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -832,7 +923,7 @@
         {
           "sub": "Normal",
           "usd": 0.99,
-          "low": 0.99,
+          "low": 0.65,
           "mid": 0.99
         }
       ]
@@ -848,9 +939,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -866,8 +957,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -880,7 +971,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725499_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725499/palworld-official-card-game-bp02-legends-awaken-pengullet-locked-and-loaded-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725500,
@@ -894,7 +992,7 @@
         {
           "sub": "Normal",
           "usd": 1.49,
-          "low": 1.49,
+          "low": 0.65,
           "mid": 1.49
         }
       ]
@@ -908,7 +1006,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725501_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725501/palworld-official-card-game-bp02-legends-awaken-swee-hibernating-together-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725502,
@@ -918,7 +1023,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725502_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725502/palworld-official-card-game-bp02-legends-awaken-kelpsea-spirited-splash",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725503,
@@ -932,8 +1044,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.49
         }
       ]
     },
@@ -945,7 +1057,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725504_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725504/palworld-official-card-game-bp02-legends-awaken-kingpaca-cryst-frosty-solitude",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725505,
@@ -959,8 +1078,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.67
         }
       ]
     },
@@ -990,7 +1109,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725507_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725507/palworld-official-card-game-bp02-legends-awaken-antique-cabinet-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725508,
@@ -1003,9 +1129,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -1021,7 +1147,7 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
+          "low": 0.65,
           "mid": 0.69
         }
       ]
@@ -1034,7 +1160,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725510_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725510/palworld-official-card-game-bp02-legends-awaken-antique-partition",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725511,
@@ -1047,9 +1180,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "usd": 1.4,
+          "low": 1.38,
+          "mid": 1.4
         }
       ]
     },
@@ -1062,7 +1195,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725512_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725512/palworld-official-card-game-bp02-legends-awaken-stun-baton-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725513,
@@ -1109,9 +1249,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.99,
-          "low": 9.99,
-          "mid": 9.99
+          "usd": 7.99,
+          "low": 7.97,
+          "mid": 7.99
         }
       ]
     },
@@ -1127,9 +1267,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29.99,
-          "low": 29.99,
-          "mid": 29.99
+          "usd": 23.98,
+          "low": 22.5,
+          "mid": 23.98
         }
       ]
     },
@@ -1142,7 +1282,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725517_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725517/palworld-official-card-game-bp02-legends-awaken-victors-gambit-sp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 199.99,
+          "low": 199.98,
+          "mid": 199.99
+        }
+      ]
     },
     {
       "id": 725518,
@@ -1155,9 +1302,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.99,
-          "low": 2.99,
-          "mid": 2.99
+          "usd": 2.9,
+          "low": 2.9,
+          "mid": 2.9
         }
       ]
     },
@@ -1170,7 +1317,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725519_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725519/palworld-official-card-game-bp02-legends-awaken-love-overload-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13,
+          "low": 12,
+          "mid": 13
+        }
+      ]
     },
     {
       "id": 725520,
@@ -1183,9 +1337,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -1200,9 +1354,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15.99,
-          "low": 15.99,
-          "mid": 15.99
+          "usd": 10.5,
+          "low": 6.99,
+          "mid": 10.5
         }
       ]
     },
@@ -1218,9 +1372,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 39.99,
-          "low": 39.99,
-          "mid": 39.99
+          "usd": 25,
+          "low": 24.99,
+          "mid": 25
         }
       ]
     },
@@ -1233,7 +1387,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725523_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725523/palworld-official-card-game-bp02-legends-awaken-anubis-noble-reaper-ssp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 400,
+          "low": 400,
+          "mid": 400
+        }
+      ]
     },
     {
       "id": 725524,
@@ -1246,9 +1407,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15.99,
-          "low": 15.99,
-          "mid": 15.99
+          "usd": 11.93,
+          "low": 7.93,
+          "mid": 11.93
         }
       ]
     },
@@ -1264,9 +1425,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 34.99,
-          "low": 34.99,
-          "mid": 34.99
+          "usd": 25,
+          "low": 24.99,
+          "mid": 25
         }
       ]
     },
@@ -1279,7 +1440,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725526_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725526/palworld-official-card-game-bp02-legends-awaken-mammorest-gaia-crusher-sp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 350,
+          "low": 200,
+          "mid": 350
+        }
+      ]
     },
     {
       "id": 725527,
@@ -1292,9 +1460,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.99,
-          "low": 1.99,
-          "mid": 1.99
+          "usd": 1.9,
+          "low": 1.88,
+          "mid": 1.9
         }
       ]
     },
@@ -1310,9 +1478,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 39.99,
-          "low": 39.99,
-          "mid": 39.99
+          "usd": 36.5,
+          "low": 34.98,
+          "mid": 36.5
         }
       ]
     },
@@ -1325,7 +1493,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725529_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725529/palworld-official-card-game-bp02-legends-awaken-bristla-regal-gaze-sp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 165,
+          "low": 149.98,
+          "mid": 165
+        }
+      ]
     },
     {
       "id": 725530,
@@ -1338,9 +1513,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "usd": 1.05,
+          "low": 0.69,
+          "mid": 1.05
         }
       ]
     },
@@ -1353,7 +1528,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725531_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725531/palworld-official-card-game-bp02-legends-awaken-fuddler-claw-honing-mole-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14,
+          "low": 13.99,
+          "mid": 14
+        }
+      ]
     },
     {
       "id": 725532,
@@ -1366,9 +1548,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.95,
+          "low": 0.94,
+          "mid": 0.95
         }
       ]
     },
@@ -1381,7 +1563,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725533_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725533/palworld-official-card-game-bp02-legends-awaken-dumud-bountiful-earth-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725534,
@@ -1394,9 +1583,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49,
-          "low": 1.49,
-          "mid": 1.49
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
         }
       ]
     },
@@ -1409,7 +1598,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725535_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725535/palworld-official-card-game-bp02-legends-awaken-quivern-botan-meadows-grace-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 12,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725536,
@@ -1423,7 +1619,7 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
+          "low": 0.65,
           "mid": 0.69
         }
       ]
@@ -1437,7 +1633,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725537_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725537/palworld-official-card-game-bp02-legends-awaken-beegarde-faithful-honor-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725538,
@@ -1450,9 +1653,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -1465,7 +1668,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725539_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725539/palworld-official-card-game-bp02-legends-awaken-lifmunk-hidden-power-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725540,
@@ -1478,8 +1688,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.49,
-          "low": 0.49,
+          "usd": 0.1,
+          "low": 0.1,
           "mid": 0.49
         }
       ]
@@ -1496,7 +1706,7 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
+          "low": 0.65,
           "mid": 0.69
         }
       ]
@@ -1509,7 +1719,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725542_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725542/palworld-official-card-game-bp02-legends-awaken-cinnamoth-wings-of-allure",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.49,
+          "mid": 0.57
+        }
+      ]
     },
     {
       "id": 725543,
@@ -1519,7 +1736,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725543_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725543/palworld-official-card-game-bp02-legends-awaken-hangyu-heavens-grip",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725544,
@@ -1532,9 +1756,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.57,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -1549,9 +1773,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -1581,7 +1805,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725547_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725547/palworld-official-card-game-bp02-legends-awaken-beware-of-mammorest-sign-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725548,
@@ -1595,7 +1826,7 @@
         {
           "sub": "Normal",
           "usd": 0.99,
-          "low": 0.99,
+          "low": 0.65,
           "mid": 0.99
         }
       ]
@@ -1612,7 +1843,7 @@
         {
           "sub": "Normal",
           "usd": 0.49,
-          "low": 0.49,
+          "low": 0.1,
           "mid": 0.49
         }
       ]
@@ -1628,9 +1859,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -1642,7 +1873,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725551_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725551/palworld-official-card-game-bp02-legends-awaken-wooden-chest",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725552,
@@ -1655,9 +1893,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.33,
+          "mid": 0.65
         }
       ]
     },
@@ -1670,7 +1908,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725553_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725553/palworld-official-card-game-bp02-legends-awaken-lifmunks-submachine-gun-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725554,
@@ -1680,7 +1925,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725554_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725554/palworld-official-card-game-bp02-legends-awaken-refined-metal-axe",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725555,
@@ -1690,7 +1942,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725555_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725555/palworld-official-card-game-bp02-legends-awaken-old-bow",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725556,
@@ -1703,9 +1962,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.99,
-          "low": 9.99,
-          "mid": 9.99
+          "usd": 3,
+          "low": 2,
+          "mid": 3
         }
       ]
     },
@@ -1721,9 +1980,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29.99,
-          "low": 29.99,
-          "mid": 29.99
+          "usd": 21.99,
+          "low": 19.97,
+          "mid": 21.99
         }
       ]
     },
@@ -1739,9 +1998,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 109.99,
-          "low": 109.99,
-          "mid": 109.99
+          "usd": 85,
+          "low": 84.99,
+          "mid": 84.99
         }
       ]
     },
@@ -1774,8 +2033,8 @@
         {
           "sub": "Foil",
           "usd": 24.99,
-          "low": 24.99,
-          "mid": 24.99
+          "low": 24.88,
+          "mid": 24.9
         }
       ]
     },
@@ -1792,8 +2051,8 @@
         {
           "sub": "Foil",
           "usd": 59.99,
-          "low": 59.99,
-          "mid": 59.99
+          "low": 44.98,
+          "mid": 45
         }
       ]
     },
@@ -1806,7 +2065,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725562_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725562/palworld-official-card-game-bp02-legends-awaken-frostallion-noct-eternal-darkness-ssp",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 450,
+          "low": 400,
+          "mid": 450
+        }
+      ]
     },
     {
       "id": 725563,
@@ -1819,9 +2085,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 21.99,
-          "low": 21.99,
-          "mid": 21.99
+          "usd": 12,
+          "low": 7.99,
+          "mid": 12
         }
       ]
     },
@@ -1837,9 +2103,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 59.99,
-          "low": 59.99,
-          "mid": 59.99
+          "usd": 45,
+          "low": 44.99,
+          "mid": 45
         }
       ]
     },
@@ -1855,9 +2121,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 179.99,
-          "low": 179.99,
-          "mid": 179.99
+          "usd": 169.99,
+          "low": 130,
+          "mid": 169.99
         }
       ]
     },
@@ -1872,9 +2138,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.99,
-          "low": 1.99,
-          "mid": 1.99
+          "usd": 1.47,
+          "low": 0.94,
+          "mid": 1.47
         }
       ]
     },
@@ -1887,7 +2153,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725567_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725567/palworld-official-card-game-bp02-legends-awaken-tombat-resonance-of-shadows-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725568,
@@ -1901,9 +2174,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 99.99,
-          "low": 99.99,
-          "mid": 99.99
+          "usd": 90,
+          "low": 80,
+          "mid": 90
         }
       ]
     },
@@ -1918,9 +2191,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.95,
+          "low": 0.48,
+          "mid": 0.95
         }
       ]
     },
@@ -1933,7 +2206,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725570_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725570/palworld-official-card-game-bp02-legends-awaken-prixter-nightfall-stinger-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 725571,
@@ -1943,7 +2223,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725571_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725571/palworld-official-card-game-bp02-legends-awaken-shroomer-noct-spores-of-the-void",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.99,
+          "low": 4.99,
+          "mid": 4.99
+        }
+      ]
     },
     {
       "id": 725572,
@@ -1954,7 +2241,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725572_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725572/palworld-official-card-game-bp02-legends-awaken-shroomer-noct-spores-of-the-void-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 14.99,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 725573,
@@ -1967,9 +2261,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.8,
+          "low": 0.47,
+          "mid": 0.8
         }
       ]
     },
@@ -1982,7 +2276,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725574_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725574/palworld-official-card-game-bp02-legends-awaken-kitsun-noct-umbral-prowler-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725575,
@@ -1995,9 +2296,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -2010,7 +2311,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725576_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725576/palworld-official-card-game-bp02-legends-awaken-nox-one-way-ticket-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18,
+          "low": 17,
+          "mid": 18
+        }
+      ]
     },
     {
       "id": 725577,
@@ -2024,7 +2332,7 @@
         {
           "sub": "Normal",
           "usd": 0.99,
-          "low": 0.99,
+          "low": 0.94,
           "mid": 0.99
         }
       ]
@@ -2058,8 +2366,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -2072,7 +2380,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725580_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725580/palworld-official-card-game-bp02-legends-awaken-daedream-blissful-dreams-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11.99,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725581,
@@ -2085,9 +2400,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.57,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -2100,7 +2415,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725582_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725582/palworld-official-card-game-bp02-legends-awaken-wixen-noct-honeyed-temptation-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12,
+          "low": 11,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 725583,
@@ -2110,7 +2432,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725583_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725583/palworld-official-card-game-bp02-legends-awaken-killamari-abyssal-terror",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725584,
@@ -2123,9 +2452,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.62,
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -2137,7 +2466,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725585_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725585/palworld-official-card-game-bp02-legends-awaken-incineram-noct-predator-of-doom",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725586,
@@ -2150,9 +2486,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.99,
-          "low": 0.99,
-          "mid": 0.99
+          "usd": 0.95,
+          "low": 0.94,
+          "mid": 0.95
         }
       ]
     },
@@ -2165,7 +2501,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725587_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725587/palworld-official-card-game-bp02-legends-awaken-electric-medicine-workbench-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.5,
+          "low": 15,
+          "mid": 16.5
+        }
+      ]
     },
     {
       "id": 725589,
@@ -2176,7 +2519,14 @@
       "type": "Structure",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725589_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725589/palworld-official-card-game-bp02-legends-awaken-bear-trap-small",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
     },
     {
       "id": 725590,
@@ -2189,9 +2539,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.57,
+          "low": 0.1,
+          "mid": 0.57
         }
       ]
     },
@@ -2206,9 +2556,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -2223,9 +2573,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -2240,9 +2590,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "usd": 0.65,
+          "low": 0.1,
+          "mid": 0.65
         }
       ]
     },
@@ -2258,8 +2608,8 @@
         {
           "sub": "Foil",
           "usd": 17.99,
-          "low": 17.99,
-          "mid": 17.99
+          "low": 17.88,
+          "mid": 17.9
         }
       ]
     },
@@ -2275,9 +2625,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 49.99,
-          "low": 49.99,
-          "mid": 49.99
+          "usd": 40,
+          "low": 39.94,
+          "mid": 40
         }
       ]
     },
@@ -2293,9 +2643,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1090,
-          "low": 179.99,
-          "mid": 1090
+          "usd": 179,
+          "low": 179,
+          "mid": 179
         }
       ]
     },
@@ -2310,9 +2660,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.99,
-          "low": 4.99,
-          "mid": 4.99
+          "usd": 2.25,
+          "low": 1.44,
+          "mid": 2.25
         }
       ]
     },
@@ -2325,7 +2675,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725598_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725598/palworld-official-card-game-bp02-legends-awaken-sayas-crescent-moon-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18,
+          "low": 17.99,
+          "mid": 18
+        }
+      ]
     },
     {
       "id": 725599,
@@ -2339,8 +2696,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -2356,8 +2713,8 @@
         {
           "sub": "Foil",
           "usd": 14.99,
-          "low": 14.99,
-          "mid": 14.99
+          "low": 14.89,
+          "mid": 14.9
         }
       ]
     },
@@ -2373,9 +2730,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 49.99,
-          "low": 49.99,
-          "mid": 49.99
+          "usd": 49.45,
+          "low": 48.98,
+          "mid": 49.45
         }
       ]
     },
@@ -2409,7 +2766,7 @@
         {
           "sub": "Normal",
           "usd": 0.99,
-          "low": 0.99,
+          "low": 0.94,
           "mid": 0.99
         }
       ]
@@ -2426,8 +2783,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -2443,8 +2800,8 @@
         {
           "sub": "Normal",
           "usd": 0.69,
-          "low": 0.69,
-          "mid": 0.69
+          "low": 0.49,
+          "mid": 0.57
         }
       ]
     },
@@ -2457,7 +2814,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725606_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725606/palworld-official-card-game-bp02-legends-awaken-awakening-of-legends-sr",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 14.99,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 725607,
@@ -2467,8 +2831,15 @@
       "type": "Soul",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725607_200w.jpg",
       "url": "https://www.tcgplayer.com/product/725607/palworld-official-card-game-bp02-legends-awaken-soul",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1100,
+          "low": 1100,
+          "mid": 1100
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-10-29"
+  "pricesAt": "2026-10-30"
 }

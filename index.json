@@ -1,6 +1,6 @@
 {
-  "version": 31,
-  "updatedAt": "2026-10-29",
+  "version": 32,
+  "updatedAt": "2026-10-30",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -44,8 +44,8 @@
       "files": {
         "en": {
           "file": "onepiece-en.json",
-          "version": 3,
-          "count": 311
+          "version": 4,
+          "count": 312
         }
       }
     },
@@ -53,8 +53,8 @@
       "files": {
         "en": {
           "file": "magic-en.json",
-          "version": 6,
-          "count": 3394
+          "version": 7,
+          "count": 3303
         }
       }
     },
@@ -130,47 +130,47 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-10-29",
-      "count": 386
+      "date": "2026-10-30",
+      "count": 391
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-10-29",
-      "count": 3167
+      "date": "2026-10-30",
+      "count": 3168
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-10-29",
-      "count": 959
+      "date": "2026-10-30",
+      "count": 958
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "count": 159
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "count": 288
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-10-29",
-      "count": 148
+      "date": "2026-10-30",
+      "count": 149
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-10-29",
-      "count": 69
+      "date": "2026-10-30",
+      "count": 70
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "count": 15
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "count": 17
     }
   }

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "onepiece",
   "lang": "en",
   "products": [
@@ -85,6 +85,18 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712907_200w.jpg",
       "source": {
         "tcgplayer": 712907
+      }
+    },
+    {
+      "id": "op-en-tcp727129",
+      "game": "onepiece",
+      "kind": "collection",
+      "name": "Gift Collection -ONE PIECE Heroines- Set",
+      "lang": "en",
+      "releasedAt": "2026-11-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727129_200w.jpg",
+      "source": {
+        "tcgplayer": 727129
       }
     },
     {

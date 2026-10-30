@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-10-29T10:57:24.248Z",
+  "harvestedAt": "2026-10-30T10:54:53.007Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -268,7 +268,7 @@
     "17675": {
       "name": "One Piece Promotion Cards",
       "abbreviation": "OP-PR",
-      "modifiedOn": "2026-10-28T11:43:50.477",
+      "modifiedOn": "2026-10-29T15:41:50.44",
       "publishedOn": "2022-09-30",
       "products": [
         {
@@ -1502,6 +1502,22 @@
           "releasedOn": "2026-10-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/725386_200w.jpg",
           "url": "https://www.tcgplayer.com/product/725386/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-boa-hancock-ryuda-artwork"
+        },
+        {
+          "tcgplayerId": 727129,
+          "name": "Gift Collection -ONE PIECE Heroines- Set",
+          "kind": "collection",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727129_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/727129/one-piece-card-game-one-piece-promotion-cards-gift-collection-one-piece-heroines-set"
+        },
+        {
+          "tcgplayerId": 727130,
+          "name": "Gift Collection -ONE PIECE Heroines- Set Display",
+          "kind": "case",
+          "releasedOn": "2026-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727130_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/727130/one-piece-card-game-one-piece-promotion-cards-gift-collection-one-piece-heroines-set-display"
         }
       ]
     },
@@ -4150,7 +4166,7 @@
     "24833": {
       "name": "The Dominance of God",
       "abbreviation": "OP18",
-      "modifiedOn": "2026-10-28T18:24:08.747",
+      "modifiedOn": "2026-10-29T14:09:45.163",
       "publishedOn": "2026-11-20",
       "setId": "op-op18",
       "products": [

@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -946,6 +946,621 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709724_200w.jpg",
       "source": {
         "tcgplayer": 709724
+      }
+    },
+    {
+      "id": "mtg-en-tcp729587",
+      "game": "magic",
+      "kind": "other",
+      "name": "Saavik, Stoic Student",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729587_200w.jpg",
+      "source": {
+        "tcgplayer": 729587
+      }
+    },
+    {
+      "id": "mtg-en-tcp729588",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shields Up!",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729588_200w.jpg",
+      "source": {
+        "tcgplayer": 729588
+      }
+    },
+    {
+      "id": "mtg-en-tcp729589",
+      "game": "magic",
+      "kind": "other",
+      "name": "Shuttle Ace",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729589_200w.jpg",
+      "source": {
+        "tcgplayer": 729589
+      }
+    },
+    {
+      "id": "mtg-en-tcp729590",
+      "game": "magic",
+      "kind": "other",
+      "name": "Tactical Officer",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729590_200w.jpg",
+      "source": {
+        "tcgplayer": 729590
+      }
+    },
+    {
+      "id": "mtg-en-tcp729591",
+      "game": "magic",
+      "kind": "other",
+      "name": "Cloistered Telepath",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729591_200w.jpg",
+      "source": {
+        "tcgplayer": 729591
+      }
+    },
+    {
+      "id": "mtg-en-tcp729592",
+      "game": "magic",
+      "kind": "other",
+      "name": "Dominion Saboteur",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729592_200w.jpg",
+      "source": {
+        "tcgplayer": 729592
+      }
+    },
+    {
+      "id": "mtg-en-tcp729593",
+      "game": "magic",
+      "kind": "other",
+      "name": "Federation Probe",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729593_200w.jpg",
+      "source": {
+        "tcgplayer": 729593
+      }
+    },
+    {
+      "id": "mtg-en-tcp729594",
+      "game": "magic",
+      "kind": "other",
+      "name": "Guidance Failure",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729594_200w.jpg",
+      "source": {
+        "tcgplayer": 729594
+      }
+    },
+    {
+      "id": "mtg-en-tcp729595",
+      "game": "magic",
+      "kind": "other",
+      "name": "Humpback Whales",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729595_200w.jpg",
+      "source": {
+        "tcgplayer": 729595
+      }
+    },
+    {
+      "id": "mtg-en-tcp729596",
+      "game": "magic",
+      "kind": "other",
+      "name": "Marooned",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729596_200w.jpg",
+      "source": {
+        "tcgplayer": 729596
+      }
+    },
+    {
+      "id": "mtg-en-tcp729597",
+      "game": "magic",
+      "kind": "other",
+      "name": "Open Communications",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729597_200w.jpg",
+      "source": {
+        "tcgplayer": 729597
+      }
+    },
+    {
+      "id": "mtg-en-tcp729598",
+      "game": "magic",
+      "kind": "other",
+      "name": "V'Ger, the Intruder",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729598_200w.jpg",
+      "source": {
+        "tcgplayer": 729598
+      }
+    },
+    {
+      "id": "mtg-en-tcp729599",
+      "game": "magic",
+      "kind": "other",
+      "name": "Assault Drone",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729599_200w.jpg",
+      "source": {
+        "tcgplayer": 729599
+      }
+    },
+    {
+      "id": "mtg-en-tcp729600",
+      "game": "magic",
+      "kind": "other",
+      "name": "Automated Warfare System",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729600_200w.jpg",
+      "source": {
+        "tcgplayer": 729600
+      }
+    },
+    {
+      "id": "mtg-en-tcp729601",
+      "game": "magic",
+      "kind": "other",
+      "name": "Bat'leth",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729601_200w.jpg",
+      "source": {
+        "tcgplayer": 729601
+      }
+    },
+    {
+      "id": "mtg-en-tcp729602",
+      "game": "magic",
+      "kind": "other",
+      "name": "Battle-Scarred Survivalist",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729602_200w.jpg",
+      "source": {
+        "tcgplayer": 729602
+      }
+    },
+    {
+      "id": "mtg-en-tcp729603",
+      "game": "magic",
+      "kind": "other",
+      "name": "Cha'Dich Investigator",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729603_200w.jpg",
+      "source": {
+        "tcgplayer": 729603
+      }
+    },
+    {
+      "id": "mtg-en-tcp729604",
+      "game": "magic",
+      "kind": "other",
+      "name": "Collective Drone",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729604_200w.jpg",
+      "source": {
+        "tcgplayer": 729604
+      }
+    },
+    {
+      "id": "mtg-en-tcp729605",
+      "game": "magic",
+      "kind": "other",
+      "name": "Eject the Warp Core",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729605_200w.jpg",
+      "source": {
+        "tcgplayer": 729605
+      }
+    },
+    {
+      "id": "mtg-en-tcp729606",
+      "game": "magic",
+      "kind": "other",
+      "name": "A Good Day to Die",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729606_200w.jpg",
+      "source": {
+        "tcgplayer": 729606
+      }
+    },
+    {
+      "id": "mtg-en-tcp729607",
+      "game": "magic",
+      "kind": "other",
+      "name": "He's Dead, Jim",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729607_200w.jpg",
+      "source": {
+        "tcgplayer": 729607
+      }
+    },
+    {
+      "id": "mtg-en-tcp729608",
+      "game": "magic",
+      "kind": "other",
+      "name": "Hive Mind Coprocessor",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729608_200w.jpg",
+      "source": {
+        "tcgplayer": 729608
+      }
+    },
+    {
+      "id": "mtg-en-tcp729609",
+      "game": "magic",
+      "kind": "other",
+      "name": "Organic Avulsion Unit",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729609_200w.jpg",
+      "source": {
+        "tcgplayer": 729609
+      }
+    },
+    {
+      "id": "mtg-en-tcp729610",
+      "game": "magic",
+      "kind": "other",
+      "name": "Relentless Drednok",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729610_200w.jpg",
+      "source": {
+        "tcgplayer": 729610
+      }
+    },
+    {
+      "id": "mtg-en-tcp729611",
+      "game": "magic",
+      "kind": "other",
+      "name": "Resistance Is Futile",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729611_200w.jpg",
+      "source": {
+        "tcgplayer": 729611
+      }
+    },
+    {
+      "id": "mtg-en-tcp729612",
+      "game": "magic",
+      "kind": "other",
+      "name": "Rogue Artificial Intelligence",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729612_200w.jpg",
+      "source": {
+        "tcgplayer": 729612
+      }
+    },
+    {
+      "id": "mtg-en-tcp729613",
+      "game": "magic",
+      "kind": "other",
+      "name": "Cantankerous Captain",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729613_200w.jpg",
+      "source": {
+        "tcgplayer": 729613
+      }
+    },
+    {
+      "id": "mtg-en-tcp729614",
+      "game": "magic",
+      "kind": "other",
+      "name": "Captain's Tutelage",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729614_200w.jpg",
+      "source": {
+        "tcgplayer": 729614
+      }
+    },
+    {
+      "id": "mtg-en-tcp729615",
+      "game": "magic",
+      "kind": "other",
+      "name": "Horta",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729615_200w.jpg",
+      "source": {
+        "tcgplayer": 729615
+      }
+    },
+    {
+      "id": "mtg-en-tcp729616",
+      "game": "magic",
+      "kind": "other",
+      "name": "Khaaaaaaaaaaaaaannn!",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729616_200w.jpg",
+      "source": {
+        "tcgplayer": 729616
+      }
+    },
+    {
+      "id": "mtg-en-tcp729617",
+      "game": "magic",
+      "kind": "other",
+      "name": "La'An Noonien-Singh, Security",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729617_200w.jpg",
+      "source": {
+        "tcgplayer": 729617
+      }
+    },
+    {
+      "id": "mtg-en-tcp729618",
+      "game": "magic",
+      "kind": "other",
+      "name": "Munitions Enthusiast",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729618_200w.jpg",
+      "source": {
+        "tcgplayer": 729618
+      }
+    },
+    {
+      "id": "mtg-en-tcp729619",
+      "game": "magic",
+      "kind": "other",
+      "name": "Perils of the Past",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729619_200w.jpg",
+      "source": {
+        "tcgplayer": 729619
+      }
+    },
+    {
+      "id": "mtg-en-tcp729620",
+      "game": "magic",
+      "kind": "other",
+      "name": "Planetary Patrol",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729620_200w.jpg",
+      "source": {
+        "tcgplayer": 729620
+      }
+    },
+    {
+      "id": "mtg-en-tcp729621",
+      "game": "magic",
+      "kind": "other",
+      "name": "Plasma Cascade",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729621_200w.jpg",
+      "source": {
+        "tcgplayer": 729621
+      }
+    },
+    {
+      "id": "mtg-en-tcp729622",
+      "game": "magic",
+      "kind": "other",
+      "name": "Reckless Impulse",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729622_200w.jpg",
+      "source": {
+        "tcgplayer": 729622
+      }
+    },
+    {
+      "id": "mtg-en-tcp729623",
+      "game": "magic",
+      "kind": "other",
+      "name": "Silicate Surveyor",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729623_200w.jpg",
+      "source": {
+        "tcgplayer": 729623
+      }
+    },
+    {
+      "id": "mtg-en-tcp729624",
+      "game": "magic",
+      "kind": "other",
+      "name": "Cold-Blooded Crew",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729624_200w.jpg",
+      "source": {
+        "tcgplayer": 729624
+      }
+    },
+    {
+      "id": "mtg-en-tcp729625",
+      "game": "magic",
+      "kind": "other",
+      "name": "Common Goal",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729625_200w.jpg",
+      "source": {
+        "tcgplayer": 729625
+      }
+    },
+    {
+      "id": "mtg-en-tcp729626",
+      "game": "magic",
+      "kind": "other",
+      "name": "Dathon and Picard at El-Adrel",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729626_200w.jpg",
+      "source": {
+        "tcgplayer": 729626
+      }
+    },
+    {
+      "id": "mtg-en-tcp729627",
+      "game": "magic",
+      "kind": "other",
+      "name": "Dominion Supervisor",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729627_200w.jpg",
+      "source": {
+        "tcgplayer": 729627
       }
     },
     {
@@ -9430,21 +10045,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/684663_200w.jpg",
       "source": {
         "tcgplayer": 684663
-      }
-    },
-    {
-      "id": "mtg-en-tcp727733",
-      "game": "magic",
-      "kind": "other",
-      "name": "Brinelin, the Moon Kraken (CMM)",
-      "lang": "en",
-      "setIds": [
-        "mtg-cmm"
-      ],
-      "releasedAt": "2023-08-04",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727733_200w.jpg",
-      "source": {
-        "tcgplayer": 727733
       }
     },
     {
@@ -47661,281 +48261,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
       "source": {
         "tcgplayer": 722935
-      }
-    },
-    {
-      "id": "mtg-en-tcp727726",
-      "game": "magic",
-      "kind": "other",
-      "name": "Armed // Dangerous",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727726_200w.jpg",
-      "source": {
-        "tcgplayer": 727726
-      }
-    },
-    {
-      "id": "mtg-en-tcp727727",
-      "game": "magic",
-      "kind": "other",
-      "name": "Azure Fleet Admiral",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727727_200w.jpg",
-      "source": {
-        "tcgplayer": 727727
-      }
-    },
-    {
-      "id": "mtg-en-tcp727728",
-      "game": "magic",
-      "kind": "other",
-      "name": "Arms Dealer (J22)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727728_200w.jpg",
-      "source": {
-        "tcgplayer": 727728
-      }
-    },
-    {
-      "id": "mtg-en-tcp727729",
-      "game": "magic",
-      "kind": "other",
-      "name": "Behold the Multiverse",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727729_200w.jpg",
-      "source": {
-        "tcgplayer": 727729
-      }
-    },
-    {
-      "id": "mtg-en-tcp727730",
-      "game": "magic",
-      "kind": "other",
-      "name": "Blur",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727730_200w.jpg",
-      "source": {
-        "tcgplayer": 727730
-      }
-    },
-    {
-      "id": "mtg-en-tcp727731",
-      "game": "magic",
-      "kind": "other",
-      "name": "Beetleback Chief (TDC)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727731_200w.jpg",
-      "source": {
-        "tcgplayer": 727731
-      }
-    },
-    {
-      "id": "mtg-en-tcp727732",
-      "game": "magic",
-      "kind": "other",
-      "name": "Bhaal's Invoker",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727732_200w.jpg",
-      "source": {
-        "tcgplayer": 727732
-      }
-    },
-    {
-      "id": "mtg-en-tcp727734",
-      "game": "magic",
-      "kind": "other",
-      "name": "Canal Courier",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727734_200w.jpg",
-      "source": {
-        "tcgplayer": 727734
-      }
-    },
-    {
-      "id": "mtg-en-tcp727735",
-      "game": "magic",
-      "kind": "other",
-      "name": "Breath Weapon",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727735_200w.jpg",
-      "source": {
-        "tcgplayer": 727735
-      }
-    },
-    {
-      "id": "mtg-en-tcp727736",
-      "game": "magic",
-      "kind": "other",
-      "name": "Candlekeep Inspiration",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727736_200w.jpg",
-      "source": {
-        "tcgplayer": 727736
-      }
-    },
-    {
-      "id": "mtg-en-tcp727737",
-      "game": "magic",
-      "kind": "other",
-      "name": "Bulk Up",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727737_200w.jpg",
-      "source": {
-        "tcgplayer": 727737
-      }
-    },
-    {
-      "id": "mtg-en-tcp727738",
-      "game": "magic",
-      "kind": "other",
-      "name": "Cathartic Pyre",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727738_200w.jpg",
-      "source": {
-        "tcgplayer": 727738
-      }
-    },
-    {
-      "id": "mtg-en-tcp727739",
-      "game": "magic",
-      "kind": "other",
-      "name": "Chakram Slinger",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727739_200w.jpg",
-      "source": {
-        "tcgplayer": 727739
-      }
-    },
-    {
-      "id": "mtg-en-tcp727740",
-      "game": "magic",
-      "kind": "other",
-      "name": "Coastline Marauders",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727740_200w.jpg",
-      "source": {
-        "tcgplayer": 727740
-      }
-    },
-    {
-      "id": "mtg-en-tcp727741",
-      "game": "magic",
-      "kind": "other",
-      "name": "Coronation of Chaos",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727741_200w.jpg",
-      "source": {
-        "tcgplayer": 727741
-      }
-    },
-    {
-      "id": "mtg-en-tcp727742",
-      "game": "magic",
-      "kind": "other",
-      "name": "Clinquant Skymage",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727742_200w.jpg",
-      "source": {
-        "tcgplayer": 727742
-      }
-    },
-    {
-      "id": "mtg-en-tcp727743",
-      "game": "magic",
-      "kind": "other",
-      "name": "Coruscation Mage",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727743_200w.jpg",
-      "source": {
-        "tcgplayer": 727743
-      }
-    },
-    {
-      "id": "mtg-en-tcp727744",
-      "game": "magic",
-      "kind": "other",
-      "name": "Demand Answers",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727744_200w.jpg",
-      "source": {
-        "tcgplayer": 727744
-      }
-    },
-    {
-      "id": "mtg-en-tcp727745",
-      "game": "magic",
-      "kind": "other",
-      "name": "Cone of Cold",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727745_200w.jpg",
-      "source": {
-        "tcgplayer": 727745
-      }
-    },
-    {
-      "id": "mtg-en-tcp727746",
-      "game": "magic",
-      "kind": "other",
-      "name": "Diamond Pick-Axe",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727746_200w.jpg",
-      "source": {
-        "tcgplayer": 727746
-      }
-    },
-    {
-      "id": "mtg-en-tcp727747",
-      "game": "magic",
-      "kind": "other",
-      "name": "Cryogen Relic",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727747_200w.jpg",
-      "source": {
-        "tcgplayer": 727747
-      }
-    },
-    {
-      "id": "mtg-en-tcp727748",
-      "game": "magic",
-      "kind": "other",
-      "name": "Empty the Warrens (DMR)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727748_200w.jpg",
-      "source": {
-        "tcgplayer": 727748
-      }
-    },
-    {
-      "id": "mtg-en-tcp727749",
-      "game": "magic",
-      "kind": "other",
-      "name": "End the Festivities",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727749_200w.jpg",
-      "source": {
-        "tcgplayer": 727749
-      }
-    },
-    {
-      "id": "mtg-en-tcp727750",
-      "game": "magic",
-      "kind": "other",
-      "name": "Fathom Fleet Swordjack",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727750_200w.jpg",
-      "source": {
-        "tcgplayer": 727750
-      }
-    },
-    {
-      "id": "mtg-en-tcp727751",
-      "game": "magic",
-      "kind": "other",
-      "name": "Flametongue Kavu (PLS)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727751_200w.jpg",
-      "source": {
-        "tcgplayer": 727751
       }
     },
     {

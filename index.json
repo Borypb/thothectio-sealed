@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "updatedAt": "2026-10-31",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -53,8 +53,8 @@
       "files": {
         "en": {
           "file": "magic-en.json",
-          "version": 7,
-          "count": 3303
+          "version": 8,
+          "count": 3318
         }
       }
     },
@@ -116,8 +116,8 @@
       "files": {
         "en": {
           "file": "cyberpunk-en.json",
-          "version": 1,
-          "count": 10
+          "version": 2,
+          "count": 11
         }
       }
     }
@@ -130,47 +130,47 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-10-30",
-      "count": 391
+      "date": "2026-10-31",
+      "count": 392
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-10-30",
-      "count": 3168
+      "date": "2026-10-31",
+      "count": 3169
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-10-30",
-      "count": 958
+      "date": "2026-10-31",
+      "count": 957
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 159
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 288
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 149
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 70
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 15
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "count": 17
     }
   }

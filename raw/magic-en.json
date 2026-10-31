@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-10-30T10:55:01.869Z",
+  "harvestedAt": "2026-10-31T10:27:00.575Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -7117,7 +7117,7 @@
     "1163": {
       "name": "Unique and Miscellaneous Promos",
       "abbreviation": "UMP",
-      "modifiedOn": "2026-10-29T14:09:51.933",
+      "modifiedOn": "2026-10-30T19:06:39.43",
       "products": [
         {
           "tcgplayerId": 217567,
@@ -21687,184 +21687,8 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-10-29T19:37:40.933",
-      "products": [
-        {
-          "tcgplayerId": 727726,
-          "name": "Armed // Dangerous",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727726_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727726/magic-the-list-reprints-armed-dangerous"
-        },
-        {
-          "tcgplayerId": 727727,
-          "name": "Azure Fleet Admiral",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727727_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727727/magic-the-list-reprints-azure-fleet-admiral"
-        },
-        {
-          "tcgplayerId": 727728,
-          "name": "Arms Dealer (J22)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727728_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727728/magic-the-list-reprints-arms-dealer-j22"
-        },
-        {
-          "tcgplayerId": 727729,
-          "name": "Behold the Multiverse",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727729_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727729/magic-the-list-reprints-behold-the-multiverse"
-        },
-        {
-          "tcgplayerId": 727730,
-          "name": "Blur",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727730_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727730/magic-the-list-reprints-blur"
-        },
-        {
-          "tcgplayerId": 727731,
-          "name": "Beetleback Chief (TDC)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727731_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727731/magic-the-list-reprints-beetleback-chief-tdc"
-        },
-        {
-          "tcgplayerId": 727732,
-          "name": "Bhaal's Invoker",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727732_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727732/magic-the-list-reprints-bhaals-invoker"
-        },
-        {
-          "tcgplayerId": 727734,
-          "name": "Canal Courier",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727734_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727734/magic-the-list-reprints-canal-courier"
-        },
-        {
-          "tcgplayerId": 727735,
-          "name": "Breath Weapon",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727735_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727735/magic-the-list-reprints-breath-weapon"
-        },
-        {
-          "tcgplayerId": 727736,
-          "name": "Candlekeep Inspiration",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727736_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727736/magic-the-list-reprints-candlekeep-inspiration"
-        },
-        {
-          "tcgplayerId": 727737,
-          "name": "Bulk Up",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727737_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727737/magic-the-list-reprints-bulk-up"
-        },
-        {
-          "tcgplayerId": 727738,
-          "name": "Cathartic Pyre",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727738_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727738/magic-the-list-reprints-cathartic-pyre"
-        },
-        {
-          "tcgplayerId": 727739,
-          "name": "Chakram Slinger",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727739_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727739/magic-the-list-reprints-chakram-slinger"
-        },
-        {
-          "tcgplayerId": 727740,
-          "name": "Coastline Marauders",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727740_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727740/magic-the-list-reprints-coastline-marauders"
-        },
-        {
-          "tcgplayerId": 727741,
-          "name": "Coronation of Chaos",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727741_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727741/magic-the-list-reprints-coronation-of-chaos"
-        },
-        {
-          "tcgplayerId": 727742,
-          "name": "Clinquant Skymage",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727742_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727742/magic-the-list-reprints-clinquant-skymage"
-        },
-        {
-          "tcgplayerId": 727743,
-          "name": "Coruscation Mage",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727743_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727743/magic-the-list-reprints-coruscation-mage"
-        },
-        {
-          "tcgplayerId": 727744,
-          "name": "Demand Answers",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727744_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727744/magic-the-list-reprints-demand-answers"
-        },
-        {
-          "tcgplayerId": 727745,
-          "name": "Cone of Cold",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727745_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727745/magic-the-list-reprints-cone-of-cold"
-        },
-        {
-          "tcgplayerId": 727746,
-          "name": "Diamond Pick-Axe",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727746_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727746/magic-the-list-reprints-diamond-pick-axe"
-        },
-        {
-          "tcgplayerId": 727747,
-          "name": "Cryogen Relic",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727747_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727747/magic-the-list-reprints-cryogen-relic"
-        },
-        {
-          "tcgplayerId": 727748,
-          "name": "Empty the Warrens (DMR)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727748_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727748/magic-the-list-reprints-empty-the-warrens-dmr"
-        },
-        {
-          "tcgplayerId": 727749,
-          "name": "End the Festivities",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727749_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727749/magic-the-list-reprints-end-the-festivities"
-        },
-        {
-          "tcgplayerId": 727750,
-          "name": "Fathom Fleet Swordjack",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727750_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727750/magic-the-list-reprints-fathom-fleet-swordjack"
-        },
-        {
-          "tcgplayerId": 727751,
-          "name": "Flametongue Kavu (PLS)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727751_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727751/magic-the-list-reprints-flametongue-kavu-pls"
-        }
-      ]
+      "modifiedOn": "2026-10-30T15:05:51.227",
+      "products": []
     },
     "2716": {
       "name": "Commander: Zendikar Rising",
@@ -26197,7 +26021,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-10-29T19:33:42.237",
+      "modifiedOn": "2026-10-30T06:10:26.777",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -26320,14 +26144,6 @@
           "releasedOn": "2023-08-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/684663_200w.jpg",
           "url": "https://www.tcgplayer.com/product/684663/magic-commander-masters-commander-masters-collector-booster-pack-minimal-packaging"
-        },
-        {
-          "tcgplayerId": 727733,
-          "name": "Brinelin, the Moon Kraken (CMM)",
-          "kind": "other",
-          "releasedOn": "2023-08-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727733_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/727733/magic-commander-masters-brinelin-the-moon-kraken-cmm"
         }
       ]
     },
@@ -26972,7 +26788,7 @@
     "23319": {
       "name": "Ravnica Remastered",
       "abbreviation": "RVR",
-      "modifiedOn": "2026-10-29T19:27:37.71",
+      "modifiedOn": "2026-10-29T20:55:09.843",
       "publishedOn": "2024-01-12",
       "setId": "mtg-rvr",
       "products": [
@@ -30382,7 +30198,7 @@
     "24432": {
       "name": "Marvel Universe Eternal-Legal",
       "abbreviation": "MAR",
-      "modifiedOn": "2026-10-26T19:48:20.707",
+      "modifiedOn": "2026-10-30T19:21:47.36",
       "publishedOn": "2025-09-26",
       "setId": "mtg-mar",
       "products": []
@@ -31915,7 +31731,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-10-29T17:17:41.413",
+      "modifiedOn": "2026-10-30T18:29:03.237",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -32062,13 +31878,341 @@
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709039_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709039/magic-star-trek-star-trek-prerelease-pack-case"
+        },
+        {
+          "tcgplayerId": 729587,
+          "name": "Saavik, Stoic Student",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729587_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729587/magic-star-trek-saavik-stoic-student"
+        },
+        {
+          "tcgplayerId": 729588,
+          "name": "Shields Up!",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729588/magic-star-trek-shields-up"
+        },
+        {
+          "tcgplayerId": 729589,
+          "name": "Shuttle Ace",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729589/magic-star-trek-shuttle-ace"
+        },
+        {
+          "tcgplayerId": 729590,
+          "name": "Tactical Officer",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729590_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729590/magic-star-trek-tactical-officer"
+        },
+        {
+          "tcgplayerId": 729591,
+          "name": "Cloistered Telepath",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729591_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729591/magic-star-trek-cloistered-telepath"
+        },
+        {
+          "tcgplayerId": 729592,
+          "name": "Dominion Saboteur",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729592/magic-star-trek-dominion-saboteur"
+        },
+        {
+          "tcgplayerId": 729593,
+          "name": "Federation Probe",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729593_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729593/magic-star-trek-federation-probe"
+        },
+        {
+          "tcgplayerId": 729594,
+          "name": "Guidance Failure",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729594_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729594/magic-star-trek-guidance-failure"
+        },
+        {
+          "tcgplayerId": 729595,
+          "name": "Humpback Whales",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729595_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729595/magic-star-trek-humpback-whales"
+        },
+        {
+          "tcgplayerId": 729596,
+          "name": "Marooned",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729596_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729596/magic-star-trek-marooned"
+        },
+        {
+          "tcgplayerId": 729597,
+          "name": "Open Communications",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729597_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729597/magic-star-trek-open-communications"
+        },
+        {
+          "tcgplayerId": 729598,
+          "name": "V'Ger, the Intruder",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729598_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729598/magic-star-trek-vger-the-intruder"
+        },
+        {
+          "tcgplayerId": 729599,
+          "name": "Assault Drone",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729599_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729599/magic-star-trek-assault-drone"
+        },
+        {
+          "tcgplayerId": 729600,
+          "name": "Automated Warfare System",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729600_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729600/magic-star-trek-automated-warfare-system"
+        },
+        {
+          "tcgplayerId": 729601,
+          "name": "Bat'leth",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729601_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729601/magic-star-trek-batleth"
+        },
+        {
+          "tcgplayerId": 729602,
+          "name": "Battle-Scarred Survivalist",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729602_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729602/magic-star-trek-battle-scarred-survivalist"
+        },
+        {
+          "tcgplayerId": 729603,
+          "name": "Cha'Dich Investigator",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729603_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729603/magic-star-trek-chadich-investigator"
+        },
+        {
+          "tcgplayerId": 729604,
+          "name": "Collective Drone",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729604_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729604/magic-star-trek-collective-drone"
+        },
+        {
+          "tcgplayerId": 729605,
+          "name": "Eject the Warp Core",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729605_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729605/magic-star-trek-eject-the-warp-core"
+        },
+        {
+          "tcgplayerId": 729606,
+          "name": "A Good Day to Die",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729606_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729606/magic-star-trek-a-good-day-to-die"
+        },
+        {
+          "tcgplayerId": 729607,
+          "name": "He's Dead, Jim",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729607_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729607/magic-star-trek-hes-dead-jim"
+        },
+        {
+          "tcgplayerId": 729608,
+          "name": "Hive Mind Coprocessor",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729608_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729608/magic-star-trek-hive-mind-coprocessor"
+        },
+        {
+          "tcgplayerId": 729609,
+          "name": "Organic Avulsion Unit",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729609_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729609/magic-star-trek-organic-avulsion-unit"
+        },
+        {
+          "tcgplayerId": 729610,
+          "name": "Relentless Drednok",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729610_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729610/magic-star-trek-relentless-drednok"
+        },
+        {
+          "tcgplayerId": 729611,
+          "name": "Resistance Is Futile",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729611_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729611/magic-star-trek-resistance-is-futile"
+        },
+        {
+          "tcgplayerId": 729612,
+          "name": "Rogue Artificial Intelligence",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729612_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729612/magic-star-trek-rogue-artificial-intelligence"
+        },
+        {
+          "tcgplayerId": 729613,
+          "name": "Cantankerous Captain",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729613_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729613/magic-star-trek-cantankerous-captain"
+        },
+        {
+          "tcgplayerId": 729614,
+          "name": "Captain's Tutelage",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729614_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729614/magic-star-trek-captains-tutelage"
+        },
+        {
+          "tcgplayerId": 729615,
+          "name": "Horta",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729615_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729615/magic-star-trek-horta"
+        },
+        {
+          "tcgplayerId": 729616,
+          "name": "Khaaaaaaaaaaaaaannn!",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729616_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729616/magic-star-trek-khaaaaaaaaaaaaaannn"
+        },
+        {
+          "tcgplayerId": 729617,
+          "name": "La'An Noonien-Singh, Security",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729617_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729617/magic-star-trek-laan-noonien-singh-security"
+        },
+        {
+          "tcgplayerId": 729618,
+          "name": "Munitions Enthusiast",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729618_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729618/magic-star-trek-munitions-enthusiast"
+        },
+        {
+          "tcgplayerId": 729619,
+          "name": "Perils of the Past",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729619_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729619/magic-star-trek-perils-of-the-past"
+        },
+        {
+          "tcgplayerId": 729620,
+          "name": "Planetary Patrol",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729620_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729620/magic-star-trek-planetary-patrol"
+        },
+        {
+          "tcgplayerId": 729621,
+          "name": "Plasma Cascade",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729621_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729621/magic-star-trek-plasma-cascade"
+        },
+        {
+          "tcgplayerId": 729622,
+          "name": "Reckless Impulse",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729622_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729622/magic-star-trek-reckless-impulse"
+        },
+        {
+          "tcgplayerId": 729623,
+          "name": "Silicate Surveyor",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729623_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729623/magic-star-trek-silicate-surveyor"
+        },
+        {
+          "tcgplayerId": 729624,
+          "name": "Cold-Blooded Crew",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729624_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729624/magic-star-trek-cold-blooded-crew"
+        },
+        {
+          "tcgplayerId": 729625,
+          "name": "Common Goal",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729625_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729625/magic-star-trek-common-goal"
+        },
+        {
+          "tcgplayerId": 729626,
+          "name": "Dathon and Picard at El-Adrel",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729626_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729626/magic-star-trek-dathon-and-picard-at-el-adrel"
+        },
+        {
+          "tcgplayerId": 729627,
+          "name": "Dominion Supervisor",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729627_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729627/magic-star-trek-dominion-supervisor"
         }
       ]
     },
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-10-29T19:04:38.667",
+      "modifiedOn": "2026-10-30T18:10:28.29",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -32484,6 +32628,13 @@
           "url": "https://www.tcgplayer.com/product/723300/magic-commander-marvel-darkhold-destiny-marvel-darkhold-destiny-commander-deck-case-collectors-edition"
         }
       ]
+    },
+    "24924": {
+      "name": "Art Series: Star Trek",
+      "abbreviation": "ASTRK",
+      "modifiedOn": "2026-10-30T18:01:27.057",
+      "publishedOn": "2026-11-13",
+      "products": []
     }
   }
 }

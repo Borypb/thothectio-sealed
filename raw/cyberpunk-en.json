@@ -2,11 +2,11 @@
   "game": "cyberpunk",
   "lang": "en",
   "categoryId": 92,
-  "harvestedAt": "2026-10-30T10:56:36.186Z",
+  "harvestedAt": "2026-10-31T10:28:25.472Z",
   "groups": {
     "24845": {
       "name": "Welcome to Night City - Beta",
-      "modifiedOn": "2026-10-23T14:23:10.627",
+      "modifiedOn": "2026-10-30T16:38:05.527",
       "publishedOn": "2026-09-10",
       "setId": "cyb-g24845",
       "products": [
@@ -62,7 +62,7 @@
     },
     "24847": {
       "name": "The Heist - Beta Starter Deck",
-      "modifiedOn": "2026-10-15T18:56:14.833",
+      "modifiedOn": "2026-10-30T16:38:26.013",
       "publishedOn": "2026-09-10",
       "setId": "cyb-g24847",
       "products": [
@@ -93,7 +93,7 @@
     },
     "24855": {
       "name": "Welcome to Night City - Retail",
-      "modifiedOn": "2026-10-23T14:22:58.503",
+      "modifiedOn": "2026-10-30T16:38:01.137",
       "publishedOn": "2026-11-06",
       "setId": "cyb-g24855",
       "products": [
@@ -120,6 +120,14 @@
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/714496_200w.jpg",
           "url": "https://www.tcgplayer.com/product/714496/cyberpunk-tcg-welcome-to-night-city-retail-welcome-to-night-city-retail-booster-pack"
+        },
+        {
+          "tcgplayerId": 727957,
+          "name": "Welcome to Night City - Pre-Release Kit",
+          "kind": "build_battle",
+          "releasedOn": "2026-11-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/727957_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/727957/cyberpunk-tcg-welcome-to-night-city-retail-welcome-to-night-city-pre-release-kit"
         }
       ]
     },
@@ -156,7 +164,7 @@
     },
     "24859": {
       "name": "The Heist - Retail Starter Deck",
-      "modifiedOn": "2026-10-22T18:52:46.43",
+      "modifiedOn": "2026-10-30T16:38:18.78",
       "publishedOn": "2026-11-06",
       "setId": "cyb-g24859",
       "products": [
@@ -180,7 +188,7 @@
     },
     "24860": {
       "name": "Set 1 Promos",
-      "modifiedOn": "2026-10-23T16:01:08.827",
+      "modifiedOn": "2026-10-30T16:38:34.743",
       "publishedOn": "2026-11-06",
       "setId": "cyb-g24860",
       "products": []

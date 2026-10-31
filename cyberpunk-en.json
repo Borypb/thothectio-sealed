@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "cyberpunk",
   "lang": "en",
   "products": [
@@ -61,6 +61,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/714499_200w.jpg",
       "source": {
         "tcgplayer": 714499
+      }
+    },
+    {
+      "id": "cyb-en-tcp727957",
+      "game": "cyberpunk",
+      "kind": "build_battle",
+      "name": "Welcome to Night City - Pre-Release Kit",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24855"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/727957_200w.jpg",
+      "source": {
+        "tcgplayer": 727957
       }
     },
     {

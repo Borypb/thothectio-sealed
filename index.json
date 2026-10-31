@@ -1,0 +1,403 @@
+{
+ "fp": 1,
+ "fmt": 2,
+ "updatedAt": "2026-10-31T10:31:29.214Z",
+ "files": {
+  "pokemon-fr": {
+   "game": "pokemon",
+   "lang": "fr",
+   "count": 22491,
+   "total": 22647,
+   "records": 22491,
+   "bytes": 10644988,
+   "parts": [
+    {
+     "file": "pokemon-fr.0.4962c38086",
+     "n": 20000,
+     "bytes": 9200691
+    },
+    {
+     "file": "pokemon-fr.1.65074468b1",
+     "n": 2491,
+     "bytes": 1444297
+    }
+   ]
+  },
+  "pokemon-en": {
+   "game": "pokemon",
+   "lang": "en",
+   "count": 23393,
+   "total": 23555,
+   "records": 23393,
+   "bytes": 10982968,
+   "parts": [
+    {
+     "file": "pokemon-en.0.1de1fe49bf",
+     "n": 20000,
+     "bytes": 9076979
+    },
+    {
+     "file": "pokemon-en.1.0c0598a448",
+     "n": 3393,
+     "bytes": 1905989
+    }
+   ]
+  },
+  "pokemon-ja": {
+   "game": "pokemon",
+   "lang": "ja",
+   "count": 21632,
+   "total": 21636,
+   "records": 21632,
+   "bytes": 6131076,
+   "parts": [
+    {
+     "file": "pokemon-ja.0.7d5d4e9136",
+     "n": 20000,
+     "bytes": 5391038
+    },
+    {
+     "file": "pokemon-ja.1.5d4c2a2dfd",
+     "n": 1632,
+     "bytes": 740038
+    }
+   ]
+  },
+  "onepiece-en": {
+   "game": "onepiece",
+   "lang": "en",
+   "count": 4945,
+   "total": 4945,
+   "records": 4945,
+   "bytes": 1618350,
+   "parts": [
+    {
+     "file": "onepiece-en.0.906e770922",
+     "n": 4945,
+     "bytes": 1618350
+    }
+   ]
+  },
+  "onepiece-ja": {
+   "game": "onepiece",
+   "lang": "ja",
+   "count": 4987,
+   "total": 4987,
+   "records": 4987,
+   "bytes": 1682209,
+   "parts": [
+    {
+     "file": "onepiece-ja.0.93ea2ba473",
+     "n": 4987,
+     "bytes": 1682209
+    }
+   ]
+  },
+  "onepiece-fr": {
+   "game": "onepiece",
+   "lang": "fr",
+   "count": 2985,
+   "total": 2985,
+   "records": 2985,
+   "bytes": 988584,
+   "parts": [
+    {
+     "file": "onepiece-fr.0.325f9b91af",
+     "n": 2985,
+     "bytes": 988584
+    }
+   ]
+  },
+  "lorcana-en": {
+   "game": "lorcana",
+   "lang": "en",
+   "count": 3501,
+   "total": 3501,
+   "records": 3501,
+   "bytes": 2239848,
+   "parts": [
+    {
+     "file": "lorcana-en.0.7ffcfcf9ae",
+     "n": 3501,
+     "bytes": 2239848
+    }
+   ]
+  },
+  "riftbound-en": {
+   "game": "riftbound",
+   "lang": "en",
+   "count": 1632,
+   "total": 1791,
+   "records": 1632,
+   "bytes": 801616,
+   "parts": [
+    {
+     "file": "riftbound-en.0.1e813a99c6",
+     "n": 1632,
+     "bytes": 801616
+    }
+   ]
+  },
+  "dragonball-en": {
+   "game": "dragonball",
+   "lang": "en",
+   "count": 3375,
+   "total": 3398,
+   "records": 3375,
+   "bytes": 1646178,
+   "parts": [
+    {
+     "file": "dragonball-en.0.fbd6787bee",
+     "n": 3375,
+     "bytes": 1646178
+    }
+   ]
+  },
+  "digimon-en": {
+   "game": "digimon",
+   "lang": "en",
+   "count": 8072,
+   "total": 8346,
+   "records": 8072,
+   "bytes": 3850009,
+   "parts": [
+    {
+     "file": "digimon-en.0.cd3e70e819",
+     "n": 8072,
+     "bytes": 3850009
+    }
+   ]
+  },
+  "palworld-en": {
+   "game": "palworld",
+   "lang": "en",
+   "count": 614,
+   "total": 616,
+   "records": 614,
+   "bytes": 297433,
+   "parts": [
+    {
+     "file": "palworld-en.0.73434dc0fb",
+     "n": 614,
+     "bytes": 297433
+    }
+   ]
+  },
+  "cyberpunk-en": {
+   "game": "cyberpunk",
+   "lang": "en",
+   "count": 449,
+   "total": 449,
+   "records": 449,
+   "bytes": 205667,
+   "parts": [
+    {
+     "file": "cyberpunk-en.0.f94fbb9e4a",
+     "n": 449,
+     "bytes": 205667
+    }
+   ]
+  },
+  "yugioh-en": {
+   "game": "yugioh",
+   "lang": "en",
+   "count": 14820,
+   "total": 14820,
+   "records": 14820,
+   "bytes": 9740991,
+   "parts": [
+    {
+     "file": "yugioh-en.0.f7c9b58ed9",
+     "n": 14820,
+     "bytes": 9740991
+    }
+   ]
+  },
+  "pokemon-de": {
+   "game": "pokemon",
+   "lang": "de",
+   "count": 20657,
+   "total": 20666,
+   "records": 20657,
+   "bytes": 9918483,
+   "parts": [
+    {
+     "file": "pokemon-de.0.9727ac92f1",
+     "n": 20000,
+     "bytes": 9513823
+    },
+    {
+     "file": "pokemon-de.1.68a1d9d768",
+     "n": 657,
+     "bytes": 404660
+    }
+   ]
+  },
+  "pokemon-es": {
+   "game": "pokemon",
+   "lang": "es",
+   "count": 16951,
+   "total": 16965,
+   "records": 16951,
+   "bytes": 7913386,
+   "parts": [
+    {
+     "file": "pokemon-es.0.348fe22520",
+     "n": 16951,
+     "bytes": 7913386
+    }
+   ]
+  },
+  "pokemon-it": {
+   "game": "pokemon",
+   "lang": "it",
+   "count": 16056,
+   "total": 16149,
+   "records": 16056,
+   "bytes": 7449746,
+   "parts": [
+    {
+     "file": "pokemon-it.0.9efc4cd6e4",
+     "n": 16056,
+     "bytes": 7449746
+    }
+   ]
+  },
+  "pokemon-pt": {
+   "game": "pokemon",
+   "lang": "pt",
+   "count": 15551,
+   "total": 15713,
+   "records": 15551,
+   "bytes": 7362336,
+   "parts": [
+    {
+     "file": "pokemon-pt.0.43f9f8757a",
+     "n": 15551,
+     "bytes": 7362336
+    }
+   ]
+  },
+  "pokemon-ko": {
+   "game": "pokemon",
+   "lang": "ko",
+   "count": 6,
+   "total": 6,
+   "records": 6,
+   "bytes": 6453,
+   "parts": [
+    {
+     "file": "pokemon-ko.0.2f9a74df12",
+     "n": 6,
+     "bytes": 6453
+    }
+   ]
+  },
+  "pokemon-zh": {
+   "game": "pokemon",
+   "lang": "zh",
+   "count": 2152,
+   "total": 2152,
+   "records": 2152,
+   "bytes": 905948,
+   "parts": [
+    {
+     "file": "pokemon-zh.0.f88439769b",
+     "n": 2152,
+     "bytes": 905948
+    }
+   ]
+  },
+  "pokemon-zh-cn": {
+   "game": "pokemon",
+   "lang": "zh-cn",
+   "count": 6,
+   "total": 6,
+   "records": 6,
+   "bytes": 6456,
+   "parts": [
+    {
+     "file": "pokemon-zh-cn.0.471282f0af",
+     "n": 6,
+     "bytes": 6456
+    }
+   ]
+  },
+  "pokemon-nl": {
+   "game": "pokemon",
+   "lang": "nl",
+   "count": 1916,
+   "total": 1916,
+   "records": 1916,
+   "bytes": 1071218,
+   "parts": [
+    {
+     "file": "pokemon-nl.0.bad5a4d0d4",
+     "n": 1916,
+     "bytes": 1071218
+    }
+   ]
+  },
+  "pokemon-pl": {
+   "game": "pokemon",
+   "lang": "pl",
+   "count": 2144,
+   "total": 2144,
+   "records": 2144,
+   "bytes": 1251348,
+   "parts": [
+    {
+     "file": "pokemon-pl.0.02bccf118d",
+     "n": 2144,
+     "bytes": 1251348
+    }
+   ]
+  },
+  "pokemon-ru": {
+   "game": "pokemon",
+   "lang": "ru",
+   "count": 2144,
+   "total": 2144,
+   "records": 2144,
+   "bytes": 1251348,
+   "parts": [
+    {
+     "file": "pokemon-ru.0.db9e4bb19f",
+     "n": 2144,
+     "bytes": 1251348
+    }
+   ]
+  },
+  "pokemon-th": {
+   "game": "pokemon",
+   "lang": "th",
+   "count": 1229,
+   "total": 1230,
+   "records": 1229,
+   "bytes": 532198,
+   "parts": [
+    {
+     "file": "pokemon-th.0.a2a165bb56",
+     "n": 1229,
+     "bytes": 532198
+    }
+   ]
+  },
+  "pokemon-id": {
+   "game": "pokemon",
+   "lang": "id",
+   "count": 1158,
+   "total": 1158,
+   "records": 1158,
+   "bytes": 469317,
+   "parts": [
+    {
+     "file": "pokemon-id.0.2101b0dc9f",
+     "n": 1158,
+     "bytes": 469317
+    }
+   ]
+  }
+ },
+ "commit": "df6326d44f0e4672e439bb07e3b3d3555fdf62b7"
+}

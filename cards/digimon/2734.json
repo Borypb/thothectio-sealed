@@ -116,7 +116,7 @@
           "sub": "Normal",
           "usd": 1.18,
           "low": 0.89,
-          "mid": 1.25
+          "mid": 1.24
         }
       ]
     },
@@ -133,7 +133,7 @@
           "sub": "Normal",
           "usd": 0.09,
           "low": 0.05,
-          "mid": 0.21
+          "mid": 0.22
         }
       ]
     },
@@ -184,7 +184,7 @@
           "sub": "Foil",
           "usd": 0.25,
           "low": 0.14,
-          "mid": 0.5
+          "mid": 0.49
         }
       ]
     },
@@ -218,7 +218,7 @@
           "sub": "Normal",
           "usd": 0.12,
           "low": 0.05,
-          "mid": 0.22
+          "mid": 0.23
         }
       ]
     },
@@ -287,7 +287,7 @@
           "sub": "Normal",
           "usd": 1.32,
           "low": 0.75,
-          "mid": 1.54
+          "mid": 1.5
         }
       ]
     },
@@ -395,7 +395,7 @@
           "sub": "Normal",
           "usd": 0.97,
           "low": 0.85,
-          "mid": 0.98
+          "mid": 1.01
         }
       ]
     },
@@ -449,7 +449,7 @@
           "sub": "Foil",
           "usd": 6.75,
           "low": 7.7,
-          "mid": 20.61
+          "mid": 21.21
         }
       ]
     },
@@ -485,7 +485,7 @@
           "sub": "Foil",
           "usd": 0.38,
           "low": 0.25,
-          "mid": 0.6
+          "mid": 0.63
         }
       ]
     },
@@ -550,7 +550,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.1,
-          "mid": 0.25
+          "mid": 0.26
         }
       ]
     },
@@ -563,14 +563,7 @@
       "type": "Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/263660_200w.jpg",
       "url": "https://www.tcgplayer.com/product/263660/digimon-card-game-starter-deck-01-gaia-red-gaia-force-2021-championship-finals-tamers-evolution-pack",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 9.34,
-          "low": 14,
-          "mid": 17
-        }
-      ]
+      "prices": []
     },
     {
       "id": 263662,
@@ -626,7 +619,7 @@
           "sub": "Foil",
           "usd": 2.16,
           "low": 2,
-          "mid": 2.89
+          "mid": 2.95
         }
       ]
     },
@@ -684,7 +677,7 @@
           "sub": "Foil",
           "usd": 0.38,
           "low": 0.1,
-          "mid": 0.49
+          "mid": 0.5
         }
       ]
     },
@@ -718,9 +711,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8.04,
+          "usd": 8.13,
           "low": 6.09,
-          "mid": 9.48
+          "mid": 8.5
         }
       ]
     },
@@ -774,10 +767,10 @@
           "sub": "Normal",
           "usd": 0.55,
           "low": 0.5,
-          "mid": 0.79
+          "mid": 0.82
         }
       ]
     }
   ],
-  "pricesAt": "2026-10-30"
+  "pricesAt": "2026-10-31"
 }

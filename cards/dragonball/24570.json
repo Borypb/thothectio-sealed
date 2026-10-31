@@ -13,7 +13,7 @@
         {
           "sub": "Holofoil",
           "usd": 0.61,
-          "low": 0.24,
+          "low": 0.23,
           "mid": 0.61
         }
       ]
@@ -77,7 +77,14 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/676117_200w.jpg",
       "url": "https://www.tcgplayer.com/product/676117/dragon-ball-super-fusion-world-starter-deck-ex-the-phase-of-evolution-vegeta-fs11-14",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.5,
+          "low": 10,
+          "mid": 10
+        }
+      ]
     },
     {
       "id": 680572,
@@ -372,7 +379,7 @@
           "sub": "Holofoil",
           "usd": 3.58,
           "low": 3.5,
-          "mid": 4.25
+          "mid": 4.99
         }
       ]
     },
@@ -389,7 +396,7 @@
         {
           "sub": "Holofoil",
           "usd": 16.71,
-          "low": 16,
+          "low": 17.99,
           "mid": 24.98
         }
       ]
@@ -423,9 +430,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.89,
+          "usd": 4.88,
           "low": 3.51,
-          "mid": 5.08
+          "mid": 5.12
         }
       ]
     },
@@ -442,7 +449,7 @@
           "sub": "Holofoil",
           "usd": 0.34,
           "low": 0.14,
-          "mid": 0.43
+          "mid": 0.42
         }
       ]
     },
@@ -494,8 +501,8 @@
         {
           "sub": "Holofoil",
           "usd": 20.87,
-          "low": 16.69,
-          "mid": 21.28
+          "low": 16.5,
+          "mid": 21.23
         }
       ]
     },
@@ -529,8 +536,8 @@
         {
           "sub": "Holofoil",
           "usd": 10.43,
-          "low": 8.09,
-          "mid": 15.12
+          "low": 10.21,
+          "mid": 18
         }
       ]
     },
@@ -619,8 +626,8 @@
         {
           "sub": "Holofoil",
           "usd": 42.01,
-          "low": 36.39,
-          "mid": 43.26
+          "low": 35.99,
+          "mid": 41.51
         }
       ]
     },
@@ -641,5 +648,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-30"
+  "pricesAt": "2026-10-31"
 }

@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -320,20 +320,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/704188_200w.jpg",
       "source": {
         "tcgplayer": 704188
-      }
-    },
-    {
-      "id": "pkm-en-tcp726826",
-      "kind": "deck",
-      "name": "30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]",
-      "lang": "en",
-      "setIds": [
-        "pkm-30th"
-      ],
-      "releasedAt": "2026-10-30",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
-      "source": {
-        "tcgplayer": 726826
       }
     },
     {
@@ -688,6 +674,20 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/718674_200w.jpg",
       "source": {
         "tcgplayer": 718674
+      }
+    },
+    {
+      "id": "pkm-en-tcp726826",
+      "kind": "deck",
+      "name": "30th Celebration Battle Deck: Umbreon ex/Espeon ex [Set of two]",
+      "lang": "en",
+      "setIds": [
+        "pkm-30th"
+      ],
+      "releasedAt": "2026-09-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
+      "source": {
+        "tcgplayer": 726826
       }
     },
     {

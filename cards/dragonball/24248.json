@@ -336,9 +336,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.63,
+          "usd": 0.5,
           "low": 0.4,
-          "mid": 0.63
+          "mid": 0.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/629593_200w.jpg"
@@ -1282,9 +1282,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.46,
+          "usd": 0.44,
           "low": 0.29,
-          "mid": 0.5
+          "mid": 0.49
         }
       ]
     },
@@ -1360,5 +1360,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/684319_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-30"
+  "pricesAt": "2026-10-31"
 }

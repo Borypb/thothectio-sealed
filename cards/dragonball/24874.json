@@ -12,9 +12,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3,
+          "usd": 2.99,
           "low": 2.5,
-          "mid": 3
+          "mid": 2.99
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716234_200w.jpg"
@@ -48,9 +48,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.25,
+          "usd": 2,
           "low": 1.5,
-          "mid": 2.25
+          "mid": 2
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716236_200w.jpg"
@@ -66,8 +66,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3,
-          "low": 2.98,
+          "usd": 2.98,
+          "low": 2.99,
           "mid": 3
         }
       ],
@@ -286,9 +286,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.25,
+          "usd": 3.24,
           "low": 2.75,
-          "mid": 3.25
+          "mid": 3.24
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716250_200w.jpg"
@@ -430,9 +430,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.25,
+          "usd": 2,
           "low": 1.99,
-          "mid": 2.25
+          "mid": 2
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716258_200w.jpg"
@@ -449,7 +449,7 @@
         {
           "sub": "Normal",
           "usd": 3,
-          "low": 2.25,
+          "low": 2,
           "mid": 3
         }
       ],
@@ -522,7 +522,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 3.01,
-          "mid": 3.51
+          "mid": 3.25
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716263_200w.jpg"
@@ -772,9 +772,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.26,
-          "low": 8.01,
-          "mid": 8.26
+          "usd": 8.01,
+          "low": 7.51,
+          "mid": 8.01
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716277_200w.jpg"
@@ -827,7 +827,7 @@
         {
           "sub": "Normal",
           "usd": 2.49,
-          "low": 2.25,
+          "low": 2.24,
           "mid": 2.49
         }
       ],
@@ -934,9 +934,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.51,
-          "low": 8.01,
-          "mid": 8.51
+          "usd": 8.01,
+          "low": 7.51,
+          "mid": 8.01
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716286_200w.jpg"
@@ -972,7 +972,7 @@
           "sub": "Normal",
           "usd": 4.67,
           "low": 5,
-          "mid": 10
+          "mid": 5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716288_200w.jpg"
@@ -1007,7 +1007,7 @@
         {
           "sub": "Normal",
           "usd": 6,
-          "low": 5,
+          "low": 4,
           "mid": 6
         }
       ],
@@ -1039,7 +1039,14 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712917_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716292/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-vegeta-fb11-095",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 16.67,
+          "low": 30,
+          "mid": 30
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716292_200w.jpg"
     },
     {
@@ -1119,8 +1126,8 @@
         {
           "sub": "Normal",
           "usd": 2.99,
-          "low": 2.5,
-          "mid": 2.98
+          "low": 2.98,
+          "mid": 3.98
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716297_200w.jpg"
@@ -1137,8 +1144,8 @@
         {
           "sub": "Normal",
           "usd": 3,
-          "low": 2.5,
-          "mid": 2.75
+          "low": 2,
+          "mid": 2.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716298_200w.jpg"
@@ -1173,9 +1180,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.98,
+          "usd": 2.5,
           "low": 1.98,
-          "mid": 2.98
+          "mid": 2.5
         }
       ]
     },
@@ -1317,5 +1324,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716308_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-30"
+  "pricesAt": "2026-10-31"
 }

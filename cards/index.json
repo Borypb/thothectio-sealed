@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-28T18:35:37.183",
-          "count": 64,
+          "modifiedOn": "2026-10-30T17:14:13.91",
+          "count": 73,
           "file": "cards/digimon/24865.json",
-          "version": "09314de8fb94"
+          "version": "9557b8c197b3"
         },
         {
           "groupId": 24635,
@@ -1552,7 +1552,7 @@
           "name": "Digimon Promotion Cards",
           "code": "D-PR",
           "releasedAt": "2020-01-24",
-          "modifiedOn": "2026-10-02T11:31:57.137",
+          "modifiedOn": "2026-10-30T17:22:28.05",
           "count": 508,
           "file": "cards/digimon/2737.json",
           "version": "d971aa3d638b"
@@ -1617,10 +1617,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-27T14:21:51.303",
-          "count": 234,
+          "modifiedOn": "2026-10-30T14:36:25.447",
+          "count": 239,
           "file": "cards/riftbound/24819.json",
-          "version": "167183f56062"
+          "version": "55f801909e2a"
         },
         {
           "groupId": 24861,
@@ -1647,7 +1647,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-10-27T20:24:30.507",
+          "modifiedOn": "2026-10-30T13:29:13.617",
           "count": 308,
           "file": "cards/riftbound/24560.json",
           "version": "3b6140146afd"
@@ -1760,7 +1760,7 @@
           "groupId": 24860,
           "name": "Set 1 Promos",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-23T16:01:08.827",
+          "modifiedOn": "2026-10-30T16:38:34.743",
           "count": 5,
           "file": "cards/cyberpunk/24860.json",
           "version": "04a6500255a3"
@@ -1769,7 +1769,7 @@
           "groupId": 24859,
           "name": "The Heist - Retail Starter Deck",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-22T18:52:46.43",
+          "modifiedOn": "2026-10-30T16:38:18.78",
           "count": 20,
           "file": "cards/cyberpunk/24859.json",
           "version": "5601590283c0"
@@ -1778,7 +1778,7 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-23T14:22:58.503",
+          "modifiedOn": "2026-10-30T16:38:01.137",
           "count": 141,
           "file": "cards/cyberpunk/24855.json",
           "version": "b4a5bc2bcd71"
@@ -1825,7 +1825,7 @@
           "groupId": 24847,
           "name": "The Heist - Beta Starter Deck",
           "releasedAt": "2026-09-10",
-          "modifiedOn": "2026-10-15T18:56:14.833",
+          "modifiedOn": "2026-10-30T16:38:26.013",
           "count": 20,
           "file": "cards/cyberpunk/24847.json",
           "version": "d26c2d6465c6"
@@ -1834,7 +1834,7 @@
           "groupId": 24845,
           "name": "Welcome to Night City - Beta",
           "releasedAt": "2026-09-10",
-          "modifiedOn": "2026-10-23T14:23:10.627",
+          "modifiedOn": "2026-10-30T16:38:05.527",
           "count": 172,
           "file": "cards/cyberpunk/24845.json",
           "version": "4c877b65ecf9"
@@ -1852,5 +1852,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-30"
+  "updatedAt": "2026-10-31"
 }

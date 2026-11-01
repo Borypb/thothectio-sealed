@@ -13,8 +13,8 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.46,
-          "low": 2,
+          "usd": 5.3,
+          "low": 3.25,
           "mid": 6.84
         }
       ]
@@ -33,7 +33,7 @@
           "sub": "Holofoil",
           "usd": 10.85,
           "low": 10,
-          "mid": 12.32
+          "mid": 11.9
         }
       ]
     },
@@ -87,10 +87,10 @@
           "sub": "Holofoil",
           "usd": 16.09,
           "low": 5.54,
-          "mid": 16.98
+          "mid": 16.75
         }
       ]
     }
   ],
-  "pricesAt": "2026-10-31"
+  "pricesAt": "2026-11-01"
 }

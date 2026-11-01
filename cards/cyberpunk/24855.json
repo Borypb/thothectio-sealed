@@ -10,7 +10,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715005_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715005/cyberpunk-tcg-welcome-to-night-city-retail-dont-fear-the-reaper",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.5,
+          "low": 5,
+          "mid": 5.5
+        }
+      ]
     },
     {
       "id": 715006,
@@ -23,9 +30,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.5,
+          "usd": 1.01,
           "low": 1,
-          "mid": 5.5
+          "mid": 1.01
         }
       ]
     },
@@ -43,7 +50,7 @@
           "sub": "Foil",
           "usd": 20,
           "low": 20,
-          "mid": 20
+          "mid": 20.25
         }
       ]
     },
@@ -56,7 +63,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715008_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715008/cyberpunk-tcg-welcome-to-night-city-retail-adam-smasher-metal-over-meat-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.5,
+          "low": 6,
+          "mid": 6.5
+        }
+      ]
     },
     {
       "id": 715009,
@@ -66,7 +80,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715009_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715009/cyberpunk-tcg-welcome-to-night-city-retail-adrenaline-converter",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715010,
@@ -76,7 +97,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715010_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715010/cyberpunk-tcg-welcome-to-night-city-retail-afterparty-at-lizzies",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715011,
@@ -89,9 +117,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -104,7 +132,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715012_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715012/cyberpunk-tcg-welcome-to-night-city-retail-alt-cunningham-mother-of-daemons-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.5,
+          "low": 5,
+          "mid": 5.5
+        }
+      ]
     },
     {
       "id": 715013,
@@ -115,7 +150,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715013_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715013/cyberpunk-tcg-welcome-to-night-city-retail-alt-cunningham-soulkiller-architect-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5.5
+        }
+      ]
     },
     {
       "id": 715014,
@@ -128,9 +170,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -145,9 +187,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -162,9 +204,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -176,7 +218,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715017_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715017/cyberpunk-tcg-welcome-to-night-city-retail-augmented-negotiators",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715018,
@@ -203,7 +252,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715019_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715019/cyberpunk-tcg-welcome-to-night-city-retail-bootleg-black-sapphire-show",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715020,
@@ -213,7 +269,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715020_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715020/cyberpunk-tcg-welcome-to-night-city-retail-caliber-totentanzs-top-dog",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715021,
@@ -226,9 +289,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -243,9 +306,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -257,7 +320,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715023_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715023/cyberpunk-tcg-welcome-to-night-city-retail-chrome-reverie",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715024,
@@ -267,7 +337,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715024_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715024/cyberpunk-tcg-welcome-to-night-city-retail-corpo-security",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715025,
@@ -277,7 +354,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715025_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715025/cyberpunk-tcg-welcome-to-night-city-retail-corporate-surveillance",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715026,
@@ -287,7 +371,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715026_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715026/cyberpunk-tcg-welcome-to-night-city-retail-cyberpsychosis",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715027,
@@ -300,9 +391,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -314,7 +405,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715028_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715028/cyberpunk-tcg-welcome-to-night-city-retail-delamain-rideshare-ai",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715029,
@@ -324,7 +422,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715029_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715029/cyberpunk-tcg-welcome-to-night-city-retail-delamain-cab",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715030,
@@ -337,9 +442,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -355,9 +460,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.26,
           "low": 5,
-          "mid": 5
+          "mid": 5.26
         }
       ]
     },
@@ -375,7 +480,7 @@
           "sub": "Foil",
           "usd": 5,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -387,7 +492,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715033_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715033/cyberpunk-tcg-welcome-to-night-city-retail-dying-night-vs-pistol",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715034,
@@ -400,9 +512,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -414,7 +526,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715035_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715035/cyberpunk-tcg-welcome-to-night-city-retail-emergency-atlus",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715036,
@@ -428,9 +547,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 14.99,
-          "low": 14.99,
-          "mid": 14.99
+          "usd": 5.75,
+          "low": 5,
+          "mid": 5.75
         }
       ]
     },
@@ -442,7 +561,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715037_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715037/cyberpunk-tcg-welcome-to-night-city-retail-evelyn-parker-scheming-siren",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715038,
@@ -452,7 +578,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715038_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715038/cyberpunk-tcg-welcome-to-night-city-retail-field-operator",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715039,
@@ -462,7 +595,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715039_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715039/cyberpunk-tcg-welcome-to-night-city-retail-floor-it",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715040,
@@ -472,7 +612,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715040_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715040/cyberpunk-tcg-welcome-to-night-city-retail-fool-on-the-hill",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715041,
@@ -482,7 +629,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715041_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715041/cyberpunk-tcg-welcome-to-night-city-retail-gilded-maton",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715042,
@@ -492,7 +646,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715042_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715042/cyberpunk-tcg-welcome-to-night-city-retail-gorilla-arms",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715043,
@@ -503,7 +664,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715043_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715043/cyberpunk-tcg-welcome-to-night-city-retail-goro-takemura-vengeful-bodyguard-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715044,
@@ -516,9 +684,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -530,7 +698,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715045_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715045/cyberpunk-tcg-welcome-to-night-city-retail-hacked-corpo",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715046,
@@ -541,7 +716,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715046_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715046/cyberpunk-tcg-welcome-to-night-city-retail-hanako-arasaka-daughter-of-the-emperor-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715047,
@@ -552,7 +734,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715047_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715047/cyberpunk-tcg-welcome-to-night-city-retail-hanako-arasaka-in-a-gilded-cage-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715048,
@@ -562,7 +751,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715048_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715048/cyberpunk-tcg-welcome-to-night-city-retail-heywood-ripperdoc",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715049,
@@ -575,9 +771,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -589,7 +785,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715050_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715050/cyberpunk-tcg-welcome-to-night-city-retail-jacked-in-voodoo-boy",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715051,
@@ -600,7 +803,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715051_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715051/cyberpunk-tcg-welcome-to-night-city-retail-jackie-welles-mamas-favorite-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715052,
@@ -610,7 +820,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715052_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715052/cyberpunk-tcg-welcome-to-night-city-retail-jackie-welles-ride-or-die-choom",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10,
+          "low": 9.99,
+          "mid": 10
+        }
+      ]
     },
     {
       "id": 715053,
@@ -623,9 +840,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -638,7 +855,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715054_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715054/cyberpunk-tcg-welcome-to-night-city-retail-johnny-silverhand-never-stop-fighting-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15.75
+        }
+      ]
     },
     {
       "id": 715055,
@@ -652,9 +876,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 24,
+          "usd": 23.01,
           "low": 23,
-          "mid": 24
+          "mid": 23.01
         }
       ]
     },
@@ -667,7 +891,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715056_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715056/cyberpunk-tcg-welcome-to-night-city-retail-judy-alvarez-braindance-maestro-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715057,
@@ -681,9 +912,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 50,
-          "low": 50,
-          "mid": 50
+          "usd": 20.75,
+          "low": 20,
+          "mid": 20.75
         }
       ]
     },
@@ -699,9 +930,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -716,9 +947,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -730,7 +961,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715060_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715060/cyberpunk-tcg-welcome-to-night-city-retail-kiroshi-optics",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715061,
@@ -743,9 +981,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -757,7 +995,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715062_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715062/cyberpunk-tcg-welcome-to-night-city-retail-les-elemens",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715063,
@@ -767,7 +1012,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715063_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715063/cyberpunk-tcg-welcome-to-night-city-retail-live-with-the-aftermath",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715064,
@@ -780,9 +1032,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.5,
-          "low": 0.5,
-          "mid": 0.5
+          "usd": 0.48,
+          "low": 0.45,
+          "mid": 0.48
         }
       ]
     },
@@ -794,7 +1046,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715065_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715065/cyberpunk-tcg-welcome-to-night-city-retail-maelstrom-goons",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715066,
@@ -804,7 +1063,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715066_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715066/cyberpunk-tcg-welcome-to-night-city-retail-maelstrom-zealots",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715067,
@@ -814,7 +1080,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715067_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715067/cyberpunk-tcg-welcome-to-night-city-retail-maman-brigitte-spirit-of-death",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715068,
@@ -824,7 +1097,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715068_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715068/cyberpunk-tcg-welcome-to-night-city-retail-mandibular-upgrade",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715069,
@@ -837,9 +1117,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -851,7 +1131,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715070_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715070/cyberpunk-tcg-welcome-to-night-city-retail-maxtac-av",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715071,
@@ -861,7 +1148,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715071_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715071/cyberpunk-tcg-welcome-to-night-city-retail-maxtac-heavy",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715072,
@@ -871,7 +1165,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715072_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715072/cyberpunk-tcg-welcome-to-night-city-retail-maxtac-squadron",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715073,
@@ -881,7 +1182,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715073_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715073/cyberpunk-tcg-welcome-to-night-city-retail-maxtac-suppression-team",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715074,
@@ -891,7 +1199,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715074_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715074/cyberpunk-tcg-welcome-to-night-city-retail-memory-relapse",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715075,
@@ -904,9 +1219,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -918,7 +1233,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715076_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715076/cyberpunk-tcg-welcome-to-night-city-retail-misty-olszewski-mender-of-broken-spirits",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715077,
@@ -928,7 +1250,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715077_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715077/cyberpunk-tcg-welcome-to-night-city-retail-modded-kusanagi",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715078,
@@ -938,7 +1267,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715078_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715078/cyberpunk-tcg-welcome-to-night-city-retail-modded-muramasa",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715079,
@@ -948,7 +1284,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715079_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715079/cyberpunk-tcg-welcome-to-night-city-retail-mox-inciters",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715080,
@@ -962,9 +1305,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -976,7 +1319,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715081_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715081/cyberpunk-tcg-welcome-to-night-city-retail-nadia-fighting-through-grief",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715082,
@@ -986,7 +1336,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715082_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715082/cyberpunk-tcg-welcome-to-night-city-retail-netwatch-netdriver",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715083,
@@ -996,7 +1353,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715083_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715083/cyberpunk-tcg-welcome-to-night-city-retail-nocturne-op55-n1",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715084,
@@ -1009,9 +1373,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.75,
+          "usd": 1,
           "low": 0.5,
-          "mid": 0.75
+          "mid": 1
         }
       ]
     },
@@ -1023,7 +1387,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715085_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715085/cyberpunk-tcg-welcome-to-night-city-retail-offduty-malfini",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715086,
@@ -1036,9 +1407,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1051,7 +1422,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715087_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715087/cyberpunk-tcg-welcome-to-night-city-retail-overwatch-panams-gift-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715088,
@@ -1061,7 +1439,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715088_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715088/cyberpunk-tcg-welcome-to-night-city-retail-pacifica-netrunner",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715089,
@@ -1072,7 +1457,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715089_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715089/cyberpunk-tcg-welcome-to-night-city-retail-padre-man-of-the-cross-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715090,
@@ -1083,7 +1475,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715090_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715090/cyberpunk-tcg-welcome-to-night-city-retail-panam-palmer-nomad-cavalry-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715091,
@@ -1098,7 +1497,7 @@
         {
           "sub": "Foil",
           "usd": 50,
-          "low": 50,
+          "low": 45,
           "mid": 50
         }
       ]
@@ -1111,7 +1510,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715092_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715092/cyberpunk-tcg-welcome-to-night-city-retail-peace-offering",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715093,
@@ -1121,7 +1527,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715093_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715093/cyberpunk-tcg-welcome-to-night-city-retail-pepe-najarro-working-doubles",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715094,
@@ -1131,7 +1544,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715094_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715094/cyberpunk-tcg-welcome-to-night-city-retail-placide-voodoo-sentinel",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.74,
+          "low": 5,
+          "mid": 5.74
+        }
+      ]
     },
     {
       "id": 715095,
@@ -1141,7 +1561,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715095_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715095/cyberpunk-tcg-welcome-to-night-city-retail-psycho-squad",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715096,
@@ -1151,7 +1578,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715096_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715096/cyberpunk-tcg-welcome-to-night-city-retail-pyramid-song",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715097,
@@ -1161,7 +1595,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715097_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715097/cyberpunk-tcg-welcome-to-night-city-retail-reboot-optics",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715098,
@@ -1171,7 +1612,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715098_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715098/cyberpunk-tcg-welcome-to-night-city-retail-riding-nomad",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715099,
@@ -1181,7 +1629,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715099_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715099/cyberpunk-tcg-welcome-to-night-city-retail-riot-shield",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715100,
@@ -1191,7 +1646,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715100_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715100/cyberpunk-tcg-welcome-to-night-city-retail-rita-wheeler-no-stupid-questions",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715101,
@@ -1205,9 +1667,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1219,7 +1681,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715102_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715102/cyberpunk-tcg-welcome-to-night-city-retail-rockn-rockerboy",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715103,
@@ -1230,7 +1699,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715103_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715103/cyberpunk-tcg-welcome-to-night-city-retail-rogue-amendiares-preem-solo-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715104,
@@ -1244,9 +1720,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 14.99,
-          "low": 14.99,
-          "mid": 14.99
+          "usd": 5,
+          "low": 5,
+          "mid": 5.75
         }
       ]
     },
@@ -1261,9 +1737,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1279,9 +1755,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1296,9 +1772,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1310,7 +1786,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715108_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715108/cyberpunk-tcg-welcome-to-night-city-retail-safety-override",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715109,
@@ -1321,7 +1804,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715109_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715109/cyberpunk-tcg-welcome-to-night-city-retail-sandayu-oda-hanakos-guardian-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715110,
@@ -1331,7 +1821,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715110_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715110/cyberpunk-tcg-welcome-to-night-city-retail-sandevistan",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715111,
@@ -1342,7 +1839,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715111_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715111/cyberpunk-tcg-welcome-to-night-city-retail-sasha-yakovleva-wont-let-you-down-secret",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14,
+          "low": 13.99,
+          "mid": 14
+        }
+      ]
     },
     {
       "id": 715112,
@@ -1355,9 +1859,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1369,7 +1873,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715113_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715113/cyberpunk-tcg-welcome-to-night-city-retail-saul-bright-stormrider",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.99,
+          "low": 5,
+          "mid": 5.99
+        }
+      ]
     },
     {
       "id": 715114,
@@ -1382,9 +1893,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1396,7 +1907,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715115_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715115/cyberpunk-tcg-welcome-to-night-city-retail-secondhand-bombus",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715116,
@@ -1409,9 +1927,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1423,7 +1941,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715117_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715117/cyberpunk-tcg-welcome-to-night-city-retail-sketchy-ripper",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715118,
@@ -1436,9 +1961,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1450,7 +1975,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715119_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715119/cyberpunk-tcg-welcome-to-night-city-retail-synapse-burnout",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715120,
@@ -1460,7 +1992,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715120_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715120/cyberpunk-tcg-welcome-to-night-city-retail-t-bug-amateur-philosopher",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715121,
@@ -1470,7 +2009,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715121_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715121/cyberpunk-tcg-welcome-to-night-city-retail-take-control",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715122,
@@ -1480,7 +2026,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715122_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715122/cyberpunk-tcg-welcome-to-night-city-retail-tetratronic-rippler",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715123,
@@ -1490,7 +2043,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715123_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715123/cyberpunk-tcg-welcome-to-night-city-retail-the-heist",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715124,
@@ -1501,7 +2061,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715124_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715124/cyberpunk-tcg-welcome-to-night-city-retail-the-relic-experimental-biochip-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715125,
@@ -1511,7 +2078,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715125_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715125/cyberpunk-tcg-welcome-to-night-city-retail-three-mouths-one-desire",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715126,
@@ -1522,7 +2096,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715126_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715126/cyberpunk-tcg-welcome-to-night-city-retail-towerfall-epic",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 6.49,
+          "mid": 6.49
+        }
+      ]
     },
     {
       "id": 715128,
@@ -1532,7 +2113,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715128_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715128/cyberpunk-tcg-welcome-to-night-city-retail-trauma-team-operatives",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715129,
@@ -1542,7 +2130,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715129_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715129/cyberpunk-tcg-welcome-to-night-city-retail-trust-no-one",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715130,
@@ -1552,7 +2147,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715130_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715130/cyberpunk-tcg-welcome-to-night-city-retail-tygers-whisper",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715131,
@@ -1562,7 +2164,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715131_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715131/cyberpunk-tcg-welcome-to-night-city-retail-unlikely-bond",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715132,
@@ -1575,9 +2184,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10,
+          "usd": 10.01,
           "low": 10,
-          "mid": 10
+          "mid": 10.01
         }
       ]
     },
@@ -1593,9 +2202,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1611,9 +2220,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.01,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1628,9 +2237,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.01,
           "low": 1,
-          "mid": 1
+          "mid": 1.01
         }
       ]
     },
@@ -1642,7 +2251,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715136_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715136/cyberpunk-tcg-welcome-to-night-city-retail-valentino-street-racer",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715137,
@@ -1652,7 +2268,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715137_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715137/cyberpunk-tcg-welcome-to-night-city-retail-viktor-vektor-drop-your-illusions",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715138,
@@ -1662,7 +2285,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715138_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715138/cyberpunk-tcg-welcome-to-night-city-retail-viktor-vektor-you-might-feel-a-little-pinch",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715139,
@@ -1673,7 +2303,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715139_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715139/cyberpunk-tcg-welcome-to-night-city-retail-wakako-okada-peace-and-harmony-rare",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
     },
     {
       "id": 715140,
@@ -1683,7 +2320,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715140_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715140/cyberpunk-tcg-welcome-to-night-city-retail-we-gotta-live-together",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715141,
@@ -1693,7 +2337,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715141_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715141/cyberpunk-tcg-welcome-to-night-city-retail-westbrook-netrunner",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715142,
@@ -1703,7 +2354,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715142_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715142/cyberpunk-tcg-welcome-to-night-city-retail-wild-in-the-streets",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715143,
@@ -1713,7 +2371,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715143_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715143/cyberpunk-tcg-welcome-to-night-city-retail-wraith-marauders",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715144,
@@ -1728,7 +2393,7 @@
           "sub": "Foil",
           "usd": 5,
           "low": 5,
-          "mid": 5
+          "mid": 5.01
         }
       ]
     },
@@ -1740,7 +2405,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715145_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715145/cyberpunk-tcg-welcome-to-night-city-retail-zetatech-berserk",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715146,
@@ -1750,8 +2422,15 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715146_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715146/cyberpunk-tcg-welcome-to-night-city-retail-zetatech-faceplate",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-10-31"
+  "pricesAt": "2026-11-01"
 }

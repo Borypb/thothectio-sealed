@@ -228,9 +228,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.53,
+          "usd": 0.63,
           "low": 0.4,
-          "mid": 0.53
+          "mid": 0.63
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688560_200w.jpg"
@@ -337,8 +337,8 @@
         {
           "sub": "Normal",
           "usd": 4.67,
-          "low": 2.32,
-          "mid": 3.95
+          "low": 2.21,
+          "mid": 3.84
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688566_200w.jpg"
@@ -481,7 +481,7 @@
         {
           "sub": "Normal",
           "usd": 3.5,
-          "low": 0.4,
+          "low": 1.88,
           "mid": 3.5
         }
       ],
@@ -801,14 +801,7 @@
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/674018_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688592/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-divine-domain",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 4.59,
-          "low": 4.16,
-          "mid": 4.99
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688592_200w.jpg"
     },
     {
@@ -925,7 +918,7 @@
           "sub": "Normal",
           "usd": 0.4,
           "low": 0.3,
-          "mid": 0.45
+          "mid": 0.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688599_200w.jpg"
@@ -1097,7 +1090,7 @@
         {
           "sub": "Normal",
           "usd": 3.98,
-          "low": 3.97,
+          "low": 4.01,
           "mid": 4.99
         }
       ],
@@ -1242,7 +1235,7 @@
           "sub": "Normal",
           "usd": 0.88,
           "low": 0.8,
-          "mid": 1.3
+          "mid": 1.29
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688617_200w.jpg"
@@ -1331,5 +1324,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688622_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-01"
+  "pricesAt": "2026-11-02"
 }

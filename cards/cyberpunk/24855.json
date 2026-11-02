@@ -14,7 +14,7 @@
         {
           "sub": "Foil",
           "usd": 5.5,
-          "low": 5,
+          "low": 2.36,
           "mid": 5.5
         }
       ]
@@ -48,9 +48,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20,
+          "usd": 20.17,
           "low": 20,
-          "mid": 20.25
+          "mid": 20.74
         }
       ]
     },
@@ -66,9 +66,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.5,
+          "usd": 7.48,
           "low": 6,
-          "mid": 6.5
+          "mid": 7.48
         }
       ]
     },
@@ -135,9 +135,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.5,
+          "usd": 6.48,
           "low": 5,
-          "mid": 5.5
+          "mid": 6.48
         }
       ]
     },
@@ -153,9 +153,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.74,
           "low": 5,
-          "mid": 5.5
+          "mid": 5.99
         }
       ]
     },
@@ -273,7 +273,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -460,9 +460,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.26,
+          "usd": 5.51,
           "low": 5,
-          "mid": 5.26
+          "mid": 5.51
         }
       ]
     },
@@ -495,8 +495,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1,
-          "low": 1,
+          "usd": 0.99,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -513,7 +513,7 @@
         {
           "sub": "Foil",
           "usd": 5.01,
-          "low": 5,
+          "low": 2.88,
           "mid": 5.01
         }
       ]
@@ -547,9 +547,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.75,
+          "usd": 5.98,
           "low": 5,
-          "mid": 5.75
+          "mid": 5.98
         }
       ]
     },
@@ -565,7 +565,7 @@
         {
           "sub": "Normal",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -616,7 +616,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -668,7 +668,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -720,7 +720,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -737,9 +737,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.49,
           "low": 5,
-          "mid": 5
+          "mid": 5.49
         }
       ]
     },
@@ -806,8 +806,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1,
-          "low": 1,
+          "usd": 0.99,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -824,7 +824,7 @@
         {
           "sub": "Foil",
           "usd": 10,
-          "low": 9.99,
+          "low": 9.97,
           "mid": 10
         }
       ]
@@ -855,14 +855,7 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715054_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715054/cyberpunk-tcg-welcome-to-night-city-retail-johnny-silverhand-never-stop-fighting-epic",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 15,
-          "low": 15,
-          "mid": 15.75
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715055,
@@ -876,9 +869,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 23.01,
-          "low": 23,
-          "mid": 23.01
+          "usd": 23,
+          "low": 24.5,
+          "mid": 24.75
         }
       ]
     },
@@ -894,9 +887,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.49,
           "low": 5,
-          "mid": 5
+          "mid": 5.49
         }
       ]
     },
@@ -912,9 +905,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20.75,
+          "usd": 20,
           "low": 20,
-          "mid": 20.75
+          "mid": 20
         }
       ]
     },
@@ -930,9 +923,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.01,
+          "usd": 5.5,
           "low": 5,
-          "mid": 5.01
+          "mid": 5.5
         }
       ]
     },
@@ -947,9 +940,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.01,
+          "usd": 1,
           "low": 1,
-          "mid": 1.01
+          "mid": 1
         }
       ]
     },
@@ -1033,7 +1026,7 @@
         {
           "sub": "Foil",
           "usd": 0.48,
-          "low": 0.45,
+          "low": 0.44,
           "mid": 0.48
         }
       ]
@@ -1237,7 +1230,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -1357,7 +1350,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -1425,7 +1418,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.49,
           "low": 5,
           "mid": 5
         }
@@ -1461,7 +1454,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -1478,8 +1471,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1,
-          "low": 1,
+          "usd": 0.99,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -1582,7 +1575,7 @@
         {
           "sub": "Foil",
           "usd": 1,
-          "low": 1,
+          "low": 0.99,
           "mid": 1
         }
       ]
@@ -1667,7 +1660,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.01,
+          "usd": 5.5,
           "low": 5,
           "mid": 5.01
         }
@@ -1704,7 +1697,7 @@
           "sub": "Foil",
           "usd": 5,
           "low": 5,
-          "mid": 5
+          "mid": 5.49
         }
       ]
     },
@@ -1722,7 +1715,7 @@
           "sub": "Foil",
           "usd": 5,
           "low": 5,
-          "mid": 5.75
+          "mid": 5.98
         }
       ]
     },
@@ -1755,7 +1748,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.01,
+          "usd": 5.98,
           "low": 5,
           "mid": 5.01
         }
@@ -1807,9 +1800,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.98,
           "low": 5,
-          "mid": 5
+          "mid": 5.98
         }
       ]
     },
@@ -2064,9 +2057,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.49,
           "low": 5,
-          "mid": 5
+          "mid": 5.49
         }
       ]
     },
@@ -2100,8 +2093,8 @@
         {
           "sub": "Foil",
           "usd": 5,
-          "low": 6.49,
-          "mid": 6.49
+          "low": 5.99,
+          "mid": 6.48
         }
       ]
     },
@@ -2184,9 +2177,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10.01,
-          "low": 10,
-          "mid": 10.01
+          "usd": 10,
+          "low": 5.99,
+          "mid": 10
         }
       ]
     },
@@ -2202,9 +2195,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.01,
-          "low": 5,
-          "mid": 5.01
+          "usd": 5,
+          "low": 2.38,
+          "mid": 5
         }
       ]
     },
@@ -2288,9 +2281,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5,
+          "usd": 5.74,
           "low": 5,
-          "mid": 5
+          "mid": 5.74
         }
       ]
     },
@@ -2306,9 +2299,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
+          "usd": 5.49,
           "low": 5,
-          "mid": 5
+          "mid": 5.49
         }
       ]
     },
@@ -2393,7 +2386,7 @@
           "sub": "Foil",
           "usd": 5,
           "low": 5,
-          "mid": 5.01
+          "mid": 5.5
         }
       ]
     },
@@ -2432,5 +2425,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-01"
+  "pricesAt": "2026-11-02"
 }

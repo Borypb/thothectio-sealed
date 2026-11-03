@@ -490,10 +490,10 @@
           "name": "Fusion World Energy Markers",
           "code": "DBSFW_EM",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-10-22T15:05:41.49",
-          "count": 310,
+          "modifiedOn": "2026-11-02T19:24:42.837",
+          "count": 319,
           "file": "cards/dragonball/23430.json",
-          "version": "48237f77f256"
+          "version": "2cc9e261e45c"
         },
         {
           "groupId": 23428,
@@ -526,10 +526,10 @@
           "name": "BP02: Legends Awaken",
           "code": "BP02",
           "releasedAt": "2026-10-30",
-          "modifiedOn": "2026-10-29T16:52:38.723",
-          "count": 164,
+          "modifiedOn": "2026-11-02T13:54:58.647",
+          "count": 165,
           "file": "cards/palworld/24850.json",
-          "version": "ce625ecc5881"
+          "version": "52e5cbe8fa45"
         },
         {
           "groupId": 24908,
@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-30T17:14:13.91",
-          "count": 73,
+          "modifiedOn": "2026-11-02T19:02:09.427",
+          "count": 90,
           "file": "cards/digimon/24865.json",
-          "version": "9557b8c197b3"
+          "version": "b1870be8c030"
         },
         {
           "groupId": 24635,
@@ -652,7 +652,7 @@
           "name": "Digital World Shambala",
           "code": "EX-12",
           "releasedAt": "2026-07-03",
-          "modifiedOn": "2026-08-18T18:05:55.32",
+          "modifiedOn": "2026-11-02T16:45:12.51",
           "count": 156,
           "file": "cards/digimon/24630.json",
           "version": "382dac69e7ed"
@@ -802,7 +802,7 @@
           "name": "Hackers' Slumber",
           "code": "BT-23",
           "releasedAt": "2025-10-24",
-          "modifiedOn": "2026-08-05T22:00:03.07",
+          "modifiedOn": "2026-11-02T16:49:49.153",
           "count": 139,
           "file": "cards/digimon/24430.json",
           "version": "b79b0319bc23"
@@ -822,7 +822,7 @@
           "name": "Sinister Order",
           "code": "EX-10",
           "releasedAt": "2025-09-19",
-          "modifiedOn": "2026-06-26T13:49:15.41",
+          "modifiedOn": "2026-11-02T16:51:32.667",
           "count": 143,
           "file": "cards/digimon/24089.json",
           "version": "8a1cccf3e2a7"
@@ -922,7 +922,7 @@
           "name": "Release Special Booster 2.5",
           "code": "BT19-20",
           "releasedAt": "2025-02-28",
-          "modifiedOn": "2026-04-24T19:42:10.043",
+          "modifiedOn": "2026-11-02T16:54:35.397",
           "count": 250,
           "file": "cards/digimon/24178.json",
           "version": "643f40851669"
@@ -1102,7 +1102,7 @@
           "name": "Animal Colosseum",
           "code": "EX-05",
           "releasedAt": "2024-01-19",
-          "modifiedOn": "2026-04-26T12:56:55.127",
+          "modifiedOn": "2026-11-02T16:46:26.347",
           "count": 119,
           "file": "cards/digimon/23247.json",
           "version": "74dd8a90c100"
@@ -1617,10 +1617,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-30T14:36:25.447",
-          "count": 239,
+          "modifiedOn": "2026-11-02T18:40:19.937",
+          "count": 240,
           "file": "cards/riftbound/24819.json",
-          "version": "55f801909e2a"
+          "version": "e1163c6b985d"
         },
         {
           "groupId": 24861,
@@ -1778,10 +1778,10 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-30T16:38:01.137",
-          "count": 141,
+          "modifiedOn": "2026-11-02T15:52:06.86",
+          "count": 172,
           "file": "cards/cyberpunk/24855.json",
-          "version": "b4a5bc2bcd71"
+          "version": "bc31fed9dae9"
         },
         {
           "groupId": 24884,
@@ -1852,5 +1852,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-02"
+  "updatedAt": "2026-11-03"
 }

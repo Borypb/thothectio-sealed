@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -688,6 +688,27 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
       "source": {
         "tcgplayer": 726826
+      }
+    },
+    {
+      "id": "pkm-en-tcp729930",
+      "kind": "bundle",
+      "name": "Costco Pokemon 30th Celebration 2-Pack Trainer Box and Booster Bundle",
+      "lang": "en",
+      "setIds": [
+        "pkm-30th"
+      ],
+      "releasedAt": "2026-09-16",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-30th",
+          "qty": 6
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729930_200w.jpg",
+      "source": {
+        "tcgplayer": 729930
       }
     },
     {

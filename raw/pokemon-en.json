@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-02T11:42:39.257Z",
+  "harvestedAt": "2026-11-03T11:23:26.568Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-28T16:24:06.06",
+      "modifiedOn": "2026-11-02T19:03:04.937",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-30T17:37:37.26",
+      "modifiedOn": "2026-11-02T18:33:51.333",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13821,7 +13821,7 @@
     "2626": {
       "name": "SWSH02: Rebel Clash",
       "abbreviation": "SWSH02",
-      "modifiedOn": "2026-10-01T19:46:28.44",
+      "modifiedOn": "2026-11-02T13:58:24.407",
       "publishedOn": "2020-05-01",
       "setCode": "swsh2",
       "products": [
@@ -13892,7 +13892,7 @@
         {
           "tcgplayerId": 210569,
           "name": "Rebel Clash Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2020-05-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/210569_200w.jpg",
           "url": "https://www.tcgplayer.com/product/210569/pokemon-swsh02-rebel-clash-rebel-clash-theme-deck-display"
@@ -13922,17 +13922,9 @@
           "url": "https://www.tcgplayer.com/product/210572/pokemon-swsh02-rebel-clash-rebel-clash-elite-trainer-box"
         },
         {
-          "tcgplayerId": 210573,
-          "name": "Rebel Clash Theme Deck [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2020-05-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/210573_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/210573/pokemon-swsh02-rebel-clash-rebel-clash-theme-deck-set-of-2"
-        },
-        {
           "tcgplayerId": 212820,
           "name": "Rebel Clash Build & Battle Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2020-05-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/212820_200w.jpg",
           "url": "https://www.tcgplayer.com/product/212820/pokemon-swsh02-rebel-clash-rebel-clash-build-and-battle-display"
@@ -13970,14 +13962,6 @@
           "url": "https://www.tcgplayer.com/product/214231/pokemon-swsh02-rebel-clash-legends-of-galar-tin-zamazenta-v"
         },
         {
-          "tcgplayerId": 214232,
-          "name": "Legends of Galar Tin [Set of 2]",
-          "kind": "tin",
-          "releasedOn": "2020-05-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/214232_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/214232/pokemon-swsh02-rebel-clash-legends-of-galar-tin-set-of-2"
-        },
-        {
           "tcgplayerId": 240182,
           "name": "Rebel Clash Booster Box Case",
           "kind": "case",
@@ -13992,14 +13976,6 @@
           "releasedOn": "2020-05-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/264421_200w.jpg",
           "url": "https://www.tcgplayer.com/product/264421/pokemon-swsh02-rebel-clash-rebel-clash-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 265316,
-          "name": "Rebel Clash Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-05-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265316_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265316/pokemon-swsh02-rebel-clash-rebel-clash-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 276575,
@@ -14032,22 +14008,6 @@
           "releasedOn": "2020-05-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/279258_200w.jpg",
           "url": "https://www.tcgplayer.com/product/279258/pokemon-swsh02-rebel-clash-legends-of-galar-tin-zamazenta-v-international-version"
-        },
-        {
-          "tcgplayerId": 279259,
-          "name": "Legends of Galar Tin [Set of 2] (International Version)",
-          "kind": "tin",
-          "releasedOn": "2020-05-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/279259_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/279259/pokemon-swsh02-rebel-clash-legends-of-galar-tin-set-of-2-international-version"
-        },
-        {
-          "tcgplayerId": 487796,
-          "name": "Rebel Clash Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-05-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487796_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/487796/pokemon-swsh02-rebel-clash-rebel-clash-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 668516,
@@ -22169,7 +22129,7 @@
     "24461": {
       "name": "MEE: Mega Evolution Energies",
       "abbreviation": "MEE",
-      "modifiedOn": "2026-10-26T20:35:10.703",
+      "modifiedOn": "2026-11-02T14:50:44.033",
       "publishedOn": "2025-09-26",
       "products": []
     },
@@ -23128,7 +23088,7 @@
     "24722": {
       "name": "ME: 30th Celebration",
       "abbreviation": "30C",
-      "modifiedOn": "2026-10-30T13:27:48.873",
+      "modifiedOn": "2026-11-02T18:34:52.583",
       "publishedOn": "2026-09-16",
       "setCode": "30th",
       "products": [
@@ -23531,6 +23491,14 @@
           "releasedOn": "2026-09-16",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/726826_200w.jpg",
           "url": "https://www.tcgplayer.com/product/726826/pokemon-me-30th-celebration-30th-celebration-battle-deck-umbreon-ex-espeon-ex-set-of-two"
+        },
+        {
+          "tcgplayerId": 729930,
+          "name": "Costco Pokemon 30th Celebration 2-Pack Trainer Box and Booster Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-09-16",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729930_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729930/pokemon-me-30th-celebration-costco-pokemon-30th-celebration-2-pack-trainer-box-and-booster-bundle"
         }
       ]
     },

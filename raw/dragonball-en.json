@@ -2,7 +2,7 @@
   "game": "dragonball",
   "lang": "en",
   "categoryId": 80,
-  "harvestedAt": "2026-11-02T12:39:20.693Z",
+  "harvestedAt": "2026-11-03T12:03:07.362Z",
   "groups": {
     "23401": {
       "name": "Awakened Pulse",
@@ -647,7 +647,7 @@
     "23430": {
       "name": "Fusion World Energy Markers",
       "abbreviation": "DBSFW_EM",
-      "modifiedOn": "2026-10-22T15:05:41.49",
+      "modifiedOn": "2026-11-02T19:24:42.837",
       "publishedOn": "2024-02-14",
       "setId": "db-g23430",
       "products": [
@@ -730,6 +730,22 @@
           "releasedOn": "2024-02-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/707468_200w.jpg",
           "url": "https://www.tcgplayer.com/product/707468/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-judge-edition-01"
+        },
+        {
+          "tcgplayerId": 729925,
+          "name": "Energy Marker Pack 11",
+          "kind": "booster",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729925_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729925/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-11"
+        },
+        {
+          "tcgplayerId": 729979,
+          "name": "Energy Marker (E-189) (Gold)",
+          "kind": "other",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729979_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729979/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-e-189-gold"
         }
       ]
     },
@@ -1728,7 +1744,7 @@
     "24783": {
       "name": "Reach the God",
       "abbreviation": "FB12",
-      "modifiedOn": "2026-10-30T12:28:27.113",
+      "modifiedOn": "2026-11-02T14:27:39.663",
       "publishedOn": "2026-12-11",
       "setId": "db-g24783",
       "products": [

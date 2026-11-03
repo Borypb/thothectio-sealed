@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "cyberpunk",
   "lang": "en",
   "products": [
@@ -76,6 +76,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/727957_200w.jpg",
       "source": {
         "tcgplayer": 727957
+      }
+    },
+    {
+      "id": "cyb-en-tcp729980",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Secondhand Bombus",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24927"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729980_200w.jpg",
+      "source": {
+        "tcgplayer": 729980
+      }
+    },
+    {
+      "id": "cyb-en-tcp729981",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "MaxTac Squadron",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24927"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729981_200w.jpg",
+      "source": {
+        "tcgplayer": 729981
       }
     },
     {

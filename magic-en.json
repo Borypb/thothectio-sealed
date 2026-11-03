@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -976,6 +976,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/706227_200w.jpg",
       "source": {
         "tcgplayer": 706227
+      }
+    },
+    {
+      "id": "mtg-en-tcp729864",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+      "lang": "en",
+      "setIds": [
+        "mtg-slc"
+      ],
+      "releasedAt": "2026-11-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729864_200w.jpg",
+      "source": {
+        "tcgplayer": 729864
       }
     },
     {

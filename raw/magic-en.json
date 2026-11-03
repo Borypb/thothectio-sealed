@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-02T12:35:50.456Z",
+  "harvestedAt": "2026-11-03T12:01:48.300Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -21687,7 +21687,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-10-30T15:05:51.227",
+      "modifiedOn": "2026-11-02T17:04:29.927",
       "products": []
     },
     "2716": {
@@ -25078,7 +25078,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-10-21T20:08:05.203",
+      "modifiedOn": "2026-11-02T16:53:16.093",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -25105,6 +25105,14 @@
           "releasedOn": "2022-12-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/662006_200w.jpg",
           "url": "https://www.tcgplayer.com/product/662006/magic-secret-lair-countdown-kit-secret-lair-countdown-kit-an-encyclopedia-of-magic-book-club-bundle"
+        },
+        {
+          "tcgplayerId": 729864,
+          "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+          "kind": "collection",
+          "releasedOn": "2026-11-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729864_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729864/magic-secret-lair-countdown-kit-secret-lair-countdown-kit-marvels-history-of-heroes"
         }
       ]
     },
@@ -31731,7 +31739,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-10-30T20:05:46.46",
+      "modifiedOn": "2026-11-02T18:41:26.4",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -31884,7 +31892,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-10-30T20:26:30.623",
+      "modifiedOn": "2026-11-02T19:10:20.173",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -32031,7 +32039,7 @@
     "24877": {
       "name": "Promo Pack: Reality Fracture",
       "abbreviation": "PPFRA",
-      "modifiedOn": "2026-10-21T19:33:42.897",
+      "modifiedOn": "2026-11-02T12:34:25.95",
       "publishedOn": "2026-10-02",
       "products": [
         {

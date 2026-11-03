@@ -2,7 +2,7 @@
   "game": "cyberpunk",
   "lang": "en",
   "categoryId": 92,
-  "harvestedAt": "2026-11-02T12:39:32.777Z",
+  "harvestedAt": "2026-11-03T12:03:13.961Z",
   "groups": {
     "24845": {
       "name": "Welcome to Night City - Beta",
@@ -93,7 +93,7 @@
     },
     "24855": {
       "name": "Welcome to Night City - Retail",
-      "modifiedOn": "2026-10-30T16:38:01.137",
+      "modifiedOn": "2026-11-02T15:52:06.86",
       "publishedOn": "2026-11-06",
       "setId": "cyb-g24855",
       "products": [
@@ -250,6 +250,31 @@
       "publishedOn": "2026-09-11",
       "setId": "cyb-g24884",
       "products": []
+    },
+    "24927": {
+      "name": "Judge Promos",
+      "abbreviation": "JDG",
+      "modifiedOn": "2026-11-02T19:36:37.207",
+      "publishedOn": "2026-11-01",
+      "setId": "cyb-g24927",
+      "products": [
+        {
+          "tcgplayerId": 729980,
+          "name": "Secondhand Bombus",
+          "kind": "other",
+          "releasedOn": "2026-11-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729980_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729980/cyberpunk-tcg-judge-promos-secondhand-bombus"
+        },
+        {
+          "tcgplayerId": 729981,
+          "name": "MaxTac Squadron",
+          "kind": "other",
+          "releasedOn": "2026-11-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729981_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729981/cyberpunk-tcg-judge-promos-maxtac-squadron"
+        }
+      ]
     }
   }
 }

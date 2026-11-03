@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "updatedAt": "2026-11-03",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -53,8 +53,8 @@
       "files": {
         "en": {
           "file": "magic-en.json",
-          "version": 9,
-          "count": 3277
+          "version": 10,
+          "count": 3278
         }
       }
     },
@@ -89,8 +89,8 @@
       "files": {
         "en": {
           "file": "dragonball-en.json",
-          "version": 1,
-          "count": 139
+          "version": 2,
+          "count": 141
         }
       }
     },
@@ -116,8 +116,8 @@
       "files": {
         "en": {
           "file": "cyberpunk-en.json",
-          "version": 2,
-          "count": 11
+          "version": 3,
+          "count": 13
         }
       }
     }
@@ -130,47 +130,47 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-02",
-      "count": 393
+      "date": "2026-11-03",
+      "count": 392
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-02",
-      "count": 3158
+      "date": "2026-11-03",
+      "count": 3171
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-02",
-      "count": 960
+      "date": "2026-11-03",
+      "count": 961
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 158
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 288
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 70
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 15
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "count": 18
     }
   }

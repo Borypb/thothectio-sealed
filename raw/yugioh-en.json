@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-11-02T12:36:27.246Z",
+  "harvestedAt": "2026-11-03T12:02:17.265Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -12155,7 +12155,7 @@
     "2896": {
       "name": "Maximum Gold: El Dorado",
       "abbreviation": "MGED",
-      "modifiedOn": "2026-10-22T04:40:22.263",
+      "modifiedOn": "2026-11-02T18:26:16.323",
       "publishedOn": "2021-11-19",
       "setId": "ygo-mged",
       "products": [
@@ -12182,6 +12182,14 @@
           "releasedOn": "2021-11-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/246446_200w.jpg",
           "url": "https://www.tcgplayer.com/product/246446/yugioh-maximum-gold-el-dorado-maximum-gold-el-dorado-mini-box-set-1st-edition"
+        },
+        {
+          "tcgplayerId": 729921,
+          "name": "Maximum Gold: El Dorado Display [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2021-11-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729921_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/729921/yugioh-maximum-gold-el-dorado-maximum-gold-el-dorado-display-unlimited-edition"
         }
       ]
     },
@@ -13921,7 +13929,7 @@
     "23441": {
       "name": "Battles of Legend: Terminal Revenge",
       "abbreviation": "BLTR",
-      "modifiedOn": "2026-10-21T15:58:11.643",
+      "modifiedOn": "2026-11-02T19:52:19.103",
       "publishedOn": "2024-06-21",
       "setId": "ygo-bltr",
       "products": [
@@ -14891,7 +14899,7 @@
     "24549": {
       "name": "Legendary Modern Decks 2026",
       "abbreviation": "L26D",
-      "modifiedOn": "2026-10-13T02:18:59.123",
+      "modifiedOn": "2026-11-02T19:06:42.717",
       "publishedOn": "2026-03-13",
       "setId": "ygo-l26d",
       "products": [
@@ -15195,7 +15203,7 @@
     "24808": {
       "name": "Magnificent Maestros",
       "abbreviation": "MAMS",
-      "modifiedOn": "2026-10-15T15:43:11.427",
+      "modifiedOn": "2026-11-02T16:15:37.82",
       "publishedOn": "2026-11-13",
       "setId": "ygo-mams",
       "products": [

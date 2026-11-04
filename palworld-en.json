@@ -1,8 +1,38 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "palworld",
   "lang": "en",
   "products": [
+    {
+      "id": "pal-en-tcp730047",
+      "game": "palworld",
+      "kind": "booster_box",
+      "name": "Eternal Ascent Booster Box",
+      "lang": "en",
+      "setIds": [
+        "pal-g24912"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730047_200w.jpg",
+      "source": {
+        "tcgplayer": 730047
+      }
+    },
+    {
+      "id": "pal-en-tcp730050",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "Eternal Ascent Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "pal-g24912"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730050_200w.jpg",
+      "source": {
+        "tcgplayer": 730050
+      }
+    },
     {
       "id": "pal-en-tcp716519",
       "game": "palworld",
@@ -151,6 +181,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/725649_200w.jpg",
       "source": {
         "tcgplayer": 725649
+      }
+    },
+    {
+      "id": "pal-en-tcp730003",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "PR Card Pack Vol.2",
+      "lang": "en",
+      "setIds": [
+        "pal-g24851"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730003_200w.jpg",
+      "source": {
+        "tcgplayer": 730003
       }
     }
   ]

@@ -2,7 +2,7 @@
   "game": "palworld",
   "lang": "en",
   "categoryId": 91,
-  "harvestedAt": "2026-11-03T12:03:13.070Z",
+  "harvestedAt": "2026-11-04T12:18:40.639Z",
   "groups": {
     "24842": {
       "name": "BP01: Dawn of Palpagos",
@@ -163,7 +163,7 @@
     "24851": {
       "name": "Palworld Promo Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-26T19:21:45.907",
+      "modifiedOn": "2026-11-03T16:00:10.683",
       "publishedOn": "2026-07-30",
       "setId": "pal-g24851",
       "products": [
@@ -182,6 +182,14 @@
           "releasedOn": "2026-07-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/724539_200w.jpg",
           "url": "https://www.tcgplayer.com/product/724539/palworld-official-card-game-palworld-promo-cards-pr-card-pack-vol15"
+        },
+        {
+          "tcgplayerId": 730003,
+          "name": "PR Card Pack Vol.2",
+          "kind": "booster",
+          "releasedOn": "2026-07-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730003_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730003/palworld-official-card-game-palworld-promo-cards-pr-card-pack-vol2"
         }
       ]
     },
@@ -204,7 +212,7 @@
     "24876": {
       "name": "Palworld Prototype Cards",
       "abbreviation": "PW_PC",
-      "modifiedOn": "2026-10-07T13:54:52.95",
+      "modifiedOn": "2026-11-03T15:54:14.427",
       "publishedOn": "2026-07-30",
       "setId": "pal-g24876",
       "products": []
@@ -220,7 +228,7 @@
     "24912": {
       "name": "BP03: Eternal Ascent",
       "abbreviation": "BP03",
-      "modifiedOn": "2026-10-13T15:36:34.943",
+      "modifiedOn": "2026-11-03T17:23:34.163",
       "publishedOn": "2027-01-29",
       "setId": "pal-g24912",
       "products": [
@@ -231,6 +239,22 @@
           "releasedOn": "2027-01-29",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/723330_200w.jpg",
           "url": "https://www.tcgplayer.com/product/723330/palworld-official-card-game-bp03-eternal-ascent-eternal-ascent-booster-box-case"
+        },
+        {
+          "tcgplayerId": 730047,
+          "name": "Eternal Ascent Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730047_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730047/palworld-official-card-game-bp03-eternal-ascent-eternal-ascent-booster-box"
+        },
+        {
+          "tcgplayerId": 730050,
+          "name": "Eternal Ascent Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730050_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730050/palworld-official-card-game-bp03-eternal-ascent-eternal-ascent-booster-pack"
         }
       ]
     }

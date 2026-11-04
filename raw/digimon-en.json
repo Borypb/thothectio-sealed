@@ -2,7 +2,7 @@
   "game": "digimon",
   "lang": "en",
   "categoryId": 63,
-  "harvestedAt": "2026-11-03T12:02:58.227Z",
+  "harvestedAt": "2026-11-04T12:18:18.426Z",
   "groups": {
     "2733": {
       "name": "Release Special Booster 1.0",
@@ -2741,7 +2741,7 @@
     "24089": {
       "name": "Sinister Order",
       "abbreviation": "EX-10",
-      "modifiedOn": "2026-11-02T16:51:32.667",
+      "modifiedOn": "2026-11-03T14:44:34.5",
       "publishedOn": "2025-09-19",
       "setId": "dgm-g24089",
       "products": [
@@ -3458,6 +3458,72 @@
       "publishedOn": "2026-12-11",
       "setId": "dgm-g24866",
       "products": []
+    },
+    "24929": {
+      "name": "Starter Deck 26: Yukinamon",
+      "abbreviation": "ST-26",
+      "modifiedOn": "2026-11-03T16:19:49.303",
+      "publishedOn": "2026-12-04",
+      "setId": "dgm-g24929",
+      "products": [
+        {
+          "tcgplayerId": 730026,
+          "name": "Yukinamon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730026_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730026/digimon-card-game-starter-deck-26-yukinamon-yukinamon-starter-deck"
+        },
+        {
+          "tcgplayerId": 730027,
+          "name": "Yukinamon Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730027_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730027/digimon-card-game-starter-deck-26-yukinamon-yukinamon-starter-deck-display"
+        }
+      ]
+    },
+    "24930": {
+      "name": "Starter Deck 26: Yukinamon Release Event Cards",
+      "abbreviation": "ST-26_PR",
+      "modifiedOn": "2026-11-03T15:27:26.997",
+      "publishedOn": "2026-11-27",
+      "setId": "dgm-g24930",
+      "products": []
+    },
+    "24931": {
+      "name": "Starter Deck 25: Rubeusdramon Release Event Cards",
+      "abbreviation": "ST-25_PR",
+      "modifiedOn": "2026-11-03T15:27:10.237",
+      "publishedOn": "2026-11-27",
+      "setId": "dgm-g24931",
+      "products": []
+    },
+    "24932": {
+      "name": "Starter Deck 25: Rubeusdramon",
+      "abbreviation": "ST-25",
+      "modifiedOn": "2026-11-03T17:18:15.507",
+      "publishedOn": "2026-12-04",
+      "setId": "dgm-g24932",
+      "products": [
+        {
+          "tcgplayerId": 730028,
+          "name": "Rubeusdramon Starter Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730028_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730028/digimon-card-game-starter-deck-25-rubeusdramon-rubeusdramon-starter-deck-display"
+        },
+        {
+          "tcgplayerId": 730029,
+          "name": "Rubeusdramon Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730029_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730029/digimon-card-game-starter-deck-25-rubeusdramon-rubeusdramon-starter-deck"
+        }
+      ]
     }
   }
 }

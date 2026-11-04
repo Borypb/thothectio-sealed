@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "digimon",
   "lang": "en",
   "products": [
@@ -46,6 +46,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/714850_200w.jpg",
       "source": {
         "tcgplayer": 714850
+      }
+    },
+    {
+      "id": "dgm-en-tcp730026",
+      "game": "digimon",
+      "kind": "deck",
+      "name": "Yukinamon Starter Deck",
+      "lang": "en",
+      "setIds": [
+        "dgm-g24929"
+      ],
+      "releasedAt": "2026-12-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730026_200w.jpg",
+      "source": {
+        "tcgplayer": 730026
+      }
+    },
+    {
+      "id": "dgm-en-tcp730029",
+      "game": "digimon",
+      "kind": "deck",
+      "name": "Rubeusdramon Starter Deck",
+      "lang": "en",
+      "setIds": [
+        "dgm-g24932"
+      ],
+      "releasedAt": "2026-12-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730029_200w.jpg",
+      "source": {
+        "tcgplayer": 730029
       }
     },
     {

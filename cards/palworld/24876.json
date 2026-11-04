@@ -12,7 +12,7 @@
         {
           "sub": "Normal",
           "usd": 7.81,
-          "low": 4,
+          "low": 3.99,
           "mid": 6.45
         }
       ]
@@ -28,8 +28,8 @@
         {
           "sub": "Normal",
           "usd": 9.04,
-          "low": 7.98,
-          "mid": 9.5
+          "low": 6.5,
+          "mid": 9.32
         }
       ]
     },
@@ -60,7 +60,7 @@
         {
           "sub": "Normal",
           "usd": 8.85,
-          "low": 5,
+          "low": 4,
           "mid": 7.45
         }
       ]
@@ -76,7 +76,7 @@
         {
           "sub": "Normal",
           "usd": 5.92,
-          "low": 4.68,
+          "low": 4,
           "mid": 6
         }
       ]
@@ -91,7 +91,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 11.82,
+          "usd": 11.83,
           "low": 9.39,
           "mid": 11.99
         }
@@ -109,7 +109,7 @@
           "sub": "Normal",
           "usd": 7.15,
           "low": 4.95,
-          "mid": 8.2
+          "mid": 7.6
         }
       ]
     },
@@ -124,8 +124,8 @@
         {
           "sub": "Normal",
           "usd": 10.17,
-          "low": 8.71,
-          "mid": 10.5
+          "low": 8,
+          "mid": 10
         }
       ]
     },
@@ -140,7 +140,7 @@
         {
           "sub": "Normal",
           "usd": 8.44,
-          "low": 8,
+          "low": 6.5,
           "mid": 10.95
         }
       ]
@@ -157,7 +157,7 @@
           "sub": "Normal",
           "usd": 6,
           "low": 2,
-          "mid": 4.25
+          "mid": 4.13
         }
       ]
     },
@@ -173,7 +173,7 @@
           "sub": "Normal",
           "usd": 9.03,
           "low": 7.88,
-          "mid": 10.2
+          "mid": 9.85
         }
       ]
     },
@@ -188,7 +188,7 @@
         {
           "sub": "Normal",
           "usd": 9.18,
-          "low": 7,
+          "low": 6,
           "mid": 8.95
         }
       ]
@@ -204,8 +204,8 @@
         {
           "sub": "Normal",
           "usd": 10,
-          "low": 9,
-          "mid": 10.28
+          "low": 7.5,
+          "mid": 9.99
         }
       ]
     },
@@ -220,8 +220,8 @@
         {
           "sub": "Normal",
           "usd": 5.91,
-          "low": 5.75,
-          "mid": 50
+          "low": 4,
+          "mid": 27.97
         }
       ]
     },
@@ -239,7 +239,17 @@
           "mid": 8.49
         }
       ]
+    },
+    {
+      "id": 730020,
+      "name": "Frostallion Noct Saddle",
+      "number": "EPR-028",
+      "rarity": "PR",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730020_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730020/palworld-official-card-game-palworld-prototype-cards-frostallion-noct-saddle-epr-028",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-03"
+  "pricesAt": "2026-11-04"
 }

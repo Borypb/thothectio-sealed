@@ -556,20 +556,20 @@
           "name": "Palworld Promo Cards",
           "code": "PR",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-26T19:21:45.907",
-          "count": 26,
+          "modifiedOn": "2026-11-03T16:00:10.683",
+          "count": 43,
           "file": "cards/palworld/24851.json",
-          "version": "1bc2c1150b4d"
+          "version": "7ac1997f2653"
         },
         {
           "groupId": 24876,
           "name": "Palworld Prototype Cards",
           "code": "PW_PC",
           "releasedAt": "2026-07-30",
-          "modifiedOn": "2026-10-07T13:54:52.95",
-          "count": 15,
+          "modifiedOn": "2026-11-03T15:54:14.427",
+          "count": 16,
           "file": "cards/palworld/24876.json",
-          "version": "c4f292399c83"
+          "version": "972f4ba3574c"
         },
         {
           "groupId": 24843,
@@ -606,6 +606,16 @@
           "count": 90,
           "file": "cards/digimon/24865.json",
           "version": "b1870be8c030"
+        },
+        {
+          "groupId": 24932,
+          "name": "Starter Deck 25: Rubeusdramon",
+          "code": "ST-25",
+          "releasedAt": "2026-12-04",
+          "modifiedOn": "2026-11-03T17:18:15.507",
+          "count": 4,
+          "file": "cards/digimon/24932.json",
+          "version": "91ae236f84e3"
         },
         {
           "groupId": 24635,
@@ -822,7 +832,7 @@
           "name": "Sinister Order",
           "code": "EX-10",
           "releasedAt": "2025-09-19",
-          "modifiedOn": "2026-11-02T16:51:32.667",
+          "modifiedOn": "2026-11-03T14:44:34.5",
           "count": 143,
           "file": "cards/digimon/24089.json",
           "version": "8a1cccf3e2a7"
@@ -1778,10 +1788,30 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-11-02T15:52:06.86",
+          "modifiedOn": "2026-11-02T21:13:29.973",
           "count": 172,
           "file": "cards/cyberpunk/24855.json",
-          "version": "bc31fed9dae9"
+          "version": "5c70c3863b88"
+        },
+        {
+          "groupId": 24927,
+          "name": "Judge Promos",
+          "code": "JDG",
+          "releasedAt": "2026-11-01",
+          "modifiedOn": "2026-11-02T20:15:10.083",
+          "count": 3,
+          "file": "cards/cyberpunk/24927.json",
+          "version": "8c3e7a7364aa"
+        },
+        {
+          "groupId": 24928,
+          "name": "Pre-Release Retail",
+          "code": "PRR",
+          "releasedAt": "2026-11-01",
+          "modifiedOn": "2026-11-02T23:39:17.52",
+          "count": 11,
+          "file": "cards/cyberpunk/24928.json",
+          "version": "982a2c23c4f4"
         },
         {
           "groupId": 24884,
@@ -1852,5 +1882,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-03"
+  "updatedAt": "2026-11-04"
 }

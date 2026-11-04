@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-03T11:23:26.568Z",
+  "harvestedAt": "2026-11-04T11:37:23.500Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -150,7 +150,7 @@
     "630": {
       "name": "Fossil",
       "abbreviation": "FO",
-      "modifiedOn": "2026-10-12T19:48:03.723",
+      "modifiedOn": "2026-11-02T20:21:02.437",
       "publishedOn": "1999-10-10",
       "setCode": "base3",
       "products": [
@@ -478,7 +478,7 @@
     "1373": {
       "name": "Team Rocket",
       "abbreviation": "TR",
-      "modifiedOn": "2026-10-15T20:26:58.26",
+      "modifiedOn": "2026-11-02T20:46:46.763",
       "publishedOn": "2000-04-24",
       "setCode": "base5",
       "products": [
@@ -2852,7 +2852,7 @@
     "1440": {
       "name": "Gym Challenge",
       "abbreviation": "G2",
-      "modifiedOn": "2026-09-23T07:06:11.403",
+      "modifiedOn": "2026-11-02T20:07:05.607",
       "publishedOn": "2000-10-16",
       "setCode": "gym2",
       "products": [
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-02T19:03:04.937",
+      "modifiedOn": "2026-11-02T20:19:49.247",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -7821,7 +7821,7 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-10-23T18:40:11.873",
+      "modifiedOn": "2026-11-02T20:13:01.83",
       "products": []
     },
     "2295": {
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-02T18:33:51.333",
+      "modifiedOn": "2026-11-02T23:10:18.743",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13324,7 +13324,7 @@
     "2534": {
       "name": "SM - Cosmic Eclipse",
       "abbreviation": "SM12",
-      "modifiedOn": "2026-10-09T07:16:13.5",
+      "modifiedOn": "2026-11-02T20:23:06.22",
       "publishedOn": "2019-11-01",
       "setCode": "sm12",
       "products": [
@@ -13345,14 +13345,6 @@
           "url": "https://www.tcgplayer.com/product/199263/pokemon-sm-cosmic-eclipse-cosmic-eclipse-booster-pack"
         },
         {
-          "tcgplayerId": 199304,
-          "name": "Cosmic Eclipse Theme Deck [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2019-11-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/199304_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/199304/pokemon-sm-cosmic-eclipse-cosmic-eclipse-theme-deck-set-of-2"
-        },
-        {
           "tcgplayerId": 199305,
           "name": "Cosmic Eclipse Theme Deck [Kyogre]",
           "kind": "deck",
@@ -13371,7 +13363,7 @@
         {
           "tcgplayerId": 199307,
           "name": "Cosmic Eclipse Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2019-11-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/199307_200w.jpg",
           "url": "https://www.tcgplayer.com/product/199307/pokemon-sm-cosmic-eclipse-cosmic-eclipse-theme-deck-display"
@@ -13387,7 +13379,7 @@
         {
           "tcgplayerId": 199309,
           "name": "Cosmic Eclipse Build & Battle Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2019-11-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/199309_200w.jpg",
           "url": "https://www.tcgplayer.com/product/199309/pokemon-sm-cosmic-eclipse-cosmic-eclipse-build-and-battle-display"
@@ -13441,22 +13433,6 @@
           "url": "https://www.tcgplayer.com/product/199772/pokemon-sm-cosmic-eclipse-pikachu-gx-and-eevee-gx-special-collection"
         },
         {
-          "tcgplayerId": 267047,
-          "name": "Cosmic Eclipse Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2019-11-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267047_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267047/pokemon-sm-cosmic-eclipse-cosmic-eclipse-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 276587,
-          "name": "Cosmic Eclipse Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2019-11-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276587_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276587/pokemon-sm-cosmic-eclipse-cosmic-eclipse-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 546609,
           "name": "SM - Cosmic Eclipse Sleeved Booster Pack",
           "kind": "booster",
@@ -13467,7 +13443,7 @@
         {
           "tcgplayerId": 656706,
           "name": "Cosmic Eclipse Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2019-11-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656706_200w.jpg",
           "url": "https://www.tcgplayer.com/product/656706/pokemon-sm-cosmic-eclipse-cosmic-eclipse-sleeved-booster-case"
@@ -18611,7 +18587,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-10-22T19:56:00.547",
+      "modifiedOn": "2026-11-02T20:58:04.147",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -20900,7 +20876,7 @@
     "24073": {
       "name": "SV09: Journey Together",
       "abbreviation": "JTG",
-      "modifiedOn": "2026-09-23T00:58:54.653",
+      "modifiedOn": "2026-11-02T20:14:31.28",
       "publishedOn": "2025-03-28",
       "setCode": "sv09",
       "products": [
@@ -21035,7 +21011,7 @@
         {
           "tcgplayerId": 624925,
           "name": "Journey Together Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2025-03-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/624925_200w.jpg",
           "url": "https://www.tcgplayer.com/product/624925/pokemon-sv09-journey-together-journey-together-sleeved-booster-case"
@@ -21073,36 +21049,12 @@
           "url": "https://www.tcgplayer.com/product/626630/pokemon-sv09-journey-together-journey-together-single-pack-blister-melmetal"
         },
         {
-          "tcgplayerId": 626659,
-          "name": "Journey Together Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-03-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/626659_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/626659/pokemon-sv09-journey-together-journey-together-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 626660,
-          "name": "Journey Together Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-03-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/626660_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/626660/pokemon-sv09-journey-together-journey-together-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 629568,
           "name": "Journey Together Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2025-03-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/629568_200w.jpg",
           "url": "https://www.tcgplayer.com/product/629568/pokemon-sv09-journey-together-journey-together-build-and-battle-box-display"
-        },
-        {
-          "tcgplayerId": 631972,
-          "name": "Journey Together 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2025-03-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631972_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/631972/pokemon-sv09-journey-together-journey-together-3-pack-blister-set-of-2"
         },
         {
           "tcgplayerId": 647762,
@@ -22149,7 +22101,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-10-29T13:17:14.383",
+      "modifiedOn": "2026-11-02T21:17:05.493",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22549,7 +22501,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-10-27T21:30:21.15",
+      "modifiedOn": "2026-11-02T20:55:27.47",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [
@@ -22734,7 +22686,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-10-27T21:24:28.73",
+      "modifiedOn": "2026-11-02T21:02:47.133",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [

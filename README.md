@@ -211,6 +211,17 @@ le scan à l'image s'en sert à la passe suivante.
 { "pokemon": { "miscp-001": "photos/pokemon/en/ancient-mew-2000.webp" } }
 ```
 
+### Logos d'extension
+
+**`curated/logos.json`** : logo pour une extension dont la source ne fournit pas de logo, ou un logo qui ne s'affiche
+pas (Collection Classique 30e Anniversaire, Nuit Noire). Clé : identifiant de l'extension chez la source (Pokémon :
+TCGdex) ; valeur : chemin dans ce dépôt ou adresse complète. Publié dans `cards/curated.json` (champ `logos`) : l'app
+ne s'en sert que quand aucun logo de la source ne s'affiche.
+
+```json
+{ "pokemon": { "30th-c": "https://images.scrydex.com/pokemon/me55c-logo/logo" } }
+```
+
 Le scan à l'image n'a d'index que pour Pokémon (15 langues), One Piece (anglais, japonais, français) et l'anglais des
 autres licences : ailleurs, la carte est dans la recherche et le catalogue, pas dans le scan.
 

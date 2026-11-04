@@ -1,0 +1,8 @@
+{
+  "_aide": "Logos d'extension pour les extensions dont la source ne fournit pas de logo, ou un logo qui ne s'affiche pas. Clé : identifiant de l'extension chez la source (Pokémon : TCGdex, « 30th-c »). Valeur : chemin dans ce dépôt (photos/…) ou adresse complète. L'app ne s'en sert que si aucun logo de la source ne s'affiche. Voir le README, « Logos d'extension ».",
+  "pokemon": {
+    "30th": "https://images.scrydex.com/pokemon/me55-logo/logo",
+    "30th-c": "https://images.scrydex.com/pokemon/me55c-logo/logo",
+    "me05": "https://images.scrydex.com/pokemon/me5-logo/logo"
+  }
+}

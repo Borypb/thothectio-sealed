@@ -192,7 +192,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.58,
+          "usd": 0.92,
           "low": 0.5,
           "mid": 0.92
         }
@@ -456,8 +456,8 @@
         {
           "sub": "Normal",
           "usd": 0.51,
-          "low": 0.52,
-          "mid": 4.5
+          "low": 0.81,
+          "mid": 4.53
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/629600_200w.jpg"
@@ -563,9 +563,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.53,
-          "low": 0.81,
-          "mid": 1.49
+          "usd": 0.68,
+          "low": 1.08,
+          "mid": 1.98
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/629606_200w.jpg"
@@ -1265,9 +1265,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.74,
+          "usd": 0.76,
           "low": 0.64,
-          "mid": 1
+          "mid": 0.99
         }
       ]
     },
@@ -1337,7 +1337,7 @@
           "sub": "Holofoil",
           "usd": 15.94,
           "low": 5.99,
-          "mid": 12.45
+          "mid": 11.99
         }
       ]
     },
@@ -1360,5 +1360,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/684319_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-04"
+  "pricesAt": "2026-11-05"
 }

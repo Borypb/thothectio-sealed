@@ -13,8 +13,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 10.74,
-          "low": 6.99,
+          "usd": 10.31,
+          "low": 6,
           "mid": 15.19
         }
       ]
@@ -30,9 +30,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.15,
+          "usd": 1.86,
           "low": 0.85,
-          "mid": 2.39
+          "mid": 2.37
         }
       ]
     },
@@ -64,7 +64,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.65,
+          "usd": 3.43,
           "low": 1.5,
           "mid": 2.9
         }
@@ -81,8 +81,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.23,
-          "low": 0.8,
+          "usd": 2.05,
+          "low": 0.85,
           "mid": 2.4
         }
       ]
@@ -115,7 +115,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.01,
+          "usd": 4.69,
           "low": 1.43,
           "mid": 3.2
         }
@@ -133,8 +133,8 @@
         {
           "sub": "Foil",
           "usd": 1.68,
-          "low": 0.85,
-          "mid": 1.68
+          "low": 0.9,
+          "mid": 1.7
         }
       ]
     },
@@ -150,8 +150,8 @@
         {
           "sub": "Foil",
           "usd": 4.89,
-          "low": 2.2,
-          "mid": 3.55
+          "low": 2.18,
+          "mid": 3.52
         }
       ]
     },
@@ -168,7 +168,7 @@
           "sub": "Normal",
           "usd": 102.83,
           "low": 88.46,
-          "mid": 115
+          "mid": 103.2
         }
       ]
     },
@@ -185,8 +185,8 @@
         {
           "sub": "Foil",
           "usd": 51.19,
-          "low": 33.99,
-          "mid": 45.45
+          "low": 33,
+          "mid": 43
         }
       ]
     },
@@ -212,7 +212,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.1,
+          "usd": 7.86,
           "low": 4.53,
           "mid": 11.29
         }
@@ -229,7 +229,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.96,
+          "usd": 4.94,
           "low": 4,
           "mid": 5.2
         }
@@ -246,9 +246,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.41,
+          "usd": 5.38,
           "low": 4,
-          "mid": 6.74
+          "mid": 6.75
         }
       ]
     },
@@ -265,7 +265,7 @@
         {
           "sub": "Foil",
           "usd": 619.34,
-          "low": 393.51,
+          "low": 392.51,
           "mid": 400
         }
       ]
@@ -299,8 +299,8 @@
         {
           "sub": "Foil",
           "usd": 107.7,
-          "low": 63,
-          "mid": 94
+          "low": 62,
+          "mid": 92
         }
       ]
     },
@@ -317,7 +317,7 @@
           "sub": "Foil",
           "usd": 71.3,
           "low": 29,
-          "mid": 34.99
+          "mid": 34.75
         }
       ]
     },
@@ -333,8 +333,8 @@
         {
           "sub": "Foil",
           "usd": 105.28,
-          "low": 77.49,
-          "mid": 139.99
+          "low": 77,
+          "mid": 109.99
         }
       ]
     },
@@ -350,7 +350,7 @@
         {
           "sub": "Foil",
           "usd": 66.23,
-          "low": 35.5,
+          "low": 35,
           "mid": 49.75
         }
       ]
@@ -368,7 +368,7 @@
           "sub": "Foil",
           "usd": 58.75,
           "low": 24.01,
-          "mid": 55.5
+          "mid": 60.07
         }
       ]
     },
@@ -383,9 +383,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 71.81,
-          "low": 35.8,
-          "mid": 41.99
+          "usd": 69.56,
+          "low": 34,
+          "mid": 58.51
         }
       ]
     },
@@ -402,7 +402,7 @@
           "sub": "Foil",
           "usd": 57.63,
           "low": 28.99,
-          "mid": 42
+          "mid": 43.2
         }
       ]
     },
@@ -417,9 +417,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 69.34,
+          "usd": 70.94,
           "low": 67.5,
-          "mid": 100
+          "mid": 102.5
         }
       ]
     },
@@ -436,8 +436,8 @@
         {
           "sub": "Foil",
           "usd": 3000,
-          "low": 1698,
-          "mid": 1975
+          "low": 1600,
+          "mid": 1749.99
         }
       ]
     },
@@ -449,7 +449,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730005_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730005/palworld-official-card-game-palworld-promo-cards-relaxaurus-lux-party-time-epr-021",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 35,
+          "low": 35,
+          "mid": 35
+        }
+      ]
     },
     {
       "id": 730007,
@@ -469,7 +476,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730008_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730008/palworld-official-card-game-palworld-promo-cards-foxparks-breathing-practice-epr-022",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 730009,
@@ -479,7 +493,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730009_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730009/palworld-official-card-game-palworld-promo-cards-foxparks-breathing-practice-epr-022s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 300,
+          "low": 300,
+          "mid": 300
+        }
+      ]
     },
     {
       "id": 730010,
@@ -489,7 +510,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730010_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730010/palworld-official-card-game-palworld-promo-cards-jolthog-cryst-midwinter-awakening-epr-023",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
     },
     {
       "id": 730011,
@@ -499,7 +527,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730011_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730011/palworld-official-card-game-palworld-promo-cards-jolthog-cryst-midwinter-awakening-epr-023s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 125.69,
+          "low": 125.69,
+          "mid": 125.69
+        }
+      ]
     },
     {
       "id": 730012,
@@ -509,7 +544,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730012_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730012/palworld-official-card-game-palworld-promo-cards-frostallion-saddle-epr-024",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 30,
+          "low": 30,
+          "mid": 30
+        }
+      ]
     },
     {
       "id": 730013,
@@ -519,7 +561,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730013_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730013/palworld-official-card-game-palworld-promo-cards-dazemu-stride-of-oblivion-epr-025",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
     },
     {
       "id": 730015,
@@ -539,7 +588,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730016_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730016/palworld-official-card-game-palworld-promo-cards-seed-machine-gun-epr-026",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
     },
     {
       "id": 730017,
@@ -559,7 +615,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730018_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730018/palworld-official-card-game-palworld-promo-cards-mau-greed-beckons-epr-027",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 35,
+          "low": 35,
+          "mid": 35
+        }
+      ]
     },
     {
       "id": 730019,
@@ -569,7 +632,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730019_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730019/palworld-official-card-game-palworld-promo-cards-mau-greed-beckons-epr-027s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 202.85,
+          "low": 185.69,
+          "mid": 202.85
+        }
+      ]
     },
     {
       "id": 730021,
@@ -579,7 +649,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730021_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730021/palworld-official-card-game-palworld-promo-cards-eikthyrdeer-warden-of-the-woods-epr-029",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 28.47,
+          "low": 25,
+          "mid": 28.47
+        }
+      ]
     },
     {
       "id": 730022,
@@ -589,7 +666,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730022_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730022/palworld-official-card-game-palworld-promo-cards-eikthyrdeer-warden-of-the-woods-epr-029s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 100,
+          "low": 100,
+          "mid": 100
+        }
+      ]
     },
     {
       "id": 730023,
@@ -609,8 +693,15 @@
       "type": "Soul",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730024_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730024/palworld-official-card-game-palworld-promo-cards-soul-esoul-017",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 20,
+          "mid": 30
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-11-04"
+  "pricesAt": "2026-11-05"
 }

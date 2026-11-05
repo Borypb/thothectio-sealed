@@ -610,12 +610,22 @@
         {
           "groupId": 24932,
           "name": "Starter Deck 25: Rubeusdramon",
-          "code": "ST-25",
+          "code": "BD01",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-03T17:18:15.507",
+          "modifiedOn": "2026-11-04T13:46:32.843",
           "count": 4,
           "file": "cards/digimon/24932.json",
           "version": "91ae236f84e3"
+        },
+        {
+          "groupId": 24929,
+          "name": "Starter Deck 26: Yukinamon",
+          "code": "BD02",
+          "releasedAt": "2026-12-04",
+          "modifiedOn": "2026-11-04T13:53:00.717",
+          "count": 4,
+          "file": "cards/digimon/24929.json",
+          "version": "f0008048e03c"
         },
         {
           "groupId": 24635,
@@ -1262,7 +1272,7 @@
           "name": "Dimensional Phase",
           "code": "BT-11",
           "releasedAt": "2023-02-17",
-          "modifiedOn": "2026-04-26T12:58:38.66",
+          "modifiedOn": "2026-11-04T13:45:23.937",
           "count": 184,
           "file": "cards/digimon/17691.json",
           "version": "95e618c63a7b"
@@ -1882,5 +1892,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-05"
 }

@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-04T12:16:02.837Z",
+  "harvestedAt": "2026-11-05T12:29:48.626Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-10-28T16:00:42.913",
+      "modifiedOn": "2026-11-04T18:57:44.817",
       "setId": "mtg-sld",
       "products": [
         {
@@ -21687,7 +21687,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-03T15:27:54.943",
+      "modifiedOn": "2026-11-03T22:31:17.5",
       "products": []
     },
     "2716": {
@@ -26988,7 +26988,7 @@
     "23361": {
       "name": "Murders at Karlov Manor",
       "abbreviation": "MKM",
-      "modifiedOn": "2026-10-20T14:35:42.913",
+      "modifiedOn": "2026-11-04T05:36:10.86",
       "publishedOn": "2024-02-09",
       "setId": "mtg-mkm",
       "products": [
@@ -31724,7 +31724,7 @@
     "24691": {
       "name": "The Hobbit: Eternal-Legal",
       "abbreviation": "HOC",
-      "modifiedOn": "2026-10-09T07:13:05.927",
+      "modifiedOn": "2026-11-03T21:19:16.107",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hoc",
       "products": []
@@ -31739,7 +31739,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-11-03T19:44:21.033",
+      "modifiedOn": "2026-11-04T19:42:34.33",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -31886,13 +31886,21 @@
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/709039_200w.jpg",
           "url": "https://www.tcgplayer.com/product/709039/magic-star-trek-star-trek-prerelease-pack-case"
+        },
+        {
+          "tcgplayerId": 730160,
+          "name": "Star Trek - Sleeved Play Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/730160_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/730160/magic-star-trek-star-trek-sleeved-play-booster-pack"
         }
       ]
     },
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-11-03T19:46:34.48",
+      "modifiedOn": "2026-11-03T19:51:43.543",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -32312,7 +32320,7 @@
     "24924": {
       "name": "Art Series: Star Trek",
       "abbreviation": "ASTRK",
-      "modifiedOn": "2026-10-30T18:01:27.057",
+      "modifiedOn": "2026-11-04T14:04:07.84",
       "publishedOn": "2026-11-13",
       "products": []
     }

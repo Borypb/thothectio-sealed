@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-11-04T12:16:45.856Z",
+  "harvestedAt": "2026-11-05T12:30:23.120Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -1059,7 +1059,7 @@
       "abbreviation": "DB2",
       "modifiedOn": "2026-06-25T16:36:22.967",
       "publishedOn": "2005-07-25",
-      "setId": "ygo-db2",
+      "setId": "ygo-db",
       "products": [
         {
           "tcgplayerId": 57184,
@@ -13601,7 +13601,7 @@
       "abbreviation": "TPSS",
       "modifiedOn": "2026-07-13T15:39:15.71",
       "publishedOn": "2024-01-26",
-      "setId": "ygo-stax",
+      "setId": "ygo-stas",
       "products": [
         {
           "tcgplayerId": 509131,
@@ -15198,7 +15198,8 @@
       "abbreviation": "UP02",
       "modifiedOn": "2026-10-21T18:45:03.29",
       "publishedOn": "2026-11-04",
-      "products": []
+      "products": [],
+      "setId": "ygo-up02"
     },
     "24808": {
       "name": "Magnificent Maestros",
@@ -15288,7 +15289,8 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/713238_200w.jpg",
           "url": "https://www.tcgplayer.com/product/713238/yugioh-glorious-victors-glorious-victors-booster-box-1st-edition"
         }
-      ]
+      ],
+      "setId": "ygo-glvi"
     },
     "24918": {
       "name": "Thank You Pack",

@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -946,6 +946,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709724_200w.jpg",
       "source": {
         "tcgplayer": 709724
+      }
+    },
+    {
+      "id": "mtg-en-tcp730160",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Star Trek - Sleeved Play Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730160_200w.jpg",
+      "source": {
+        "tcgplayer": 730160
       }
     },
     {

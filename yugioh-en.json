@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "yugioh",
   "lang": "en",
   "products": [
@@ -9,6 +9,9 @@
       "kind": "booster",
       "name": "Glorious Victors Booster Pack [1st Edition]",
       "lang": "en",
+      "setIds": [
+        "ygo-glvi"
+      ],
       "releasedAt": "2026-12-04",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/713237_200w.jpg",
       "source": {
@@ -21,6 +24,9 @@
       "kind": "booster_box",
       "name": "Glorious Victors Booster Box [1st Edition]",
       "lang": "en",
+      "setIds": [
+        "ygo-glvi"
+      ],
       "releasedAt": "2026-12-04",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/713238_200w.jpg",
       "source": {
@@ -1663,7 +1669,7 @@
       "name": "2-Player Starter Set",
       "lang": "en",
       "setIds": [
-        "ygo-stax"
+        "ygo-stas"
       ],
       "releasedAt": "2024-01-26",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/509131_200w.jpg",
@@ -14500,7 +14506,7 @@
       "name": "Dark Beginning 2 Booster Pack",
       "lang": "en",
       "setIds": [
-        "ygo-db2"
+        "ygo-db"
       ],
       "releasedAt": "2005-07-25",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/194469_200w.jpg",
@@ -14515,7 +14521,7 @@
       "name": "Dark Beginning 2 Blister Pack",
       "lang": "en",
       "setIds": [
-        "ygo-db2"
+        "ygo-db"
       ],
       "releasedAt": "2005-07-25",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/194470_200w.jpg",
@@ -14530,7 +14536,7 @@
       "name": "Dark Beginning 2 - Booster Box",
       "lang": "en",
       "setIds": [
-        "ygo-db2"
+        "ygo-db"
       ],
       "releasedAt": "2005-07-25",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/57184_200w.jpg",

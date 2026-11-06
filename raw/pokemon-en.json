@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-05T11:37:26.326Z",
+  "harvestedAt": "2026-11-06T11:35:08.157Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -3115,7 +3115,7 @@
     "1451": {
       "name": "XY Promos",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-05T13:33:22.817",
+      "modifiedOn": "2026-11-05T18:51:29.39",
       "publishedOn": "2013-12-16",
       "setCode": "xyp",
       "products": []
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-02T20:19:49.247",
+      "modifiedOn": "2026-11-05T13:41:58.25",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-02T23:10:18.743",
+      "modifiedOn": "2026-11-05T13:49:08.647",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -22073,7 +22073,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-03T20:57:55.707",
+      "modifiedOn": "2026-11-05T19:00:53.61",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -23457,7 +23457,7 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-10-30T17:22:03.297",
+      "modifiedOn": "2026-11-05T19:13:43.867",
       "publishedOn": "2026-11-06",
       "products": [
         {
@@ -23626,6 +23626,13 @@
       "abbreviation": "SEA",
       "modifiedOn": "2026-10-29T16:59:05.14",
       "publishedOn": "2023-08-05",
+      "products": []
+    },
+    "24938": {
+      "name": "McDonald's Promos 2026",
+      "abbreviation": "M26",
+      "modifiedOn": "2026-11-05T14:19:03.157",
+      "publishedOn": "2026-11-06",
       "products": []
     }
   }

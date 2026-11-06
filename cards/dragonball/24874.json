@@ -192,9 +192,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3,
+          "usd": 2.5,
           "low": 2,
-          "mid": 3
+          "mid": 2.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716244_200w.jpg"
@@ -427,8 +427,8 @@
         {
           "sub": "Normal",
           "usd": 4.9,
-          "low": 3,
-          "mid": 4.67
+          "low": 2,
+          "mid": 4.54
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716257_200w.jpg"
@@ -1020,9 +1020,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5,
-          "low": 3.99,
-          "mid": 5
+          "usd": 4.53,
+          "low": 3,
+          "mid": 4.53
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716290_200w.jpg"
@@ -1057,8 +1057,8 @@
         {
           "sub": "Normal",
           "usd": 20,
-          "low": 20,
-          "mid": 20
+          "low": 15.99,
+          "mid": 18
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716292_200w.jpg"
@@ -1218,9 +1218,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
+          "usd": 2.75,
+          "low": 1,
+          "mid": 2.75
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716301_200w.jpg"
@@ -1255,8 +1255,8 @@
         {
           "sub": "Normal",
           "usd": 6.5,
-          "low": 5,
-          "mid": 6.56
+          "low": 4,
+          "mid": 5.54
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716303_200w.jpg"
@@ -1273,7 +1273,7 @@
         {
           "sub": "Normal",
           "usd": 2.5,
-          "low": 1.5,
+          "low": 1,
           "mid": 2.5
         }
       ],
@@ -1352,5 +1352,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716308_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-05"
+  "pricesAt": "2026-11-06"
 }

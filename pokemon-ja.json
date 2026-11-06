@@ -1,8 +1,26 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "pokemon",
   "lang": "ja",
   "products": [
+    {
+      "id": "pkm-ja-pcg-d0ee276543",
+      "kind": "booster",
+      "name": "拡張パック「ハドウシーカー」",
+      "lang": "ja",
+      "releasedAt": "2026-11-27",
+      "extras": [
+        "カード5枚入り"
+      ],
+      "image": "https://www.pokemon-card.com/products/2026/images/hadouseeker.jpg",
+      "msrp": {
+        "jpy": 200
+      },
+      "source": {
+        "official": "https://www.pokemon-card.com/ex/m7/"
+      },
+      "verified": true
+    },
     {
       "id": "pkm-ja-pcg-7e0587b1fc",
       "kind": "deck",

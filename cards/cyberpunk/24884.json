@@ -39,7 +39,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719687_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719687/cyberpunk-tcg-night-city-brawl-season-1-jackie-welles-ride-or-die-choom",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 719688,
@@ -69,7 +76,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719690_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719690/cyberpunk-tcg-night-city-brawl-season-1-bootleg-black-sapphire-show",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 719691,
@@ -89,7 +103,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719692_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719692/cyberpunk-tcg-night-city-brawl-season-1-corpo-security",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 719693,
@@ -140,7 +161,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719697_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719697/cyberpunk-tcg-night-city-brawl-season-1-delamain-cab",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 719698,
@@ -160,7 +188,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719699_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719699/cyberpunk-tcg-night-city-brawl-season-1-dying-night-vs-pistol",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 719700,
@@ -183,5 +218,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-05"
+  "pricesAt": "2026-11-06"
 }

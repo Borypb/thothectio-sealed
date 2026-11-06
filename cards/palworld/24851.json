@@ -14,8 +14,8 @@
         {
           "sub": "Normal",
           "usd": 10.31,
-          "low": 6,
-          "mid": 15.19
+          "low": 5,
+          "mid": 15
         }
       ]
     },
@@ -31,8 +31,8 @@
         {
           "sub": "Foil",
           "usd": 1.86,
-          "low": 0.85,
-          "mid": 2.37
+          "low": 0.83,
+          "mid": 2.21
         }
       ]
     },
@@ -48,8 +48,8 @@
         {
           "sub": "Foil",
           "usd": 5.95,
-          "low": 1.9,
-          "mid": 4
+          "low": 1.8,
+          "mid": 3.97
         }
       ]
     },
@@ -65,8 +65,8 @@
         {
           "sub": "Foil",
           "usd": 3.43,
-          "low": 1.5,
-          "mid": 2.9
+          "low": 1.4,
+          "mid": 2.85
         }
       ]
     },
@@ -83,7 +83,7 @@
           "sub": "Foil",
           "usd": 2.05,
           "low": 0.85,
-          "mid": 2.4
+          "mid": 2.34
         }
       ]
     },
@@ -99,8 +99,8 @@
         {
           "sub": "Foil",
           "usd": 3.34,
-          "low": 1.8,
-          "mid": 2.9
+          "low": 1.75,
+          "mid": 2.82
         }
       ]
     },
@@ -115,9 +115,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.69,
+          "usd": 4.38,
           "low": 1.43,
-          "mid": 3.2
+          "mid": 3
         }
       ]
     },
@@ -134,7 +134,7 @@
           "sub": "Foil",
           "usd": 1.68,
           "low": 0.9,
-          "mid": 1.7
+          "mid": 1.51
         }
       ]
     },
@@ -150,8 +150,8 @@
         {
           "sub": "Foil",
           "usd": 4.89,
-          "low": 2.18,
-          "mid": 3.52
+          "low": 1.44,
+          "mid": 3
         }
       ]
     },
@@ -185,8 +185,8 @@
         {
           "sub": "Foil",
           "usd": 51.19,
-          "low": 33,
-          "mid": 43
+          "low": 30,
+          "mid": 39.99
         }
       ]
     },
@@ -248,7 +248,7 @@
           "sub": "Normal",
           "usd": 5.38,
           "low": 4,
-          "mid": 6.75
+          "mid": 6.74
         }
       ]
     },
@@ -265,8 +265,8 @@
         {
           "sub": "Foil",
           "usd": 619.34,
-          "low": 392.51,
-          "mid": 400
+          "low": 380,
+          "mid": 397.5
         }
       ]
     },
@@ -281,9 +281,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 89.24,
+          "usd": 89.62,
           "low": 44.01,
-          "mid": 69.35
+          "mid": 68.69
         }
       ]
     },
@@ -299,8 +299,8 @@
         {
           "sub": "Foil",
           "usd": 107.7,
-          "low": 62,
-          "mid": 92
+          "low": 50,
+          "mid": 94
         }
       ]
     },
@@ -317,7 +317,7 @@
           "sub": "Foil",
           "usd": 71.3,
           "low": 29,
-          "mid": 34.75
+          "mid": 33.6
         }
       ]
     },
@@ -334,7 +334,7 @@
           "sub": "Foil",
           "usd": 105.28,
           "low": 77,
-          "mid": 109.99
+          "mid": 108.03
         }
       ]
     },
@@ -350,8 +350,8 @@
         {
           "sub": "Foil",
           "usd": 66.23,
-          "low": 35,
-          "mid": 49.75
+          "low": 30,
+          "mid": 50
         }
       ]
     },
@@ -368,7 +368,7 @@
           "sub": "Foil",
           "usd": 58.75,
           "low": 24.01,
-          "mid": 60.07
+          "mid": 55.5
         }
       ]
     },
@@ -385,7 +385,7 @@
           "sub": "Foil",
           "usd": 69.56,
           "low": 34,
-          "mid": 58.51
+          "mid": 50.25
         }
       ]
     },
@@ -400,9 +400,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 57.63,
-          "low": 28.99,
-          "mid": 43.2
+          "usd": 56.47,
+          "low": 29.99,
+          "mid": 43.5
         }
       ]
     },
@@ -417,9 +417,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 70.94,
+          "usd": 69.32,
           "low": 67.5,
-          "mid": 102.5
+          "mid": 105
         }
       ]
     },
@@ -466,7 +466,14 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730007_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730007/palworld-official-card-game-palworld-promo-cards-relaxaurus-lux-party-time-epr-021s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 99.99,
+          "low": 99.99,
+          "mid": 99.99
+        }
+      ]
     },
     {
       "id": 730008,
@@ -479,9 +486,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25,
-          "low": 25,
-          "mid": 25
+          "usd": 15,
+          "low": 15,
+          "mid": 15
         }
       ]
     },
@@ -493,14 +500,7 @@
       "type": "Pal",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730009_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730009/palworld-official-card-game-palworld-promo-cards-foxparks-breathing-practice-epr-022s",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 300,
-          "low": 300,
-          "mid": 300
-        }
-      ]
+      "prices": []
     },
     {
       "id": 730010,
@@ -513,9 +513,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20,
-          "low": 20,
-          "mid": 20
+          "usd": 10,
+          "low": 10,
+          "mid": 10
         }
       ]
     },
@@ -547,9 +547,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 30,
-          "low": 30,
-          "mid": 30
+          "usd": 15,
+          "low": 15,
+          "mid": 15
         }
       ]
     },
@@ -564,9 +564,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20,
-          "low": 20,
-          "mid": 20
+          "usd": 15,
+          "low": 15,
+          "mid": 15
         }
       ]
     },
@@ -591,9 +591,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20,
-          "low": 20,
-          "mid": 20
+          "usd": 12,
+          "low": 12,
+          "mid": 12
         }
       ]
     },
@@ -618,9 +618,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 35,
-          "low": 35,
-          "mid": 35
+          "usd": 15,
+          "low": 15,
+          "mid": 15
         }
       ]
     },
@@ -635,9 +635,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 202.85,
-          "low": 185.69,
-          "mid": 202.85
+          "usd": 92.84,
+          "low": 85.69,
+          "mid": 92.84
         }
       ]
     },
@@ -652,9 +652,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 28.47,
-          "low": 25,
-          "mid": 28.47
+          "usd": 24.99,
+          "low": 15,
+          "mid": 24.99
         }
       ]
     },
@@ -670,7 +670,7 @@
         {
           "sub": "Foil",
           "usd": 100,
-          "low": 100,
+          "low": 85,
           "mid": 100
         }
       ]
@@ -683,7 +683,14 @@
       "type": "Soul",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730023_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730023/palworld-official-card-game-palworld-promo-cards-soul-esoul-018",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 700,
+          "low": 700,
+          "mid": 700
+        }
+      ]
     },
     {
       "id": 730024,
@@ -696,12 +703,12 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20,
-          "low": 20,
-          "mid": 30
+          "usd": 15,
+          "low": 11,
+          "mid": 12
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-05"
+  "pricesAt": "2026-11-06"
 }

@@ -765,6 +765,7 @@
       "label": "X Antibody",
       "number": "BT27-065 U",
       "rarity": "Uncommon",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729894_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729894/digimon-card-game-ignition-of-x-mamemon-x-antibody",
       "prices": []
@@ -775,6 +776,7 @@
       "label": "X Antibody",
       "number": "BT27-072 R",
       "rarity": "Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729895_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729895/digimon-card-game-ignition-of-x-princemamemon-x-antibody",
       "prices": []
@@ -784,6 +786,7 @@
       "name": "Solarmon",
       "number": "BT27-007 C",
       "rarity": "Common",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729896_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729896/digimon-card-game-ignition-of-x-solarmon",
       "prices": []
@@ -793,6 +796,7 @@
       "name": "Meramon",
       "number": "BT27-010 C",
       "rarity": "Common",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729897_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729897/digimon-card-game-ignition-of-x-meramon",
       "prices": []
@@ -802,6 +806,7 @@
       "name": "SkullMeramon",
       "number": "BT27-012 C",
       "rarity": "Common",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729898_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729898/digimon-card-game-ignition-of-x-skullmeramon",
       "prices": []
@@ -811,6 +816,7 @@
       "name": "BanchoLeomon",
       "number": "BT27-053 SR",
       "rarity": "Super Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729899_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729899/digimon-card-game-ignition-of-x-bancholeomon",
       "prices": []
@@ -821,6 +827,7 @@
       "label": "Alternate Art",
       "number": "BT27-053 SR",
       "rarity": "Super Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729900_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729900/digimon-card-game-ignition-of-x-bancholeomon-alternate-art",
       "prices": []
@@ -830,6 +837,7 @@
       "name": "Spencer Damon",
       "number": "BT27-090 U",
       "rarity": "Uncommon",
+      "type": "Tamer",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729901_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729901/digimon-card-game-ignition-of-x-spencer-damon",
       "prices": []
@@ -913,7 +921,27 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729944_200w.jpg",
       "url": "https://www.tcgplayer.com/product/729944/digimon-card-game-ignition-of-x-darkdramon",
       "prices": []
+    },
+    {
+      "id": 730441,
+      "name": "Maildramon",
+      "number": "BT27-062 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730441/digimon-card-game-ignition-of-x-maildramon",
+      "prices": []
+    },
+    {
+      "id": 730442,
+      "name": "King Drasil",
+      "number": "BT27-104 SEC",
+      "rarity": "Secret Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730442/digimon-card-game-ignition-of-x-king-drasil",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-05"
+  "pricesAt": "2026-11-06"
 }

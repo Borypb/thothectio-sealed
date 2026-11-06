@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-02T19:02:09.427",
-          "count": 90,
+          "modifiedOn": "2026-11-05T15:45:50.603",
+          "count": 92,
           "file": "cards/digimon/24865.json",
-          "version": "b1870be8c030"
+          "version": "cb79489eaa6b"
         },
         {
           "groupId": 24932,
@@ -792,7 +792,7 @@
           "name": "Starter Deck 22: Amethyst Mandala Advanced Deck Set",
           "code": "ST-22",
           "releasedAt": "2025-12-05",
-          "modifiedOn": "2026-05-08T13:39:31.2",
+          "modifiedOn": "2026-11-05T15:37:40.17",
           "count": 29,
           "file": "cards/digimon/24456.json",
           "version": "466f359a4fef"
@@ -822,7 +822,7 @@
           "name": "Hackers' Slumber",
           "code": "BT-23",
           "releasedAt": "2025-10-24",
-          "modifiedOn": "2026-11-02T16:49:49.153",
+          "modifiedOn": "2026-11-05T15:32:51.41",
           "count": 139,
           "file": "cards/digimon/24430.json",
           "version": "b79b0319bc23"
@@ -1202,7 +1202,7 @@
           "name": "Versus Royal Knights",
           "code": "BT-13",
           "releasedAt": "2023-07-21",
-          "modifiedOn": "2026-10-07T14:21:28.247",
+          "modifiedOn": "2026-11-05T15:49:02.86",
           "count": 171,
           "file": "cards/digimon/23148.json",
           "version": "71cf0324fbc8"
@@ -1717,7 +1717,7 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-27T20:32:16.03",
+          "modifiedOn": "2026-11-05T19:42:56.78",
           "count": 265,
           "file": "cards/riftbound/24528.json",
           "version": "f8bd32821ff8"
@@ -1892,5 +1892,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-05"
+  "updatedAt": "2026-11-06"
 }

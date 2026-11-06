@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "sets": [
     {
       "code": "M6a",
@@ -243,6 +243,14 @@
       "count": 62,
       "file": "cards/pokemon-ja/SM10a.json",
       "version": "0e27e5733101"
+    },
+    {
+      "code": "MG",
+      "name": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+      "official": 38,
+      "count": 38,
+      "file": "cards/pokemon-ja/MG.json",
+      "version": "8bc4c328ff5d"
     },
     {
       "code": "S8a-P",
@@ -1614,12 +1622,12 @@
       "version": "0fe739090a2b"
     },
     {
-      "code": "MG",
+      "code": "MG_pcgbw",
       "name": "ポケモンカードゲームBW 30枚デッキ対戦setミュウツーVSゲノセクト",
       "official": 16,
       "count": 32,
-      "file": "cards/pokemon-ja/MG.json",
-      "version": "291639fb4533"
+      "file": "cards/pokemon-ja/MG_pcgbw.json",
+      "version": "5113fa2de41f"
     },
     {
       "code": "BW9-B",

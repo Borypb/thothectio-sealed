@@ -13,8 +13,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 10.31,
-          "low": 5,
+          "usd": 10,
+          "low": 6.46,
           "mid": 15
         }
       ]
@@ -31,8 +31,8 @@
         {
           "sub": "Foil",
           "usd": 1.86,
-          "low": 0.83,
-          "mid": 2.21
+          "low": 0.8,
+          "mid": 2.09
         }
       ]
     },
@@ -47,9 +47,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.95,
-          "low": 1.8,
-          "mid": 3.97
+          "usd": 5.59,
+          "low": 1.79,
+          "mid": 3.95
         }
       ]
     },
@@ -82,8 +82,8 @@
         {
           "sub": "Foil",
           "usd": 2.05,
-          "low": 0.85,
-          "mid": 2.34
+          "low": 0.84,
+          "mid": 2.05
         }
       ]
     },
@@ -99,7 +99,7 @@
         {
           "sub": "Foil",
           "usd": 3.34,
-          "low": 1.75,
+          "low": 1.74,
           "mid": 2.82
         }
       ]
@@ -133,7 +133,7 @@
         {
           "sub": "Foil",
           "usd": 1.68,
-          "low": 0.9,
+          "low": 0.82,
           "mid": 1.51
         }
       ]
@@ -150,8 +150,8 @@
         {
           "sub": "Foil",
           "usd": 4.89,
-          "low": 1.44,
-          "mid": 3
+          "low": 1.42,
+          "mid": 2.99
         }
       ]
     },
@@ -166,9 +166,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 102.83,
+          "usd": 102.43,
           "low": 88.46,
-          "mid": 103.2
+          "mid": 102.92
         }
       ]
     },
@@ -186,7 +186,7 @@
           "sub": "Foil",
           "usd": 51.19,
           "low": 30,
-          "mid": 39.99
+          "mid": 39.91
         }
       ]
     },
@@ -212,7 +212,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.86,
+          "usd": 7.64,
           "low": 4.53,
           "mid": 11.29
         }
@@ -229,7 +229,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.94,
+          "usd": 4.98,
           "low": 4,
           "mid": 5.2
         }
@@ -246,9 +246,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.38,
+          "usd": 5.33,
           "low": 4,
-          "mid": 6.74
+          "mid": 6.7
         }
       ]
     },
@@ -266,7 +266,7 @@
           "sub": "Foil",
           "usd": 619.34,
           "low": 380,
-          "mid": 397.5
+          "mid": 395
         }
       ]
     },
@@ -316,7 +316,7 @@
         {
           "sub": "Foil",
           "usd": 71.3,
-          "low": 29,
+          "low": 28.51,
           "mid": 33.6
         }
       ]
@@ -334,7 +334,7 @@
           "sub": "Foil",
           "usd": 105.28,
           "low": 77,
-          "mid": 108.03
+          "mid": 105.28
         }
       ]
     },
@@ -351,7 +351,7 @@
           "sub": "Foil",
           "usd": 66.23,
           "low": 30,
-          "mid": 50
+          "mid": 50.49
         }
       ]
     },
@@ -366,7 +366,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 58.75,
+          "usd": 56.79,
           "low": 24.01,
           "mid": 55.5
         }
@@ -384,7 +384,7 @@
         {
           "sub": "Foil",
           "usd": 69.56,
-          "low": 34,
+          "low": 32.51,
           "mid": 50.25
         }
       ]
@@ -402,7 +402,7 @@
           "sub": "Foil",
           "usd": 56.47,
           "low": 29.99,
-          "mid": 43.5
+          "mid": 45
         }
       ]
     },
@@ -452,9 +452,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 35,
-          "low": 35,
-          "mid": 35
+          "usd": 30,
+          "low": 25,
+          "mid": 30
         }
       ]
     },
@@ -486,9 +486,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15,
+          "usd": 18,
           "low": 15,
-          "mid": 15
+          "mid": 18
         }
       ]
     },
@@ -530,9 +530,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 125.69,
-          "low": 125.69,
-          "mid": 125.69
+          "usd": 112.85,
+          "low": 100,
+          "mid": 112.85
         }
       ]
     },
@@ -547,9 +547,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15,
-          "low": 15,
-          "mid": 15
+          "usd": 12.5,
+          "low": 10,
+          "mid": 12.5
         }
       ]
     },
@@ -605,7 +605,14 @@
       "type": "Event",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730017_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730017/palworld-official-card-game-palworld-promo-cards-seed-machine-gun-epr-026s",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 125,
+          "low": 125,
+          "mid": 125
+        }
+      ]
     },
     {
       "id": 730018,
@@ -618,9 +625,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15,
-          "low": 15,
-          "mid": 15
+          "usd": 13.5,
+          "low": 12,
+          "mid": 13.5
         }
       ]
     },
@@ -652,9 +659,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 24.99,
+          "usd": 18,
           "low": 15,
-          "mid": 24.99
+          "mid": 18
         }
       ]
     },
@@ -669,9 +676,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 100,
+          "usd": 95,
           "low": 85,
-          "mid": 100
+          "mid": 95
         }
       ]
     },
@@ -686,9 +693,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 700,
-          "low": 700,
-          "mid": 700
+          "usd": 500,
+          "low": 500,
+          "mid": 500
         }
       ]
     },
@@ -703,12 +710,12 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15,
-          "low": 11,
-          "mid": 12
+          "usd": 14.5,
+          "low": 12,
+          "mid": 15
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-06"
+  "pricesAt": "2026-11-07"
 }

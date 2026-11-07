@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-06T11:35:08.157Z",
+  "harvestedAt": "2026-11-07T10:42:33.125Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -13171,7 +13171,7 @@
     "2480": {
       "name": "Hidden Fates",
       "abbreviation": "HIF",
-      "modifiedOn": "2026-10-05T13:25:31.123",
+      "modifiedOn": "2026-11-06T05:30:12.343",
       "publishedOn": "2019-08-23",
       "setCode": "sm115",
       "products": [
@@ -13294,22 +13294,6 @@
           "releasedOn": "2019-08-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/206302_200w.jpg",
           "url": "https://www.tcgplayer.com/product/206302/pokemon-hidden-fates-hidden-fates-premium-powers-collection"
-        },
-        {
-          "tcgplayerId": 213476,
-          "name": "Hidden Fates Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2019-08-23",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/213476_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/213476/pokemon-hidden-fates-hidden-fates-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 545766,
-          "name": "Hidden Fates Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2019-08-23",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545766_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/545766/pokemon-hidden-fates-hidden-fates-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 648466,
@@ -15667,7 +15651,7 @@
     "2867": {
       "name": "Celebrations",
       "abbreviation": "CLB",
-      "modifiedOn": "2026-08-27T17:14:32.333",
+      "modifiedOn": "2026-11-06T05:29:10.34",
       "publishedOn": "2021-10-08",
       "setCode": "cel25",
       "products": [
@@ -15714,7 +15698,7 @@
         {
           "tcgplayerId": 242812,
           "name": "Celebrations Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/242812_200w.jpg",
           "url": "https://www.tcgplayer.com/product/242812/pokemon-celebrations-celebrations-mini-tin-display"
@@ -15850,7 +15834,7 @@
         {
           "tcgplayerId": 251880,
           "name": "Celebrations Collection Case [Dragapult Prime]",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/251880_200w.jpg",
           "url": "https://www.tcgplayer.com/product/251880/pokemon-celebrations-celebrations-collection-case-dragapult-prime"
@@ -15904,25 +15888,9 @@
           "url": "https://www.tcgplayer.com/product/252416/pokemon-celebrations-celebrations-prime-collection"
         },
         {
-          "tcgplayerId": 252739,
-          "name": "Pokemon Celebrations International Tin [Set of 2]",
-          "kind": "tin",
-          "releasedOn": "2021-10-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252739_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/252739/pokemon-celebrations-pokemon-celebrations-international-tin-set-of-2"
-        },
-        {
-          "tcgplayerId": 252740,
-          "name": "Pokemon Celebrations Tin [Set of 2]",
-          "kind": "tin",
-          "releasedOn": "2021-10-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252740_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/252740/pokemon-celebrations-pokemon-celebrations-tin-set-of-2"
-        },
-        {
           "tcgplayerId": 256970,
           "name": "Celebrations Deluxe Pin Collection Case [Zacian LV. X]",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/256970_200w.jpg",
           "url": "https://www.tcgplayer.com/product/256970/pokemon-celebrations-celebrations-deluxe-pin-collection-case-zacian-lv-x"
@@ -15938,7 +15906,7 @@
         {
           "tcgplayerId": 282156,
           "name": "Celebrations Collector Chest Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/282156_200w.jpg",
           "url": "https://www.tcgplayer.com/product/282156/pokemon-celebrations-celebrations-collector-chest-case"
@@ -15946,7 +15914,7 @@
         {
           "tcgplayerId": 455796,
           "name": "Celebrations Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/455796_200w.jpg",
           "url": "https://www.tcgplayer.com/product/455796/pokemon-celebrations-celebrations-collection-case"
@@ -15954,7 +15922,7 @@
         {
           "tcgplayerId": 518638,
           "name": "Celebrations Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "releasedOn": "2021-10-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/518638_200w.jpg",
           "url": "https://www.tcgplayer.com/product/518638/pokemon-celebrations-celebrations-ultra-premium-collection-case"
@@ -16205,7 +16173,7 @@
     "2931": {
       "name": "Celebrations: Classic Collection",
       "abbreviation": "CCC",
-      "modifiedOn": "2026-10-22T02:03:56.747",
+      "modifiedOn": "2026-11-05T21:23:52.137",
       "publishedOn": "2021-10-08",
       "setCode": "cel25cc",
       "products": []
@@ -23457,7 +23425,7 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-11-05T19:13:43.867",
+      "modifiedOn": "2026-11-06T17:11:08.173",
       "publishedOn": "2026-11-06",
       "products": [
         {

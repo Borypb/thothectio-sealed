@@ -895,11 +895,12 @@
     {
       "id": 729942,
       "name": "Lotosmon",
+      "label": "BT27-055",
       "number": "BT27-055 R",
       "rarity": "Rare",
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729942_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/729942/digimon-card-game-ignition-of-x-lotosmon",
+      "url": "https://www.tcgplayer.com/product/729942/digimon-card-game-ignition-of-x-lotosmon-bt27-055",
       "prices": []
     },
     {
@@ -941,7 +942,39 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730442_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730442/digimon-card-game-ignition-of-x-king-drasil",
       "prices": []
+    },
+    {
+      "id": 731163,
+      "name": "King Drasil",
+      "label": "Alternate Art",
+      "number": "BT27-104 SEC",
+      "rarity": "Secret Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/731163/digimon-card-game-ignition-of-x-king-drasil-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 731165,
+      "name": "Guardromon",
+      "number": "BT27-037 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/731165/digimon-card-game-ignition-of-x-guardromon",
+      "prices": []
+    },
+    {
+      "id": 731166,
+      "name": "Lotosmon",
+      "label": "BT27-054",
+      "number": "BT27-054 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/731166/digimon-card-game-ignition-of-x-lotosmon-bt27-054",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-06"
+  "pricesAt": "2026-11-07"
 }

@@ -9,7 +9,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715219_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715219/cyberpunk-tcg-embracing-power-retail-starter-deck-yorinobu-arasaka-embracing-destruction",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
     },
     {
       "id": 715220,
@@ -80,14 +87,7 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715224_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715224/cyberpunk-tcg-embracing-power-retail-starter-deck-arasaka-emergency-radioport",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.1,
-          "low": 0.1,
-          "mid": 0.1
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715225,
@@ -168,9 +168,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.5,
-          "low": 0.5,
-          "mid": 0.5
+          "usd": 0.43,
+          "low": 0.35,
+          "mid": 0.43
         }
       ]
     },
@@ -307,5 +307,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-06"
+  "pricesAt": "2026-11-07"
 }

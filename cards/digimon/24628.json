@@ -108,9 +108,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.21,
-          "low": 3.67,
-          "mid": 5.8
+          "usd": 5.15,
+          "low": 4.99,
+          "mid": 5.71
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693173_200w.jpg"
@@ -146,8 +146,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.46,
-          "low": 4,
+          "usd": 6.38,
+          "low": 6.56,
           "mid": 8.93
         }
       ],
@@ -167,7 +167,7 @@
           "sub": "Foil",
           "usd": 7.03,
           "low": 5,
-          "mid": 7.74
+          "mid": 7.73
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693184_200w.jpg"
@@ -203,7 +203,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10.8,
+          "usd": 10.72,
           "low": 6.9,
           "mid": 10.78
         }
@@ -230,5 +230,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693188_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-06"
+  "pricesAt": "2026-11-07"
 }

@@ -2,7 +2,7 @@
   "game": "digimon",
   "lang": "en",
   "categoryId": 63,
-  "harvestedAt": "2026-11-06T12:15:47.221Z",
+  "harvestedAt": "2026-11-07T11:10:53.177Z",
   "groups": {
     "2733": {
       "name": "Release Special Booster 1.0",
@@ -3421,7 +3421,7 @@
     "24865": {
       "name": "Ignition of X",
       "abbreviation": "BT27",
-      "modifiedOn": "2026-11-05T15:45:50.603",
+      "modifiedOn": "2026-11-06T15:06:28.6",
       "publishedOn": "2026-12-11",
       "setId": "dgm-g24865",
       "products": [
@@ -3524,6 +3524,14 @@
           "url": "https://www.tcgplayer.com/product/730029/digimon-card-game-starter-deck-25-rubeusdramon-rubeusdramon-starter-deck"
         }
       ]
+    },
+    "24941": {
+      "name": "Limited Card Pack -Distancia Cero-",
+      "abbreviation": "LM-09",
+      "modifiedOn": "2026-11-06T15:57:19.89",
+      "publishedOn": "2026-11-27",
+      "setId": "dgm-g24941",
+      "products": []
     }
   }
 }

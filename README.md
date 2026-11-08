@@ -80,6 +80,11 @@ médian des annonces (`mid`) en plus du prix du marché (`usd`), pour la fenêtr
 
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
+**Empreintes des listes d'extensions** (`versions.mjs`, à la fin de la chaîne) : une empreinte par licence de la
+liste des extensions telle que l'app la lit (TCGdex, Scryfall, YGOPRODeck, Lorcast, punk-records, catalogues du
+robot). L'app lit `cards/versions.json` une fois par jour et ne relit la liste d'une licence que si son empreinte a
+changé : une nouvelle extension apparaît le lendemain, sans nouveau build.
+
 **Images d'attente de TCGplayer** (`tcgplayer-placeholders.mjs`) : sur une extension qui vient de sortir, TCGplayer
 met souvent une image provisoire (dos de carte) tant que la vraie photo n'est pas prête, puis la remplace à la même
 adresse. Le robot compare les images des extensions des 6 derniers mois (même image sur au moins 5 cartes de noms

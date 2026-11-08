@@ -12,6 +12,7 @@ import { cardmarketPrices } from "./cardmarket-prices.mjs";
 import { onePiecePrices } from "./onepiece-prices.mjs";
 import { pokemonNames } from "./pokemon-names.mjs";
 import { curatedCards } from "./curated-cards.mjs";
+import { versions } from "./versions.mjs";
 
 // cartes ajoutées à la main (curated/cards.json) : en premier, une erreur de saisie n'empêche pas le reste
 try {
@@ -75,4 +76,10 @@ try {
   await pokemonNames();
 } catch (e) {
   console.warn("Noms des Pokémon indisponibles :", e.message);
+}
+// empreinte de la liste des extensions de chaque licence : l'app ne relit une liste que si elle a changé
+try {
+  await versions();
+} catch (e) {
+  console.warn("Empreintes des listes d'extensions indisponibles :", e.message);
 }

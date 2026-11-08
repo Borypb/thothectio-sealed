@@ -14,7 +14,7 @@
           "sub": "Holofoil",
           "usd": 0.79,
           "low": 0.56,
-          "mid": 0.82
+          "mid": 0.8
         }
       ]
     },
@@ -31,7 +31,7 @@
           "sub": "Holofoil",
           "usd": 1.14,
           "low": 1,
-          "mid": 1.15
+          "mid": 1.03
         }
       ]
     },
@@ -48,7 +48,7 @@
           "sub": "Holofoil",
           "usd": 0.84,
           "low": 0.74,
-          "mid": 1
+          "mid": 1.25
         }
       ]
     },
@@ -65,7 +65,7 @@
           "sub": "Holofoil",
           "usd": 5.22,
           "low": 5.22,
-          "mid": 6.75
+          "mid": 6.56
         }
       ]
     },
@@ -82,7 +82,7 @@
           "sub": "Normal",
           "usd": 0.36,
           "low": 0.22,
-          "mid": 0.5
+          "mid": 0.4
         }
       ]
     },
@@ -116,7 +116,7 @@
           "sub": "Normal",
           "usd": 0.18,
           "low": 0.12,
-          "mid": 0.19
+          "mid": 0.18
         }
       ]
     },
@@ -150,7 +150,7 @@
           "sub": "Normal",
           "usd": 0.2,
           "low": 0.09,
-          "mid": 0.22
+          "mid": 0.21
         }
       ]
     },
@@ -167,7 +167,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.09,
-          "mid": 0.2
+          "mid": 0.19
         }
       ]
     },
@@ -184,7 +184,7 @@
           "sub": "Normal",
           "usd": 0.11,
           "low": 0.09,
-          "mid": 0.17
+          "mid": 0.16
         }
       ]
     },
@@ -218,7 +218,7 @@
           "sub": "Normal",
           "usd": 0.14,
           "low": 0.08,
-          "mid": 0.16
+          "mid": 0.15
         }
       ]
     },
@@ -235,7 +235,7 @@
           "sub": "Normal",
           "usd": 0.11,
           "low": 0.09,
-          "mid": 0.17
+          "mid": 0.16
         }
       ]
     },
@@ -286,7 +286,7 @@
           "sub": "Normal",
           "usd": 0.45,
           "low": 0.32,
-          "mid": 0.4
+          "mid": 0.39
         }
       ]
     },
@@ -322,7 +322,7 @@
           "sub": "Holofoil",
           "usd": 6.48,
           "low": 4,
-          "mid": 7
+          "mid": 6.95
         }
       ]
     },
@@ -357,8 +357,8 @@
         {
           "sub": "Holofoil",
           "usd": 74.63,
-          "low": 70,
-          "mid": 74.99
+          "low": 61.65,
+          "mid": 72.5
         }
       ]
     },
@@ -410,9 +410,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 17.72,
-          "low": 12.12,
-          "mid": 17.99
+          "usd": 16.82,
+          "low": 13.52,
+          "mid": 17.76
         }
       ]
     },
@@ -448,7 +448,7 @@
           "sub": "Holofoil",
           "usd": 15.81,
           "low": 8.8,
-          "mid": 15.99
+          "mid": 15.91
         }
       ]
     },
@@ -466,7 +466,7 @@
           "sub": "Holofoil",
           "usd": 13.15,
           "low": 11.99,
-          "mid": 13.62
+          "mid": 13.96
         }
       ]
     },
@@ -482,7 +482,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 40.29,
+          "usd": 40.57,
           "low": 43.99,
           "mid": 44.1
         }
@@ -532,14 +532,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638010_200w.jpg",
       "url": "https://www.tcgplayer.com/product/638010/dragon-ball-super-fusion-world-starter-deck-10-giblet-broly-br-bonus-pack-alternate-art",
-      "prices": [
-        {
-          "sub": "Holofoil",
-          "usd": 311.03,
-          "low": 310.99,
-          "mid": 310.99
-        }
-      ]
+      "prices": []
     },
     {
       "id": 638012,
@@ -555,7 +548,7 @@
           "sub": "Holofoil",
           "usd": 112.21,
           "low": 113.99,
-          "mid": 157
+          "mid": 145
         }
       ]
     },
@@ -591,7 +584,7 @@
           "sub": "Holofoil",
           "usd": 5.53,
           "low": 5.99,
-          "mid": 6.9
+          "mid": 6.89
         }
       ]
     },
@@ -625,9 +618,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 85.76,
-          "low": 128.99,
-          "mid": 165.99
+          "usd": 91.93,
+          "low": 137.99,
+          "mid": 150
         }
       ]
     },
@@ -643,10 +636,10 @@
           "sub": "Normal",
           "usd": 3.65,
           "low": 14.5,
-          "mid": 18.51
+          "mid": 17.25
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-07"
+  "pricesAt": "2026-11-08"
 }

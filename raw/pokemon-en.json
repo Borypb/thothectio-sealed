@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-07T10:42:33.125Z",
+  "harvestedAt": "2026-11-08T10:47:21.669Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-05T13:49:08.647",
+      "modifiedOn": "2026-11-06T20:20:09.83",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -23580,7 +23580,8 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712112_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712112/pokemon-me06-delta-reign-delta-reign-sleeved-booster-pack"
         }
-      ]
+      ],
+      "setCode": "me06"
     },
     "24837": {
       "name": "ME: 30th Celebration Classic Collection",

@@ -11,7 +11,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.6,
+          "usd": 7.42,
           "low": 3.99,
           "mid": 6.45
         }
@@ -27,7 +27,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.93,
+          "usd": 8.83,
           "low": 6.5,
           "mid": 9.32
         }
@@ -43,7 +43,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.13,
+          "usd": 7.15,
           "low": 5.4,
           "mid": 7.25
         }
@@ -248,8 +248,15 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730020_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730020/palworld-official-card-game-palworld-prototype-cards-frostallion-noct-saddle-epr-028",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.01,
+          "low": 13,
+          "mid": 14.01
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-11-07"
+  "pricesAt": "2026-11-08"
 }

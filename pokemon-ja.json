@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "game": "pokemon",
   "lang": "ja",
   "products": [
@@ -304,6 +304,9 @@
       "kind": "booster_box",
       "name": "MEGA Expansion 30th Celebration Booster Box",
       "lang": "ja",
+      "setIds": [
+        "pkm-M6a"
+      ],
       "releasedAt": "2026-09-16",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/718620_200w.jpg",
       "source": {
@@ -2058,6 +2061,9 @@
       "kind": "deck",
       "name": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」",
       "lang": "ja",
+      "setIds": [
+        "pkm-WCS23"
+      ],
       "releasedAt": "2023-07-28",
       "image": "https://www.pokemon-card.com/products/2023/images/wcs23_deck.jpg",
       "msrp": {

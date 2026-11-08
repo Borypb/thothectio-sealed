@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -50,7 +50,17 @@
       "kind": "build_battle",
       "name": "Delta Reign Build & Battle Box",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-20",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 4
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712101_200w.jpg",
       "source": {
         "tcgplayer": 712101
@@ -156,6 +166,9 @@
       "kind": "blister",
       "name": "Delta Reign 3 Pack Blister [Seel]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712093_200w.jpg",
       "source": {
@@ -167,7 +180,17 @@
       "kind": "booster_box",
       "name": "Delta Reign Booster Box",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 36
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
       "source": {
         "tcgplayer": 712094
@@ -178,7 +201,17 @@
       "kind": "booster_box",
       "name": "Delta Reign Half Booster Box",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 36
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712095_200w.jpg",
       "source": {
         "tcgplayer": 712095
@@ -189,7 +222,17 @@
       "kind": "bundle",
       "name": "Delta Reign Booster Bundle",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 6
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712097_200w.jpg",
       "source": {
         "tcgplayer": 712097
@@ -200,6 +243,9 @@
       "kind": "booster",
       "name": "Delta Reign Booster Pack",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712099_200w.jpg",
       "source": {
@@ -211,7 +257,17 @@
       "kind": "etb",
       "name": "Delta Reign Elite Trainer Box",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 9
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712102_200w.jpg",
       "source": {
         "tcgplayer": 712102
@@ -222,7 +278,17 @@
       "kind": "etb",
       "name": "Delta Reign Pokemon Center Elite Trainer Box (Exclusive)",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 9
+        }
+      ],
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712104_200w.jpg",
       "source": {
         "tcgplayer": 712104
@@ -233,6 +299,9 @@
       "kind": "blister",
       "name": "Delta Reign Premium Checklane Blister [Ampharos Line]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712106_200w.jpg",
       "source": {
@@ -244,6 +313,9 @@
       "kind": "blister",
       "name": "Delta Reign Premium Checklane Blister [Delphox Line]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712107_200w.jpg",
       "source": {
@@ -255,6 +327,9 @@
       "kind": "blister",
       "name": "Delta Reign Single Pack Blister [Spritzee]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712108_200w.jpg",
       "source": {
@@ -266,6 +341,9 @@
       "kind": "blister",
       "name": "Delta Reign Single Pack Blister (Target Exclusive) [Keldeo]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712109_200w.jpg",
       "source": {
@@ -277,6 +355,9 @@
       "kind": "blister",
       "name": "Delta Reign Single Pack Blister (Target Exclusive) [Xerneas]",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712110_200w.jpg",
       "source": {
@@ -288,6 +369,9 @@
       "kind": "booster",
       "name": "Delta Reign Sleeved Booster Pack",
       "lang": "en",
+      "setIds": [
+        "pkm-me06"
+      ],
       "releasedAt": "2026-11-06",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712112_200w.jpg",
       "source": {

@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-07T10:42:34.779Z",
+  "harvestedAt": "2026-11-08T10:47:22.690Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -2495,7 +2495,8 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/594103_200w.jpg",
           "url": "https://www.tcgplayer.com/product/594103/pokemon-japan-wcs23-2023-world-championships-yokohama-deck-pikachu-2023-world-championships-yokohama-deck-pikachu-ex"
         }
-      ]
+      ],
+      "setCode": "WCS23"
     },
     "23803": {
       "name": "SV: ex Start Decks",
@@ -2955,14 +2956,16 @@
       "abbreviation": "sC",
       "modifiedOn": "2026-10-07T16:09:11.417",
       "publishedOn": "2020-03-27",
-      "products": []
+      "products": [],
+      "setCode": "SC"
     },
     "23855": {
       "name": "sC: Grimmsnarl Starter Set VMAX",
       "abbreviation": "sC",
       "modifiedOn": "2026-06-25T13:42:10.167",
       "publishedOn": "2020-03-27",
-      "products": []
+      "products": [],
+      "setCode": "SC"
     },
     "23856": {
       "name": "sp1: Zacian + Zamazenta Box",
@@ -3294,7 +3297,8 @@
       "abbreviation": "BW2",
       "modifiedOn": "2024-12-10T17:06:43.363",
       "publishedOn": "2011-07-15",
-      "products": []
+      "products": [],
+      "setCode": "BW2"
     },
     "23896": {
       "name": "BW3: Psycho Drive",
@@ -3315,7 +3319,8 @@
       "abbreviation": "BW4",
       "modifiedOn": "2024-12-11T13:11:17.393",
       "publishedOn": "2011-12-16",
-      "products": []
+      "products": [],
+      "setCode": "BW4"
     },
     "23899": {
       "name": "BW5: Dragon Blast",
@@ -3350,7 +3355,8 @@
       "abbreviation": "BW7",
       "modifiedOn": "2024-12-11T21:22:34.803",
       "publishedOn": "2012-09-14",
-      "products": []
+      "products": [],
+      "setCode": "BW7"
     },
     "23904": {
       "name": "BW8: Spiral Force",
@@ -3371,7 +3377,8 @@
       "abbreviation": "BW9",
       "modifiedOn": "2024-12-12T00:28:11.247",
       "publishedOn": "2013-03-15",
-      "products": []
+      "products": [],
+      "setCode": "BW9"
     },
     "23908": {
       "name": "XY-P: XY Promos",
@@ -6255,7 +6262,8 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/718621_200w.jpg",
           "url": "https://www.tcgplayer.com/product/718621/pokemon-japan-m6a-mega-expansion-30th-celebration-mega-expansion-30th-celebration-booster-pack"
         }
-      ]
+      ],
+      "setCode": "M6a"
     },
     "24781": {
       "name": "Mega Evolution Era Unnumbered Energies",
@@ -6368,7 +6376,8 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/716802_200w.jpg",
           "url": "https://www.tcgplayer.com/product/716802/pokemon-japan-mf-30th-celebration-premium-deck-set-espeon-and-umbreon-30th-celebration-premium-deck-set-espeon-and-umbreon"
         }
-      ]
+      ],
+      "setCode": "MF"
     },
     "24862": {
       "name": "LEGEND Era Unnumbered Energies",

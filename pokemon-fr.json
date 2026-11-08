@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "game": "pokemon",
   "lang": "fr",
   "products": [
@@ -24,6 +24,29 @@
       }
     },
     {
+      "id": "pkm-fr-me06-build_battle",
+      "kind": "build_battle",
+      "name": "Kit d'avant-première Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-20",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 4
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712101_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712101",
+        "en": "Delta Reign Build & Battle Box"
+      }
+    },
+    {
       "id": "pkm-fr-tcp718643",
       "kind": "deck",
       "name": "Deck de Combat de Ligue – Méga-Amphinobi ex",
@@ -34,6 +57,98 @@
       "derived": {
         "from": "tcgplayer:718643",
         "en": "League Battle Deck [Mega Greninja ex]"
+      }
+    },
+    {
+      "id": "pkm-fr-me06-booster",
+      "kind": "booster",
+      "name": "Booster Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 1
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712099_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712099",
+        "en": "Delta Reign Booster Pack"
+      }
+    },
+    {
+      "id": "pkm-fr-me06-booster_box",
+      "kind": "booster_box",
+      "name": "Display Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 36
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712094",
+        "en": "Delta Reign Booster Box"
+      }
+    },
+    {
+      "id": "pkm-fr-me06-bundle",
+      "kind": "bundle",
+      "name": "Bundle de 6 boosters Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 6
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712097_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712097",
+        "en": "Delta Reign Booster Bundle"
+      }
+    },
+    {
+      "id": "pkm-fr-me06-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me06",
+          "qty": 9
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712102_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712102",
+        "en": "Delta Reign Elite Trainer Box"
       }
     },
     {
@@ -108,6 +223,44 @@
       "derived": {
         "from": "tcgplayer:704193",
         "en": "30th Celebration Figure Collection [Mew]"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp712093",
+      "kind": "blister",
+      "name": "Tripack Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "editions": [
+        "Otaria"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712093_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712093",
+        "en": "Delta Reign 3 Pack Blister [Seel]"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp712108",
+      "kind": "blister",
+      "name": "Blister Règne Delta",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me06"
+      ],
+      "releasedAt": "2026-11-06",
+      "editions": [
+        "Fluvetin"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712108_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:712108",
+        "en": "Delta Reign Single Pack Blister [Spritzee]"
       }
     },
     {

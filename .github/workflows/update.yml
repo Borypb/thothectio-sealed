@@ -27,6 +27,10 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 24
+      # images d'attente de TCGplayer (scripts/tcgplayer-placeholders.mjs) : empreinte des images avec sharp ;
+      # s'il ne s'installe pas, le script compare seulement les fichiers
+      - run: npm install --no-save --no-package-lock --no-audit --no-fund sharp@0.34.4
+        continue-on-error: true
       - run: node scripts/update.mjs
       - name: Publier si quelque chose a changé
         run: |

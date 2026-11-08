@@ -11,10 +11,13 @@
 //   l'app s'en sert pour montrer l'image TCGplayer (impression anglaise) d'une carte dont TCGdex n'a pas d'image
 //   (vieilles cartes françaises, promos…) ; le scan à l'image aussi. Produit pris d'abord dans la fiche de la carte
 //   chez TCGdex (champ thirdParty.tcgplayer), sinon le produit TCGplayer de même numéro dans le groupe de l'extension.
+//   Les produits dont l'image est encore une image d'attente de TCGplayer (dos de carte d'une extension qui vient de
+//   sortir) n'y figurent pas : voir tcgplayer-placeholders.mjs.
 import { execFileSync } from "node:child_process";
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import { getJson, writeJson } from "./lib.mjs";
+import { checkTcgplayerImages, RECENT_MS, waitingProducts } from "./tcgplayer-placeholders.mjs";
 
 const TCGCSV = "https://tcgcsv.com/tcgplayer";
 const REPO = "https://github.com/tcgdex/cards-database.git";
@@ -115,11 +118,17 @@ export async function pokemonVariants() {
   const out = {};
   // images : produit TCGplayer de chaque carte, d'abord celui que donne TCGdex dans la fiche de la carte
   const images = {};
+  /** nom de la carte de chaque produit (repérage des images d'attente) */
+  const names = new Map();
   const cardsOf = new Map();
   for (const [id, s] of sets) {
     const cards = tcgdexCards(s.dir);
     cardsOf.set(id, cards);
-    for (const [k, c] of cards) if (c.pid) (images[id] ??= {})[k] = c.pid;
+    for (const [k, c] of cards) {
+      if (!c.pid) continue;
+      (images[id] ??= {})[k] = c.pid;
+      names.set(c.pid, c.en);
+    }
   }
   let done = 0;
   for (const [group, ids] of byGroup) {
@@ -140,19 +149,55 @@ export async function pokemonVariants() {
       }
       for (const id of ids) {
         out[id] = cards;
-        for (const [k, p] of Object.entries(pids)) if (!images[id]?.[k]) (images[id] ??= {})[k] = p.id;
+        for (const [k, p] of Object.entries(pids)) {
+          if (!names.has(p.id)) names.set(p.id, p.name);
+          if (!images[id]?.[k]) (images[id] ??= {})[k] = p.id;
+        }
       }
     } catch (e) {
       console.warn(`groupe ${group} (${ids.join(", ")}) : ${e.message}`);
     }
     if (++done % 50 === 0) console.log(`versions Pokémon : ${done}/${byGroup.size} groupes`);
   }
+  await dropWaitingImages(images, names, groups, byGroup);
   const league = await leagueCards(sets, cardsOf);
   await writeJson("cards/pokemon-variants.json", { updatedAt: new Date().toISOString().slice(0, 10), sets: out, league });
   await writeJson("cards/pokemon-tcgplayer.json", { updatedAt: new Date().toISOString().slice(0, 10), sets: images });
   const leagueCount = Object.values(league).reduce((n, x) => n + Object.keys(x).length, 0);
   const imageCount = Object.values(images).reduce((n, x) => n + Object.keys(x).length, 0);
   console.log(`versions Pokémon : ${Object.keys(out).length} extensions TCGdex, ${leagueCount} cartes tamponnées Ligue, ${imageCount} images TCGplayer`);
+}
+
+/**
+ * Images d'attente de TCGplayer (dos de carte des extensions qui viennent de sortir) : vérifiées pour les extensions
+ * des 6 derniers mois et pour les produits encore en attente au dernier passage, puis retirées de `images`.
+ * L'app montre alors son propre dos de carte (aucun visuel), et l'index du scan ne les prend pas.
+ */
+async function dropWaitingImages(images, names, groups, byGroup) {
+  const recent = new Set(groups.filter((g) => Date.now() - Date.parse(g.publishedOn ?? "") < RECENT_MS).map((g) => g.groupId));
+  const recentSets = new Set([...byGroup].filter(([g]) => recent.has(g)).flatMap(([, ids]) => ids));
+  const before = await waitingProducts();
+  const products = [];
+  for (const [id, cards] of Object.entries(images)) {
+    for (const pid of Object.values(cards)) if (recentSets.has(id) || before.has(pid)) products.push({ pid, name: names.get(pid) });
+  }
+  let waiting;
+  try {
+    waiting = await checkTcgplayerImages("pokemon", products);
+  } catch (e) {
+    // vérification impossible : on retire au moins les images déjà connues comme images d'attente
+    console.warn(`images TCGplayer (pokemon) : vérification impossible (${e.message})`);
+    waiting = before;
+  }
+  let dropped = 0;
+  for (const cards of Object.values(images)) {
+    for (const [k, pid] of Object.entries(cards)) {
+      if (!waiting.has(pid)) continue;
+      delete cards[k];
+      dropped++;
+    }
+  }
+  if (dropped) console.log(`versions Pokémon : ${dropped} images TCGplayer en attente retirées`);
 }
 
 /**

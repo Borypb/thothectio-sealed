@@ -80,6 +80,13 @@ médian des annonces (`mid`) en plus du prix du marché (`usd`), pour la fenêtr
 
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
+**Images d'attente de TCGplayer** (`tcgplayer-placeholders.mjs`) : sur une extension qui vient de sortir, TCGplayer
+met souvent une image provisoire (dos de carte) tant que la vraie photo n'est pas prête, puis la remplace à la même
+adresse. Le robot compare les images des extensions des 6 derniers mois (même image sur au moins 5 cartes de noms
+différents = image d'attente) : elles sortent de `cards/pokemon-tcgplayer.json`, et dans `cards/<licence>/` l'adresse
+passe de `image` à `pendingImage` jusqu'à l'arrivée de la vraie photo. Liste pour l'app :
+`cards/tcgplayer-waiting.json` (`waiting` : encore en attente ; `cleared` : vraie photo arrivée, 30 derniers jours).
+
 **Relance après échec** (`.github/workflows/relance.yml`) : quand une tâche du robot échoue (site source
 injoignable, panne passagère), ses étapes en échec sont relancées 15 min plus tard, puis 1 h après le premier
 échec si besoin. Deux essais au plus, jamais de relance d'une relance : pas de boucle. Tout se passe sur GitHub,

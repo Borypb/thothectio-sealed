@@ -1,9 +1,12 @@
 // Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk),
 // depuis le catalogue TCGplayer (TCGCSV). Images du CDN TCGplayer, cote du marché américain en $.
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
+// Image d'attente de TCGplayer (dos de carte d'une extension qui vient de sortir, tcgplayer-placeholders.mjs) : l'adresse
+// passe de `image` à `pendingImage` (l'app ne la montre pas) et revient dans `image` quand la vraie photo arrive.
 // Sortie : cards/index.json + cards/<licence>/<groupId>.json
 import { createHash } from "node:crypto";
 import { getJson, readJson, writeJson } from "./lib.mjs";
+import { checkTcgplayerImages, RECENT_MS } from "./tcgplayer-placeholders.mjs";
 
 const TCGCSV = "https://tcgcsv.com/tcgplayer";
 
@@ -104,6 +107,29 @@ export async function writeNames(game, sets) {
 
 const hash = (x) => createHash("sha1").update(JSON.stringify(x)).digest("hex").slice(0, 12);
 
+/** extension des 6 derniers mois, ou qui a encore des images en attente : images vérifiées */
+async function holdWaitingImages(game, group, data) {
+  const recent = Date.now() - Date.parse(group.publishedOn ?? "") < RECENT_MS;
+  if (!recent && !data.cards.some((c) => c.pendingImage)) return;
+  const products = data.cards.filter((c) => c.image || c.pendingImage).map((c) => ({ pid: c.id, name: c.name }));
+  let waiting;
+  try {
+    waiting = await checkTcgplayerImages(game, products);
+  } catch (e) {
+    console.warn(`images TCGplayer (${game}) : vérification impossible (${e.message})`);
+    return;
+  }
+  for (const c of data.cards) {
+    if (waiting.has(c.id) && c.image) {
+      c.pendingImage = c.image;
+      delete c.image;
+    } else if (!waiting.has(c.id) && c.pendingImage) {
+      c.image = c.pendingImage;
+      delete c.pendingImage;
+    }
+  }
+}
+
 export async function cards() {
   const index = await readJson("cards/index.json", { version: 1, games: {} });
   const cats = (await getJson(`${TCGCSV}/categories`)).results ?? [];
@@ -144,6 +170,7 @@ export async function cards() {
         };
       }
       if (!data.cards.length) continue;
+      await holdWaitingImages(game, g, data);
       // cotes du jour : une ligne par finition (Normal, Foil…). usd : prix du marché (ventes), sinon milieu, sinon bas ;
       // low / mid : annonce la moins chère et prix médian des annonces en cours (détail des prix dans l'app).
       // Pas de prix « haut » : c'est l'annonce la plus chère, pas une vente.

@@ -9,7 +9,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715265_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715265/cyberpunk-tcg-the-heist-retail-starter-deck-viktor-vektor-sit-down-and-relax",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715266,
@@ -19,7 +26,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715266/cyberpunk-tcg-the-heist-retail-starter-deck-dexter-deshawn-one-last-chance",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6,
+          "low": 6,
+          "mid": 6
+        }
+      ]
     },
     {
       "id": 715267,
@@ -76,9 +90,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.15,
           "low": 0.14,
-          "mid": 0.14
+          "mid": 0.15
         }
       ]
     },
@@ -144,7 +158,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715275_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715275/cyberpunk-tcg-the-heist-retail-starter-deck-jackie-welles-pour-one-out-for-me",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715276,
@@ -154,7 +175,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715276_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715276/cyberpunk-tcg-the-heist-retail-starter-deck-v-corporate-exile",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715277,
@@ -198,7 +226,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715279_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715279/cyberpunk-tcg-the-heist-retail-starter-deck-mt0d12-flathead",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.5,
+          "low": 12,
+          "mid": 12
+        }
+      ]
     },
     {
       "id": 715280,
@@ -286,5 +321,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-08"
+  "pricesAt": "2026-11-09"
 }

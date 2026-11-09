@@ -43,7 +43,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715221_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715221/cyberpunk-tcg-embracing-power-retail-starter-deck-minotaur",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
     },
     {
       "id": 715222,
@@ -73,9 +80,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.15,
           "low": 0.14,
-          "mid": 0.14
+          "mid": 0.15
         }
       ]
     },
@@ -114,14 +121,7 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715226_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715226/cyberpunk-tcg-embracing-power-retail-starter-deck-satori-sword-of-saburo",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.13,
-          "low": 0.13,
-          "mid": 0.13
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715227,
@@ -182,7 +182,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715230_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715230/cyberpunk-tcg-embracing-power-retail-starter-deck-goro-takemura-hands-unclean",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715231,
@@ -192,7 +199,14 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715231_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715231/cyberpunk-tcg-embracing-power-retail-starter-deck-saburo-arasaka-stubborn-patriarch",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715232,
@@ -222,9 +236,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1,
+          "usd": 0.13,
           "low": 0.1,
-          "mid": 0.1
+          "mid": 0.13
         }
       ]
     },
@@ -253,7 +267,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715235_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715235/cyberpunk-tcg-embracing-power-retail-starter-deck-goro-takemura-losing-his-way",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 715236,
@@ -307,5 +328,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-08"
+  "pricesAt": "2026-11-09"
 }

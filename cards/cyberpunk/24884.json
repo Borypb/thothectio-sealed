@@ -9,7 +9,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719684_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719684/cyberpunk-tcg-night-city-brawl-season-1-kerry-eurodyne-the-last-rockerboy",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 30,
+          "mid": 30
+        }
+      ]
     },
     {
       "id": 719685,
@@ -43,8 +50,8 @@
         {
           "sub": "Foil",
           "usd": 31.67,
-          "low": 50,
-          "mid": 75
+          "low": 39,
+          "mid": 40
         }
       ]
     },
@@ -86,7 +93,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719691_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719691/cyberpunk-tcg-night-city-brawl-season-1-cyberpsychosis",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.6,
+          "low": 25,
+          "mid": 26.5
+        }
+      ]
     },
     {
       "id": 719692,
@@ -96,7 +110,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719692_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719692/cyberpunk-tcg-night-city-brawl-season-1-corpo-security",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 21.25,
+          "low": 23,
+          "mid": 23.49
+        }
+      ]
     },
     {
       "id": 719693,
@@ -116,7 +137,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719694_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719694/cyberpunk-tcg-night-city-brawl-season-1-wraith-marauders",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 20,
+          "mid": 21.88
+        }
+      ]
     },
     {
       "id": 719695,
@@ -127,7 +155,14 @@
       "type": "Program",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719695_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719695/cyberpunk-tcg-night-city-brawl-season-1-dont-fear-the-reaper",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 28,
+          "mid": 29
+        }
+      ]
     },
     {
       "id": 719696,
@@ -147,7 +182,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719697_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719697/cyberpunk-tcg-night-city-brawl-season-1-delamain-cab",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 719698,
@@ -157,7 +199,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/719698_200w.jpg",
       "url": "https://www.tcgplayer.com/product/719698/cyberpunk-tcg-night-city-brawl-season-1-maman-brigitte-spirit-of-death",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25,
+          "low": 25,
+          "mid": 25
+        }
+      ]
     },
     {
       "id": 719699,
@@ -190,5 +239,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-08"
+  "pricesAt": "2026-11-09"
 }

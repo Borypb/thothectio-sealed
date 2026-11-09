@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": {
     "lor-en-tcp559531": {
       "tp": {
         "market": 481.91,
-        "low": 450.01
+        "low": 435.01
       }
     },
     "lor-en-tcp711071": {
       "tp": {
-        "market": 143.75,
-        "low": 145.98
+        "market": 144.23,
+        "low": 144.98
       }
     },
     "lor-en-tcp482406": {
@@ -21,8 +21,8 @@
     },
     "lor-en-tcp482407": {
       "tp": {
-        "market": 85.24,
-        "low": 99.99
+        "market": 87.04,
+        "low": 100
       }
     },
     "lor-en-tcp482411": {
@@ -51,7 +51,7 @@
     },
     "lor-en-tcp485256": {
       "tp": {
-        "market": 427.35,
+        "market": 421.35,
         "low": 404.99
       }
     },
@@ -87,7 +87,7 @@
     },
     "lor-en-tcp666352": {
       "tp": {
-        "market": 54.98,
+        "market": 55.69,
         "low": 50
       }
     },
@@ -99,14 +99,14 @@
     },
     "lor-en-tcp712752": {
       "tp": {
-        "market": 188.72,
-        "low": 181
+        "market": 188.76,
+        "low": 183
       }
     },
     "lor-en-tcp721004": {
       "tp": {
         "market": 73.25,
-        "low": 64.95
+        "low": 59.94
       }
     },
     "lor-en-tcp516276": {
@@ -213,7 +213,7 @@
     },
     "lor-en-tcp531528": {
       "tp": {
-        "market": 27.53,
+        "market": 27.58,
         "low": 14.99
       }
     },
@@ -261,7 +261,7 @@
     },
     "lor-en-tcp543863": {
       "tp": {
-        "market": 9.32,
+        "market": 9.22,
         "low": 4.49
       }
     },
@@ -322,7 +322,7 @@
     "lor-en-tcp555143": {
       "tp": {
         "market": 18.43,
-        "low": 10.98
+        "low": 14.2
       }
     },
     "lor-en-tcp555144": {
@@ -361,6 +361,12 @@
         "low": 5
       }
     },
+    "lor-en-tcp690740": {
+      "tp": {
+        "market": 267.13,
+        "low": 1000
+      }
+    },
     "lor-en-tcp578093": {
       "tp": {
         "market": 120.35,
@@ -370,12 +376,12 @@
     "lor-en-tcp578094": {
       "tp": {
         "market": 442.44,
-        "low": 510
+        "low": 506
       }
     },
     "lor-en-tcp578095": {
       "tp": {
-        "market": 4.7,
+        "market": 4.73,
         "low": 4.1
       }
     },
@@ -423,25 +429,25 @@
     },
     "lor-en-tcp607758": {
       "tp": {
-        "market": 146.5,
+        "market": 145.48,
         "low": 134.5
       }
     },
     "lor-en-tcp607759": {
       "tp": {
         "market": 584.81,
-        "low": 588
+        "low": 584.9
       }
     },
     "lor-en-tcp607760": {
       "tp": {
-        "market": 6.85,
+        "market": 6.83,
         "low": 5.2
       }
     },
     "lor-en-tcp607761": {
       "tp": {
-        "market": 47.19,
+        "market": 47.16,
         "low": 44.99
       }
     },
@@ -454,7 +460,7 @@
     "lor-en-tcp607763": {
       "tp": {
         "market": 30.13,
-        "low": 35
+        "low": 34
       }
     },
     "lor-en-tcp607765": {
@@ -531,7 +537,7 @@
     },
     "lor-en-tcp623064": {
       "tp": {
-        "market": 156.2,
+        "market": 156.06,
         "low": 151.49
       }
     },
@@ -543,32 +549,32 @@
     },
     "lor-en-tcp690743": {
       "tp": {
-        "market": 229.67,
+        "market": 229.12,
         "low": 216.5
       }
     },
     "lor-en-tcp645298": {
       "tp": {
-        "market": 823.44,
+        "market": 821.77,
         "low": 798
       }
     },
     "lor-en-tcp645299": {
       "tp": {
         "market": 291.41,
-        "low": 279.99
+        "low": 279.01
       }
     },
     "lor-en-tcp645300": {
       "tp": {
         "market": 3487.75,
-        "low": 4254.96
+        "low": 4100
       }
     },
     "lor-en-tcp645305": {
       "tp": {
         "market": 52.75,
-        "low": 71.25
+        "low": 72.5
       }
     },
     "lor-en-tcp645306": {
@@ -603,7 +609,7 @@
     },
     "lor-en-tcp652306": {
       "tp": {
-        "market": 32.32,
+        "market": 32.38,
         "low": 29.99
       }
     },
@@ -627,13 +633,13 @@
     },
     "lor-en-tcp652701": {
       "tp": {
-        "market": 11.23,
-        "low": 11.23
+        "market": 11.31,
+        "low": 11.35
       }
     },
     "lor-en-tcp652703": {
       "tp": {
-        "market": 213.02,
+        "market": 213.22,
         "low": 199
       }
     },
@@ -693,13 +699,13 @@
     },
     "lor-en-tcp664821": {
       "tp": {
-        "market": 10.72,
+        "market": 10.64,
         "low": 8.39
       }
     },
     "lor-en-tcp664822": {
       "tp": {
-        "market": 10.78,
+        "market": 10.76,
         "low": 9.99
       }
     },
@@ -711,7 +717,7 @@
     },
     "lor-en-tcp668328": {
       "tp": {
-        "market": 24.55,
+        "market": 24.53,
         "low": 19.99
       }
     },
@@ -729,26 +735,26 @@
     },
     "lor-en-tcp678165": {
       "tp": {
-        "market": 223.89,
+        "market": 223.75,
         "low": 218
       }
     },
     "lor-en-tcp678166": {
       "tp": {
-        "market": 903.89,
-        "low": 903.89
+        "market": 905.89,
+        "low": 905.89
       }
     },
     "lor-en-tcp678167": {
       "tp": {
-        "market": 8.51,
+        "market": 8.33,
         "low": 6.5
       }
     },
     "lor-en-tcp678168": {
       "tp": {
-        "market": 101.03,
-        "low": 94.91
+        "market": 101.02,
+        "low": 95.92
       }
     },
     "lor-en-tcp680711": {
@@ -759,19 +765,19 @@
     },
     "lor-en-tcp682038": {
       "tp": {
-        "market": 14.05,
+        "market": 12.59,
         "low": 5
       }
     },
     "lor-en-tcp682040": {
       "tp": {
-        "market": 10.81,
+        "market": 10.76,
         "low": 9.49
       }
     },
     "lor-en-tcp682077": {
       "tp": {
-        "market": 71.95,
+        "market": 71.99,
         "low": 69.99
       }
     },
@@ -795,13 +801,13 @@
     },
     "lor-en-tcp690384": {
       "tp": {
-        "market": 175.76,
-        "low": 175
+        "market": 176.64,
+        "low": 178.99
       }
     },
     "lor-en-tcp690385": {
       "tp": {
-        "market": 770,
+        "market": 768.48,
         "low": 729
       }
     },
@@ -819,13 +825,13 @@
     },
     "lor-en-tcp690388": {
       "tp": {
-        "market": 84.24,
+        "market": 84.56,
         "low": 76.8
       }
     },
     "lor-en-tcp690389": {
       "tp": {
-        "market": 63.39,
+        "market": 62.88,
         "low": 60
       }
     },
@@ -849,25 +855,25 @@
     },
     "lor-en-tcp701135": {
       "tp": {
-        "market": 34.36,
+        "market": 34.45,
         "low": 35
       }
     },
     "lor-en-tcp706239": {
       "tp": {
-        "market": 124.78,
+        "market": 125.64,
         "low": 1
       }
     },
     "lor-en-tcp706240": {
       "tp": {
-        "market": 523.14,
-        "low": 507.99
+        "market": 509.99,
+        "low": 510
       }
     },
     "lor-en-tcp706241": {
       "tp": {
-        "market": 6.96,
+        "market": 6.87,
         "low": 6.48
       }
     },
@@ -879,7 +885,7 @@
     },
     "lor-en-tcp706243": {
       "tp": {
-        "market": 68.5,
+        "market": 68.64,
         "low": 63
       }
     },
@@ -891,7 +897,7 @@
     },
     "lor-en-tcp706245": {
       "tp": {
-        "market": 40.02,
+        "market": 39.35,
         "low": 38
       }
     },
@@ -903,7 +909,7 @@
     },
     "lor-en-tcp717854": {
       "tp": {
-        "market": 22.16,
+        "market": 21.76,
         "low": 17.81
       }
     },
@@ -915,8 +921,8 @@
     },
     "lor-en-tcp719729": {
       "tp": {
-        "market": 69.15,
-        "low": 68.81
+        "market": 69.13,
+        "low": 68.82
       }
     },
     "lor-en-tcp723333": {
@@ -926,14 +932,14 @@
     },
     "lor-en-tcp723336": {
       "tp": {
-        "market": 298.65,
+        "market": 298.2,
         "low": 287.99
       }
     },
     "lor-en-tcp723337": {
       "tp": {
         "market": 999.99,
-        "low": 869.68
+        "low": 868.94
       }
     },
     "lor-en-tcp723341": {
@@ -944,8 +950,8 @@
     },
     "lor-en-tcp723343": {
       "tp": {
-        "market": 108.5,
-        "low": 133.23
+        "market": 110.45,
+        "low": 129.93
       }
     }
   }

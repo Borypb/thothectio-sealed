@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": {
     "pal-en-tcp713785": {
       "tp": {
-        "market": 1271.56,
-        "low": 996
+        "market": 1249.77,
+        "low": 1000
       }
     },
     "pal-en-tcp713786": {
       "tp": {
-        "market": 85.16,
-        "low": 74.89
+        "market": 84.21,
+        "low": 82.8
       }
     },
     "pal-en-tcp713787": {
       "tp": {
-        "market": 10.01,
-        "low": 8.78
+        "market": 9.92,
+        "low": 8.69
       }
     },
     "pal-en-tcp713790": {
@@ -27,7 +27,7 @@
     },
     "pal-en-tcp713791": {
       "tp": {
-        "market": 19.49,
+        "market": 18.51,
         "low": 17.8
       }
     },
@@ -38,7 +38,7 @@
     },
     "pal-en-tcp713793": {
       "tp": {
-        "low": 1248
+        "low": 1199.99
       }
     },
     "pal-en-tcp713794": {
@@ -49,31 +49,31 @@
     },
     "pal-en-tcp713795": {
       "tp": {
-        "market": 16.37,
+        "market": 16.09,
         "low": 14.75
       }
     },
     "pal-en-tcp716519": {
       "tp": {
-        "market": 44.58,
-        "low": 40.89
+        "market": 44.05,
+        "low": 39
       }
     },
     "pal-en-tcp716520": {
       "tp": {
-        "market": 445.13,
+        "market": 443.49,
         "low": 419.86
       }
     },
     "pal-en-tcp716521": {
       "tp": {
-        "market": 7.04,
+        "market": 6.92,
         "low": 4.4
       }
     },
     "pal-en-tcp722750": {
       "tp": {
-        "market": 20.22,
+        "market": 18.47,
         "low": 12.46
       }
     },
@@ -85,18 +85,19 @@
     },
     "pal-en-tcp730003": {
       "tp": {
-        "market": 33.67,
+        "market": 33.2,
         "low": 30
       }
     },
     "pal-en-tcp723330": {
       "tp": {
-        "low": 1197
+        "low": 1196.99
       }
     },
     "pal-en-tcp730047": {
       "tp": {
-        "low": 87.5
+        "market": 89.49,
+        "low": 87.49
       }
     }
   }

@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-09T12:59:59.163Z",
+  "harvestedAt": "2026-11-10T12:45:04.916Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -776,7 +776,7 @@
     "20": {
       "name": "Champions of Kamigawa",
       "abbreviation": "CHK",
-      "modifiedOn": "2026-09-19T16:16:02.36",
+      "modifiedOn": "2026-11-09T13:46:44.053",
       "publishedOn": "2004-10-01",
       "setId": "mtg-chk",
       "products": [
@@ -2928,7 +2928,7 @@
     "73": {
       "name": "Mercadian Masques",
       "abbreviation": "MMQ",
-      "modifiedOn": "2026-09-09T20:41:56.183",
+      "modifiedOn": "2026-11-09T13:47:54.357",
       "publishedOn": "1999-10-04",
       "setId": "mtg-mmq",
       "products": [
@@ -9468,7 +9468,7 @@
     "1792": {
       "name": "Commander 2016",
       "abbreviation": "C16",
-      "modifiedOn": "2026-08-26T13:34:23.92",
+      "modifiedOn": "2026-11-09T15:36:05.937",
       "publishedOn": "2016-11-11",
       "setId": "mtg-c16",
       "products": [
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-05T16:12:13.287",
+      "modifiedOn": "2026-11-09T18:12:31.14",
       "setId": "mtg-sld",
       "products": [
         {
@@ -20764,6 +20764,142 @@
           "releasedOn": "2026-11-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/723371_200w.jpg",
           "url": "https://www.tcgplayer.com/product/723371/magic-secret-lair-drop-series-secret-lair-drop-duality-distorted-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 726584,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: New Worlds - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726584_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726584/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-new-worlds-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 726592,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: New Worlds - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726592/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-new-worlds-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 726668,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Beam Me Up - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726668_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726668/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-beam-me-up-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 726669,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Beam Me Up - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726669_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726669/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-beam-me-up-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 726671,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: tlhIngan maH - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726671_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726671/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-tlhingan-mah-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 726672,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: tlhIngan maH - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726672_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726672/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-tlhingan-mah-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 726673,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: KHAAAAAAAAN - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726673_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726673/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-khaaaaaaaan-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 726676,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: KHAAAAAAAAN - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726676_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726676/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-khaaaaaaaan-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 726679,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Lower Decks - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726679_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726679/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-lower-decks-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 726680,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Lower Decks - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726680_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/726680/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-lower-decks-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 731777,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Assimilation - Non-Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731777_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731777/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-assimilation-non-foil-edition"
+        },
+        {
+          "tcgplayerId": 731779,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek: Assimilation - Traditional Foil Edition",
+          "kind": "collection",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731779_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731779/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-assimilation-traditional-foil-edition"
+        },
+        {
+          "tcgplayerId": 731787,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: The Final Frontier Everything Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731787_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731787/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-set-phasers-to-superdrop-the-final-frontier-everything-bundle"
+        },
+        {
+          "tcgplayerId": 731788,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Warp Core Foil Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731788_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731788/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-set-phasers-to-superdrop-warp-core-foil-bundle"
+        },
+        {
+          "tcgplayerId": 731789,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Captain's Log Non-Foil Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731789_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731789/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-set-phasers-to-superdrop-captains-log-non-foil-bundle"
+        },
+        {
+          "tcgplayerId": 731790,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Rival Powers Non-Federation Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731790_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731790/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-set-phasers-to-superdrop-rival-powers-non-federation-bundle"
+        },
+        {
+          "tcgplayerId": 731791,
+          "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: United Federation Bundle",
+          "kind": "bundle",
+          "releasedOn": "2026-12-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731791_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731791/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-star-trek-set-phasers-to-superdrop-united-federation-bundle"
         }
       ]
     },
@@ -21687,8 +21823,37 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-06T18:58:11.097",
-      "products": []
+      "modifiedOn": "2026-11-09T19:40:42.767",
+      "products": [
+        {
+          "tcgplayerId": 731995,
+          "name": "Forest (0276) (WOE)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731995_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731995/magic-the-list-reprints-forest-0276-woe"
+        },
+        {
+          "tcgplayerId": 731996,
+          "name": "Forest (0285) (MKM)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731996_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731996/magic-the-list-reprints-forest-0285-mkm"
+        },
+        {
+          "tcgplayerId": 731997,
+          "name": "Forest (0401) (LCI)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731997_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731997/magic-the-list-reprints-forest-0401-lci"
+        },
+        {
+          "tcgplayerId": 731998,
+          "name": "Mountain (0400) (LCI)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731998_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731998/magic-the-list-reprints-mountain-0400-lci"
+        }
+      ]
     },
     "2716": {
       "name": "Commander: Zendikar Rising",
@@ -23690,7 +23855,7 @@
     "3026": {
       "name": "Streets of New Capenna",
       "abbreviation": "SNC",
-      "modifiedOn": "2026-10-21T13:46:08.073",
+      "modifiedOn": "2026-11-09T13:53:56.013",
       "publishedOn": "2022-04-29",
       "setId": "mtg-snc",
       "products": [
@@ -24403,7 +24568,7 @@
     "3102": {
       "name": "Dominaria United",
       "abbreviation": "DMU",
-      "modifiedOn": "2026-10-14T18:02:39.39",
+      "modifiedOn": "2026-11-09T13:51:21.353",
       "publishedOn": "2022-09-09",
       "setId": "mtg-dmu",
       "products": [
@@ -25078,7 +25243,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-11-02T16:53:16.093",
+      "modifiedOn": "2026-11-09T14:16:57.513",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -25176,7 +25341,7 @@
     "17684": {
       "name": "Phyrexia: All Will Be One",
       "abbreviation": "ONE",
-      "modifiedOn": "2026-10-26T12:57:17.263",
+      "modifiedOn": "2026-11-09T13:53:16.047",
       "publishedOn": "2023-02-03",
       "setId": "mtg-one",
       "products": [
@@ -25362,7 +25527,7 @@
     "22875": {
       "name": "March of the Machine",
       "abbreviation": "MOM",
-      "modifiedOn": "2026-09-22T22:01:29.94",
+      "modifiedOn": "2026-11-09T14:13:59.213",
       "publishedOn": "2023-04-14",
       "setId": "mtg-mom",
       "products": [
@@ -27915,7 +28080,7 @@
     "23448": {
       "name": "Commander: Bloomburrow",
       "abbreviation": "BLC",
-      "modifiedOn": "2026-10-26T19:39:05.003",
+      "modifiedOn": "2026-11-09T15:33:02.277",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blc",
       "products": [
@@ -28186,7 +28351,7 @@
     "23551": {
       "name": "Commander: Duskmourn: House of Horror",
       "abbreviation": "DSC",
-      "modifiedOn": "2026-10-29T12:50:24.387",
+      "modifiedOn": "2026-11-09T13:47:23.98",
       "publishedOn": "2024-09-27",
       "setId": "mtg-dsc",
       "products": [
@@ -28464,7 +28629,7 @@
     "23792": {
       "name": "Foundations Jumpstart",
       "abbreviation": "J25",
-      "modifiedOn": "2026-09-18T03:59:58.72",
+      "modifiedOn": "2026-11-09T13:54:31.343",
       "publishedOn": "2024-11-15",
       "setId": "mtg-j25",
       "products": [
@@ -28561,7 +28726,7 @@
     "23848": {
       "name": "Innistrad Remastered",
       "abbreviation": "INR",
-      "modifiedOn": "2026-10-15T20:46:26.227",
+      "modifiedOn": "2026-11-09T19:34:13.39",
       "publishedOn": "2025-01-24",
       "setId": "mtg-inr",
       "products": [
@@ -29574,7 +29739,7 @@
     "24234": {
       "name": "Commander: Tarkir: Dragonstorm",
       "abbreviation": "TDC",
-      "modifiedOn": "2026-10-28T11:18:36.753",
+      "modifiedOn": "2026-11-09T13:45:57.553",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdc",
       "products": [
@@ -30921,7 +31086,7 @@
     "24554": {
       "name": "Commander: Marvel Super Heroes",
       "abbreviation": "MSC",
-      "modifiedOn": "2026-10-21T13:39:58.657",
+      "modifiedOn": "2026-11-09T13:55:11.857",
       "publishedOn": "2026-06-26",
       "setId": "mtg-msc",
       "products": [
@@ -31324,7 +31489,7 @@
     "24603": {
       "name": "Secrets of Strixhaven: Mystical Archive",
       "abbreviation": "SOA",
-      "modifiedOn": "2026-10-23T19:27:08.41",
+      "modifiedOn": "2026-11-09T13:48:52.457",
       "publishedOn": "2026-04-24",
       "setId": "mtg-soa",
       "products": []
@@ -31739,7 +31904,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-11-06T14:56:55.15",
+      "modifiedOn": "2026-11-09T13:46:56.64",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -31900,7 +32065,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-11-06T15:12:15.847",
+      "modifiedOn": "2026-11-09T18:40:32.967",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [

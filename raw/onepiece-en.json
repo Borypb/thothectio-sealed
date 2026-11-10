@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-11-09T12:59:50.491Z",
+  "harvestedAt": "2026-11-10T12:44:56.031Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -268,7 +268,7 @@
     "17675": {
       "name": "One Piece Promotion Cards",
       "abbreviation": "OP-PR",
-      "modifiedOn": "2026-11-06T19:41:22.68",
+      "modifiedOn": "2026-11-09T14:10:48.57",
       "publishedOn": "2022-09-30",
       "products": [
         {
@@ -1518,6 +1518,14 @@
           "releasedOn": "2026-11-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/727130_200w.jpg",
           "url": "https://www.tcgplayer.com/product/727130/one-piece-card-game-one-piece-promotion-cards-gift-collection-one-piece-heroines-set-display"
+        },
+        {
+          "tcgplayerId": 731742,
+          "name": "CS 2023 Celebration Pack",
+          "kind": "booster",
+          "releasedOn": "2022-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731742_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731742/one-piece-card-game-one-piece-promotion-cards-cs-2023-celebration-pack"
         }
       ]
     },
@@ -4166,7 +4174,7 @@
     "24833": {
       "name": "The Dominance of God",
       "abbreviation": "OP18",
-      "modifiedOn": "2026-11-04T13:42:55.803",
+      "modifiedOn": "2026-11-09T15:42:47.21",
       "publishedOn": "2026-11-20",
       "setId": "op-op18",
       "products": [

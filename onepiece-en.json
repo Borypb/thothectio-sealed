@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "onepiece",
   "lang": "en",
   "products": [
@@ -4132,6 +4132,18 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722702_200w.jpg",
       "source": {
         "tcgplayer": 722702
+      }
+    },
+    {
+      "id": "op-en-tcp731742",
+      "game": "onepiece",
+      "kind": "booster",
+      "name": "CS 2023 Celebration Pack",
+      "lang": "en",
+      "releasedAt": "2022-09-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731742_200w.jpg",
+      "source": {
+        "tcgplayer": 731742
       }
     }
   ]

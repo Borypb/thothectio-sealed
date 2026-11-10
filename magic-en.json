@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -271,6 +271,261 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723286_200w.jpg",
       "source": {
         "tcgplayer": 723286
+      }
+    },
+    {
+      "id": "mtg-en-tcp726584",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: New Worlds - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726584_200w.jpg",
+      "source": {
+        "tcgplayer": 726584
+      }
+    },
+    {
+      "id": "mtg-en-tcp726592",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: New Worlds - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726592_200w.jpg",
+      "source": {
+        "tcgplayer": 726592
+      }
+    },
+    {
+      "id": "mtg-en-tcp726668",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Beam Me Up - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726668_200w.jpg",
+      "source": {
+        "tcgplayer": 726668
+      }
+    },
+    {
+      "id": "mtg-en-tcp726669",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Beam Me Up - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726669_200w.jpg",
+      "source": {
+        "tcgplayer": 726669
+      }
+    },
+    {
+      "id": "mtg-en-tcp726671",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: tlhIngan maH - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726671_200w.jpg",
+      "source": {
+        "tcgplayer": 726671
+      }
+    },
+    {
+      "id": "mtg-en-tcp726672",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: tlhIngan maH - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726672_200w.jpg",
+      "source": {
+        "tcgplayer": 726672
+      }
+    },
+    {
+      "id": "mtg-en-tcp726673",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: KHAAAAAAAAN - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726673_200w.jpg",
+      "source": {
+        "tcgplayer": 726673
+      }
+    },
+    {
+      "id": "mtg-en-tcp726676",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: KHAAAAAAAAN - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726676_200w.jpg",
+      "source": {
+        "tcgplayer": 726676
+      }
+    },
+    {
+      "id": "mtg-en-tcp726679",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Lower Decks - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726679_200w.jpg",
+      "source": {
+        "tcgplayer": 726679
+      }
+    },
+    {
+      "id": "mtg-en-tcp726680",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Lower Decks - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726680_200w.jpg",
+      "source": {
+        "tcgplayer": 726680
+      }
+    },
+    {
+      "id": "mtg-en-tcp731777",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Assimilation - Non-Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731777_200w.jpg",
+      "source": {
+        "tcgplayer": 731777
+      }
+    },
+    {
+      "id": "mtg-en-tcp731779",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek: Assimilation - Traditional Foil Edition",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731779_200w.jpg",
+      "source": {
+        "tcgplayer": 731779
+      }
+    },
+    {
+      "id": "mtg-en-tcp731787",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: The Final Frontier Everything Bundle",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731787_200w.jpg",
+      "source": {
+        "tcgplayer": 731787
+      }
+    },
+    {
+      "id": "mtg-en-tcp731788",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Warp Core Foil Bundle",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731788_200w.jpg",
+      "source": {
+        "tcgplayer": 731788
+      }
+    },
+    {
+      "id": "mtg-en-tcp731789",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Captain's Log Non-Foil Bundle",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731789_200w.jpg",
+      "source": {
+        "tcgplayer": 731789
+      }
+    },
+    {
+      "id": "mtg-en-tcp731790",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: Rival Powers Non-Federation Bundle",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731790_200w.jpg",
+      "source": {
+        "tcgplayer": 731790
+      }
+    },
+    {
+      "id": "mtg-en-tcp731791",
+      "game": "magic",
+      "kind": "bundle",
+      "name": "Secret Lair Drop: Secret Lair x Star Trek Set Phasers to Superdrop: United Federation Bundle",
+      "lang": "en",
+      "setIds": [
+        "mtg-sld"
+      ],
+      "releasedAt": "2026-12-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731791_200w.jpg",
+      "source": {
+        "tcgplayer": 731791
       }
     },
     {
@@ -47676,6 +47931,50 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
       "source": {
         "tcgplayer": 722935
+      }
+    },
+    {
+      "id": "mtg-en-tcp731995",
+      "game": "magic",
+      "kind": "other",
+      "name": "Forest (0276) (WOE)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731995_200w.jpg",
+      "source": {
+        "tcgplayer": 731995
+      }
+    },
+    {
+      "id": "mtg-en-tcp731996",
+      "game": "magic",
+      "kind": "other",
+      "name": "Forest (0285) (MKM)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731996_200w.jpg",
+      "source": {
+        "tcgplayer": 731996
+      }
+    },
+    {
+      "id": "mtg-en-tcp731997",
+      "game": "magic",
+      "kind": "other",
+      "name": "Forest (0401) (LCI)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731997_200w.jpg",
+      "source": {
+        "tcgplayer": 731997
+      }
+    },
+    {
+      "id": "mtg-en-tcp731998",
+      "game": "magic",
+      "kind": "other",
+      "name": "Mountain (0400) (LCI)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731998_200w.jpg",
+      "source": {
+        "tcgplayer": 731998
       }
     },
     {

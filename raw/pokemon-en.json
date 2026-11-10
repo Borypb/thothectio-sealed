@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-09T12:11:13.416Z",
+  "harvestedAt": "2026-11-10T11:50:25.932Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -3934,7 +3934,7 @@
     "1528": {
       "name": "Jumbo Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-08-26T17:04:21.797",
+      "modifiedOn": "2026-11-09T16:32:45.75",
       "publishedOn": "2015-04-01",
       "setCode": "jumbo",
       "products": []
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-05T13:41:58.25",
+      "modifiedOn": "2026-11-09T16:34:40.123",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -7821,8 +7821,30 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-11-02T20:13:01.83",
-      "products": []
+      "modifiedOn": "2026-11-09T19:44:23.76",
+      "products": [
+        {
+          "tcgplayerId": 731999,
+          "name": "Ampharos - 029/086 (Cosmos Holo)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731999_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/731999/pokemon-blister-exclusives-ampharos-029-086-cosmos-holo"
+        },
+        {
+          "tcgplayerId": 732000,
+          "name": "Delphox - 013/086 (Cosmos Holo)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732000_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732000/pokemon-blister-exclusives-delphox-013-086-cosmos-holo"
+        },
+        {
+          "tcgplayerId": 732001,
+          "name": "Keldeo - 019/086 (Cosmos Holo)",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732001_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732001/pokemon-blister-exclusives-keldeo-019-086-cosmos-holo"
+        }
+      ]
     },
     "2295": {
       "name": "Dragon Majesty",
@@ -8090,7 +8112,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-06T20:20:09.83",
+      "modifiedOn": "2026-11-09T13:57:15.48",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -14826,7 +14848,7 @@
     "2765": {
       "name": "SWSH05: Battle Styles",
       "abbreviation": "SWSH05",
-      "modifiedOn": "2026-09-10T19:01:40.95",
+      "modifiedOn": "2026-11-09T13:41:55.3",
       "publishedOn": "2021-03-19",
       "setCode": "swsh5",
       "products": [
@@ -14857,7 +14879,7 @@
         {
           "tcgplayerId": 229279,
           "name": "Battle Styles Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2021-03-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/229279_200w.jpg",
           "url": "https://www.tcgplayer.com/product/229279/pokemon-swsh05-battle-styles-battle-styles-build-and-battle-box-display"
@@ -15023,14 +15045,6 @@
           "url": "https://www.tcgplayer.com/product/238638/pokemon-swsh05-battle-styles-v-strikers-tin-tyranitar-v-international-version"
         },
         {
-          "tcgplayerId": 244414,
-          "name": "Battle Styles Elite Trainer Box [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2021-03-19",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244414_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/244414/pokemon-swsh05-battle-styles-battle-styles-elite-trainer-box-set-of-2"
-        },
-        {
           "tcgplayerId": 251879,
           "name": "Battle Styles Sleeved Booster Pack",
           "kind": "booster",
@@ -15039,33 +15053,9 @@
           "url": "https://www.tcgplayer.com/product/251879/pokemon-swsh05-battle-styles-battle-styles-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 257189,
-          "name": "V Strikers Tin [Set of 2]",
-          "kind": "tin",
-          "releasedOn": "2021-03-19",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/257189_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/257189/pokemon-swsh05-battle-styles-v-strikers-tin-set-of-2"
-        },
-        {
-          "tcgplayerId": 265321,
-          "name": "Battle Styles Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-03-19",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265321_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265321/pokemon-swsh05-battle-styles-battle-styles-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 487794,
-          "name": "Battle Styles Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-03-19",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487794_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/487794/pokemon-swsh05-battle-styles-battle-styles-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 680964,
           "name": "Battle Styles Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2021-03-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/680964_200w.jpg",
           "url": "https://www.tcgplayer.com/product/680964/pokemon-swsh05-battle-styles-battle-styles-sleeved-booster-case"
@@ -20844,7 +20834,7 @@
     "24073": {
       "name": "SV09: Journey Together",
       "abbreviation": "JTG",
-      "modifiedOn": "2026-11-02T20:14:31.28",
+      "modifiedOn": "2026-11-09T13:41:25.36",
       "publishedOn": "2025-03-28",
       "setCode": "sv09",
       "products": [
@@ -21576,7 +21566,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-10-30T12:10:50.007",
+      "modifiedOn": "2026-11-09T13:42:32.637",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -22041,7 +22031,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-05T19:00:53.61",
+      "modifiedOn": "2026-11-09T19:10:55.337",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []

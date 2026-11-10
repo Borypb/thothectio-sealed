@@ -12,7 +12,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.16,
+          "usd": 0.17,
           "low": 0.05,
           "mid": 0.25
         }
@@ -97,7 +97,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.2,
+          "usd": 0.21,
           "low": 0.05,
           "mid": 0.25
         }
@@ -131,7 +131,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.2,
+          "usd": 0.21,
           "low": 0.14,
           "mid": 0.25
         }
@@ -148,7 +148,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.08,
+          "usd": 0.09,
           "low": 0.01,
           "mid": 0.2
         }
@@ -182,7 +182,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.15,
           "low": 0.08,
           "mid": 0.25
         }
@@ -233,7 +233,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.2,
+          "usd": 0.21,
           "low": 0.1,
           "mid": 0.3
         }
@@ -250,9 +250,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.26,
           "low": 0.15,
-          "mid": 0.27
+          "mid": 0.28
         }
       ]
     },
@@ -267,7 +267,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.36,
+          "usd": 0.37,
           "low": 0.19,
           "mid": 0.5
         }
@@ -318,14 +318,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/246233_200w.jpg",
       "url": "https://www.tcgplayer.com/product/246233/digimon-card-game-starter-deck-06-venomous-violet-devimon-st6-08-2021-championship-online-regional-online-champion",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 229.93,
-          "low": 229.93,
-          "mid": 229.93
-        }
-      ]
+      "prices": []
     },
     {
       "id": 263707,
@@ -382,5 +375,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-09"
+  "pricesAt": "2026-11-10"
 }

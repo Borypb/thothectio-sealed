@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -32734,6 +32734,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723301_200w.jpg",
       "source": {
         "tcgplayer": 723301
+      }
+    },
+    {
+      "id": "pkm-en-tcp731999",
+      "kind": "other",
+      "name": "Ampharos - 029/086 (Cosmos Holo)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731999_200w.jpg",
+      "source": {
+        "tcgplayer": 731999
+      }
+    },
+    {
+      "id": "pkm-en-tcp732000",
+      "kind": "other",
+      "name": "Delphox - 013/086 (Cosmos Holo)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732000_200w.jpg",
+      "source": {
+        "tcgplayer": 732000
+      }
+    },
+    {
+      "id": "pkm-en-tcp732001",
+      "kind": "other",
+      "name": "Keldeo - 019/086 (Cosmos Holo)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732001_200w.jpg",
+      "source": {
+        "tcgplayer": 732001
       }
     },
     {

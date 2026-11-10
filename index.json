@@ -1,6 +1,6 @@
 {
-  "version": 46,
-  "updatedAt": "2026-11-09",
+  "version": 47,
+  "updatedAt": "2026-11-10",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -30,8 +30,8 @@
         },
         "en": {
           "file": "pokemon-en.json",
-          "version": 11,
-          "count": 2336
+          "version": 12,
+          "count": 2339
         },
         "ja": {
           "file": "pokemon-ja.json",
@@ -125,7 +125,7 @@
   "prices": {
     "pokemon": {
       "file": "prices-pokemon.json",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "count": 3227
     },
     "onepiece": {

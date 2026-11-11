@@ -2510,9 +2510,9 @@
           "groupId": 1097,
           "name": "The Black Temple",
           "modifiedOn": "2017-03-01T11:03:36.18",
-          "count": 23,
+          "count": 48,
           "file": "cards/wow/1097.json",
-          "version": "bdc2a7311a37"
+          "version": "db14dc740403"
         },
         {
           "groupId": 1098,
@@ -2739,16 +2739,6 @@
           "file": "cards/wow/wcx-naxxramas-token.json",
           "source": "wowcards",
           "version": "e15abc22c626"
-        },
-        {
-          "groupId": 91793502,
-          "name": "Black Temple: Raid Deck",
-          "code": "BLACK-TEMPLE-RAID",
-          "releasedAt": "2008-09-01",
-          "count": 70,
-          "file": "cards/wow/wcx-black-temple-raid.json",
-          "source": "wowcards",
-          "version": "7b081b3424d9"
         },
         {
           "groupId": 93101889,
@@ -3105,7 +3095,7 @@
         },
         {
           "groupId": 90912119,
-          "name": "Class Starters 2011: Class Starters 2010",
+          "name": "Class Starters 2010",
           "code": "CLASS",
           "count": 234,
           "file": "cards/wow/wcx-class.json",

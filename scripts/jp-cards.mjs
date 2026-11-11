@@ -31,6 +31,56 @@ async function get(url, as = "json", tries = 3) {
 
 const hash = (x) => createHash("sha1").update(JSON.stringify(x)).digest("hex").slice(0, 12);
 
+/** largeur et hauteur d'une image PNG ou JPEG d'après son en-tête (premiers octets seulement), sinon null */
+async function imageSize(url) {
+  try {
+    const res = await fetch(url, { headers: { "User-Agent": UA, Range: "bytes=0-65535" } });
+    if (!res.ok) return null;
+    const b = Buffer.from(await res.arrayBuffer());
+    if (b.readUInt32BE(0) === 0x89504e47) return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
+    if (b[0] === 0xff && b[1] === 0xd8) {
+      for (let i = 2; i + 9 < b.length; ) {
+        if (b[i] !== 0xff) return null;
+        const marker = b[i + 1];
+        const len = b.readUInt16BE(i + 2);
+        if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) return { w: b.readUInt16BE(i + 7), h: b.readUInt16BE(i + 5) };
+        i += 2 + len;
+      }
+    }
+  } catch {
+    /* image injoignable : on réessaiera au prochain passage */
+  }
+  return null;
+}
+
+/**
+ * Cartes en plusieurs parties (ex. 伝説の溶岩洞, M6 n° 075 + 076, deux cartes qui forment une seule illustration) :
+ * le site officiel n'en fait qu'une fiche, au premier numéro, avec l'image des deux moitiés côte à côte. Repérage :
+ * numéro suivant absent de l'extension (sans dépasser le total imprimé) et image nettement plus large que haute.
+ * Chaque partie devient une carte (`part` : [rang, nombre de parties]), avec l'image entière (l'app en montre la
+ * moitié, et la carte reconstituée sur demande). Résultat de la mesure gardé dans le cache (`wide`).
+ */
+async function splitCards(rows, cache) {
+  const numbers = new Set(rows.map((r) => r.number));
+  const out = [];
+  for (const r of rows) {
+    out.push(r);
+    const n = Number(r.number);
+    const next = String(n + 1).padStart(r.number.length, "0");
+    if (!Number.isFinite(n) || numbers.has(next) || !(n + 1 <= Number(r.total))) continue;
+    const known = cache[r.id] ?? (cache[r.id] = {});
+    if (known.wide === undefined) {
+      const size = await imageSize(r.image);
+      if (!size) continue;
+      known.wide = size.w > size.h * 1.2;
+    }
+    if (!known.wide) continue;
+    r.part = [1, 2];
+    out.push({ ...r, number: next, part: [2, 2] });
+  }
+  return out;
+}
+
 /** toutes les cartes de la base officielle : identifiant, nom, image, code d'extension */
 async function listAll() {
   const out = [];
@@ -140,12 +190,13 @@ export async function jpCards() {
   const prev = await readJson(`${DIR}/index.json`, { sets: [] });
   const sets = [];
   for (const [code, cards] of wanted) {
-    const rows = cards
+    let rows = cards
       .map((c) => ({ ...c, ...(cache[c.id] ?? {}) }))
       .filter((c) => /\d/.test(c.number ?? ""))
       .sort((a, b) => a.id - b.id)
       .map((c) => ({ id: c.id, name: c.name, number: c.number, total: c.total, image: c.image, stage: c.stage }));
     if (!rows.length) continue;
+    rows = await splitCards(rows, cache);
     // nombre officiel de cartes : le total imprimé le plus fréquent
     const totals = new Map();
     for (const r of rows) totals.set(r.total, (totals.get(r.total) ?? 0) + 1);
@@ -162,6 +213,8 @@ export async function jpCards() {
     await writeJson(file, { code, name, official, cards: rows });
     sets.push({ code, name, official: official ? Number(official) || undefined : undefined, releasedAt: meta?.releasedAt, count: rows.length, file, version: hash(rows), firstId: rows[0].id });
   }
+  // mesures des cartes en plusieurs parties
+  await writeJson(CACHE, cache);
   // les plus récentes d'abord (identifiants officiels croissants avec la sortie)
   sets.sort((a, b) => (b.releasedAt ?? "").localeCompare(a.releasedAt ?? "") || b.firstId - a.firstId);
   await writeJson(`${DIR}/index.json`, { updatedAt: new Date().toISOString().slice(0, 10), sets: sets.map(({ firstId, ...s }) => s) });

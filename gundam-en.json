@@ -1,0 +1,1207 @@
+{
+  "version": 1,
+  "game": "gundam",
+  "lang": "en",
+  "products": [
+    {
+      "id": "gdm-en-tcp710651",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Stardust Trails Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24804"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710651_200w.jpg",
+      "source": {
+        "tcgplayer": 710651
+      }
+    },
+    {
+      "id": "gdm-en-tcp710652",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Stardust Trails Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24804"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710652_200w.jpg",
+      "source": {
+        "tcgplayer": 710652
+      }
+    },
+    {
+      "id": "gdm-en-tcp710654",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Stardust Trails Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24804"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710654_200w.jpg",
+      "source": {
+        "tcgplayer": 710654
+      }
+    },
+    {
+      "id": "gdm-en-tcp710628",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 11: Aquatic Assault",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24800"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710628_200w.jpg",
+      "source": {
+        "tcgplayer": 710628
+      }
+    },
+    {
+      "id": "gdm-en-tcp710633",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Aquatic Assault Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24800"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710633_200w.jpg",
+      "source": {
+        "tcgplayer": 710633
+      }
+    },
+    {
+      "id": "gdm-en-tcp710634",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 12: Raging Onslaught",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24801"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710634_200w.jpg",
+      "source": {
+        "tcgplayer": 710634
+      }
+    },
+    {
+      "id": "gdm-en-tcp710638",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 13: Silent Barrage",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24802"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710638_200w.jpg",
+      "source": {
+        "tcgplayer": 710638
+      }
+    },
+    {
+      "id": "gdm-en-tcp710639",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Raging Onslaught Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24801"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710639_200w.jpg",
+      "source": {
+        "tcgplayer": 710639
+      }
+    },
+    {
+      "id": "gdm-en-tcp710642",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Silent Barrage Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24802"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710642_200w.jpg",
+      "source": {
+        "tcgplayer": 710642
+      }
+    },
+    {
+      "id": "gdm-en-tcp710643",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 14: Heavy Dominion",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24803"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710643_200w.jpg",
+      "source": {
+        "tcgplayer": 710643
+      }
+    },
+    {
+      "id": "gdm-en-tcp710647",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Heavy Dominion Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24803"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710647_200w.jpg",
+      "source": {
+        "tcgplayer": 710647
+      }
+    },
+    {
+      "id": "gdm-en-tcp693620",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Freedom Ascension Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24699"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693620_200w.jpg",
+      "source": {
+        "tcgplayer": 693620
+      }
+    },
+    {
+      "id": "gdm-en-tcp693621",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Freedom Ascension Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24699"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693621_200w.jpg",
+      "source": {
+        "tcgplayer": 693621
+      }
+    },
+    {
+      "id": "gdm-en-tcp693623",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Freedom Ascension Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24699"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693623_200w.jpg",
+      "source": {
+        "tcgplayer": 693623
+      }
+    },
+    {
+      "id": "gdm-en-tcp693625",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Freedom Ascension Deck Build Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24767"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693625_200w.jpg",
+      "source": {
+        "tcgplayer": 693625
+      }
+    },
+    {
+      "id": "gdm-en-tcp712924",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Deck Build Box Freedom Ascension Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24767"
+      ],
+      "releasedAt": "2026-07-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/712924_200w.jpg",
+      "source": {
+        "tcgplayer": 712924
+      }
+    },
+    {
+      "id": "gdm-en-tcp693099",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 10: Generation Pulse",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24692"
+      ],
+      "releasedAt": "2026-06-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693099_200w.jpg",
+      "source": {
+        "tcgplayer": 693099
+      }
+    },
+    {
+      "id": "gdm-en-tcp693102",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Eternal Nexus Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24693"
+      ],
+      "releasedAt": "2026-06-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693102_200w.jpg",
+      "source": {
+        "tcgplayer": 693102
+      }
+    },
+    {
+      "id": "gdm-en-tcp693103",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Eternal Nexus Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24693"
+      ],
+      "releasedAt": "2026-06-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693103_200w.jpg",
+      "source": {
+        "tcgplayer": 693103
+      }
+    },
+    {
+      "id": "gdm-en-tcp682301",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Phantom Aria Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24633"
+      ],
+      "releasedAt": "2026-04-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682301_200w.jpg",
+      "source": {
+        "tcgplayer": 682301
+      }
+    },
+    {
+      "id": "gdm-en-tcp682302",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Phantom Aria Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24633"
+      ],
+      "releasedAt": "2026-04-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682302_200w.jpg",
+      "source": {
+        "tcgplayer": 682302
+      }
+    },
+    {
+      "id": "gdm-en-tcp691191",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Phantom Aria Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24633"
+      ],
+      "releasedAt": "2026-04-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/691191_200w.jpg",
+      "source": {
+        "tcgplayer": 691191
+      }
+    },
+    {
+      "id": "gdm-en-tcp680468",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 09: Destiny Ignition",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24625"
+      ],
+      "releasedAt": "2026-03-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680468_200w.jpg",
+      "source": {
+        "tcgplayer": 680468
+      }
+    },
+    {
+      "id": "gdm-en-tcp680471",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Destiny Ignition Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24625"
+      ],
+      "releasedAt": "2026-03-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680471_200w.jpg",
+      "source": {
+        "tcgplayer": 680471
+      }
+    },
+    {
+      "id": "gdm-en-tcp679506",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "Premium Card Collection GUNDAM ASSEMBLE - Mobile Suit Gundam: Iron-Blooded Orphans - [PC01A]",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2026-02-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/679506_200w.jpg",
+      "source": {
+        "tcgplayer": 679506
+      }
+    },
+    {
+      "id": "gdm-en-tcp679514",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "Premium Card Collection GUNDAM ASSEMBLE - Mobile Suit Gundam: GQuuuuuuX- [PC02A]",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2026-02-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/679514_200w.jpg",
+      "source": {
+        "tcgplayer": 679514
+      }
+    },
+    {
+      "id": "gdm-en-tcp662113",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Steel Requiem Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24522"
+      ],
+      "releasedAt": "2026-01-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662113_200w.jpg",
+      "source": {
+        "tcgplayer": 662113
+      }
+    },
+    {
+      "id": "gdm-en-tcp662114",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Steel Requiem Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24522"
+      ],
+      "releasedAt": "2026-01-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662114_200w.jpg",
+      "source": {
+        "tcgplayer": 662114
+      }
+    },
+    {
+      "id": "gdm-en-tcp662117",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Steel Requiem Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24522"
+      ],
+      "releasedAt": "2026-01-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662117_200w.jpg",
+      "source": {
+        "tcgplayer": 662117
+      }
+    },
+    {
+      "id": "gdm-en-tcp662118",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 08: Flash of Radiance",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24411"
+      ],
+      "releasedAt": "2026-01-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662118_200w.jpg",
+      "source": {
+        "tcgplayer": 662118
+      }
+    },
+    {
+      "id": "gdm-en-tcp662121",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 07: Celestial Drive",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24410"
+      ],
+      "releasedAt": "2026-01-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662121_200w.jpg",
+      "source": {
+        "tcgplayer": 662121
+      }
+    },
+    {
+      "id": "gdm-en-tcp672971",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Flash of Radiance Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24411"
+      ],
+      "releasedAt": "2026-01-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/672971_200w.jpg",
+      "source": {
+        "tcgplayer": 672971
+      }
+    },
+    {
+      "id": "gdm-en-tcp672972",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Celestial Drive Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24410"
+      ],
+      "releasedAt": "2026-01-16",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/672972_200w.jpg",
+      "source": {
+        "tcgplayer": 672972
+      }
+    },
+    {
+      "id": "gdm-en-tcp650744",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 06: Clan Unity",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24409"
+      ],
+      "releasedAt": "2025-10-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650744_200w.jpg",
+      "source": {
+        "tcgplayer": 650744
+      }
+    },
+    {
+      "id": "gdm-en-tcp650747",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Dual Impact Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24408"
+      ],
+      "releasedAt": "2025-10-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650747_200w.jpg",
+      "source": {
+        "tcgplayer": 650747
+      }
+    },
+    {
+      "id": "gdm-en-tcp650748",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Dual Impact Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24408"
+      ],
+      "releasedAt": "2025-10-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650748_200w.jpg",
+      "source": {
+        "tcgplayer": 650748
+      }
+    },
+    {
+      "id": "gdm-en-tcp660721",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Dual Impact Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24408"
+      ],
+      "releasedAt": "2025-10-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/660721_200w.jpg",
+      "source": {
+        "tcgplayer": 660721
+      }
+    },
+    {
+      "id": "gdm-en-tcp670920",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Clan Unity Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24409"
+      ],
+      "releasedAt": "2025-10-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670920_200w.jpg",
+      "source": {
+        "tcgplayer": 670920
+      }
+    },
+    {
+      "id": "gdm-en-tcp650741",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 05: Iron Bloom",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24407"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650741_200w.jpg",
+      "source": {
+        "tcgplayer": 650741
+      }
+    },
+    {
+      "id": "gdm-en-tcp670919",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Iron Bloom Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24407"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670919_200w.jpg",
+      "source": {
+        "tcgplayer": 670919
+      }
+    },
+    {
+      "id": "gdm-en-tcp619067",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Newtype Rising Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24221"
+      ],
+      "releasedAt": "2025-07-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619067_200w.jpg",
+      "source": {
+        "tcgplayer": 619067
+      }
+    },
+    {
+      "id": "gdm-en-tcp619072",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Newtype Rising Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24221"
+      ],
+      "releasedAt": "2025-07-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619072_200w.jpg",
+      "source": {
+        "tcgplayer": 619072
+      }
+    },
+    {
+      "id": "gdm-en-tcp651983",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Newtype Rising Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24221"
+      ],
+      "releasedAt": "2025-07-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651983_200w.jpg",
+      "source": {
+        "tcgplayer": 651983
+      }
+    },
+    {
+      "id": "gdm-en-tcp619080",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 01: Heroic Beginnings",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24222"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619080_200w.jpg",
+      "source": {
+        "tcgplayer": 619080
+      }
+    },
+    {
+      "id": "gdm-en-tcp619085",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 01: Heroic Beginnings - Gundam Assemble Starter Set",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24222"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619085_200w.jpg",
+      "source": {
+        "tcgplayer": 619085
+      }
+    },
+    {
+      "id": "gdm-en-tcp619107",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 02: Wings of Advance",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24223"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619107_200w.jpg",
+      "source": {
+        "tcgplayer": 619107
+      }
+    },
+    {
+      "id": "gdm-en-tcp619111",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 02: Wings of Advance - Gundam Assemble Starter Set",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24223"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619111_200w.jpg",
+      "source": {
+        "tcgplayer": 619111
+      }
+    },
+    {
+      "id": "gdm-en-tcp619148",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 03: Zeon's Rush",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24224"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619148_200w.jpg",
+      "source": {
+        "tcgplayer": 619148
+      }
+    },
+    {
+      "id": "gdm-en-tcp619162",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 03: Zeon's Rush - Gundam Assemble Starter Set",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24224"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619162_200w.jpg",
+      "source": {
+        "tcgplayer": 619162
+      }
+    },
+    {
+      "id": "gdm-en-tcp619173",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 04: SEED Strike",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24225"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619173_200w.jpg",
+      "source": {
+        "tcgplayer": 619173
+      }
+    },
+    {
+      "id": "gdm-en-tcp619178",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck 04: SEED Strike - Gundam Assemble Starter Set",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24225"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619178_200w.jpg",
+      "source": {
+        "tcgplayer": 619178
+      }
+    },
+    {
+      "id": "gdm-en-tcp643141",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Heroic Beginnings Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24222"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643141_200w.jpg",
+      "source": {
+        "tcgplayer": 643141
+      }
+    },
+    {
+      "id": "gdm-en-tcp643142",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Wings of Advance Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24223"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643142_200w.jpg",
+      "source": {
+        "tcgplayer": 643142
+      }
+    },
+    {
+      "id": "gdm-en-tcp643143",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: Zeon's Rush Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24224"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643143_200w.jpg",
+      "source": {
+        "tcgplayer": 643143
+      }
+    },
+    {
+      "id": "gdm-en-tcp643144",
+      "game": "gundam",
+      "kind": "deck",
+      "name": "Starter Deck: SEED Strike Bonus Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24225"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643144_200w.jpg",
+      "source": {
+        "tcgplayer": 643144
+      }
+    },
+    {
+      "id": "gdm-en-tcp641688",
+      "game": "gundam",
+      "kind": "other",
+      "name": "Gundam Card Game Accessory and Card Set 01 FIRST COMBAT [EVX01]",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641688_200w.jpg",
+      "source": {
+        "tcgplayer": 641688
+      }
+    },
+    {
+      "id": "gdm-en-tcp656288",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 01",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656288_200w.jpg",
+      "source": {
+        "tcgplayer": 656288
+      }
+    },
+    {
+      "id": "gdm-en-tcp656289",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 01",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656289_200w.jpg",
+      "source": {
+        "tcgplayer": 656289
+      }
+    },
+    {
+      "id": "gdm-en-tcp670968",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "Premium Card Collection 01 [EVX05]",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670968_200w.jpg",
+      "source": {
+        "tcgplayer": 670968
+      }
+    },
+    {
+      "id": "gdm-en-tcp671146",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 02",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671146_200w.jpg",
+      "source": {
+        "tcgplayer": 671146
+      }
+    },
+    {
+      "id": "gdm-en-tcp671150",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "G Generation Eternal Collaboration Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671150_200w.jpg",
+      "source": {
+        "tcgplayer": 671150
+      }
+    },
+    {
+      "id": "gdm-en-tcp671153",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 02",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671153_200w.jpg",
+      "source": {
+        "tcgplayer": 671153
+      }
+    },
+    {
+      "id": "gdm-en-tcp671155",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 03",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671155_200w.jpg",
+      "source": {
+        "tcgplayer": 671155
+      }
+    },
+    {
+      "id": "gdm-en-tcp671158",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 03",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671158_200w.jpg",
+      "source": {
+        "tcgplayer": 671158
+      }
+    },
+    {
+      "id": "gdm-en-tcp685689",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "[PB01] Gundam Card Game Premium Accessory Set - Mobile Suit Gundam Wing",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685689_200w.jpg",
+      "source": {
+        "tcgplayer": 685689
+      }
+    },
+    {
+      "id": "gdm-en-tcp701482",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "[PB02] Gundam Card Game Premium Accessory Set - Mobile Suit Gundam: Iron-Blooded Orphans",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/701482_200w.jpg",
+      "source": {
+        "tcgplayer": 701482
+      }
+    },
+    {
+      "id": "gdm-en-tcp708431",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "Storage Box & Resource Card Set [EVX07]",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708431_200w.jpg",
+      "source": {
+        "tcgplayer": 708431
+      }
+    },
+    {
+      "id": "gdm-en-tcp708469",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 04",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708469_200w.jpg",
+      "source": {
+        "tcgplayer": 708469
+      }
+    },
+    {
+      "id": "gdm-en-tcp708470",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 05",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708470_200w.jpg",
+      "source": {
+        "tcgplayer": 708470
+      }
+    },
+    {
+      "id": "gdm-en-tcp708471",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 04",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708471_200w.jpg",
+      "source": {
+        "tcgplayer": 708471
+      }
+    },
+    {
+      "id": "gdm-en-tcp708472",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 05",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708472_200w.jpg",
+      "source": {
+        "tcgplayer": 708472
+      }
+    },
+    {
+      "id": "gdm-en-tcp713275",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "1st Anniversary Event Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713275_200w.jpg",
+      "source": {
+        "tcgplayer": 713275
+      }
+    },
+    {
+      "id": "gdm-en-tcp717019",
+      "game": "gundam",
+      "kind": "bundle",
+      "name": "[EVX09] Special Booster Bundle 01",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/717019_200w.jpg",
+      "source": {
+        "tcgplayer": 717019
+      }
+    },
+    {
+      "id": "gdm-en-tcp717407",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "First Anniversary Event Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/717407_200w.jpg",
+      "source": {
+        "tcgplayer": 717407
+      }
+    },
+    {
+      "id": "gdm-en-tcp717866",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "1st Anniversary Resource Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/717866_200w.jpg",
+      "source": {
+        "tcgplayer": 717866
+      }
+    },
+    {
+      "id": "gdm-en-tcp721556",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Participation Pack 06",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721556_200w.jpg",
+      "source": {
+        "tcgplayer": 721556
+      }
+    },
+    {
+      "id": "gdm-en-tcp721557",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Store Tournament Winner Pack 06",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721557_200w.jpg",
+      "source": {
+        "tcgplayer": 721557
+      }
+    },
+    {
+      "id": "gdm-en-tcp722741",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "ST11-ST14 Release Event Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24340"
+      ],
+      "releasedAt": "2025-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722741_200w.jpg",
+      "source": {
+        "tcgplayer": 722741
+      }
+    },
+    {
+      "id": "gdm-en-tcp617436",
+      "game": "gundam",
+      "kind": "collection",
+      "name": "Gundam Card Game Edition Beta Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24193"
+      ],
+      "releasedAt": "2025-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617436_200w.jpg",
+      "source": {
+        "tcgplayer": 617436
+      }
+    },
+    {
+      "id": "gdm-en-tcp617437",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Gundam Card Game Edition Beta Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24193"
+      ],
+      "releasedAt": "2025-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617437_200w.jpg",
+      "source": {
+        "tcgplayer": 617437
+      }
+    }
+  ]
+}

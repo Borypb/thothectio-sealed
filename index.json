@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "updatedAt": "2026-11-11",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -120,6 +120,15 @@
           "count": 11
         }
       }
+    },
+    "gundam": {
+      "files": {
+        "en": {
+          "file": "gundam-en.json",
+          "version": 1,
+          "count": 80
+        }
+      }
     }
   },
   "prices": {
@@ -172,6 +181,11 @@
       "file": "prices-cyberpunk.json",
       "date": "2026-11-11",
       "count": 18
+    },
+    "gundam": {
+      "file": "prices-gundam.json",
+      "date": "2026-11-11",
+      "count": 99
     }
   }
 }

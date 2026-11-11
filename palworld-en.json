@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "palworld",
   "lang": "en",
   "products": [
@@ -136,6 +136,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722750_200w.jpg",
       "source": {
         "tcgplayer": 722750
+      }
+    },
+    {
+      "id": "pal-en-tcp723018",
+      "game": "palworld",
+      "kind": "booster",
+      "name": "Special PR Card Pack Vol.1",
+      "lang": "en",
+      "setIds": [
+        "pal-g24851"
+      ],
+      "releasedAt": "2026-07-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723018_200w.jpg",
+      "source": {
+        "tcgplayer": 723018
       }
     },
     {

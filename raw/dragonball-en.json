@@ -2,12 +2,12 @@
   "game": "dragonball",
   "lang": "en",
   "categoryId": 80,
-  "harvestedAt": "2026-11-10T12:46:33.158Z",
+  "harvestedAt": "2026-11-11T11:57:56.366Z",
   "groups": {
     "23401": {
       "name": "Awakened Pulse",
       "abbreviation": "FB01",
-      "modifiedOn": "2025-07-21T13:32:34.987",
+      "modifiedOn": "2026-11-10T15:45:37.59",
       "publishedOn": "2024-02-23",
       "setId": "db-g23401",
       "products": [
@@ -72,7 +72,7 @@
     "23407": {
       "name": "Awakened Pulse Pre-Release Cards",
       "abbreviation": "FB01_PR",
-      "modifiedOn": "2025-03-04T14:42:50.56",
+      "modifiedOn": "2026-11-10T15:46:08.393",
       "publishedOn": "2024-02-16",
       "setId": "db-g23407",
       "products": [
@@ -89,7 +89,7 @@
     "23408": {
       "name": "Starter Deck 1: Son Goku",
       "abbreviation": "FS01",
-      "modifiedOn": "2024-08-05T20:53:18.173",
+      "modifiedOn": "2026-11-10T16:19:04.217",
       "publishedOn": "2024-02-16",
       "setId": "db-g23408",
       "products": [
@@ -114,7 +114,7 @@
     "23409": {
       "name": "Starter Deck 2: Vegeta",
       "abbreviation": "FS02",
-      "modifiedOn": "2024-06-25T20:48:25.48",
+      "modifiedOn": "2026-11-10T16:19:33.08",
       "publishedOn": "2024-02-16",
       "setId": "db-g23409",
       "products": [
@@ -139,7 +139,7 @@
     "23410": {
       "name": "Starter Deck 3: Broly",
       "abbreviation": "FS03",
-      "modifiedOn": "2025-07-10T12:56:18.773",
+      "modifiedOn": "2026-11-10T16:20:13.383",
       "publishedOn": "2024-02-16",
       "setId": "db-g23410",
       "products": [
@@ -164,7 +164,7 @@
     "23411": {
       "name": "Starter Deck 4: Frieza",
       "abbreviation": "FS04",
-      "modifiedOn": "2024-03-05T21:21:37.057",
+      "modifiedOn": "2026-11-10T16:20:56.377",
       "publishedOn": "2024-02-16",
       "setId": "db-g23411",
       "products": [
@@ -189,7 +189,7 @@
     "23428": {
       "name": "Fusion World Promotion Cards and Packs",
       "abbreviation": "DBSFW_PR",
-      "modifiedOn": "2026-10-28T12:28:08.993",
+      "modifiedOn": "2026-11-10T16:01:53.757",
       "publishedOn": "2024-02-14",
       "setId": "db-g23428",
       "products": [
@@ -302,7 +302,7 @@
     "23429": {
       "name": "Tournament and Championship Promos",
       "abbreviation": "DBSFW_TPR",
-      "modifiedOn": "2026-11-06T12:57:20.77",
+      "modifiedOn": "2026-11-10T17:27:19.56",
       "publishedOn": "2024-02-14",
       "setId": "db-g23429",
       "products": [
@@ -647,7 +647,7 @@
     "23430": {
       "name": "Fusion World Energy Markers",
       "abbreviation": "DBSFW_EM",
-      "modifiedOn": "2026-11-02T19:24:42.837",
+      "modifiedOn": "2026-11-10T15:56:58.873",
       "publishedOn": "2024-02-14",
       "setId": "db-g23430",
       "products": [
@@ -738,21 +738,13 @@
           "releasedOn": "2024-02-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/729925_200w.jpg",
           "url": "https://www.tcgplayer.com/product/729925/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-pack-11"
-        },
-        {
-          "tcgplayerId": 729979,
-          "name": "Energy Marker (E-189) (Gold)",
-          "kind": "other",
-          "releasedOn": "2024-02-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/729979_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/729979/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-e-189-gold"
         }
       ]
     },
     "23470": {
       "name": "Blazing Aura",
       "abbreviation": "FB02",
-      "modifiedOn": "2025-12-04T12:59:05.787",
+      "modifiedOn": "2026-11-10T15:49:20.407",
       "publishedOn": "2024-05-10",
       "setId": "db-g23470",
       "products": [
@@ -817,7 +809,7 @@
     "23471": {
       "name": "Blazing Aura Release Event Cards",
       "abbreviation": "FB02_PR",
-      "modifiedOn": "2024-10-10T20:07:19.48",
+      "modifiedOn": "2026-11-10T15:49:49.187",
       "publishedOn": "2024-05-03",
       "setId": "db-g23471",
       "products": [
@@ -834,7 +826,7 @@
     "23505": {
       "name": "Awakened Pulse Alternate Art Reprints",
       "abbreviation": "FB01_AR",
-      "modifiedOn": "2025-01-29T15:27:58.317",
+      "modifiedOn": "2026-11-10T15:43:03.23",
       "publishedOn": "2024-05-10",
       "setId": "db-g23505",
       "products": []
@@ -842,7 +834,7 @@
     "23517": {
       "name": "Raging Roar",
       "abbreviation": "FB03",
-      "modifiedOn": "2024-08-20T15:30:57.113",
+      "modifiedOn": "2026-11-10T16:09:40.447",
       "publishedOn": "2024-08-16",
       "setId": "db-g23517",
       "products": [
@@ -875,7 +867,7 @@
     "23518": {
       "name": "Raging Roar Release Event Cards",
       "abbreviation": "FB03_PR",
-      "modifiedOn": "2024-11-06T21:22:56.987",
+      "modifiedOn": "2026-11-10T16:10:27.1",
       "publishedOn": "2024-08-09",
       "setId": "db-g23518",
       "products": [
@@ -892,7 +884,7 @@
     "23519": {
       "name": "Starter Deck 5: Bardock",
       "abbreviation": "FS05",
-      "modifiedOn": "2025-03-14T18:46:23.033",
+      "modifiedOn": "2026-11-10T16:21:44.113",
       "publishedOn": "2024-08-09",
       "setId": "db-g23519",
       "products": [
@@ -917,7 +909,7 @@
     "23581": {
       "name": "Starter Deck 4: Frieza Alternate Art Reprints",
       "abbreviation": "FS04_AR",
-      "modifiedOn": "2024-08-07T18:51:15.92",
+      "modifiedOn": "2026-11-10T16:20:37.34",
       "publishedOn": "2024-08-16",
       "setId": "db-g23581",
       "products": []
@@ -925,7 +917,7 @@
     "23582": {
       "name": "Starter Deck 1: Son Goku Alternate Art Reprints",
       "abbreviation": "FS01_AR",
-      "modifiedOn": "2024-08-07T18:49:04.383",
+      "modifiedOn": "2026-11-10T16:18:41.11",
       "publishedOn": "2024-05-10",
       "setId": "db-g23582",
       "products": []
@@ -933,7 +925,7 @@
     "23583": {
       "name": "Starter Deck 3: Broly Alternate Art Reprints",
       "abbreviation": "FS03_AR",
-      "modifiedOn": "2024-08-07T18:48:41.7",
+      "modifiedOn": "2026-11-10T16:19:52.06",
       "publishedOn": "2024-05-10",
       "setId": "db-g23583",
       "products": []
@@ -941,7 +933,7 @@
     "23654": {
       "name": "Starter Deck 6: Son Goku (Mini)",
       "abbreviation": "FS06",
-      "modifiedOn": "2024-11-13T15:42:28.23",
+      "modifiedOn": "2026-11-10T17:13:09.08",
       "publishedOn": "2024-11-08",
       "setId": "db-g23654",
       "products": [
@@ -966,7 +958,7 @@
     "23655": {
       "name": "Starter Deck 7: Vegeta (Mini)",
       "abbreviation": "FS07",
-      "modifiedOn": "2024-11-13T15:44:29.693",
+      "modifiedOn": "2026-11-10T17:13:37.873",
       "publishedOn": "2024-11-08",
       "setId": "db-g23655",
       "products": [
@@ -991,7 +983,7 @@
     "23658": {
       "name": "Ultra Limit",
       "abbreviation": "FB04",
-      "modifiedOn": "2025-12-05T20:48:11.823",
+      "modifiedOn": "2026-11-10T17:23:17.06",
       "publishedOn": "2024-11-15",
       "setId": "db-g23658",
       "products": [
@@ -1024,7 +1016,7 @@
     "23769": {
       "name": "Ultra Limit Release Event Cards",
       "abbreviation": "FB04_PR",
-      "modifiedOn": "2024-11-13T21:46:40.337",
+      "modifiedOn": "2026-11-10T17:23:57.29",
       "publishedOn": "2024-11-08",
       "setId": "db-g23769",
       "products": [
@@ -1041,7 +1033,7 @@
     "23823": {
       "name": "Raging Roar Alternate Art Reprints",
       "abbreviation": "FB03_AR",
-      "modifiedOn": "2025-08-13T12:59:03",
+      "modifiedOn": "2026-11-10T16:08:34.197",
       "publishedOn": "2024-11-15",
       "setId": "db-g23823",
       "products": []
@@ -1049,7 +1041,7 @@
     "23928": {
       "name": "New Adventure",
       "abbreviation": "FB05",
-      "modifiedOn": "2025-07-03T16:10:50.793",
+      "modifiedOn": "2026-11-10T16:07:35.567",
       "publishedOn": "2025-02-14",
       "setId": "db-g23928",
       "products": [
@@ -1082,7 +1074,7 @@
     "24183": {
       "name": "Blazing Aura Alternate Art Reprints",
       "abbreviation": "FB02_AR",
-      "modifiedOn": "2025-12-05T12:58:00.817",
+      "modifiedOn": "2026-11-10T15:46:56.56",
       "publishedOn": "2025-02-14",
       "setId": "db-g24183",
       "products": []
@@ -1090,7 +1082,7 @@
     "24184": {
       "name": "Ultra Limit Alternate Art Reprints",
       "abbreviation": "FB04_AR",
-      "modifiedOn": "2025-12-04T13:00:17.457",
+      "modifiedOn": "2026-11-10T17:22:12.557",
       "publishedOn": "2025-02-14",
       "setId": "db-g24184",
       "products": []
@@ -1098,7 +1090,7 @@
     "24185": {
       "name": "Starter Deck 5: Bardock Alternate Art Reprints",
       "abbreviation": "FS05_AR",
-      "modifiedOn": "2025-08-29T16:50:04.887",
+      "modifiedOn": "2026-11-10T16:21:22.84",
       "publishedOn": "2025-02-14",
       "setId": "db-g24185",
       "products": []
@@ -1106,7 +1098,7 @@
     "24186": {
       "name": "New Adventure Release Event Cards",
       "abbreviation": "FB05_PR",
-      "modifiedOn": "2025-02-07T14:30:23.957",
+      "modifiedOn": "2026-11-10T16:08:08.663",
       "publishedOn": "2025-02-07",
       "setId": "db-g24186",
       "products": [
@@ -1123,7 +1115,7 @@
     "24239": {
       "name": "Starter Deck 8: Vegeta (Mini) Super Saiyan 3",
       "abbreviation": "FS08",
-      "modifiedOn": "2026-03-10T11:59:32.797",
+      "modifiedOn": "2026-11-10T17:14:19.423",
       "publishedOn": "2025-04-25",
       "setId": "db-g24239",
       "products": [
@@ -1148,7 +1140,7 @@
     "24247": {
       "name": "Rivals Clash",
       "abbreviation": "FB06",
-      "modifiedOn": "2026-10-16T15:00:43.893",
+      "modifiedOn": "2026-11-10T16:16:01.15",
       "publishedOn": "2025-05-02",
       "setId": "db-g24247",
       "products": [
@@ -1189,7 +1181,7 @@
     "24248": {
       "name": "Rivals Clash Release Event Cards",
       "abbreviation": "FB06_PR",
-      "modifiedOn": "2026-03-17T16:15:28.593",
+      "modifiedOn": "2026-11-10T16:16:45.51",
       "publishedOn": "2025-04-25",
       "setId": "db-g24248",
       "products": [
@@ -1206,7 +1198,7 @@
     "24251": {
       "name": "Starter Deck 9: Shallot",
       "abbreviation": "FS09",
-      "modifiedOn": "2026-09-22T12:34:22.103",
+      "modifiedOn": "2026-11-10T17:14:48.993",
       "publishedOn": "2025-06-13",
       "setId": "db-g24251",
       "products": [
@@ -1231,7 +1223,7 @@
     "24288": {
       "name": "Manga Booster 02",
       "abbreviation": "SB02",
-      "modifiedOn": "2026-07-28T14:02:37.147",
+      "modifiedOn": "2026-11-10T16:05:37.263",
       "publishedOn": "2025-11-14",
       "setId": "db-g24288",
       "products": [
@@ -1264,7 +1256,7 @@
     "24311": {
       "name": "New Adventure Alternate Art Reprints",
       "abbreviation": "FB03_AR",
-      "modifiedOn": "2025-04-18T15:04:51.54",
+      "modifiedOn": "2026-11-10T16:06:47.883",
       "publishedOn": "2025-05-02",
       "setId": "db-g24311",
       "products": []
@@ -1272,7 +1264,7 @@
     "24335": {
       "name": "Manga Booster 01",
       "abbreviation": "SB01",
-      "modifiedOn": "2025-09-25T17:48:42.827",
+      "modifiedOn": "2026-11-10T16:02:44.353",
       "publishedOn": "2025-06-27",
       "setId": "db-g24335",
       "products": [
@@ -1313,7 +1305,7 @@
     "24336": {
       "name": "Starter Deck 10: Giblet",
       "abbreviation": "FS10",
-      "modifiedOn": "2026-09-29T13:43:23.117",
+      "modifiedOn": "2026-11-10T17:15:29.23",
       "publishedOn": "2025-06-13",
       "setId": "db-g24336",
       "products": [
@@ -1338,7 +1330,7 @@
     "24368": {
       "name": "Manga Booster 01 Release Event Cards",
       "abbreviation": "SB01_PR",
-      "modifiedOn": "2025-09-25T16:36:50.563",
+      "modifiedOn": "2026-11-10T17:26:23.55",
       "publishedOn": "2025-06-27",
       "setId": "db-g24368",
       "products": [
@@ -1355,7 +1347,7 @@
     "24397": {
       "name": "Wish For Shenron",
       "abbreviation": "FB07",
-      "modifiedOn": "2026-07-28T14:02:50.47",
+      "modifiedOn": "2026-11-10T17:24:59.25",
       "publishedOn": "2025-09-19",
       "setId": "db-g24397",
       "products": [
@@ -1388,7 +1380,7 @@
     "24419": {
       "name": "Wish For Shenron Release Event Cards",
       "abbreviation": "FB07_PR",
-      "modifiedOn": "2025-09-12T12:16:28.703",
+      "modifiedOn": "2026-11-10T17:25:26.637",
       "publishedOn": "2025-09-12",
       "setId": "db-g24419",
       "products": [
@@ -1405,7 +1397,7 @@
     "24450": {
       "name": "Saiyan's Pride",
       "abbreviation": "FB08",
-      "modifiedOn": "2026-07-28T14:02:19.313",
+      "modifiedOn": "2026-11-10T16:17:45.22",
       "publishedOn": "2025-12-12",
       "setId": "db-g24450",
       "products": [
@@ -1438,7 +1430,7 @@
     "24492": {
       "name": "Manga Booster 02 Release Event Cards",
       "abbreviation": "SB02_RE",
-      "modifiedOn": "2025-11-14T18:54:06.083",
+      "modifiedOn": "2026-11-10T16:06:08.42",
       "publishedOn": "2025-11-14",
       "setId": "db-g24492",
       "products": [
@@ -1455,7 +1447,7 @@
     "24518": {
       "name": "Saiyan's Pride Release Event Cards",
       "abbreviation": "FB08_PR",
-      "modifiedOn": "2026-04-03T19:25:26.393",
+      "modifiedOn": "2026-11-10T16:18:15.207",
       "publishedOn": "2025-12-19",
       "setId": "db-g24518",
       "products": [
@@ -1472,7 +1464,7 @@
     "24569": {
       "name": "Dual Evolution",
       "abbreviation": "FB09",
-      "modifiedOn": "2026-07-28T14:01:44.72",
+      "modifiedOn": "2026-11-10T15:52:58.683",
       "publishedOn": "2026-03-13",
       "setId": "db-g24569",
       "products": [
@@ -1513,7 +1505,7 @@
     "24570": {
       "name": "Starter Deck EX: The Phase of Evolution",
       "abbreviation": "FS11",
-      "modifiedOn": "2026-07-28T14:02:06.57",
+      "modifiedOn": "2026-11-10T17:17:18.82",
       "publishedOn": "2026-03-13",
       "setId": "db-g24570",
       "products": [
@@ -1538,7 +1530,7 @@
     "24571": {
       "name": "Starter Deck EX: The Beat of Ki",
       "abbreviation": "FS12",
-      "modifiedOn": "2026-07-28T14:02:02.077",
+      "modifiedOn": "2026-11-10T17:16:50.397",
       "publishedOn": "2026-03-13",
       "setId": "db-g24571",
       "products": [
@@ -1563,7 +1555,7 @@
     "24604": {
       "name": "Cross Force",
       "abbreviation": "FB10",
-      "modifiedOn": "2026-07-28T14:01:32.78",
+      "modifiedOn": "2026-11-10T15:51:37.04",
       "publishedOn": "2026-06-19",
       "setId": "db-g24604",
       "products": [
@@ -1628,7 +1620,7 @@
     "24663": {
       "name": "Dual Evolution Release Event Cards",
       "abbreviation": "FB09_PR",
-      "modifiedOn": "2026-04-03T19:46:36.427",
+      "modifiedOn": "2026-11-10T15:53:24.707",
       "publishedOn": "2026-03-13",
       "setId": "db-g24663",
       "products": [
@@ -1645,7 +1637,7 @@
     "24680": {
       "name": "Story Booster 01",
       "abbreviation": "ST01",
-      "modifiedOn": "2026-08-24T11:38:46.6",
+      "modifiedOn": "2026-11-10T17:17:54.193",
       "publishedOn": "2026-08-21",
       "setId": "db-g24680",
       "products": [
@@ -1686,7 +1678,7 @@
     "24716": {
       "name": "Brightness of Hope",
       "abbreviation": "FB11",
-      "modifiedOn": "2026-10-28T18:20:47.313",
+      "modifiedOn": "2026-11-10T15:50:32.873",
       "publishedOn": "2026-10-16",
       "setId": "db-g24716",
       "products": [
@@ -1727,7 +1719,7 @@
     "24733": {
       "name": "Cross Force Release Event Cards",
       "abbreviation": "FB10_PR",
-      "modifiedOn": "2026-07-22T19:56:44.387",
+      "modifiedOn": "2026-11-10T15:52:10.257",
       "publishedOn": "2026-06-12",
       "setId": "db-g24733",
       "products": [
@@ -1744,7 +1736,7 @@
     "24783": {
       "name": "Reach the God",
       "abbreviation": "FB12",
-      "modifiedOn": "2026-11-06T20:30:13.597",
+      "modifiedOn": "2026-11-10T16:11:13.28",
       "publishedOn": "2026-12-11",
       "setId": "db-g24783",
       "products": [
@@ -1777,7 +1769,7 @@
     "24874": {
       "name": "Brightness of Hope Release Event Cards",
       "abbreviation": "FB11_PR",
-      "modifiedOn": "2026-10-28T18:19:08.413",
+      "modifiedOn": "2026-11-10T15:50:56.513",
       "publishedOn": "2026-10-16",
       "setId": "db-g24874",
       "products": [
@@ -1794,7 +1786,7 @@
     "24895": {
       "name": "Starter Deck 13: The Saiyan Raised on Earth",
       "abbreviation": "FS13",
-      "modifiedOn": "2026-09-29T18:53:43.55",
+      "modifiedOn": "2026-11-10T17:15:53.72",
       "publishedOn": "2027-01-22",
       "setId": "db-g24895",
       "products": [
@@ -1819,7 +1811,7 @@
     "24896": {
       "name": "Starter Deck 14: The Prince of Saiyan",
       "abbreviation": "FS14",
-      "modifiedOn": "2026-09-29T18:35:43.37",
+      "modifiedOn": "2026-11-10T17:16:11.147",
       "publishedOn": "2027-01-22",
       "setId": "db-g24896",
       "products": [

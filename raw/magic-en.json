@@ -2,12 +2,12 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-10T12:45:04.916Z",
+  "harvestedAt": "2026-11-11T11:56:26.519Z",
   "groups": {
     "1": {
       "name": "10th Edition",
       "abbreviation": "10E",
-      "modifiedOn": "2026-09-10T21:54:23.033",
+      "modifiedOn": "2026-11-10T02:47:13.663",
       "publishedOn": "2007-07-13",
       "setId": "mtg-10e",
       "products": [
@@ -9598,7 +9598,7 @@
     "1835": {
       "name": "Duel Decks: Nissa vs. Ob Nixilis",
       "abbreviation": "DDR",
-      "modifiedOn": "2026-08-06T03:07:30.867",
+      "modifiedOn": "2026-11-10T14:30:48.297",
       "publishedOn": "2016-09-02",
       "setId": "mtg-ddr",
       "products": [
@@ -21138,7 +21138,7 @@
     "2634": {
       "name": "Commander 2020",
       "abbreviation": "C20",
-      "modifiedOn": "2026-10-21T13:16:13.493",
+      "modifiedOn": "2026-11-09T21:43:23.43",
       "publishedOn": "2020-04-24",
       "setId": "mtg-c20",
       "products": [
@@ -21210,7 +21210,7 @@
     "2648": {
       "name": "Zendikar Rising",
       "abbreviation": "ZNR",
-      "modifiedOn": "2026-09-22T23:06:18.27",
+      "modifiedOn": "2026-11-10T02:58:40.347",
       "publishedOn": "2020-09-25",
       "setId": "mtg-znr",
       "products": [
@@ -21799,7 +21799,7 @@
     "2713": {
       "name": "Zendikar Rising Expeditions",
       "abbreviation": "ZNE",
-      "modifiedOn": "2026-10-22T05:04:21.78",
+      "modifiedOn": "2026-11-10T02:44:31.463",
       "publishedOn": "2020-09-25",
       "setId": "mtg-zne",
       "products": [
@@ -21823,37 +21823,8 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-09T19:40:42.767",
-      "products": [
-        {
-          "tcgplayerId": 731995,
-          "name": "Forest (0276) (WOE)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731995_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/731995/magic-the-list-reprints-forest-0276-woe"
-        },
-        {
-          "tcgplayerId": 731996,
-          "name": "Forest (0285) (MKM)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731996_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/731996/magic-the-list-reprints-forest-0285-mkm"
-        },
-        {
-          "tcgplayerId": 731997,
-          "name": "Forest (0401) (LCI)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731997_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/731997/magic-the-list-reprints-forest-0401-lci"
-        },
-        {
-          "tcgplayerId": 731998,
-          "name": "Mountain (0400) (LCI)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731998_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/731998/magic-the-list-reprints-mountain-0400-lci"
-        }
-      ]
+      "modifiedOn": "2026-11-10T17:18:38.38",
+      "products": []
     },
     "2716": {
       "name": "Commander: Zendikar Rising",
@@ -22398,7 +22369,7 @@
     "2791": {
       "name": "Strixhaven: Mystical Archive",
       "abbreviation": "STA",
-      "modifiedOn": "2026-09-23T06:26:10.883",
+      "modifiedOn": "2026-11-10T15:52:10.733",
       "publishedOn": "2021-04-23",
       "setId": "mtg-sta",
       "products": []
@@ -23518,7 +23489,7 @@
     "2958": {
       "name": "Unfinity",
       "abbreviation": "UNF",
-      "modifiedOn": "2026-10-21T16:10:46.23",
+      "modifiedOn": "2026-11-10T14:50:53.863",
       "publishedOn": "2022-07-29",
       "setId": "mtg-unf",
       "products": [
@@ -23585,6 +23556,14 @@
           "releasedOn": "2022-07-29",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/476061_200w.jpg",
           "url": "https://www.tcgplayer.com/product/476061/magic-unfinity-unfinity-3-booster-draft-pack"
+        },
+        {
+          "tcgplayerId": 732602,
+          "name": "Unfinity - Collector Booster Omega Pack",
+          "kind": "booster",
+          "releasedOn": "2022-07-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732602_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732602/magic-unfinity-unfinity-collector-booster-omega-pack"
         }
       ]
     },
@@ -25243,7 +25222,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-11-09T14:16:57.513",
+      "modifiedOn": "2026-11-10T19:08:05.273",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -25275,7 +25254,7 @@
           "tcgplayerId": 729864,
           "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
           "kind": "collection",
-          "releasedOn": "2026-11-06",
+          "releasedOn": "2022-12-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/729864_200w.jpg",
           "url": "https://www.tcgplayer.com/product/729864/magic-secret-lair-countdown-kit-secret-lair-countdown-kit-marvels-history-of-heroes"
         }
@@ -25776,7 +25755,7 @@
     "22979": {
       "name": "Commander: March of the Machine",
       "abbreviation": "MOC",
-      "modifiedOn": "2026-10-26T13:10:52.487",
+      "modifiedOn": "2026-11-10T02:56:49.457",
       "publishedOn": "2023-04-21",
       "setId": "mtg-moc",
       "products": [
@@ -26194,7 +26173,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-10-30T06:10:26.777",
+      "modifiedOn": "2026-11-09T21:44:08.16",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -27717,7 +27696,7 @@
     "23445": {
       "name": "Commander: Modern Horizons 3",
       "abbreviation": "M3C",
-      "modifiedOn": "2026-10-26T13:18:25.037",
+      "modifiedOn": "2026-11-09T21:42:17.19",
       "publishedOn": "2024-06-14",
       "setId": "mtg-m3c",
       "products": [
@@ -28400,7 +28379,7 @@
     "23556": {
       "name": "Foundations",
       "abbreviation": "FDN",
-      "modifiedOn": "2026-10-26T19:43:00.667",
+      "modifiedOn": "2026-11-10T02:50:07.507",
       "publishedOn": "2024-11-15",
       "setId": "mtg-fdn",
       "products": [
@@ -28670,7 +28649,7 @@
     "23814": {
       "name": "Commander: Foundations",
       "abbreviation": "FDC",
-      "modifiedOn": "2026-10-06T12:27:35.177",
+      "modifiedOn": "2026-11-10T02:48:15.467",
       "publishedOn": "2024-11-15",
       "setId": "mtg-fdc",
       "products": [
@@ -29869,7 +29848,7 @@
     "24245": {
       "name": "Marvel's Spider-Man",
       "abbreviation": "SPM",
-      "modifiedOn": "2026-10-21T13:47:01.997",
+      "modifiedOn": "2026-11-10T02:51:10.26",
       "publishedOn": "2025-09-26",
       "setId": "mtg-spm",
       "products": [
@@ -30115,7 +30094,7 @@
     "24421": {
       "name": "Avatar: The Last Airbender",
       "abbreviation": "TLA",
-      "modifiedOn": "2026-10-26T19:56:18.047",
+      "modifiedOn": "2026-11-10T02:49:18.283",
       "publishedOn": "2025-11-21",
       "setId": "mtg-tla",
       "products": [
@@ -30547,7 +30526,7 @@
     "24464": {
       "name": "Commander: Lorwyn Eclipsed",
       "abbreviation": "ECC",
-      "modifiedOn": "2026-10-23T20:42:42.86",
+      "modifiedOn": "2026-11-10T02:55:55.09",
       "publishedOn": "2026-01-23",
       "setId": "mtg-ecc",
       "products": [
@@ -31207,7 +31186,7 @@
     "24601": {
       "name": "Secrets of Strixhaven",
       "abbreviation": "SOS",
-      "modifiedOn": "2026-11-05T21:23:25.28",
+      "modifiedOn": "2026-11-10T02:55:17.823",
       "publishedOn": "2026-04-24",
       "setId": "mtg-sos",
       "products": [
@@ -31432,7 +31411,7 @@
     "24602": {
       "name": "Commander: Secrets of Strixhaven",
       "abbreviation": "SOC",
-      "modifiedOn": "2026-10-21T12:50:38.253",
+      "modifiedOn": "2026-11-10T02:54:01.67",
       "publishedOn": "2026-04-24",
       "setId": "mtg-soc",
       "products": [
@@ -31535,7 +31514,7 @@
     "24683": {
       "name": "The Hobbit",
       "abbreviation": "HOB",
-      "modifiedOn": "2026-10-23T20:06:53.413",
+      "modifiedOn": "2026-11-10T03:19:17.593",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hob",
       "products": [
@@ -32065,7 +32044,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-11-09T18:40:32.967",
+      "modifiedOn": "2026-11-10T19:41:17.71",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [

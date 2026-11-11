@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "dragonball",
   "lang": "en",
   "products": [
@@ -2101,21 +2101,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/729925_200w.jpg",
       "source": {
         "tcgplayer": 729925
-      }
-    },
-    {
-      "id": "db-en-tcp729979",
-      "game": "dragonball",
-      "kind": "other",
-      "name": "Energy Marker (E-189) (Gold)",
-      "lang": "en",
-      "setIds": [
-        "db-g23430"
-      ],
-      "releasedAt": "2024-02-14",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729979_200w.jpg",
-      "source": {
-        "tcgplayer": 729979
       }
     }
   ]

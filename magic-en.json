@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -1246,21 +1246,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/706227_200w.jpg",
       "source": {
         "tcgplayer": 706227
-      }
-    },
-    {
-      "id": "mtg-en-tcp729864",
-      "game": "magic",
-      "kind": "collection",
-      "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
-      "lang": "en",
-      "setIds": [
-        "mtg-slc"
-      ],
-      "releasedAt": "2026-11-06",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729864_200w.jpg",
-      "source": {
-        "tcgplayer": 729864
       }
     },
     {
@@ -11017,6 +11002,21 @@
       }
     },
     {
+      "id": "mtg-en-tcp729864",
+      "game": "magic",
+      "kind": "collection",
+      "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+      "lang": "en",
+      "setIds": [
+        "mtg-slc"
+      ],
+      "releasedAt": "2022-12-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729864_200w.jpg",
+      "source": {
+        "tcgplayer": 729864
+      }
+    },
+    {
       "id": "mtg-en-tcp448873",
       "game": "magic",
       "kind": "booster",
@@ -11824,6 +11824,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/476061_200w.jpg",
       "source": {
         "tcgplayer": 476061
+      }
+    },
+    {
+      "id": "mtg-en-tcp732602",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Unfinity - Collector Booster Omega Pack",
+      "lang": "en",
+      "setIds": [
+        "mtg-unf"
+      ],
+      "releasedAt": "2022-07-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732602_200w.jpg",
+      "source": {
+        "tcgplayer": 732602
       }
     },
     {
@@ -47931,50 +47946,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
       "source": {
         "tcgplayer": 722935
-      }
-    },
-    {
-      "id": "mtg-en-tcp731995",
-      "game": "magic",
-      "kind": "other",
-      "name": "Forest (0276) (WOE)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731995_200w.jpg",
-      "source": {
-        "tcgplayer": 731995
-      }
-    },
-    {
-      "id": "mtg-en-tcp731996",
-      "game": "magic",
-      "kind": "other",
-      "name": "Forest (0285) (MKM)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731996_200w.jpg",
-      "source": {
-        "tcgplayer": 731996
-      }
-    },
-    {
-      "id": "mtg-en-tcp731997",
-      "game": "magic",
-      "kind": "other",
-      "name": "Forest (0401) (LCI)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731997_200w.jpg",
-      "source": {
-        "tcgplayer": 731997
-      }
-    },
-    {
-      "id": "mtg-en-tcp731998",
-      "game": "magic",
-      "kind": "other",
-      "name": "Mountain (0400) (LCI)",
-      "lang": "en",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731998_200w.jpg",
-      "source": {
-        "tcgplayer": 731998
       }
     },
     {

@@ -11,6 +11,7 @@
 // 9 000 000 000 + empreinte de « code/numéro » — hors de la plage des identifiants TCGplayer.
 // Dates : mois de sortie d'après warcraft.wiki.gg (extensions de base, decks de raid et de donjon) ; inconnues sinon.
 import { createHash } from "node:crypto";
+import { readdir, rm } from "node:fs/promises";
 import { readJson, writeJson } from "./lib.mjs";
 
 const FILE = "cards/wow-wowcards.json";
@@ -166,6 +167,9 @@ export async function loadWow() {
         version: hash(data.cards)
       });
     }
+    // édition désormais retrouvée sur TCGplayer : son fichier à part n'a plus lieu d'être
+    const kept = new Set(out.map((s) => s.file.split("/").pop()));
+    for (const f of await readdir("cards/wow").catch(() => [])) if (/^wcx-.*\.json$/.test(f) && !kept.has(f)) await rm(`cards/wow/${f}`);
     console.log(
       `wow : ${covered.size} éditions de wowcards.info retrouvées sur TCGplayer (${filled} cartes complétées, ${added} ajoutées), ` +
         `${out.length} éditions ajoutées (${out.reduce((n, s) => n + s.count, 0)} cartes)`

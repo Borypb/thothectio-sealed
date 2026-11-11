@@ -13,9 +13,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.82,
+          "usd": 7.98,
           "low": 6,
-          "mid": 14.5
+          "mid": 14
         }
       ]
     },
@@ -30,8 +30,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.6,
-          "low": 0.8,
+          "usd": 1.51,
+          "low": 0.75,
           "mid": 2
         }
       ]
@@ -49,7 +49,7 @@
           "sub": "Foil",
           "usd": 4.61,
           "low": 1.75,
-          "mid": 3.92
+          "mid": 3.91
         }
       ]
     },
@@ -64,9 +64,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.93,
+          "usd": 2.68,
           "low": 1.4,
-          "mid": 2.85
+          "mid": 2.79
         }
       ]
     },
@@ -81,9 +81,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.83,
-          "low": 0.8,
-          "mid": 2
+          "usd": 1.8,
+          "low": 0.79,
+          "mid": 1.99
         }
       ]
     },
@@ -98,9 +98,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.17,
+          "usd": 3.1,
           "low": 1.7,
-          "mid": 2.79
+          "mid": 2.68
         }
       ]
     },
@@ -115,7 +115,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.06,
+          "usd": 3.86,
           "low": 1.43,
           "mid": 3
         }
@@ -134,7 +134,7 @@
           "sub": "Foil",
           "usd": 1.68,
           "low": 0.8,
-          "mid": 1.51
+          "mid": 1.6
         }
       ]
     },
@@ -149,9 +149,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.2,
-          "low": 1.37,
-          "mid": 2.97
+          "usd": 4.22,
+          "low": 1.36,
+          "mid": 2.96
         }
       ]
     },
@@ -167,7 +167,7 @@
         {
           "sub": "Normal",
           "usd": 102.43,
-          "low": 88.46,
+          "low": 87.39,
           "mid": 102.43
         }
       ]
@@ -185,8 +185,8 @@
         {
           "sub": "Foil",
           "usd": 51.19,
-          "low": 32.59,
-          "mid": 39.42
+          "low": 31.5,
+          "mid": 38.45
         }
       ]
     },
@@ -214,7 +214,7 @@
           "sub": "Normal",
           "usd": 6.58,
           "low": 3.73,
-          "mid": 10.43
+          "mid": 10.71
         }
       ]
     },
@@ -229,7 +229,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.05,
+          "usd": 5.08,
           "low": 4,
           "mid": 5.25
         }
@@ -246,9 +246,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.13,
+          "usd": 4.93,
           "low": 4,
-          "mid": 6.7
+          "mid": 6.72
         }
       ]
     },
@@ -264,7 +264,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 619.34,
+          "usd": 607.48,
           "low": 380,
           "mid": 393.76
         }
@@ -334,7 +334,7 @@
           "sub": "Foil",
           "usd": 102.45,
           "low": 67,
-          "mid": 89.97
+          "mid": 99.99
         }
       ]
     },
@@ -351,7 +351,7 @@
           "sub": "Foil",
           "usd": 64.21,
           "low": 29,
-          "mid": 36.5
+          "mid": 37.5
         }
       ]
     },
@@ -368,7 +368,7 @@
           "sub": "Foil",
           "usd": 51.2,
           "low": 24.01,
-          "mid": 53.76
+          "mid": 53.25
         }
       ]
     },
@@ -400,9 +400,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 55.41,
+          "usd": 54.27,
           "low": 29.49,
-          "mid": 42
+          "mid": 43.5
         }
       ]
     },
@@ -417,8 +417,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 68.48,
-          "low": 67,
+          "usd": 67.72,
+          "low": 60.98,
           "mid": 100
         }
       ]
@@ -440,6 +440,117 @@
           "mid": 1699.99
         }
       ]
+    },
+    {
+      "id": 723005,
+      "name": "Chikipi - My First Pal",
+      "number": "EPR-019",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723005/palworld-official-card-game-palworld-promo-cards-chikipi-my-first-pal-epr-019",
+      "prices": []
+    },
+    {
+      "id": 723006,
+      "name": "Lamball - My First Pal",
+      "number": "EPR-018",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723006_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723006/palworld-official-card-game-palworld-promo-cards-lamball-my-first-pal-epr-018",
+      "prices": []
+    },
+    {
+      "id": 723007,
+      "name": "Leezpunk - Treasure Bandit",
+      "number": "EPR-017",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723007_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723007/palworld-official-card-game-palworld-promo-cards-leezpunk-treasure-bandit-epr-017",
+      "prices": []
+    },
+    {
+      "id": 723009,
+      "name": "Depresso - Late Night Hustler",
+      "number": "EPR-016",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723009_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723009/palworld-official-card-game-palworld-promo-cards-depresso-late-night-hustler-epr-016",
+      "prices": []
+    },
+    {
+      "id": 723010,
+      "name": "Foxparks - Light of Courage",
+      "number": "EPR-012",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723010/palworld-official-card-game-palworld-promo-cards-foxparks-light-of-courage-epr-012",
+      "prices": []
+    },
+    {
+      "id": 723011,
+      "name": "Cattiva - My First Pal",
+      "number": "EPR-020",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723011_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723011/palworld-official-card-game-palworld-promo-cards-cattiva-my-first-pal-epr-020",
+      "prices": []
+    },
+    {
+      "id": 723012,
+      "name": "Treasure Chest Found!",
+      "number": "EPR-013",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723012/palworld-official-card-game-palworld-promo-cards-treasure-chest-found-epr-013",
+      "prices": []
+    },
+    {
+      "id": 723013,
+      "name": "Pengullet - Yearning for the Sky",
+      "number": "EPR-014",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723013_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723013/palworld-official-card-game-palworld-promo-cards-pengullet-yearning-for-the-sky-epr-014",
+      "prices": []
+    },
+    {
+      "id": 723014,
+      "name": "Found an Egg!",
+      "number": "EPR-015",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723014_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723014/palworld-official-card-game-palworld-promo-cards-found-an-egg-epr-015",
+      "prices": []
+    },
+    {
+      "id": 723015,
+      "name": "Soul",
+      "label": "Masters League 3rd Place",
+      "number": "ESOUL-016",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723015/palworld-official-card-game-palworld-promo-cards-soul-esoul-016-masters-league-3rd-place",
+      "prices": []
+    },
+    {
+      "id": 723016,
+      "name": "Soul",
+      "label": "Masters League 2nd Place",
+      "number": "ESOUL-015",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723016_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723016/palworld-official-card-game-palworld-promo-cards-soul-esoul-015-masters-league-2nd-place",
+      "prices": []
+    },
+    {
+      "id": 723017,
+      "name": "Soul - ESOUL-015",
+      "label": "Masters League 1st Place",
+      "number": "ESOUL-014",
+      "rarity": "PR",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723017_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723017/palworld-official-card-game-palworld-promo-cards-soul-esoul-015-masters-league-1st-place",
+      "prices": []
     },
     {
       "id": 730005,
@@ -469,9 +580,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 99,
-          "low": 98,
-          "mid": 99
+          "usd": 98,
+          "low": 95,
+          "mid": 98
         }
       ]
     },
@@ -520,7 +631,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8,
+          "usd": 6,
           "low": 6,
           "mid": 8
         }
@@ -554,9 +665,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.5,
+          "usd": 7,
           "low": 7,
-          "mid": 7.5
+          "mid": 8
         }
       ]
     },
@@ -573,7 +684,7 @@
           "sub": "Foil",
           "usd": 10,
           "low": 10,
-          "mid": 10
+          "mid": 12.5
         }
       ]
     },
@@ -598,9 +709,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 11,
+          "usd": 10,
           "low": 9,
-          "mid": 11
+          "mid": 12
         }
       ]
     },
@@ -632,9 +743,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 11.26,
+          "usd": 10,
           "low": 10,
-          "mid": 11.26
+          "mid": 11.5
         }
       ]
     },
@@ -666,9 +777,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 16.5,
-          "low": 14.99,
-          "mid": 16.5
+          "usd": 14.99,
+          "low": 15,
+          "mid": 17.99
         }
       ]
     },
@@ -683,9 +794,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 91.95,
+          "usd": 80.99,
           "low": 75,
-          "mid": 91.95
+          "mid": 80.99
         }
       ]
     },
@@ -717,12 +828,12 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 14.21,
-          "low": 11.68,
-          "mid": 14.51
+          "usd": 13.98,
+          "low": 10.51,
+          "mid": 14.01
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

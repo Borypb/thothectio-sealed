@@ -31,7 +31,7 @@
           "sub": "Holofoil",
           "usd": 0.31,
           "low": 0.25,
-          "mid": 0.33
+          "mid": 0.34
         }
       ]
     },
@@ -209,16 +209,16 @@
       "id": 535915,
       "name": "Kamehameha",
       "number": "FS01-15",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/535915_200w.jpg",
       "url": "https://www.tcgplayer.com/product/535915/dragon-ball-super-fusion-world-starter-deck-1-son-goku-kamehameha",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.83,
+          "usd": 7.71,
           "low": 4,
-          "mid": 7
+          "mid": 6.99
         }
       ]
     },
@@ -226,16 +226,16 @@
       "id": 535916,
       "name": "God Kamehameha",
       "number": "FS01-16",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/535916_200w.jpg",
       "url": "https://www.tcgplayer.com/product/535916/dragon-ball-super-fusion-world-starter-deck-1-son-goku-god-kamehameha",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.16,
+          "usd": 4.42,
           "low": 4.55,
-          "mid": 18.7
+          "mid": 12.85
         }
       ]
     },
@@ -375,7 +375,7 @@
           "sub": "Holofoil",
           "usd": 0.65,
           "low": 0.6,
-          "mid": 2.17
+          "mid": 1.57
         }
       ]
     },
@@ -416,5 +416,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

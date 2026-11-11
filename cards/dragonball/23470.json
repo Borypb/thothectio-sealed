@@ -13,7 +13,7 @@
         {
           "sub": "Normal",
           "usd": 0.23,
-          "low": 0.1,
+          "low": 0.09,
           "mid": 0.25
         }
       ]
@@ -158,14 +158,14 @@
       "id": 543468,
       "name": "Piccolo",
       "number": "FB02-126",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/543468_200w.jpg",
       "url": "https://www.tcgplayer.com/product/543468/dragon-ball-super-fusion-world-blazing-aura-piccolo-fb02-126",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09,
+          "usd": 0.1,
           "low": 0.06,
           "mid": 0.2
         }
@@ -218,7 +218,7 @@
           "sub": "Normal",
           "usd": 0.04,
           "low": 0.01,
-          "mid": 0.15
+          "mid": 0.14
         }
       ]
     },
@@ -252,7 +252,7 @@
           "sub": "Holofoil",
           "usd": 0.64,
           "low": 0.33,
-          "mid": 0.82
+          "mid": 0.8
         }
       ]
     },
@@ -354,7 +354,7 @@
           "sub": "Normal",
           "usd": 0.07,
           "low": 0.01,
-          "mid": 0.15
+          "mid": 0.14
         }
       ]
     },
@@ -413,7 +413,7 @@
       "id": 544339,
       "name": "Jaco",
       "number": "FB02-115",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/544339_200w.jpg",
       "url": "https://www.tcgplayer.com/product/544339/dragon-ball-super-fusion-world-blazing-aura-jaco",
@@ -575,7 +575,7 @@
           "sub": "Holofoil",
           "usd": 0.47,
           "low": 0.25,
-          "mid": 0.81
+          "mid": 0.83
         }
       ]
     },
@@ -592,7 +592,7 @@
           "sub": "Normal",
           "usd": 0.72,
           "low": 0.4,
-          "mid": 0.75
+          "mid": 0.73
         }
       ]
     },
@@ -609,7 +609,7 @@
           "sub": "Holofoil",
           "usd": 0.36,
           "low": 0.1,
-          "mid": 0.96
+          "mid": 0.97
         }
       ]
     },
@@ -626,7 +626,7 @@
           "sub": "Holofoil",
           "usd": 0.37,
           "low": 0.13,
-          "mid": 0.97
+          "mid": 0.95
         }
       ]
     },
@@ -634,14 +634,14 @@
       "id": 545771,
       "name": "Frieza",
       "number": "FB02-128",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/545771_200w.jpg",
       "url": "https://www.tcgplayer.com/product/545771/dragon-ball-super-fusion-world-blazing-aura-frieza-fb02-128",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.16,
+          "usd": 0.15,
           "low": 0.02,
           "mid": 0.22
         }
@@ -668,7 +668,7 @@
       "id": 546433,
       "name": "Android 17/Android 18",
       "number": "FB02-077",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/546433_200w.jpg",
       "url": "https://www.tcgplayer.com/product/546433/dragon-ball-super-fusion-world-blazing-aura-android-17-android-18",
@@ -709,9 +709,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.18,
+          "usd": 1.15,
           "low": 0.95,
-          "mid": 1.19
+          "mid": 1.2
         }
       ]
     },
@@ -728,7 +728,7 @@
           "sub": "Holofoil",
           "usd": 1.73,
           "low": 1,
-          "mid": 2.23
+          "mid": 2.24
         }
       ]
     },
@@ -753,14 +753,14 @@
       "id": 546623,
       "name": "Golden Frieza",
       "number": "FB02-140",
-      "rarity": "Secret Rare",
+      "rarity": "SCR",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/546623_200w.jpg",
       "url": "https://www.tcgplayer.com/product/546623/dragon-ball-super-fusion-world-blazing-aura-golden-frieza",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.94,
+          "usd": 6.87,
           "low": 5,
           "mid": 8.59
         }
@@ -771,7 +771,7 @@
       "name": "Son Goku",
       "label": "Alternate Art",
       "number": "FB02-119",
-      "rarity": "Super Rare",
+      "rarity": "SR",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/546624_200w.jpg",
       "url": "https://www.tcgplayer.com/product/546624/dragon-ball-super-fusion-world-blazing-aura-son-goku-fb02-119-alternate-art",
@@ -789,7 +789,7 @@
       "name": "Vegito",
       "label": "Alternate Art",
       "number": "FB02-061",
-      "rarity": "Super Rare",
+      "rarity": "SR",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/546626_200w.jpg",
       "url": "https://www.tcgplayer.com/product/546626/dragon-ball-super-fusion-world-blazing-aura-vegito-fb02-061-alternate-art",
@@ -816,7 +816,7 @@
           "sub": "Holofoil",
           "usd": 8.11,
           "low": 8.18,
-          "mid": 10
+          "mid": 9.99
         }
       ]
     },
@@ -869,8 +869,8 @@
         {
           "sub": "Holofoil",
           "usd": 2.25,
-          "low": 1.9,
-          "mid": 3.98
+          "low": 0.66,
+          "mid": 3.81
         }
       ]
     },
@@ -888,7 +888,7 @@
           "sub": "Holofoil",
           "usd": 5.79,
           "low": 6.72,
-          "mid": 10
+          "mid": 9.99
         }
       ]
     },
@@ -941,7 +941,7 @@
         {
           "sub": "Holofoil",
           "usd": 3.21,
-          "low": 2.99,
+          "low": 2.98,
           "mid": 8
         }
       ]
@@ -959,7 +959,7 @@
         {
           "sub": "Holofoil",
           "usd": 5.06,
-          "low": 4.71,
+          "low": 4.95,
           "mid": 7.98
         }
       ]
@@ -976,9 +976,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 12.1,
+          "usd": 12.17,
           "low": 8.5,
-          "mid": 15.4
+          "mid": 15
         }
       ]
     },
@@ -994,7 +994,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 64.73,
+          "usd": 64,
           "low": 48,
           "mid": 71.99
         }
@@ -1013,8 +1013,8 @@
         {
           "sub": "Holofoil",
           "usd": 14.79,
-          "low": 14.5,
-          "mid": 17.63
+          "low": 14.49,
+          "mid": 16.81
         }
       ]
     },
@@ -1032,7 +1032,7 @@
           "sub": "Holofoil",
           "usd": 33.62,
           "low": 25,
-          "mid": 35.28
+          "mid": 35.14
         }
       ]
     },
@@ -1050,7 +1050,7 @@
           "sub": "Holofoil",
           "usd": 101.67,
           "low": 90,
-          "mid": 100.35
+          "mid": 100.69
         }
       ]
     },
@@ -1119,7 +1119,7 @@
         {
           "sub": "Normal",
           "usd": 0.06,
-          "low": 0.07,
+          "low": 0.06,
           "mid": 0.2
         }
       ]
@@ -1188,7 +1188,7 @@
           "sub": "Holofoil",
           "usd": 0.36,
           "low": 0.1,
-          "mid": 0.39
+          "mid": 0.4
         }
       ]
     },
@@ -1222,7 +1222,7 @@
           "sub": "Normal",
           "usd": 0.08,
           "low": 0.01,
-          "mid": 0.14
+          "mid": 0.13
         }
       ]
     },
@@ -1391,7 +1391,7 @@
         {
           "sub": "Normal",
           "usd": 0.18,
-          "low": 0.02,
+          "low": 0.01,
           "mid": 0.2
         }
       ]
@@ -1477,7 +1477,7 @@
           "sub": "Holofoil",
           "usd": 0.14,
           "low": 0.01,
-          "mid": 0.21
+          "mid": 0.2
         }
       ]
     },
@@ -1562,7 +1562,7 @@
           "sub": "Normal",
           "usd": 0.12,
           "low": 0.03,
-          "mid": 0.16
+          "mid": 0.17
         }
       ]
     },
@@ -1604,14 +1604,14 @@
       "id": 548242,
       "name": "Zamasu : Fused",
       "number": "FB02-046",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548242_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548242/dragon-ball-super-fusion-world-blazing-aura-zamasu-fused-fb02-046",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.13,
+          "usd": 0.14,
           "low": 0.01,
           "mid": 0.2
         }
@@ -1953,7 +1953,7 @@
           "sub": "Holofoil",
           "usd": 0.13,
           "low": 0.08,
-          "mid": 0.23
+          "mid": 0.24
         }
       ]
     },
@@ -1987,7 +1987,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.03,
-          "mid": 0.15
+          "mid": 0.16
         }
       ]
     },
@@ -2199,14 +2199,14 @@
       "id": 548277,
       "name": "Hercule",
       "number": "FB02-098",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548277_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548277/dragon-ball-super-fusion-world-blazing-aura-hercule",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.95,
+          "usd": 1.92,
           "low": 0.89,
           "mid": 2
         }
@@ -2225,7 +2225,7 @@
           "sub": "Normal",
           "usd": 0.08,
           "low": 0.01,
-          "mid": 0.15
+          "mid": 0.16
         }
       ]
     },
@@ -2291,7 +2291,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.45,
+          "usd": 0.44,
           "low": 0.1,
           "mid": 0.4
         }
@@ -2310,7 +2310,7 @@
           "sub": "Normal",
           "usd": 0.21,
           "low": 0.03,
-          "mid": 0.23
+          "mid": 0.22
         }
       ]
     },
@@ -2318,14 +2318,14 @@
       "id": 548284,
       "name": "Whis",
       "number": "FB02-106",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548284_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548284/dragon-ball-super-fusion-world-blazing-aura-whis-fb02-106",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.18,
+          "usd": 0.19,
           "low": 0.05,
           "mid": 0.2
         }
@@ -2361,7 +2361,7 @@
           "sub": "Normal",
           "usd": 0.08,
           "low": 0.01,
-          "mid": 0.13
+          "mid": 0.15
         }
       ]
     },
@@ -2395,7 +2395,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.05,
-          "mid": 0.17
+          "mid": 0.16
         }
       ]
     },
@@ -2428,7 +2428,7 @@
         {
           "sub": "Normal",
           "usd": 0.08,
-          "low": 0.01,
+          "low": 0.02,
           "mid": 0.15
         }
       ]
@@ -2505,14 +2505,14 @@
       "id": 548295,
       "name": "Son Gohan : Adolescence",
       "number": "FB02-122",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548295_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548295/dragon-ball-super-fusion-world-blazing-aura-son-gohan-adolescence-fb02-122",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.11,
+          "usd": 0.12,
           "low": 0.05,
           "mid": 0.2
         }
@@ -2556,7 +2556,7 @@
       "id": 548298,
       "name": "Videl",
       "number": "FB02-125",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548298_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548298/dragon-ball-super-fusion-world-blazing-aura-videl-fb02-125",
@@ -2582,7 +2582,7 @@
           "sub": "Normal",
           "usd": 0.05,
           "low": 0.01,
-          "mid": 0.14
+          "mid": 0.13
         }
       ]
     },
@@ -2598,7 +2598,7 @@
         {
           "sub": "Normal",
           "usd": 0.13,
-          "low": 0.03,
+          "low": 0.02,
           "mid": 0.15
         }
       ]
@@ -2675,14 +2675,14 @@
       "id": 548305,
       "name": "Time Rewound",
       "number": "FB02-137",
-      "rarity": "Rare",
+      "rarity": "R",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/548305_200w.jpg",
       "url": "https://www.tcgplayer.com/product/548305/dragon-ball-super-fusion-world-blazing-aura-time-rewound",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.23,
+          "usd": 0.22,
           "low": 0.1,
           "mid": 0.27
         }
@@ -2717,9 +2717,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 67.99,
-          "low": 55,
-          "mid": 63.05
+          "usd": 66.63,
+          "low": 58.98,
+          "mid": 65.52
         }
       ]
     },
@@ -2740,5 +2740,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

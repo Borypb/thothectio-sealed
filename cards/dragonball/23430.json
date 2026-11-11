@@ -31,7 +31,7 @@
           "sub": "Normal",
           "usd": 0.83,
           "low": 0.49,
-          "mid": 1.47
+          "mid": 1.41
         }
       ]
     },
@@ -48,7 +48,7 @@
           "sub": "Normal",
           "usd": 0.9,
           "low": 0.38,
-          "mid": 1.42
+          "mid": 1.45
         }
       ]
     },
@@ -65,7 +65,7 @@
           "sub": "Normal",
           "usd": 0.43,
           "low": 0.4,
-          "mid": 0.55
+          "mid": 0.5
         }
       ]
     },
@@ -82,7 +82,7 @@
           "sub": "Normal",
           "usd": 0.47,
           "low": 0.25,
-          "mid": 0.77
+          "mid": 0.69
         }
       ]
     },
@@ -99,7 +99,7 @@
           "sub": "Normal",
           "usd": 0.32,
           "low": 0.25,
-          "mid": 0.6
+          "mid": 0.55
         }
       ]
     },
@@ -116,7 +116,7 @@
           "sub": "Normal",
           "usd": 1.81,
           "low": 0.49,
-          "mid": 2.95
+          "mid": 2.94
         }
       ]
     },
@@ -132,8 +132,8 @@
         {
           "sub": "Normal",
           "usd": 1.01,
-          "low": 1.69,
-          "mid": 5.85
+          "low": 1.01,
+          "mid": 2.62
         }
       ]
     },
@@ -166,8 +166,8 @@
         {
           "sub": "Normal",
           "usd": 1.03,
-          "low": 0.4,
-          "mid": 1.4
+          "low": 0.25,
+          "mid": 1.3
         }
       ]
     },
@@ -184,7 +184,7 @@
           "sub": "Normal",
           "usd": 0.39,
           "low": 0.1,
-          "mid": 0.63
+          "mid": 0.58
         }
       ]
     },
@@ -216,9 +216,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 64.23,
-          "low": 55,
-          "mid": 86.36
+          "usd": 64.84,
+          "low": 39.22,
+          "mid": 78.18
         }
       ]
     },
@@ -269,7 +269,7 @@
           "sub": "Holofoil",
           "usd": 21.35,
           "low": 14.99,
-          "mid": 21.35
+          "mid": 20.63
         }
       ]
     },
@@ -285,8 +285,8 @@
         {
           "sub": "Holofoil",
           "usd": 38.58,
-          "low": 27.99,
-          "mid": 38
+          "low": 16.31,
+          "mid": 37.42
         }
       ]
     },
@@ -303,7 +303,7 @@
           "sub": "Holofoil",
           "usd": 33.63,
           "low": 24.99,
-          "mid": 29.43
+          "mid": 28.95
         }
       ]
     },
@@ -319,8 +319,8 @@
         {
           "sub": "Holofoil",
           "usd": 35.47,
-          "low": 33.85,
-          "mid": 40
+          "low": 19.75,
+          "mid": 39.89
         }
       ]
     },
@@ -354,7 +354,7 @@
           "sub": "Holofoil",
           "usd": 22.12,
           "low": 20,
-          "mid": 28.49
+          "mid": 26.99
         }
       ]
     },
@@ -371,7 +371,7 @@
           "sub": "Holofoil",
           "usd": 75.41,
           "low": 68.66,
-          "mid": 79.98
+          "mid": 80.2
         }
       ]
     },
@@ -388,7 +388,7 @@
           "sub": "Holofoil",
           "usd": 10.48,
           "low": 7.25,
-          "mid": 11.68
+          "mid": 11.47
         }
       ]
     },
@@ -405,7 +405,7 @@
           "sub": "Holofoil",
           "usd": 18.95,
           "low": 7.95,
-          "mid": 19.26
+          "mid": 18.98
         }
       ]
     },
@@ -459,7 +459,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.27,
+          "usd": 2.23,
           "low": 1.5,
           "mid": 2.29
         }
@@ -478,7 +478,7 @@
           "sub": "Normal",
           "usd": 1.47,
           "low": 1,
-          "mid": 1.22
+          "mid": 1.47
         }
       ]
     },
@@ -563,7 +563,7 @@
           "sub": "Holofoil",
           "usd": 33.98,
           "low": 29.99,
-          "mid": 34.94
+          "mid": 34.95
         }
       ]
     },
@@ -597,7 +597,7 @@
           "sub": "Holofoil",
           "usd": 17.16,
           "low": 15,
-          "mid": 20
+          "mid": 20.16
         }
       ]
     },
@@ -614,7 +614,7 @@
           "sub": "Holofoil",
           "usd": 23.53,
           "low": 21.2,
-          "mid": 24.94
+          "mid": 24.95
         }
       ]
     },
@@ -682,7 +682,7 @@
           "sub": "Holofoil",
           "usd": 10.36,
           "low": 9.35,
-          "mid": 19.18
+          "mid": 17.99
         }
       ]
     },
@@ -716,7 +716,7 @@
           "sub": "Holofoil",
           "usd": 2.61,
           "low": 0.99,
-          "mid": 2.72
+          "mid": 2.75
         }
       ]
     },
@@ -750,7 +750,7 @@
           "sub": "Holofoil",
           "usd": 15,
           "low": 13.99,
-          "mid": 35
+          "mid": 29.49
         }
       ]
     },
@@ -886,7 +886,7 @@
           "sub": "Holofoil",
           "usd": 7.42,
           "low": 8.99,
-          "mid": 11.82
+          "mid": 11.94
         }
       ]
     },
@@ -936,7 +936,7 @@
         {
           "sub": "Holofoil",
           "usd": 1.03,
-          "low": 0.76,
+          "low": 0.53,
           "mid": 1.47
         }
       ]
@@ -954,7 +954,7 @@
           "sub": "Holofoil",
           "usd": 1.77,
           "low": 1.59,
-          "mid": 1.78
+          "mid": 1.77
         }
       ]
     },
@@ -1107,7 +1107,7 @@
           "sub": "Holofoil",
           "usd": 52.47,
           "low": 25.02,
-          "mid": 50
+          "mid": 48
         }
       ]
     },
@@ -1175,7 +1175,7 @@
           "sub": "Holofoil",
           "usd": 100.87,
           "low": 90,
-          "mid": 94
+          "mid": 94.5
         }
       ]
     },
@@ -1225,8 +1225,8 @@
         {
           "sub": "Holofoil",
           "usd": 16.18,
-          "low": 16.18,
-          "mid": 40.98
+          "low": 6.88,
+          "mid": 27.31
         }
       ]
     },
@@ -1242,8 +1242,8 @@
         {
           "sub": "Holofoil",
           "usd": 19.43,
-          "low": 19.43,
-          "mid": 23.99
+          "low": 17.99,
+          "mid": 22.98
         }
       ]
     },
@@ -1378,8 +1378,8 @@
         {
           "sub": "Holofoil",
           "usd": 64.24,
-          "low": 47.49,
-          "mid": 68.71
+          "low": 45,
+          "mid": 69.98
         }
       ]
     },
@@ -1429,8 +1429,8 @@
         {
           "sub": "Holofoil",
           "usd": 35.19,
-          "low": 18,
-          "mid": 24.5
+          "low": 17,
+          "mid": 25
         }
       ]
     },
@@ -1464,7 +1464,7 @@
           "sub": "Holofoil",
           "usd": 31.96,
           "low": 24,
-          "mid": 30.98
+          "mid": 31.49
         }
       ]
     },
@@ -1481,7 +1481,7 @@
           "sub": "Holofoil",
           "usd": 55,
           "low": 37.78,
-          "mid": 46.22
+          "mid": 48.35
         }
       ]
     },
@@ -1496,9 +1496,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 20.22,
+          "usd": 19.37,
           "low": 11.74,
-          "mid": 21.53
+          "mid": 22.05
         }
       ]
     },
@@ -1549,7 +1549,7 @@
           "sub": "Holofoil",
           "usd": 56.89,
           "low": 39.98,
-          "mid": 79.65
+          "mid": 75.33
         }
       ]
     },
@@ -1583,7 +1583,7 @@
           "sub": "Holofoil",
           "usd": 118.73,
           "low": 78.98,
-          "mid": 135
+          "mid": 149.99
         }
       ]
     },
@@ -1600,7 +1600,7 @@
           "sub": "Holofoil",
           "usd": 39.22,
           "low": 24.2,
-          "mid": 38.11
+          "mid": 37
         }
       ]
     },
@@ -1615,7 +1615,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 64.41,
+          "usd": 63.14,
           "low": 30.6,
           "mid": 46.28
         }
@@ -1656,7 +1656,14 @@
       "rarity": "None",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/639632_200w.jpg",
       "url": "https://www.tcgplayer.com/product/639632/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-e-44-gold",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1637.5,
+          "low": 3999.99,
+          "mid": 3999.99
+        }
+      ]
     },
     {
       "id": 639633,
@@ -1720,9 +1727,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1525.74,
-          "low": 1449.98,
-          "mid": 1525.74
+          "usd": 1499,
+          "low": 1400,
+          "mid": 1499
         }
       ]
     },
@@ -1851,7 +1858,7 @@
           "sub": "Holofoil",
           "usd": 500,
           "low": 999,
-          "mid": 1034.46
+          "mid": 1034.99
         }
       ]
     },
@@ -1999,7 +2006,14 @@
       "rarity": "None",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/641330_200w.jpg",
       "url": "https://www.tcgplayer.com/product/641330/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-e-34-gold",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 174.46,
+          "low": 200,
+          "mid": 200
+        }
+      ]
     },
     {
       "id": 641331,
@@ -2237,7 +2251,7 @@
         {
           "sub": "Holofoil",
           "usd": 102.16,
-          "low": 89.65,
+          "low": 88.75,
           "mid": 128
         }
       ]
@@ -2343,7 +2357,7 @@
           "sub": "Holofoil",
           "usd": 227.95,
           "low": 220.95,
-          "mid": 226.07
+          "mid": 226.03
         }
       ]
     },
@@ -2358,9 +2372,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 21.65,
+          "usd": 20.55,
           "low": 15,
-          "mid": 20.04
+          "mid": 20.1
         }
       ]
     },
@@ -2411,7 +2425,7 @@
           "sub": "Normal",
           "usd": 5.3,
           "low": 3.9,
-          "mid": 5.98
+          "mid": 5.97
         }
       ]
     },
@@ -2428,7 +2442,7 @@
           "sub": "Holofoil",
           "usd": 35.09,
           "low": 21.85,
-          "mid": 39.98
+          "mid": 39.43
         }
       ]
     },
@@ -2445,7 +2459,7 @@
           "sub": "Holofoil",
           "usd": 29.87,
           "low": 21.98,
-          "mid": 32
+          "mid": 31.99
         }
       ]
     },
@@ -2461,8 +2475,8 @@
         {
           "sub": "Holofoil",
           "usd": 56.6,
-          "low": 40.02,
-          "mid": 58.97
+          "low": 39.98,
+          "mid": 56.5
         }
       ]
     },
@@ -2511,9 +2525,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 32.18,
+          "usd": 31.79,
           "low": 29.44,
-          "mid": 39.68
+          "mid": 38.08
         }
       ]
     },
@@ -2563,8 +2577,8 @@
         {
           "sub": "Holofoil",
           "usd": 25.8,
-          "low": 20.24,
-          "mid": 27.49
+          "low": 18.78,
+          "mid": 26.95
         }
       ]
     },
@@ -2580,8 +2594,8 @@
         {
           "sub": "Holofoil",
           "usd": 39.54,
-          "low": 25,
-          "mid": 30.98
+          "low": 24.77,
+          "mid": 32.49
         }
       ]
     },
@@ -2596,7 +2610,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 23.23,
+          "usd": 22.99,
           "low": 18.43,
           "mid": 31.42
         }
@@ -2615,7 +2629,7 @@
           "sub": "Holofoil",
           "usd": 37.55,
           "low": 33.81,
-          "mid": 59.99
+          "mid": 59.78
         }
       ]
     },
@@ -2632,7 +2646,7 @@
           "sub": "Holofoil",
           "usd": 62.79,
           "low": 47,
-          "mid": 55.71
+          "mid": 55.72
         }
       ]
     },
@@ -2648,7 +2662,7 @@
         {
           "sub": "Holofoil",
           "usd": 37.39,
-          "low": 36.14,
+          "low": 35.99,
           "mid": 38
         }
       ]
@@ -2681,9 +2695,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 24.41,
+          "usd": 23.93,
           "low": 20.99,
-          "mid": 33.01
+          "mid": 29
         }
       ]
     },
@@ -2698,9 +2712,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 30.72,
+          "usd": 30.33,
           "low": 27,
-          "mid": 38
+          "mid": 33.53
         }
       ]
     },
@@ -2716,8 +2730,8 @@
         {
           "sub": "Holofoil",
           "usd": 25.56,
-          "low": 18.18,
-          "mid": 23.99
+          "low": 17.67,
+          "mid": 23.84
         }
       ]
     },
@@ -2732,9 +2746,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.17,
-          "low": 11.2,
-          "mid": 28.54
+          "usd": 13.06,
+          "low": 12.95,
+          "mid": 27.1
         }
       ]
     },
@@ -2749,9 +2763,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 24.19,
+          "usd": 23.37,
           "low": 15,
-          "mid": 29.84
+          "mid": 29.7
         }
       ]
     },
@@ -2987,9 +3001,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 999.99,
+          "usd": 1053.75,
           "low": 999,
-          "mid": 1108.5
+          "mid": 1053.75
         }
       ]
     },
@@ -3133,8 +3147,8 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 92.67,
-          "low": 76,
+          "usd": 94.39,
+          "low": 75,
           "mid": 87.41
         }
       ]
@@ -3151,8 +3165,8 @@
         {
           "sub": "Holofoil",
           "usd": 34.97,
-          "low": 34.31,
-          "mid": 47.45
+          "low": 33.75,
+          "mid": 45.07
         }
       ]
     },
@@ -3168,8 +3182,8 @@
         {
           "sub": "Holofoil",
           "usd": 90.62,
-          "low": 59,
-          "mid": 88.87
+          "low": 55.21,
+          "mid": 88.23
         }
       ]
     },
@@ -3202,8 +3216,8 @@
         {
           "sub": "Holofoil",
           "usd": 97.43,
-          "low": 76,
-          "mid": 104.36
+          "low": 75.89,
+          "mid": 102.52
         }
       ]
     },
@@ -3252,9 +3266,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 31.39,
+          "usd": 29.72,
           "low": 12.99,
-          "mid": 28.25
+          "mid": 26.75
         }
       ]
     },
@@ -3406,7 +3420,7 @@
           "sub": "Normal",
           "usd": 25.11,
           "low": 10.98,
-          "mid": 24.46
+          "mid": 23.96
         }
       ]
     },
@@ -3551,8 +3565,8 @@
         {
           "sub": "Holofoil",
           "usd": 114.33,
-          "low": 120,
-          "mid": 135
+          "low": 96.86,
+          "mid": 120
         }
       ]
     },
@@ -3630,7 +3644,7 @@
           "sub": "Normal",
           "usd": 13.3,
           "low": 5.33,
-          "mid": 12
+          "mid": 9.16
         }
       ]
     },
@@ -3715,7 +3729,7 @@
           "sub": "Holofoil",
           "usd": 8.78,
           "low": 8.94,
-          "mid": 20.97
+          "mid": 25.48
         }
       ]
     },
@@ -3833,7 +3847,7 @@
         {
           "sub": "Holofoil",
           "usd": 51.84,
-          "low": 36.32,
+          "low": 35.96,
           "mid": 53.22
         }
       ]
@@ -3849,9 +3863,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 8.37,
-          "low": 7.45,
-          "mid": 9.98
+          "usd": 8.35,
+          "low": 7.47,
+          "mid": 9.99
         }
       ]
     },
@@ -3867,7 +3881,7 @@
         {
           "sub": "Holofoil",
           "usd": 59.98,
-          "low": 35.26,
+          "low": 32.74,
           "mid": 60
         }
       ]
@@ -3970,7 +3984,7 @@
           "sub": "Holofoil",
           "usd": 0.44,
           "low": 0.28,
-          "mid": 0.64
+          "mid": 0.65
         }
       ]
     },
@@ -4055,7 +4069,7 @@
           "sub": "Normal",
           "usd": 7.71,
           "low": 5.5,
-          "mid": 7.92
+          "mid": 7.93
         }
       ]
     },
@@ -4071,8 +4085,8 @@
         {
           "sub": "Holofoil",
           "usd": 104.55,
-          "low": 88,
-          "mid": 99.68
+          "low": 87.01,
+          "mid": 99.37
         }
       ]
     },
@@ -4166,7 +4180,7 @@
         {
           "sub": "Holofoil",
           "usd": 66.92,
-          "low": 64.98,
+          "low": 64,
           "mid": 65
         }
       ]
@@ -4200,8 +4214,8 @@
         {
           "sub": "Holofoil",
           "usd": 103.8,
-          "low": 100,
-          "mid": 129.5
+          "low": 79.99,
+          "mid": 100
         }
       ]
     },
@@ -4218,7 +4232,7 @@
           "sub": "Holofoil",
           "usd": 73.3,
           "low": 148.5,
-          "mid": 415
+          "mid": 400
         }
       ]
     },
@@ -4269,7 +4283,7 @@
           "sub": "Holofoil",
           "usd": 50.61,
           "low": 45,
-          "mid": 59.99
+          "mid": 49.98
         }
       ]
     },
@@ -4284,7 +4298,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 74.68,
+          "usd": 77.41,
           "low": 200,
           "mid": 200
         }
@@ -4320,7 +4334,7 @@
           "sub": "Holofoil",
           "usd": 29.75,
           "low": 29,
-          "mid": 36
+          "mid": 38
         }
       ]
     },
@@ -4335,7 +4349,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 64.64,
+          "usd": 65.08,
           "low": 67.99,
           "mid": 79.97
         }
@@ -4354,7 +4368,7 @@
           "sub": "Holofoil",
           "usd": 173.16,
           "low": 150,
-          "mid": 199.99
+          "mid": 179.99
         }
       ]
     },
@@ -4370,8 +4384,8 @@
         {
           "sub": "Holofoil",
           "usd": 396.91,
-          "low": 800,
-          "mid": 999
+          "low": 799,
+          "mid": 800
         }
       ]
     },
@@ -4388,7 +4402,7 @@
           "sub": "Normal",
           "usd": 16.98,
           "low": 9.99,
-          "mid": 17.49
+          "mid": 16.98
         }
       ]
     },
@@ -4405,7 +4419,7 @@
           "sub": "Holofoil",
           "usd": 108.09,
           "low": 65.57,
-          "mid": 108.09
+          "mid": 102.81
         }
       ]
     },
@@ -4439,7 +4453,7 @@
           "sub": "Holofoil",
           "usd": 132.29,
           "low": 83.73,
-          "mid": 133.01
+          "mid": 132.65
         }
       ]
     },
@@ -4456,7 +4470,7 @@
           "sub": "Normal",
           "usd": 9.09,
           "low": 7.9,
-          "mid": 8.64
+          "mid": 9.35
         }
       ]
     },
@@ -4490,7 +4504,7 @@
           "sub": "Normal",
           "usd": 8.09,
           "low": 4.25,
-          "mid": 6.36
+          "mid": 6.1
         }
       ]
     },
@@ -4507,7 +4521,7 @@
           "sub": "Holofoil",
           "usd": 95.37,
           "low": 65.99,
-          "mid": 82
+          "mid": 81.99
         }
       ]
     },
@@ -4541,7 +4555,7 @@
           "sub": "Holofoil",
           "usd": 80,
           "low": 44,
-          "mid": 59.12
+          "mid": 56
         }
       ]
     },
@@ -4664,9 +4678,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 500,
-          "low": 400,
-          "mid": 500
+          "usd": 475,
+          "low": 350,
+          "mid": 475
         }
       ]
     },
@@ -4692,7 +4706,7 @@
         {
           "sub": "Holofoil",
           "usd": 1.99,
-          "low": 1.38,
+          "low": 1.37,
           "mid": 3.03
         }
       ]
@@ -4727,7 +4741,7 @@
           "sub": "Holofoil",
           "usd": 1.92,
           "low": 0.85,
-          "mid": 2.37
+          "mid": 2.31
         }
       ]
     },
@@ -4761,7 +4775,7 @@
           "sub": "Holofoil",
           "usd": 2.25,
           "low": 1.5,
-          "mid": 2.73
+          "mid": 2.45
         }
       ]
     },
@@ -4795,7 +4809,7 @@
           "sub": "Holofoil",
           "usd": 1.42,
           "low": 0.86,
-          "mid": 1.54
+          "mid": 1.58
         }
       ]
     },
@@ -4811,8 +4825,8 @@
         {
           "sub": "Holofoil",
           "usd": 315.43,
-          "low": 138.99,
-          "mid": 172.01
+          "low": 135,
+          "mid": 165
         }
       ]
     },
@@ -4846,7 +4860,7 @@
           "sub": "Holofoil",
           "usd": 235,
           "low": 150,
-          "mid": 254.2
+          "mid": 235
         }
       ]
     },
@@ -4863,7 +4877,7 @@
           "sub": "Holofoil",
           "usd": 2.05,
           "low": 0.75,
-          "mid": 2.23
+          "mid": 2.16
         }
       ]
     },
@@ -4880,7 +4894,7 @@
           "sub": "Holofoil",
           "usd": 103.07,
           "low": 92.8,
-          "mid": 101.53
+          "mid": 99.99
         }
       ]
     },
@@ -4896,8 +4910,8 @@
         {
           "sub": "Holofoil",
           "usd": 2.74,
-          "low": 1.78,
-          "mid": 4.09
+          "low": 1.83,
+          "mid": 4.05
         }
       ]
     },
@@ -4912,9 +4926,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 179.99,
+          "usd": 173.34,
           "low": 160,
-          "mid": 179.99
+          "mid": 173.34
         }
       ]
     },
@@ -4930,7 +4944,7 @@
         {
           "sub": "Holofoil",
           "usd": 1.93,
-          "low": 1,
+          "low": 0.99,
           "mid": 2.66
         }
       ]
@@ -4963,9 +4977,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.78,
+          "usd": 1.75,
           "low": 1,
-          "mid": 2.01
+          "mid": 2.02
         }
       ]
     },
@@ -4981,7 +4995,7 @@
         {
           "sub": "Holofoil",
           "usd": 161.22,
-          "low": 100,
+          "low": 99,
           "mid": 149.99
         }
       ]
@@ -4997,9 +5011,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.72,
+          "usd": 5.68,
           "low": 4.99,
-          "mid": 7.66
+          "mid": 7.75
         }
       ]
     },
@@ -5032,8 +5046,8 @@
         {
           "sub": "Holofoil",
           "usd": 1.55,
-          "low": 0.99,
-          "mid": 2.42
+          "low": 1,
+          "mid": 2.35
         }
       ]
     },
@@ -5049,7 +5063,7 @@
         {
           "sub": "Holofoil",
           "usd": 127.48,
-          "low": 93,
+          "low": 92.5,
           "mid": 138.5
         }
       ]
@@ -5117,8 +5131,8 @@
         {
           "sub": "Holofoil",
           "usd": 79,
-          "low": 49,
-          "mid": 67.91
+          "low": 34,
+          "mid": 49
         }
       ]
     },
@@ -5195,8 +5209,8 @@
         {
           "sub": "Normal",
           "usd": 0.1,
-          "low": 20,
-          "mid": 20
+          "low": 18.51,
+          "mid": 19.26
         }
       ]
     },
@@ -5228,9 +5242,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1000,
-          "low": 1000,
-          "mid": 1000
+          "usd": 750,
+          "low": 500,
+          "mid": 750
         }
       ]
     },
@@ -5263,11 +5277,21 @@
         {
           "sub": "Holofoil",
           "usd": 125,
-          "low": 121.5,
-          "mid": 122
+          "low": 99,
+          "mid": 100
         }
       ]
+    },
+    {
+      "id": 729979,
+      "name": "Energy Marker",
+      "label": "E-189 · Gold",
+      "number": "E-189",
+      "rarity": "None",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/729979/dragon-ball-super-fusion-world-fusion-world-energy-markers-energy-marker-e-189-gold",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

@@ -39,7 +39,7 @@
         {
           "sub": "Holofoil",
           "usd": 6.73,
-          "low": 5,
+          "low": 4.99,
           "mid": 7
         }
       ]
@@ -57,7 +57,7 @@
           "sub": "Holofoil",
           "usd": 1.34,
           "low": 0.8,
-          "mid": 1.45
+          "mid": 1.49
         }
       ]
     },
@@ -72,7 +72,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.6,
+          "usd": 4.57,
           "low": 2.38,
           "mid": 5
         }
@@ -91,7 +91,7 @@
           "sub": "Holofoil",
           "usd": 2.67,
           "low": 1.5,
-          "mid": 2.7
+          "mid": 2.89
         }
       ]
     },
@@ -259,7 +259,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.36,
+          "usd": 0.37,
           "low": 0.1,
           "mid": 0.26
         }
@@ -278,7 +278,7 @@
           "sub": "Normal",
           "usd": 1.06,
           "low": 1.06,
-          "mid": 1.99
+          "mid": 1.75
         }
       ]
     },
@@ -310,7 +310,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.28,
+          "usd": 0.29,
           "low": 0.07,
           "mid": 0.3
         }
@@ -382,9 +382,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 74.95,
+          "usd": 78.32,
           "low": 74.6,
-          "mid": 93
+          "mid": 101.49
         }
       ]
     },
@@ -492,7 +492,7 @@
           "sub": "Holofoil",
           "usd": 90.55,
           "low": 77.58,
-          "mid": 129.85
+          "mid": 119.93
         }
       ]
     },
@@ -537,7 +537,7 @@
       "name": "Burning Power of Instinct",
       "label": "Bonus Pack Alternate Art",
       "number": "FS09-17",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638037_200w.jpg",
       "url": "https://www.tcgplayer.com/product/638037/dragon-ball-super-fusion-world-starter-deck-9-shallot-burning-power-of-instinct-bonus-pack-alternate-art",
@@ -545,8 +545,8 @@
         {
           "sub": "Holofoil",
           "usd": 18.94,
-          "low": 17.84,
-          "mid": 18.99
+          "low": 13.16,
+          "mid": 18.92
         }
       ]
     },
@@ -555,7 +555,7 @@
       "name": "I'm gonna end you!",
       "label": "Bonus Pack Alternate Art",
       "number": "FS09-18",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638038_200w.jpg",
       "url": "https://www.tcgplayer.com/product/638038/dragon-ball-super-fusion-world-starter-deck-9-shallot-im-gonna-end-you-bonus-pack-alternate-art",
@@ -580,9 +580,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 59.03,
+          "usd": 57.67,
           "low": 51.99,
-          "mid": 59.37
+          "mid": 58.87
         }
       ]
     },
@@ -598,7 +598,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.8,
+          "usd": 5.94,
           "low": 4.15,
           "mid": 5.65
         }
@@ -641,5 +641,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

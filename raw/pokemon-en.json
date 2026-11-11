@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-10T11:50:25.932Z",
+  "harvestedAt": "2026-11-11T11:28:49.265Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-09T16:34:40.123",
+      "modifiedOn": "2026-11-10T12:53:53.613",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -7821,30 +7821,8 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-11-09T19:44:23.76",
-      "products": [
-        {
-          "tcgplayerId": 731999,
-          "name": "Ampharos - 029/086 (Cosmos Holo)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/731999_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/731999/pokemon-blister-exclusives-ampharos-029-086-cosmos-holo"
-        },
-        {
-          "tcgplayerId": 732000,
-          "name": "Delphox - 013/086 (Cosmos Holo)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732000_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/732000/pokemon-blister-exclusives-delphox-013-086-cosmos-holo"
-        },
-        {
-          "tcgplayerId": 732001,
-          "name": "Keldeo - 019/086 (Cosmos Holo)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732001_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/732001/pokemon-blister-exclusives-keldeo-019-086-cosmos-holo"
-        }
-      ]
+      "modifiedOn": "2026-11-10T12:57:02.713",
+      "products": []
     },
     "2295": {
       "name": "Dragon Majesty",
@@ -20497,7 +20475,7 @@
     "23821": {
       "name": "SV: Prismatic Evolutions",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-10-27T21:29:47.553",
+      "modifiedOn": "2026-11-10T03:13:41.417",
       "publishedOn": "2025-01-17",
       "setCode": "sv08.5",
       "products": [
@@ -21566,7 +21544,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-11-09T13:42:32.637",
+      "modifiedOn": "2026-11-10T03:03:35.56",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -22031,7 +22009,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-09T19:10:55.337",
+      "modifiedOn": "2026-11-10T13:34:34.83",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -22459,7 +22437,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-11-02T20:55:27.47",
+      "modifiedOn": "2026-11-10T03:17:51.393",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [
@@ -22821,7 +22799,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-10-29T22:36:19.107",
+      "modifiedOn": "2026-11-10T03:15:13.41",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [

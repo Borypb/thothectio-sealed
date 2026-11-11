@@ -3,32 +3,32 @@
   "cards": [
     {
       "id": 730034,
-      "name": "Gemmon",
+      "name": "Gemmon - BD01-02",
       "number": "BD01-02 R",
       "rarity": "Rare",
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730034_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/730034/digimon-card-game-starter-deck-25-rubeusdramon-gemmon",
+      "url": "https://www.tcgplayer.com/product/730034/digimon-card-game-starter-deck-25-rubeusdramon-gemmon-bd01-02",
       "prices": []
     },
     {
       "id": 730037,
-      "name": "Liskmon",
+      "name": "Liskmon - BD01-03",
       "number": "BD01-03 C",
       "rarity": "Common",
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730037_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/730037/digimon-card-game-starter-deck-25-rubeusdramon-liskmon",
+      "url": "https://www.tcgplayer.com/product/730037/digimon-card-game-starter-deck-25-rubeusdramon-liskmon-bd01-03",
       "prices": []
     },
     {
       "id": 730038,
-      "name": "Reptilimon",
+      "name": "Reptilimon - BD01-05",
       "number": "BD01-05 U",
       "rarity": "Uncommon",
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730038_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/730038/digimon-card-game-starter-deck-25-rubeusdramon-reptilimon",
+      "url": "https://www.tcgplayer.com/product/730038/digimon-card-game-starter-deck-25-rubeusdramon-reptilimon-bd01-05",
       "prices": []
     },
     {
@@ -36,10 +36,61 @@
       "name": "Kanata Hondo",
       "number": "BD01-10 U",
       "rarity": "Uncommon",
+      "type": "Tamer",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730046_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730046/digimon-card-game-starter-deck-25-rubeusdramon-kanata-hondo",
       "prices": []
+    },
+    {
+      "id": 732358,
+      "name": "Gemmon - SD01-02",
+      "number": "SD01-02 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732358/digimon-card-game-starter-deck-25-rubeusdramon-gemmon-sd01-02",
+      "prices": []
+    },
+    {
+      "id": 732359,
+      "name": "Liskmon - SD01-03",
+      "number": "SD01-03 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732359/digimon-card-game-starter-deck-25-rubeusdramon-liskmon-sd01-03",
+      "prices": []
+    },
+    {
+      "id": 732360,
+      "name": "Reptilimon - SD01-04",
+      "number": "SD01-04 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732360/digimon-card-game-starter-deck-25-rubeusdramon-reptilimon-sd01-04",
+      "prices": []
+    },
+    {
+      "id": 732361,
+      "name": "Rubeusdramon",
+      "number": "ED01-01 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732361/digimon-card-game-starter-deck-25-rubeusdramon-rubeusdramon",
+      "prices": []
+    },
+    {
+      "id": 732363,
+      "name": "Bond of Rubies",
+      "number": "ED01-09 SR",
+      "rarity": "Super Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732363/digimon-card-game-starter-deck-25-rubeusdramon-bond-of-rubies",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

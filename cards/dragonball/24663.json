@@ -32,7 +32,7 @@
           "sub": "Normal",
           "usd": 3.78,
           "low": 2.99,
-          "mid": 3.77
+          "mid": 4.53
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688549_200w.jpg"
@@ -176,7 +176,7 @@
           "sub": "Normal",
           "usd": 4.26,
           "low": 4,
-          "mid": 4.56
+          "mid": 4.42
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688557_200w.jpg"
@@ -210,8 +210,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.51,
-          "low": 2.3,
+          "usd": 1,
+          "low": 0.9,
           "mid": 4.01
         }
       ],
@@ -315,14 +315,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/677212_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688565/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-veku-br-fb09-016",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 2.12,
-          "low": 4.99,
-          "mid": 4.99
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688565_200w.jpg"
     },
     {
@@ -337,8 +330,8 @@
         {
           "sub": "Normal",
           "usd": 4.67,
-          "low": 1.29,
-          "mid": 2.91
+          "low": 1.18,
+          "mid": 2.8
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688566_200w.jpg"
@@ -509,7 +502,7 @@
       "id": 688576,
       "name": "Trunks : SH",
       "number": "FB09-062",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/677391_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688576/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-trunks-sh",
@@ -1235,7 +1228,7 @@
           "sub": "Normal",
           "usd": 0.88,
           "low": 0.8,
-          "mid": 1.19
+          "mid": 1.18
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688617_200w.jpg"
@@ -1318,11 +1311,11 @@
           "sub": "Normal",
           "usd": 5.11,
           "low": 4,
-          "mid": 4.84
+          "mid": 5.07
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688622_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

@@ -481,8 +481,8 @@
         {
           "sub": "Normal",
           "usd": 5.1,
-          "low": 3.98,
-          "mid": 4.86
+          "low": 3.99,
+          "mid": 5.08
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/667822_200w.jpg"
@@ -880,7 +880,7 @@
       "id": 667845,
       "name": "Paragus",
       "number": "FB08-082",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/663890_200w.jpg",
       "url": "https://www.tcgplayer.com/product/667845/dragon-ball-super-fusion-world-saiyans-pride-release-event-cards-paragus-fb08-082",
@@ -988,9 +988,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.52,
+          "usd": 3.49,
           "low": 0.97,
-          "mid": 3.52
+          "mid": 3.49
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/667851_200w.jpg"
@@ -1248,5 +1248,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/667865_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

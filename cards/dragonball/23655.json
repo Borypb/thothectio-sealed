@@ -33,7 +33,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.07,
-          "mid": 0.19
+          "mid": 0.2
         }
       ]
     },
@@ -84,7 +84,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.28,
+          "usd": 1.27,
           "low": 0.5,
           "mid": 1.48
         }
@@ -176,7 +176,7 @@
           "sub": "Normal",
           "usd": 0.18,
           "low": 0.05,
-          "mid": 0.2
+          "mid": 0.23
         }
       ]
     },
@@ -212,7 +212,7 @@
           "sub": "Holofoil",
           "usd": 0.63,
           "low": 0.25,
-          "mid": 0.32
+          "mid": 0.4
         }
       ]
     },
@@ -238,16 +238,16 @@
       "id": 591856,
       "name": "Krillin",
       "number": "FS07-02",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/591856_200w.jpg",
       "url": "https://www.tcgplayer.com/product/591856/dragon-ball-super-fusion-world-starter-deck-7-vegeta-mini-krillin",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15,
+          "usd": 0.17,
           "low": 0.05,
-          "mid": 0.15
+          "mid": 0.17
         }
       ]
     },
@@ -298,7 +298,7 @@
           "sub": "Normal",
           "usd": 0.16,
           "low": 0.05,
-          "mid": 0.19
+          "mid": 0.2
         }
       ]
     },
@@ -329,12 +329,12 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.32,
+          "usd": 1.25,
           "low": 1.2,
-          "mid": 1.32
+          "mid": 1.25
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

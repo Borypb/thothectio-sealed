@@ -53,7 +53,7 @@
           "sub": "Foil",
           "usd": 4.58,
           "low": 3.75,
-          "mid": 5.22
+          "mid": 5.15
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693093_200w.jpg"
@@ -72,7 +72,7 @@
           "sub": "Foil",
           "usd": 3.13,
           "low": 1.89,
-          "mid": 2.48
+          "mid": 2.19
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693094_200w.jpg"
@@ -91,7 +91,7 @@
           "sub": "Foil",
           "usd": 3.49,
           "low": 2.49,
-          "mid": 3.93
+          "mid": 3.88
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693178_200w.jpg"
@@ -127,9 +127,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.09,
-          "low": 4.09,
-          "mid": 5.04
+          "usd": 4.01,
+          "low": 2.05,
+          "mid": 5.36
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693181_200w.jpg"
@@ -143,7 +143,14 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/684647_200w.jpg",
       "url": "https://www.tcgplayer.com/product/693183/digimon-card-game-starter-deck-24-data-squad-release-event-cards-falcomon-welcome-tamers-pack-vol2",
-      "prices": [],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.93,
+          "low": 44,
+          "mid": 44
+        }
+      ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693183_200w.jpg"
     },
     {
@@ -160,7 +167,7 @@
           "sub": "Foil",
           "usd": 5.69,
           "low": 3,
-          "mid": 4.97
+          "mid": 4.23
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693201_200w.jpg"
@@ -197,8 +204,8 @@
         {
           "sub": "Foil",
           "usd": 14.91,
-          "low": 19.99,
-          "mid": 21.99
+          "low": 18.99,
+          "mid": 20.6
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693203_200w.jpg"
@@ -216,12 +223,12 @@
         {
           "sub": "Foil",
           "usd": 4.97,
-          "low": 3.84,
-          "mid": 5.53
+          "low": 3.83,
+          "mid": 5.33
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/693204_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

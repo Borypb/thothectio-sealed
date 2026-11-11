@@ -48,7 +48,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2,
+          "usd": 0.5,
           "low": 0.5,
           "mid": 2
         }
@@ -113,7 +113,7 @@
       "id": 716240,
       "name": "Son Goku : BR",
       "number": "FB11-012",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/710758_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716240/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-goku-br",
@@ -131,7 +131,7 @@
       "id": 716241,
       "name": "Son Goten",
       "number": "FB11-013",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711327_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716241/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-son-goten-fb11-013",
@@ -644,7 +644,7 @@
           "sub": "Normal",
           "usd": 2.9,
           "low": 2,
-          "mid": 2.89
+          "mid": 2.9
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716269_200w.jpg"
@@ -653,7 +653,7 @@
       "id": 716270,
       "name": "Gowasu",
       "number": "FB11-059",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/709949_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716270/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-gowasu-fb11-059",
@@ -1230,7 +1230,7 @@
       "name": "Borgos",
       "label": "Great Ape",
       "number": "FB11-109",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716302_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716302/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-borgos-great-ape",
@@ -1302,7 +1302,7 @@
       "name": "Shugesh",
       "label": "Great Ape",
       "number": "FB11-117",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716306_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716306/dragon-ball-super-fusion-world-brightness-of-hope-release-event-cards-shugesh-great-ape",
@@ -1352,5 +1352,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/716308_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

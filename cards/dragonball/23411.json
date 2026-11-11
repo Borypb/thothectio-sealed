@@ -13,8 +13,8 @@
         {
           "sub": "Holofoil",
           "usd": 0.3,
-          "low": 0.14,
-          "mid": 0.39
+          "low": 0.12,
+          "mid": 0.36
         }
       ]
     },
@@ -39,14 +39,14 @@
       "id": 536599,
       "name": "Golden Frieza",
       "number": "FS04-03",
-      "rarity": "Super Rare",
+      "rarity": "SR",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/536599_200w.jpg",
       "url": "https://www.tcgplayer.com/product/536599/dragon-ball-super-fusion-world-starter-deck-4-frieza-golden-frieza",
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.44,
+          "usd": 0.43,
           "low": 0.25,
           "mid": 0.52
         }
@@ -73,7 +73,7 @@
       "id": 536601,
       "name": "Zarbon",
       "number": "FS04-05",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/536601_200w.jpg",
       "url": "https://www.tcgplayer.com/product/536601/dragon-ball-super-fusion-world-starter-deck-4-frieza-zarbon",
@@ -150,7 +150,7 @@
           "sub": "Normal",
           "usd": 0.21,
           "low": 0.19,
-          "mid": 0.26
+          "mid": 0.25
         }
       ]
     },
@@ -192,16 +192,16 @@
       "id": 536608,
       "name": "Frieza",
       "number": "FS04-12",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/536608_200w.jpg",
       "url": "https://www.tcgplayer.com/product/536608/dragon-ball-super-fusion-world-starter-deck-4-frieza-frieza-fs04-12",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.69,
-          "low": 0.3,
-          "mid": 0.89
+          "usd": 0.62,
+          "low": 0.65,
+          "mid": 0.92
         }
       ]
     },
@@ -209,7 +209,7 @@
       "id": 536609,
       "name": "Frieza",
       "number": "FS04-13",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/536609_200w.jpg",
       "url": "https://www.tcgplayer.com/product/536609/dragon-ball-super-fusion-world-starter-deck-4-frieza-frieza-fs04-13",
@@ -243,7 +243,7 @@
       "id": 536611,
       "name": "Golden Death Beam",
       "number": "FS04-15",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/536611_200w.jpg",
       "url": "https://www.tcgplayer.com/product/536611/dragon-ball-super-fusion-world-starter-deck-4-frieza-golden-death-beam",
@@ -252,7 +252,7 @@
           "sub": "Normal",
           "usd": 0.12,
           "low": 0.05,
-          "mid": 0.22
+          "mid": 0.21
         }
       ]
     },
@@ -269,7 +269,7 @@
           "sub": "Normal",
           "usd": 0.44,
           "low": 0.25,
-          "mid": 0.46
+          "mid": 0.45
         }
       ]
     },
@@ -395,7 +395,7 @@
           "sub": "Holofoil",
           "usd": 1.73,
           "low": 1.5,
-          "mid": 1.73
+          "mid": 1.82
         }
       ]
     },
@@ -416,5 +416,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

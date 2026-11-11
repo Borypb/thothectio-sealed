@@ -5,7 +5,7 @@
       "id": 629575,
       "name": "Krillin",
       "number": "FB06-003",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/629024_200w.jpg",
       "url": "https://www.tcgplayer.com/product/629575/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-krillin-fb06-003",
@@ -275,7 +275,7 @@
       "id": 629590,
       "name": "Announcer",
       "number": "FB06-026",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638960_200w.jpg",
       "url": "https://www.tcgplayer.com/product/629590/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-announcer",
@@ -329,16 +329,16 @@
       "id": 629593,
       "name": "Nam",
       "number": "FB06-033",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/638962_200w.jpg",
       "url": "https://www.tcgplayer.com/product/629593/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-nam",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.75,
+          "usd": 0.63,
           "low": 0.4,
-          "mid": 0.75
+          "mid": 0.63
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/629593_200w.jpg"
@@ -456,8 +456,8 @@
         {
           "sub": "Normal",
           "usd": 0.51,
-          "low": 0.52,
-          "mid": 4.5
+          "low": 0.81,
+          "mid": 4.53
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/629600_200w.jpg"
@@ -646,7 +646,7 @@
       "id": 629611,
       "name": "Frieza : BR",
       "number": "FB06-060",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/629199_200w.jpg",
       "url": "https://www.tcgplayer.com/product/629611/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-frieza-br",
@@ -1275,14 +1275,14 @@
       "id": 630082,
       "name": "Dr. Arinsu : DA",
       "number": "FP-039",
-      "rarity": "Promo",
+      "rarity": "PR",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/630082_200w.jpg",
       "url": "https://www.tcgplayer.com/product/630082/dragon-ball-super-fusion-world-rivals-clash-release-event-cards-dr-arinsu-da-fp-039",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.45,
+          "usd": 0.43,
           "low": 0.29,
           "mid": 0.49
         }
@@ -1337,7 +1337,7 @@
           "sub": "Holofoil",
           "usd": 11.58,
           "low": 5.99,
-          "mid": 12.45
+          "mid": 11.99
         }
       ]
     },
@@ -1360,5 +1360,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/684319_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

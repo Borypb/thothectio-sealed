@@ -121,7 +121,7 @@
         {
           "sub": "Normal",
           "usd": 2.45,
-          "low": 1.99,
+          "low": 1.97,
           "mid": 2.44
         }
       ],
@@ -247,7 +247,7 @@
         {
           "sub": "Normal",
           "usd": 2.7,
-          "low": 1.75,
+          "low": 1.74,
           "mid": 2
         }
       ],
@@ -439,7 +439,7 @@
           "sub": "Normal",
           "usd": 4.6,
           "low": 3.5,
-          "mid": 4.72
+          "mid": 4.73
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700839_200w.jpg"
@@ -511,7 +511,7 @@
           "sub": "Normal",
           "usd": 14.08,
           "low": 6.5,
-          "mid": 8.44
+          "mid": 8
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700843_200w.jpg"
@@ -520,7 +520,7 @@
       "id": 700844,
       "name": "Ice Ray",
       "number": "FB10-048",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Extra",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/693127_200w.jpg",
       "url": "https://www.tcgplayer.com/product/700844/dragon-ball-super-fusion-world-cross-force-release-event-cards-ice-ray",
@@ -600,7 +600,7 @@
         {
           "sub": "Normal",
           "usd": 1.58,
-          "low": 1.4,
+          "low": 1.39,
           "mid": 1.49
         }
       ],
@@ -664,7 +664,7 @@
       "id": 700852,
       "name": "Turles",
       "number": "FB10-061",
-      "rarity": "Uncommon",
+      "rarity": "UC",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/694369_200w.jpg",
       "url": "https://www.tcgplayer.com/product/700852/dragon-ball-super-fusion-world-cross-force-release-event-cards-turles-fb10-061",
@@ -700,16 +700,16 @@
       "id": 700854,
       "name": "Piccolo",
       "number": "FB10-065",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/692113_200w.jpg",
       "url": "https://www.tcgplayer.com/product/700854/dragon-ball-super-fusion-world-cross-force-release-event-cards-piccolo-fb10-065",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.75,
+          "usd": 0.8,
           "low": 0.5,
-          "mid": 1.23
+          "mid": 1.28
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700854_200w.jpg"
@@ -718,7 +718,7 @@
       "id": 700855,
       "name": "Piccolo",
       "number": "FB10-066",
-      "rarity": "Common",
+      "rarity": "C",
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/692405_200w.jpg",
       "url": "https://www.tcgplayer.com/product/700855/dragon-ball-super-fusion-world-cross-force-release-event-cards-piccolo-fb10-066",
@@ -961,7 +961,7 @@
           "sub": "Normal",
           "usd": 1.5,
           "low": 0.5,
-          "mid": 1.75
+          "mid": 1.59
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700868_200w.jpg"
@@ -1051,7 +1051,7 @@
           "sub": "Normal",
           "usd": 1.37,
           "low": 0.5,
-          "mid": 1.05
+          "mid": 1
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700873_200w.jpg"
@@ -1345,5 +1345,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700889_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-10"
+  "pricesAt": "2026-11-11"
 }

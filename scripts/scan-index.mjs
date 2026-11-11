@@ -23,7 +23,7 @@
 //   yugioh     identifiant YGOPRODeck ; fiche : carte avec ses extensions, l'illustration de l'entrée en tête
 //   lorcana    code d'extension ; fiche : carte Lorcast ; sets : { code, name, released_at }
 //   onepiece   produit punk-records ; fiche : carte punk-records ; sets : { id, name } (identifiants de l'app)
-//   riftbound, dragonball, palworld, digimon, cyberpunk : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
+//   riftbound, dragonball, palworld, digimon, cyberpunk, gundam, wow : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
 import { createHash } from "node:crypto";
 import { readFile, writeFile, mkdir, rm, readdir } from "node:fs/promises";
 import { createReadStream, createWriteStream } from "node:fs";
@@ -294,7 +294,7 @@ async function onepiece(lang) {
 }
 
 /** préfixe des identifiants d'extension dans l'app (src/catalog/sources/tcgcatalog.ts) */
-const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb", gundam: "gdm" };
+const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb", gundam: "gdm", wow: "wow" };
 
 /** licences du catalogue TCGplayer publiées par ce dépôt (cards/) */
 async function tcgcatalog(game) {
@@ -307,7 +307,7 @@ async function tcgcatalog(game) {
     for (const c of data.cards ?? []) {
       if (!c.image) continue;
       // finitions vendues (une impression chacune), sans les cotes
-      const rec = clean({ ...pick(c, ["id", "name", "label", "number", "rarity", "type", "image", "sourceImage", "url"]), prices: c.prices?.map((p) => ({ sub: p.sub, usd: null })) });
+      const rec = clean({ ...pick(c, ["id", "name", "label", "number", "rarity", "type", "image", "sourceImage", "altImages", "url"]), prices: c.prices?.map((p) => ({ sub: p.sub, usd: null })) });
       out.push({ key: s.file, img: c.image, set, rec });
     }
   }
@@ -338,6 +338,8 @@ const FILES = [
   { game: "palworld", lang: "en", list: () => tcgcatalog("palworld") },
   { game: "cyberpunk", lang: "en", list: () => tcgcatalog("cyberpunk") },
   { game: "gundam", lang: "en", list: () => tcgcatalog("gundam") },
+  // World of Warcraft : images TCGplayer seulement (les images de wowcards.info ne sont pas téléchargées en masse)
+  { game: "wow", lang: "en", list: async () => (await tcgcatalog("wow")).filter((e) => !/wowcards\.info/.test(e.img)) },
   { game: "yugioh", lang: "en", list: yugioh },
   ...POKEMON_LANGS.slice(3).map(([l, t]) => ({ game: "pokemon", lang: l, list: () => pokemon(l, t) })),
   { game: "magic", lang: "en", list: magic }

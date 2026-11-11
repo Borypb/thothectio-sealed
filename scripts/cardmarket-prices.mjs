@@ -6,12 +6,12 @@
 //  - dans l'extension, carte retrouvée par son nom ; cartes de même nom (versions alternatives, enchantées…) :
 //    dans l'ordre des numéros d'un côté et des fiches Cardmarket de l'autre.
 // Licences traitées : celles dont Cardmarket a une seule fiche par carte, toutes langues confondues
-// (Lorcana, Riftbound, Cyberpunk). Pas One Piece, Digimon ni Dragon Ball Fusion World : Cardmarket y sépare
+// (Lorcana, Riftbound, Cyberpunk, World of Warcraft). Pas One Piece, Digimon ni Dragon Ball Fusion World : Cardmarket y sépare
 // éditions anglaise et japonaise en extensions distinctes sans dire laquelle est laquelle, et une cote de la
 // mauvaise édition serait fausse.
 // Sortie : cards/cardmarket-<licence>.json
 //   { updatedAt, cardmarketAt, fields: ["avg", "low", …], cards: { <clé de la carte dans l'app>: [valeurs] } }
-//   clé : produit TCGplayer pour les licences du catalogue (Riftbound, Cyberpunk), « <code extension>:<numéro> »
+//   clé : produit TCGplayer pour les licences du catalogue (Riftbound, Cyberpunk, World of Warcraft), « <code extension>:<numéro> »
 //   pour Lorcana (Lorcast).
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { gunzipSync } from "node:zlib";
@@ -128,7 +128,9 @@ async function lorcanaSets() {
 const GAMES = {
   lorcana: { cm: 19, sets: lorcanaSets },
   riftbound: { cm: 22, sets: async () => catalogSets("riftbound") },
-  cyberpunk: { cm: 23, sets: async () => catalogSets("cyberpunk") }
+  cyberpunk: { cm: 23, sets: async () => catalogSets("cyberpunk") },
+  // World of Warcraft TCG : une fiche par carte (le jeu n'a été édité qu'en anglais, hors quelques extensions traduites)
+  wow: { cm: 2, sets: async () => catalogSets("wow") }
 };
 
 export async function cardmarketPrices() {

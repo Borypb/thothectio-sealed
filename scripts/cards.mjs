@@ -1,4 +1,5 @@
-// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk),
+// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk,
+// Gundam, World of Warcraft),
 // depuis le catalogue TCGplayer (TCGCSV). Images du CDN TCGplayer, cote du marché américain en $.
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
 // Image d'attente de TCGplayer (dos de carte d'une extension qui vient de sortir, tcgplayer-placeholders.mjs) : l'adresse
@@ -7,6 +8,7 @@
 import { createHash } from "node:crypto";
 import { getJson, readJson, writeJson } from "./lib.mjs";
 import { checkTcgplayerImages, RECENT_MS } from "./tcgplayer-placeholders.mjs";
+import { loadWow } from "./wow-merge.mjs";
 
 const TCGCSV = "https://tcgcsv.com/tcgplayer";
 
@@ -18,7 +20,9 @@ export const CARD_GAMES = {
   riftbound: [/^riftbound/i, /riftbound/i],
   cyberpunk: [/^cyberpunk tcg$/i, /cyberpunk/i],
   // Gundam Card Game (Bandai, 2025) : catégorie TCGplayer 86, cartes anglaises
-  gundam: [/^gundam card game$/i, /^gundam/i]
+  gundam: [/^gundam card game$/i, /^gundam/i],
+  // World of Warcraft TCG (2006-2013) : catégorie TCGplayer 13 « WoW », complétée par wowcards.info (wow-merge.mjs)
+  wow: [/^wow$/i, /^world of warcraft (tcg|trading card game)$/i]
 };
 
 /**
@@ -146,6 +150,7 @@ export async function cards() {
     const groups = ((await getJson(`${TCGCSV}/${cat.categoryId}/groups`)).results ?? []).filter((g) => !/^(sealed|accessor)/i.test(g.name));
     const sets = [];
     let fetched = 0;
+    const wow = game === "wow" ? await loadWow() : null;
     for (const g of groups) {
       const file = `cards/${game}/${g.groupId}.json`;
       const old = prevById.get(g.groupId);
@@ -173,6 +178,7 @@ export async function cards() {
       }
       if (!data.cards.length) continue;
       await holdWaitingImages(game, g, data);
+      wow?.enrich(g.groupId, data);
       // cotes du jour : une ligne par finition (Normal, Foil…). usd : prix du marché (ventes), sinon milieu, sinon bas ;
       // low / mid : annonce la moins chère et prix médian des annonces en cours (détail des prix dans l'app).
       // Pas de prix « haut » : c'est l'annonce la plus chère, pas une vente.
@@ -204,6 +210,7 @@ export async function cards() {
       });
     }
     await cleanEventImages(game, groups, sets);
+    if (wow) sets.push(...(await wow.extraSets(hash)));
     await writeNames(game, sets);
     index.games[game] = { categoryId: cat.categoryId, category: cat.name, sets };
     console.log(`${game} (${cat.name}) : ${sets.length} extensions, ${sets.reduce((n, s) => n + s.count, 0)} cartes, ${fetched} extensions mises à jour`);

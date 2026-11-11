@@ -63,8 +63,8 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
    seule carte, comme Ancient Mew) : `curated/cardmarket-links.json`, clé `<id TCGdex de l'extension>/<numéro TCGdex>`,
    valeur : numéro du produit Cardmarket.
 
-7. **Cotes Cardmarket des autres licences** (`cardmarket-prices.mjs`) : Lorcana (cartes de Lorcast), Riftbound et
-   Cyberpunk (catalogue TCGplayer de `cards/`), retrouvées dans le guide de prix public de Cardmarket par leur nom dans
+7. **Cotes Cardmarket des autres licences** (`cardmarket-prices.mjs`) : Lorcana (cartes de Lorcast), Riftbound,
+   Cyberpunk et World of Warcraft (catalogue TCGplayer de `cards/`), retrouvées dans le guide de prix public de Cardmarket par leur nom dans
    leur extension. Une extension Cardmarket est attribuée à une extension de l'app si elle contient au moins 60 % de
    ses cartes, avec une nette avance sur la suivante. Cartes de même nom (enchantées, versions alternatives) : dans
    l'ordre des numéros. Pas One Piece, Digimon ni Dragon Ball Fusion World : Cardmarket y sépare éditions anglaise et
@@ -104,7 +104,7 @@ lu en mémoire par l'app. Une seconde Action (`.github/workflows/scan-index.yml`
 et à la demande avec un choix de licences et un temps maximal) le construit avec `scripts/scan-index.mjs` :
 
 - pour chaque carte connue de sa source (TCGdex, Scryfall, YGOPRODeck, Lorcast, punk-records, Riftcodex, et `cards/` pour
-  Dragon Ball, Digimon, Palworld, Cyberpunk, Gundam), l'image est téléchargée une fois et réduite à une **empreinte** de 512 bits
+  Dragon Ball, Digimon, Palworld, Cyberpunk, Gundam, World of Warcraft), l'image est téléchargée une fois et réduite à une **empreinte** de 512 bits
   (`scripts/scan/fingerprint.mjs`, copie conforme du calcul de l'app, vérifiée au démarrage par `scripts/scan/vector.json`) ;
 - la **fiche** de la carte (champs bruts de la source : nom, numéro, rareté, variantes…, **sans les cotes**) est publiée avec :
   l'app l'affiche aussitôt, sans attendre la source, en la convertissant avec les mêmes fonctions que pour un pack
@@ -128,7 +128,7 @@ Un fichier contient au plus 20 000 cartes (limite de jsDelivr) et son nom change
 Le sens de `keys[i]`, `cards[i]` et `sets` selon la licence est décrit en tête de `scripts/scan-index.mjs`.
 
 Fichiers : Pokémon dans les 15 langues TCGdex (français, anglais et japonais d'abord), One Piece (anglais, japonais,
-français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld, Cyberpunk, Gundam (anglais).
+français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld, Cyberpunk, Gundam, World of Warcraft (anglais).
 
 Essai local, sans réseau : `SCAN_LIST_FILE=liste.json SCAN_OUT=/tmp/scan node scripts/scan-index.mjs`
 (après `npm i --no-save sharp`), avec une liste `[{ "game", "lang", "entries": [{ "key", "img", "set"?, "rec"? }] }]`.
@@ -302,8 +302,21 @@ Les versions sont gérées par `build.mjs` : pour corriger un produit, modifie `
   plus le catalogue vérifié (ETB et displays Écarlate et Violet / Méga-Évolution, Collection Ultra Premium 151).
 - À venir : autres licences, autres langues européennes.
 
-Non affilié à Nintendo, The Pokémon Company, Bandai, Wizards of the Coast, Konami, Ravensburger, Riot Games, Pocketpair.
+Non affilié à Nintendo, The Pokémon Company, Bandai, Wizards of the Coast, Konami, Ravensburger, Riot Games, Pocketpair,
+Blizzard Entertainment, Upper Deck, Cryptozoic.
 
-5. **Cartes** (`cards.mjs`) : cartes des licences sans API publique — Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk, Gundam —
+5. **Cartes** (`cards.mjs`) : cartes des licences sans API publique — Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk, Gundam, World of Warcraft —
    depuis le catalogue TCGplayer (TCGCSV), avec images du CDN TCGplayer et cote du jour en $.
    `cards/index.json` liste les extensions ; une extension = un fichier `cards/<licence>/<groupId>.json`.
+
+   **World of Warcraft TCG** (2006-2013) : le catalogue TCGplayer est complété par la liste de
+   [wowcards.info](https://www.wowcards.info) — **créé par Richard Kämmerer, maintenu par Xavier** —, lue avec son accord
+   une fois par mois (`wow-cards.mjs`, Action `wow-cards.yml`, une page toutes les 1,5 s, sans lire les pages des cartes)
+   et publiée dans `cards/wow-wowcards.json`. Chaque nuit, `wow-merge.mjs` :
+   - complète les cartes TCGplayer (numéro, type, coût, artiste ; image du site quand TCGplayer n'en a pas, sinon image de
+     secours `altImages`) et ajoute les cartes de l'édition absentes de TCGplayer, quand l'extension et l'édition se
+     correspondent ;
+   - publie à part les éditions absentes de TCGplayer (Reign of Fire, Crown of the Heavens, decks de raid, promos…) :
+     `cards/wow/wcx-<code>.json`, sans cote TCGplayer (cote Cardmarket quand elle est retrouvée). Dates de sortie au mois
+     près d'après [warcraft.wiki.gg](https://warcraft.wiki.gg/wiki/Warcraft_TCG).
+   Cartes en anglais seulement. L'index du scan ne télécharge que les images TCGplayer.

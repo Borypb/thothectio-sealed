@@ -2354,7 +2354,14 @@
           "modifiedOn": "2026-09-01T12:47:40.76",
           "count": 264,
           "file": "cards/wow/1095.json",
-          "version": "d7b91ac57a90"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "Les Serviteurs du Traître"
+          },
+          "version": "cc524f8f2040"
         },
         {
           "groupId": 1085,
@@ -2381,7 +2388,14 @@
           "modifiedOn": "2023-06-13T13:33:32.2",
           "count": 322,
           "file": "cards/wow/1087.json",
-          "version": "306c96266756"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "La Marche de la Légion"
+          },
+          "version": "f74ed32ba2dd"
         },
         {
           "groupId": 1080,
@@ -2390,7 +2404,14 @@
           "modifiedOn": "2023-06-13T13:23:35.537",
           "count": 247,
           "file": "cards/wow/1080.json",
-          "version": "b32a5a3135ca"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "Les Feux de l'Outreterre"
+          },
+          "version": "b6a3a2caff3c"
         },
         {
           "groupId": 1088,
@@ -2408,7 +2429,14 @@
           "modifiedOn": "2023-06-13T13:40:03.153",
           "count": 30,
           "file": "cards/wow/1089.json",
-          "version": "8579d7ea45b4"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "Molten Core"
+          },
+          "version": "7683bde09c14"
         },
         {
           "groupId": 1071,
@@ -2417,7 +2445,14 @@
           "modifiedOn": "2023-06-13T13:14:01.08",
           "count": 321,
           "file": "cards/wow/1071.json",
-          "version": "c2464e3577f0"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "À travers la Porte des Ténèbres"
+          },
+          "version": "6aaf76745eb8"
         },
         {
           "groupId": 1092,
@@ -2444,7 +2479,14 @@
           "modifiedOn": "2023-06-13T13:24:08.137",
           "count": 362,
           "file": "cards/wow/1082.json",
-          "version": "b5d030f92113"
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "names": {
+            "fr": "Héros d'Azeroth"
+          },
+          "version": "45f72bd40a61"
         },
         {
           "groupId": 1067,

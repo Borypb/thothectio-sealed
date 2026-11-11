@@ -16,7 +16,9 @@ export const CARD_GAMES = {
   palworld: [/^palworld/i],
   digimon: [/^digimon card game$/i, /^digimon/i],
   riftbound: [/^riftbound/i, /riftbound/i],
-  cyberpunk: [/^cyberpunk tcg$/i, /cyberpunk/i]
+  cyberpunk: [/^cyberpunk tcg$/i, /cyberpunk/i],
+  // Gundam Card Game (Bandai, 2025) : catégorie TCGplayer 86, cartes anglaises
+  gundam: [/^gundam card game$/i, /^gundam/i]
 };
 
 /**

@@ -294,7 +294,7 @@ async function onepiece(lang) {
 }
 
 /** préfixe des identifiants d'extension dans l'app (src/catalog/sources/tcgcatalog.ts) */
-const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb" };
+const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb", gundam: "gdm" };
 
 /** licences du catalogue TCGplayer publiées par ce dépôt (cards/) */
 async function tcgcatalog(game) {
@@ -337,6 +337,7 @@ const FILES = [
   { game: "digimon", lang: "en", list: () => tcgcatalog("digimon") },
   { game: "palworld", lang: "en", list: () => tcgcatalog("palworld") },
   { game: "cyberpunk", lang: "en", list: () => tcgcatalog("cyberpunk") },
+  { game: "gundam", lang: "en", list: () => tcgcatalog("gundam") },
   { game: "yugioh", lang: "en", list: yugioh },
   ...POKEMON_LANGS.slice(3).map(([l, t]) => ({ game: "pokemon", lang: l, list: () => pokemon(l, t) })),
   { game: "magic", lang: "en", list: magic }

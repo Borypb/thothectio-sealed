@@ -1,5 +1,5 @@
 // Script 6 — produits scellés des licences autres que Pokémon, depuis le catalogue TCGplayer (TCGCSV), en anglais.
-// One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball Fusion World, Riftbound, Palworld, Cyberpunk.
+// One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball Fusion World, Riftbound, Palworld, Cyberpunk, Gundam.
 // Chaque produit est rattaché à l'extension de l'app (mêmes identifiants que dans Licences) quand c'est possible.
 // Incrémental : un groupe n'est relu que si son `modifiedOn` a changé ; les cotes TCGplayer, chaque jour.
 // Sorties : raw/<licence>-en.json, <licence>-en.json, prices-<licence>.json, entrées dans index.json
@@ -20,7 +20,8 @@ export const LICENCES = {
   dragonball: { cats: [/^dragon ball super fusion world$/i, /fusion world/i], prefix: "db", link: "group" },
   riftbound: { cats: [/^riftbound/i, /riftbound/i], prefix: "rb", link: "group" },
   palworld: { cats: [/^palworld/i], prefix: "pal", link: "group" },
-  cyberpunk: { cats: [/^cyberpunk tcg$/i, /cyberpunk/i], prefix: "cyb", link: "group" }
+  cyberpunk: { cats: [/^cyberpunk tcg$/i, /cyberpunk/i], prefix: "cyb", link: "group" },
+  gundam: { cats: [/^gundam card game$/i, /^gundam/i], prefix: "gdm", link: "group" }
 };
 
 /** TCGplayer met la date de récolte à la place des dates inconnues */

@@ -3,7 +3,8 @@
 //  - extension TCGplayer reconnue (la plupart de ses noms de cartes figurent dans une édition du site) : numéro, type,
 //    coût et artiste de chaque carte quand TCGplayer ne les donne pas ; image du site quand TCGplayer n'en a pas, sinon
 //    en image de secours (altImages) ; cartes de l'édition absentes de TCGplayer ajoutées, si l'extension et l'édition
-//    se correspondent l'une à l'autre (pas pour les groupes TCGplayer qui mêlent plusieurs decks) ;
+//    se correspondent l'une à l'autre, ou si l'extension n'est qu'une partie de l'édition (pas pour les groupes
+//    TCGplayer qui mêlent plusieurs decks) ;
 //  - édition du site absente de TCGplayer (Reign of Fire, Crown of the Heavens, decks de raid, promos…) : extension
 //    à part (fichier cards/wow/wcx-<code>.json), sans cote TCGplayer.
 // Identifiants numériques stables (l'app les attend) : extension 90 000 000 + empreinte du code, carte
@@ -112,8 +113,12 @@ export async function loadWow() {
       .filter((x) => x.ov >= 3 && (x.ofEdition >= 0.6 || x.ofGroup >= 0.5))
       .sort((a, b) => b.ov - a.ov);
     if (!scored.length) return;
+    // extension TCGplayer entièrement comprise dans une seule édition (« The Black Temple » : 23 des 70 cartes du deck
+    // de raid) : c'est cette édition, incomplète chez TCGplayer
+    const best = scored[0];
+    const subset = best.ofGroup >= 0.9 && best.ov >= 10 && (scored[1]?.ov ?? 0) < best.ov * 0.5;
     for (const x of scored) {
-      if (x.ofEdition < 0.6) continue;
+      if (x.ofEdition < 0.6 && !(subset && x === best)) continue;
       const prev = covered.get(x.e.code);
       if (!prev || x.ov > prev.ov) covered.set(x.e.code, { groupId, ov: x.ov });
     }
@@ -132,8 +137,7 @@ export async function loadWow() {
       if (JSON.stringify(c) !== before) filled++;
     }
     // l'édition et l'extension se correspondent l'une à l'autre : cartes de l'édition absentes de TCGplayer
-    const best = scored[0];
-    if (best.ofEdition >= 0.6 && best.ofGroup >= 0.6 && (scored[1]?.ov ?? 0) < best.ov * 0.8) {
+    if (subset || (best.ofEdition >= 0.6 && best.ofGroup >= 0.6 && (scored[1]?.ov ?? 0) < best.ov * 0.8)) {
       for (const [k, w] of best.e.byName) {
         if (names.has(k)) continue;
         data.cards.push(toCard(best.e, w));

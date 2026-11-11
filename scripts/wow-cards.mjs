@@ -55,9 +55,11 @@ function editions(home) {
   const seen = new Set();
   let section = "";
   let group = "";
-  const re = /<h3>([^<]*)<\/h3>|<li>([^<]+)\n|<a href="\/edition\/([^/"]+)\/en\/?"[^>]*>([^<]+)<\/a>/g;
+  // un groupe s'arrête à la fin de sa sous-liste (</ul>) : les éditions suivantes de la rubrique n'en font pas partie
+  const re = /<h3>([^<]*)<\/h3>|<li>([^<]+)\n|<a href="\/edition\/([^/"]+)\/en\/?"[^>]*>([^<]+)<\/a>|(<\/ul>)/g;
   for (const m of body.matchAll(re)) {
-    if (m[1] !== undefined) {
+    if (m[5]) group = "";
+    else if (m[1] !== undefined) {
       section = decode(m[1]);
       group = "";
     } else if (m[2] !== undefined) group = decode(m[2]);

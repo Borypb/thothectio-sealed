@@ -1,0 +1,898 @@
+{
+  "game": "wow",
+  "lang": "en",
+  "categoryId": 13,
+  "harvestedAt": "2026-11-11T14:41:58.295Z",
+  "groups": {
+    "1057": {
+      "name": "2001 Fall Class Decks",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1057",
+      "products": [
+        {
+          "tcgplayerId": 55936,
+          "name": "Display Box",
+          "kind": "case",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55936_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55936/wow-2001-fall-class-decks-display-box"
+        }
+      ]
+    },
+    "1058": {
+      "name": "2010 Class Decks",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1058",
+      "products": [
+        {
+          "tcgplayerId": 55944,
+          "name": "Starter Deck Box",
+          "kind": "collection",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55944_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55944/wow-2010-class-decks-starter-deck-box"
+        }
+      ]
+    },
+    "1059": {
+      "name": "2011 Class Decks",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1059",
+      "products": [
+        {
+          "tcgplayerId": 55934,
+          "name": "Display Box",
+          "kind": "case",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55934_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55934/wow-2011-class-decks-display-box"
+        }
+      ]
+    },
+    "1060": {
+      "name": "2011 Dungeon Decks",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1060",
+      "products": [
+        {
+          "tcgplayerId": 55935,
+          "name": "Display Box",
+          "kind": "case",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55935_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55935/wow-2011-dungeon-decks-display-box"
+        }
+      ]
+    },
+    "1061": {
+      "name": "2011 Treasure Pack",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1061",
+      "products": [
+        {
+          "tcgplayerId": 55937,
+          "name": "Display Box",
+          "kind": "case",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55937_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55937/wow-2011-treasure-pack-display-box"
+        }
+      ]
+    },
+    "1062": {
+      "name": "Archives",
+      "modifiedOn": "2022-11-25T19:03:42.533",
+      "setId": "wow-g1062",
+      "products": [
+        {
+          "tcgplayerId": 55938,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55938_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55938/wow-archives-booster-box"
+        },
+        {
+          "tcgplayerId": 455777,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/455777_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/455777/wow-archives-booster-pack"
+        }
+      ]
+    },
+    "1063": {
+      "name": "Arena Grand Melee",
+      "modifiedOn": "2023-06-13T12:54:10.18",
+      "publishedOn": "2009-05-19",
+      "setId": "wow-g1063",
+      "products": [
+        {
+          "tcgplayerId": 55939,
+          "name": "Display Box",
+          "kind": "case",
+          "releasedOn": "2009-05-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55939_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55939/wow-arena-grand-melee-display-box"
+        }
+      ]
+    },
+    "1064": {
+      "name": "Assault on Icecrown Citadel",
+      "modifiedOn": "2023-06-13T12:50:37.763",
+      "publishedOn": "2011-03-01",
+      "setId": "wow-g1064",
+      "products": [
+        {
+          "tcgplayerId": 55940,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2011-03-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55940_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55940/wow-assault-on-icecrown-citadel-raid-deck"
+        },
+        {
+          "tcgplayerId": 55941,
+          "name": "Treasure Pack Box",
+          "kind": "booster",
+          "releasedOn": "2011-03-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55941_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55941/wow-assault-on-icecrown-citadel-treasure-pack-box"
+        }
+      ]
+    },
+    "1065": {
+      "name": "Black Temple",
+      "modifiedOn": "2023-06-13T17:20:31.863",
+      "publishedOn": "2008-09-01",
+      "setId": "wow-g1065",
+      "products": [
+        {
+          "tcgplayerId": 55942,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2008-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55942_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55942/wow-black-temple-raid-deck"
+        },
+        {
+          "tcgplayerId": 55943,
+          "name": "Raid Deck Box",
+          "kind": "collection",
+          "releasedOn": "2008-09-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55943_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55943/wow-black-temple-raid-deck-box"
+        }
+      ]
+    },
+    "1066": {
+      "name": "Blood of Gladiators",
+      "modifiedOn": "2023-06-13T12:51:59.273",
+      "publishedOn": "2009-03-24",
+      "setId": "wow-g1066",
+      "products": [
+        {
+          "tcgplayerId": 29290,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2009-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/29290_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/29290/wow-blood-of-gladiators-booster-box"
+        },
+        {
+          "tcgplayerId": 29291,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2009-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/29291_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/29291/wow-blood-of-gladiators-booster-pack"
+        }
+      ]
+    },
+    "1067": {
+      "name": "BoJ",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1067",
+      "products": []
+    },
+    "1068": {
+      "name": "CAT Promos",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1068",
+      "products": []
+    },
+    "1069": {
+      "name": "Class Starter Decks",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1069",
+      "products": []
+    },
+    "1070": {
+      "name": "CRP",
+      "modifiedOn": "2022-09-07T20:31:12.097",
+      "setId": "wow-g1070",
+      "products": []
+    },
+    "1071": {
+      "name": "Dark Portal",
+      "modifiedOn": "2023-06-13T13:14:01.08",
+      "publishedOn": "2007-04-11",
+      "setId": "wow-g1071",
+      "products": [
+        {
+          "tcgplayerId": 55945,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2007-04-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55945_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55945/wow-dark-portal-booster-box"
+        },
+        {
+          "tcgplayerId": 55946,
+          "name": "Starter Deck Box",
+          "kind": "collection",
+          "releasedOn": "2007-04-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55946_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55946/wow-dark-portal-starter-deck-box"
+        },
+        {
+          "tcgplayerId": 55947,
+          "name": "Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2007-04-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55947_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55947/wow-dark-portal-starter-deck"
+        }
+      ]
+    },
+    "1072": {
+      "name": "Darkmoon Faire",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1072",
+      "products": [
+        {
+          "tcgplayerId": 55948,
+          "name": "Collectors Set",
+          "kind": "other",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55948_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55948/wow-darkmoon-faire-collectors-set"
+        }
+      ]
+    },
+    "1073": {
+      "name": "Darkmoon Faire Collector's Set",
+      "modifiedOn": "2022-09-07T20:27:11.903",
+      "setId": "wow-g1073",
+      "products": []
+    },
+    "1074": {
+      "name": "Death Knight",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1074",
+      "products": [
+        {
+          "tcgplayerId": 55949,
+          "name": "Starter Deck Box",
+          "kind": "collection",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55949_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55949/wow-death-knight-starter-deck-box"
+        }
+      ]
+    },
+    "1075": {
+      "name": "Death Knight Starter",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1075",
+      "products": []
+    },
+    "1076": {
+      "name": "Drums of War",
+      "modifiedOn": "2023-06-13T13:16:08.62",
+      "publishedOn": "2008-10-28",
+      "setId": "wow-g1076",
+      "products": [
+        {
+          "tcgplayerId": 27061,
+          "name": "Molly Brightheart",
+          "kind": "other",
+          "releasedOn": "2008-10-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27061_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27061/wow-drums-of-war-molly-brightheart"
+        },
+        {
+          "tcgplayerId": 27382,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2008-10-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27382_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27382/wow-drums-of-war-booster-box"
+        },
+        {
+          "tcgplayerId": 27389,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2008-10-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27389_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27389/wow-drums-of-war-booster-pack"
+        },
+        {
+          "tcgplayerId": 55950,
+          "name": "Battle Deck Box",
+          "kind": "collection",
+          "releasedOn": "2008-10-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55950_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55950/wow-drums-of-war-battle-deck-box"
+        }
+      ]
+    },
+    "1077": {
+      "name": "Drums of War Starter",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1077",
+      "products": []
+    },
+    "1078": {
+      "name": "Feast of Winter Veil",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1078",
+      "products": [
+        {
+          "tcgplayerId": 55951,
+          "name": "Box Set",
+          "kind": "collection",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55951_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55951/wow-feast-of-winter-veil-box-set"
+        }
+      ]
+    },
+    "1079": {
+      "name": "Fields of Honor",
+      "modifiedOn": "2023-06-13T13:17:18.467",
+      "publishedOn": "2009-06-30",
+      "setId": "wow-g1079",
+      "products": [
+        {
+          "tcgplayerId": 32527,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2009-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/32527_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/32527/wow-fields-of-honor-booster-box"
+        },
+        {
+          "tcgplayerId": 32528,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2009-06-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/32528_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/32528/wow-fields-of-honor-booster-pack"
+        }
+      ]
+    },
+    "1080": {
+      "name": "Fires of Outland",
+      "modifiedOn": "2023-06-13T13:23:35.537",
+      "publishedOn": "2007-08-22",
+      "setId": "wow-g1080",
+      "products": [
+        {
+          "tcgplayerId": 27383,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2007-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27383_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27383/wow-fires-of-outland-booster-box"
+        },
+        {
+          "tcgplayerId": 27390,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2007-08-22",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27390_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27390/wow-fires-of-outland-booster-pack"
+        }
+      ]
+    },
+    "1081": {
+      "name": "Giveaway",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1081",
+      "products": []
+    },
+    "1082": {
+      "name": "Heroes of Azeroth",
+      "modifiedOn": "2023-06-13T13:24:08.137",
+      "publishedOn": "2006-10-25",
+      "setId": "wow-g1082",
+      "products": [
+        {
+          "tcgplayerId": 27384,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2006-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27384_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27384/wow-heroes-of-azeroth-booster-box"
+        },
+        {
+          "tcgplayerId": 27391,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2006-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27391_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27391/wow-heroes-of-azeroth-booster-pack"
+        },
+        {
+          "tcgplayerId": 55952,
+          "name": "Starter Deck Box",
+          "kind": "collection",
+          "releasedOn": "2006-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55952_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55952/wow-heroes-of-azeroth-starter-deck-box"
+        },
+        {
+          "tcgplayerId": 55953,
+          "name": "Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2006-10-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55953_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55953/wow-heroes-of-azeroth-starter-deck"
+        }
+      ]
+    },
+    "1083": {
+      "name": "Hunt for Illidan",
+      "modifiedOn": "2024-01-16T19:17:47.637",
+      "setId": "wow-g1083",
+      "products": []
+    },
+    "1084": {
+      "name": "Icecrown",
+      "modifiedOn": "2023-06-13T13:31:21.15",
+      "publishedOn": "2010-09-14",
+      "setId": "wow-g1084",
+      "products": [
+        {
+          "tcgplayerId": 55955,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2010-09-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55955_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55955/wow-icecrown-booster-box"
+        },
+        {
+          "tcgplayerId": 55956,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2010-09-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55956_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55956/wow-icecrown-epic-collection-set"
+        }
+      ]
+    },
+    "1085": {
+      "name": "Magtheridon's Lair",
+      "modifiedOn": "2023-06-13T13:32:05.73",
+      "publishedOn": "2008-01-01",
+      "setId": "wow-g1085",
+      "products": [
+        {
+          "tcgplayerId": 55957,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2008-01-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55957_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55957/wow-magtheridons-lair-raid-deck"
+        },
+        {
+          "tcgplayerId": 55958,
+          "name": "Raid Deck Box",
+          "kind": "collection",
+          "releasedOn": "2008-01-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55958_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55958/wow-magtheridons-lair-raid-deck-box"
+        }
+      ]
+    },
+    "1086": {
+      "name": "Magtheridon's Lair Treasure",
+      "modifiedOn": "2023-06-13T13:32:50.3",
+      "publishedOn": "2008-01-01",
+      "setId": "wow-g1086",
+      "products": []
+    },
+    "1087": {
+      "name": "March of the Legion",
+      "modifiedOn": "2023-06-13T13:33:32.2",
+      "publishedOn": "2007-11-21",
+      "setId": "wow-g1087",
+      "products": [
+        {
+          "tcgplayerId": 27385,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2007-11-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27385_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27385/wow-march-of-the-legion-booster-box"
+        },
+        {
+          "tcgplayerId": 27392,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2007-11-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27392_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27392/wow-march-of-the-legion-booster-pack"
+        },
+        {
+          "tcgplayerId": 55959,
+          "name": "Starter Deck Box",
+          "kind": "collection",
+          "releasedOn": "2007-11-21",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55959_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55959/wow-march-of-the-legion-starter-deck-box"
+        }
+      ]
+    },
+    "1088": {
+      "name": "Molten Core",
+      "modifiedOn": "2023-06-13T13:34:17.367",
+      "publishedOn": "2007-05-01",
+      "setId": "wow-g1088",
+      "products": [
+        {
+          "tcgplayerId": 55960,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2007-05-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55960_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55960/wow-molten-core-raid-deck"
+        },
+        {
+          "tcgplayerId": 55961,
+          "name": "Raid Deck Box",
+          "kind": "collection",
+          "releasedOn": "2007-05-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55961_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55961/wow-molten-core-raid-deck-box"
+        }
+      ]
+    },
+    "1089": {
+      "name": "Molten Core Treasure",
+      "modifiedOn": "2023-06-13T13:40:03.153",
+      "publishedOn": "2007-05-01",
+      "setId": "wow-g1089",
+      "products": []
+    },
+    "1090": {
+      "name": "Naxxramas",
+      "modifiedOn": "2023-06-13T13:40:36.95",
+      "publishedOn": "2009-12-01",
+      "setId": "wow-g1090",
+      "products": [
+        {
+          "tcgplayerId": 55962,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2009-12-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55962_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55962/wow-naxxramas-raid-deck"
+        },
+        {
+          "tcgplayerId": 55963,
+          "name": "Raid Deck Box",
+          "kind": "collection",
+          "releasedOn": "2009-12-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55963_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55963/wow-naxxramas-raid-deck-box"
+        },
+        {
+          "tcgplayerId": 55964,
+          "name": "Treasure Pack Box",
+          "kind": "booster",
+          "releasedOn": "2009-12-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55964_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55964/wow-naxxramas-treasure-pack-box"
+        }
+      ]
+    },
+    "1091": {
+      "name": "Naxxramas Treasure",
+      "modifiedOn": "2023-06-13T13:40:50.53",
+      "publishedOn": "2009-12-01",
+      "setId": "wow-g1091",
+      "products": []
+    },
+    "1092": {
+      "name": "Onyxia's Lair",
+      "modifiedOn": "2023-06-13T17:06:18.453",
+      "publishedOn": "2006-11-01",
+      "setId": "wow-g1092",
+      "products": [
+        {
+          "tcgplayerId": 55965,
+          "name": "Raid Deck",
+          "kind": "deck",
+          "releasedOn": "2006-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55965_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55965/wow-onyxias-lair-raid-deck"
+        },
+        {
+          "tcgplayerId": 55966,
+          "name": "Raid Deck Box",
+          "kind": "collection",
+          "releasedOn": "2006-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55966_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55966/wow-onyxias-lair-raid-deck-box"
+        }
+      ]
+    },
+    "1093": {
+      "name": "Onyxia's Lair Treasure",
+      "modifiedOn": "2023-06-13T17:07:56.29",
+      "publishedOn": "2006-11-01",
+      "setId": "wow-g1093",
+      "products": []
+    },
+    "1094": {
+      "name": "Scourgewar",
+      "modifiedOn": "2023-06-13T17:08:23.083",
+      "publishedOn": "2009-11-01",
+      "setId": "wow-g1094",
+      "products": [
+        {
+          "tcgplayerId": 34321,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2009-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/34321_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/34321/wow-scourgewar-booster-pack"
+        },
+        {
+          "tcgplayerId": 34322,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2009-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/34322_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/34322/wow-scourgewar-booster-box"
+        },
+        {
+          "tcgplayerId": 55967,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2009-11-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55967_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55967/wow-scourgewar-epic-collection-set"
+        }
+      ]
+    },
+    "1095": {
+      "name": "Servants of the Betrayer",
+      "modifiedOn": "2026-09-01T12:47:40.76",
+      "publishedOn": "2008-04-01",
+      "setId": "wow-g1095",
+      "products": [
+        {
+          "tcgplayerId": 27386,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2008-04-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27386_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27386/wow-servants-of-the-betrayer-booster-box"
+        },
+        {
+          "tcgplayerId": 27393,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2008-04-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27393_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27393/wow-servants-of-the-betrayer-booster-pack"
+        }
+      ]
+    },
+    "1096": {
+      "name": "TBC Promo",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1096",
+      "products": []
+    },
+    "1097": {
+      "name": "The Black Temple",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1097",
+      "products": []
+    },
+    "1098": {
+      "name": "The Black Temple Treasure",
+      "modifiedOn": "2022-09-07T20:28:44.15",
+      "setId": "wow-g1098",
+      "products": []
+    },
+    "1099": {
+      "name": "The Hunt for Illidan",
+      "modifiedOn": "2023-12-30T15:18:16.9",
+      "publishedOn": "2008-07-01",
+      "setId": "wow-g1099",
+      "products": [
+        {
+          "tcgplayerId": 27387,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2008-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27387_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27387/wow-the-hunt-for-illidan-booster-box"
+        },
+        {
+          "tcgplayerId": 27394,
+          "name": "Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2008-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27394_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27394/wow-the-hunt-for-illidan-booster-pack"
+        }
+      ]
+    },
+    "1100": {
+      "name": "Throne of the Tides",
+      "modifiedOn": "2023-06-13T17:10:49.11",
+      "publishedOn": "2011-10-11",
+      "setId": "wow-g1100",
+      "products": [
+        {
+          "tcgplayerId": 55968,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2011-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55968_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55968/wow-throne-of-the-tides-epic-collection-set"
+        },
+        {
+          "tcgplayerId": 56991,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2011-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/56991_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/56991/wow-throne-of-the-tides-booster-box"
+        }
+      ]
+    },
+    "1101": {
+      "name": "Through the Dark Portal",
+      "modifiedOn": "2020-09-30T14:00:45.64",
+      "setId": "wow-g1101",
+      "products": [
+        {
+          "tcgplayerId": 27381,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27381_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27381/wow-through-the-dark-portal-booster-box"
+        },
+        {
+          "tcgplayerId": 27388,
+          "name": "Through the Dark Portal Booster Pack",
+          "kind": "booster",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/27388_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/27388/wow-through-the-dark-portal-through-the-dark-portal-booster-pack"
+        }
+      ]
+    },
+    "1102": {
+      "name": "Twilight of the Dragons",
+      "modifiedOn": "2023-06-13T17:14:43.26",
+      "publishedOn": "2011-07-26",
+      "setId": "wow-g1102",
+      "products": [
+        {
+          "tcgplayerId": 55969,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2011-07-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55969_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55969/wow-twilight-of-the-dragons-booster-box"
+        },
+        {
+          "tcgplayerId": 55970,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2011-07-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55970_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55970/wow-twilight-of-the-dragons-epic-collection-set"
+        }
+      ]
+    },
+    "1103": {
+      "name": "Unknown",
+      "modifiedOn": "2023-02-22T19:31:26.487",
+      "setId": "wow-g1103",
+      "products": []
+    },
+    "1104": {
+      "name": "War of the Elements",
+      "modifiedOn": "2023-06-13T17:16:39.427",
+      "publishedOn": "2011-04-26",
+      "setId": "wow-g1104",
+      "products": [
+        {
+          "tcgplayerId": 55971,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2011-04-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55971_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55971/wow-war-of-the-elements-booster-box"
+        },
+        {
+          "tcgplayerId": 55972,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2011-04-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55972_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55972/wow-war-of-the-elements-epic-collection-set"
+        }
+      ]
+    },
+    "1105": {
+      "name": "Worldbreaker",
+      "modifiedOn": "2023-06-13T17:17:20.263",
+      "publishedOn": "2010-12-13",
+      "setId": "wow-g1105",
+      "products": [
+        {
+          "tcgplayerId": 55973,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2010-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55973_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55973/wow-worldbreaker-booster-box"
+        },
+        {
+          "tcgplayerId": 55974,
+          "name": "Epic Collection Set",
+          "kind": "collection",
+          "releasedOn": "2010-12-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55974_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55974/wow-worldbreaker-epic-collection-set"
+        }
+      ]
+    },
+    "1106": {
+      "name": "Wrath of the Lich King Promo",
+      "modifiedOn": "2017-03-01T11:03:36.18",
+      "setId": "wow-g1106",
+      "products": []
+    },
+    "1107": {
+      "name": "Wrathgate",
+      "modifiedOn": "2023-06-13T17:17:57.713",
+      "publishedOn": "2010-05-23",
+      "setId": "wow-g1107",
+      "products": [
+        {
+          "tcgplayerId": 55975,
+          "name": "Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2010-05-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/55975_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/55975/wow-wrathgate-booster-box"
+        }
+      ]
+    },
+    "1334": {
+      "name": "Loot Cards",
+      "abbreviation": "WOWLC",
+      "modifiedOn": "2017-12-13T16:08:41.797",
+      "publishedOn": "2017-12-01",
+      "setId": "wow-g1334",
+      "products": []
+    },
+    "1923": {
+      "name": "Timewalkers Heroes",
+      "abbreviation": "TWK",
+      "modifiedOn": "2022-09-01T20:35:27.187",
+      "publishedOn": "2013-04-01",
+      "setId": "wow-g1923",
+      "products": []
+    },
+    "2375": {
+      "name": "Dungeon Treasure",
+      "abbreviation": "WOWDT",
+      "modifiedOn": "2018-12-05T19:00:01.047",
+      "publishedOn": "2018-12-01",
+      "setId": "wow-g2375",
+      "products": []
+    }
+  }
+}

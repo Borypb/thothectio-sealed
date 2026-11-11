@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "updatedAt": "2026-11-11",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -129,6 +129,15 @@
           "count": 80
         }
       }
+    },
+    "wow": {
+      "files": {
+        "en": {
+          "file": "wow-en.json",
+          "version": 1,
+          "count": 59
+        }
+      }
     }
   },
   "prices": {
@@ -186,6 +195,11 @@
       "file": "prices-gundam.json",
       "date": "2026-11-11",
       "count": 99
+    },
+    "wow": {
+      "file": "prices-wow.json",
+      "date": "2026-11-11",
+      "count": 26
     }
   }
 }

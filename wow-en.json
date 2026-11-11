@@ -1,0 +1,884 @@
+{
+  "version": 1,
+  "game": "wow",
+  "lang": "en",
+  "products": [
+    {
+      "id": "wow-en-tcp55968",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1100"
+      ],
+      "releasedAt": "2011-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55968_200w.jpg",
+      "source": {
+        "tcgplayer": 55968
+      }
+    },
+    {
+      "id": "wow-en-tcp56991",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1100"
+      ],
+      "releasedAt": "2011-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56991_200w.jpg",
+      "source": {
+        "tcgplayer": 56991
+      }
+    },
+    {
+      "id": "wow-en-tcp55969",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1102"
+      ],
+      "releasedAt": "2011-07-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55969_200w.jpg",
+      "source": {
+        "tcgplayer": 55969
+      }
+    },
+    {
+      "id": "wow-en-tcp55970",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1102"
+      ],
+      "releasedAt": "2011-07-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55970_200w.jpg",
+      "source": {
+        "tcgplayer": 55970
+      }
+    },
+    {
+      "id": "wow-en-tcp55971",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1104"
+      ],
+      "releasedAt": "2011-04-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55971_200w.jpg",
+      "source": {
+        "tcgplayer": 55971
+      }
+    },
+    {
+      "id": "wow-en-tcp55972",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1104"
+      ],
+      "releasedAt": "2011-04-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55972_200w.jpg",
+      "source": {
+        "tcgplayer": 55972
+      }
+    },
+    {
+      "id": "wow-en-tcp55940",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1064"
+      ],
+      "releasedAt": "2011-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55940_200w.jpg",
+      "source": {
+        "tcgplayer": 55940
+      }
+    },
+    {
+      "id": "wow-en-tcp55941",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Treasure Pack Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1064"
+      ],
+      "releasedAt": "2011-03-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55941_200w.jpg",
+      "source": {
+        "tcgplayer": 55941
+      }
+    },
+    {
+      "id": "wow-en-tcp55973",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1105"
+      ],
+      "releasedAt": "2010-12-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55973_200w.jpg",
+      "source": {
+        "tcgplayer": 55973
+      }
+    },
+    {
+      "id": "wow-en-tcp55974",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1105"
+      ],
+      "releasedAt": "2010-12-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55974_200w.jpg",
+      "source": {
+        "tcgplayer": 55974
+      }
+    },
+    {
+      "id": "wow-en-tcp55955",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1084"
+      ],
+      "releasedAt": "2010-09-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55955_200w.jpg",
+      "source": {
+        "tcgplayer": 55955
+      }
+    },
+    {
+      "id": "wow-en-tcp55956",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1084"
+      ],
+      "releasedAt": "2010-09-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55956_200w.jpg",
+      "source": {
+        "tcgplayer": 55956
+      }
+    },
+    {
+      "id": "wow-en-tcp55975",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1107"
+      ],
+      "releasedAt": "2010-05-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55975_200w.jpg",
+      "source": {
+        "tcgplayer": 55975
+      }
+    },
+    {
+      "id": "wow-en-tcp55962",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1090"
+      ],
+      "releasedAt": "2009-12-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55962_200w.jpg",
+      "source": {
+        "tcgplayer": 55962
+      }
+    },
+    {
+      "id": "wow-en-tcp55963",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Raid Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1090"
+      ],
+      "releasedAt": "2009-12-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55963_200w.jpg",
+      "source": {
+        "tcgplayer": 55963
+      }
+    },
+    {
+      "id": "wow-en-tcp55964",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Treasure Pack Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1090"
+      ],
+      "releasedAt": "2009-12-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55964_200w.jpg",
+      "source": {
+        "tcgplayer": 55964
+      }
+    },
+    {
+      "id": "wow-en-tcp34321",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1094"
+      ],
+      "releasedAt": "2009-11-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34321_200w.jpg",
+      "source": {
+        "tcgplayer": 34321
+      }
+    },
+    {
+      "id": "wow-en-tcp34322",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1094"
+      ],
+      "releasedAt": "2009-11-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34322_200w.jpg",
+      "source": {
+        "tcgplayer": 34322
+      }
+    },
+    {
+      "id": "wow-en-tcp55967",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Epic Collection Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1094"
+      ],
+      "releasedAt": "2009-11-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55967_200w.jpg",
+      "source": {
+        "tcgplayer": 55967
+      }
+    },
+    {
+      "id": "wow-en-tcp32527",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1079"
+      ],
+      "releasedAt": "2009-06-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32527_200w.jpg",
+      "source": {
+        "tcgplayer": 32527
+      }
+    },
+    {
+      "id": "wow-en-tcp32528",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1079"
+      ],
+      "releasedAt": "2009-06-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32528_200w.jpg",
+      "source": {
+        "tcgplayer": 32528
+      }
+    },
+    {
+      "id": "wow-en-tcp29290",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1066"
+      ],
+      "releasedAt": "2009-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/29290_200w.jpg",
+      "source": {
+        "tcgplayer": 29290
+      }
+    },
+    {
+      "id": "wow-en-tcp29291",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1066"
+      ],
+      "releasedAt": "2009-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/29291_200w.jpg",
+      "source": {
+        "tcgplayer": 29291
+      }
+    },
+    {
+      "id": "wow-en-tcp27061",
+      "game": "wow",
+      "kind": "other",
+      "name": "Molly Brightheart",
+      "lang": "en",
+      "setIds": [
+        "wow-g1076"
+      ],
+      "releasedAt": "2008-10-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27061_200w.jpg",
+      "source": {
+        "tcgplayer": 27061
+      }
+    },
+    {
+      "id": "wow-en-tcp27382",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1076"
+      ],
+      "releasedAt": "2008-10-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27382_200w.jpg",
+      "source": {
+        "tcgplayer": 27382
+      }
+    },
+    {
+      "id": "wow-en-tcp27389",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1076"
+      ],
+      "releasedAt": "2008-10-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27389_200w.jpg",
+      "source": {
+        "tcgplayer": 27389
+      }
+    },
+    {
+      "id": "wow-en-tcp55950",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Battle Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1076"
+      ],
+      "releasedAt": "2008-10-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55950_200w.jpg",
+      "source": {
+        "tcgplayer": 55950
+      }
+    },
+    {
+      "id": "wow-en-tcp55942",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1065"
+      ],
+      "releasedAt": "2008-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55942_200w.jpg",
+      "source": {
+        "tcgplayer": 55942
+      }
+    },
+    {
+      "id": "wow-en-tcp55943",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Raid Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1065"
+      ],
+      "releasedAt": "2008-09-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55943_200w.jpg",
+      "source": {
+        "tcgplayer": 55943
+      }
+    },
+    {
+      "id": "wow-en-tcp27387",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1099"
+      ],
+      "releasedAt": "2008-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27387_200w.jpg",
+      "source": {
+        "tcgplayer": 27387
+      }
+    },
+    {
+      "id": "wow-en-tcp27394",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1099"
+      ],
+      "releasedAt": "2008-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27394_200w.jpg",
+      "source": {
+        "tcgplayer": 27394
+      }
+    },
+    {
+      "id": "wow-en-tcp27386",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1095"
+      ],
+      "releasedAt": "2008-04-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27386_200w.jpg",
+      "source": {
+        "tcgplayer": 27386
+      }
+    },
+    {
+      "id": "wow-en-tcp27393",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1095"
+      ],
+      "releasedAt": "2008-04-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27393_200w.jpg",
+      "source": {
+        "tcgplayer": 27393
+      }
+    },
+    {
+      "id": "wow-en-tcp55957",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1085"
+      ],
+      "releasedAt": "2008-01-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55957_200w.jpg",
+      "source": {
+        "tcgplayer": 55957
+      }
+    },
+    {
+      "id": "wow-en-tcp55958",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Raid Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1085"
+      ],
+      "releasedAt": "2008-01-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55958_200w.jpg",
+      "source": {
+        "tcgplayer": 55958
+      }
+    },
+    {
+      "id": "wow-en-tcp27385",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1087"
+      ],
+      "releasedAt": "2007-11-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27385_200w.jpg",
+      "source": {
+        "tcgplayer": 27385
+      }
+    },
+    {
+      "id": "wow-en-tcp27392",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1087"
+      ],
+      "releasedAt": "2007-11-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27392_200w.jpg",
+      "source": {
+        "tcgplayer": 27392
+      }
+    },
+    {
+      "id": "wow-en-tcp55959",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Starter Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1087"
+      ],
+      "releasedAt": "2007-11-21",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55959_200w.jpg",
+      "source": {
+        "tcgplayer": 55959
+      }
+    },
+    {
+      "id": "wow-en-tcp27383",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1080"
+      ],
+      "releasedAt": "2007-08-22",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27383_200w.jpg",
+      "source": {
+        "tcgplayer": 27383
+      }
+    },
+    {
+      "id": "wow-en-tcp27390",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1080"
+      ],
+      "releasedAt": "2007-08-22",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27390_200w.jpg",
+      "source": {
+        "tcgplayer": 27390
+      }
+    },
+    {
+      "id": "wow-en-tcp55960",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1088"
+      ],
+      "releasedAt": "2007-05-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55960_200w.jpg",
+      "source": {
+        "tcgplayer": 55960
+      }
+    },
+    {
+      "id": "wow-en-tcp55961",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Raid Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1088"
+      ],
+      "releasedAt": "2007-05-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55961_200w.jpg",
+      "source": {
+        "tcgplayer": 55961
+      }
+    },
+    {
+      "id": "wow-en-tcp55945",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1071"
+      ],
+      "releasedAt": "2007-04-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55945_200w.jpg",
+      "source": {
+        "tcgplayer": 55945
+      }
+    },
+    {
+      "id": "wow-en-tcp55946",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Starter Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1071"
+      ],
+      "releasedAt": "2007-04-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55946_200w.jpg",
+      "source": {
+        "tcgplayer": 55946
+      }
+    },
+    {
+      "id": "wow-en-tcp55947",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Starter Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1071"
+      ],
+      "releasedAt": "2007-04-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55947_200w.jpg",
+      "source": {
+        "tcgplayer": 55947
+      }
+    },
+    {
+      "id": "wow-en-tcp55965",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Raid Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1092"
+      ],
+      "releasedAt": "2006-11-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55965_200w.jpg",
+      "source": {
+        "tcgplayer": 55965
+      }
+    },
+    {
+      "id": "wow-en-tcp55966",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Raid Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1092"
+      ],
+      "releasedAt": "2006-11-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55966_200w.jpg",
+      "source": {
+        "tcgplayer": 55966
+      }
+    },
+    {
+      "id": "wow-en-tcp27384",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1082"
+      ],
+      "releasedAt": "2006-10-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27384_200w.jpg",
+      "source": {
+        "tcgplayer": 27384
+      }
+    },
+    {
+      "id": "wow-en-tcp27391",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1082"
+      ],
+      "releasedAt": "2006-10-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27391_200w.jpg",
+      "source": {
+        "tcgplayer": 27391
+      }
+    },
+    {
+      "id": "wow-en-tcp55952",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Starter Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1082"
+      ],
+      "releasedAt": "2006-10-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55952_200w.jpg",
+      "source": {
+        "tcgplayer": 55952
+      }
+    },
+    {
+      "id": "wow-en-tcp55953",
+      "game": "wow",
+      "kind": "deck",
+      "name": "Starter Deck",
+      "lang": "en",
+      "setIds": [
+        "wow-g1082"
+      ],
+      "releasedAt": "2006-10-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55953_200w.jpg",
+      "source": {
+        "tcgplayer": 55953
+      }
+    },
+    {
+      "id": "wow-en-tcp27381",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1101"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27381_200w.jpg",
+      "source": {
+        "tcgplayer": 27381
+      }
+    },
+    {
+      "id": "wow-en-tcp27388",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Through the Dark Portal Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1101"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/27388_200w.jpg",
+      "source": {
+        "tcgplayer": 27388
+      }
+    },
+    {
+      "id": "wow-en-tcp455777",
+      "game": "wow",
+      "kind": "booster",
+      "name": "Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "wow-g1062"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/455777_200w.jpg",
+      "source": {
+        "tcgplayer": 455777
+      }
+    },
+    {
+      "id": "wow-en-tcp55938",
+      "game": "wow",
+      "kind": "booster_box",
+      "name": "Booster Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1062"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55938_200w.jpg",
+      "source": {
+        "tcgplayer": 55938
+      }
+    },
+    {
+      "id": "wow-en-tcp55944",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Starter Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1058"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55944_200w.jpg",
+      "source": {
+        "tcgplayer": 55944
+      }
+    },
+    {
+      "id": "wow-en-tcp55948",
+      "game": "wow",
+      "kind": "other",
+      "name": "Collectors Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1072"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55948_200w.jpg",
+      "source": {
+        "tcgplayer": 55948
+      }
+    },
+    {
+      "id": "wow-en-tcp55949",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Starter Deck Box",
+      "lang": "en",
+      "setIds": [
+        "wow-g1074"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55949_200w.jpg",
+      "source": {
+        "tcgplayer": 55949
+      }
+    },
+    {
+      "id": "wow-en-tcp55951",
+      "game": "wow",
+      "kind": "collection",
+      "name": "Box Set",
+      "lang": "en",
+      "setIds": [
+        "wow-g1078"
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/55951_200w.jpg",
+      "source": {
+        "tcgplayer": 55951
+      }
+    }
+  ]
+}

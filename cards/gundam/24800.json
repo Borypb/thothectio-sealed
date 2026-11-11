@@ -1,0 +1,584 @@
+{
+  "groupId": 24800,
+  "cards": [
+    {
+      "id": 716364,
+      "name": "Char's Z'Gok",
+      "number": "ST11-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716364/gundam-card-game-starter-deck-11-aquatic-assault-chars-zgok",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.74,
+          "low": 0.47,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 716365,
+      "name": "Acguy",
+      "number": "ST11-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716365/gundam-card-game-starter-deck-11-aquatic-assault-acguy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716366,
+      "name": "Zock",
+      "number": "ST11-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716366/gundam-card-game-starter-deck-11-aquatic-assault-zock",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 716367,
+      "name": "ZnO",
+      "number": "ST11-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716367/gundam-card-game-starter-deck-11-aquatic-assault-zno",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716368,
+      "name": "Ash",
+      "number": "ST11-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716368/gundam-card-game-starter-deck-11-aquatic-assault-ash",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 716369,
+      "name": "Shamblo",
+      "number": "ST11-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716369/gundam-card-game-starter-deck-11-aquatic-assault-shamblo",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.39,
+          "low": 0.19,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 716370,
+      "name": "Gundam Leopard",
+      "number": "ST11-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716370/gundam-card-game-starter-deck-11-aquatic-assault-gundam-leopard",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716371,
+      "name": "Daughseat",
+      "number": "ST11-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716371/gundam-card-game-starter-deck-11-aquatic-assault-daughseat",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716372,
+      "name": "Kapool",
+      "number": "ST11-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716372/gundam-card-game-starter-deck-11-aquatic-assault-kapool",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.09,
+          "low": 0.95,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 716373,
+      "name": "Abyss Gundam",
+      "number": "ST11-010",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716373/gundam-card-game-starter-deck-11-aquatic-assault-abyss-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 716374,
+      "name": "Char Aznable",
+      "number": "ST11-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716374/gundam-card-game-starter-deck-11-aquatic-assault-char-aznable",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716375,
+      "name": "Loni Garvey",
+      "number": "ST11-012",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716375/gundam-card-game-starter-deck-11-aquatic-assault-loni-garvey",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716376,
+      "name": "Poorly Planned Offensive",
+      "number": "ST11-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716376/gundam-card-game-starter-deck-11-aquatic-assault-poorly-planned-offensive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 716377,
+      "name": "The Orca of Red Sea",
+      "number": "ST11-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716377/gundam-card-game-starter-deck-11-aquatic-assault-the-orca-of-red-sea",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 716378,
+      "name": "A Twinkle from the Abyss",
+      "number": "ST11-015",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716378/gundam-card-game-starter-deck-11-aquatic-assault-a-twinkle-from-the-abyss",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 716379,
+      "name": "Mad Angler",
+      "number": "ST11-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716379/gundam-card-game-starter-deck-11-aquatic-assault-mad-angler",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 721005,
+      "name": "Char's Z'Gok",
+      "label": "LR+",
+      "number": "ST11-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721005/gundam-card-game-starter-deck-11-aquatic-assault-chars-zgok-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 44,
+          "low": 33.5,
+          "mid": 41.73
+        }
+      ]
+    },
+    {
+      "id": 721006,
+      "name": "Acguy",
+      "label": "C+",
+      "number": "ST11-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721006_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721006/gundam-card-game-starter-deck-11-aquatic-assault-acguy-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.03,
+          "low": 2.25,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 721007,
+      "name": "Zock",
+      "label": "C+",
+      "number": "ST11-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721007_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721007/gundam-card-game-starter-deck-11-aquatic-assault-zock-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.32,
+          "low": 4.71,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 721008,
+      "name": "ZnO",
+      "label": "C+",
+      "number": "ST11-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721008_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721008/gundam-card-game-starter-deck-11-aquatic-assault-zno-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.11,
+          "low": 2.5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 721009,
+      "name": "Ash",
+      "label": "C+",
+      "number": "ST11-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721009_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721009/gundam-card-game-starter-deck-11-aquatic-assault-ash-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.99,
+          "low": 1.19,
+          "mid": 2.34
+        }
+      ]
+    },
+    {
+      "id": 721010,
+      "name": "Shamblo",
+      "label": "LR+",
+      "number": "ST11-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721010/gundam-card-game-starter-deck-11-aquatic-assault-shamblo-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 19.72,
+          "low": 13.12,
+          "mid": 19.95
+        }
+      ]
+    },
+    {
+      "id": 721011,
+      "name": "Gundam Leopard",
+      "label": "C+",
+      "number": "ST11-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721011_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721011/gundam-card-game-starter-deck-11-aquatic-assault-gundam-leopard-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 16.24,
+          "low": 11,
+          "mid": 17.99
+        }
+      ]
+    },
+    {
+      "id": 721012,
+      "name": "Daughseat",
+      "label": "C+",
+      "number": "ST11-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721012/gundam-card-game-starter-deck-11-aquatic-assault-daughseat-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.91,
+          "low": 10.52,
+          "mid": 13.95
+        }
+      ]
+    },
+    {
+      "id": 721013,
+      "name": "Kapool",
+      "label": "C+",
+      "number": "ST11-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721013_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721013/gundam-card-game-starter-deck-11-aquatic-assault-kapool-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 30.86,
+          "low": 23.99,
+          "mid": 30.99
+        }
+      ]
+    },
+    {
+      "id": 721014,
+      "name": "Abyss Gundam",
+      "label": "C+",
+      "number": "ST11-010",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721014_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721014/gundam-card-game-starter-deck-11-aquatic-assault-abyss-gundam-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.99,
+          "low": 3.6,
+          "mid": 5.19
+        }
+      ]
+    },
+    {
+      "id": 721015,
+      "name": "Char Aznable",
+      "label": "C+",
+      "number": "ST11-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721015/gundam-card-game-starter-deck-11-aquatic-assault-char-aznable-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.38,
+          "low": 4.74,
+          "mid": 9.98
+        }
+      ]
+    },
+    {
+      "id": 721016,
+      "name": "Loni Garvey",
+      "label": "C+",
+      "number": "ST11-012",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721016_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721016/gundam-card-game-starter-deck-11-aquatic-assault-loni-garvey-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.13,
+          "low": 2.5,
+          "mid": 3.64
+        }
+      ]
+    },
+    {
+      "id": 721017,
+      "name": "Poorly Planned Offensive",
+      "label": "C+",
+      "number": "ST11-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721017_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721017/gundam-card-game-starter-deck-11-aquatic-assault-poorly-planned-offensive-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.62,
+          "low": 5.19,
+          "mid": 9.33
+        }
+      ]
+    },
+    {
+      "id": 721018,
+      "name": "The Orca of Red Sea",
+      "label": "C+",
+      "number": "ST11-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721018_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721018/gundam-card-game-starter-deck-11-aquatic-assault-the-orca-of-red-sea-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.28,
+          "low": 0.99,
+          "mid": 2.47
+        }
+      ]
+    },
+    {
+      "id": 721019,
+      "name": "A Twinkle from the Abyss",
+      "label": "C+",
+      "number": "ST11-015",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721019_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721019/gundam-card-game-starter-deck-11-aquatic-assault-a-twinkle-from-the-abyss-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.76,
+          "low": 1.99,
+          "mid": 3.2
+        }
+      ]
+    },
+    {
+      "id": 721020,
+      "name": "Mad Angler",
+      "label": "C+",
+      "number": "ST11-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721020_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721020/gundam-card-game-starter-deck-11-aquatic-assault-mad-angler-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.11,
+          "low": 10.25,
+          "mid": 13.92
+        }
+      ]
+    },
+    {
+      "id": 721037,
+      "name": "GOOhN Token",
+      "label": "T-028",
+      "number": "T-028",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721037_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721037/gundam-card-game-starter-deck-11-aquatic-assault-goohn-t-028-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

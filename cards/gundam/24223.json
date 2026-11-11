@@ -1,0 +1,603 @@
+{
+  "groupId": 24223,
+  "cards": [
+    {
+      "id": 641468,
+      "name": "Wing Gundam",
+      "number": "ST02-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641468/gundam-card-game-starter-deck-02-wings-of-advance-wing-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.16,
+          "low": 0.5,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 641469,
+      "name": "Wing Gundam",
+      "label": "Bird Mode",
+      "number": "ST02-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641469/gundam-card-game-starter-deck-02-wings-of-advance-wing-gundam-bird-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.3,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 641470,
+      "name": "Gundam Heavyarms",
+      "number": "ST02-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641470/gundam-card-game-starter-deck-02-wings-of-advance-gundam-heavyarms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641471,
+      "name": "Gundam Sandrock",
+      "number": "ST02-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641471/gundam-card-game-starter-deck-02-wings-of-advance-gundam-sandrock",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641472,
+      "name": "Maganac",
+      "number": "ST02-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641472/gundam-card-game-starter-deck-02-wings-of-advance-maganac",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 641473,
+      "name": "Tallgeese",
+      "number": "ST02-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641473/gundam-card-game-starter-deck-02-wings-of-advance-tallgeese",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.56,
+          "low": 0.35,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 641474,
+      "name": "Leo",
+      "number": "ST02-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641474/gundam-card-game-starter-deck-02-wings-of-advance-leo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 641475,
+      "name": "Aries",
+      "number": "ST02-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641475/gundam-card-game-starter-deck-02-wings-of-advance-aries",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641476,
+      "name": "Tragos",
+      "number": "ST02-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641476/gundam-card-game-starter-deck-02-wings-of-advance-tragos",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641477,
+      "name": "Heero Yuy",
+      "number": "ST02-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641477/gundam-card-game-starter-deck-02-wings-of-advance-heero-yuy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.2,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 641478,
+      "name": "Zechs Merquise",
+      "number": "ST02-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641478/gundam-card-game-starter-deck-02-wings-of-advance-zechs-merquise",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.25,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 641479,
+      "name": "Simultaneous Fire",
+      "number": "ST02-012",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641479/gundam-card-game-starter-deck-02-wings-of-advance-simultaneous-fire",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641480,
+      "name": "Peaceful Timbre",
+      "number": "ST02-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641480/gundam-card-game-starter-deck-02-wings-of-advance-peaceful-timbre",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641481,
+      "name": "Siege Ploy",
+      "number": "ST02-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641481/gundam-card-game-starter-deck-02-wings-of-advance-siege-ploy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.46,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 641482,
+      "name": "Saint Gabriel Institute",
+      "number": "ST02-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641482/gundam-card-game-starter-deck-02-wings-of-advance-saint-gabriel-institute",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641483,
+      "name": "Corsica Base",
+      "number": "ST02-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641483/gundam-card-game-starter-deck-02-wings-of-advance-corsica-base",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.91,
+          "low": 4.2,
+          "mid": 6.25
+        }
+      ]
+    },
+    {
+      "id": 641484,
+      "name": "Wing Gundam",
+      "label": "LR+",
+      "number": "ST02-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641484/gundam-card-game-starter-deck-02-wings-of-advance-wing-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 106.76,
+          "low": 91,
+          "mid": 107.03
+        }
+      ]
+    },
+    {
+      "id": 641485,
+      "name": "Wing Gundam",
+      "label": "Bird Mode · C+",
+      "number": "ST02-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641485/gundam-card-game-starter-deck-02-wings-of-advance-wing-gundam-bird-mode-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.13,
+          "low": 5.39,
+          "mid": 7.03
+        }
+      ]
+    },
+    {
+      "id": 641486,
+      "name": "Gundam Heavyarms",
+      "label": "C+",
+      "number": "ST02-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641486/gundam-card-game-starter-deck-02-wings-of-advance-gundam-heavyarms-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.22,
+          "low": 3.98,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 641487,
+      "name": "Gundam Sandrock",
+      "label": "C+",
+      "number": "ST02-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641487/gundam-card-game-starter-deck-02-wings-of-advance-gundam-sandrock-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.45,
+          "low": 4.25,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 641488,
+      "name": "Maganac",
+      "label": "C+",
+      "number": "ST02-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641488/gundam-card-game-starter-deck-02-wings-of-advance-maganac-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.19,
+          "low": 1.8,
+          "mid": 3.77
+        }
+      ]
+    },
+    {
+      "id": 641489,
+      "name": "Tallgeese",
+      "label": "LR+",
+      "number": "ST02-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641489/gundam-card-game-starter-deck-02-wings-of-advance-tallgeese-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 44.91,
+          "low": 24.99,
+          "mid": 42.95
+        }
+      ]
+    },
+    {
+      "id": 641490,
+      "name": "Leo",
+      "label": "C+",
+      "number": "ST02-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641490/gundam-card-game-starter-deck-02-wings-of-advance-leo-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.3,
+          "low": 2.93,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 641491,
+      "name": "Aries",
+      "label": "C+",
+      "number": "ST02-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641491/gundam-card-game-starter-deck-02-wings-of-advance-aries-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.39,
+          "low": 2,
+          "mid": 3.49
+        }
+      ]
+    },
+    {
+      "id": 641492,
+      "name": "Tragos",
+      "label": "C+",
+      "number": "ST02-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641492/gundam-card-game-starter-deck-02-wings-of-advance-tragos-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.78,
+          "low": 1.5,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 641493,
+      "name": "Heero Yuy",
+      "label": "C+",
+      "number": "ST02-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641493/gundam-card-game-starter-deck-02-wings-of-advance-heero-yuy-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 11.43,
+          "low": 10,
+          "mid": 14.49
+        }
+      ]
+    },
+    {
+      "id": 641494,
+      "name": "Zechs Merquise",
+      "label": "C+",
+      "number": "ST02-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641494/gundam-card-game-starter-deck-02-wings-of-advance-zechs-merquise-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 20.09,
+          "low": 12.6,
+          "mid": 23
+        }
+      ]
+    },
+    {
+      "id": 641495,
+      "name": "Simultaneous Fire",
+      "label": "C+",
+      "number": "ST02-012",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641495/gundam-card-game-starter-deck-02-wings-of-advance-simultaneous-fire-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.07,
+          "low": 4.76,
+          "mid": 8.08
+        }
+      ]
+    },
+    {
+      "id": 641496,
+      "name": "Peaceful Timbre",
+      "label": "C+",
+      "number": "ST02-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641496/gundam-card-game-starter-deck-02-wings-of-advance-peaceful-timbre-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.56,
+          "low": 2.25,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 641497,
+      "name": "Siege Ploy",
+      "label": "C+",
+      "number": "ST02-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641497/gundam-card-game-starter-deck-02-wings-of-advance-siege-ploy-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.31,
+          "low": 6.98,
+          "mid": 12
+        }
+      ]
+    },
+    {
+      "id": 641498,
+      "name": "Saint Gabriel Institute",
+      "label": "C+",
+      "number": "ST02-015",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641498/gundam-card-game-starter-deck-02-wings-of-advance-saint-gabriel-institute-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.66,
+          "low": 0.91,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 641499,
+      "name": "Corsica Base",
+      "label": "C+",
+      "number": "ST02-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641499/gundam-card-game-starter-deck-02-wings-of-advance-corsica-base-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 28.08,
+          "low": 25,
+          "mid": 29.69
+        }
+      ]
+    },
+    {
+      "id": 643283,
+      "name": "Leo Token",
+      "label": "T-004",
+      "number": "T-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/643283/gundam-card-game-starter-deck-02-wings-of-advance-leo-t-004-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.41,
+          "low": 2.19,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 643284,
+      "name": "Tallgeese Token",
+      "label": "T-005",
+      "number": "T-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/643284/gundam-card-game-starter-deck-02-wings-of-advance-tallgeese-t-005-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

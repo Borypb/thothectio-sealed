@@ -1,0 +1,575 @@
+{
+  "groupId": 24410,
+  "cards": [
+    {
+      "id": 670562,
+      "name": "Tieria Erde",
+      "number": "ST07-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670562/gundam-card-game-starter-deck-07-celestial-drive-tieria-erde",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 670563,
+      "name": "Gundam Exia",
+      "label": "ST07-001",
+      "number": "ST07-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670563/gundam-card-game-starter-deck-07-celestial-drive-gundam-exia-st07-001",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.64,
+          "low": 0.39,
+          "mid": 0.82
+        }
+      ]
+    },
+    {
+      "id": 670564,
+      "name": "Gundam Exia",
+      "label": "ST07-002",
+      "number": "ST07-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670564/gundam-card-game-starter-deck-07-celestial-drive-gundam-exia-st07-002",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 670565,
+      "name": "Gundam Virtue",
+      "label": "ST07-003",
+      "number": "ST07-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670565/gundam-card-game-starter-deck-07-celestial-drive-gundam-virtue-st07-003",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 670566,
+      "name": "Gundam Virtue",
+      "label": "ST07-004",
+      "number": "ST07-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670566/gundam-card-game-starter-deck-07-celestial-drive-gundam-virtue-st07-004",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 670567,
+      "name": "Gundam Dynames",
+      "label": "ST07-006",
+      "number": "ST07-006",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670567/gundam-card-game-starter-deck-07-celestial-drive-gundam-dynames-st07-006",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 670568,
+      "name": "Gundam Kyrios",
+      "label": "ST07-007",
+      "number": "ST07-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670568/gundam-card-game-starter-deck-07-celestial-drive-gundam-kyrios-st07-007",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 670569,
+      "name": "Gundam Kyrios",
+      "label": "Flight Mode",
+      "number": "ST07-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670569/gundam-card-game-starter-deck-07-celestial-drive-gundam-kyrios-flight-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 670570,
+      "name": "Setsuna F. Seiei",
+      "number": "ST07-009",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670570/gundam-card-game-starter-deck-07-celestial-drive-setsuna-f-seiei",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 670571,
+      "name": "Allelujah Haptism",
+      "number": "ST07-012",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670571/gundam-card-game-starter-deck-07-celestial-drive-allelujah-haptism",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 670572,
+      "name": "Tactical Visionary",
+      "number": "ST07-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/670572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/670572/gundam-card-game-starter-deck-07-celestial-drive-tactical-visionary",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.01,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 671914,
+      "name": "Gundam Dynames",
+      "label": "LR",
+      "number": "ST07-005",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671914/gundam-card-game-starter-deck-07-celestial-drive-gundam-dynames-lr",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.57,
+          "low": 0.39,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 671918,
+      "name": "Lockon Stratos",
+      "label": "Neil",
+      "number": "ST07-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671918/gundam-card-game-starter-deck-07-celestial-drive-lockon-stratos-neil",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 671920,
+      "name": "Armed Intervention",
+      "number": "ST07-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671920/gundam-card-game-starter-deck-07-celestial-drive-armed-intervention",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 671925,
+      "name": "Ptolemaios",
+      "number": "ST07-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671925/gundam-card-game-starter-deck-07-celestial-drive-ptolemaios",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 671926,
+      "name": "Fatal Strike",
+      "number": "ST05-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671926/gundam-card-game-starter-deck-07-celestial-drive-fatal-strike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.25,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 671985,
+      "name": "Tieria Erde",
+      "label": "C+",
+      "number": "ST07-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671985/gundam-card-game-starter-deck-07-celestial-drive-tieria-erde-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.49,
+          "low": 1.9,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 671986,
+      "name": "Gundam Exia",
+      "label": "ST07-001 · LR+",
+      "number": "ST07-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671986/gundam-card-game-starter-deck-07-celestial-drive-gundam-exia-st07-001-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 58,
+          "low": 33.99,
+          "mid": 55.06
+        }
+      ]
+    },
+    {
+      "id": 671987,
+      "name": "Gundam Exia",
+      "label": "ST07-002 · C+",
+      "number": "ST07-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671987/gundam-card-game-starter-deck-07-celestial-drive-gundam-exia-st07-002-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.06,
+          "low": 5.25,
+          "mid": 6.41
+        }
+      ]
+    },
+    {
+      "id": 671988,
+      "name": "Gundam Virtue",
+      "label": "ST07-003 · C+",
+      "number": "ST07-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671988/gundam-card-game-starter-deck-07-celestial-drive-gundam-virtue-st07-003-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.26,
+          "low": 1.25,
+          "mid": 3.02
+        }
+      ]
+    },
+    {
+      "id": 671989,
+      "name": "Gundam Virtue",
+      "label": "ST07-004 · C+",
+      "number": "ST07-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671989/gundam-card-game-starter-deck-07-celestial-drive-gundam-virtue-st07-004-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 18.52,
+          "low": 17.25,
+          "mid": 24.75
+        }
+      ]
+    },
+    {
+      "id": 671990,
+      "name": "Gundam Dynames",
+      "label": "ST07-006 · C+",
+      "number": "ST07-006",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671990/gundam-card-game-starter-deck-07-celestial-drive-gundam-dynames-st07-006-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.13,
+          "low": 4.75,
+          "mid": 6.45
+        }
+      ]
+    },
+    {
+      "id": 671991,
+      "name": "Gundam Kyrios",
+      "label": "ST07-007 · C+",
+      "number": "ST07-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671991/gundam-card-game-starter-deck-07-celestial-drive-gundam-kyrios-st07-007-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.08,
+          "low": 7,
+          "mid": 11.56
+        }
+      ]
+    },
+    {
+      "id": 671992,
+      "name": "Gundam Kyrios",
+      "label": "Flight Mode · C+",
+      "number": "ST07-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671992/gundam-card-game-starter-deck-07-celestial-drive-gundam-kyrios-flight-mode-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.78,
+          "low": 0.95,
+          "mid": 3.38
+        }
+      ]
+    },
+    {
+      "id": 671993,
+      "name": "Setsuna F. Seiei",
+      "label": "C+",
+      "number": "ST07-009",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671993/gundam-card-game-starter-deck-07-celestial-drive-setsuna-f-seiei-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.91,
+          "low": 5.98,
+          "mid": 11.18
+        }
+      ]
+    },
+    {
+      "id": 671994,
+      "name": "Allelujah Haptism",
+      "label": "C+",
+      "number": "ST07-012",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671994/gundam-card-game-starter-deck-07-celestial-drive-allelujah-haptism-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.39,
+          "low": 5,
+          "mid": 7.25
+        }
+      ]
+    },
+    {
+      "id": 671995,
+      "name": "Tactical Visionary",
+      "label": "C+",
+      "number": "ST07-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671995/gundam-card-game-starter-deck-07-celestial-drive-tactical-visionary-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.36,
+          "low": 1.4,
+          "mid": 4.41
+        }
+      ]
+    },
+    {
+      "id": 671996,
+      "name": "Gundam Dynames",
+      "label": "LR+",
+      "number": "ST07-005",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671996/gundam-card-game-starter-deck-07-celestial-drive-gundam-dynames-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 30.82,
+          "low": 27.13,
+          "mid": 32.98
+        }
+      ]
+    },
+    {
+      "id": 671997,
+      "name": "Lockon Stratos",
+      "label": "Neil · C+",
+      "number": "ST07-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671997/gundam-card-game-starter-deck-07-celestial-drive-lockon-stratos-neil-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.93,
+          "low": 8.2,
+          "mid": 13.58
+        }
+      ]
+    },
+    {
+      "id": 671998,
+      "name": "Armed Intervention",
+      "label": "C+",
+      "number": "ST07-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671998_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671998/gundam-card-game-starter-deck-07-celestial-drive-armed-intervention-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.59,
+          "low": 3.67,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 671999,
+      "name": "Ptolemaios",
+      "label": "C+",
+      "number": "ST07-015",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/671999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/671999/gundam-card-game-starter-deck-07-celestial-drive-ptolemaios-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.76,
+          "low": 12.5,
+          "mid": 16
+        }
+      ]
+    },
+    {
+      "id": 672000,
+      "name": "Fatal Strike",
+      "label": "C+",
+      "number": "ST05-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/672000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672000/gundam-card-game-starter-deck-07-celestial-drive-fatal-strike-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9,
+          "low": 7,
+          "mid": 14.61
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

@@ -1,0 +1,1427 @@
+{
+  "groupId": 24193,
+  "cards": [
+    {
+      "id": 616528,
+      "name": "Gundam",
+      "number": "ST01-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616528/gundam-card-game-edition-beta-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 34.5,
+          "low": 17.99,
+          "mid": 34.5
+        }
+      ]
+    },
+    {
+      "id": 616531,
+      "name": "Gundam",
+      "label": "LR+",
+      "number": "ST01-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616531/gundam-card-game-edition-beta-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15000,
+          "low": 13500,
+          "mid": 15000
+        }
+      ]
+    },
+    {
+      "id": 616532,
+      "name": "Gundam",
+      "label": "MA Form",
+      "number": "ST01-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616532/gundam-card-game-edition-beta-gundam-ma-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.5,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 616535,
+      "name": "GM",
+      "number": "ST01-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616535/gundam-card-game-edition-beta-gm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.27,
+          "low": 0.51,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 616601,
+      "name": "Gundam Aerial",
+      "label": "Bit on Form",
+      "number": "ST01-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616601/gundam-card-game-edition-beta-gundam-aerial-bit-on-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.18,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 616602,
+      "name": "Demi Trainer",
+      "number": "ST01-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616602/gundam-card-game-edition-beta-demi-trainer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.18,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 616603,
+      "name": "Amuro Ray",
+      "number": "ST01-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616603/gundam-card-game-edition-beta-amuro-ray",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.17,
+          "low": 0.54,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 616604,
+      "name": "Suletta Mercury",
+      "number": "ST01-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616604/gundam-card-game-edition-beta-suletta-mercury",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 1,
+          "mid": 1.52
+        }
+      ]
+    },
+    {
+      "id": 616605,
+      "name": "Suletta Mercury",
+      "label": "C+",
+      "number": "ST01-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616605/gundam-card-game-edition-beta-suletta-mercury-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 14999.99,
+          "low": 5500,
+          "mid": 14999.99
+        }
+      ]
+    },
+    {
+      "id": 616606,
+      "name": "Thoroughly Damaged",
+      "number": "ST01-012",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616606/gundam-card-game-edition-beta-thoroughly-damaged",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 616607,
+      "name": "Kai's Resolve",
+      "number": "ST01-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616607/gundam-card-game-edition-beta-kais-resolve",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 616608,
+      "name": "White Base",
+      "number": "ST01-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616608/gundam-card-game-edition-beta-white-base",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.24,
+          "low": 0.99,
+          "mid": 1.45
+        }
+      ]
+    },
+    {
+      "id": 616609,
+      "name": "Asticassia School of Technology, Earth House",
+      "number": "ST01-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616609/gundam-card-game-edition-beta-asticassia-school-of-technology-earth-house",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 616610,
+      "name": "Wing Gundam",
+      "label": "ST02-001",
+      "number": "ST02-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616610/gundam-card-game-edition-beta-wing-gundam-st02-001",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25.53,
+          "low": 10,
+          "mid": 25.1
+        }
+      ]
+    },
+    {
+      "id": 616611,
+      "name": "Wing Gundam",
+      "label": "LR+",
+      "number": "ST02-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616611/gundam-card-game-edition-beta-wing-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9999,
+          "low": 39999.99,
+          "mid": 39999.99
+        }
+      ]
+    },
+    {
+      "id": 616612,
+      "name": "Wing Gundam",
+      "label": "Bird Mode",
+      "number": "ST02-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616612/gundam-card-game-edition-beta-wing-gundam-bird-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.24,
+          "low": 0.95,
+          "mid": 1.97
+        }
+      ]
+    },
+    {
+      "id": 616613,
+      "name": "Maganac",
+      "number": "ST02-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616613/gundam-card-game-edition-beta-maganac",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 616614,
+      "name": "Heero Yuy",
+      "number": "ST02-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616614/gundam-card-game-edition-beta-heero-yuy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.28,
+          "low": 1.5,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 616615,
+      "name": "Simultaneous Fire",
+      "number": "ST02-012",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616615/gundam-card-game-edition-beta-simultaneous-fire",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.18,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 616616,
+      "name": "Peaceful Timbre",
+      "number": "ST02-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616616/gundam-card-game-edition-beta-peaceful-timbre",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.18,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 616617,
+      "name": "Saint Gabriel Institute",
+      "number": "ST02-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616617/gundam-card-game-edition-beta-saint-gabriel-institute",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.25,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 616618,
+      "name": "Zaku I",
+      "number": "ST03-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616618/gundam-card-game-edition-beta-zaku-i",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.86,
+          "low": 0.4,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 616619,
+      "name": "Zaku II",
+      "number": "ST03-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616619/gundam-card-game-edition-beta-zaku-ii",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.14,
+          "low": 6.18,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 616620,
+      "name": "Char Aznable",
+      "number": "ST03-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616620/gundam-card-game-edition-beta-char-aznable",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.14,
+          "low": 0.8,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 616621,
+      "name": "Char Aznable",
+      "label": "C+",
+      "number": "ST03-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616621/gundam-card-game-edition-beta-char-aznable-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2300.23,
+          "low": 2950,
+          "mid": 3000
+        }
+      ]
+    },
+    {
+      "id": 616622,
+      "name": "Falmel",
+      "number": "ST03-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616622/gundam-card-game-edition-beta-falmel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.2,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 616623,
+      "name": "Aile Strike Gundam",
+      "number": "ST04-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616623/gundam-card-game-edition-beta-aile-strike-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.14,
+          "low": 5,
+          "mid": 12
+        }
+      ]
+    },
+    {
+      "id": 616624,
+      "name": "Aile Strike Gundam",
+      "label": "LR+",
+      "number": "ST04-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616624/gundam-card-game-edition-beta-aile-strike-gundam-lrplus",
+      "prices": []
+    },
+    {
+      "id": 616625,
+      "name": "Strike Gundam",
+      "number": "ST04-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616625/gundam-card-game-edition-beta-strike-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 616626,
+      "name": "Strike Dagger",
+      "number": "ST04-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616626/gundam-card-game-edition-beta-strike-dagger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 616627,
+      "name": "Kira Yamato",
+      "number": "ST04-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616627/gundam-card-game-edition-beta-kira-yamato",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.83,
+          "low": 0.25,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 616628,
+      "name": "Hawk of Endymion",
+      "number": "ST04-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616628/gundam-card-game-edition-beta-hawk-of-endymion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 616629,
+      "name": "Archangel",
+      "number": "ST04-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616629/gundam-card-game-edition-beta-archangel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84,
+          "low": 0.18,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 616630,
+      "name": "Guncannon",
+      "number": "GD01-004",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616630/gundam-card-game-edition-beta-guncannon",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.95,
+          "low": 0.51,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 616631,
+      "name": "Guncannon",
+      "label": "R+",
+      "number": "GD01-004",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616631/gundam-card-game-edition-beta-guncannon-rplus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 883.33,
+          "low": 1600,
+          "mid": 1600
+        }
+      ]
+    },
+    {
+      "id": 616632,
+      "name": "Unicorn Gundam",
+      "label": "Unicorn Mode",
+      "number": "GD01-005",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616632/gundam-card-game-edition-beta-unicorn-gundam-unicorn-mode",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.47,
+          "low": 2.94,
+          "mid": 3.2
+        }
+      ]
+    },
+    {
+      "id": 616633,
+      "name": "Guntank",
+      "number": "GD01-008",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616633/gundam-card-game-edition-beta-guntank",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.31,
+          "low": 0.91,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 616634,
+      "name": "G-Fighter",
+      "number": "GD01-009",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616634/gundam-card-game-edition-beta-g-fighter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.18,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 616635,
+      "name": "Loto",
+      "number": "GD01-011",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616635/gundam-card-game-edition-beta-loto",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.16,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 616636,
+      "name": "Gundam",
+      "label": "GD01-013",
+      "number": "GD01-013",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616636/gundam-card-game-edition-beta-gundam-gd01-013",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.3,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 616637,
+      "name": "Ball",
+      "number": "GD01-015",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616637/gundam-card-game-edition-beta-ball",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 616638,
+      "name": "Jegan",
+      "number": "GD01-016",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616638/gundam-card-game-edition-beta-jegan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 616639,
+      "name": "ReZEL",
+      "number": "GD01-018",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616639/gundam-card-game-edition-beta-rezel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.63,
+          "low": 1,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 616640,
+      "name": "Char's Zaku II",
+      "number": "GD01-026",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616640/gundam-card-game-edition-beta-chars-zaku-ii",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.47,
+          "low": 3.5,
+          "mid": 4.62
+        }
+      ]
+    },
+    {
+      "id": 616641,
+      "name": "Char's Zaku II",
+      "label": "R+",
+      "number": "GD01-026",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616641/gundam-card-game-edition-beta-chars-zaku-ii-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4500,
+          "low": 3000,
+          "mid": 4500
+        }
+      ]
+    },
+    {
+      "id": 616642,
+      "name": "Gundam Sandrock",
+      "number": "GD01-028",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616642/gundam-card-game-edition-beta-gundam-sandrock",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.7,
+          "low": 0.2,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 616643,
+      "name": "Rick Dom",
+      "number": "GD01-030",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616643/gundam-card-game-edition-beta-rick-dom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.3,
+          "mid": 2.44
+        }
+      ]
+    },
+    {
+      "id": 616644,
+      "name": "Gelgoog",
+      "number": "GD01-031",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616644/gundam-card-game-edition-beta-gelgoog",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.5,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 616645,
+      "name": "Gundam Heavyarms",
+      "number": "GD01-034",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616645/gundam-card-game-edition-beta-gundam-heavyarms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.18,
+          "low": 0.9,
+          "mid": 1.68
+        }
+      ]
+    },
+    {
+      "id": 616646,
+      "name": "Wing Gundam",
+      "number": "GD01-040",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616646/gundam-card-game-edition-beta-wing-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 2,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 616647,
+      "name": "Shenlong Gundam",
+      "number": "GD01-041",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616647/gundam-card-game-edition-beta-shenlong-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.21,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 616648,
+      "name": "Perfect Strike Gundam",
+      "number": "GD01-068",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616648/gundam-card-game-edition-beta-perfect-strike-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.05,
+          "low": 2.5,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 616649,
+      "name": "Gundam Aerial",
+      "number": "GD01-070",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616649/gundam-card-game-edition-beta-gundam-aerial",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.69,
+          "low": 0.35,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 616650,
+      "name": "Gundam Aerial",
+      "label": "R+",
+      "number": "GD01-070",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616650/gundam-card-game-edition-beta-gundam-aerial-rplus",
+      "prices": []
+    },
+    {
+      "id": 616651,
+      "name": "Launcher Strike Gundam",
+      "number": "GD01-072",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616651/gundam-card-game-edition-beta-launcher-strike-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.61,
+          "low": 0.35,
+          "mid": 0.61
+        }
+      ]
+    },
+    {
+      "id": 616652,
+      "name": "Darilbalde",
+      "number": "GD01-075",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616652/gundam-card-game-edition-beta-darilbalde",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.18,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 616653,
+      "name": "Michaelis",
+      "number": "GD01-076",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616653/gundam-card-game-edition-beta-michaelis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 0.3,
+          "mid": 1.07
+        }
+      ]
+    },
+    {
+      "id": 616654,
+      "name": "Strike Gundam",
+      "label": "GD01-077",
+      "number": "GD01-077",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616654/gundam-card-game-edition-beta-strike-gundam-gd01-077",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.18,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 616655,
+      "name": "M1 Astray",
+      "number": "GD01-081",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616655/gundam-card-game-edition-beta-m1-astray",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.15,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 616656,
+      "name": "Banagher Links",
+      "number": "GD01-088",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616656/gundam-card-game-edition-beta-banagher-links",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.46,
+          "low": 2.8,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 616657,
+      "name": "Banagher Links",
+      "label": "U+",
+      "number": "GD01-088",
+      "rarity": "U+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616657/gundam-card-game-edition-beta-banagher-links-uplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1525,
+          "low": 3500,
+          "mid": 5750
+        }
+      ]
+    },
+    {
+      "id": 616658,
+      "name": "Riddhe Marcenas",
+      "number": "GD01-089",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616658/gundam-card-game-edition-beta-riddhe-marcenas",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.18,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 616659,
+      "name": "Chang Wufei",
+      "number": "GD01-091",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616659/gundam-card-game-edition-beta-chang-wufei",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.4,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 616660,
+      "name": "Guel Jeturk",
+      "number": "GD01-097",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616660/gundam-card-game-edition-beta-guel-jeturk",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 616661,
+      "name": "Intercept Orders",
+      "number": "GD01-099",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616661/gundam-card-game-edition-beta-intercept-orders",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.55,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 616662,
+      "name": "A Show of Resolve",
+      "number": "GD01-100",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616662/gundam-card-game-edition-beta-a-show-of-resolve",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.47,
+          "low": 3.5,
+          "mid": 8.27
+        }
+      ]
+    },
+    {
+      "id": 616663,
+      "name": "A Show of Resolve",
+      "label": "U+",
+      "number": "GD01-100",
+      "rarity": "U+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616663/gundam-card-game-edition-beta-a-show-of-resolve-uplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3999.5,
+          "low": 2950,
+          "mid": 3999.5
+        }
+      ]
+    },
+    {
+      "id": 616664,
+      "name": "Citizens, Take a Stand!",
+      "number": "GD01-105",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616664/gundam-card-game-edition-beta-citizens-take-a-stand",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.02,
+          "low": 0.4,
+          "mid": 1.16
+        }
+      ]
+    },
+    {
+      "id": 616665,
+      "name": "First Contact",
+      "number": "GD01-107",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616665/gundam-card-game-edition-beta-first-contact",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.3,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 616666,
+      "name": "First Contact",
+      "label": "U+",
+      "number": "GD01-107",
+      "rarity": "U+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616666/gundam-card-game-edition-beta-first-contact-uplus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 539.52,
+          "low": 2280,
+          "mid": 2750
+        }
+      ]
+    },
+    {
+      "id": 616667,
+      "name": "The Witch and the Bride",
+      "number": "GD01-117",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616667/gundam-card-game-edition-beta-the-witch-and-the-bride",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.75,
+          "low": 1.99,
+          "mid": 2.98
+        }
+      ]
+    },
+    {
+      "id": 616668,
+      "name": "Overflowing Affection",
+      "number": "GD01-118",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616668/gundam-card-game-edition-beta-overflowing-affection",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.16,
+          "low": 1.89,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 616669,
+      "name": "Overflowing Affection",
+      "label": "U+",
+      "number": "GD01-118",
+      "rarity": "U+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616669/gundam-card-game-edition-beta-overflowing-affection-uplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25969.67,
+          "low": 10000,
+          "mid": 25969.67
+        }
+      ]
+    },
+    {
+      "id": 616670,
+      "name": "Naval Bombardment",
+      "number": "GD01-120",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616670/gundam-card-game-edition-beta-naval-bombardment",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 616671,
+      "name": "Side 7",
+      "number": "GD01-124",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616671/gundam-card-game-edition-beta-side-7",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 616672,
+      "name": "Gundam Token",
+      "label": "T-001",
+      "number": "T-001",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616672/gundam-card-game-edition-beta-gundam-t-001-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.59,
+          "low": 1.5,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 616673,
+      "name": "Guncannon Token",
+      "label": "T-002",
+      "number": "T-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616673/gundam-card-game-edition-beta-guncannon-t-002-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.36,
+          "low": 0.4,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 616674,
+      "name": "Guntank Token",
+      "label": "T-003",
+      "number": "T-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616674/gundam-card-game-edition-beta-guntank-t-003-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.1,
+          "low": 1.25,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 616675,
+      "name": "Char's Zaku II Token",
+      "label": "T-006",
+      "number": "T-006",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616675/gundam-card-game-edition-beta-chars-zaku-ii-t-006-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.14,
+          "low": 1,
+          "mid": 2.09
+        }
+      ]
+    },
+    {
+      "id": 616676,
+      "name": "Resource",
+      "number": "R-001",
+      "rarity": "Common",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616676/gundam-card-game-edition-beta-resource",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 616677,
+      "name": "Resource",
+      "label": "C+",
+      "number": "R-001",
+      "rarity": "C+",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616677/gundam-card-game-edition-beta-resource-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 69.17,
+          "low": 64,
+          "mid": 74.99
+        }
+      ]
+    },
+    {
+      "id": 616678,
+      "name": "EX Base",
+      "number": "EXB-001",
+      "rarity": "Common",
+      "type": "EX Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616678/gundam-card-game-edition-beta-ex-base",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 616679,
+      "name": "EX Resource",
+      "number": "EXR-001",
+      "rarity": "Common",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616679/gundam-card-game-edition-beta-ex-resource",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.19,
+          "mid": 0.63
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

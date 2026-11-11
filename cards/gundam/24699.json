@@ -1,0 +1,3447 @@
+{
+  "groupId": 24699,
+  "cards": [
+    {
+      "id": 705537,
+      "name": "V2 Gundam",
+      "number": "GD05-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705537/gundam-card-game-freedom-ascension-v2-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.31,
+          "low": 0.03,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 705538,
+      "name": "Strike Freedom Gundam",
+      "number": "GD05-002",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705538/gundam-card-game-freedom-ascension-strike-freedom-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.74,
+          "low": 4.45,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 705539,
+      "name": "Waldfeld's Murasame",
+      "number": "GD05-003",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705539/gundam-card-game-freedom-ascension-waldfelds-murasame",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705540,
+      "name": "Akatsuki",
+      "label": "Oowashi",
+      "number": "GD05-004",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705540/gundam-card-game-freedom-ascension-akatsuki-oowashi",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705541,
+      "name": "Strike Rouge",
+      "label": "Ootori",
+      "number": "GD05-005",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705541/gundam-card-game-freedom-ascension-strike-rouge-ootori",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.6,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705542,
+      "name": "Hashmal",
+      "number": "GD05-006",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705542/gundam-card-game-freedom-ascension-hashmal",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705543,
+      "name": "Asshimar",
+      "number": "GD05-007",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705543/gundam-card-game-freedom-ascension-asshimar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705544,
+      "name": "Dijeh",
+      "number": "GD05-008",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705544_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705544/gundam-card-game-freedom-ascension-dijeh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705545,
+      "name": "Gun Blaster",
+      "number": "GD05-009",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705545/gundam-card-game-freedom-ascension-gun-blaster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705546,
+      "name": "Kira's Strike Rouge",
+      "number": "GD05-010",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705546/gundam-card-game-freedom-ascension-kiras-strike-rouge",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705547,
+      "name": "Calamity Gundam & Raider Gundam",
+      "number": "GD05-011",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705547/gundam-card-game-freedom-ascension-calamity-gundam-and-raider-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705548,
+      "name": "Forbidden Gundam",
+      "number": "GD05-012",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705548/gundam-card-game-freedom-ascension-forbidden-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705549,
+      "name": "Gun EZ",
+      "number": "GD05-013",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705549/gundam-card-game-freedom-ascension-gun-ez",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705550,
+      "name": "Javelin",
+      "number": "GD05-014",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705550/gundam-card-game-freedom-ascension-javelin",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705551,
+      "name": "M1 Astray Shrike",
+      "number": "GD05-015",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705551/gundam-card-game-freedom-ascension-m1-astray-shrike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.01,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 705552,
+      "name": "Murasame",
+      "number": "GD05-016",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705552/gundam-card-game-freedom-ascension-murasame",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705553,
+      "name": "Nu Gundam",
+      "label": "GD05-017",
+      "number": "GD05-017",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705553/gundam-card-game-freedom-ascension-nu-gundam-gd05-017",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.03,
+          "low": 0.5,
+          "mid": 2.42
+        }
+      ]
+    },
+    {
+      "id": 705554,
+      "name": "Gundam Calibarn",
+      "number": "GD05-018",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705554/gundam-card-game-freedom-ascension-gundam-calibarn",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.57,
+          "low": 0.2,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 705555,
+      "name": "Re-GZ",
+      "number": "GD05-019",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705555/gundam-card-game-freedom-ascension-re-gz",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.42,
+          "low": 0.17,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705556,
+      "name": "Nu Gundam",
+      "label": "GD05-020",
+      "number": "GD05-020",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705556/gundam-card-game-freedom-ascension-nu-gundam-gd05-020",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.58,
+          "low": 0.39,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 705557,
+      "name": "Gundam AGE-2 Double Bullet",
+      "number": "GD05-021",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705557/gundam-card-game-freedom-ascension-gundam-age-2-double-bullet",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22,
+          "low": 0.01,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 705558,
+      "name": "Gundam Schwarzette",
+      "number": "GD05-022",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705558/gundam-card-game-freedom-ascension-gundam-schwarzette",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705559,
+      "name": "Re-GZ BWS",
+      "number": "GD05-023",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705559/gundam-card-game-freedom-ascension-re-gz-bws",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 705560,
+      "name": "Gundam AGE-2 Normal",
+      "label": "SP Ver.",
+      "number": "GD05-024",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705560/gundam-card-game-freedom-ascension-gundam-age-2-normal-sp-ver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705561,
+      "name": "Demi Barding",
+      "number": "GD05-025",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705561/gundam-card-game-freedom-ascension-demi-barding",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 705562,
+      "name": "Gundam Aerial Rebuild",
+      "number": "GD05-026",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705562/gundam-card-game-freedom-ascension-gundam-aerial-rebuild",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705563,
+      "name": "Jegan",
+      "number": "GD05-027",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705563/gundam-card-game-freedom-ascension-jegan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705564,
+      "name": "Kayra's Jegan",
+      "number": "GD05-028",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705564/gundam-card-game-freedom-ascension-kayras-jegan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705565,
+      "name": "Kayra's Re-GZ",
+      "number": "GD05-029",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705565/gundam-card-game-freedom-ascension-kayras-re-gz",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705566,
+      "name": "Michaelis",
+      "number": "GD05-030",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705566/gundam-card-game-freedom-ascension-michaelis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705567,
+      "name": "Guel's Dilanza",
+      "number": "GD05-031",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705567/gundam-card-game-freedom-ascension-guels-dilanza",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705568,
+      "name": "Desultor",
+      "number": "GD05-032",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705568/gundam-card-game-freedom-ascension-desultor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705569,
+      "name": "Master Gundam",
+      "number": "GD05-033",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705569/gundam-card-game-freedom-ascension-master-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.31,
+          "low": 0.9,
+          "mid": 2.58
+        }
+      ]
+    },
+    {
+      "id": 705570,
+      "name": "Gaia Gundam",
+      "number": "GD05-034",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705570/gundam-card-game-freedom-ascension-gaia-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2,
+          "low": 0.06,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 705571,
+      "name": "Dragon Gundam",
+      "number": "GD05-035",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705571/gundam-card-game-freedom-ascension-dragon-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.31,
+          "low": 0.04,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 705572,
+      "name": "Haow Gundam",
+      "number": "GD05-036",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705572/gundam-card-game-freedom-ascension-haow-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705573,
+      "name": "Destroy Gundam",
+      "number": "GD05-037",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705573/gundam-card-game-freedom-ascension-destroy-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 705574,
+      "name": "Gundam Throne Eins",
+      "label": "GN High Mega Launcher",
+      "number": "GD05-038",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705574/gundam-card-game-freedom-ascension-gundam-throne-eins-gn-high-mega-launcher",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705575,
+      "name": "Chaos Gundam",
+      "number": "GD05-039",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705575/gundam-card-game-freedom-ascension-chaos-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705576,
+      "name": "Abyss Gundam",
+      "number": "GD05-040",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705576/gundam-card-game-freedom-ascension-abyss-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705577,
+      "name": "Gaia Gundam",
+      "label": "MA Mode",
+      "number": "GD05-041",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705577/gundam-card-game-freedom-ascension-gaia-gundam-ma-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705578,
+      "name": "Shining Gundam",
+      "label": "GD05-042",
+      "number": "GD05-042",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705578/gundam-card-game-freedom-ascension-shining-gundam-gd05-042",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705579,
+      "name": "Neros Gundam",
+      "number": "GD05-043",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705579/gundam-card-game-freedom-ascension-neros-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705580,
+      "name": "Gundam Rose",
+      "number": "GD05-044",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705580/gundam-card-game-freedom-ascension-gundam-rose",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705581,
+      "name": "Chaos Gundam",
+      "label": "MA Mode",
+      "number": "GD05-045",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705581/gundam-card-game-freedom-ascension-chaos-gundam-ma-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705582,
+      "name": "Abyss Gundam",
+      "label": "MA Mode",
+      "number": "GD05-046",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705582/gundam-card-game-freedom-ascension-abyss-gundam-ma-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705583,
+      "name": "Exass",
+      "number": "GD05-047",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705583/gundam-card-game-freedom-ascension-exass",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705584,
+      "name": "Gundam Kyrios",
+      "label": "Flight Mode",
+      "number": "GD05-048",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705584/gundam-card-game-freedom-ascension-gundam-kyrios-flight-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705585,
+      "name": "Sazabi",
+      "label": "GD05-049",
+      "number": "GD05-049",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705585/gundam-card-game-freedom-ascension-sazabi-gd05-049",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.15,
+          "low": 0.59,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 705586,
+      "name": "Gundam Exia Repair",
+      "number": "GD05-050",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705586/gundam-card-game-freedom-ascension-gundam-exia-repair",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.19,
+          "low": 5.8,
+          "mid": 8.33
+        }
+      ]
+    },
+    {
+      "id": 705587,
+      "name": "Gundam Barbatos Lupus Rex",
+      "number": "GD05-051",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705587/gundam-card-game-freedom-ascension-gundam-barbatos-lupus-rex",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.34,
+          "low": 0.04,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705588,
+      "name": "Sazabi",
+      "label": "GD05-052",
+      "number": "GD05-052",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705588/gundam-card-game-freedom-ascension-sazabi-gd05-052",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 705589,
+      "name": "Quess's Jagd Doga",
+      "number": "GD05-053",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705589/gundam-card-game-freedom-ascension-quesss-jagd-doga",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705590,
+      "name": "Alpha Azieru",
+      "number": "GD05-054",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705590/gundam-card-game-freedom-ascension-alpha-azieru",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 705591,
+      "name": "Destiny Gundam",
+      "number": "GD05-055",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705591/gundam-card-game-freedom-ascension-destiny-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705592,
+      "name": "Rezin's Geara Doga",
+      "number": "GD05-056",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705592/gundam-card-game-freedom-ascension-rezins-geara-doga",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705593,
+      "name": "Gyunei's Jagd Doga",
+      "label": "GD05-057",
+      "number": "GD05-057",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705593/gundam-card-game-freedom-ascension-gyuneis-jagd-doga-gd05-057",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705594,
+      "name": "Shiden Custom",
+      "label": "Ryusei-Go",
+      "number": "GD05-058",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705594/gundam-card-game-freedom-ascension-shiden-custom-ryusei-go",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705595,
+      "name": "Gundam Barbatos Lupus",
+      "number": "GD05-059",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705595/gundam-card-game-freedom-ascension-gundam-barbatos-lupus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705596,
+      "name": "Gundam Flauros",
+      "label": "Ryusei-Go",
+      "number": "GD05-060",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705596/gundam-card-game-freedom-ascension-gundam-flauros-ryusei-go",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705597,
+      "name": "Geara Doga",
+      "number": "GD05-061",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705597/gundam-card-game-freedom-ascension-geara-doga",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705598,
+      "name": "Hobby Hizack",
+      "number": "GD05-062",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705598/gundam-card-game-freedom-ascension-hobby-hizack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705599,
+      "name": "Gyunei's Jagd Doga",
+      "label": "GD05-063",
+      "number": "GD05-063",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705599/gundam-card-game-freedom-ascension-gyuneis-jagd-doga-gd05-063",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705600,
+      "name": "Force Impulse Gundam",
+      "number": "GD05-064",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705600/gundam-card-game-freedom-ascension-force-impulse-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705601,
+      "name": "Landman Rodi",
+      "number": "GD05-065",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705601/gundam-card-game-freedom-ascension-landman-rodi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705602,
+      "name": "Shining Gundam",
+      "label": "GD05-066",
+      "number": "GD05-066",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705602/gundam-card-game-freedom-ascension-shining-gundam-gd05-066",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.58,
+          "low": 0.98,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 705603,
+      "name": "Wing Gundam Zero",
+      "label": "EW",
+      "number": "GD05-067",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705603/gundam-card-game-freedom-ascension-wing-gundam-zero-ew",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.83,
+          "low": 1,
+          "mid": 2.77
+        }
+      ]
+    },
+    {
+      "id": 705604,
+      "name": "Shining Gundam",
+      "label": "Super Mode",
+      "number": "GD05-068",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705604/gundam-card-game-freedom-ascension-shining-gundam-super-mode",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.32,
+          "low": 0.1,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 705605,
+      "name": "Gundam Maxter",
+      "number": "GD05-069",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705605/gundam-card-game-freedom-ascension-gundam-maxter",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.78,
+          "low": 0.33,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 705606,
+      "name": "Tallgeese III",
+      "number": "GD05-070",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705606/gundam-card-game-freedom-ascension-tallgeese-iii",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705607,
+      "name": "Gundam Sandrock Custom",
+      "label": "EW",
+      "number": "GD05-071",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705607/gundam-card-game-freedom-ascension-gundam-sandrock-custom-ew",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705608,
+      "name": "Rising Gundam",
+      "number": "GD05-072",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705608/gundam-card-game-freedom-ascension-rising-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705609,
+      "name": "Altron Gundam",
+      "label": "EW",
+      "number": "GD05-073",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705609/gundam-card-game-freedom-ascension-altron-gundam-ew",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705610,
+      "name": "Noin's Taurus",
+      "number": "GD05-074",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705610/gundam-card-game-freedom-ascension-noins-taurus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705611,
+      "name": "Royal Gundam",
+      "number": "GD05-075",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705611/gundam-card-game-freedom-ascension-royal-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705612,
+      "name": "Bolt Gundam",
+      "number": "GD05-076",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705612/gundam-card-game-freedom-ascension-bolt-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705613,
+      "name": "Leo",
+      "number": "GD05-077",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705613/gundam-card-game-freedom-ascension-leo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 705614,
+      "name": "Gundam Deathscythe Hell",
+      "label": "EW",
+      "number": "GD05-078",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705614/gundam-card-game-freedom-ascension-gundam-deathscythe-hell-ew",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705615,
+      "name": "Gundam Heavyarms Custom",
+      "label": "EW",
+      "number": "GD05-079",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705615/gundam-card-game-freedom-ascension-gundam-heavyarms-custom-ew",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705616,
+      "name": "Gavane's Borjarnon",
+      "number": "GD05-080",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705616/gundam-card-game-freedom-ascension-gavanes-borjarnon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705617,
+      "name": "Kira Yamato",
+      "number": "GD05-081",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705617/gundam-card-game-freedom-ascension-kira-yamato",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.91,
+          "low": 1.17,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 705618,
+      "name": "Andrew Waldfeld",
+      "number": "GD05-082",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705618/gundam-card-game-freedom-ascension-andrew-waldfeld",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705619,
+      "name": "Cagalli Yula Athha",
+      "number": "GD05-083",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705619/gundam-card-game-freedom-ascension-cagalli-yula-athha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705620,
+      "name": "Odelo Henrik",
+      "number": "GD05-084",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705620/gundam-card-game-freedom-ascension-odelo-henrik",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705621,
+      "name": "Amuro Ray",
+      "number": "GD05-085",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705621/gundam-card-game-freedom-ascension-amuro-ray",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.97,
+          "low": 0.58,
+          "mid": 1.11
+        }
+      ]
+    },
+    {
+      "id": 705622,
+      "name": "Kayra Su",
+      "number": "GD05-086",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705622/gundam-card-game-freedom-ascension-kayra-su",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705623,
+      "name": "Lauda Neill",
+      "number": "GD05-087",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705623/gundam-card-game-freedom-ascension-lauda-neill",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 705624,
+      "name": "Prospera Mercury",
+      "number": "GD05-088",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705624/gundam-card-game-freedom-ascension-prospera-mercury",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705625,
+      "name": "Master Asia",
+      "number": "GD05-089",
+      "rarity": "Legend Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705625/gundam-card-game-freedom-ascension-master-asia",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.26,
+          "low": 0.9,
+          "mid": 2.03
+        }
+      ]
+    },
+    {
+      "id": 705626,
+      "name": "Stellar Loussier",
+      "number": "GD05-090",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705626/gundam-card-game-freedom-ascension-stellar-loussier",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705627,
+      "name": "Sting Oakley",
+      "number": "GD05-091",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705627/gundam-card-game-freedom-ascension-sting-oakley",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705628,
+      "name": "Auel Neider",
+      "number": "GD05-092",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705628/gundam-card-game-freedom-ascension-auel-neider",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705629,
+      "name": "Char Aznable",
+      "number": "GD05-093",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705629/gundam-card-game-freedom-ascension-char-aznable",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.87,
+          "low": 0.25,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 705630,
+      "name": "Quess Paraya",
+      "number": "GD05-094",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705630/gundam-card-game-freedom-ascension-quess-paraya",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705631,
+      "name": "Gyunei Guss",
+      "number": "GD05-095",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705631/gundam-card-game-freedom-ascension-gyunei-guss",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705632,
+      "name": "Chad Chadan",
+      "number": "GD05-096",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705632/gundam-card-game-freedom-ascension-chad-chadan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705633,
+      "name": "Domon Kasshu",
+      "number": "GD05-097",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705633/gundam-card-game-freedom-ascension-domon-kasshu",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.8,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 705634,
+      "name": "Heero Yuy",
+      "number": "GD05-098",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705634/gundam-card-game-freedom-ascension-heero-yuy",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705635,
+      "name": "Trowa Barton",
+      "number": "GD05-099",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705635/gundam-card-game-freedom-ascension-trowa-barton",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705636,
+      "name": "Quatre Raberba Winner",
+      "number": "GD05-100",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705636/gundam-card-game-freedom-ascension-quatre-raberba-winner",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705637,
+      "name": "Gavane Goonny",
+      "number": "GD05-101",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705637/gundam-card-game-freedom-ascension-gavane-goonny",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705638,
+      "name": "Wings of Light",
+      "number": "GD05-102",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705638/gundam-card-game-freedom-ascension-wings-of-light",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 705639,
+      "name": "Not with Scattershot!",
+      "number": "GD05-103",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705639/gundam-card-game-freedom-ascension-not-with-scattershot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705640,
+      "name": "At the Risk of One's Life",
+      "number": "GD05-104",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705640/gundam-card-game-freedom-ascension-at-the-risk-of-ones-life",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705641,
+      "name": "Exclusively Defense-Oriented Policy",
+      "number": "GD05-105",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705641/gundam-card-game-freedom-ascension-exclusively-defense-oriented-policy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705642,
+      "name": "Mutual Attraction",
+      "number": "GD05-106",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705642/gundam-card-game-freedom-ascension-mutual-attraction",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705643,
+      "name": "Interwoven Blessings",
+      "number": "GD05-107",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705643/gundam-card-game-freedom-ascension-interwoven-blessings",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705644,
+      "name": "Overcoming Hardships",
+      "number": "GD05-108",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705644/gundam-card-game-freedom-ascension-overcoming-hardships",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705645,
+      "name": "Felsi's Plea",
+      "number": "GD05-109",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705645/gundam-card-game-freedom-ascension-felsis-plea",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705646,
+      "name": "Darkness Finger",
+      "number": "GD05-110",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705646/gundam-card-game-freedom-ascension-darkness-finger",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.13,
+          "low": 8,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 705647,
+      "name": "Airframe Seizure",
+      "number": "GD05-111",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705647/gundam-card-game-freedom-ascension-airframe-seizure",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.28,
+          "low": 0.9,
+          "mid": 1.34
+        }
+      ]
+    },
+    {
+      "id": 705648,
+      "name": "Hoka Kyoten Juzetsujin",
+      "number": "GD05-112",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705648/gundam-card-game-freedom-ascension-hoka-kyoten-juzetsujin",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705649,
+      "name": "Rose Screamer",
+      "number": "GD05-113",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705649/gundam-card-game-freedom-ascension-rose-screamer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705650,
+      "name": "Widespread Annihilation",
+      "number": "GD05-114",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705650/gundam-card-game-freedom-ascension-widespread-annihilation",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.45,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705651,
+      "name": "Newtype Labs Director",
+      "number": "GD05-115",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705651/gundam-card-game-freedom-ascension-newtype-labs-director",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705652,
+      "name": "Veteran's Pride",
+      "number": "GD05-116",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705652/gundam-card-game-freedom-ascension-veterans-pride",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705653,
+      "name": "Become a Shield",
+      "number": "GD05-117",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705653/gundam-card-game-freedom-ascension-become-a-shield",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705654,
+      "name": "Incendiary Spark",
+      "number": "GD05-118",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705654/gundam-card-game-freedom-ascension-incendiary-spark",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705655,
+      "name": "A Wind Against Fires",
+      "number": "GD05-119",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705655/gundam-card-game-freedom-ascension-a-wind-against-fires",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705656,
+      "name": "Shining Finger",
+      "label": "GD05-120",
+      "number": "GD05-120",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705656/gundam-card-game-freedom-ascension-shining-finger-gd05-120",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705657,
+      "name": "Cyclone Punch",
+      "number": "GD05-121",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705657/gundam-card-game-freedom-ascension-cyclone-punch",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705658,
+      "name": "Graviton Hammer",
+      "number": "GD05-122",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705658/gundam-card-game-freedom-ascension-graviton-hammer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705659,
+      "name": "Archangel",
+      "number": "GD05-123",
+      "rarity": "Uncommon",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705659/gundam-card-game-freedom-ascension-archangel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 705660,
+      "name": "White Ark",
+      "number": "GD05-124",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705660/gundam-card-game-freedom-ascension-white-ark",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705661,
+      "name": "Ra Cailum",
+      "number": "GD05-125",
+      "rarity": "Uncommon",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705661/gundam-card-game-freedom-ascension-ra-cailum",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705662,
+      "name": "Quiet Zero",
+      "number": "GD05-126",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705662/gundam-card-game-freedom-ascension-quiet-zero",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705663,
+      "name": "Girty Lue",
+      "number": "GD05-127",
+      "rarity": "Uncommon",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705663/gundam-card-game-freedom-ascension-girty-lue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705664,
+      "name": "Gundam Fight",
+      "number": "GD05-128",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705664/gundam-card-game-freedom-ascension-gundam-fight",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 705665,
+      "name": "Axis",
+      "number": "GD05-129",
+      "rarity": "Rare",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705665/gundam-card-game-freedom-ascension-axis",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.85,
+          "low": 0.37,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 705666,
+      "name": "Presidential Office",
+      "number": "GD05-130",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705666/gundam-card-game-freedom-ascension-presidential-office",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 705667,
+      "name": "Gundnode Token",
+      "label": "T-026",
+      "number": "T-026",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705667/gundam-card-game-freedom-ascension-gundnode-t-026-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705668,
+      "name": "Pluma Token",
+      "label": "T-027",
+      "number": "T-027",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705668/gundam-card-game-freedom-ascension-pluma-t-027-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.01,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 707541,
+      "name": "V2 Gundam",
+      "label": "LR+",
+      "number": "GD05-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707541/gundam-card-game-freedom-ascension-v2-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.98,
+          "low": 4.36,
+          "mid": 8.96
+        }
+      ]
+    },
+    {
+      "id": 707542,
+      "name": "Strike Freedom Gundam",
+      "label": "LR+",
+      "number": "GD05-002",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707542/gundam-card-game-freedom-ascension-strike-freedom-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 70.36,
+          "low": 66.5,
+          "mid": 74.72
+        }
+      ]
+    },
+    {
+      "id": 707543,
+      "name": "Nu Gundam",
+      "label": "LR+",
+      "number": "GD05-017",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707543/gundam-card-game-freedom-ascension-nu-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 23.43,
+          "low": 23,
+          "mid": 30.94
+        }
+      ]
+    },
+    {
+      "id": 707544,
+      "name": "Gundam Calibarn",
+      "label": "LR+",
+      "number": "GD05-018",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707544_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707544/gundam-card-game-freedom-ascension-gundam-calibarn-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 17.77,
+          "low": 14,
+          "mid": 20.02
+        }
+      ]
+    },
+    {
+      "id": 707545,
+      "name": "Master Gundam",
+      "label": "LR+",
+      "number": "GD05-033",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707545/gundam-card-game-freedom-ascension-master-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 23.94,
+          "low": 22.39,
+          "mid": 34.25
+        }
+      ]
+    },
+    {
+      "id": 707546,
+      "name": "Gaia Gundam",
+      "label": "LR+",
+      "number": "GD05-034",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707546/gundam-card-game-freedom-ascension-gaia-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.43,
+          "low": 6.5,
+          "mid": 11.86
+        }
+      ]
+    },
+    {
+      "id": 707547,
+      "name": "Sazabi",
+      "label": "LR+",
+      "number": "GD05-049",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707547/gundam-card-game-freedom-ascension-sazabi-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 21.83,
+          "low": 18.95,
+          "mid": 25.63
+        }
+      ]
+    },
+    {
+      "id": 707548,
+      "name": "Gundam Exia Repair",
+      "label": "LR+",
+      "number": "GD05-050",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707548/gundam-card-game-freedom-ascension-gundam-exia-repair-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 31.12,
+          "low": 25.99,
+          "mid": 36.99
+        }
+      ]
+    },
+    {
+      "id": 707549,
+      "name": "Gundam Barbatos Lupus Rex",
+      "label": "LR+",
+      "number": "GD05-051",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707549/gundam-card-game-freedom-ascension-gundam-barbatos-lupus-rex-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.32,
+          "low": 4,
+          "mid": 6.26
+        }
+      ]
+    },
+    {
+      "id": 707550,
+      "name": "Shining Gundam",
+      "label": "LR+",
+      "number": "GD05-066",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707550/gundam-card-game-freedom-ascension-shining-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 36.4,
+          "low": 35.99,
+          "mid": 43
+        }
+      ]
+    },
+    {
+      "id": 707551,
+      "name": "Wing Gundam Zero",
+      "label": "EW · LR+",
+      "number": "GD05-067",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707551/gundam-card-game-freedom-ascension-wing-gundam-zero-ew-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 56.39,
+          "low": 54.63,
+          "mid": 64.5
+        }
+      ]
+    },
+    {
+      "id": 707552,
+      "name": "Master Asia",
+      "label": "LR+",
+      "number": "GD05-089",
+      "rarity": "LR+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707552/gundam-card-game-freedom-ascension-master-asia-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 37.02,
+          "low": 37.16,
+          "mid": 49.79
+        }
+      ]
+    },
+    {
+      "id": 707553,
+      "name": "A Wind Against Fires",
+      "label": "R+",
+      "number": "GD05-119",
+      "rarity": "R+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707553/gundam-card-game-freedom-ascension-a-wind-against-fires-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.57,
+          "low": 2.5,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 707554,
+      "name": "Wings of Light",
+      "label": "R+",
+      "number": "GD05-102",
+      "rarity": "R+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707554/gundam-card-game-freedom-ascension-wings-of-light-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.01,
+          "low": 2.45,
+          "mid": 4.25
+        }
+      ]
+    },
+    {
+      "id": 707555,
+      "name": "Destroy Gundam",
+      "label": "R+",
+      "number": "GD05-037",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707555/gundam-card-game-freedom-ascension-destroy-gundam-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.19,
+          "low": 2.5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 707556,
+      "name": "Dragon Gundam",
+      "label": "R+",
+      "number": "GD05-035",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707556/gundam-card-game-freedom-ascension-dragon-gundam-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.97,
+          "low": 4.97,
+          "mid": 8.05
+        }
+      ]
+    },
+    {
+      "id": 707557,
+      "name": "Heero Yuy",
+      "label": "R+",
+      "number": "GD05-098",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707557/gundam-card-game-freedom-ascension-heero-yuy-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.87,
+          "low": 14.99,
+          "mid": 22.38
+        }
+      ]
+    },
+    {
+      "id": 707558,
+      "name": "Gundam AGE-2 Double Bullet",
+      "label": "R+",
+      "number": "GD05-021",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707558/gundam-card-game-freedom-ascension-gundam-age-2-double-bullet-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.2,
+          "low": 3.9,
+          "mid": 7.44
+        }
+      ]
+    },
+    {
+      "id": 707559,
+      "name": "Waldfeld's Murasame",
+      "label": "R+ · Link Rare",
+      "number": "GD05-003",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707559/gundam-card-game-freedom-ascension-waldfelds-murasame-rplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.75,
+          "low": 0.2,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 707560,
+      "name": "Strike Rouge",
+      "label": "R+ · Ootori · Link Rare",
+      "number": "GD05-005",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707560/gundam-card-game-freedom-ascension-strike-rouge-rplus-ootori-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.63,
+          "low": 1.18,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 707561,
+      "name": "Demi Barding",
+      "label": "U+ · Link Rare",
+      "number": "GD05-025",
+      "rarity": "U+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707561/gundam-card-game-freedom-ascension-demi-barding-uplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.44,
+          "low": 0.09,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 707562,
+      "name": "Kayra's Re-GZ",
+      "label": "C+ · Link Rare",
+      "number": "GD05-029",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707562/gundam-card-game-freedom-ascension-kayras-re-gz-cplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.79,
+          "low": 0.45,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 707563,
+      "name": "Gundam Sandrock Custom",
+      "label": "EW · R+ · Link Rare",
+      "number": "GD05-071",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707563/gundam-card-game-freedom-ascension-gundam-sandrock-custom-ew-rplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.17,
+          "low": 0.67,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 707564,
+      "name": "Gundam Heavyarms Custom",
+      "label": "EW · C+ · Link Rare",
+      "number": "GD05-079",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707564/gundam-card-game-freedom-ascension-gundam-heavyarms-custom-ew-cplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.87,
+          "low": 0.29,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 707565,
+      "name": "Haow Gundam",
+      "label": "R+ · Link Rare",
+      "number": "GD05-036",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707565/gundam-card-game-freedom-ascension-haow-gundam-rplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.46,
+          "low": 0.18,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 707566,
+      "name": "Gaia Gundam",
+      "label": "MA Mode · U+ · Link Rare",
+      "number": "GD05-041",
+      "rarity": "U+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707566/gundam-card-game-freedom-ascension-gaia-gundam-ma-mode-uplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.42,
+          "low": 0.09,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 707567,
+      "name": "Gundam Kyrios",
+      "label": "Flight Mode · C+ · Link Rare",
+      "number": "GD05-048",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707567/gundam-card-game-freedom-ascension-gundam-kyrios-flight-mode-cplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37,
+          "low": 0.05,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 707568,
+      "name": "Quess's Jagd Doga",
+      "label": "R+ · Link Rare",
+      "number": "GD05-053",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707568/gundam-card-game-freedom-ascension-quesss-jagd-doga-rplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.57,
+          "low": 0.1,
+          "mid": 0.87
+        }
+      ]
+    },
+    {
+      "id": 707569,
+      "name": "Gundam Barbatos Lupus",
+      "label": "U+ · Link Rare",
+      "number": "GD05-059",
+      "rarity": "U+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707569/gundam-card-game-freedom-ascension-gundam-barbatos-lupus-uplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.5,
+          "low": 0.15,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 707570,
+      "name": "Force Impulse Gundam",
+      "label": "C+ · Link Rare",
+      "number": "GD05-064",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707570/gundam-card-game-freedom-ascension-force-impulse-gundam-cplus-link-rare",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.41,
+          "low": 0.08,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 707571,
+      "name": "Char Aznable",
+      "label": "R+",
+      "number": "GD05-093",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707571/gundam-card-game-freedom-ascension-char-aznable-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 24.43,
+          "low": 20.4,
+          "mid": 26.96
+        }
+      ]
+    },
+    {
+      "id": 707572,
+      "name": "Hashmal",
+      "label": "R+",
+      "number": "GD05-006",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707572/gundam-card-game-freedom-ascension-hashmal-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.89,
+          "low": 1,
+          "mid": 3.46
+        }
+      ]
+    },
+    {
+      "id": 707573,
+      "name": "Mutual Attraction",
+      "label": "R+",
+      "number": "GD05-106",
+      "rarity": "R+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707573/gundam-card-game-freedom-ascension-mutual-attraction-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.66,
+          "low": 2.75,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 707574,
+      "name": "Domon Kasshu",
+      "label": "R+",
+      "number": "GD05-097",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707574/gundam-card-game-freedom-ascension-domon-kasshu-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 42.7,
+          "low": 40,
+          "mid": 50
+        }
+      ]
+    },
+    {
+      "id": 707575,
+      "name": "Shining Gundam",
+      "label": "Super Mode · R+",
+      "number": "GD05-068",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707575/gundam-card-game-freedom-ascension-shining-gundam-super-mode-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.94,
+          "low": 7.37,
+          "mid": 12.75
+        }
+      ]
+    },
+    {
+      "id": 707576,
+      "name": "Kira Yamato",
+      "label": "R+",
+      "number": "GD05-081",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707576/gundam-card-game-freedom-ascension-kira-yamato-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 37.55,
+          "low": 36.45,
+          "mid": 44.02
+        }
+      ]
+    },
+    {
+      "id": 707577,
+      "name": "Akatsuki",
+      "label": "Oowashi · R+",
+      "number": "GD05-004",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707577/gundam-card-game-freedom-ascension-akatsuki-oowashi-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 21.18,
+          "low": 21,
+          "mid": 24
+        }
+      ]
+    },
+    {
+      "id": 707578,
+      "name": "Destiny Gundam",
+      "label": "R+",
+      "number": "GD05-055",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707578/gundam-card-game-freedom-ascension-destiny-gundam-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.45,
+          "low": 4,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 707579,
+      "name": "Amuro Ray",
+      "label": "R+",
+      "number": "GD05-085",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707579/gundam-card-game-freedom-ascension-amuro-ray-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 39.31,
+          "low": 39,
+          "mid": 55.12
+        }
+      ]
+    },
+    {
+      "id": 707580,
+      "name": "Nu Gundam",
+      "label": "R+",
+      "number": "GD05-020",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707580/gundam-card-game-freedom-ascension-nu-gundam-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 19.23,
+          "low": 17.89,
+          "mid": 33.92
+        }
+      ]
+    },
+    {
+      "id": 707581,
+      "name": "Widespread Annihilation",
+      "label": "R+",
+      "number": "GD05-114",
+      "rarity": "R+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707581/gundam-card-game-freedom-ascension-widespread-annihilation-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.24,
+          "low": 11.68,
+          "mid": 15.01
+        }
+      ]
+    },
+    {
+      "id": 707582,
+      "name": "Stellar Loussier",
+      "label": "R+",
+      "number": "GD05-090",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707582/gundam-card-game-freedom-ascension-stellar-loussier-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.92,
+          "low": 7,
+          "mid": 13.81
+        }
+      ]
+    },
+    {
+      "id": 707583,
+      "name": "Tallgeese III",
+      "label": "R+",
+      "number": "GD05-070",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707583/gundam-card-game-freedom-ascension-tallgeese-iii-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5,
+          "low": 4,
+          "mid": 8.25
+        }
+      ]
+    },
+    {
+      "id": 707584,
+      "name": "EX Resource",
+      "label": "EXR-011 · C+ · SP",
+      "number": "EXR-011",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707584/gundam-card-game-freedom-ascension-ex-resource-exr-011-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 108.2,
+          "low": 75.98,
+          "mid": 115.51
+        }
+      ]
+    },
+    {
+      "id": 707585,
+      "name": "EX Resource",
+      "label": "EXR-010 · C+ · SP",
+      "number": "EXR-010",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707585/gundam-card-game-freedom-ascension-ex-resource-exr-010-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 271.18,
+          "low": 216.69,
+          "mid": 272.46
+        }
+      ]
+    },
+    {
+      "id": 707586,
+      "name": "EX Resource",
+      "label": "EXR-004 · C+ · SP",
+      "number": "EXR-004",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707586/gundam-card-game-freedom-ascension-ex-resource-exr-004-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 220.9,
+          "low": 183.98,
+          "mid": 208.01
+        }
+      ]
+    },
+    {
+      "id": 707587,
+      "name": "EX Resource",
+      "label": "EXR-005 · C+ · SP",
+      "number": "EXR-005",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707587/gundam-card-game-freedom-ascension-ex-resource-exr-005-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 182.92,
+          "low": 149.89,
+          "mid": 184.4
+        }
+      ]
+    },
+    {
+      "id": 707588,
+      "name": "EX Resource",
+      "label": "EXR-006 · C+ · SP",
+      "number": "EXR-006",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707588/gundam-card-game-freedom-ascension-ex-resource-exr-006-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 201.07,
+          "low": 179.99,
+          "mid": 201.07
+        }
+      ]
+    },
+    {
+      "id": 707589,
+      "name": "EX Resource",
+      "label": "EXR-007 · C+ · SP",
+      "number": "EXR-007",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707589/gundam-card-game-freedom-ascension-ex-resource-exr-007-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 502.11,
+          "low": 405,
+          "mid": 521.71
+        }
+      ]
+    },
+    {
+      "id": 707590,
+      "name": "EX Resource",
+      "label": "EXR-008 · C+ · SP",
+      "number": "EXR-008",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707590/gundam-card-game-freedom-ascension-ex-resource-exr-008-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 142.78,
+          "low": 108,
+          "mid": 142.78
+        }
+      ]
+    },
+    {
+      "id": 707591,
+      "name": "EX Resource",
+      "label": "EXR-009 · C+ · SP",
+      "number": "EXR-009",
+      "rarity": "C+",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707591/gundam-card-game-freedom-ascension-ex-resource-exr-009-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 734,
+          "low": 650,
+          "mid": 740.51
+        }
+      ]
+    },
+    {
+      "id": 707592,
+      "name": "Marida Cruz",
+      "label": "R+ · SP",
+      "number": "GD01-093",
+      "rarity": "R+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707592/gundam-card-game-freedom-ascension-marida-cruz-rplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 134.89,
+          "low": 119.01,
+          "mid": 148.38
+        }
+      ]
+    },
+    {
+      "id": 707593,
+      "name": "Full Frontal",
+      "label": "C+ · SP",
+      "number": "ST03-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707593/gundam-card-game-freedom-ascension-full-frontal-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 62.48,
+          "low": 47.99,
+          "mid": 62.48
+        }
+      ]
+    },
+    {
+      "id": 707594,
+      "name": "Suletta Mercury",
+      "label": "C+ · SP",
+      "number": "ST01-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707594/gundam-card-game-freedom-ascension-suletta-mercury-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 145.86,
+          "low": 123.5,
+          "mid": 155.98
+        }
+      ]
+    },
+    {
+      "id": 707595,
+      "name": "Setsuna F. Seiei",
+      "label": "C+ · SP",
+      "number": "ST07-009",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707595/gundam-card-game-freedom-ascension-setsuna-f-seiei-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 63.78,
+          "low": 60,
+          "mid": 66.65
+        }
+      ]
+    },
+    {
+      "id": 707596,
+      "name": "Heero Yuy",
+      "label": "C+ · SP",
+      "number": "ST02-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707596/gundam-card-game-freedom-ascension-heero-yuy-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 98.33,
+          "low": 97.26,
+          "mid": 103.54
+        }
+      ]
+    },
+    {
+      "id": 707597,
+      "name": "Amuro Ray",
+      "label": "C+ · SP",
+      "number": "ST01-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707597/gundam-card-game-freedom-ascension-amuro-ray-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 149.02,
+          "low": 127.99,
+          "mid": 151.3
+        }
+      ]
+    },
+    {
+      "id": 707598,
+      "name": "Char Aznable",
+      "label": "C+ · SP",
+      "number": "ST03-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707598/gundam-card-game-freedom-ascension-char-aznable-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 124.36,
+          "low": 118.99,
+          "mid": 130
+        }
+      ]
+    },
+    {
+      "id": 707599,
+      "name": "Kira Yamato",
+      "label": "C+ · SP",
+      "number": "ST04-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707599/gundam-card-game-freedom-ascension-kira-yamato-cplus-sp",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 94.43,
+          "low": 79.99,
+          "mid": 113.89
+        }
+      ]
+    },
+    {
+      "id": 707600,
+      "name": "Strike Freedom Gundam",
+      "label": "LR++",
+      "number": "GD05-002",
+      "rarity": "LR++",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707600/gundam-card-game-freedom-ascension-strike-freedom-gundam-lrplusplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2561.26,
+          "low": 1800,
+          "mid": 2400
+        }
+      ]
+    },
+    {
+      "id": 707601,
+      "name": "Wing Gundam Zero",
+      "label": "EW · LR++",
+      "number": "GD05-067",
+      "rarity": "LR++",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707601/gundam-card-game-freedom-ascension-wing-gundam-zero-ew-lrplusplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3910.18,
+          "low": 3100,
+          "mid": 4298.95
+        }
+      ]
+    },
+    {
+      "id": 707602,
+      "name": "Master Gundam",
+      "label": "LR++",
+      "number": "GD05-033",
+      "rarity": "LR++",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707602/gundam-card-game-freedom-ascension-master-gundam-lrplusplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1103.78,
+          "low": 925,
+          "mid": 1050
+        }
+      ]
+    },
+    {
+      "id": 707603,
+      "name": "Sazabi",
+      "label": "LR++",
+      "number": "GD05-049",
+      "rarity": "LR++",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707603/gundam-card-game-freedom-ascension-sazabi-lrplusplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1269,
+          "low": 1150,
+          "mid": 1222.95
+        }
+      ]
+    },
+    {
+      "id": 707604,
+      "name": "Nu Gundam",
+      "label": "LR++",
+      "number": "GD05-017",
+      "rarity": "LR++",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707604/gundam-card-game-freedom-ascension-nu-gundam-lrplusplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1532.38,
+          "low": 1200,
+          "mid": 1498.24
+        }
+      ]
+    },
+    {
+      "id": 708163,
+      "name": "Sazabi",
+      "label": "R+",
+      "number": "GD05-052",
+      "rarity": "R+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708163/gundam-card-game-freedom-ascension-sazabi-rplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.28,
+          "low": 8.49,
+          "mid": 12.17
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

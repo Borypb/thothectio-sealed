@@ -1,0 +1,585 @@
+{
+  "groupId": 24802,
+  "cards": [
+    {
+      "id": 716396,
+      "name": "Qubeley",
+      "number": "ST13-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716396/gundam-card-game-starter-deck-13-silent-barrage-qubeley",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.2,
+          "low": 0.8,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 716397,
+      "name": "Elmeth",
+      "number": "ST13-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716397/gundam-card-game-starter-deck-13-silent-barrage-elmeth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 716398,
+      "name": "Bertigo",
+      "number": "ST13-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716398/gundam-card-game-starter-deck-13-silent-barrage-bertigo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 716399,
+      "name": "GX-Bit",
+      "number": "ST13-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716399/gundam-card-game-starter-deck-13-silent-barrage-gx-bit",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 716400,
+      "name": "GFreD",
+      "number": "ST13-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716400/gundam-card-game-starter-deck-13-silent-barrage-gfred",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 716401,
+      "name": "Gundam Aerial",
+      "number": "ST13-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716401/gundam-card-game-starter-deck-13-silent-barrage-gundam-aerial",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.42,
+          "low": 1.99,
+          "mid": 2.97
+        }
+      ]
+    },
+    {
+      "id": 716402,
+      "name": "Gyunei's Jagd Doga",
+      "number": "ST13-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716402/gundam-card-game-starter-deck-13-silent-barrage-gyuneis-jagd-doga",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716403,
+      "name": "Gundam Throne Zwei",
+      "number": "ST13-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716403/gundam-card-game-starter-deck-13-silent-barrage-gundam-throne-zwei",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.16,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 716404,
+      "name": "Gundam Pharact",
+      "number": "ST13-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716404/gundam-card-game-starter-deck-13-silent-barrage-gundam-pharact",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716405,
+      "name": "Red Gundam",
+      "label": "0079",
+      "number": "ST13-010",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716405/gundam-card-game-starter-deck-13-silent-barrage-red-gundam-0079",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 716406,
+      "name": "Haman Karn",
+      "number": "ST13-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716406/gundam-card-game-starter-deck-13-silent-barrage-haman-karn",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716407,
+      "name": "Suletta Mercury",
+      "number": "ST13-012",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716407/gundam-card-game-starter-deck-13-silent-barrage-suletta-mercury",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 716408,
+      "name": "I'm a Newtype",
+      "number": "ST13-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716408/gundam-card-game-starter-deck-13-silent-barrage-im-a-newtype",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 716409,
+      "name": "Final Duty",
+      "number": "ST13-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716409/gundam-card-game-starter-deck-13-silent-barrage-final-duty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.11,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 716410,
+      "name": "Operation to Intercept Solomon",
+      "number": "ST13-015",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716410/gundam-card-game-starter-deck-13-silent-barrage-operation-to-intercept-solomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716411,
+      "name": "Sodon",
+      "number": "ST13-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716411/gundam-card-game-starter-deck-13-silent-barrage-sodon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 720972,
+      "name": "Qubeley",
+      "label": "LR+",
+      "number": "ST13-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720972/gundam-card-game-starter-deck-13-silent-barrage-qubeley-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 59.5,
+          "low": 53.55,
+          "mid": 60.25
+        }
+      ]
+    },
+    {
+      "id": 720973,
+      "name": "Elmeth",
+      "label": "C+",
+      "number": "ST13-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720973/gundam-card-game-starter-deck-13-silent-barrage-elmeth-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.34,
+          "low": 1,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 720974,
+      "name": "Bertigo",
+      "label": "C+",
+      "number": "ST13-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720974/gundam-card-game-starter-deck-13-silent-barrage-bertigo-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.14,
+          "low": 0.82,
+          "mid": 3.21
+        }
+      ]
+    },
+    {
+      "id": 720975,
+      "name": "GX-Bit",
+      "label": "C+",
+      "number": "ST13-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720975_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720975/gundam-card-game-starter-deck-13-silent-barrage-gx-bit-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.46,
+          "low": 1,
+          "mid": 2.45
+        }
+      ]
+    },
+    {
+      "id": 720976,
+      "name": "GFreD",
+      "label": "C+",
+      "number": "ST13-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720976/gundam-card-game-starter-deck-13-silent-barrage-gfred-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.9,
+          "low": 1.49,
+          "mid": 2.01
+        }
+      ]
+    },
+    {
+      "id": 720977,
+      "name": "Gundam Aerial",
+      "label": "LR+",
+      "number": "ST13-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720977/gundam-card-game-starter-deck-13-silent-barrage-gundam-aerial-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 74.3,
+          "low": 74.34,
+          "mid": 83
+        }
+      ]
+    },
+    {
+      "id": 720978,
+      "name": "Gyunei's Jagd Doga",
+      "label": "C+",
+      "number": "ST13-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720978/gundam-card-game-starter-deck-13-silent-barrage-gyuneis-jagd-doga-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.76,
+          "low": 2.25,
+          "mid": 5.29
+        }
+      ]
+    },
+    {
+      "id": 720979,
+      "name": "Gundam Throne Zwei",
+      "label": "C+",
+      "number": "ST13-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720979/gundam-card-game-starter-deck-13-silent-barrage-gundam-throne-zwei-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.77,
+          "low": 12,
+          "mid": 15.64
+        }
+      ]
+    },
+    {
+      "id": 720980,
+      "name": "Gundam Pharact",
+      "label": "C+",
+      "number": "ST13-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720980/gundam-card-game-starter-deck-13-silent-barrage-gundam-pharact-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.62,
+          "low": 9.47,
+          "mid": 13
+        }
+      ]
+    },
+    {
+      "id": 720981,
+      "name": "Red Gundam",
+      "label": "0079 · C+",
+      "number": "ST13-010",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720981/gundam-card-game-starter-deck-13-silent-barrage-red-gundam-0079-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.96,
+          "low": 1.45,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 720982,
+      "name": "Haman Karn",
+      "label": "C+",
+      "number": "ST13-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720982/gundam-card-game-starter-deck-13-silent-barrage-haman-karn-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 26.37,
+          "low": 24.99,
+          "mid": 28.31
+        }
+      ]
+    },
+    {
+      "id": 720983,
+      "name": "Suletta Mercury",
+      "label": "C+",
+      "number": "ST13-012",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720983/gundam-card-game-starter-deck-13-silent-barrage-suletta-mercury-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 37.37,
+          "low": 36,
+          "mid": 38.45
+        }
+      ]
+    },
+    {
+      "id": 720984,
+      "name": "I'm a Newtype",
+      "label": "C+",
+      "number": "ST13-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720984/gundam-card-game-starter-deck-13-silent-barrage-im-a-newtype-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.07,
+          "low": 1.12,
+          "mid": 3.15
+        }
+      ]
+    },
+    {
+      "id": 720985,
+      "name": "Final Duty",
+      "label": "C+",
+      "number": "ST13-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720985/gundam-card-game-starter-deck-13-silent-barrage-final-duty-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.72,
+          "low": 3,
+          "mid": 4.5
+        }
+      ]
+    },
+    {
+      "id": 720986,
+      "name": "Operation to Intercept Solomon",
+      "label": "C+",
+      "number": "ST13-015",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720986/gundam-card-game-starter-deck-13-silent-barrage-operation-to-intercept-solomon-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.94,
+          "low": 1.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 720987,
+      "name": "Sodon",
+      "label": "C+",
+      "number": "ST13-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720987/gundam-card-game-starter-deck-13-silent-barrage-sodon-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.7,
+          "low": 2.99,
+          "mid": 4.93
+        }
+      ]
+    },
+    {
+      "id": 721038,
+      "name": "Bit / Funnel Token",
+      "label": "T-029",
+      "number": "T-029",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721038_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721038/gundam-card-game-starter-deck-13-silent-barrage-bit-funnel-t-029-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.17,
+          "mid": 0.28
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

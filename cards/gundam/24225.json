@@ -1,0 +1,621 @@
+{
+  "groupId": 24225,
+  "cards": [
+    {
+      "id": 641532,
+      "name": "Aile Strike Gundam",
+      "number": "ST04-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641532/gundam-card-game-starter-deck-04-seed-strike-aile-strike-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.43,
+          "low": 2.98,
+          "mid": 4.61
+        }
+      ]
+    },
+    {
+      "id": 641533,
+      "name": "Strike Gundam",
+      "number": "ST04-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641533/gundam-card-game-starter-deck-04-seed-strike-strike-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641534,
+      "name": "Moebius Zero",
+      "number": "ST04-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641534/gundam-card-game-starter-deck-04-seed-strike-moebius-zero",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 641535,
+      "name": "Moebius",
+      "number": "ST04-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641535/gundam-card-game-starter-deck-04-seed-strike-moebius",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 641536,
+      "name": "Strike Dagger",
+      "number": "ST04-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641536/gundam-card-game-starter-deck-04-seed-strike-strike-dagger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 641537,
+      "name": "Aegis Gundam",
+      "number": "ST04-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641537/gundam-card-game-starter-deck-04-seed-strike-aegis-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.46,
+          "low": 3,
+          "mid": 5.37
+        }
+      ]
+    },
+    {
+      "id": 641538,
+      "name": "Aegis Gundam",
+      "label": "MA Mode",
+      "number": "ST04-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641538/gundam-card-game-starter-deck-04-seed-strike-aegis-gundam-ma-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641539,
+      "name": "Ginn",
+      "number": "ST04-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641539/gundam-card-game-starter-deck-04-seed-strike-ginn",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 641540,
+      "name": "Miguel's Ginn",
+      "number": "ST04-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641540/gundam-card-game-starter-deck-04-seed-strike-miguels-ginn",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 641541,
+      "name": "Kira Yamato",
+      "number": "ST04-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641541/gundam-card-game-starter-deck-04-seed-strike-kira-yamato",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.25,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 641542,
+      "name": "Athrun Zala",
+      "number": "ST04-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641542/gundam-card-game-starter-deck-04-seed-strike-athrun-zala",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 641543,
+      "name": "Striker Pack",
+      "number": "ST04-012",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641543/gundam-card-game-starter-deck-04-seed-strike-striker-pack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.33,
+          "low": 1.22,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 641544,
+      "name": "Hawk of Endymion",
+      "number": "ST04-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641544_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641544/gundam-card-game-starter-deck-04-seed-strike-hawk-of-endymion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 641545,
+      "name": "The Magic Bullet of Dusk",
+      "number": "ST04-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641545/gundam-card-game-starter-deck-04-seed-strike-the-magic-bullet-of-dusk",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 641546,
+      "name": "Archangel",
+      "number": "ST04-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641546/gundam-card-game-starter-deck-04-seed-strike-archangel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.04,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 641547,
+      "name": "Vesalius",
+      "number": "ST04-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641547/gundam-card-game-starter-deck-04-seed-strike-vesalius",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.09,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 641548,
+      "name": "Aile Strike Gundam",
+      "label": "LR+",
+      "number": "ST04-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641548/gundam-card-game-starter-deck-04-seed-strike-aile-strike-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 97.01,
+          "low": 51.55,
+          "mid": 97.01
+        }
+      ]
+    },
+    {
+      "id": 641549,
+      "name": "Strike Gundam",
+      "label": "C+",
+      "number": "ST04-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641549/gundam-card-game-starter-deck-04-seed-strike-strike-gundam-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.69,
+          "low": 3.07,
+          "mid": 7.35
+        }
+      ]
+    },
+    {
+      "id": 641550,
+      "name": "Moebius Zero",
+      "label": "C+",
+      "number": "ST04-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641550/gundam-card-game-starter-deck-04-seed-strike-moebius-zero-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.09,
+          "low": 0.8,
+          "mid": 1.23
+        }
+      ]
+    },
+    {
+      "id": 641551,
+      "name": "Moebius",
+      "label": "C+",
+      "number": "ST04-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641551/gundam-card-game-starter-deck-04-seed-strike-moebius-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.22,
+          "low": 1,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 641552,
+      "name": "Strike Dagger",
+      "label": "C+",
+      "number": "ST04-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641552/gundam-card-game-starter-deck-04-seed-strike-strike-dagger-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.86,
+          "low": 1.5,
+          "mid": 2.01
+        }
+      ]
+    },
+    {
+      "id": 641553,
+      "name": "Aegis Gundam",
+      "label": "LR+",
+      "number": "ST04-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641553/gundam-card-game-starter-deck-04-seed-strike-aegis-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 57.55,
+          "low": 59.13,
+          "mid": 74.5
+        }
+      ]
+    },
+    {
+      "id": 641554,
+      "name": "Aegis Gundam",
+      "label": "MA Mode · C+",
+      "number": "ST04-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641554/gundam-card-game-starter-deck-04-seed-strike-aegis-gundam-ma-mode-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.06,
+          "low": 11.57,
+          "mid": 13.64
+        }
+      ]
+    },
+    {
+      "id": 641555,
+      "name": "Ginn",
+      "label": "C+",
+      "number": "ST04-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641555/gundam-card-game-starter-deck-04-seed-strike-ginn-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.89,
+          "low": 4,
+          "mid": 6.2
+        }
+      ]
+    },
+    {
+      "id": 641556,
+      "name": "Miguel's Ginn",
+      "label": "C+",
+      "number": "ST04-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641556/gundam-card-game-starter-deck-04-seed-strike-miguels-ginn-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.13,
+          "low": 0.75,
+          "mid": 1.44
+        }
+      ]
+    },
+    {
+      "id": 641557,
+      "name": "Kira Yamato",
+      "label": "C+",
+      "number": "ST04-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641557/gundam-card-game-starter-deck-04-seed-strike-kira-yamato-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 23.11,
+          "low": 9.01,
+          "mid": 19.24
+        }
+      ]
+    },
+    {
+      "id": 641558,
+      "name": "Athrun Zala",
+      "label": "C+",
+      "number": "ST04-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641558/gundam-card-game-starter-deck-04-seed-strike-athrun-zala-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.08,
+          "low": 9,
+          "mid": 11.04
+        }
+      ]
+    },
+    {
+      "id": 641559,
+      "name": "Striker Pack",
+      "label": "C+",
+      "number": "ST04-012",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641559/gundam-card-game-starter-deck-04-seed-strike-striker-pack-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 18.76,
+          "low": 12.97,
+          "mid": 20.04
+        }
+      ]
+    },
+    {
+      "id": 641560,
+      "name": "Hawk of Endymion",
+      "label": "C+",
+      "number": "ST04-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641560/gundam-card-game-starter-deck-04-seed-strike-hawk-of-endymion-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.21,
+          "low": 4,
+          "mid": 6.01
+        }
+      ]
+    },
+    {
+      "id": 641561,
+      "name": "The Magic Bullet of Dusk",
+      "label": "C+",
+      "number": "ST04-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641561/gundam-card-game-starter-deck-04-seed-strike-the-magic-bullet-of-dusk-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.44,
+          "low": 0.99,
+          "mid": 2.53
+        }
+      ]
+    },
+    {
+      "id": 641562,
+      "name": "Archangel",
+      "label": "C+",
+      "number": "ST04-015",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641562/gundam-card-game-starter-deck-04-seed-strike-archangel-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.29,
+          "low": 4,
+          "mid": 6.5
+        }
+      ]
+    },
+    {
+      "id": 641563,
+      "name": "Vesalius",
+      "label": "C+",
+      "number": "ST04-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641563/gundam-card-game-starter-deck-04-seed-strike-vesalius-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.46,
+          "low": 6.5,
+          "mid": 8.84
+        }
+      ]
+    },
+    {
+      "id": 643287,
+      "name": "Aile Strike Gundam Token",
+      "label": "T-008",
+      "number": "T-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/643287/gundam-card-game-starter-deck-04-seed-strike-aile-strike-gundam-t-008-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.9,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 643288,
+      "name": "Launcher Strike Gundam Token",
+      "label": "T-009",
+      "number": "T-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/643288/gundam-card-game-starter-deck-04-seed-strike-launcher-strike-gundam-t-009-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.41,
+          "low": 1.21,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 643289,
+      "name": "Sword Strike Gundam Token",
+      "label": "T-010",
+      "number": "T-010",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/643289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/643289/gundam-card-game-starter-deck-04-seed-strike-sword-strike-gundam-t-010-token",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.36,
+          "low": 0.9,
+          "mid": 1.61
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

@@ -1890,6 +1890,282 @@
           "version": "b9fe0bace32a"
         }
       ]
+    },
+    "gundam": {
+      "categoryId": 86,
+      "category": "Gundam Card Game",
+      "sets": [
+        {
+          "groupId": 24804,
+          "name": "Stardust Trails",
+          "code": "GD06",
+          "releasedAt": "2026-10-30",
+          "modifiedOn": "2026-11-04T16:16:27.247",
+          "count": 189,
+          "file": "cards/gundam/24804.json",
+          "version": "10d6720cd355"
+        },
+        {
+          "groupId": 24800,
+          "name": "Starter Deck 11: Aquatic Assault",
+          "code": "ST11",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-09-25T12:50:42.573",
+          "count": 33,
+          "file": "cards/gundam/24800.json",
+          "version": "6cb3fd170899"
+        },
+        {
+          "groupId": 24801,
+          "name": "Starter Deck 12: Raging Onslaught",
+          "code": "ST12",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-09-25T12:46:06.337",
+          "count": 32,
+          "file": "cards/gundam/24801.json",
+          "version": "b7b528ae1e82"
+        },
+        {
+          "groupId": 24802,
+          "name": "Starter Deck 13: Silent Barrage",
+          "code": "ST13",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-09-25T12:52:43.477",
+          "count": 33,
+          "file": "cards/gundam/24802.json",
+          "version": "d2291f86c43e"
+        },
+        {
+          "groupId": 24803,
+          "name": "Starter Deck 14: Heavy Dominion",
+          "code": "ST14",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-09-25T12:45:34.707",
+          "count": 32,
+          "file": "cards/gundam/24803.json",
+          "version": "f7981d74b41e"
+        },
+        {
+          "groupId": 24767,
+          "name": "Deck Build Box Freedom Ascension",
+          "code": "SC01",
+          "releasedAt": "2026-07-24",
+          "modifiedOn": "2026-09-16T18:17:18.807",
+          "count": 48,
+          "file": "cards/gundam/24767.json",
+          "version": "9d5faf8c0c51"
+        },
+        {
+          "groupId": 24699,
+          "name": "Freedom Ascension",
+          "code": "GD05",
+          "releasedAt": "2026-07-24",
+          "modifiedOn": "2026-11-09T13:24:49.343",
+          "count": 197,
+          "file": "cards/gundam/24699.json",
+          "version": "9a83d5cc85be"
+        },
+        {
+          "groupId": 24693,
+          "name": "Eternal Nexus",
+          "code": "EB01",
+          "releasedAt": "2026-06-26",
+          "modifiedOn": "2026-09-25T20:56:26.887",
+          "count": 108,
+          "file": "cards/gundam/24693.json",
+          "version": "5d29ae97b824"
+        },
+        {
+          "groupId": 24692,
+          "name": "Starter Deck 10: Generation Pulse",
+          "code": "ST10",
+          "releasedAt": "2026-06-26",
+          "modifiedOn": "2026-10-21T15:11:33.28",
+          "count": 35,
+          "file": "cards/gundam/24692.json",
+          "version": "1fff1aa95314"
+        },
+        {
+          "groupId": 24633,
+          "name": "Phantom Aria",
+          "code": "GD04",
+          "releasedAt": "2026-04-24",
+          "modifiedOn": "2026-11-02T23:09:00.14",
+          "count": 194,
+          "file": "cards/gundam/24633.json",
+          "version": "b4282b2a54b0"
+        },
+        {
+          "groupId": 24625,
+          "name": "Starter Deck 09: Destiny Ignition",
+          "code": "ST09",
+          "releasedAt": "2026-03-27",
+          "modifiedOn": "2026-08-25T20:46:37.187",
+          "count": 39,
+          "file": "cards/gundam/24625.json",
+          "version": "e335f91622ec"
+        },
+        {
+          "groupId": 24522,
+          "name": "Steel Requiem",
+          "code": "GD03",
+          "releasedAt": "2026-01-30",
+          "modifiedOn": "2026-09-25T20:57:40.703",
+          "count": 202,
+          "file": "cards/gundam/24522.json",
+          "version": "e0b4f9ef4d0f"
+        },
+        {
+          "groupId": 24410,
+          "name": "Starter Deck 07: Celestial Drive",
+          "code": "ST07",
+          "releasedAt": "2026-01-16",
+          "modifiedOn": "2026-07-30T14:34:13.45",
+          "count": 32,
+          "file": "cards/gundam/24410.json",
+          "version": "78dfa7911572"
+        },
+        {
+          "groupId": 24411,
+          "name": "Starter Deck 08: Flash of Radiance",
+          "code": "ST08",
+          "releasedAt": "2026-01-16",
+          "modifiedOn": "2026-07-30T14:34:03.35",
+          "count": 32,
+          "file": "cards/gundam/24411.json",
+          "version": "bbd61e66a6ae"
+        },
+        {
+          "groupId": 24408,
+          "name": "Dual Impact",
+          "code": "GD02",
+          "releasedAt": "2025-10-24",
+          "modifiedOn": "2026-09-16T17:31:48.06",
+          "count": 187,
+          "file": "cards/gundam/24408.json",
+          "version": "efb0f65dbacd"
+        },
+        {
+          "groupId": 24409,
+          "name": "Starter Deck 06: Clan Unity",
+          "code": "ST06",
+          "releasedAt": "2025-10-24",
+          "modifiedOn": "2026-01-13T18:25:14.277",
+          "count": 32,
+          "file": "cards/gundam/24409.json",
+          "version": "8c001dd1ac4c"
+        },
+        {
+          "groupId": 24407,
+          "name": "Starter Deck 05: Iron Bloom",
+          "code": "ST05",
+          "releasedAt": "2025-09-26",
+          "modifiedOn": "2026-01-05T13:42:37.043",
+          "count": 32,
+          "file": "cards/gundam/24407.json",
+          "version": "b4eac8243c69"
+        },
+        {
+          "groupId": 24221,
+          "name": "Newtype Rising",
+          "code": "GD01",
+          "releasedAt": "2025-07-25",
+          "modifiedOn": "2026-09-25T20:59:03.363",
+          "count": 182,
+          "file": "cards/gundam/24221.json",
+          "version": "598dcc396ab5"
+        },
+        {
+          "groupId": 24222,
+          "name": "Starter Deck 01: Heroic Beginnings",
+          "code": "ST01",
+          "releasedAt": "2025-07-11",
+          "modifiedOn": "2026-09-25T19:47:41.643",
+          "count": 35,
+          "file": "cards/gundam/24222.json",
+          "version": "20002aea54f4"
+        },
+        {
+          "groupId": 24223,
+          "name": "Starter Deck 02: Wings of Advance",
+          "code": "ST02",
+          "releasedAt": "2025-07-11",
+          "modifiedOn": "2026-09-25T19:48:33.047",
+          "count": 34,
+          "file": "cards/gundam/24223.json",
+          "version": "6d2e88b13709"
+        },
+        {
+          "groupId": 24224,
+          "name": "Starter Deck 03: Zeon's Rush",
+          "code": "ST03",
+          "releasedAt": "2025-07-11",
+          "modifiedOn": "2026-09-25T19:48:58.84",
+          "count": 34,
+          "file": "cards/gundam/24224.json",
+          "version": "56254a3dabeb"
+        },
+        {
+          "groupId": 24225,
+          "name": "Starter Deck 04: SEED Strike",
+          "code": "ST04",
+          "releasedAt": "2025-07-11",
+          "modifiedOn": "2026-09-25T19:48:50.7",
+          "count": 35,
+          "file": "cards/gundam/24225.json",
+          "version": "83acb9aad7b3"
+        },
+        {
+          "groupId": 24340,
+          "name": "Gundam Promotional Cards",
+          "code": "GCG-PR",
+          "releasedAt": "2025-03-01",
+          "modifiedOn": "2026-11-09T13:27:43.47",
+          "count": 231,
+          "file": "cards/gundam/24340.json",
+          "version": "3fee3ca5a197"
+        },
+        {
+          "groupId": 24374,
+          "name": "Promotional EX Base Tokens",
+          "code": "EXBP",
+          "releasedAt": "2025-02-25",
+          "modifiedOn": "2026-10-12T13:10:06.827",
+          "count": 30,
+          "file": "cards/gundam/24374.json",
+          "version": "5555355f9df8"
+        },
+        {
+          "groupId": 24373,
+          "name": "Promotional EX Resource Tokens",
+          "code": "EXRP",
+          "releasedAt": "2025-02-25",
+          "modifiedOn": "2026-10-21T19:21:05.25",
+          "count": 15,
+          "file": "cards/gundam/24373.json",
+          "version": "42941538afd7"
+        },
+        {
+          "groupId": 24372,
+          "name": "Promotional Resource Tokens",
+          "code": "RP",
+          "releasedAt": "2025-02-25",
+          "modifiedOn": "2026-09-21T14:57:18.747",
+          "count": 65,
+          "file": "cards/gundam/24372.json",
+          "version": "d09b63138fe9"
+        },
+        {
+          "groupId": 24193,
+          "name": "Edition Beta",
+          "code": "GD01_b",
+          "releasedAt": "2025-02-06",
+          "modifiedOn": "2026-09-16T15:54:53.713",
+          "count": 83,
+          "file": "cards/gundam/24193.json",
+          "version": "2b4f17a1fbbb"
+        }
+      ]
     }
   },
   "updatedAt": "2026-11-11"

@@ -1,0 +1,571 @@
+{
+  "groupId": 24803,
+  "cards": [
+    {
+      "id": 716412,
+      "name": "The-O",
+      "number": "ST14-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716412/gundam-card-game-starter-deck-14-heavy-dominion-the-o",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 716413,
+      "name": "Gundam NT-1 Full Armor",
+      "number": "ST14-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716413/gundam-card-game-starter-deck-14-heavy-dominion-gundam-nt-1-full-armor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716414,
+      "name": "Palace Athene",
+      "number": "ST14-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716414/gundam-card-game-starter-deck-14-heavy-dominion-palace-athene",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716415,
+      "name": "Geara Doga",
+      "label": "Heavy Armed Type",
+      "number": "ST14-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716415/gundam-card-game-starter-deck-14-heavy-dominion-geara-doga-heavy-armed-type",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716416,
+      "name": "G-Falcon DX",
+      "number": "ST14-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716416/gundam-card-game-starter-deck-14-heavy-dominion-g-falcon-dx",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716417,
+      "name": "Full Armor Unicorn Gundam",
+      "label": "Destroy Mode",
+      "number": "ST14-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716417/gundam-card-game-starter-deck-14-heavy-dominion-full-armor-unicorn-gundam-destroy-mode",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.59,
+          "low": 0.49,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 716418,
+      "name": "Full Armor Unicorn Gundam",
+      "label": "Unicorn Mode",
+      "number": "ST14-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716418/gundam-card-game-starter-deck-14-heavy-dominion-full-armor-unicorn-gundam-unicorn-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716419,
+      "name": "Gundam Heavyarms Custom",
+      "label": "EW",
+      "number": "ST14-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716419/gundam-card-game-starter-deck-14-heavy-dominion-gundam-heavyarms-custom-ew",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.06,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 716420,
+      "name": "Duel Gundam",
+      "label": "Assault Shroud",
+      "number": "ST14-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716420/gundam-card-game-starter-deck-14-heavy-dominion-duel-gundam-assault-shroud",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716421,
+      "name": "Perfect Strike Gundam",
+      "number": "ST14-010",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716421/gundam-card-game-starter-deck-14-heavy-dominion-perfect-strike-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716422,
+      "name": "Paptimus Scirocco",
+      "number": "ST14-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716422/gundam-card-game-starter-deck-14-heavy-dominion-paptimus-scirocco",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716423,
+      "name": "Banagher Links",
+      "number": "ST14-012",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716423/gundam-card-game-starter-deck-14-heavy-dominion-banagher-links",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.11,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716424,
+      "name": "Natural Talent",
+      "number": "ST14-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716424/gundam-card-game-starter-deck-14-heavy-dominion-natural-talent",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.19,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 716425,
+      "name": "Blazing Mobile Suit Rider",
+      "number": "ST14-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716425/gundam-card-game-starter-deck-14-heavy-dominion-blazing-mobile-suit-rider",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 716426,
+      "name": "Battlefield Emotions",
+      "number": "ST14-015",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716426/gundam-card-game-starter-deck-14-heavy-dominion-battlefield-emotions",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.17,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716427,
+      "name": "Gryphios 2",
+      "number": "ST14-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716427/gundam-card-game-starter-deck-14-heavy-dominion-gryphios-2",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 720988,
+      "name": "The-O",
+      "label": "LR+",
+      "number": "ST14-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720988/gundam-card-game-starter-deck-14-heavy-dominion-the-o-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25.81,
+          "low": 20,
+          "mid": 27.44
+        }
+      ]
+    },
+    {
+      "id": 720989,
+      "name": "Gundam NT-1 Full Armor",
+      "label": "C+",
+      "number": "ST14-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720989/gundam-card-game-starter-deck-14-heavy-dominion-gundam-nt-1-full-armor-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.98,
+          "low": 4.5,
+          "mid": 7.98
+        }
+      ]
+    },
+    {
+      "id": 720990,
+      "name": "Palace Athene",
+      "label": "C+",
+      "number": "ST14-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720990/gundam-card-game-starter-deck-14-heavy-dominion-palace-athene-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.74,
+          "low": 2.49,
+          "mid": 6.25
+        }
+      ]
+    },
+    {
+      "id": 720991,
+      "name": "Geara Doga",
+      "label": "Heavy Armed Type · C+",
+      "number": "ST14-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720991/gundam-card-game-starter-deck-14-heavy-dominion-geara-doga-heavy-armed-type-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.1,
+          "low": 3.5,
+          "mid": 6.32
+        }
+      ]
+    },
+    {
+      "id": 720992,
+      "name": "G-Falcon DX",
+      "label": "C+",
+      "number": "ST14-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720992/gundam-card-game-starter-deck-14-heavy-dominion-g-falcon-dx-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.53,
+          "low": 9,
+          "mid": 13.74
+        }
+      ]
+    },
+    {
+      "id": 720993,
+      "name": "Full Armor Unicorn Gundam",
+      "label": "Destroy Mode · LR+",
+      "number": "ST14-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720993/gundam-card-game-starter-deck-14-heavy-dominion-full-armor-unicorn-gundam-destroy-mode-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 37.16,
+          "low": 27.98,
+          "mid": 38.49
+        }
+      ]
+    },
+    {
+      "id": 720994,
+      "name": "Full Armor Unicorn Gundam",
+      "label": "Unicorn Mode · C+",
+      "number": "ST14-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720994/gundam-card-game-starter-deck-14-heavy-dominion-full-armor-unicorn-gundam-unicorn-mode-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 14.36,
+          "low": 9.98,
+          "mid": 13.54
+        }
+      ]
+    },
+    {
+      "id": 720995,
+      "name": "Gundam Heavyarms Custom",
+      "label": "EW · C+",
+      "number": "ST14-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720995/gundam-card-game-starter-deck-14-heavy-dominion-gundam-heavyarms-custom-ew-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.58,
+          "low": 5.9,
+          "mid": 7.96
+        }
+      ]
+    },
+    {
+      "id": 720996,
+      "name": "Duel Gundam",
+      "label": "Assault Shroud · C+",
+      "number": "ST14-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720996/gundam-card-game-starter-deck-14-heavy-dominion-duel-gundam-assault-shroud-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.88,
+          "low": 9.99,
+          "mid": 11.99
+        }
+      ]
+    },
+    {
+      "id": 720997,
+      "name": "Perfect Strike Gundam",
+      "label": "C+",
+      "number": "ST14-010",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720997/gundam-card-game-starter-deck-14-heavy-dominion-perfect-strike-gundam-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.98,
+          "low": 3.4,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 720998,
+      "name": "Paptimus Scirocco",
+      "label": "C+",
+      "number": "ST14-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720998_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720998/gundam-card-game-starter-deck-14-heavy-dominion-paptimus-scirocco-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 16.33,
+          "low": 9.99,
+          "mid": 18.36
+        }
+      ]
+    },
+    {
+      "id": 720999,
+      "name": "Banagher Links",
+      "label": "C+",
+      "number": "ST14-012",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/720999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/720999/gundam-card-game-starter-deck-14-heavy-dominion-banagher-links-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.18,
+          "low": 9.51,
+          "mid": 22
+        }
+      ]
+    },
+    {
+      "id": 721000,
+      "name": "Natural Talent",
+      "label": "C+",
+      "number": "ST14-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721000/gundam-card-game-starter-deck-14-heavy-dominion-natural-talent-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.68,
+          "low": 3.75,
+          "mid": 8.81
+        }
+      ]
+    },
+    {
+      "id": 721001,
+      "name": "Blazing Mobile Suit Rider",
+      "label": "C+",
+      "number": "ST14-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721001_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721001/gundam-card-game-starter-deck-14-heavy-dominion-blazing-mobile-suit-rider-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.61,
+          "low": 13.61,
+          "mid": 15.19
+        }
+      ]
+    },
+    {
+      "id": 721002,
+      "name": "Battlefield Emotions",
+      "label": "C+",
+      "number": "ST14-015",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721002_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721002/gundam-card-game-starter-deck-14-heavy-dominion-battlefield-emotions-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.05,
+          "low": 2.49,
+          "mid": 6.67
+        }
+      ]
+    },
+    {
+      "id": 721003,
+      "name": "Gryphios 2",
+      "label": "C+",
+      "number": "ST14-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721003_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721003/gundam-card-game-starter-deck-14-heavy-dominion-gryphios-2-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.13,
+          "low": 2.24,
+          "mid": 3.13
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

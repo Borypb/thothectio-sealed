@@ -1,0 +1,569 @@
+{
+  "groupId": 24801,
+  "cards": [
+    {
+      "id": 716380,
+      "name": "Gundam Epyon",
+      "number": "ST12-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716380/gundam-card-game-starter-deck-12-raging-onslaught-gundam-epyon",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.64,
+          "low": 0.2,
+          "mid": 1.09
+        }
+      ]
+    },
+    {
+      "id": 716381,
+      "name": "Shining Gundam",
+      "number": "ST12-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716381/gundam-card-game-starter-deck-12-raging-onslaught-shining-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.06,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716382,
+      "name": "Tallgeese III",
+      "number": "ST12-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716382/gundam-card-game-starter-deck-12-raging-onslaught-tallgeese-iii",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 716383,
+      "name": "Gundam Exia",
+      "number": "ST12-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716383/gundam-card-game-starter-deck-12-raging-onslaught-gundam-exia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716384,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu",
+      "number": "ST12-005",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716384/gundam-card-game-starter-deck-12-raging-onslaught-gquuuuuux-omega-psycommu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 716385,
+      "name": "Unicorn Gundam 02 Banshee",
+      "label": "Destroy Mode",
+      "number": "ST12-006",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716385/gundam-card-game-starter-deck-12-raging-onslaught-unicorn-gundam-02-banshee-destroy-mode",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.92,
+          "low": 0.6,
+          "mid": 1.19
+        }
+      ]
+    },
+    {
+      "id": 716386,
+      "name": "Gyan",
+      "number": "ST12-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716386/gundam-card-game-starter-deck-12-raging-onslaught-gyan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 716387,
+      "name": "Efreet Schneid",
+      "number": "ST12-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716387/gundam-card-game-starter-deck-12-raging-onslaught-efreet-schneid",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716388,
+      "name": "Unicorn Gundam 02 Banshee",
+      "label": "Unicorn Mode",
+      "number": "ST12-009",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716388/gundam-card-game-starter-deck-12-raging-onslaught-unicorn-gundam-02-banshee-unicorn-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716389,
+      "name": "Slash Zaku Phantom",
+      "number": "ST12-010",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716389/gundam-card-game-starter-deck-12-raging-onslaught-slash-zaku-phantom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 716390,
+      "name": "Milliardo Peacecraft",
+      "number": "ST12-011",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716390/gundam-card-game-starter-deck-12-raging-onslaught-milliardo-peacecraft",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.09,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 716391,
+      "name": "Ple-Twelve",
+      "number": "ST12-012",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716391/gundam-card-game-starter-deck-12-raging-onslaught-ple-twelve",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716392,
+      "name": "The Final Victor",
+      "number": "ST12-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716392/gundam-card-game-starter-deck-12-raging-onslaught-the-final-victor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.2,
+          "mid": 0.41
+        }
+      ]
+    },
+    {
+      "id": 716393,
+      "name": "Wise Leader's Pride",
+      "number": "ST12-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716393/gundam-card-game-starter-deck-12-raging-onslaught-wise-leaders-pride",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 716394,
+      "name": "Two Unicorns",
+      "number": "ST12-015",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716394/gundam-card-game-starter-deck-12-raging-onslaught-two-unicorns",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 716395,
+      "name": "Libra",
+      "number": "ST12-016",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/716395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/716395/gundam-card-game-starter-deck-12-raging-onslaught-libra",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 721021,
+      "name": "Gundam Epyon",
+      "label": "LR+",
+      "number": "ST12-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721021_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721021/gundam-card-game-starter-deck-12-raging-onslaught-gundam-epyon-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 47.67,
+          "low": 35,
+          "mid": 47.99
+        }
+      ]
+    },
+    {
+      "id": 721022,
+      "name": "Shining Gundam",
+      "label": "C+",
+      "number": "ST12-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721022_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721022/gundam-card-game-starter-deck-12-raging-onslaught-shining-gundam-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.44,
+          "low": 13.99,
+          "mid": 16.9
+        }
+      ]
+    },
+    {
+      "id": 721023,
+      "name": "Tallgeese III",
+      "label": "C+",
+      "number": "ST12-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721023_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721023/gundam-card-game-starter-deck-12-raging-onslaught-tallgeese-iii-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.17,
+          "low": 4.24,
+          "mid": 8.87
+        }
+      ]
+    },
+    {
+      "id": 721024,
+      "name": "Gundam Exia",
+      "label": "C+",
+      "number": "ST12-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721024_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721024/gundam-card-game-starter-deck-12-raging-onslaught-gundam-exia-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 14.65,
+          "low": 10.84,
+          "mid": 14.9
+        }
+      ]
+    },
+    {
+      "id": 721025,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu · C+",
+      "number": "ST12-005",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721025_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721025/gundam-card-game-starter-deck-12-raging-onslaught-gquuuuuux-omega-psycommu-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.8,
+          "low": 9,
+          "mid": 14.09
+        }
+      ]
+    },
+    {
+      "id": 721026,
+      "name": "Unicorn Gundam 02 Banshee",
+      "label": "Destroy Mode · LR+",
+      "number": "ST12-006",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721026_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721026/gundam-card-game-starter-deck-12-raging-onslaught-unicorn-gundam-02-banshee-destroy-mode-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 57.99,
+          "low": 45,
+          "mid": 55.6
+        }
+      ]
+    },
+    {
+      "id": 721027,
+      "name": "Gyan",
+      "label": "C+",
+      "number": "ST12-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721027_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721027/gundam-card-game-starter-deck-12-raging-onslaught-gyan-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.46,
+          "low": 2.24,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 721028,
+      "name": "Efreet Schneid",
+      "label": "C+",
+      "number": "ST12-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721028_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721028/gundam-card-game-starter-deck-12-raging-onslaught-efreet-schneid-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.27,
+          "low": 3.86,
+          "mid": 6.25
+        }
+      ]
+    },
+    {
+      "id": 721029,
+      "name": "Unicorn Gundam 02 Banshee",
+      "label": "Unicorn Mode · C+",
+      "number": "ST12-009",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721029_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721029/gundam-card-game-starter-deck-12-raging-onslaught-unicorn-gundam-02-banshee-unicorn-mode-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 5.16,
+          "low": 4.22,
+          "mid": 6.5
+        }
+      ]
+    },
+    {
+      "id": 721030,
+      "name": "Slash Zaku Phantom",
+      "label": "C+",
+      "number": "ST12-010",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721030_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721030/gundam-card-game-starter-deck-12-raging-onslaught-slash-zaku-phantom-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.3,
+          "low": 2.49,
+          "mid": 3.46
+        }
+      ]
+    },
+    {
+      "id": 721031,
+      "name": "Milliardo Peacecraft",
+      "label": "C+",
+      "number": "ST12-011",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721031/gundam-card-game-starter-deck-12-raging-onslaught-milliardo-peacecraft-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.02,
+          "low": 12.5,
+          "mid": 15.02
+        }
+      ]
+    },
+    {
+      "id": 721032,
+      "name": "Ple-Twelve",
+      "label": "C+",
+      "number": "ST12-012",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721032_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721032/gundam-card-game-starter-deck-12-raging-onslaught-ple-twelve-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 19.27,
+          "low": 14.5,
+          "mid": 19.27
+        }
+      ]
+    },
+    {
+      "id": 721033,
+      "name": "The Final Victor",
+      "label": "C+",
+      "number": "ST12-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721033_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721033/gundam-card-game-starter-deck-12-raging-onslaught-the-final-victor-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 22.42,
+          "low": 16.06,
+          "mid": 23.35
+        }
+      ]
+    },
+    {
+      "id": 721034,
+      "name": "Wise Leader's Pride",
+      "label": "C+",
+      "number": "ST12-014",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721034_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721034/gundam-card-game-starter-deck-12-raging-onslaught-wise-leaders-pride-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.17,
+          "low": 0.99,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 721035,
+      "name": "Two Unicorns",
+      "label": "C+",
+      "number": "ST12-015",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721035_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721035/gundam-card-game-starter-deck-12-raging-onslaught-two-unicorns-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3,
+          "low": 0.61,
+          "mid": 3.89
+        }
+      ]
+    },
+    {
+      "id": 721036,
+      "name": "Libra",
+      "label": "C+",
+      "number": "ST12-016",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721036_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721036/gundam-card-game-starter-deck-12-raging-onslaught-libra-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.71,
+          "low": 2.24,
+          "mid": 3.96
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

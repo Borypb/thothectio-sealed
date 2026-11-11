@@ -1,0 +1,574 @@
+{
+  "groupId": 24409,
+  "cards": [
+    {
+      "id": 651166,
+      "name": "Red Gundam",
+      "number": "ST06-005",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651166/gundam-card-game-starter-deck-06-clan-unity-red-gundam",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.42,
+          "low": 0.05,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 651167,
+      "name": "Shuji Ito",
+      "number": "ST06-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651167/gundam-card-game-starter-deck-06-clan-unity-shuji-ito",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 659091,
+      "name": "Close Combat",
+      "number": "ST03-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659091_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659091/gundam-card-game-starter-deck-06-clan-unity-close-combat",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.29,
+          "low": 1,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 659092,
+      "name": "Close Combat",
+      "label": "C+",
+      "number": "ST03-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659092_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659092/gundam-card-game-starter-deck-06-clan-unity-close-combat-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 28.26,
+          "low": 24.99,
+          "mid": 29.92
+        }
+      ]
+    },
+    {
+      "id": 659093,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu · LR",
+      "number": "ST06-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659093_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659093/gundam-card-game-starter-deck-06-clan-unity-gquuuuuux-omega-psycommu-lr",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.62,
+          "low": 0.05,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 659094,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu · LR+",
+      "number": "ST06-001",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659094_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659094/gundam-card-game-starter-deck-06-clan-unity-gquuuuuux-omega-psycommu-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 36.01,
+          "low": 29.51,
+          "mid": 36.51
+        }
+      ]
+    },
+    {
+      "id": 659095,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu · C",
+      "number": "ST06-002",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659095_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659095/gundam-card-game-starter-deck-06-clan-unity-gquuuuuux-omega-psycommu-c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 659096,
+      "name": "GQuuuuuuX",
+      "label": "Omega Psycommu · C+",
+      "number": "ST06-002",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659096_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659096/gundam-card-game-starter-deck-06-clan-unity-gquuuuuux-omega-psycommu-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.29,
+          "low": 4.95,
+          "mid": 7.88
+        }
+      ]
+    },
+    {
+      "id": 659097,
+      "name": "Gaia's Rick Dom",
+      "label": "GQ",
+      "number": "ST06-003",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659097_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659097/gundam-card-game-starter-deck-06-clan-unity-gaias-rick-dom-gq",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 659098,
+      "name": "Gaia's Rick Dom",
+      "label": "GQ · C+",
+      "number": "ST06-003",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659098_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659098/gundam-card-game-starter-deck-06-clan-unity-gaias-rick-dom-gq-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.58,
+          "low": 1,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 659099,
+      "name": "Red Gundam",
+      "label": "LR+",
+      "number": "ST06-005",
+      "rarity": "LR+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659099_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659099/gundam-card-game-starter-deck-06-clan-unity-red-gundam-lrplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 28.18,
+          "low": 20.01,
+          "mid": 29.45
+        }
+      ]
+    },
+    {
+      "id": 659100,
+      "name": "Red Gundam",
+      "label": "C",
+      "number": "ST06-006",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659100_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659100/gundam-card-game-starter-deck-06-clan-unity-red-gundam-c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.04,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 659101,
+      "name": "Red Gundam",
+      "label": "C+",
+      "number": "ST06-006",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659101/gundam-card-game-starter-deck-06-clan-unity-red-gundam-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 16.33,
+          "low": 7.7,
+          "mid": 15
+        }
+      ]
+    },
+    {
+      "id": 659102,
+      "name": "Ortega's Rick Dom",
+      "label": "GQ",
+      "number": "ST06-007",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659102/gundam-card-game-starter-deck-06-clan-unity-ortegas-rick-dom-gq",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.06,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 659103,
+      "name": "Ortega's Rick Dom",
+      "label": "GQ · C+",
+      "number": "ST06-007",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659103/gundam-card-game-starter-deck-06-clan-unity-ortegas-rick-dom-gq-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.48,
+          "low": 5.5,
+          "mid": 7.67
+        }
+      ]
+    },
+    {
+      "id": 659104,
+      "name": "Sugai's Gelgoog",
+      "label": "GQ",
+      "number": "ST06-008",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659104_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659104/gundam-card-game-starter-deck-06-clan-unity-sugais-gelgoog-gq",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 659105,
+      "name": "Sugai's Gelgoog",
+      "label": "GQ · C+",
+      "number": "ST06-008",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659105_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659105/gundam-card-game-starter-deck-06-clan-unity-sugais-gelgoog-gq-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 24.66,
+          "low": 20,
+          "mid": 24.41
+        }
+      ]
+    },
+    {
+      "id": 659106,
+      "name": "Amate Yuzuriha",
+      "label": "Machu",
+      "number": "ST06-009",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659106_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659106/gundam-card-game-starter-deck-06-clan-unity-amate-yuzuriha-machu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 659107,
+      "name": "Amate Yuzuriha",
+      "label": "Machu · C+",
+      "number": "ST06-009",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659107_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659107/gundam-card-game-starter-deck-06-clan-unity-amate-yuzuriha-machu-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 17.23,
+          "low": 12,
+          "mid": 16.52
+        }
+      ]
+    },
+    {
+      "id": 659108,
+      "name": "Shuji Ito",
+      "label": "C+",
+      "number": "ST06-010",
+      "rarity": "C+",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659108_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659108/gundam-card-game-starter-deck-06-clan-unity-shuji-ito-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.64,
+          "low": 4,
+          "mid": 8.64
+        }
+      ]
+    },
+    {
+      "id": 659109,
+      "name": "Ruthless Tactics",
+      "number": "ST06-011",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659109_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659109/gundam-card-game-starter-deck-06-clan-unity-ruthless-tactics",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 659110,
+      "name": "Ruthless Tactics",
+      "label": "C+",
+      "number": "ST06-011",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659110_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659110/gundam-card-game-starter-deck-06-clan-unity-ruthless-tactics-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.43,
+          "low": 0.8,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 659111,
+      "name": "Schoolgirl and Smuggler",
+      "number": "ST06-012",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659111_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659111/gundam-card-game-starter-deck-06-clan-unity-schoolgirl-and-smuggler",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 659112,
+      "name": "Schoolgirl and Smuggler",
+      "label": "C+",
+      "number": "ST06-012",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659112_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659112/gundam-card-game-starter-deck-06-clan-unity-schoolgirl-and-smuggler-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.17,
+          "low": 12.74,
+          "mid": 15.11
+        }
+      ]
+    },
+    {
+      "id": 659113,
+      "name": "Fierce Unity",
+      "number": "ST06-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659113_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659113/gundam-card-game-starter-deck-06-clan-unity-fierce-unity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 659114,
+      "name": "Fierce Unity",
+      "label": "C+",
+      "number": "ST06-013",
+      "rarity": "C+",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659114_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659114/gundam-card-game-starter-deck-06-clan-unity-fierce-unity-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.46,
+          "low": 0.5,
+          "mid": 1.6
+        }
+      ]
+    },
+    {
+      "id": 659115,
+      "name": "Clan Battle",
+      "number": "ST06-014",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659115_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659115/gundam-card-game-starter-deck-06-clan-unity-clan-battle",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.14,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 659116,
+      "name": "Clan Battle",
+      "label": "C+",
+      "number": "ST06-014",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659116_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659116/gundam-card-game-starter-deck-06-clan-unity-clan-battle-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.07,
+          "low": 6.5,
+          "mid": 9.75
+        }
+      ]
+    },
+    {
+      "id": 659117,
+      "name": "Kaneban Co., Ltd.",
+      "number": "ST06-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659117_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659117/gundam-card-game-starter-deck-06-clan-unity-kaneban-co-ltd",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 659118,
+      "name": "Kaneban Co., Ltd.",
+      "label": "C+",
+      "number": "ST06-015",
+      "rarity": "C+",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/659118_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/659118/gundam-card-game-starter-deck-06-clan-unity-kaneban-co-ltd-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.4,
+          "low": 3.45,
+          "mid": 6.4
+        }
+      ]
+    },
+    {
+      "id": 660489,
+      "name": "Gelgoog",
+      "label": "GQ",
+      "number": "ST06-004",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/660489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/660489/gundam-card-game-starter-deck-06-clan-unity-gelgoog-gq",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 660490,
+      "name": "Gelgoog",
+      "label": "GQ · C+",
+      "number": "ST06-004",
+      "rarity": "C+",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/660490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/660490/gundam-card-game-starter-deck-06-clan-unity-gelgoog-gq-cplus",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.53,
+          "low": 3,
+          "mid": 8.74
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

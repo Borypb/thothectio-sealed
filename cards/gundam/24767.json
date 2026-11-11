@@ -1,0 +1,827 @@
+{
+  "groupId": 24767,
+  "cards": [
+    {
+      "id": 705669,
+      "name": "Unicorn Gundam",
+      "label": "Destroy Mode",
+      "number": "GD01-002",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705669/gundam-card-game-deck-build-box-freedom-ascension-unicorn-gundam-destroy-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 705670,
+      "name": "Guncannon",
+      "number": "GD01-004",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705670/gundam-card-game-deck-build-box-freedom-ascension-guncannon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705671,
+      "name": "Guntank",
+      "number": "GD01-008",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705671/gundam-card-game-deck-build-box-freedom-ascension-guntank",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 705672,
+      "name": "Gundam Deathscythe",
+      "number": "GD01-025",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705672/gundam-card-game-deck-build-box-freedom-ascension-gundam-deathscythe",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705673,
+      "name": "Shenlong Gundam",
+      "number": "GD01-029",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705673/gundam-card-game-deck-build-box-freedom-ascension-shenlong-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705674,
+      "name": "Rick Dom",
+      "number": "GD01-030",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705674/gundam-card-game-deck-build-box-freedom-ascension-rick-dom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 705675,
+      "name": "Zaku II",
+      "number": "GD01-035",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705675/gundam-card-game-deck-build-box-freedom-ascension-zaku-ii",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705676,
+      "name": "Kshatriya",
+      "number": "GD01-051",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705676/gundam-card-game-deck-build-box-freedom-ascension-kshatriya",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705677,
+      "name": "Geara Zulu",
+      "label": "Guards Type",
+      "number": "GD01-052",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705677/gundam-card-game-deck-build-box-freedom-ascension-geara-zulu-guards-type",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705678,
+      "name": "Freedom Gundam",
+      "number": "GD01-065",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705678/gundam-card-game-deck-build-box-freedom-ascension-freedom-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705679,
+      "name": "Strike Rouge",
+      "number": "GD01-069",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705679/gundam-card-game-deck-build-box-freedom-ascension-strike-rouge",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705680,
+      "name": "Gundam Lfrith",
+      "number": "GD01-086",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705680/gundam-card-game-deck-build-box-freedom-ascension-gundam-lfrith",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.29,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 705681,
+      "name": "Banagher Links",
+      "number": "GD01-088",
+      "rarity": "Uncommon",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705681/gundam-card-game-deck-build-box-freedom-ascension-banagher-links",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.09,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 705682,
+      "name": "Duo Maxwell",
+      "number": "GD01-090",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705682/gundam-card-game-deck-build-box-freedom-ascension-duo-maxwell",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705683,
+      "name": "Marida Cruz",
+      "number": "GD01-093",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705683/gundam-card-game-deck-build-box-freedom-ascension-marida-cruz",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.24,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 705684,
+      "name": "Cagalli Yula Athha",
+      "number": "GD01-096",
+      "rarity": "Rare",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705684/gundam-card-game-deck-build-box-freedom-ascension-cagalli-yula-athha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705685,
+      "name": "A Show of Resolve",
+      "number": "GD01-100",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705685/gundam-card-game-deck-build-box-freedom-ascension-a-show-of-resolve",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.11,
+          "low": 1.75,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 705686,
+      "name": "First Contact",
+      "number": "GD01-107",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705686/gundam-card-game-deck-build-box-freedom-ascension-first-contact",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 705687,
+      "name": "Battle of Aces",
+      "number": "GD01-111",
+      "rarity": "Rare",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705687/gundam-card-game-deck-build-box-freedom-ascension-battle-of-aces",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705688,
+      "name": "Overflowing Affection",
+      "number": "GD01-118",
+      "rarity": "Uncommon",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705688/gundam-card-game-deck-build-box-freedom-ascension-overflowing-affection",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.58,
+          "low": 1,
+          "mid": 1.89
+        }
+      ]
+    },
+    {
+      "id": 705689,
+      "name": "Underground Desert Base",
+      "number": "GD01-126",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705689/gundam-card-game-deck-build-box-freedom-ascension-underground-desert-base",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705690,
+      "name": "Gundam Virsago",
+      "number": "GD02-037",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705690/gundam-card-game-deck-build-box-freedom-ascension-gundam-virsago",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705691,
+      "name": "Gundam Gusion Rebake",
+      "number": "GD02-055",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705691/gundam-card-game-deck-build-box-freedom-ascension-gundam-gusion-rebake",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.25,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 705692,
+      "name": "Ryusei-Go",
+      "label": "Graze Custom II",
+      "number": "GD02-058",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705692/gundam-card-game-deck-build-box-freedom-ascension-ryusei-go-graze-custom-ii",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705693,
+      "name": "Gundam Hajiroboshi",
+      "label": "2nd Form",
+      "number": "GD03-055",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705693/gundam-card-game-deck-build-box-freedom-ascension-gundam-hajiroboshi-2nd-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705694,
+      "name": "Gundam Hajiroboshi",
+      "number": "GD03-068",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705694/gundam-card-game-deck-build-box-freedom-ascension-gundam-hajiroboshi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 705695,
+      "name": "Wistario Afam",
+      "number": "GD03-097",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705695/gundam-card-game-deck-build-box-freedom-ascension-wistario-afam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 705696,
+      "name": "Unicorn Gundam",
+      "label": "Unicorn Mode",
+      "number": "GD01-005",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705696/gundam-card-game-deck-build-box-freedom-ascension-unicorn-gundam-unicorn-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705697,
+      "name": "Hotarubi",
+      "number": "GD03-129",
+      "rarity": "Uncommon",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705697/gundam-card-game-deck-build-box-freedom-ascension-hotarubi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 705698,
+      "name": "Resource",
+      "number": "R-001",
+      "rarity": "Common",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705698/gundam-card-game-deck-build-box-freedom-ascension-resource",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.1
+        }
+      ]
+    },
+    {
+      "id": 705699,
+      "name": "Gundam",
+      "number": "ST01-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705699/gundam-card-game-deck-build-box-freedom-ascension-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.26,
+          "low": 1,
+          "mid": 3.4
+        }
+      ]
+    },
+    {
+      "id": 705700,
+      "name": "Amuro Ray",
+      "number": "ST01-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705700/gundam-card-game-deck-build-box-freedom-ascension-amuro-ray",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.49,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 705701,
+      "name": "Unforeseen Incident",
+      "number": "ST01-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705701/gundam-card-game-deck-build-box-freedom-ascension-unforeseen-incident",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.2,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 705702,
+      "name": "Wing Gundam",
+      "number": "ST02-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705702/gundam-card-game-deck-build-box-freedom-ascension-wing-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 705703,
+      "name": "Heero Yuy",
+      "number": "ST02-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705703/gundam-card-game-deck-build-box-freedom-ascension-heero-yuy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.07,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 705704,
+      "name": "Sinanju",
+      "number": "ST03-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705704/gundam-card-game-deck-build-box-freedom-ascension-sinanju",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.14,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 705705,
+      "name": "Full Frontal",
+      "number": "ST03-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705705/gundam-card-game-deck-build-box-freedom-ascension-full-frontal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705706,
+      "name": "Close Combat",
+      "number": "ST03-013",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705706/gundam-card-game-deck-build-box-freedom-ascension-close-combat",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.61,
+          "low": 0.9,
+          "mid": 1.57
+        }
+      ]
+    },
+    {
+      "id": 705707,
+      "name": "Rewloola",
+      "number": "ST03-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705707/gundam-card-game-deck-build-box-freedom-ascension-rewloola",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705708,
+      "name": "Aile Strike Gundam",
+      "number": "ST04-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705708/gundam-card-game-deck-build-box-freedom-ascension-aile-strike-gundam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 0.3,
+          "mid": 1.21
+        }
+      ]
+    },
+    {
+      "id": 705709,
+      "name": "Kira Yamato",
+      "number": "ST04-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705709/gundam-card-game-deck-build-box-freedom-ascension-kira-yamato",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705710,
+      "name": "Archangel",
+      "number": "ST04-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705710/gundam-card-game-deck-build-box-freedom-ascension-archangel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 705711,
+      "name": "Gundam Barbatos 4th Form",
+      "number": "ST05-001",
+      "rarity": "Legend Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705711/gundam-card-game-deck-build-box-freedom-ascension-gundam-barbatos-4th-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 705712,
+      "name": "Mikazuki Augus",
+      "number": "ST05-010",
+      "rarity": "Common",
+      "type": "Pilot",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705712/gundam-card-game-deck-build-box-freedom-ascension-mikazuki-augus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705713,
+      "name": "Fatal Strike",
+      "number": "ST05-014",
+      "rarity": "Common",
+      "type": "Command",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705713/gundam-card-game-deck-build-box-freedom-ascension-fatal-strike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 705714,
+      "name": "Davao",
+      "number": "ST08-015",
+      "rarity": "Common",
+      "type": "Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705714/gundam-card-game-deck-build-box-freedom-ascension-davao",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 707243,
+      "name": "EX Resource",
+      "number": "EXR-001",
+      "rarity": "Common",
+      "type": "EX Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707243/gundam-card-game-deck-build-box-freedom-ascension-ex-resource",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 707244,
+      "name": "EX Base",
+      "number": "EXB-001",
+      "rarity": "Common",
+      "type": "EX Base",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/707244/gundam-card-game-deck-build-box-freedom-ascension-ex-base",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

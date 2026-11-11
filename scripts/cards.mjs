@@ -103,9 +103,12 @@ export async function writeNames(game, sets) {
   for (const [i, s] of sets.entries()) {
     const data = await readJson(s.file, null);
     for (const c of data?.cards ?? []) {
-      const list = names.get(c.name) ?? new Set();
-      list.add(i);
-      names.set(c.name, list);
+      // noms traduits aussi (World of Warcraft en français) : la recherche les trouve dans la langue tapée
+      for (const n of new Set([c.name, ...Object.values(c.tr ?? {}).map((t) => t.name)].filter(Boolean))) {
+        const list = names.get(n) ?? new Set();
+        list.add(i);
+        names.set(n, list);
+      }
     }
   }
   await writeJson(`cards/${game}/names.json`, { groups, names: [...names.entries()].map(([n, l]) => [n, [...l]]) });
@@ -178,7 +181,7 @@ export async function cards() {
       }
       if (!data.cards.length) continue;
       await holdWaitingImages(game, g, data);
-      wow?.enrich(g.groupId, data);
+      const extra = wow?.enrich(g.groupId, data);
       // cotes du jour : une ligne par finition (Normal, Foil…). usd : prix du marché (ventes), sinon milieu, sinon bas ;
       // low / mid : annonce la moins chère et prix médian des annonces en cours (détail des prix dans l'app).
       // Pas de prix « haut » : c'est l'annonce la plus chère, pas une vente.
@@ -205,6 +208,8 @@ export async function cards() {
         modifiedOn: g.modifiedOn,
         count: data.cards.length,
         file,
+        // World of Warcraft : langues et nom français (wow-merge.mjs)
+        ...extra,
         // la version change si les cartes changent (pas pour les seules cotes)
         version: hash(data.cards.map(({ prices, ...c }) => c))
       });

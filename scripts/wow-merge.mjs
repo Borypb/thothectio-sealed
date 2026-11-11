@@ -10,11 +10,17 @@
 // Identifiants numériques stables (l'app les attend) : extension 90 000 000 + empreinte du code, carte
 // 9 000 000 000 + empreinte de « code/numéro » — hors de la plage des identifiants TCGplayer.
 // Dates : mois de sortie d'après warcraft.wiki.gg (extensions de base, decks de raid et de donjon) ; inconnues sinon.
+// Français : chaque carte d'une édition traduite (wowtcgfr.com, même numérotation) reçoit `tr.fr` { name, type, image } ;
+// l'extension, `languages: ["en", "fr"]` et son nom français (`names.fr`).
 import { createHash } from "node:crypto";
 import { readdir, rm } from "node:fs/promises";
 import { readJson, writeJson } from "./lib.mjs";
 
 const FILE = "cards/wow-wowcards.json";
+/** cartes françaises de wowtcgfr.com (wow-fr.mjs, « wowtcgfr.com, créé et maintenu par Aeron ») */
+const FR_FILE = "cards/wow-wowtcgfr.json";
+/** code d'extension de wowtcgfr.com → code d'édition de wowcards.info, quand ils diffèrent */
+const FR_EDITION = { darkportal: "dark-portal", mc: "molten-core" };
 
 /** mois de sortie (warcraft.wiki.gg), par code d'édition du site ou début de code */
 const RELEASED = {
@@ -73,8 +79,8 @@ const num = (s, mod) => parseInt(createHash("sha1").update(s).digest("hex").slic
 export const editionGroupId = (code) => 90_000_000 + num(code, 9_999_999);
 const cardId = (code, n) => 9_000_000_000 + num(`${code}/${n}`, 999_999_999);
 
-/** carte du site → carte du catalogue */
-const toCard = (e, c) => ({
+/** carte du site → carte du catalogue (tr : traductions de la carte) */
+const toCard = (e, c, tr) => ({
   id: cardId(e.code, c.n),
   name: c.name,
   number: c.n,
@@ -83,8 +89,26 @@ const toCard = (e, c) => ({
   cost: c.cost,
   artist: c.artist,
   image: c.image,
+  tr,
   source: "wowcards"
 });
+
+/** cartes françaises par « édition/numéro » et noms français des éditions */
+async function loadFr(codes) {
+  const data = await readJson(FR_FILE, null);
+  const cards = new Map();
+  const names = new Map();
+  for (const e of data?.editions ?? []) {
+    const code = FR_EDITION[e.code] ?? e.code;
+    if (!codes.has(code)) {
+      console.warn(`wowtcgfr.com ${e.code} : édition anglaise introuvable`);
+      continue;
+    }
+    names.set(code, e.name);
+    for (const c of e.cards) cards.set(`${code}/${Number(c.n)}`, { name: c.name, type: c.type, image: c.image });
+  }
+  return { cards, names };
+}
 
 /** null : liste du site pas encore récoltée (wow-cards.yml) */
 export async function loadWow() {
@@ -97,12 +121,20 @@ export async function loadWow() {
       for (const c of e.cards) if (!byName.has(fold(c.name))) byName.set(fold(c.name), c);
       return { ...e, byName };
     });
+  const fr = await loadFr(new Set(editions.map((e) => e.code)));
+  const trOf = (code, n) => {
+    const f = fr.cards.get(`${code}/${Number(n)}`);
+    return f ? { fr: f } : undefined;
+  };
   /** édition → meilleur groupe TCGplayer qui la couvre (au moins 60 % de ses noms) */
   const covered = new Map();
   let filled = 0;
   let added = 0;
 
-  /** complète les cartes d'une extension TCGplayer (avant son enregistrement) */
+  /**
+   * complète les cartes d'une extension TCGplayer (avant son enregistrement) ; renvoie ce qui s'ajoute à sa fiche
+   * dans l'index (langues, nom français)
+   */
   function enrich(groupId, data) {
     const names = new Set(data.cards.map((c) => fold(c.name)));
     const scored = editions
@@ -113,7 +145,7 @@ export async function loadWow() {
       })
       .filter((x) => x.ov >= 3 && (x.ofEdition >= 0.6 || x.ofGroup >= 0.5))
       .sort((a, b) => b.ov - a.ov);
-    if (!scored.length) return;
+    if (!scored.length) return undefined;
     // extension TCGplayer entièrement comprise dans une seule édition (« The Black Temple » : 23 des 70 cartes du deck
     // de raid) : c'est cette édition, incomplète chez TCGplayer
     const best = scored[0];
@@ -129,6 +161,10 @@ export async function loadWow() {
       if (!hit) continue;
       const w = hit.e.byName.get(k);
       const before = JSON.stringify(c);
+      // traduction : seulement si l'édition correspond vraiment à l'extension (pas pour une réimpression ailleurs)
+      const tr = hit.ofEdition >= 0.6 || (subset && hit === best) ? trOf(hit.e.code, w.n) : undefined;
+      if (tr) c.tr = tr;
+      else delete c.tr;
       c.number ??= w.n;
       c.type ??= w.type;
       c.cost ??= w.cost;
@@ -141,10 +177,17 @@ export async function loadWow() {
     if (subset || (best.ofEdition >= 0.6 && best.ofGroup >= 0.6 && (scored[1]?.ov ?? 0) < best.ov * 0.8)) {
       for (const [k, w] of best.e.byName) {
         if (names.has(k)) continue;
-        data.cards.push(toCard(best.e, w));
+        data.cards.push(toCard(best.e, w, trOf(best.e.code, w.n)));
         added++;
       }
     }
+    return extraFields(data.cards, scored.find((x) => fr.names.has(x.e.code) && (x.ofEdition >= 0.6 || (subset && x === best)))?.e.code);
+  }
+
+  /** langues de l'extension et nom français, d'après les traductions de ses cartes */
+  function extraFields(cards, code) {
+    if (!cards.some((c) => c.tr?.fr)) return undefined;
+    return { languages: ["en", "fr"], names: code && fr.names.get(code) ? { fr: fr.names.get(code) } : undefined };
   }
 
   /** éditions du site qu'aucune extension TCGplayer ne couvre : extensions à part */
@@ -154,7 +197,7 @@ export async function loadWow() {
       if (covered.has(e.code)) continue;
       const groupId = editionGroupId(e.code);
       const file = `cards/wow/wcx-${e.code}.json`;
-      const data = { groupId, source: "wowcards", cards: e.cards.map((c) => toCard(e, c)) };
+      const data = { groupId, source: "wowcards", cards: e.cards.map((c) => toCard(e, c, trOf(e.code, c.n))) };
       await writeJson(file, data);
       out.push({
         groupId,
@@ -164,6 +207,7 @@ export async function loadWow() {
         count: data.cards.length,
         file,
         source: "wowcards",
+        ...extraFields(data.cards, e.code),
         version: hash(data.cards)
       });
     }
@@ -172,7 +216,8 @@ export async function loadWow() {
     for (const f of await readdir("cards/wow").catch(() => [])) if (/^wcx-.*\.json$/.test(f) && !kept.has(f)) await rm(`cards/wow/${f}`);
     console.log(
       `wow : ${covered.size} éditions de wowcards.info retrouvées sur TCGplayer (${filled} cartes complétées, ${added} ajoutées), ` +
-        `${out.length} éditions ajoutées (${out.reduce((n, s) => n + s.count, 0)} cartes)`
+        `${out.length} éditions ajoutées (${out.reduce((n, s) => n + s.count, 0)} cartes) ; ` +
+        `français : ${fr.names.size} éditions de wowtcgfr.com, ${fr.cards.size} cartes`
     );
     return out;
   }

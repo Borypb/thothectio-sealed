@@ -7,7 +7,7 @@
 // Sortie : cards/wow-wowcards.json
 //   { updatedAt, source, credit, editions: [{ code, name, section, cards: [{ n, name, type, cost, rarity, artist, image }] }] }
 // Fusion avec le catalogue TCGplayer (numéros, cartes et extensions absentes de TCGplayer) : wow-merge.mjs.
-import { readJson, UA, writeJson } from "./lib.mjs";
+import { htmlText as decode, readJson, UA, writeJson } from "./lib.mjs";
 
 const SITE = "https://www.wowcards.info";
 const FILE = "cards/wow-wowcards.json";
@@ -29,20 +29,6 @@ async function page(path) {
     }
   }
 }
-
-const decode = (s) =>
-  s
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&mdash;/g, "—")
-    .replace(/&middot;/g, "·")
-    .replace(/&amp;/g, "&")
-    .replace(/&#39;/g, "'")
-    .replace(/&quot;/g, '"')
-    .replace(/&numero;/g, "№")
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
-    .replace(/&[a-z]+;/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
 
 /**
  * éditions des colonnes de la page d'accueil : rubrique (« Basic Sets », « Raid and Dungeon Decks »…), groupe

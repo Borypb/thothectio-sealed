@@ -319,4 +319,11 @@ Blizzard Entertainment, Upper Deck, Cryptozoic.
    - publie à part les éditions absentes de TCGplayer (Reign of Fire, Crown of the Heavens, decks de raid, promos…) :
      `cards/wow/wcx-<code>.json`, sans cote TCGplayer (cote Cardmarket quand elle est retrouvée). Dates de sortie au mois
      près d'après [warcraft.wiki.gg](https://warcraft.wiki.gg/wiki/Warcraft_TCG).
-   Cartes en anglais seulement. L'index du scan ne télécharge que les images TCGplayer.
+   **En français** : les cartes des extensions traduites (Héros d'Azeroth, À travers la Porte des Ténèbres, Les Feux de
+   l'Outreterre, La Marche de la Légion, Les Serviteurs du Traître, Molten Core) viennent de
+   [wowtcgfr.com](https://wowtcgfr.com) — **créé et maintenu par Aeron**, avec son accord ; communauté :
+   [Discord](https://discord.gg/EX9fQqyyzg) —, lues une fois par mois avec la liste anglaise (`wow-fr.mjs`, une page
+   d'extension chacune) et publiées dans `cards/wow-wowtcgfr.json`. `wow-merge.mjs` les relie aux cartes anglaises par
+   l'édition et le numéro : chaque carte reçoit `tr.fr` (nom, type, image), l'extension `languages: ["en", "fr"]` et
+   son nom français ; l'index des noms (`names.json`) contient aussi les noms français.
+   L'index du scan ne télécharge que les images TCGplayer.

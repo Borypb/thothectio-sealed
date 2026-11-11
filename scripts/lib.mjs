@@ -39,6 +39,27 @@ export async function writeJson(path, data) {
   await writeFile(path, JSON.stringify(data, null, 2) + "\n");
 }
 
+/** marques des entités « &eacute; », « &ccedil; »… (lettre + accent) */
+const MARKS = { acute: "\u0301", grave: "\u0300", circ: "\u0302", uml: "\u0308", cedil: "\u0327", tilde: "\u0303", ring: "\u030A" };
+const NAMED = {
+  amp: "&", quot: '"', apos: "'", lt: "<", gt: ">", nbsp: " ", mdash: "—", ndash: "–", middot: "·", hellip: "…",
+  rsquo: "’", lsquo: "‘", ldquo: "“", rdquo: "”", laquo: "«", raquo: "»", times: "×", numero: "№",
+  oelig: "œ", OElig: "Œ", aelig: "æ", AElig: "Æ", szlig: "ß", rarr: "→", larr: "←"
+};
+
+/** texte d'un morceau de HTML : balises retirées, entités décodées, espaces réunis */
+export function htmlText(s) {
+  return String(s ?? "")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&([A-Za-z])(acute|grave|circ|uml|cedil|tilde|ring);/g, (_, l, m) => (l + MARKS[m]).normalize("NFC"))
+    .replace(/&([A-Za-z]+);/g, (x, n) => NAMED[n] ?? " ")
+    .replace(/[\uE000-\uF8FF]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 export function norm(s) {
   return String(s ?? "")
     .normalize("NFD")

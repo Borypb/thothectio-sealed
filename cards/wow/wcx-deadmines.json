@@ -1,0 +1,466 @@
+{
+  "groupId": 93194121,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9312190191,
+      "name": "\"Captain\" Cookie - Level 1",
+      "number": "1",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Murloc Cook",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/deadmines/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9566107401,
+      "name": "\"Captain\" Cookie - Level 2",
+      "number": "2",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Murloc Cook",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/deadmines/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9252420963,
+      "name": "\"Captain\" Cookie - Level 3",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Murloc Cook",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/deadmines/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9958559329,
+      "name": "Vanessa VanCleef",
+      "number": "4",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 10/50 Human Rogue",
+      "artist": "Craig Elliot",
+      "image": "https://www.wowcards.info/scans/deadmines/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9661560298,
+      "name": "Admiral Ripsnarl",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 6/12 Worgen Admiral",
+      "artist": "Brian Despain",
+      "image": "https://www.wowcards.info/scans/deadmines/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9339240706,
+      "name": "Foe Reaper 5000",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 0/10 Mechanical Golem",
+      "artist": "Brian Despain",
+      "image": "https://www.wowcards.info/scans/deadmines/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9023786284,
+      "name": "Glubtok",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 0/12 Ogre Mage",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9384372302,
+      "name": "Helix Gearbreaker",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 6/6 Goblin Rogue",
+      "artist": "Jesper Ejsing",
+      "image": "https://www.wowcards.info/scans/deadmines/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9714968997,
+      "name": "Lumbering Oaf",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 4/8 Hobgoblin Warrior",
+      "artist": "LD Austin",
+      "image": "https://www.wowcards.info/scans/deadmines/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9654497178,
+      "name": "Defias Envoker",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 5/3 Human Mage",
+      "artist": "Ittoku",
+      "image": "https://www.wowcards.info/scans/deadmines/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9025407184,
+      "name": "Defias Pirate",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 4/1 Human Pirate",
+      "artist": "Dan Brereton",
+      "image": "https://www.wowcards.info/scans/deadmines/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9950289395,
+      "name": "Defias Squallshaper",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 3/2 Human Mage",
+      "artist": "Dave McCaig",
+      "image": "https://www.wowcards.info/scans/deadmines/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9772612772,
+      "name": "Defias Watcher",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 5/5 Mechanical Golem",
+      "artist": "Brian Despain",
+      "image": "https://www.wowcards.info/scans/deadmines/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9082630895,
+      "name": "Kobold Digger",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/2 Kobold Miner",
+      "artist": "Dany Orizio",
+      "image": "https://www.wowcards.info/scans/deadmines/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9891330284,
+      "name": "Mine Bunny",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 3/3 Goblin Waitress",
+      "artist": "Sean O'Daniels",
+      "image": "https://www.wowcards.info/scans/deadmines/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9738827575,
+      "name": "Ogre Bodyguard",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/4 Ogre Warrior",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/deadmines/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9120953466,
+      "name": "Vapor",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 4/2 Vapor",
+      "artist": "Ittoku",
+      "image": "https://www.wowcards.info/scans/deadmines/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9898598476,
+      "name": "A Potent Plan",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9338296088,
+      "name": "Biding Her Time",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9796131158,
+      "name": "The Brotherhood Assembles",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9171413686,
+      "name": "Building Her Forces",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9346628238,
+      "name": "The Captain's Command",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9267200861,
+      "name": "The Casualties of War",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9654849199,
+      "name": "Defias to the Core",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9206802260,
+      "name": "The Die Is Cast",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9677919237,
+      "name": "Do or Die",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9839316261,
+      "name": "\"Enjoy Your Fiery Deaths!\"",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9411911405,
+      "name": "Hope Is Lost",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9003996296,
+      "name": "\"I Always Excelled at Poisons ...\"",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9071249770,
+      "name": "\"I'm Taking You All With Me!\"",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/30.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9231720030,
+      "name": "Life ... and Death",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/31.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9321745631,
+      "name": "Marked for Death",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/32.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9377041883,
+      "name": "\"MY FATE IS MY OWN!\"",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/33.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9514449450,
+      "name": "Nightmare Elixir",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/34.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9068473643,
+      "name": "Sneak Attack",
+      "number": "35",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/35.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9385971170,
+      "name": "\"Your Tale Ends Here!\"",
+      "number": "36",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/deadmines/en/36.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9570747165,
+      "name": "Cookie's Cauldron",
+      "number": "37",
+      "rarity": "Common",
+      "type": "Equipment — Item",
+      "artist": "Anton Zemzkov",
+      "image": "https://www.wowcards.info/scans/deadmines/en/37.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9100149646,
+      "name": "Defias Gunpowder",
+      "number": "38",
+      "rarity": "Common",
+      "type": "Equipment — Item",
+      "artist": "Ron Lemen",
+      "image": "https://www.wowcards.info/scans/deadmines/en/38.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9333604361,
+      "name": "Defias Cannon",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Equipment — Item",
+      "artist": "James Ryman",
+      "image": "https://www.wowcards.info/scans/deadmines/en/39.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9359854533,
+      "name": "Cookie's Stirring Stick",
+      "number": "40",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Wand",
+      "artist": "Efrem Palacios",
+      "image": "https://www.wowcards.info/scans/deadmines/en/40.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9846524709,
+      "name": "Deadmine Sweeper",
+      "number": "41",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/41.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9068177611,
+      "name": "Defias on Defias",
+      "number": "42",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/42.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9139394889,
+      "name": "Hell Hath No Fury",
+      "number": "43",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/43.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9634275845,
+      "name": "It's a Sabotage",
+      "number": "44",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/44.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9575557167,
+      "name": "Pile High Club",
+      "number": "45",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/45.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9759884954,
+      "name": "'Tis But a Flesh Wound",
+      "number": "46",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/deadmines/en/46.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

@@ -1,0 +1,4761 @@
+{
+  "groupId": 1102,
+  "cards": [
+    {
+      "id": 47796,
+      "name": "A Fiery Reunion",
+      "number": "212",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47796_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47796/wow-twilight-of-the-dragons-a-fiery-reunion",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/212.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47797,
+      "name": "Abbie Whizzleblade",
+      "number": "105",
+      "rarity": "C",
+      "type": "Ally — 6/4 Gnome Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47797_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47797/wow-twilight-of-the-dragons-abbie-whizzleblade",
+      "cost": "6",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/105.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 47798,
+      "name": "Abysswalker Rakax",
+      "number": "128",
+      "rarity": "U",
+      "type": "Ally — 3/1 Goblin Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47798_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47798/wow-twilight-of-the-dragons-abysswalker-rakax",
+      "cost": "2",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/128.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.18,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47799,
+      "name": "Akirus the Worm-Breaker",
+      "number": "188",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47799_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47799/wow-twilight-of-the-dragons-akirus-the-worm-breaker",
+      "cost": "4",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/188.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.5,
+          "low": 0.99,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 47800,
+      "name": "Alrak Stonecrack",
+      "number": "106",
+      "rarity": "C",
+      "type": "Ally — 4/3 Dwarf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47800/wow-twilight-of-the-dragons-alrak-stonecrack",
+      "cost": "4",
+      "artist": "Brian Despain",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/106.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.15,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 47801,
+      "name": "Amah the Sun's Grace",
+      "number": "11",
+      "rarity": "U",
+      "type": "Hero — Tauren Paladin — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47801_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47801/wow-twilight-of-the-dragons-amah-the-suns-grace",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.69,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 47802,
+      "name": "Amani Dragonhawk",
+      "number": "175",
+      "rarity": "E",
+      "type": "Ally — 8/5 Dragonhawk",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47802_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47802/wow-twilight-of-the-dragons-amani-dragonhawk",
+      "cost": "7",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/175.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.75,
+          "low": 4.49,
+          "mid": 9.75
+        }
+      ]
+    },
+    {
+      "id": 47803,
+      "name": "Amaxi the Cruel",
+      "number": "12",
+      "rarity": "U",
+      "type": "Hero — Goblin Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47803_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47803/wow-twilight-of-the-dragons-amaxi-the-cruel",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 47804,
+      "name": "Anachronos",
+      "number": "169",
+      "rarity": "R",
+      "type": "Ally — 6/5 Bronze Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47804_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47804/wow-twilight-of-the-dragons-anachronos",
+      "cost": "5",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/169.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.81,
+          "mid": 0.81
+        }
+      ]
+    },
+    {
+      "id": 47805,
+      "name": "Arion",
+      "number": "172",
+      "rarity": "R",
+      "type": "Ally — 6/5 Air Elemental Ascendant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47805_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47805/wow-twilight-of-the-dragons-arion",
+      "cost": "6",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/172.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72,
+          "low": 0.25,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 47806,
+      "name": "Arygos",
+      "number": "168",
+      "rarity": "R",
+      "type": "Ally — 2/7 Blue Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47806_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47806/wow-twilight-of-the-dragons-arygos",
+      "cost": "4",
+      "artist": "Benjamin Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/168.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.44,
+          "low": 2.39,
+          "mid": 2.44
+        }
+      ]
+    },
+    {
+      "id": 47807,
+      "name": "Auralyn the Light of Dawn",
+      "number": "1",
+      "rarity": "U",
+      "type": "Hero — Human Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47807_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47807/wow-twilight-of-the-dragons-auralyn-the-light-of-dawn",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/1.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.45,
+          "mid": 1.23
+        }
+      ]
+    },
+    {
+      "id": 47808,
+      "name": "Axe of the Eclipse",
+      "number": "189",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47808_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47808/wow-twilight-of-the-dragons-axe-of-the-eclipse",
+      "cost": "3",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/189.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.23,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 47809,
+      "name": "Azami'tal the Flamebender",
+      "number": "129",
+      "rarity": "R",
+      "type": "Ally — 5/5 Troll Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47809_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47809/wow-twilight-of-the-dragons-azamital-the-flamebender",
+      "cost": "6",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/129.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.83,
+          "low": 0.8,
+          "mid": 0.83
+        }
+      ]
+    },
+    {
+      "id": 47810,
+      "name": "Azizi Daggerflick",
+      "number": "130",
+      "rarity": "C",
+      "type": "Ally — 2/5 Goblin Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47810_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47810/wow-twilight-of-the-dragons-azizi-daggerflick",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/130.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.15,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47811,
+      "name": "Banok Sunrock",
+      "number": "131",
+      "rarity": "C",
+      "type": "Ally — 4/4 Tauren Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47811_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47811/wow-twilight-of-the-dragons-banok-sunrock",
+      "cost": "4",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/131.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47812,
+      "name": "Battle of Life and Death",
+      "number": "205",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47812_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47812/wow-twilight-of-the-dragons-battle-of-life-and-death",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/205.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.3,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 47813,
+      "name": "Battleplate of the Apocalypse",
+      "number": "178",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47813_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47813/wow-twilight-of-the-dragons-battleplate-of-the-apocalypse",
+      "cost": "6",
+      "artist": "Anton Zemskov",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/178.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.2,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47814,
+      "name": "Beacon of Light",
+      "number": "54",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47814/wow-twilight-of-the-dragons-beacon-of-light",
+      "cost": "2",
+      "artist": "Phil Saunders",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/54.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89,
+          "low": 0.89,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 47815,
+      "name": "Black Death",
+      "number": "22",
+      "rarity": "U",
+      "type": "Ability — Unholy Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47815_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47815/wow-twilight-of-the-dragons-black-death",
+      "cost": "2",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/22.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.5,
+          "low": 2.99,
+          "mid": 6.5
+        }
+      ]
+    },
+    {
+      "id": 47816,
+      "name": "Blackout",
+      "number": "206",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47816_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47816/wow-twilight-of-the-dragons-blackout",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/206.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.35,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 47817,
+      "name": "Blade of the Burning Sun",
+      "number": "190",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47817_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47817/wow-twilight-of-the-dragons-blade-of-the-burning-sun",
+      "cost": "4",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/190.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.9,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 47818,
+      "name": "Blade of the Witching Hour",
+      "number": "191",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47818_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47818/wow-twilight-of-the-dragons-blade-of-the-witching-hour",
+      "cost": "4",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/191.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.17,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47819,
+      "name": "Bladesinger Alyssa",
+      "number": "2",
+      "rarity": "U",
+      "type": "Hero — Worgen Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47819_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47819/wow-twilight-of-the-dragons-bladesinger-alyssa",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/2.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.5,
+          "low": 2,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 47820,
+      "name": "Blazing Debris",
+      "number": "46",
+      "rarity": "C",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47820_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47820/wow-twilight-of-the-dragons-blazing-debris",
+      "cost": "5",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/46.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.24,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 47821,
+      "name": "Blessing of Might",
+      "number": "55",
+      "rarity": "U",
+      "type": "Ability — Retribution Blessing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47821_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47821/wow-twilight-of-the-dragons-blessing-of-might",
+      "cost": "2",
+      "artist": "Paul Kwon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/55.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 47822,
+      "name": "Blood Knight Adrenna",
+      "number": "132",
+      "rarity": "U",
+      "type": "Ally — 2/4 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47822_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47822/wow-twilight-of-the-dragons-blood-knight-adrenna",
+      "cost": "3",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/132.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 47823,
+      "name": "Break Steel",
+      "number": "70",
+      "rarity": "C",
+      "type": "Ability — Assassination",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47823/wow-twilight-of-the-dragons-break-steel",
+      "cost": "1",
+      "artist": "Ian Ameling",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/70.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47824,
+      "name": "Brel Blazebeard",
+      "number": "107",
+      "rarity": "C",
+      "type": "Ally — 2/4 Dwarf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47824_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47824/wow-twilight-of-the-dragons-brel-blazebeard",
+      "cost": "4",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/107.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47825,
+      "name": "Burning Winds",
+      "number": "78",
+      "rarity": "R",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47825_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47825/wow-twilight-of-the-dragons-burning-winds",
+      "cost": "3",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/78.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.5,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 47826,
+      "name": "Caelestrasz",
+      "number": "166",
+      "rarity": "R",
+      "type": "Ally — 4/4 Red Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47826_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47826/wow-twilight-of-the-dragons-caelestrasz",
+      "cost": "5",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/166.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47827,
+      "name": "Camouflage",
+      "number": "38",
+      "rarity": "R",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47827_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47827/wow-twilight-of-the-dragons-camouflage",
+      "cost": "4",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/38.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.59,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 47828,
+      "name": "Chandra Marlight",
+      "number": "108",
+      "rarity": "C",
+      "type": "Ally — 1/3 Worgen Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47828_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47828/wow-twilight-of-the-dragons-chandra-marlight",
+      "cost": "2",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/108.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.19,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 47829,
+      "name": "Chaos Bolt",
+      "number": "86",
+      "rarity": "R",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47829_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47829/wow-twilight-of-the-dragons-chaos-bolt",
+      "cost": "2",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/86.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47830,
+      "name": "Chelley's Staff of Dark Mending",
+      "number": "192",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47830/wow-twilight-of-the-dragons-chelleys-staff-of-dark-mending",
+      "cost": "2",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/192.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.31,
+          "low": 1.33,
+          "mid": 1.33
+        }
+      ]
+    },
+    {
+      "id": 47831,
+      "name": "Cho'gall",
+      "number": "174",
+      "rarity": "E",
+      "type": "Ally — 6/8 Ogre Magi Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47831_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47831/wow-twilight-of-the-dragons-chogall",
+      "cost": "9",
+      "artist": "Greg Capullo",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/174.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47832,
+      "name": "Cinder",
+      "number": "39",
+      "rarity": "C",
+      "type": "Ally — 4/2 Dragonhawk",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47832_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47832/wow-twilight-of-the-dragons-cinder",
+      "cost": "2",
+      "artist": "Greg Hildebrandt",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.2,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 47833,
+      "name": "Claws of Torment",
+      "number": "193",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Fist",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47833_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47833/wow-twilight-of-the-dragons-claws-of-torment",
+      "cost": "3",
+      "artist": "Steve Ellis",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/193.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47834,
+      "name": "Cleanse Spirit",
+      "number": "79",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47834_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47834/wow-twilight-of-the-dragons-cleanse-spirit",
+      "cost": "2",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/79.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 47835,
+      "name": "Colossus Smash",
+      "number": "94",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47835/wow-twilight-of-the-dragons-colossus-smash",
+      "cost": "5",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/94.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.5,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 47836,
+      "name": "Commander Molotov",
+      "number": "133",
+      "rarity": "R",
+      "type": "Ally — 3/8 Goblin Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47836/wow-twilight-of-the-dragons-commander-molotov",
+      "cost": "6",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/133.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72,
+          "low": 0.45,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 47837,
+      "name": "Cookie's Stirring Rod",
+      "number": "194",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47837/wow-twilight-of-the-dragons-cookies-stirring-rod",
+      "cost": "3",
+      "artist": "Philip Wang",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/194.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.67,
+          "mid": 0.67
+        }
+      ]
+    },
+    {
+      "id": 47838,
+      "name": "Corrupted Egg Shell",
+      "number": "186",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47838_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47838/wow-twilight-of-the-dragons-corrupted-egg-shell",
+      "cost": "4",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/186.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 47839,
+      "name": "Council of Three Hammers",
+      "number": "103",
+      "rarity": "E",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47839_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47839/wow-twilight-of-the-dragons-council-of-three-hammers",
+      "cost": "9",
+      "artist": "Chris Rahn",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/103.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 5.35
+        }
+      ]
+    },
+    {
+      "id": 47840,
+      "name": "Crul'korak, the Lightning's Arc",
+      "number": "195",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47840/wow-twilight-of-the-dragons-crulkorak-the-lightnings-arc",
+      "cost": "2",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/195.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.76,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 47841,
+      "name": "Dagax the Butcher",
+      "number": "134",
+      "rarity": "R",
+      "type": "Ally — 5/1 Goblin Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47841_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47841/wow-twilight-of-the-dragons-dagax-the-butcher",
+      "cost": "2",
+      "artist": "Ian Ameling",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/134.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12,
+          "low": 12,
+          "mid": 12
+        }
+      ]
+    },
+    {
+      "id": 47842,
+      "name": "Dar'thael the Bloodsworn",
+      "number": "13",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47842_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47842/wow-twilight-of-the-dragons-darthael-the-bloodsworn",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 1.23
+        }
+      ]
+    },
+    {
+      "id": 47843,
+      "name": "Dark Simulacrum",
+      "number": "23",
+      "rarity": "R",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47843/wow-twilight-of-the-dragons-dark-simulacrum",
+      "cost": "4",
+      "artist": "Cole Eastburn",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.59,
+          "low": 1.99,
+          "mid": 2.59
+        }
+      ]
+    },
+    {
+      "id": 47844,
+      "name": "Darklight Torch",
+      "number": "196",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47844/wow-twilight-of-the-dragons-darklight-torch",
+      "cost": "4",
+      "artist": "E.M. Gist",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/196.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 47845,
+      "name": "Darkmoon Card: Hurricane",
+      "number": "187",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47845_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47845/wow-twilight-of-the-dragons-darkmoon-card-hurricane",
+      "cost": "3",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/187.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.55,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 47846,
+      "name": "Deathwing the Destroyer",
+      "number": "21",
+      "rarity": "E",
+      "type": "Master Hero — 0/40 Black Dragonkin Aspect",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47846/wow-twilight-of-the-dragons-deathwing-the-destroyer",
+      "cost": "60",
+      "artist": "Ruan Jia (Volta)",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/21.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47847,
+      "name": "Demonic Corruption",
+      "number": "87",
+      "rarity": "R",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47847_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47847/wow-twilight-of-the-dragons-demonic-corruption",
+      "cost": "3",
+      "artist": "Paul Warzecha",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/87.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 1.8,
+          "mid": 1.81
+        }
+      ]
+    },
+    {
+      "id": 47848,
+      "name": "Demoralizing Strike",
+      "number": "95",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47848_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47848/wow-twilight-of-the-dragons-demoralizing-strike",
+      "cost": "2",
+      "artist": "John Stanko",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/95.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47849,
+      "name": "Deragor the Earthsworn",
+      "number": "3",
+      "rarity": "U",
+      "type": "Hero — Dwarf Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47849_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47849/wow-twilight-of-the-dragons-deragor-the-earthsworn",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/3.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.5,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 47850,
+      "name": "Devoured",
+      "number": "208",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47850_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47850/wow-twilight-of-the-dragons-devoured",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/208.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47851,
+      "name": "Disengage",
+      "number": "40",
+      "rarity": "C",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47851_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47851/wow-twilight-of-the-dragons-disengage",
+      "cost": "1",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/40.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47852,
+      "name": "Double Attack Handguards",
+      "number": "179",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47852_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47852/wow-twilight-of-the-dragons-double-attack-handguards",
+      "cost": "3",
+      "artist": "Rutherford Gong",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/179.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.69,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 47853,
+      "name": "Dragonheart Piercer",
+      "number": "197",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Crossbow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47853_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47853/wow-twilight-of-the-dragons-dragonheart-piercer",
+      "cost": "4",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/197.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.83,
+          "low": 0.2,
+          "mid": 0.83
+        }
+      ]
+    },
+    {
+      "id": 47854,
+      "name": "Dragonslayer Drux",
+      "number": "14",
+      "rarity": "U",
+      "type": "Hero — Goblin Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47854/wow-twilight-of-the-dragons-dragonslayer-drux",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47855,
+      "name": "Earthseer Nakza",
+      "number": "15",
+      "rarity": "U",
+      "type": "Hero — Goblin Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47855/wow-twilight-of-the-dragons-earthseer-nakza",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.36,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 47856,
+      "name": "Elementium Poleaxe",
+      "number": "198",
+      "rarity": "U",
+      "type": "Equipment — 2H Weapon — Polearm",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47856_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47856/wow-twilight-of-the-dragons-elementium-poleaxe",
+      "cost": "5",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/198.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.3,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 47857,
+      "name": "Enter the Dragon Queen",
+      "number": "209",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47857_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47857/wow-twilight-of-the-dragons-enter-the-dragon-queen",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/209.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.26,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47858,
+      "name": "Executioner's Mark",
+      "number": "96",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47858/wow-twilight-of-the-dragons-executioners-mark",
+      "cost": "1",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/96.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.25,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 47859,
+      "name": "Explosive Hunt",
+      "number": "41",
+      "rarity": "U",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47859/wow-twilight-of-the-dragons-explosive-hunt",
+      "cost": "3",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/41.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 47860,
+      "name": "Falixia Frizzleblast",
+      "number": "135",
+      "rarity": "C",
+      "type": "Ally — 4/4 Goblin Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47860_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47860/wow-twilight-of-the-dragons-falixia-frizzleblast",
+      "cost": "5",
+      "artist": "Jeff Haynie",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/135.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47861,
+      "name": "Far from the Nest",
+      "number": "210",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47861/wow-twilight-of-the-dragons-far-from-the-nest",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/210.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47862,
+      "name": "Favor of Mischief",
+      "number": "71",
+      "rarity": "C",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47862_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47862/wow-twilight-of-the-dragons-favor-of-mischief",
+      "cost": "1",
+      "artist": "Anton Zemskov",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/71.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 47863,
+      "name": "Favor of Nature",
+      "number": "30",
+      "rarity": "C",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47863_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47863/wow-twilight-of-the-dragons-favor-of-nature",
+      "cost": "2",
+      "artist": "Stefan Kopinski",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/30.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47864,
+      "name": "Favor of Spirit",
+      "number": "62",
+      "rarity": "C",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47864_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47864/wow-twilight-of-the-dragons-favor-of-spirit",
+      "cost": "1",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/62.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47865,
+      "name": "Favor of Steel",
+      "number": "97",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47865_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47865/wow-twilight-of-the-dragons-favor-of-steel",
+      "cost": "2",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/97.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47866,
+      "name": "Favor of the Arcane",
+      "number": "47",
+      "rarity": "C",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47866/wow-twilight-of-the-dragons-favor-of-the-arcane",
+      "cost": "1",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/47.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47867,
+      "name": "Favor of the Elements",
+      "number": "80",
+      "rarity": "C",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47867_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47867/wow-twilight-of-the-dragons-favor-of-the-elements",
+      "cost": "2",
+      "artist": "Phil Saunders",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/80.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.25,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 47868,
+      "name": "Favor of the Hunt",
+      "number": "42",
+      "rarity": "C",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47868_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47868/wow-twilight-of-the-dragons-favor-of-the-hunt",
+      "cost": "2",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/42.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47869,
+      "name": "Favor of the Light",
+      "number": "56",
+      "rarity": "C",
+      "type": "Ability — Holy Blessing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47869_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47869/wow-twilight-of-the-dragons-favor-of-the-light",
+      "cost": "1",
+      "artist": "Alex Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/56.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.85,
+          "low": 0.19,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 47870,
+      "name": "Favor of the Nether",
+      "number": "88",
+      "rarity": "C",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47870/wow-twilight-of-the-dragons-favor-of-the-nether",
+      "cost": "2",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/88.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 47871,
+      "name": "Favor of Undeath",
+      "number": "24",
+      "rarity": "C",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47871/wow-twilight-of-the-dragons-favor-of-undeath",
+      "cost": "1",
+      "artist": "Arnie Swekel",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 47872,
+      "name": "Fel Immolation",
+      "number": "89",
+      "rarity": "C",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47872_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47872/wow-twilight-of-the-dragons-fel-immolation",
+      "cost": "5",
+      "artist": "Greg Staples",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/89.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.24,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 47873,
+      "name": "Feludius",
+      "number": "171",
+      "rarity": "R",
+      "type": "Ally — 7/4 Water Elemental Ascendant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47873/wow-twilight-of-the-dragons-feludius",
+      "cost": "6",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/171.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.57,
+          "low": 0.68,
+          "mid": 1.57
+        }
+      ]
+    },
+    {
+      "id": 47874,
+      "name": "Fierce Cat Form",
+      "number": "31",
+      "rarity": "U",
+      "type": "Ability — Feral Cat Form",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47874/wow-twilight-of-the-dragons-fierce-cat-form",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/31.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47875,
+      "name": "Fire the Cannon",
+      "number": "211",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47875/wow-twilight-of-the-dragons-fire-the-cannon",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/211.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47876,
+      "name": "Fireball",
+      "number": "48",
+      "rarity": "U",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47876/wow-twilight-of-the-dragons-fireball",
+      "cost": "4",
+      "artist": "Craig Mullins",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/48.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47877,
+      "name": "Flame Keeper Rizzli",
+      "number": "16",
+      "rarity": "U",
+      "type": "Hero — Goblin Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47877/wow-twilight-of-the-dragons-flame-keeper-rizzli",
+      "artist": "Ittoku",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47878,
+      "name": "Flame Orb",
+      "number": "49",
+      "rarity": "R",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47878/wow-twilight-of-the-dragons-flame-orb",
+      "cost": "2",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/49.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.81,
+          "mid": 0.81
+        }
+      ]
+    },
+    {
+      "id": 47879,
+      "name": "Flame Pillar Leggings",
+      "number": "180",
+      "rarity": "C",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47879/wow-twilight-of-the-dragons-flame-pillar-leggings",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/180.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47880,
+      "name": "Flamebringer Gaxix",
+      "number": "136",
+      "rarity": "U",
+      "type": "Ally — 6/5 Goblin Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47880/wow-twilight-of-the-dragons-flamebringer-gaxix",
+      "cost": "6",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/136.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47881,
+      "name": "Flametongue Weapon",
+      "number": "81",
+      "rarity": "U",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47881/wow-twilight-of-the-dragons-flametongue-weapon",
+      "cost": "2",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/81.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47882,
+      "name": "Fool's Gold",
+      "number": "104",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47882/wow-twilight-of-the-dragons-fools-gold",
+      "cost": "3",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/104.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84,
+          "low": 0.73,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 47883,
+      "name": "Frizzle Stumbleshade",
+      "number": "109",
+      "rarity": "C",
+      "type": "Ally — 3/3 Gnome Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47883/wow-twilight-of-the-dragons-frizzle-stumbleshade",
+      "cost": "3",
+      "artist": "Jeff Haynie",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/109.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.4,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47884,
+      "name": "Frozen Core",
+      "number": "25",
+      "rarity": "C",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47884/wow-twilight-of-the-dragons-frozen-core",
+      "cost": "1",
+      "artist": "Anton Zemskov",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.28,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47885,
+      "name": "Frozen Frenzy",
+      "number": "102",
+      "rarity": "E",
+      "type": "Ability — Frost Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47885/wow-twilight-of-the-dragons-frozen-frenzy",
+      "cost": "6",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/102.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.37,
+          "low": 3,
+          "mid": 5.37
+        }
+      ]
+    },
+    {
+      "id": 47886,
+      "name": "Gardos Gravefang",
+      "number": "110",
+      "rarity": "U",
+      "type": "Ally — 2/1 Worgen Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47886/wow-twilight-of-the-dragons-gardos-gravefang",
+      "cost": "1",
+      "artist": "Brian Despain",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/110.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 47887,
+      "name": "Gavin Haverston",
+      "number": "137",
+      "rarity": "C",
+      "type": "Ally — 1/2 Undead Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47887/wow-twilight-of-the-dragons-gavin-haverston",
+      "cost": "1",
+      "artist": "Rick Sardinha",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/137.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47888,
+      "name": "Gerwixicks",
+      "number": "138",
+      "rarity": "C",
+      "type": "Ally — 2/2 Goblin Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47888/wow-twilight-of-the-dragons-gerwixicks",
+      "cost": "2",
+      "artist": "Pete Venters",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/138.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47889,
+      "name": "Glacial Strike",
+      "number": "26",
+      "rarity": "C",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47889/wow-twilight-of-the-dragons-glacial-strike",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47890,
+      "name": "Glaciate",
+      "number": "50",
+      "rarity": "C",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47890/wow-twilight-of-the-dragons-glaciate",
+      "cost": "1",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/50.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 47891,
+      "name": "Gollom Skybang",
+      "number": "139",
+      "rarity": "C",
+      "type": "Ally — 3/2 Goblin Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47891/wow-twilight-of-the-dragons-gollom-skybang",
+      "cost": "2",
+      "artist": "Pete Venters",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/139.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 47892,
+      "name": "Gordash Firetooth",
+      "number": "140",
+      "rarity": "C",
+      "type": "Ally — 9/1 Orc Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47892/wow-twilight-of-the-dragons-gordash-firetooth",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/140.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.15,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 47893,
+      "name": "Guardian of Ancient Kings",
+      "number": "57",
+      "rarity": "R",
+      "type": "Ally — 2/4 Spirit Guardian",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47893/wow-twilight-of-the-dragons-guardian-of-ancient-kings",
+      "cost": "2",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/57.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 47894,
+      "name": "Hammer of Retribution",
+      "number": "58",
+      "rarity": "C",
+      "type": "Ability — Retribution",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47894/wow-twilight-of-the-dragons-hammer-of-retribution",
+      "cost": "2",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/58.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47895,
+      "name": "Hand of Protection",
+      "number": "59",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47895/wow-twilight-of-the-dragons-hand-of-protection",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/59.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.29,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 47896,
+      "name": "Haratha Hammerflame",
+      "number": "111",
+      "rarity": "C",
+      "type": "Ally — 3/2 Dwarf Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47896/wow-twilight-of-the-dragons-haratha-hammerflame",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/111.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.15,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 47897,
+      "name": "Heal",
+      "number": "63",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47897/wow-twilight-of-the-dragons-heal",
+      "cost": "2",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/63.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.35,
+          "low": 2.69,
+          "mid": 6.35
+        }
+      ]
+    },
+    {
+      "id": 47898,
+      "name": "Heroic Leap",
+      "number": "98",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47898/wow-twilight-of-the-dragons-heroic-leap",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/98.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.85,
+          "low": 0.15,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 47899,
+      "name": "High Chieftain Baine Bloodhoof",
+      "number": "141",
+      "rarity": "E",
+      "type": "Ally — 7/7 Tauren High Chieftain",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47899/wow-twilight-of-the-dragons-high-chieftain-baine-bloodhoof",
+      "cost": "7",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/141.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2.99,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 47900,
+      "name": "High Guard Braxx",
+      "number": "142",
+      "rarity": "C",
+      "type": "Ally — 2/5 Goblin Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47900/wow-twilight-of-the-dragons-high-guard-braxx",
+      "cost": "5",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/142.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.15,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47901,
+      "name": "Holy Blaze",
+      "number": "64",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47901/wow-twilight-of-the-dragons-holy-blaze",
+      "cost": "6",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/64.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47902,
+      "name": "Hungering Cold",
+      "number": "27",
+      "rarity": "R",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47902/wow-twilight-of-the-dragons-hungering-cold",
+      "cost": "4",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/27.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47903,
+      "name": "Ignacious",
+      "number": "170",
+      "rarity": "R",
+      "type": "Ally — 5/6 Fire Elemental Ascendant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47903/wow-twilight-of-the-dragons-ignacious",
+      "cost": "6",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/170.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.61,
+          "low": 0.45,
+          "mid": 0.61
+        }
+      ]
+    },
+    {
+      "id": 47904,
+      "name": "Immolation Trap",
+      "number": "43",
+      "rarity": "U",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47904/wow-twilight-of-the-dragons-immolation-trap",
+      "cost": "3",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/43.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.5,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 47905,
+      "name": "Incinerate",
+      "number": "90",
+      "rarity": "U",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47905/wow-twilight-of-the-dragons-incinerate",
+      "cost": "2",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/90.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.5,
+          "low": 0.99,
+          "mid": 7.5
+        }
+      ]
+    },
+    {
+      "id": 47906,
+      "name": "Inferno Totem",
+      "number": "82",
+      "rarity": "U",
+      "type": "Ability Ally — 0/3 Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47906/wow-twilight-of-the-dragons-inferno-totem",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/82.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47907,
+      "name": "Inner Will",
+      "number": "65",
+      "rarity": "R",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47907/wow-twilight-of-the-dragons-inner-will",
+      "cost": "3",
+      "artist": "Gina Whitehall",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/65.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84,
+          "low": 0.78,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 47908,
+      "name": "Jaga'zul the Wild's Fury",
+      "number": "143",
+      "rarity": "R",
+      "type": "Ally — 5/1 Troll Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47908/wow-twilight-of-the-dragons-jagazul-the-wilds-fury",
+      "cost": "4",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/143.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47909,
+      "name": "Jasmia, Nature's Chosen",
+      "number": "4",
+      "rarity": "U",
+      "type": "Hero — Worgen Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47909/wow-twilight-of-the-dragons-jasmia-natures-chosen",
+      "artist": "Chris Rahn",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/4.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 4.99,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 47910,
+      "name": "Javeer",
+      "number": "112",
+      "rarity": "C",
+      "type": "Ally — 1/5 Draenei Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47910/wow-twilight-of-the-dragons-javeer",
+      "cost": "3",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/112.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47911,
+      "name": "Jerrak Krandle",
+      "number": "113",
+      "rarity": "U",
+      "type": "Ally — 3/3 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47911/wow-twilight-of-the-dragons-jerrak-krandle",
+      "cost": "3",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/113.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.19,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 47912,
+      "name": "Jessa the Lifebound",
+      "number": "114",
+      "rarity": "R",
+      "type": "Ally — 5/5 Worgen Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47912/wow-twilight-of-the-dragons-jessa-the-lifebound",
+      "cost": "5",
+      "artist": "Danny Beck",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/114.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.59,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 47913,
+      "name": "Kalan Howland",
+      "number": "115",
+      "rarity": "C",
+      "type": "Ally — 3/2 Worgen Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47913/wow-twilight-of-the-dragons-kalan-howland",
+      "cost": "3",
+      "artist": "E.M. Gist",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/115.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.19,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 47914,
+      "name": "Kavar the Bloodthirsty",
+      "number": "5",
+      "rarity": "U",
+      "type": "Hero — Worgen Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47914/wow-twilight-of-the-dragons-kavar-the-bloodthirsty",
+      "artist": "Greg Capullo",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/5.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47915,
+      "name": "Kelsa Wildfire",
+      "number": "116",
+      "rarity": "C",
+      "type": "Ally — 1/2 Worgen Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47915/wow-twilight-of-the-dragons-kelsa-wildfire",
+      "cost": "1",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/116.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.85,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 47916,
+      "name": "Knight Karia",
+      "number": "117",
+      "rarity": "C",
+      "type": "Ally — 4/1 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47916/wow-twilight-of-the-dragons-knight-karia",
+      "cost": "2",
+      "artist": "Jon McConnell",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/117.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 47917,
+      "name": "Kraxos Chizzlecoin",
+      "number": "144",
+      "rarity": "U",
+      "type": "Ally — 3/5 Goblin Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47917/wow-twilight-of-the-dragons-kraxos-chizzlecoin",
+      "cost": "5",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/144.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47918,
+      "name": "Kyroth Steelspite",
+      "number": "145",
+      "rarity": "C",
+      "type": "Ally — 3/3 Blood Elf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47918/wow-twilight-of-the-dragons-kyroth-steelspite",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/145.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.19,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 47919,
+      "name": "Last of Her Kind",
+      "number": "213",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47919/wow-twilight-of-the-dragons-last-of-her-kind",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/213.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.3,
+          "mid": 1.06
+        }
+      ]
+    },
+    {
+      "id": 47920,
+      "name": "Lava Spine",
+      "number": "199",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47920/wow-twilight-of-the-dragons-lava-spine",
+      "cost": "4",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/199.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.69,
+          "low": 0.25,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 47921,
+      "name": "Living Roots",
+      "number": "32",
+      "rarity": "C",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47921/wow-twilight-of-the-dragons-living-roots",
+      "cost": "1",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/32.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.19,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47922,
+      "name": "Lord Darius Crowley",
+      "number": "118",
+      "rarity": "R",
+      "type": "Ally — 7/4 Worgen Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47922/wow-twilight-of-the-dragons-lord-darius-crowley",
+      "cost": "7",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/118.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.99,
+          "low": 6.99,
+          "mid": 8.94
+        }
+      ]
+    },
+    {
+      "id": 47923,
+      "name": "Lyrana of Eldre'Thalas",
+      "number": "119",
+      "rarity": "R",
+      "type": "Ally — 6/4 Night Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47923/wow-twilight-of-the-dragons-lyrana-of-eldrethalas",
+      "cost": "7",
+      "artist": "Ruan Jia (Volta)",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/119.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.24,
+          "low": 2,
+          "mid": 2.24
+        }
+      ]
+    },
+    {
+      "id": 47924,
+      "name": "Master Marksman",
+      "number": "44",
+      "rarity": "R",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47924/wow-twilight-of-the-dragons-master-marksman",
+      "cost": "2",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/44.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47925,
+      "name": "Maurice Steelson",
+      "number": "120",
+      "rarity": "U",
+      "type": "Ally — 1/4 Worgen Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47925/wow-twilight-of-the-dragons-maurice-steelson",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/120.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47926,
+      "name": "Mercy for the Bound",
+      "number": "215",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47926/wow-twilight-of-the-dragons-mercy-for-the-bound",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/215.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47927,
+      "name": "Merithra",
+      "number": "167",
+      "rarity": "R",
+      "type": "Ally — 4/4 Green Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47927_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47927/wow-twilight-of-the-dragons-merithra",
+      "cost": "4",
+      "artist": "Jeff Easley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/167.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.5,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 47928,
+      "name": "Mind-Numbing Poison",
+      "number": "72",
+      "rarity": "U",
+      "type": "Ability — Poison",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47928_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47928/wow-twilight-of-the-dragons-mind-numbing-poison",
+      "cost": "3",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/72.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47929,
+      "name": "Mr. Goldmine's Wild Ride",
+      "number": "216",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47929_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47929/wow-twilight-of-the-dragons-mr-goldmines-wild-ride",
+      "artist": "Mike Sass",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/216.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47930,
+      "name": "Nag the Twisted",
+      "number": "45",
+      "rarity": "U",
+      "type": "Ally — 6/4 Snake",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47930/wow-twilight-of-the-dragons-nag-the-twisted",
+      "cost": "6",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/45.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.4,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 47931,
+      "name": "Necrotic Strike",
+      "number": "28",
+      "rarity": "U",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47931/wow-twilight-of-the-dragons-necrotic-strike",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/28.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.35,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47932,
+      "name": "Nefarian",
+      "number": "153",
+      "rarity": "R",
+      "type": "Ally — 8/8 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47932/wow-twilight-of-the-dragons-nefarian",
+      "cost": "8",
+      "artist": "Ruan Jia (Volta)",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/153.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 11,
+          "low": 10,
+          "mid": 11
+        }
+      ]
+    },
+    {
+      "id": 47933,
+      "name": "Nightsaber Cub",
+      "number": "176",
+      "rarity": "U",
+      "type": "Ally — 4/2 Cat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47933/wow-twilight-of-the-dragons-nightsaber-cub",
+      "cost": "4",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/176.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 1.63,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 47934,
+      "name": "Nomak the Blazingclaw",
+      "number": "6",
+      "rarity": "U",
+      "type": "Hero — Worgen Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47934/wow-twilight-of-the-dragons-nomak-the-blazingclaw",
+      "artist": "Humberto Ramos & Dave McCcaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/6.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.69,
+          "low": 0.5,
+          "mid": 2.69
+        }
+      ]
+    },
+    {
+      "id": 47935,
+      "name": "Obsidia",
+      "number": "154",
+      "rarity": "R",
+      "type": "Ally — 5/4 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47935/wow-twilight-of-the-dragons-obsidia",
+      "cost": "4",
+      "artist": "Seamus Gallagher",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/154.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.75,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 47936,
+      "name": "Obsidian Drakonid",
+      "number": "155",
+      "rarity": "C",
+      "type": "Ally — 4/3 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47936/wow-twilight-of-the-dragons-obsidian-drakonid",
+      "cost": "4",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/155.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 47937,
+      "name": "Obsidian Drudge",
+      "number": "156",
+      "rarity": "C",
+      "type": "Ally — 3/2 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47937/wow-twilight-of-the-dragons-obsidian-drudge",
+      "cost": "3",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/156.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.27,
+          "mid": 1.14
+        }
+      ]
+    },
+    {
+      "id": 47938,
+      "name": "Obsidian Enforcer",
+      "number": "157",
+      "rarity": "C",
+      "type": "Ally — 4/4 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47938/wow-twilight-of-the-dragons-obsidian-enforcer",
+      "cost": "5",
+      "artist": "Michael Phillippi",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/157.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.25,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 47939,
+      "name": "Obsidian Pyrewing",
+      "number": "158",
+      "rarity": "C",
+      "type": "Ally — 6/4 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47939/wow-twilight-of-the-dragons-obsidian-pyrewing",
+      "cost": "6",
+      "artist": "Seamus Gallagher",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/158.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47940,
+      "name": "Obsidian Skyterror",
+      "number": "159",
+      "rarity": "C",
+      "type": "Ally — 5/3 Black Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47940_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47940/wow-twilight-of-the-dragons-obsidian-skyterror",
+      "cost": "5",
+      "artist": "Lucas Graciano",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/159.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 47941,
+      "name": "Obsidium Executioner",
+      "number": "200",
+      "rarity": "C",
+      "type": "Equipment — 2H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47941/wow-twilight-of-the-dragons-obsidium-executioner",
+      "cost": "5",
+      "artist": "Wei Chen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/200.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47942,
+      "name": "Organic Lifeform Inverter",
+      "number": "201",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47942/wow-twilight-of-the-dragons-organic-lifeform-inverter",
+      "cost": "4",
+      "artist": "Michael Phillippi",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/201.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.55,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 47943,
+      "name": "Polished Helm of Valor",
+      "number": "181",
+      "rarity": "R",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47943/wow-twilight-of-the-dragons-polished-helm-of-valor",
+      "cost": "2",
+      "artist": "Anton Zemskov",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/181.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 4.99,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 47944,
+      "name": "Power Word: Absorb",
+      "number": "66",
+      "rarity": "C",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47944/wow-twilight-of-the-dragons-power-word-absorb",
+      "cost": "3",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/66.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47945,
+      "name": "Power Word: Barrier",
+      "number": "67",
+      "rarity": "R",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47945/wow-twilight-of-the-dragons-power-word-barrier",
+      "cost": "1",
+      "artist": "Mike Sass",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/67.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.75,
+          "low": 1.5,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 47946,
+      "name": "Primal Strike",
+      "number": "83",
+      "rarity": "C",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47946/wow-twilight-of-the-dragons-primal-strike",
+      "cost": "1",
+      "artist": "Steve Ellis",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/83.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.25,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 47947,
+      "name": "Prince Anduin Wrynn",
+      "number": "121",
+      "rarity": "E",
+      "type": "Ally — 2/5 Human Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47947/wow-twilight-of-the-dragons-prince-anduin-wrynn",
+      "cost": "7",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/121.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47948,
+      "name": "Proto-Handler's Gauntlets",
+      "number": "182",
+      "rarity": "C",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47948/wow-twilight-of-the-dragons-proto-handlers-gauntlets",
+      "cost": "2",
+      "artist": "Eric Deschamps",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/182.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47949,
+      "name": "Psychic Melt",
+      "number": "68",
+      "rarity": "C",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47949/wow-twilight-of-the-dragons-psychic-melt",
+      "cost": "4",
+      "artist": "Stefan Kopinski",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/68.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.15,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 47950,
+      "name": "Pyromaniac",
+      "number": "51",
+      "rarity": "R",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47950/wow-twilight-of-the-dragons-pyromaniac",
+      "cost": "10",
+      "artist": "Grace Liu",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/51.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 47951,
+      "name": "Rakala Deathsmash",
+      "number": "146",
+      "rarity": "C",
+      "type": "Ally — 4/2 Orc Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47951/wow-twilight-of-the-dragons-rakala-deathsmash",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/146.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47952,
+      "name": "Rebirth",
+      "number": "33",
+      "rarity": "U",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47952/wow-twilight-of-the-dragons-rebirth",
+      "cost": "5",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/33.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.32,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47953,
+      "name": "Revealing Strike",
+      "number": "73",
+      "rarity": "R",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47953_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47953/wow-twilight-of-the-dragons-revealing-strike",
+      "cost": "3",
+      "artist": "Jonboy Meyers & Tony Washington",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/73.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.65,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 47954,
+      "name": "Ring of Frost",
+      "number": "52",
+      "rarity": "U",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47954_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47954/wow-twilight-of-the-dragons-ring-of-frost",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/52.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.8,
+          "low": 0.69,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 47955,
+      "name": "Riptide",
+      "number": "84",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47955_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47955/wow-twilight-of-the-dragons-riptide",
+      "cost": "2",
+      "artist": "Paul Mafayon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/84.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 3,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 47956,
+      "name": "Roger Ulric",
+      "number": "122",
+      "rarity": "C",
+      "type": "Ally — 6/4 Worgen Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47956_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47956/wow-twilight-of-the-dragons-roger-ulric",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/122.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.29,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47957,
+      "name": "Sahama Brighthorn",
+      "number": "147",
+      "rarity": "C",
+      "type": "Ally — 4/3 Tauren Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47957_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47957/wow-twilight-of-the-dragons-sahama-brighthorn",
+      "cost": "4",
+      "artist": "Paul Mafayon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/147.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 47958,
+      "name": "Samael the Bloodpoint",
+      "number": "17",
+      "rarity": "U",
+      "type": "Hero — Undead Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47958/wow-twilight-of-the-dragons-samael-the-bloodpoint",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.3,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 47959,
+      "name": "Selora",
+      "number": "91",
+      "rarity": "C",
+      "type": "Ally — 2/2 Succubus Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47959/wow-twilight-of-the-dragons-selora",
+      "cost": "2",
+      "artist": "Luke Mancini",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/91.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.59,
+          "low": 1.59,
+          "mid": 5.8
+        }
+      ]
+    },
+    {
+      "id": 47960,
+      "name": "Shade Emissary Vaxxod",
+      "number": "148",
+      "rarity": "U",
+      "type": "Ally — 5/7 Goblin Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47960/wow-twilight-of-the-dragons-shade-emissary-vaxxod",
+      "cost": "7",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/148.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47961,
+      "name": "Shalug'doom, the Axe of Unmaking",
+      "number": "202",
+      "rarity": "E",
+      "type": "Equipment — 2H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47961/wow-twilight-of-the-dragons-shalugdoom-the-axe-of-unmaking",
+      "cost": "0",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/202.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8,
+          "low": 8,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 47962,
+      "name": "Shockwave",
+      "number": "99",
+      "rarity": "R",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47962/wow-twilight-of-the-dragons-shockwave",
+      "cost": "2",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/99.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.85,
+          "low": 0.29,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47963,
+      "name": "Sinestra",
+      "number": "160",
+      "rarity": "R",
+      "type": "Ally — 4/3 Black Dragonkin Consort",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47963/wow-twilight-of-the-dragons-sinestra",
+      "cost": "6",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/160.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 4.99,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 47964,
+      "name": "Slam",
+      "number": "100",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47964_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47964/wow-twilight-of-the-dragons-slam",
+      "cost": "3",
+      "artist": "Michael Phillippi",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/100.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47965,
+      "name": "Smoke Bomb",
+      "number": "74",
+      "rarity": "R",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47965/wow-twilight-of-the-dragons-smoke-bomb",
+      "cost": "4",
+      "artist": "Wie Chen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/74.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.7,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 47966,
+      "name": "Soul-Eater Morgania",
+      "number": "7",
+      "rarity": "U",
+      "type": "Hero — Worgen Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47966/wow-twilight-of-the-dragons-soul-eater-morgania",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/7.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 47967,
+      "name": "Stacia Markton",
+      "number": "123",
+      "rarity": "U",
+      "type": "Ally — 5/1 Human Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47967_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47967/wow-twilight-of-the-dragons-stacia-markton",
+      "cost": "5",
+      "artist": "Mishi McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/123.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 47968,
+      "name": "Stained Shadowcraft Cap",
+      "number": "183",
+      "rarity": "R",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47968/wow-twilight-of-the-dragons-stained-shadowcraft-cap",
+      "cost": "1",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/183.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78,
+          "low": 0.75,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 47969,
+      "name": "Stargazer Ronal",
+      "number": "124",
+      "rarity": "C",
+      "type": "Ally — 4/4 Worgen Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47969_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47969/wow-twilight-of-the-dragons-stargazer-ronal",
+      "cost": "4",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/124.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 47970,
+      "name": "Sumi'jin, Guardian of Cenarius",
+      "number": "18",
+      "rarity": "U",
+      "type": "Hero — Troll Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47970_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47970/wow-twilight-of-the-dragons-sumijin-guardian-of-cenarius",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.2,
+          "low": 0.4,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 47971,
+      "name": "Suncaller Haruh",
+      "number": "19",
+      "rarity": "U",
+      "type": "Hero — Tauren Priest — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47971_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47971/wow-twilight-of-the-dragons-suncaller-haruh",
+      "artist": "Chris Rahn",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.4,
+          "mid": 0.57
+        }
+      ]
+    },
+    {
+      "id": 47972,
+      "name": "Swindle",
+      "number": "75",
+      "rarity": "U",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47972/wow-twilight-of-the-dragons-swindle",
+      "cost": "1",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/75.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47973,
+      "name": "Tania Falan",
+      "number": "125",
+      "rarity": "U",
+      "type": "Ally — 2/3 Worgen Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47973/wow-twilight-of-the-dragons-tania-falan",
+      "cost": "2",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/125.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.69,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47974,
+      "name": "Tarnished Raging Berserker's Helm",
+      "number": "184",
+      "rarity": "R",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47974/wow-twilight-of-the-dragons-tarnished-raging-berserkers-helm",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/184.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 47975,
+      "name": "Tattered Dreadmist Mask",
+      "number": "185",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47975_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47975/wow-twilight-of-the-dragons-tattered-dreadmist-mask",
+      "cost": "1",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/185.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 2.49,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 47976,
+      "name": "Tears of Aessina",
+      "number": "34",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47976/wow-twilight-of-the-dragons-tears-of-aessina",
+      "cost": "1",
+      "artist": "Anton Zemskov",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47977,
+      "name": "Terrastra",
+      "number": "173",
+      "rarity": "R",
+      "type": "Ally — 3/9 Earth Elemental Ascendant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47977/wow-twilight-of-the-dragons-terrastra",
+      "cost": "6",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/173.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.49,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 47978,
+      "name": "The Crucible of Carnage: The Twilight Terror",
+      "number": "207",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47978/wow-twilight-of-the-dragons-the-crucible-of-carnage-the-twilight-terror",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/207.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 47979,
+      "name": "The Maw of Iso'rath",
+      "number": "214",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47979/wow-twilight-of-the-dragons-the-maw-of-isorath",
+      "artist": "Richard Wright",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/214.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.24,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 47980,
+      "name": "The Worldbreaker",
+      "number": "219",
+      "rarity": "R",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47980/wow-twilight-of-the-dragons-the-worldbreaker",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/219.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 47981,
+      "name": "Thrall, Guardian of the Elements",
+      "number": "177",
+      "rarity": "E",
+      "type": "Ally — 6/6 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47981/wow-twilight-of-the-dragons-thrall-guardian-of-the-elements",
+      "cost": "8",
+      "artist": "Wie Chen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/177.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19,
+          "low": 18,
+          "mid": 19
+        }
+      ]
+    },
+    {
+      "id": 47982,
+      "name": "Trilik the Light's Spark",
+      "number": "8",
+      "rarity": "U",
+      "type": "Hero — Gnome Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47982/wow-twilight-of-the-dragons-trilik-the-lights-spark",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/8.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 47983,
+      "name": "Twilight Citadel",
+      "number": "220",
+      "rarity": "R",
+      "type": "Location",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47983/wow-twilight-of-the-dragons-twilight-citadel",
+      "artist": "Craig Mullins",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/220.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 47984,
+      "name": "Twilight Corruptor",
+      "number": "161",
+      "rarity": "U",
+      "type": "Ally — 2/1 Twilight Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47984/wow-twilight-of-the-dragons-twilight-corruptor",
+      "cost": "5",
+      "artist": "Kev Walker",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/161.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.2,
+          "low": 0.5,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 47985,
+      "name": "Twilight Drake",
+      "number": "162",
+      "rarity": "U",
+      "type": "Ally — 3/5 Twilight Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47985/wow-twilight-of-the-dragons-twilight-drake",
+      "cost": "4",
+      "artist": "Jaemin Kim",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/162.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 47986,
+      "name": "Twilight Emissary",
+      "number": "163",
+      "rarity": "U",
+      "type": "Ally — 4/4 Twilight Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47986/wow-twilight-of-the-dragons-twilight-emissary",
+      "cost": "4",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/163.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.69,
+          "low": 3.69,
+          "mid": 6.85
+        }
+      ]
+    },
+    {
+      "id": 47987,
+      "name": "Twilight Extermination",
+      "number": "217",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47987/wow-twilight-of-the-dragons-twilight-extermination",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/217.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 47988,
+      "name": "Twilight Shadowdrake",
+      "number": "164",
+      "rarity": "U",
+      "type": "Ally — 4/1 Twilight Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47988/wow-twilight-of-the-dragons-twilight-shadowdrake",
+      "cost": "3",
+      "artist": "Jaemin Kim",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/164.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 47989,
+      "name": "Twilight Wyrmkiller",
+      "number": "165",
+      "rarity": "U",
+      "type": "Ally — 6/3 Twilight Dragonkin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47989/wow-twilight-of-the-dragons-twilight-wyrmkiller",
+      "cost": "6",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/165.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.59,
+          "low": 1.82,
+          "mid": 3.59
+        }
+      ]
+    },
+    {
+      "id": 47990,
+      "name": "Twilight's Hammer",
+      "number": "203",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47990/wow-twilight-of-the-dragons-twilights-hammer",
+      "cost": "7",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/203.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.5,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 47991,
+      "name": "Twisted Arcana",
+      "number": "53",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47991/wow-twilight-of-the-dragons-twisted-arcana",
+      "cost": "1",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/53.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 47992,
+      "name": "Twisted Death Pact",
+      "number": "29",
+      "rarity": "U",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47992/wow-twilight-of-the-dragons-twisted-death-pact",
+      "cost": "2",
+      "artist": "Chris Seaman",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/29.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.2,
+          "low": 2.39,
+          "mid": 6.2
+        }
+      ]
+    },
+    {
+      "id": 47993,
+      "name": "Twisted Fire Nova",
+      "number": "85",
+      "rarity": "U",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47993/wow-twilight-of-the-dragons-twisted-fire-nova",
+      "cost": "5",
+      "artist": "Eric Deschamps",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/85.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.69,
+          "low": 0.15,
+          "mid": 3.69
+        }
+      ]
+    },
+    {
+      "id": 47994,
+      "name": "Twisted Infernal",
+      "number": "92",
+      "rarity": "U",
+      "type": "Ally — 8/8 Infernal Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47994/wow-twilight-of-the-dragons-twisted-infernal",
+      "cost": "7",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/92.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 0.26,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 47995,
+      "name": "Twisted Light",
+      "number": "60",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47995/wow-twilight-of-the-dragons-twisted-light",
+      "cost": "2",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/60.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.19,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 47996,
+      "name": "Twisted Massacre",
+      "number": "76",
+      "rarity": "U",
+      "type": "Ability — Assassination",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47996/wow-twilight-of-the-dragons-twisted-massacre",
+      "cost": "5",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/76.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.2,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 47997,
+      "name": "Twisted Mind Spike",
+      "number": "69",
+      "rarity": "U",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47997/wow-twilight-of-the-dragons-twisted-mind-spike",
+      "cost": "1",
+      "artist": "Cole Eastburn",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/69.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47998,
+      "name": "Twisted Rampage",
+      "number": "101",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47998_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47998/wow-twilight-of-the-dragons-twisted-rampage",
+      "cost": "3",
+      "artist": "Chris Seaman",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/101.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 47999,
+      "name": "Twisted Wrath",
+      "number": "35",
+      "rarity": "U",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/47999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/47999/wow-twilight-of-the-dragons-twisted-wrath",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/35.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.2,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 48000,
+      "name": "Unbinding",
+      "number": "218",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48000/wow-twilight-of-the-dragons-unbinding",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/218.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.23,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 48001,
+      "name": "Vad of the Four Winds",
+      "number": "9",
+      "rarity": "U",
+      "type": "Hero — Worgen Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48001_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48001/wow-twilight-of-the-dragons-vad-of-the-four-winds",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/9.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.5,
+          "mid": 0.73
+        }
+      ]
+    },
+    {
+      "id": 48002,
+      "name": "Vakus the Inferno",
+      "number": "126",
+      "rarity": "R",
+      "type": "Ally — 4/1 Worgen Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48002_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48002/wow-twilight-of-the-dragons-vakus-the-inferno",
+      "cost": "1",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/126.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.25,
+          "low": 1.49,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 48003,
+      "name": "Vicious Strike",
+      "number": "77",
+      "rarity": "C",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48003_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48003/wow-twilight-of-the-dragons-vicious-strike",
+      "cost": "1",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/77.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.24,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 48004,
+      "name": "Void Rip",
+      "number": "93",
+      "rarity": "U",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48004_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48004/wow-twilight-of-the-dragons-void-rip",
+      "cost": "4",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/93.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 48005,
+      "name": "Volatile Thunderstick",
+      "number": "204",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Gun",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48005/wow-twilight-of-the-dragons-volatile-thunderstick",
+      "cost": "4",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/204.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.24,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 48006,
+      "name": "Warchief Garrosh Hellscream",
+      "number": "149",
+      "rarity": "E",
+      "type": "Ally — 6/3 Orc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48006_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48006/wow-twilight-of-the-dragons-warchief-garrosh-hellscream",
+      "cost": "4",
+      "artist": "Greg Capullo",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/149.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 18,
+          "low": 18,
+          "mid": 18
+        }
+      ]
+    },
+    {
+      "id": 48007,
+      "name": "Wild Growth",
+      "number": "36",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48007_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48007/wow-twilight-of-the-dragons-wild-growth",
+      "cost": "1",
+      "artist": "Wie Chen",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7,
+          "low": 7,
+          "mid": 7
+        }
+      ]
+    },
+    {
+      "id": 48008,
+      "name": "Wild Mushroom",
+      "number": "37",
+      "rarity": "R",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48008_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48008/wow-twilight-of-the-dragons-wild-mushroom",
+      "cost": "3",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.5,
+          "low": 9,
+          "mid": 9.5
+        }
+      ]
+    },
+    {
+      "id": 48009,
+      "name": "Wildweaver Masa'zun",
+      "number": "150",
+      "rarity": "C",
+      "type": "Ally — 4/6 Troll Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48009_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48009/wow-twilight-of-the-dragons-wildweaver-masazun",
+      "cost": "6",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/150.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.2,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 48010,
+      "name": "Windspeaker Nuvu",
+      "number": "127",
+      "rarity": "C",
+      "type": "Ally — 1/2 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48010/wow-twilight-of-the-dragons-windspeaker-nuvu",
+      "cost": "1",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/127.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 48011,
+      "name": "Word of Glory",
+      "number": "61",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48011_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48011/wow-twilight-of-the-dragons-word-of-glory",
+      "cost": "3",
+      "artist": "Ittoku",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/61.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.69,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 48012,
+      "name": "Yazli Earthspark",
+      "number": "151",
+      "rarity": "C",
+      "type": "Ally — 2/2 Goblin Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48012/wow-twilight-of-the-dragons-yazli-earthspark",
+      "cost": "2",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/151.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 48013,
+      "name": "Zane the Sniper",
+      "number": "10",
+      "rarity": "U",
+      "type": "Hero — Human Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48013_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48013/wow-twilight-of-the-dragons-zane-the-sniper",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/10.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.65,
+          "low": 1.75,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 48014,
+      "name": "Zazel the Greedy",
+      "number": "20",
+      "rarity": "U",
+      "type": "Hero — Goblin Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48014_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48014/wow-twilight-of-the-dragons-zazel-the-greedy",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/20.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 0.49,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 48015,
+      "name": "Zor'dul Deathbinder",
+      "number": "152",
+      "rarity": "C",
+      "type": "Ally — 0/1 Orc Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/48015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/48015/wow-twilight-of-the-dragons-zordul-deathbinder",
+      "cost": "1",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/twilight/en/152.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.19,
+          "mid": 0.49
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

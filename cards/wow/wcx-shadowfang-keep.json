@@ -1,0 +1,466 @@
+{
+  "groupId": 97468816,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9901768525,
+      "name": "Lord Godfrey - Level 1",
+      "number": "1",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Undead Lord",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9698191553,
+      "name": "Lord Godfrey - Level 2",
+      "number": "2",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Undead Lord",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9307219536,
+      "name": "Lord Godfrey - Level 3",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Undead Lord",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9526492311,
+      "name": "Lord Godfrey - Level 4",
+      "number": "4",
+      "rarity": "Rare",
+      "type": "Dungeon Hero — 0/50 Undead Lord",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9712700174,
+      "name": "Baron Ashbury",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/15 Undead Priest",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9012018950,
+      "name": "Baron Silverlaine",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 1/16 Spirit Priest",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9355457908,
+      "name": "Commander Springvale",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/14 Spirit Paladin",
+      "artist": "Steve Tappin",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9314220939,
+      "name": "Lord Walden",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 3/11 Undead Mage",
+      "artist": "Michal Ivan",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9818051202,
+      "name": "Bloodfang Berserker",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/8 Worgen Warrior",
+      "artist": "Ralph Horsley",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9719589608,
+      "name": "Bloodthirsty Ghoul",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 8/4 Ghoul",
+      "artist": "Seamus Gallagher",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9516680355,
+      "name": "Haunting Spirit",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 6/6 Spirit",
+      "artist": "Alex Garner",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9803060939,
+      "name": "Lupine Spectre",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 4/4 Ghost Wolf",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9582087718,
+      "name": "Mindless Horror",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 10/10 Horror",
+      "artist": "E.M. Gist",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9906063134,
+      "name": "Odo the Blindwatcher",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 3/10 Worgen Spirit",
+      "artist": "Daarken",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9247506825,
+      "name": "Razorclaw the Butcher",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 10/3 Worgen Spirit",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9206418294,
+      "name": "Spitebone Guardian",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Dungeon Ally — 2/3 Skeleton",
+      "artist": "Daarken",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9858124858,
+      "name": "Bleed Them Dry",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9131861482,
+      "name": "Calamity",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9328640073,
+      "name": "Cursed Bullets",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9029445828,
+      "name": "Dangerous Gambit",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9054434080,
+      "name": "Dark Archangel Form",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9098030472,
+      "name": "Dark Confusion",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9882062520,
+      "name": "Dark Influence",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9358540687,
+      "name": "Gargoyles",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9829185010,
+      "name": "Heroic Sacrifice",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9095023539,
+      "name": "\"Intruders in the Keep! To Arms!\"",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9580408694,
+      "name": "Kill Them All",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9535573458,
+      "name": "\"Our Vigilance Is Eternal ...\"",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9697062953,
+      "name": "Pain and Suffering",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9011501083,
+      "name": "Pistol Barrage",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/30.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9812440745,
+      "name": "Protect Lord Godfrey!",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/31.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9557115835,
+      "name": "Stay of Execution",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/32.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9929238109,
+      "name": "Sudden Attack",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/33.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9134590408,
+      "name": "Toxic Coagulant",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/34.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9430632535,
+      "name": "Word of Shame",
+      "number": "35",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/35.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9050130254,
+      "name": "\"Your Journey Ends in Agony!\"",
+      "number": "36",
+      "rarity": "Common",
+      "type": "Dungeon Ability",
+      "artist": "Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/36.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9333094536,
+      "name": "Godfrey's Belt",
+      "number": "37",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Leather",
+      "artist": "Chris Seaman",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/37.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9569975303,
+      "name": "Godfrey's Britches",
+      "number": "38",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Cloth",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/38.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9020548833,
+      "name": "Godfrey's Crystal Scope",
+      "number": "39",
+      "rarity": "Common",
+      "type": "Equipment — Item",
+      "artist": "Eric Deschamps",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/39.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9995951587,
+      "name": "Godfrey's Pistols",
+      "number": "40",
+      "rarity": "Common",
+      "type": "Equipment — Ranged Weapon — Guns",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/40.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9897027717,
+      "name": "Be Vewy Vewy Quiet!",
+      "number": "41",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/41.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9795527802,
+      "name": "Completion Machine",
+      "number": "42",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/42.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9185326641,
+      "name": "Haunted Keep",
+      "number": "43",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/43.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9974913390,
+      "name": "Not a Scratch on Me!",
+      "number": "44",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/44.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9256976945,
+      "name": "Pantsing",
+      "number": "45",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/45.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9139456317,
+      "name": "Pro Move",
+      "number": "46",
+      "rarity": "Common",
+      "type": "Achievement",
+      "artist": "n/a",
+      "image": "https://www.wowcards.info/scans/shadowfang-keep/en/46.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

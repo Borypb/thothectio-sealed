@@ -1,0 +1,594 @@
+{
+  "groupId": 1075,
+  "cards": [
+    {
+      "id": 32293,
+      "name": "Randolphe Mortimer",
+      "number": "1",
+      "rarity": "U",
+      "type": "Hero — Human Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32293/wow-death-knight-starter-randolphe-mortimer",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/1.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.49,
+          "low": 3.99,
+          "mid": 4.49
+        }
+      ]
+    },
+    {
+      "id": 32294,
+      "name": "Saeryn Dusksorrow",
+      "number": "2",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32294/wow-death-knight-starter-saeryn-dusksorrow",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/2.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.49,
+          "low": 3.99,
+          "mid": 4.49
+        }
+      ]
+    },
+    {
+      "id": 32295,
+      "name": "Blood Boil",
+      "number": "3",
+      "rarity": "U",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32295/wow-death-knight-starter-blood-boil",
+      "cost": "2",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/3.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.53,
+          "low": 0.25,
+          "mid": 3.53
+        }
+      ]
+    },
+    {
+      "id": 32296,
+      "name": "Blood Presence",
+      "number": "4",
+      "rarity": "U",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32296/wow-death-knight-starter-blood-presence",
+      "cost": "4",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/4.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.25,
+          "low": 1.49,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 32297,
+      "name": "Blood Strike",
+      "number": "5",
+      "rarity": "U",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32297/wow-death-knight-starter-blood-strike",
+      "cost": "1",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/5.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.25,
+          "low": 2.14,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 32298,
+      "name": "Death Coil",
+      "number": "6",
+      "rarity": "U",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32298/wow-death-knight-starter-death-coil",
+      "cost": "3",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/6.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 32299,
+      "name": "Death Grip",
+      "number": "7",
+      "rarity": "U",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32299/wow-death-knight-starter-death-grip",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/7.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.12,
+          "low": 0.25,
+          "mid": 2.12
+        }
+      ]
+    },
+    {
+      "id": 32300,
+      "name": "Frost Presence",
+      "number": "8",
+      "rarity": "U",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32300/wow-death-knight-starter-frost-presence",
+      "cost": "5",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/8.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.5,
+          "low": 3.37,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 32301,
+      "name": "Icy Touch",
+      "number": "9",
+      "rarity": "U",
+      "type": "Ability — Frost Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32301/wow-death-knight-starter-icy-touch",
+      "cost": "3",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/9.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 2,
+          "mid": 2.63
+        }
+      ]
+    },
+    {
+      "id": 32302,
+      "name": "Mind Freeze",
+      "number": "10",
+      "rarity": "U",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32302/wow-death-knight-starter-mind-freeze",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/10.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.48,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 32303,
+      "name": "Plague Strike",
+      "number": "11",
+      "rarity": "U",
+      "type": "Ability — Unholy Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32303/wow-death-knight-starter-plague-strike",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.25,
+          "low": 3.25,
+          "mid": 3.25
+        }
+      ]
+    },
+    {
+      "id": 32304,
+      "name": "Raise Dead",
+      "number": "12",
+      "rarity": "R",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32304/wow-death-knight-starter-raise-dead",
+      "cost": "4",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 32305,
+      "name": "Ahkara",
+      "number": "13",
+      "rarity": "C",
+      "type": "Ally — 3/3 Draenei Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32305/wow-death-knight-starter-ahkara",
+      "cost": "5",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 32306,
+      "name": "Brumdor Dreadforge",
+      "number": "14",
+      "rarity": "C",
+      "type": "Ally — 3/4 Dwarf Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32306/wow-death-knight-starter-brumdor-dreadforge",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.74,
+          "low": 0.05,
+          "mid": 1.74
+        }
+      ]
+    },
+    {
+      "id": 32307,
+      "name": "Valeos Chillheart",
+      "number": "15",
+      "rarity": "C",
+      "type": "Ally — 2/4 Night Elf Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32307/wow-death-knight-starter-valeos-chillheart",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 32308,
+      "name": "Wanda Darkfizz",
+      "number": "16",
+      "rarity": "C",
+      "type": "Ally — 2/1 Gnome Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32308/wow-death-knight-starter-wanda-darkfizz",
+      "cost": "1",
+      "artist": "Eric Browning",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 32309,
+      "name": "Grogmar Deathgore",
+      "number": "17",
+      "rarity": "C",
+      "type": "Ally — 2/2 Orc Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32309/wow-death-knight-starter-grogmar-deathgore",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.48,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 32310,
+      "name": "Rantuko Grimtouch",
+      "number": "18",
+      "rarity": "C",
+      "type": "Ally — 1/2 Tauren Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32310/wow-death-knight-starter-rantuko-grimtouch",
+      "cost": "1",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.6,
+          "mid": 1.74
+        }
+      ]
+    },
+    {
+      "id": 32311,
+      "name": "Tal'zin",
+      "number": "19",
+      "rarity": "C",
+      "type": "Ally — 4/3 Troll Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32311/wow-death-knight-starter-talzin",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.29,
+          "low": 0.5,
+          "mid": 2.29
+        }
+      ]
+    },
+    {
+      "id": 32312,
+      "name": "Vanessa Fairgraves",
+      "number": "20",
+      "rarity": "C",
+      "type": "Ally — 3/3 Undead Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32312/wow-death-knight-starter-vanessa-fairgraves",
+      "cost": "3",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/20.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.99,
+          "mid": 1.33
+        }
+      ]
+    },
+    {
+      "id": 32313,
+      "name": "Greathelm of the Scourge Champion",
+      "number": "21",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32313/wow-death-knight-starter-greathelm-of-the-scourge-champion",
+      "cost": "2",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/21.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.67,
+          "low": 1.99,
+          "mid": 2.67
+        }
+      ]
+    },
+    {
+      "id": 32314,
+      "name": "Greatsword of the Ebon Blade",
+      "number": "22",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32314/wow-death-knight-starter-greatsword-of-the-ebon-blade",
+      "cost": "2",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/22.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89,
+          "low": 0.4,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 32315,
+      "name": "Runed Soulblade",
+      "number": "23",
+      "rarity": "U",
+      "type": "Equipment — 2H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32315/wow-death-knight-starter-runed-soulblade",
+      "cost": "4",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 32316,
+      "name": "Betrayal",
+      "number": "24",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32316/wow-death-knight-starter-betrayal",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 32317,
+      "name": "Darkness Calling",
+      "number": "25",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32317/wow-death-knight-starter-darkness-calling",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 32318,
+      "name": "Hazardous Materials",
+      "number": "26",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32318/wow-death-knight-starter-hazardous-materials",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.25,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 32319,
+      "name": "Ghoul",
+      "number": "27",
+      "rarity": "C",
+      "type": "Ally Token — 3/3 Ghoul",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/32319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/32319/wow-death-knight-starter-ghoul",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/knight/en/27.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.74,
+          "low": 2.1,
+          "mid": 2.74
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

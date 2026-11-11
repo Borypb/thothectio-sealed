@@ -1,0 +1,340 @@
+{
+  "groupId": 91001821,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9208427710,
+      "name": "Frizlix of Kezan",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Goblin Rogue — 27",
+      "artist": "Nate Bowden",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9683579508,
+      "name": "Adrenaline Rush",
+      "number": "2",
+      "rarity": "Rare",
+      "type": "Ability — Combat",
+      "cost": "7",
+      "artist": "Ron Spencer",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9124191537,
+      "name": "Aggressive Exploitation",
+      "number": "3",
+      "rarity": "Common",
+      "type": "Ability — Assassination",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9877616895,
+      "name": "Carnage",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Ability — Assassination Combo",
+      "cost": "5",
+      "artist": "Peet Cooper",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9997930651,
+      "name": "Deadly Poison",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Ability — Poison",
+      "cost": "1",
+      "artist": "Trevor Jacobs",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9262569953,
+      "name": "Dismantle",
+      "number": "6",
+      "rarity": "Uncommon",
+      "type": "Ability — Combat",
+      "cost": "2",
+      "artist": "Ariel Olivetti",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9710571078,
+      "name": "Distract",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Subtlety",
+      "cost": "3",
+      "artist": "Mark Evans",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9588760252,
+      "name": "Fan of Knives",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Ability — Combat",
+      "cost": "3",
+      "artist": "Andrew Robinson",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9031298947,
+      "name": "Gouge",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Ability — Combat Combo",
+      "cost": "1",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9873887409,
+      "name": "Infiltrate",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ability — Subtlety",
+      "cost": "2",
+      "artist": "Ron Lemen",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9326292002,
+      "name": "Prey on the Weak",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ability — Assassination",
+      "cost": "2",
+      "artist": "Adam Denton",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9342837087,
+      "name": "Sinister Strike",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ability — Combat Combo",
+      "cost": "2",
+      "artist": "Frank Cho",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9293363682,
+      "name": "Bloodblade",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 5/5 Orc Rogue",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9632438212,
+      "name": "Captain Swash",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 1/1 Orc Rogue",
+      "cost": "1",
+      "artist": "Randy Gallegos",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9301643115,
+      "name": "Drizzie Steelslam",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 3/5 Goblin Warrior",
+      "cost": "5",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9265548005,
+      "name": "Firewarden Wyland Kaslinth",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Blood Elf Mage",
+      "cost": "1",
+      "artist": "Phroilan Gardner",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9553159649,
+      "name": "Kozik Skullcracker",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Orc Rogue",
+      "cost": "1",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9456667722,
+      "name": "Lu'ka the Wall",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 6/5 Troll Warrior",
+      "cost": "6",
+      "artist": "Wayne Reynolds",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9291048599,
+      "name": "Oruk Starstorm",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 4/3 Tauren Druid",
+      "cost": "3",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9575010850,
+      "name": "Skronk Skullseeker",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 1/3 Orc Rogue",
+      "cost": "2",
+      "artist": "Lucas Graciano",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9900665817,
+      "name": "Wysko",
+      "number": "21",
+      "rarity": "Uncommon",
+      "type": "Ally — 3/2 Troll Warrior",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9340974597,
+      "name": "Zakis Trickstab",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Ally — 3/1 Goblin Rogue",
+      "cost": "3",
+      "artist": "Pete Venters",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9470020296,
+      "name": "Barman Shanker",
+      "number": "23",
+      "rarity": "Uncommon",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "cost": "2",
+      "artist": "Jeremy Mohler",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9296683939,
+      "name": "Perdition's Blade",
+      "number": "24",
+      "rarity": "Rare",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "cost": "2",
+      "artist": "Daren Bader",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9840777677,
+      "name": "Scarlet Kris",
+      "number": "25",
+      "rarity": "Uncommon",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "cost": "2",
+      "artist": "Joe Linsner",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9577981235,
+      "name": "A Bird in Hand",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9550404080,
+      "name": "Blueleaf Tubers",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9243198958,
+      "name": "Entrenched",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9761943771,
+      "name": "The Essence of Enmity",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9456379125,
+      "name": "The Grimtotem Weapon",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Steve Tappin",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/30.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9726244110,
+      "name": "The Key to Freedom",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-rogue/en/31.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

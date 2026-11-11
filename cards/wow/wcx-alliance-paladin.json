@@ -1,0 +1,318 @@
+{
+  "groupId": 99034851,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9523068087,
+      "name": "Saria of Stormwind",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Human Paladin — 29",
+      "artist": "Jean-Sebastien Rossbach",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9753885598,
+      "name": "Blessing of Might",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Ability — Retribution Blessing",
+      "cost": "2",
+      "artist": "LADRÖNN",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9446269119,
+      "name": "Censure",
+      "number": "3",
+      "rarity": "Common",
+      "type": "Ability — Retribution",
+      "cost": "1",
+      "artist": "Vance Kovacs",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9724649540,
+      "name": "Hammer of Justice",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Ability — Protection",
+      "cost": "2",
+      "artist": "Thor Badendyck",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9186386691,
+      "name": "Holy Light",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Holy",
+      "cost": "3",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9755635053,
+      "name": "Holy Shock",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Ability — Holy",
+      "cost": "3",
+      "artist": "Bernie Kang",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9235739088,
+      "name": "Seal of Wrath",
+      "number": "7",
+      "rarity": "Rare",
+      "type": "Ability — Retribution",
+      "cost": "2",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9246475586,
+      "name": "Wrath of Turalyon",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Ability — Retribution",
+      "cost": "4",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9218724398,
+      "name": "Alador Stonebrew",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Ally — 3/5 Dwarf Paladin",
+      "cost": "4",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9751215940,
+      "name": "Andiss Butcherson",
+      "number": "10",
+      "rarity": "Uncommon",
+      "type": "Ally — 1/2 Human Warrior",
+      "cost": "1",
+      "artist": "UDON",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9792211718,
+      "name": "Anika Berlyn",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 5/6 Human Paladin",
+      "cost": "6",
+      "artist": "Julie Bell",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9958443981,
+      "name": "Apprentice Teep",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Gnome Mage",
+      "cost": "1",
+      "artist": "Miguel Coimbra",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9425554715,
+      "name": "Gerana Sparkfist",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 3/4 Dwarf Mage",
+      "cost": "5",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9068450985,
+      "name": "Jeniva Prescott",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 2/2 Worgen Priest",
+      "cost": "2",
+      "artist": "Daarken",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9780501295,
+      "name": "Kor Cindervein",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Dwarf Paladin",
+      "cost": "3",
+      "artist": "Daren Bader",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9392949326,
+      "name": "Orono the Great",
+      "number": "16",
+      "rarity": "Uncommon",
+      "type": "Ally — 4/4 Draenei Shaman",
+      "cost": "4",
+      "artist": "Matt Starbuck",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9014447805,
+      "name": "Terina Calin",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 4/1 Human Rogue",
+      "cost": "3",
+      "artist": "Jesper Ejsing",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9550011095,
+      "name": "Trixie Boltclunker",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Gnome Warrior",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9840077237,
+      "name": "Tyrus Lionheart",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 1/1 Human Paladin",
+      "cost": "1",
+      "artist": "Josh Tallman",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9714750480,
+      "name": "Edgemaster's Handguards",
+      "number": "20",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Mail",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9723910725,
+      "name": "Golem Skull Helm",
+      "number": "21",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Plate",
+      "cost": "3",
+      "artist": "Karl Richardson",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9086219633,
+      "name": "Angry Dread",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Mace",
+      "cost": "3",
+      "artist": "RK Post",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9556450814,
+      "name": "Citadel Enforcer's Claymore",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Equipment — 2H Weapon — Sword",
+      "cost": "4",
+      "artist": "J.P. Targete",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9557363004,
+      "name": "A Bird in Hand",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9053381512,
+      "name": "Blueleaf Tubers",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9679685784,
+      "name": "Entrenched",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9040952692,
+      "name": "The Essence of Enmity",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9143156696,
+      "name": "The Grimtotem Weapon",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Steve Tappin",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9168181093,
+      "name": "The Key to Freedom",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/alliance-paladin/en/29.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

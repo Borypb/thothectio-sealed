@@ -1,0 +1,286 @@
+{
+  "groupId": 97256407,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9246840995,
+      "name": "\"Six-Shot\" Salli Wolfstone",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Dwarf Hunter — 28",
+      "artist": "Grace Liu",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9476242212,
+      "name": "Bloodclaw",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ally — 3/1 Raptor",
+      "cost": "1",
+      "artist": "Dan Brereton",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9982276744,
+      "name": "Deuce",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ally — 4/3 Chimaera",
+      "cost": "2",
+      "artist": "Arnie Swekel",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9675174097,
+      "name": "Eyes of the Beast",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Ability — Beast Mastery",
+      "cost": "1",
+      "artist": "Yang Jialun (Massive Black)",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9538022527,
+      "name": "Kill Command",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Ability — Beast Mastery",
+      "cost": "2",
+      "artist": "Gabe from Penny Arcade",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9331941808,
+      "name": "Master of the Hunt",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Ability — Beast Mastery",
+      "cost": "3",
+      "artist": "Brad Williams",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9354567019,
+      "name": "Mothra",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ally — 6/7 Moth",
+      "cost": "6",
+      "artist": "Bill Ruan",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9651163733,
+      "name": "Nightfire",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Ally — 3/4 Dragonhawk",
+      "cost": "3",
+      "artist": "Randy Gallegos",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9814404873,
+      "name": "Old Bones",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Ally — 4/4 Bear",
+      "cost": "4",
+      "artist": "Marc Fishman",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9519255937,
+      "name": "Ravenous Bite",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ability — Beast Mastery",
+      "cost": "2",
+      "artist": "Marc Fishman",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9121986745,
+      "name": "Stable Master",
+      "number": "11",
+      "rarity": "Uncommon",
+      "type": "Ability — Beast Mastery",
+      "cost": "1",
+      "artist": "James Zhang",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9971293420,
+      "name": "Turn the Blade",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ability — Survival Attachment",
+      "cost": "1",
+      "artist": "Andrea Uderzo and Dany Orizio",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9903312742,
+      "name": "Hunter's Focus",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ability — Marksmanship",
+      "cost": "1",
+      "artist": "Benjamin Zhang",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9823904300,
+      "name": "Zip",
+      "number": "14",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/3 Tallstrider",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9125364447,
+      "name": "Apprentice Teep",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Gnome Mage",
+      "cost": "1",
+      "artist": "Miguel Coimbra",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9315008250,
+      "name": "Bizzazz",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Gnome Rogue",
+      "cost": "3",
+      "artist": "Leonard Boyarski",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9850210816,
+      "name": "Dagin Bootzap",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Dwarf Hunter",
+      "cost": "4",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9039075362,
+      "name": "Laenthor Shademoon",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Night Elf Mage",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9235116615,
+      "name": "Nightstalker Austen",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 6/5 Human Hunter",
+      "cost": "6",
+      "artist": "Bob Watts",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9563339657,
+      "name": "Rodrigo",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 4/5 Human Paladin",
+      "cost": "5",
+      "artist": "Dan Dos Santos",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9727065461,
+      "name": "Shadowmistress Jezebel Hawke",
+      "number": "21",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/3 Human Warlock",
+      "cost": "3",
+      "artist": "Jonboy Meyers",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9751480357,
+      "name": "A Bird in Hand",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9003838262,
+      "name": "Archival Purposes",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Anton Zemzkov",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9007064199,
+      "name": "Entrenched",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9914373917,
+      "name": "Escape from Durnholde",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Chris Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9817979569,
+      "name": "The Essence of Enmity",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-hunter-7/en/26.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

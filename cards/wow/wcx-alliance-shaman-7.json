@@ -1,0 +1,264 @@
+{
+  "groupId": 98943716,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9934325128,
+      "name": "Vaaros the Venerable",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Draenei Shaman — 28",
+      "artist": "Anton Zemskov",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9882499018,
+      "name": "Ancestral Recovery",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9896177753,
+      "name": "Earthen Embrace",
+      "number": "3",
+      "rarity": "Common",
+      "type": "Ability — Enhancement Attachment",
+      "cost": "2",
+      "artist": "Andrea Uderzo",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9461290586,
+      "name": "Elemental Purge",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Ability — Restoration",
+      "cost": "2",
+      "artist": "Kerem Beyit",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9202240379,
+      "name": "Energized",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "2",
+      "artist": "Leonard Boyarski",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9660857670,
+      "name": "Gale Force",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "1",
+      "artist": "J.P. Targete",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9893888423,
+      "name": "Primal Strike",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "1",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9158579213,
+      "name": "Unleash Inferno",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Ability — Enhancement Attachment",
+      "cost": "3",
+      "artist": "Kevin Chen",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9869653915,
+      "name": "Adrienne the Inspiring",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Ally — 4/4 Draenei Shaman",
+      "cost": "5",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9275587643,
+      "name": "Alaria the Huntress",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ally — 0/1 Night Elf Druid",
+      "cost": "1",
+      "artist": "Jaemin Kim",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9301138082,
+      "name": "Arcanomage Misti",
+      "number": "11",
+      "rarity": "Rare",
+      "type": "Ally — 1/3 Gnome Mage",
+      "cost": "3",
+      "artist": "Jakub Kasper",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9015115345,
+      "name": "Bizzazz",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Gnome Rogue",
+      "cost": "3",
+      "artist": "Leonard Boyarski",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9733440451,
+      "name": "Emree",
+      "number": "13",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/4 Draenei Shaman",
+      "cost": "3",
+      "artist": "Jonboy Meyers",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9272399037,
+      "name": "Haratha Hammerflame",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Dwarf Shaman",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9482241905,
+      "name": "Kelsa Wildfire",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Worgen Mage",
+      "cost": "1",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9852381203,
+      "name": "SI:7 Assassin",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 4/1 Human Rogue",
+      "cost": "2",
+      "artist": "Guangjian Huang",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9252738146,
+      "name": "Targus Roughblade",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 6/1 Dwarf Rogue",
+      "cost": "4",
+      "artist": "Paul Kwon",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9423620618,
+      "name": "Vaakia",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Draenei Shaman",
+      "cost": "1",
+      "artist": "Luke Mancini",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9744762287,
+      "name": "Crimson Cranium Crusher",
+      "number": "19",
+      "rarity": "Rare",
+      "type": "Equipment — 1H Weapon — Mace",
+      "cost": "4",
+      "artist": "Craig Elliot",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9088738177,
+      "name": "Archival Purposes",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Anton Zemzkov",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9181620397,
+      "name": "Entrenched",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9261271173,
+      "name": "Escape from Durnholde",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Chris Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9600046705,
+      "name": "The Essence of Enmity",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9416265240,
+      "name": "Mystery Goo",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/alliance-shaman-7/en/24.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

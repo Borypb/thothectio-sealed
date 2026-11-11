@@ -1,0 +1,329 @@
+{
+  "groupId": 99448645,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9662954407,
+      "name": "Naedia of Silvermoon City",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Blood Elf Paladin — 29",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9862727580,
+      "name": "Blessing of Faith",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Ability — Holy Blessing",
+      "cost": "1",
+      "artist": "Jonboy Meyers",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9979822909,
+      "name": "Blessing of Might",
+      "number": "3",
+      "rarity": "Uncommon",
+      "type": "Ability — Retribution Blessing",
+      "cost": "2",
+      "artist": "LADRÖNN",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9247130993,
+      "name": "Blessing of the Templar",
+      "number": "4",
+      "rarity": "Rare",
+      "type": "Ability — Holy Blessing",
+      "cost": "5",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9131655875,
+      "name": "Consecration",
+      "number": "5",
+      "rarity": "Rare",
+      "type": "Ability — Holy",
+      "cost": "6",
+      "artist": "Joe Jusko",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9626232065,
+      "name": "Hammer of Justice",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Protection",
+      "cost": "2",
+      "artist": "Thor Badendyck",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9330602667,
+      "name": "Holy Light",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Holy",
+      "cost": "3",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9224881118,
+      "name": "Inquisition",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Ability — Holy",
+      "cost": "2",
+      "artist": "Lucas Graciano",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9785466812,
+      "name": "Repentance",
+      "number": "9",
+      "rarity": "Rare",
+      "type": "Ability — Retribution",
+      "cost": "2",
+      "artist": "Sean O'Daniels",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9487617108,
+      "name": "\"Acid Hands\" McGillicutty",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ally — 4/3 Undead Rogue",
+      "cost": "4",
+      "artist": "UDON",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9316294076,
+      "name": "Burom Bladeseer",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Orc Shaman",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9917951004,
+      "name": "Claemora Amberglare",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 2/4 Blood Elf Hunter",
+      "cost": "4",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9486392873,
+      "name": "Dhoros Ravestrike",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Blood Elf Hunter",
+      "cost": "3",
+      "artist": "Dave Dorman",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9433712809,
+      "name": "Doom",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 2/6 Undead Warlock",
+      "cost": "5",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9126501920,
+      "name": "Firewarden Wyland Kaslinth",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Blood Elf Mage",
+      "cost": "1",
+      "artist": "Phroilan Gardner",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9668479229,
+      "name": "Gorz Blazefist",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Orc Mage",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9052844124,
+      "name": "Guardian Steelhoof",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 4/4 Tauren Druid",
+      "cost": "3",
+      "artist": "Lucas Graciano",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9200163410,
+      "name": "Huruk Lightvow",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 5/3 Tauren Paladin",
+      "cost": "4",
+      "artist": "James Ryman",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9400261391,
+      "name": "Kirga Earthguard",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Tauren Shaman",
+      "cost": "2",
+      "artist": "Andrea Uderzo and Dany Orizio",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9215066353,
+      "name": "Nikka Blastbor",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Goblin Hunter",
+      "cost": "1",
+      "artist": "Arthur Gimaldinov",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9133322943,
+      "name": "Ruon Wildhoof",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 5/5 Tauren Shaman",
+      "cost": "6",
+      "artist": "Carl Critchlow",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9322194812,
+      "name": "Edgemaster's Handguards",
+      "number": "22",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Mail",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9550135227,
+      "name": "Angry Dread",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Mace",
+      "cost": "3",
+      "artist": "RK Post",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9649041915,
+      "name": "Obsidium Executioner",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Equipment — 2H Weapon — Sword",
+      "cost": "5",
+      "artist": "Wei Chen",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9503303611,
+      "name": "A Bird in Hand",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9185598315,
+      "name": "Blueleaf Tubers",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9039408210,
+      "name": "Entrenched",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9360187737,
+      "name": "The Essence of Enmity",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9011508667,
+      "name": "The Key to Freedom",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9176937540,
+      "name": "Mystery Goo",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/horde-paladin/en/30.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

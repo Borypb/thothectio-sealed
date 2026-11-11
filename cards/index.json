@@ -2166,6 +2166,1197 @@
           "version": "2b4f17a1fbbb"
         }
       ]
+    },
+    "wow": {
+      "categoryId": 13,
+      "category": "WoW",
+      "sets": [
+        {
+          "groupId": 2375,
+          "name": "Dungeon Treasure",
+          "code": "WOWDT",
+          "releasedAt": "2018-12-01",
+          "modifiedOn": "2018-12-05T19:00:01.047",
+          "count": 1,
+          "file": "cards/wow/2375.json",
+          "version": "3fce1e918576"
+        },
+        {
+          "groupId": 1334,
+          "name": "Loot Cards",
+          "code": "WOWLC",
+          "releasedAt": "2017-12-01",
+          "modifiedOn": "2017-12-13T16:08:41.797",
+          "count": 33,
+          "file": "cards/wow/1334.json",
+          "version": "ffdeb2f19db9"
+        },
+        {
+          "groupId": 1923,
+          "name": "Timewalkers Heroes",
+          "code": "TWK",
+          "releasedAt": "2013-04-01",
+          "modifiedOn": "2022-09-01T20:35:27.187",
+          "count": 60,
+          "file": "cards/wow/1923.json",
+          "version": "9061fde206c5"
+        },
+        {
+          "groupId": 1100,
+          "name": "Throne of the Tides",
+          "releasedAt": "2011-10-11",
+          "modifiedOn": "2023-06-13T17:10:49.11",
+          "count": 264,
+          "file": "cards/wow/1100.json",
+          "version": "1a4d214bd7ea"
+        },
+        {
+          "groupId": 1102,
+          "name": "Twilight of the Dragons",
+          "releasedAt": "2011-07-26",
+          "modifiedOn": "2023-06-13T17:14:43.26",
+          "count": 220,
+          "file": "cards/wow/1102.json",
+          "version": "bd025bfe99b0"
+        },
+        {
+          "groupId": 1104,
+          "name": "War of the Elements",
+          "releasedAt": "2011-04-26",
+          "modifiedOn": "2023-06-13T17:16:39.427",
+          "count": 220,
+          "file": "cards/wow/1104.json",
+          "version": "b518c5176570"
+        },
+        {
+          "groupId": 1064,
+          "name": "Assault on Icecrown Citadel",
+          "releasedAt": "2011-03-01",
+          "modifiedOn": "2023-06-13T12:50:37.763",
+          "count": 30,
+          "file": "cards/wow/1064.json",
+          "version": "2220540c7a61"
+        },
+        {
+          "groupId": 1105,
+          "name": "Worldbreaker",
+          "releasedAt": "2010-12-13",
+          "modifiedOn": "2023-06-13T17:17:20.263",
+          "count": 271,
+          "file": "cards/wow/1105.json",
+          "version": "e6dc17579c17"
+        },
+        {
+          "groupId": 1084,
+          "name": "Icecrown",
+          "releasedAt": "2010-09-14",
+          "modifiedOn": "2023-06-13T13:31:21.15",
+          "count": 221,
+          "file": "cards/wow/1084.json",
+          "version": "85287926f08f"
+        },
+        {
+          "groupId": 1107,
+          "name": "Wrathgate",
+          "releasedAt": "2010-05-23",
+          "modifiedOn": "2023-06-13T17:17:57.713",
+          "count": 225,
+          "file": "cards/wow/1107.json",
+          "version": "d67ed9498004"
+        },
+        {
+          "groupId": 1091,
+          "name": "Naxxramas Treasure",
+          "releasedAt": "2009-12-01",
+          "modifiedOn": "2023-06-13T13:40:50.53",
+          "count": 40,
+          "file": "cards/wow/1091.json",
+          "version": "7d8e404876e9"
+        },
+        {
+          "groupId": 1094,
+          "name": "Scourgewar",
+          "releasedAt": "2009-11-01",
+          "modifiedOn": "2023-06-13T17:08:23.083",
+          "count": 273,
+          "file": "cards/wow/1094.json",
+          "version": "8f90b638a9ff"
+        },
+        {
+          "groupId": 1079,
+          "name": "Fields of Honor",
+          "releasedAt": "2009-06-30",
+          "modifiedOn": "2023-06-13T13:17:18.467",
+          "count": 209,
+          "file": "cards/wow/1079.json",
+          "version": "424a3d57834a"
+        },
+        {
+          "groupId": 1063,
+          "name": "Arena Grand Melee",
+          "releasedAt": "2009-05-19",
+          "modifiedOn": "2023-06-13T12:54:10.18",
+          "count": 13,
+          "file": "cards/wow/1063.json",
+          "version": "b437c660f780"
+        },
+        {
+          "groupId": 1066,
+          "name": "Blood of Gladiators",
+          "releasedAt": "2009-03-24",
+          "modifiedOn": "2023-06-13T12:51:59.273",
+          "count": 210,
+          "file": "cards/wow/1066.json",
+          "version": "2fd84163900f"
+        },
+        {
+          "groupId": 1076,
+          "name": "Drums of War",
+          "releasedAt": "2008-10-28",
+          "modifiedOn": "2023-06-13T13:16:08.62",
+          "count": 269,
+          "file": "cards/wow/1076.json",
+          "version": "68a8e6205905"
+        },
+        {
+          "groupId": 1099,
+          "name": "The Hunt for Illidan",
+          "releasedAt": "2008-07-01",
+          "modifiedOn": "2023-12-30T15:18:16.9",
+          "count": 253,
+          "file": "cards/wow/1099.json",
+          "version": "15158db6aa37"
+        },
+        {
+          "groupId": 1095,
+          "name": "Servants of the Betrayer",
+          "releasedAt": "2008-04-01",
+          "modifiedOn": "2026-09-01T12:47:40.76",
+          "count": 264,
+          "file": "cards/wow/1095.json",
+          "version": "d7b91ac57a90"
+        },
+        {
+          "groupId": 1085,
+          "name": "Magtheridon's Lair",
+          "releasedAt": "2008-01-01",
+          "modifiedOn": "2023-06-13T13:32:05.73",
+          "count": 42,
+          "file": "cards/wow/1085.json",
+          "version": "4b5e34e703b5"
+        },
+        {
+          "groupId": 1086,
+          "name": "Magtheridon's Lair Treasure",
+          "releasedAt": "2008-01-01",
+          "modifiedOn": "2023-06-13T13:32:50.3",
+          "count": 20,
+          "file": "cards/wow/1086.json",
+          "version": "9f1ac4f5fa96"
+        },
+        {
+          "groupId": 1087,
+          "name": "March of the Legion",
+          "releasedAt": "2007-11-21",
+          "modifiedOn": "2023-06-13T13:33:32.2",
+          "count": 322,
+          "file": "cards/wow/1087.json",
+          "version": "306c96266756"
+        },
+        {
+          "groupId": 1080,
+          "name": "Fires of Outland",
+          "releasedAt": "2007-08-22",
+          "modifiedOn": "2023-06-13T13:23:35.537",
+          "count": 247,
+          "file": "cards/wow/1080.json",
+          "version": "b32a5a3135ca"
+        },
+        {
+          "groupId": 1088,
+          "name": "Molten Core",
+          "releasedAt": "2007-05-01",
+          "modifiedOn": "2023-06-13T13:34:17.367",
+          "count": 62,
+          "file": "cards/wow/1088.json",
+          "version": "f28c68b1fcb5"
+        },
+        {
+          "groupId": 1089,
+          "name": "Molten Core Treasure",
+          "releasedAt": "2007-05-01",
+          "modifiedOn": "2023-06-13T13:40:03.153",
+          "count": 30,
+          "file": "cards/wow/1089.json",
+          "version": "8579d7ea45b4"
+        },
+        {
+          "groupId": 1071,
+          "name": "Dark Portal",
+          "releasedAt": "2007-04-11",
+          "modifiedOn": "2023-06-13T13:14:01.08",
+          "count": 321,
+          "file": "cards/wow/1071.json",
+          "version": "c2464e3577f0"
+        },
+        {
+          "groupId": 1092,
+          "name": "Onyxia's Lair",
+          "releasedAt": "2006-11-01",
+          "modifiedOn": "2023-06-13T17:06:18.453",
+          "count": 63,
+          "file": "cards/wow/1092.json",
+          "version": "d2d33efc7d69"
+        },
+        {
+          "groupId": 1093,
+          "name": "Onyxia's Lair Treasure",
+          "releasedAt": "2006-11-01",
+          "modifiedOn": "2023-06-13T17:07:56.29",
+          "count": 34,
+          "file": "cards/wow/1093.json",
+          "version": "f1cd13f58623"
+        },
+        {
+          "groupId": 1082,
+          "name": "Heroes of Azeroth",
+          "releasedAt": "2006-10-25",
+          "modifiedOn": "2023-06-13T13:24:08.137",
+          "count": 362,
+          "file": "cards/wow/1082.json",
+          "version": "b5d030f92113"
+        },
+        {
+          "groupId": 1067,
+          "name": "BoJ",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 1,
+          "file": "cards/wow/1067.json",
+          "version": "65a8f316a857"
+        },
+        {
+          "groupId": 1068,
+          "name": "CAT Promos",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 2,
+          "file": "cards/wow/1068.json",
+          "version": "18093fef9b3d"
+        },
+        {
+          "groupId": 1069,
+          "name": "Class Starter Decks",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 8,
+          "file": "cards/wow/1069.json",
+          "version": "66aa30c3a645"
+        },
+        {
+          "groupId": 1070,
+          "name": "CRP",
+          "modifiedOn": "2022-09-07T20:31:12.097",
+          "count": 35,
+          "file": "cards/wow/1070.json",
+          "version": "901f2b545e38"
+        },
+        {
+          "groupId": 1073,
+          "name": "Darkmoon Faire Collector's Set",
+          "modifiedOn": "2022-09-07T20:27:11.903",
+          "count": 6,
+          "file": "cards/wow/1073.json",
+          "version": "cf18092f9b74"
+        },
+        {
+          "groupId": 1075,
+          "name": "Death Knight Starter",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 27,
+          "file": "cards/wow/1075.json",
+          "version": "07de849fff26"
+        },
+        {
+          "groupId": 1077,
+          "name": "Drums of War Starter",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 8,
+          "file": "cards/wow/1077.json",
+          "version": "c25a525d8d5d"
+        },
+        {
+          "groupId": 1078,
+          "name": "Feast of Winter Veil",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 12,
+          "file": "cards/wow/1078.json",
+          "version": "1e8982ba290d"
+        },
+        {
+          "groupId": 1081,
+          "name": "Giveaway",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 1,
+          "file": "cards/wow/1081.json",
+          "version": "004b4c125f96"
+        },
+        {
+          "groupId": 1096,
+          "name": "TBC Promo",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 3,
+          "file": "cards/wow/1096.json",
+          "version": "d2b3ffcf6b8a"
+        },
+        {
+          "groupId": 1097,
+          "name": "The Black Temple",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 23,
+          "file": "cards/wow/1097.json",
+          "version": "bdc2a7311a37"
+        },
+        {
+          "groupId": 1098,
+          "name": "The Black Temple Treasure",
+          "modifiedOn": "2022-09-07T20:28:44.15",
+          "count": 12,
+          "file": "cards/wow/1098.json",
+          "version": "aa31767b32b0"
+        },
+        {
+          "groupId": 1106,
+          "name": "Wrath of the Lich King Promo",
+          "modifiedOn": "2017-03-01T11:03:36.18",
+          "count": 2,
+          "file": "cards/wow/1106.json",
+          "version": "66e8547fec07"
+        },
+        {
+          "groupId": 98066644,
+          "name": "Reign of Fire",
+          "code": "REIGN",
+          "releasedAt": "2013-07-01",
+          "count": 197,
+          "file": "cards/wow/wcx-reign.json",
+          "source": "wowcards",
+          "version": "26041b29b019"
+        },
+        {
+          "groupId": 91907883,
+          "name": "Betrayal of the Guardian",
+          "code": "BETRAYAL",
+          "releasedAt": "2013-02-01",
+          "count": 202,
+          "file": "cards/wow/wcx-betrayal.json",
+          "source": "wowcards",
+          "version": "4002bace5ba2"
+        },
+        {
+          "groupId": 93500756,
+          "name": "War of the Ancients",
+          "code": "ANCIENTS",
+          "releasedAt": "2012-10-01",
+          "count": 240,
+          "file": "cards/wow/wcx-ancients.json",
+          "source": "wowcards",
+          "version": "633e55bbed05"
+        },
+        {
+          "groupId": 97576204,
+          "name": "Tomb of the Forgotten",
+          "code": "TOMB",
+          "releasedAt": "2012-06-01",
+          "count": 202,
+          "file": "cards/wow/wcx-tomb.json",
+          "source": "wowcards",
+          "version": "73afc483d060"
+        },
+        {
+          "groupId": 98214162,
+          "name": "Crown of the Heavens",
+          "code": "CROWN",
+          "releasedAt": "2012-02-01",
+          "count": 198,
+          "file": "cards/wow/wcx-crown.json",
+          "source": "wowcards",
+          "version": "c10d2b108ba0"
+        },
+        {
+          "groupId": 97330152,
+          "name": "Caverns of Time: Raid Deck",
+          "code": "CAVERNS-RAID",
+          "releasedAt": "2013-04-01",
+          "count": 39,
+          "file": "cards/wow/wcx-caverns-raid.json",
+          "source": "wowcards",
+          "version": "95a5a771a0f7"
+        },
+        {
+          "groupId": 95119622,
+          "name": "Caverns of Time: Tokens",
+          "code": "CAVERNS-RAID-TOKEN",
+          "releasedAt": "2013-04-01",
+          "count": 2,
+          "file": "cards/wow/wcx-caverns-raid-token.json",
+          "source": "wowcards",
+          "version": "1664e6bfee46"
+        },
+        {
+          "groupId": 91137692,
+          "name": "Caverns of Time: Treasure",
+          "code": "CAVERNS-TREASURE",
+          "releasedAt": "2013-04-01",
+          "count": 70,
+          "file": "cards/wow/wcx-caverns-treasure.json",
+          "source": "wowcards",
+          "version": "980a6997fffc"
+        },
+        {
+          "groupId": 98295597,
+          "name": "Battle of the Aspects: Chaos Mode Heroes",
+          "code": "ASPECTS",
+          "releasedAt": "2012-08-01",
+          "count": 5,
+          "file": "cards/wow/wcx-aspects.json",
+          "source": "wowcards",
+          "version": "d1410109f0e2"
+        },
+        {
+          "groupId": 94845536,
+          "name": "Battle of the Aspects: Gift of the Aspects Cards",
+          "code": "ASPECTS-GIFT",
+          "releasedAt": "2012-08-01",
+          "count": 8,
+          "file": "cards/wow/wcx-aspects-gift.json",
+          "source": "wowcards",
+          "version": "fd5d31cb387b"
+        },
+        {
+          "groupId": 99084138,
+          "name": "Battle of the Aspects: Hard Mode Cards",
+          "code": "ASPECTS-MODE",
+          "releasedAt": "2012-08-01",
+          "count": 5,
+          "file": "cards/wow/wcx-aspects-mode.json",
+          "source": "wowcards",
+          "version": "c722885412e1"
+        },
+        {
+          "groupId": 93830646,
+          "name": "Battle of the Aspects: Raid Deck",
+          "code": "ASPECTS-RAID",
+          "releasedAt": "2012-08-01",
+          "count": 38,
+          "file": "cards/wow/wcx-aspects-raid.json",
+          "source": "wowcards",
+          "version": "d2ecd1871618"
+        },
+        {
+          "groupId": 98579870,
+          "name": "Battle of the Aspects: Token",
+          "code": "ASPECTS-RAID-TOKEN",
+          "releasedAt": "2012-08-01",
+          "count": 1,
+          "file": "cards/wow/wcx-aspects-raid-token.json",
+          "source": "wowcards",
+          "version": "7f7040215d27"
+        },
+        {
+          "groupId": 98771399,
+          "name": "Battle of the Aspects: Treasure",
+          "code": "ASPECTS-TREASURE",
+          "releasedAt": "2012-08-01",
+          "count": 75,
+          "file": "cards/wow/wcx-aspects-treasure.json",
+          "source": "wowcards",
+          "version": "02eed0d04106"
+        },
+        {
+          "groupId": 93194121,
+          "name": "Dungeon Decks 2011: The Deadmines",
+          "code": "DEADMINES",
+          "releasedAt": "2011-11-01",
+          "count": 46,
+          "file": "cards/wow/wcx-deadmines.json",
+          "source": "wowcards",
+          "version": "17e261ad9949"
+        },
+        {
+          "groupId": 90733464,
+          "name": "Dungeon Decks 2011: Scarlet Monastery",
+          "code": "SCARLET-MONASTERY",
+          "releasedAt": "2011-11-01",
+          "count": 46,
+          "file": "cards/wow/wcx-scarlet-monastery.json",
+          "source": "wowcards",
+          "version": "961c4a129bce"
+        },
+        {
+          "groupId": 97468816,
+          "name": "Dungeon Decks 2011: Shadowfang Keep",
+          "code": "SHADOWFANG-KEEP",
+          "releasedAt": "2011-11-01",
+          "count": 46,
+          "file": "cards/wow/wcx-shadowfang-keep.json",
+          "source": "wowcards",
+          "version": "010e87b3d8a8"
+        },
+        {
+          "groupId": 97627885,
+          "name": "Dungeon Decks 2011: Treasure",
+          "code": "DUNGEON-TREASURE",
+          "releasedAt": "2011-11-01",
+          "count": 60,
+          "file": "cards/wow/wcx-dungeon-treasure.json",
+          "source": "wowcards",
+          "version": "c38a82b03690"
+        },
+        {
+          "groupId": 91820525,
+          "name": "Assault on Icecrown Citadel: Raid and Player Decks",
+          "code": "CITADEL-RAID",
+          "releasedAt": "2011-03-01",
+          "count": 93,
+          "file": "cards/wow/wcx-citadel-raid.json",
+          "source": "wowcards",
+          "version": "cbee00f31733"
+        },
+        {
+          "groupId": 95625394,
+          "name": "Naxxramas: Raid Deck",
+          "code": "NAXXRAMAS-RAID",
+          "releasedAt": "2009-12-01",
+          "count": 66,
+          "file": "cards/wow/wcx-naxxramas-raid.json",
+          "source": "wowcards",
+          "version": "8ddde53bda2c"
+        },
+        {
+          "groupId": 90874901,
+          "name": "Naxxramas: Tokens",
+          "code": "NAXXRAMAS-TOKEN",
+          "releasedAt": "2009-12-01",
+          "count": 17,
+          "file": "cards/wow/wcx-naxxramas-token.json",
+          "source": "wowcards",
+          "version": "e15abc22c626"
+        },
+        {
+          "groupId": 91793502,
+          "name": "Black Temple: Raid Deck",
+          "code": "BLACK-TEMPLE-RAID",
+          "releasedAt": "2008-09-01",
+          "count": 70,
+          "file": "cards/wow/wcx-black-temple-raid.json",
+          "source": "wowcards",
+          "version": "7b081b3424d9"
+        },
+        {
+          "groupId": 93101889,
+          "name": "Black Temple: Tokens",
+          "code": "BLACK-TEMPLE-TOKEN",
+          "releasedAt": "2008-09-01",
+          "count": 7,
+          "file": "cards/wow/wcx-black-temple-token.json",
+          "source": "wowcards",
+          "version": "4a75e29c4356"
+        },
+        {
+          "groupId": 95464003,
+          "name": "Onyxia's Lair: Tokens",
+          "code": "ONYXIA-WHELP",
+          "releasedAt": "2006-11-01",
+          "count": 1,
+          "file": "cards/wow/wcx-onyxia-whelp.json",
+          "source": "wowcards",
+          "version": "285a6bd566e2"
+        },
+        {
+          "groupId": 97256407,
+          "name": "Class Starters 2013: Alliance Hunter",
+          "code": "ALLIANCE-HUNTER-7",
+          "count": 26,
+          "file": "cards/wow/wcx-alliance-hunter-7.json",
+          "source": "wowcards",
+          "version": "ddb1d0b50075"
+        },
+        {
+          "groupId": 96398108,
+          "name": "Class Starters 2013: Alliance Priest",
+          "code": "ALLIANCE-PRIEST-7",
+          "count": 24,
+          "file": "cards/wow/wcx-alliance-priest-7.json",
+          "source": "wowcards",
+          "version": "65cbb827c6a0"
+        },
+        {
+          "groupId": 95172478,
+          "name": "Class Starters 2013: Alliance Rogue",
+          "code": "ALLIANCE-ROGUE-7",
+          "count": 25,
+          "file": "cards/wow/wcx-alliance-rogue-7.json",
+          "source": "wowcards",
+          "version": "6dce41097343"
+        },
+        {
+          "groupId": 98943716,
+          "name": "Class Starters 2013: Alliance Shaman",
+          "code": "ALLIANCE-SHAMAN-7",
+          "count": 24,
+          "file": "cards/wow/wcx-alliance-shaman-7.json",
+          "source": "wowcards",
+          "version": "d5f69bf56c7d"
+        },
+        {
+          "groupId": 90430215,
+          "name": "Class Starters 2013: Alliance Warlock",
+          "code": "ALLIANCE-WARLOCK-7",
+          "count": 25,
+          "file": "cards/wow/wcx-alliance-warlock-7.json",
+          "source": "wowcards",
+          "version": "64f72a579dc3"
+        },
+        {
+          "groupId": 96107901,
+          "name": "Class Starters 2013: Horde Death Knight",
+          "code": "HORDE-DK-7",
+          "count": 24,
+          "file": "cards/wow/wcx-horde-dk-7.json",
+          "source": "wowcards",
+          "version": "3675f3eaf052"
+        },
+        {
+          "groupId": 99751961,
+          "name": "Class Starters 2013: Horde Druid",
+          "code": "HORDE-DRUID-7",
+          "count": 24,
+          "file": "cards/wow/wcx-horde-druid-7.json",
+          "source": "wowcards",
+          "version": "4e223659f251"
+        },
+        {
+          "groupId": 90961554,
+          "name": "Class Starters 2013: Horde Mage",
+          "code": "HORDE-MAGE-7",
+          "count": 25,
+          "file": "cards/wow/wcx-horde-mage-7.json",
+          "source": "wowcards",
+          "version": "f2e3d9ab480f"
+        },
+        {
+          "groupId": 95810878,
+          "name": "Class Starters 2013: Horde Paladin",
+          "code": "HORDE-PALADIN-7",
+          "count": 25,
+          "file": "cards/wow/wcx-horde-paladin-7.json",
+          "source": "wowcards",
+          "version": "37558dda5c09"
+        },
+        {
+          "groupId": 99666654,
+          "name": "Class Starters 2013: Horde Warrior",
+          "code": "HORDE-WARRIOR-7",
+          "count": 26,
+          "file": "cards/wow/wcx-horde-warrior-7.json",
+          "source": "wowcards",
+          "version": "8293d5963bca"
+        },
+        {
+          "groupId": 93911769,
+          "name": "Champion Decks 2012: Dark Lady Sylvanas Windrunner",
+          "code": "SYLVANAS",
+          "count": 29,
+          "file": "cards/wow/wcx-sylvanas.json",
+          "source": "wowcards",
+          "version": "102d34e17441"
+        },
+        {
+          "groupId": 94842314,
+          "name": "Champion Decks 2012: Elderlimb",
+          "code": "ELDERLIMB",
+          "count": 29,
+          "file": "cards/wow/wcx-elderlimb.json",
+          "source": "wowcards",
+          "version": "1e0b45e167e2"
+        },
+        {
+          "groupId": 99478181,
+          "name": "Champion Decks 2012: Hogger",
+          "code": "HOGGER",
+          "count": 29,
+          "file": "cards/wow/wcx-hogger.json",
+          "source": "wowcards",
+          "version": "6bc19dccb4c6"
+        },
+        {
+          "groupId": 91305100,
+          "name": "Champion Decks 2012: Jaina Proudmoore",
+          "code": "JAINA",
+          "count": 29,
+          "file": "cards/wow/wcx-jaina.json",
+          "source": "wowcards",
+          "version": "161ba630a8aa"
+        },
+        {
+          "groupId": 99912410,
+          "name": "Champion Decks 2012: Murkdeep",
+          "code": "MURKDEEP",
+          "count": 27,
+          "file": "cards/wow/wcx-murkdeep.json",
+          "source": "wowcards",
+          "version": "5435c45cff01"
+        },
+        {
+          "groupId": 98816747,
+          "name": "Champion Decks 2012: Epic Bonus Reprints",
+          "code": "CHAMP-PROMO",
+          "count": 10,
+          "file": "cards/wow/wcx-champ-promo.json",
+          "source": "wowcards",
+          "version": "aa2dc1d514f4"
+        },
+        {
+          "groupId": 97635459,
+          "name": "Class Starters 2011: Alliance Death Knight",
+          "code": "ALLIANCE-DK",
+          "count": 32,
+          "file": "cards/wow/wcx-alliance-dk.json",
+          "source": "wowcards",
+          "version": "35bfc9c1a840"
+        },
+        {
+          "groupId": 98630636,
+          "name": "Class Starters 2011: Alliance Druid",
+          "code": "ALLIANCE-DRUID",
+          "count": 27,
+          "file": "cards/wow/wcx-alliance-druid.json",
+          "source": "wowcards",
+          "version": "a781030aa97b"
+        },
+        {
+          "groupId": 97758887,
+          "name": "Class Starters 2011: Alliance Hunter",
+          "code": "ALLIANCE-HUNTER",
+          "count": 28,
+          "file": "cards/wow/wcx-alliance-hunter.json",
+          "source": "wowcards",
+          "version": "5d823e68d556"
+        },
+        {
+          "groupId": 93010930,
+          "name": "Class Starters 2011: Alliance Mage",
+          "code": "ALLIANCE-MAGE",
+          "count": 28,
+          "file": "cards/wow/wcx-alliance-mage.json",
+          "source": "wowcards",
+          "version": "52fc31433cbe"
+        },
+        {
+          "groupId": 99034851,
+          "name": "Class Starters 2011: Alliance Paladin",
+          "code": "ALLIANCE-PALADIN",
+          "count": 29,
+          "file": "cards/wow/wcx-alliance-paladin.json",
+          "source": "wowcards",
+          "version": "14a3d90adb6a"
+        },
+        {
+          "groupId": 90155133,
+          "name": "Class Starters 2011: Alliance Priest",
+          "code": "ALLIANCE-PRIEST",
+          "count": 31,
+          "file": "cards/wow/wcx-alliance-priest.json",
+          "source": "wowcards",
+          "version": "59a241dd7c15"
+        },
+        {
+          "groupId": 99423429,
+          "name": "Class Starters 2011: Alliance Rogue",
+          "code": "ALLIANCE-ROGUE",
+          "count": 30,
+          "file": "cards/wow/wcx-alliance-rogue.json",
+          "source": "wowcards",
+          "version": "531816bc9b14"
+        },
+        {
+          "groupId": 92767333,
+          "name": "Class Starters 2011: Alliance Shaman",
+          "code": "ALLIANCE-SHAMAN",
+          "count": 34,
+          "file": "cards/wow/wcx-alliance-shaman.json",
+          "source": "wowcards",
+          "version": "595d8172bf48"
+        },
+        {
+          "groupId": 90126069,
+          "name": "Class Starters 2011: Alliance Warlock",
+          "code": "ALLIANCE-WARLOCK",
+          "count": 30,
+          "file": "cards/wow/wcx-alliance-warlock.json",
+          "source": "wowcards",
+          "version": "80b3f25348ad"
+        },
+        {
+          "groupId": 91338859,
+          "name": "Class Starters 2011: Alliance Warrior",
+          "code": "ALLIANCE-WARRIOR",
+          "count": 28,
+          "file": "cards/wow/wcx-alliance-warrior.json",
+          "source": "wowcards",
+          "version": "a3a8a1f43d4b"
+        },
+        {
+          "groupId": 94472137,
+          "name": "Class Starters 2011: Horde Death Knight",
+          "code": "HORDE-DK",
+          "count": 32,
+          "file": "cards/wow/wcx-horde-dk.json",
+          "source": "wowcards",
+          "version": "a534b7b2f03e"
+        },
+        {
+          "groupId": 92176907,
+          "name": "Class Starters 2011: Horde Druid",
+          "code": "HORDE-DRUID",
+          "count": 32,
+          "file": "cards/wow/wcx-horde-druid.json",
+          "source": "wowcards",
+          "version": "c2f5e8b9a722"
+        },
+        {
+          "groupId": 91329687,
+          "name": "Class Starters 2011: Horde Hunter",
+          "code": "HORDE-HUNTER",
+          "count": 31,
+          "file": "cards/wow/wcx-horde-hunter.json",
+          "source": "wowcards",
+          "version": "622511224f6f"
+        },
+        {
+          "groupId": 98863929,
+          "name": "Class Starters 2011: Horde Mage",
+          "code": "HORDE-MAGE",
+          "count": 31,
+          "file": "cards/wow/wcx-horde-mage.json",
+          "source": "wowcards",
+          "version": "19223d1d34ab"
+        },
+        {
+          "groupId": 99448645,
+          "name": "Class Starters 2011: Horde Paladin",
+          "code": "HORDE-PALADIN",
+          "count": 30,
+          "file": "cards/wow/wcx-horde-paladin.json",
+          "source": "wowcards",
+          "version": "ca474ae3ab22"
+        },
+        {
+          "groupId": 95260173,
+          "name": "Class Starters 2011: Horde Priest",
+          "code": "HORDE-PRIEST",
+          "count": 30,
+          "file": "cards/wow/wcx-horde-priest.json",
+          "source": "wowcards",
+          "version": "706b12c5b40e"
+        },
+        {
+          "groupId": 91001821,
+          "name": "Class Starters 2011: Horde Rogue",
+          "code": "HORDE-ROGUE",
+          "count": 31,
+          "file": "cards/wow/wcx-horde-rogue.json",
+          "source": "wowcards",
+          "version": "5727ba2f2c46"
+        },
+        {
+          "groupId": 94599920,
+          "name": "Class Starters 2011: Horde Shaman",
+          "code": "HORDE-SHAMAN",
+          "count": 29,
+          "file": "cards/wow/wcx-horde-shaman.json",
+          "source": "wowcards",
+          "version": "d810c9422389"
+        },
+        {
+          "groupId": 93814157,
+          "name": "Class Starters 2011: Horde Warlock",
+          "code": "HORDE-WARLOCK",
+          "count": 28,
+          "file": "cards/wow/wcx-horde-warlock.json",
+          "source": "wowcards",
+          "version": "b15e07f78b68"
+        },
+        {
+          "groupId": 98359231,
+          "name": "Class Starters 2011: Horde Warrior",
+          "code": "HORDE-WARRIOR",
+          "count": 31,
+          "file": "cards/wow/wcx-horde-warrior.json",
+          "source": "wowcards",
+          "version": "11c3ea68463b"
+        },
+        {
+          "groupId": 94171994,
+          "name": "Class Starters 2011: Bonus Reprints",
+          "code": "CLASS-PROMO",
+          "count": 13,
+          "file": "cards/wow/wcx-class-promo.json",
+          "source": "wowcards",
+          "version": "012e0bd9b1ae"
+        },
+        {
+          "groupId": 90912119,
+          "name": "Class Starters 2011: Class Starters 2010",
+          "code": "CLASS",
+          "count": 234,
+          "file": "cards/wow/wcx-class.json",
+          "source": "wowcards",
+          "version": "9313fcca18e2"
+        },
+        {
+          "groupId": 99278974,
+          "name": "Feast of Winter Veil 2012",
+          "code": "WINTER-VEIL-2012",
+          "count": 11,
+          "file": "cards/wow/wcx-winter-veil-2012.json",
+          "source": "wowcards",
+          "version": "17d00ea4e83c"
+        },
+        {
+          "groupId": 94983432,
+          "name": "Arena Grand Melee: Event Deck",
+          "code": "ARENA",
+          "count": 114,
+          "file": "cards/wow/wcx-arena.json",
+          "source": "wowcards",
+          "version": "5050f3651dc6"
+        },
+        {
+          "groupId": 93046141,
+          "name": "Arena Grand Melee: Event Deck Blanks",
+          "code": "ARENA-BLANK",
+          "count": 6,
+          "file": "cards/wow/wcx-arena-blank.json",
+          "source": "wowcards",
+          "version": "e4f8661b52a2"
+        },
+        {
+          "groupId": 94244954,
+          "name": "Timewalkers Block: Badges of Justice",
+          "code": "JUSTICE-7",
+          "count": 12,
+          "file": "cards/wow/wcx-justice-7.json",
+          "source": "wowcards",
+          "version": "b718c5c57174"
+        },
+        {
+          "groupId": 99098237,
+          "name": "Timewalkers Block: Crafting",
+          "code": "CRAFTED-7",
+          "count": 9,
+          "file": "cards/wow/wcx-crafted-7.json",
+          "source": "wowcards",
+          "version": "3244d546bfa6"
+        },
+        {
+          "groupId": 98650617,
+          "name": "Aftermath Block: Badges of Justice",
+          "code": "JUSTICE-6",
+          "count": 12,
+          "file": "cards/wow/wcx-justice-6.json",
+          "source": "wowcards",
+          "version": "c534d17b5a7c"
+        },
+        {
+          "groupId": 93654121,
+          "name": "Aftermath Block: Crafting",
+          "code": "CRAFTED-6",
+          "count": 9,
+          "file": "cards/wow/wcx-crafted-6.json",
+          "source": "wowcards",
+          "version": "d8253f70f4b5"
+        },
+        {
+          "groupId": 92748399,
+          "name": "Worldbreaker Block: Badges of Justice",
+          "code": "BADGE-5",
+          "count": 12,
+          "file": "cards/wow/wcx-badge-5.json",
+          "source": "wowcards",
+          "version": "cff2c48c8e81"
+        },
+        {
+          "groupId": 91570341,
+          "name": "Worldbreaker Block: Crafting",
+          "code": "CRAFTED-5",
+          "count": 12,
+          "file": "cards/wow/wcx-crafted-5.json",
+          "source": "wowcards",
+          "version": "3aa5f17adb31"
+        },
+        {
+          "groupId": 98240248,
+          "name": "Scourgewar Block: Badges: Icecrown",
+          "code": "BADGE-ICECROWN",
+          "count": 4,
+          "file": "cards/wow/wcx-badge-icecrown.json",
+          "source": "wowcards",
+          "version": "095e442aec94"
+        },
+        {
+          "groupId": 95596493,
+          "name": "Scourgewar Block: Badges: Wrathgate",
+          "code": "BADGE-WRATHGATE",
+          "count": 4,
+          "file": "cards/wow/wcx-badge-wrathgate.json",
+          "source": "wowcards",
+          "version": "cc47b18fc488"
+        },
+        {
+          "groupId": 92116579,
+          "name": "Scourgewar Block: Badges: Scourgewar",
+          "code": "BADGE-SCOURGEWAR",
+          "count": 4,
+          "file": "cards/wow/wcx-badge-scourgewar.json",
+          "source": "wowcards",
+          "version": "01eb2f7811d2"
+        },
+        {
+          "groupId": 95372541,
+          "name": "Scourgewar Block: Crafting: Icecrown",
+          "code": "CRAFTED-ICECROWN",
+          "count": 3,
+          "file": "cards/wow/wcx-crafted-icecrown.json",
+          "source": "wowcards",
+          "version": "00dee8b6de65"
+        },
+        {
+          "groupId": 94686062,
+          "name": "Scourgewar Block: Crafting: Wrathgate",
+          "code": "CRAFTED-WRATHGATE",
+          "count": 3,
+          "file": "cards/wow/wcx-crafted-wrathgate.json",
+          "source": "wowcards",
+          "version": "7720f7aff6d6"
+        },
+        {
+          "groupId": 99233495,
+          "name": "Azeroth & Burning Crusade Blocks: Badges of Justice",
+          "code": "BADGE",
+          "count": 4,
+          "file": "cards/wow/wcx-badge.json",
+          "source": "wowcards",
+          "version": "75d2b10d51fc"
+        },
+        {
+          "groupId": 94201037,
+          "name": "Holiday Promos: Timewalkers Block",
+          "code": "HOLIDAY-7",
+          "count": 4,
+          "file": "cards/wow/wcx-holiday-7.json",
+          "source": "wowcards",
+          "version": "aab32266d0ad"
+        },
+        {
+          "groupId": 97654472,
+          "name": "Holiday Promos: Aftermath Block",
+          "code": "HOLIDAY-6",
+          "count": 6,
+          "file": "cards/wow/wcx-holiday-6.json",
+          "source": "wowcards",
+          "version": "03f9baa759b1"
+        },
+        {
+          "groupId": 94521751,
+          "name": "2011 Showdown: Goblins of Anarchy",
+          "code": "BIKER",
+          "count": 4,
+          "file": "cards/wow/wcx-biker.json",
+          "source": "wowcards",
+          "version": "f108c5ccf238"
+        },
+        {
+          "groupId": 91887388,
+          "name": "Blizzcon 2011 Promo",
+          "code": "BLIZZCON-2011",
+          "count": 1,
+          "file": "cards/wow/wcx-blizzcon-2011.json",
+          "source": "wowcards",
+          "version": "32762677f094"
+        },
+        {
+          "groupId": 91994482,
+          "name": "Holiday Promos: Worldbreaker Block",
+          "code": "HOLIDAY-5",
+          "count": 6,
+          "file": "cards/wow/wcx-holiday-5.json",
+          "source": "wowcards",
+          "version": "426b9a8950da"
+        },
+        {
+          "groupId": 99971638,
+          "name": "Cataclysm Collector's Edition Promos",
+          "code": "CAT-PROMO",
+          "count": 2,
+          "file": "cards/wow/wcx-cat-promo.json",
+          "source": "wowcards",
+          "version": "e684eec831a7"
+        },
+        {
+          "groupId": 92291748,
+          "name": "Blizzard Employee Promo 2010",
+          "code": "BLIZZARD-2010",
+          "count": 1,
+          "file": "cards/wow/wcx-blizzard-2010.json",
+          "source": "wowcards",
+          "version": "fb834c79eb3d"
+        },
+        {
+          "groupId": 99929671,
+          "name": "Blizzard Employee Promo 2009",
+          "code": "BLIZZARD-2009",
+          "count": 1,
+          "file": "cards/wow/wcx-blizzard-2009.json",
+          "source": "wowcards",
+          "version": "ddf754db30cb"
+        },
+        {
+          "groupId": 99147169,
+          "name": "Wrath of the Lich King Collector's Edition Promos",
+          "code": "WOTLK-PROMO",
+          "count": 2,
+          "file": "cards/wow/wcx-wotlk-promo.json",
+          "source": "wowcards",
+          "version": "d568932e718c"
+        },
+        {
+          "groupId": 96629830,
+          "name": "Drums of War Promos",
+          "code": "DRUMS-PROMO",
+          "releasedAt": "2008-10-01",
+          "count": 2,
+          "file": "cards/wow/wcx-drums-promo.json",
+          "source": "wowcards",
+          "version": "a4fc9db9bb68"
+        },
+        {
+          "groupId": 93245429,
+          "name": "Burning Crusade Collector's Edition Promos",
+          "code": "BC-PROMO",
+          "count": 3,
+          "file": "cards/wow/wcx-bc-promo.json",
+          "source": "wowcards",
+          "version": "e03839f327ad"
+        },
+        {
+          "groupId": 90011488,
+          "name": "Blizzcon 2007 Promo",
+          "code": "BLIZZCON-2007",
+          "count": 1,
+          "file": "cards/wow/wcx-blizzcon-2007.json",
+          "source": "wowcards",
+          "version": "9ab3ffa94c5d"
+        }
+      ]
     }
   },
   "updatedAt": "2026-11-11"

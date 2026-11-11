@@ -1,0 +1,6962 @@
+{
+  "groupId": 1087,
+  "cards": [
+    {
+      "id": 17598,
+      "name": "Dreamstate",
+      "number": "20",
+      "rarity": "R",
+      "type": "Ability — Balance Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17598/wow-march-of-the-legion-dreamstate",
+      "cost": "5",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/20.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17599,
+      "name": "Voren'thal the Seer",
+      "number": "245",
+      "rarity": "E",
+      "type": "Ally — 5/8 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17599/wow-march-of-the-legion-vorenthal-the-seer",
+      "cost": "8",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/245.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 10,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 17600,
+      "name": "Axe of the Legion",
+      "number": "274",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17600/wow-march-of-the-legion-axe-of-the-legion",
+      "cost": "4",
+      "artist": "Phill Gonzales",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/274.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17601,
+      "name": "Gurok the Usurper",
+      "number": "304",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17601/wow-march-of-the-legion-gurok-the-usurper",
+      "artist": "Phill Gonzales",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/304.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.25,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 17602,
+      "name": "Wanted: Durn the Hungerer",
+      "number": "318",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17602/wow-march-of-the-legion-wanted-durn-the-hungerer",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/318.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.14,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17603,
+      "name": "Thundering Footsteps",
+      "number": "131",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17603/wow-march-of-the-legion-thundering-footsteps",
+      "cost": "8",
+      "artist": "Boros-Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/131.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17604,
+      "name": "Champion Zosimuus",
+      "number": "143",
+      "rarity": "R",
+      "type": "Ally — 2/5 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17604/wow-march-of-the-legion-champion-zosimuus",
+      "cost": "4",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/143.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 17605,
+      "name": "Crimson Shocker",
+      "number": "278",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17605/wow-march-of-the-legion-crimson-shocker",
+      "cost": "3",
+      "artist": "Steven Belledin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/278.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.3,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 17606,
+      "name": "Fire Power",
+      "number": "46",
+      "rarity": "R",
+      "type": "Ability — Fire Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17606/wow-march-of-the-legion-fire-power",
+      "cost": "3",
+      "artist": "Jeff Easley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/46.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.69,
+          "low": 1.98,
+          "mid": 2.69
+        }
+      ]
+    },
+    {
+      "id": 17607,
+      "name": "Sironas",
+      "number": "253",
+      "rarity": "R",
+      "type": "Ally — 4/3 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17607/wow-march-of-the-legion-sironas",
+      "cost": "5",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/253.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.5,
+          "mid": 0.76
+        }
+      ]
+    },
+    {
+      "id": 17608,
+      "name": "Runesong Dagger",
+      "number": "287",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17608/wow-march-of-the-legion-runesong-dagger",
+      "cost": "2",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/287.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.27,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17609,
+      "name": "Ishanah, High Priestess of the Aldor",
+      "number": "217",
+      "rarity": "E",
+      "type": "Ally — 5/8 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17609/wow-march-of-the-legion-ishanah-high-priestess-of-the-aldor",
+      "cost": "8",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/217.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17610,
+      "name": "Osha Shadowdrinker",
+      "number": "197",
+      "rarity": "R",
+      "type": "Ally — 5/5 Undead Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17610/wow-march-of-the-legion-osha-shadowdrinker",
+      "cost": "6",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/197.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17611,
+      "name": "Ardent Defender",
+      "number": "55",
+      "rarity": "R",
+      "type": "Ability — Protection Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17611/wow-march-of-the-legion-ardent-defender",
+      "cost": "6",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/55.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.09,
+          "low": 2,
+          "mid": 2.09
+        }
+      ]
+    },
+    {
+      "id": 17612,
+      "name": "Blinky",
+      "number": "33",
+      "rarity": "R",
+      "type": "Ally — 7/5 Warp Stalker",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17612/wow-march-of-the-legion-blinky",
+      "cost": "7",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/33.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17613,
+      "name": "Caretaker Heartwing",
+      "number": "141",
+      "rarity": "C",
+      "type": "Ally — 4/1 Night Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17613/wow-march-of-the-legion-caretaker-heartwing",
+      "cost": "2",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/141.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17614,
+      "name": "Forces of Jaedenar",
+      "number": "301",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17614/wow-march-of-the-legion-forces-of-jaedenar",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/301.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.8,
+          "low": 0.71,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 17615,
+      "name": "Holy Nova",
+      "number": "70",
+      "rarity": "R",
+      "type": "Ability — Holy Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17615/wow-march-of-the-legion-holy-nova",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/70.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.23,
+          "low": 0.24,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17616,
+      "name": "Hoxie Mettlemelt",
+      "number": "152",
+      "rarity": "R",
+      "type": "Ally — 4/4 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17616/wow-march-of-the-legion-hoxie-mettlemelt",
+      "cost": "5",
+      "artist": "Miguel Coimbra",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/152.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.25,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 17617,
+      "name": "Kiting",
+      "number": "128",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17617/wow-march-of-the-legion-kiting",
+      "cost": "4",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/128.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.73,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17618,
+      "name": "Natural Genesis",
+      "number": "26",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17618/wow-march-of-the-legion-natural-genesis",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.5,
+          "mid": 0.73
+        }
+      ]
+    },
+    {
+      "id": 17619,
+      "name": "Paper Airplane",
+      "number": "130",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17619/wow-march-of-the-legion-paper-airplane",
+      "cost": "1",
+      "artist": "Boros-Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/130.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.24,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 17620,
+      "name": "Portal",
+      "number": "51",
+      "rarity": "R",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17620/wow-march-of-the-legion-portal",
+      "cost": "2",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/51.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17621,
+      "name": "Puncture",
+      "number": "118",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17621/wow-march-of-the-legion-puncture",
+      "cost": "3",
+      "artist": "James Wong",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/118.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.22,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 17622,
+      "name": "Reincarnation",
+      "number": "97",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17622/wow-march-of-the-legion-reincarnation",
+      "cost": "4",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/97.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.11,
+          "low": 0.86,
+          "mid": 2.11
+        }
+      ]
+    },
+    {
+      "id": 17623,
+      "name": "Retainer Mythras",
+      "number": "241",
+      "rarity": "R",
+      "type": "Ally — 0/1 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17623/wow-march-of-the-legion-retainer-mythras",
+      "cost": "4",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/241.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 3,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 17624,
+      "name": "Robotic Homing Chicken",
+      "number": "251",
+      "rarity": "R",
+      "type": "Ally — 0/1 Mechanical Chicken",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17624/wow-march-of-the-legion-robotic-homing-chicken",
+      "cost": "1",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/251.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.37,
+          "low": 1.37,
+          "mid": 1.37
+        }
+      ]
+    },
+    {
+      "id": 17625,
+      "name": "Sanctity Aura",
+      "number": "65",
+      "rarity": "R",
+      "type": "Ability — Retribution Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17625/wow-march-of-the-legion-sanctity-aura",
+      "cost": "4",
+      "artist": "Lucio Parrillo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/65.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17626,
+      "name": "Siphon Life",
+      "number": "110",
+      "rarity": "R",
+      "type": "Ability — Affliction Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17626/wow-march-of-the-legion-siphon-life",
+      "cost": "5",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/110.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.25,
+          "low": 3,
+          "mid": 3.25
+        }
+      ]
+    },
+    {
+      "id": 17627,
+      "name": "Swipe",
+      "number": "30",
+      "rarity": "C",
+      "type": "Ability — Feral",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17627/wow-march-of-the-legion-swipe",
+      "cost": "3",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/30.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17628,
+      "name": "Taheo Skyspeaker",
+      "number": "16",
+      "rarity": "U",
+      "type": "Hero — Tauren Druid — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17628/wow-march-of-the-legion-taheo-skyspeaker",
+      "artist": "Boros-Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17629,
+      "name": "Unfair Advantage",
+      "number": "89",
+      "rarity": "R",
+      "type": "Ability — Subtlety Finishing Move",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17629/wow-march-of-the-legion-unfair-advantage",
+      "cost": "5",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/89.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.5,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17630,
+      "name": "Vindicator Zalreth",
+      "number": "226",
+      "rarity": "R",
+      "type": "Ally — 5/5 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17630/wow-march-of-the-legion-vindicator-zalreth",
+      "cost": "7",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/226.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.4,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17631,
+      "name": "Absorb Magic",
+      "number": "67",
+      "rarity": "C",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17631/wow-march-of-the-legion-absorb-magic",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/67.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 17632,
+      "name": "Abyss Walker's Boots",
+      "number": "255",
+      "rarity": "U",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17632/wow-march-of-the-legion-abyss-walkers-boots",
+      "cost": "2",
+      "artist": "Steven Belledin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/255.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.35,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17633,
+      "name": "\"Acid Hands\" McGillicutty",
+      "number": "172",
+      "rarity": "C",
+      "type": "Ally — 4/3 Undead Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17633/wow-march-of-the-legion-acid-hands-mcgillicutty",
+      "cost": "4",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/172.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17634,
+      "name": "A'dal",
+      "number": "246",
+      "rarity": "E",
+      "type": "Ally — 0/10 Naaru",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17634/wow-march-of-the-legion-adal",
+      "cost": "10",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/246.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.5,
+          "low": 7,
+          "mid": 8.5
+        }
+      ]
+    },
+    {
+      "id": 17635,
+      "name": "Adrenaline Rush",
+      "number": "79",
+      "rarity": "R",
+      "type": "Ability — Combat Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17635/wow-march-of-the-legion-adrenaline-rush",
+      "cost": "7",
+      "artist": "Ron Spencer",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/79.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17636,
+      "name": "Adyen the Lightwarden",
+      "number": "212",
+      "rarity": "E",
+      "type": "Ally — 3/3 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17636/wow-march-of-the-legion-adyen-the-lightwarden",
+      "cost": "3",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/212.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7,
+          "low": 7,
+          "mid": 7
+        }
+      ]
+    },
+    {
+      "id": 17637,
+      "name": "Against the Legion",
+      "number": "294",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17637/wow-march-of-the-legion-against-the-legion",
+      "artist": "Alex Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/294.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.97,
+          "low": 0.3,
+          "mid": 0.97
+        }
+      ]
+    },
+    {
+      "id": 17638,
+      "name": "Aldana",
+      "number": "132",
+      "rarity": "U",
+      "type": "Ally — 2/3 Night Elf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17638/wow-march-of-the-legion-aldana",
+      "cost": "2",
+      "artist": "Imaginary FS",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/132.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17639,
+      "name": "Alhas",
+      "number": "133",
+      "rarity": "C",
+      "type": "Ally — 3/3 Draenai Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17639/wow-march-of-the-legion-alhas",
+      "cost": "3",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/133.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17640,
+      "name": "Anchorite Alonora",
+      "number": "213",
+      "rarity": "C",
+      "type": "Ally — 3/5 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17640/wow-march-of-the-legion-anchorite-alonora",
+      "cost": "4",
+      "artist": "Svetlin Velinov",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/213.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.2,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 17641,
+      "name": "Anchorite Jaliah",
+      "number": "214",
+      "rarity": "U",
+      "type": "Ally — 2/7 Draenai Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17641/wow-march-of-the-legion-anchorite-jaliah",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/214.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17642,
+      "name": "Anchorite Viluaa",
+      "number": "215",
+      "rarity": "C",
+      "type": "Ally — 3/3 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17642/wow-march-of-the-legion-anchorite-viluaa",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/215.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17643,
+      "name": "Anders Blankheart",
+      "number": "134",
+      "rarity": "U",
+      "type": "Ally — 2/1 Human Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17643/wow-march-of-the-legion-anders-blankheart",
+      "cost": "2",
+      "artist": "David Palumbo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/134.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.25,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 17644,
+      "name": "Arazzius the Cruel",
+      "number": "247",
+      "rarity": "R",
+      "type": "Ally — 4/4 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17644/wow-march-of-the-legion-arazzius-the-cruel",
+      "cost": "4",
+      "artist": "Boros-Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/247.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.98,
+          "low": 0.25,
+          "mid": 1.98
+        }
+      ]
+    },
+    {
+      "id": 17645,
+      "name": "Arcane Brilliance",
+      "number": "43",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17645/wow-march-of-the-legion-arcane-brilliance",
+      "cost": "4",
+      "artist": "Steven Belledin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/43.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17646,
+      "name": "Arcane Explosion",
+      "number": "44",
+      "rarity": "R",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17646/wow-march-of-the-legion-arcane-explosion",
+      "cost": "6",
+      "artist": "Aleksi Briclot",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/44.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.45,
+          "low": 3,
+          "mid": 3.24
+        }
+      ]
+    },
+    {
+      "id": 17647,
+      "name": "Arcane Guardian",
+      "number": "229",
+      "rarity": "C",
+      "type": "Ally — 0/0 Mechanical",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17647/wow-march-of-the-legion-arcane-guardian",
+      "cost": "6",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/229.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17648,
+      "name": "Arcanist Avelena",
+      "number": "230",
+      "rarity": "C",
+      "type": "Ally — 1/2 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17648/wow-march-of-the-legion-arcanist-avelena",
+      "cost": "1",
+      "artist": "Mark Evans",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/230.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.27,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17649,
+      "name": "Arcanist Raith",
+      "number": "231",
+      "rarity": "C",
+      "type": "Ally — 5/4 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17649/wow-march-of-the-legion-arcanist-raith",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/231.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17650,
+      "name": "Arcanist Tian",
+      "number": "232",
+      "rarity": "C",
+      "type": "Ally — 3/3 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17650/wow-march-of-the-legion-arcanist-tian",
+      "cost": "3",
+      "artist": "Brian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/232.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17651,
+      "name": "Archbishop Benedictus",
+      "number": "135",
+      "rarity": "E",
+      "type": "Ally — 0/1 Human Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17651/wow-march-of-the-legion-archbishop-benedictus",
+      "cost": "4",
+      "artist": "Andrew Robinson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/135.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17652,
+      "name": "Arktos",
+      "number": "1",
+      "rarity": "U",
+      "type": "Hero — Night Elf Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17652/wow-march-of-the-legion-arktos",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/1.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.63,
+          "low": 0.25,
+          "mid": 1.63
+        }
+      ]
+    },
+    {
+      "id": 17653,
+      "name": "Arlek Stonehilt",
+      "number": "136",
+      "rarity": "U",
+      "type": "Ally — 1/1 Dwarf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17653/wow-march-of-the-legion-arlek-stonehilt",
+      "cost": "1",
+      "artist": "Vance Kovacs",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/136.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.25,
+          "mid": 0.66
+        }
+      ]
+    },
+    {
+      "id": 17654,
+      "name": "Arnerus Brightsteppe",
+      "number": "173",
+      "rarity": "U",
+      "type": "Ally — 1/1 Tauren Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17654/wow-march-of-the-legion-arnerus-brightsteppe",
+      "cost": "1",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/173.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 17655,
+      "name": "Aspect of the Cheetah",
+      "number": "31",
+      "rarity": "R",
+      "type": "Ability — Beast Mastery",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17655/wow-march-of-the-legion-aspect-of-the-cheetah",
+      "cost": "1",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/31.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 0.25,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 17656,
+      "name": "Bakaar",
+      "number": "137",
+      "rarity": "U",
+      "type": "Ally — 2/1 Draenei Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17656/wow-march-of-the-legion-bakaar",
+      "cost": "1",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/137.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.24,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 17657,
+      "name": "Banish",
+      "number": "103",
+      "rarity": "U",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17657/wow-march-of-the-legion-banish",
+      "cost": "1",
+      "artist": "Chris Legaspi",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/103.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.24,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 17658,
+      "name": "Barkskin",
+      "number": "19",
+      "rarity": "R",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17658/wow-march-of-the-legion-barkskin",
+      "cost": "1",
+      "artist": "Mark Gibbons",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.17,
+          "low": 5,
+          "mid": 7
+        }
+      ]
+    },
+    {
+      "id": 17659,
+      "name": "Bestial Swiftness",
+      "number": "32",
+      "rarity": "R",
+      "type": "Ability — Beast Mastery Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17659/wow-march-of-the-legion-bestial-swiftness",
+      "cost": "2",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/32.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.24,
+          "low": 0.46,
+          "mid": 1.86
+        }
+      ]
+    },
+    {
+      "id": 17660,
+      "name": "Bildros Nullvoid",
+      "number": "2",
+      "rarity": "U",
+      "type": "Hero — Gnome Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17660/wow-march-of-the-legion-bildros-nullvoid",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/2.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.28,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 17661,
+      "name": "Blade of Unquenched Thirst",
+      "number": "275",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17661/wow-march-of-the-legion-blade-of-unquenched-thirst",
+      "cost": "1",
+      "artist": "Robb Shoberg",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/275.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 17662,
+      "name": "Bladefist's Breadth",
+      "number": "270",
+      "rarity": "U",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17662/wow-march-of-the-legion-bladefists-breadth",
+      "cost": "3",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/270.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 17663,
+      "name": "Blademistress Lyss",
+      "number": "139",
+      "rarity": "U",
+      "type": "Ally — 1/4 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17663/wow-march-of-the-legion-blademistress-lyss",
+      "cost": "3",
+      "artist": "JonBoy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/139.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17664,
+      "name": "Blaize Brightspark",
+      "number": "3",
+      "rarity": "U",
+      "type": "Hero — Gnome Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17664/wow-march-of-the-legion-blaize-brightspark",
+      "artist": "Samwise",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/3.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17665,
+      "name": "Blessed Protector",
+      "number": "56",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17665/wow-march-of-the-legion-blessed-protector",
+      "cost": "1",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/56.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17666,
+      "name": "Blind",
+      "number": "80",
+      "rarity": "R",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17666/wow-march-of-the-legion-blind",
+      "cost": "3",
+      "artist": "Miguel Coimbra",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/80.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.75,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 17667,
+      "name": "Bling",
+      "number": "127",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17667/wow-march-of-the-legion-bling",
+      "cost": "1",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/127.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.17,
+          "low": 0.5,
+          "mid": 2.17
+        }
+      ]
+    },
+    {
+      "id": 17668,
+      "name": "Bizzazz",
+      "number": "138",
+      "rarity": "C",
+      "type": "Ally — 3/2 Gnome Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17668/wow-march-of-the-legion-bizzazz",
+      "cost": "3",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/138.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 17669,
+      "name": "The Blood is Life",
+      "number": "295",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17669/wow-march-of-the-legion-the-blood-is-life",
+      "artist": "Tom Flemming",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/295.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17670,
+      "name": "Blood Knight Tarae",
+      "number": "174",
+      "rarity": "U",
+      "type": "Ally — 3/7 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17670/wow-march-of-the-legion-blood-knight-tarae",
+      "cost": "6",
+      "artist": "RK Post",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/174.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 17671,
+      "name": "Bloodblade",
+      "number": "175",
+      "rarity": "C",
+      "type": "Ally — 5/5 Orc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17671/wow-march-of-the-legion-bloodblade",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/175.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 17672,
+      "name": "Bloodeye",
+      "number": "176",
+      "rarity": "C",
+      "type": "Ally — 8/8 Orc Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17672/wow-march-of-the-legion-bloodeye",
+      "cost": "7",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/176.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17673,
+      "name": "Bloodsoul",
+      "number": "177",
+      "rarity": "C",
+      "type": "Ally — 2/3 Orc Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17673/wow-march-of-the-legion-bloodsoul",
+      "cost": "1",
+      "artist": "William O'Connor",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/177.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17674,
+      "name": "Bloodstained Ravager Gauntlets",
+      "number": "256",
+      "rarity": "R",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17674/wow-march-of-the-legion-bloodstained-ravager-gauntlets",
+      "cost": "7",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/256.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.46,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 17675,
+      "name": "Bloody Mary",
+      "number": "10",
+      "rarity": "U",
+      "type": "Hero — Undead Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17675/wow-march-of-the-legion-bloody-mary",
+      "artist": "Samwise",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/10.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 17676,
+      "name": "Bloody Welcome",
+      "number": "34",
+      "rarity": "C",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17676/wow-march-of-the-legion-bloody-welcome",
+      "cost": "2",
+      "artist": "John Bolton",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17677,
+      "name": "Bo'ja, Arcanist Absolute",
+      "number": "11",
+      "rarity": "U",
+      "type": "Hero — Troll Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17677/wow-march-of-the-legion-boja-arcanist-absolute",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17678,
+      "name": "Bolan Earthmend",
+      "number": "178",
+      "rarity": "C",
+      "type": "Ally — 1/4 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17678/wow-march-of-the-legion-bolan-earthmend",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/178.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17679,
+      "name": "Braxxis' Staff of Slumber",
+      "number": "276",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17679/wow-march-of-the-legion-braxxis-staff-of-slumber",
+      "cost": "4",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/276.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.39,
+          "low": 1.38,
+          "mid": 1.39
+        }
+      ]
+    },
+    {
+      "id": 17680,
+      "name": "The Bringer of Death",
+      "number": "277",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17680/wow-march-of-the-legion-the-bringer-of-death",
+      "cost": "5",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/277.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.67,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 17681,
+      "name": "Buying Time",
+      "number": "296",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17681/wow-march-of-the-legion-buying-time",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/296.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17682,
+      "name": "Captain Swash",
+      "number": "179",
+      "rarity": "C",
+      "type": "Ally — 1/1 Orc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17682/wow-march-of-the-legion-captain-swash",
+      "cost": "1",
+      "artist": "Randy Gallegos",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/179.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17683,
+      "name": "Caretaker Devonar",
+      "number": "140",
+      "rarity": "C",
+      "type": "Ally — 5/3 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17683/wow-march-of-the-legion-caretaker-devonar",
+      "cost": "4",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/140.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17684,
+      "name": "Caretaker Mooncrier",
+      "number": "142",
+      "rarity": "C",
+      "type": "Ally — 3/3 Night Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17684/wow-march-of-the-legion-caretaker-mooncrier",
+      "cost": "3",
+      "artist": "Randy Gallegos",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/142.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17685,
+      "name": "Chaigon Steelsight",
+      "number": "4",
+      "rarity": "U",
+      "type": "Hero — Dwarf Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17685/wow-march-of-the-legion-chaigon-steelsight",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/4.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17686,
+      "name": "Chancellor Velora",
+      "number": "12",
+      "rarity": "U",
+      "type": "Hero — Undead Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17686/wow-march-of-the-legion-chancellor-velora",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17687,
+      "name": "Chasten",
+      "number": "68",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17687/wow-march-of-the-legion-chasten",
+      "cost": "3",
+      "artist": "William O'Connor",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/68.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17688,
+      "name": "Cheat Death",
+      "number": "81",
+      "rarity": "R",
+      "type": "Ability — Subtlety Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17688/wow-march-of-the-legion-cheat-death",
+      "cost": "2",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/81.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 1.91,
+          "mid": 1.91
+        }
+      ]
+    },
+    {
+      "id": 17689,
+      "name": "Chill",
+      "number": "91",
+      "rarity": "C",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17689/wow-march-of-the-legion-chill",
+      "cost": "1",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/91.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17690,
+      "name": "Cholda Wildbloom",
+      "number": "180",
+      "rarity": "C",
+      "type": "Ally — 1/3 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17690/wow-march-of-the-legion-cholda-wildbloom",
+      "cost": "3",
+      "artist": "Ron Spencer",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/180.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17691,
+      "name": "Cold Front",
+      "number": "45",
+      "rarity": "C",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17691/wow-march-of-the-legion-cold-front",
+      "cost": "2",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/45.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17692,
+      "name": "\"Cookie\" McWeaksauce",
+      "number": "144",
+      "rarity": "E",
+      "type": "Ally — 2/4 Human Cook",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17692/wow-march-of-the-legion-cookie-mcweaksauce",
+      "cost": "3",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/144.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.99,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17693,
+      "name": "Crippling Shot",
+      "number": "35",
+      "rarity": "C",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17693/wow-march-of-the-legion-crippling-shot",
+      "cost": "2",
+      "artist": "JonBoy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/35.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17694,
+      "name": "Crystalfire Staff",
+      "number": "279",
+      "rarity": "U",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17694/wow-march-of-the-legion-crystalfire-staff",
+      "cost": "6",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/279.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17695,
+      "name": "Curse of Contagion",
+      "number": "104",
+      "rarity": "C",
+      "type": "Ability — Affliction Curse",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17695/wow-march-of-the-legion-curse-of-contagion",
+      "cost": "2",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/104.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.28,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17696,
+      "name": "The Darkeater",
+      "number": "145",
+      "rarity": "R",
+      "type": "Ally — 7/7 Human Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17696/wow-march-of-the-legion-the-darkeater",
+      "cost": "8",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/145.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 17697,
+      "name": "Darynus",
+      "number": "216",
+      "rarity": "C",
+      "type": "Ally — 6/4 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17697/wow-march-of-the-legion-darynus",
+      "cost": "6",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/216.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17698,
+      "name": "Demon Hide Spaulders",
+      "number": "257",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17698/wow-march-of-the-legion-demon-hide-spaulders",
+      "cost": "3",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/257.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17699,
+      "name": "Demonblood Eviscerator",
+      "number": "280",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Fist",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17699/wow-march-of-the-legion-demonblood-eviscerator",
+      "cost": "5",
+      "artist": "Jaysin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/280.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 1,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 17700,
+      "name": "Demonfang Ritual Helm",
+      "number": "258",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17700/wow-march-of-the-legion-demonfang-ritual-helm",
+      "cost": "6",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/258.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.25,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 17701,
+      "name": "Demonic Contamination",
+      "number": "297",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17701/wow-march-of-the-legion-demonic-contamination",
+      "artist": "Lucas Graciano",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/297.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.24,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 17702,
+      "name": "Demonslayer",
+      "number": "281",
+      "rarity": "E",
+      "type": "Equipment — 2H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17702/wow-march-of-the-legion-demonslayer",
+      "cost": "5",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/281.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.75,
+          "low": 1.75,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 17703,
+      "name": "Devil-Stiched Leggings",
+      "rarity": "U",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17703/wow-march-of-the-legion-devil-stiched-leggings",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.21,
+          "mid": 0.29
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.8,
+          "low": 0.6,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 17704,
+      "name": "Doom Lord Kazzak",
+      "number": "248",
+      "rarity": "E",
+      "type": "Ally — 13/13 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17704/wow-march-of-the-legion-doom-lord-kazzak",
+      "cost": "13",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/248.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.68,
+          "low": 1.68,
+          "mid": 1.68
+        }
+      ]
+    },
+    {
+      "id": 17705,
+      "name": "Doomplate Chestguard",
+      "number": "260",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17705/wow-march-of-the-legion-doomplate-chestguard",
+      "cost": "1",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/260.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.4,
+          "mid": 0.76
+        }
+      ]
+    },
+    {
+      "id": 17706,
+      "name": "Doshura Risestrider",
+      "number": "181",
+      "rarity": "U",
+      "type": "Ally — 2/4 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17706/wow-march-of-the-legion-doshura-risestrider",
+      "cost": "4",
+      "artist": "Lucas Graciano",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/181.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.22,
+          "mid": 0.25
+        },
+        {
+          "sub": "Foil",
+          "usd": 4.99,
+          "low": 3.99,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 17707,
+      "name": "Double Barrel",
+      "number": "36",
+      "rarity": "U",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17707/wow-march-of-the-legion-double-barrel",
+      "cost": "1",
+      "artist": "Graven Tung",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17708,
+      "name": "Dousing the Flames of Protection",
+      "number": "298",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17708/wow-march-of-the-legion-dousing-the-flames-of-protection",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/298.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.25,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 17709,
+      "name": "Drain Mana",
+      "number": "105",
+      "rarity": "R",
+      "type": "Ability — Affliction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17709/wow-march-of-the-legion-drain-mana",
+      "cost": "4",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/105.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 3,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 17710,
+      "name": "Dralor",
+      "number": "5",
+      "rarity": "U",
+      "type": "Hero — Human Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17710/wow-march-of-the-legion-dralor",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/5.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.04,
+          "low": 0.34,
+          "mid": 2.04
+        }
+      ]
+    },
+    {
+      "id": 17711,
+      "name": "Druid Training",
+      "number": "21",
+      "rarity": "U",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17711/wow-march-of-the-legion-druid-training",
+      "cost": "1",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/21.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17712,
+      "name": "Durae Crystalshield",
+      "number": "146",
+      "rarity": "C",
+      "type": "Ally — 2/3 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17712/wow-march-of-the-legion-durae-crystalshield",
+      "cost": "2",
+      "artist": "Volkan Baga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/146.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.91,
+          "low": 0.1,
+          "mid": 0.91
+        }
+      ]
+    },
+    {
+      "id": 17713,
+      "name": "Earth and Sky",
+      "number": "22",
+      "rarity": "C",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17713/wow-march-of-the-legion-earth-and-sky",
+      "cost": "4",
+      "artist": "Miguel Coimbra",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/22.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17714,
+      "name": "Earth's Bounty",
+      "number": "93",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17714/wow-march-of-the-legion-earths-bounty",
+      "cost": "3",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/93.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17715,
+      "name": "Earthrend Weapon",
+      "number": "92",
+      "rarity": "R",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17715_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17715/wow-march-of-the-legion-earthrend-weapon",
+      "cost": "7",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/92.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.5,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 17716,
+      "name": "Echo of the Elements",
+      "number": "94",
+      "rarity": "R",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17716/wow-march-of-the-legion-echo-of-the-elements",
+      "cost": "3",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/94.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.18,
+          "low": 0.25,
+          "mid": 1.18
+        }
+      ]
+    },
+    {
+      "id": 17717,
+      "name": "Elements' Fury",
+      "number": "95",
+      "rarity": "C",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17717/wow-march-of-the-legion-elements-fury",
+      "cost": "3",
+      "artist": "Justin Sweet",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/95.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 17718,
+      "name": "The Essence Focuser",
+      "number": "282",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17718/wow-march-of-the-legion-the-essence-focuser",
+      "cost": "2",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/282.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.47,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 17719,
+      "name": "Exorcism",
+      "number": "57",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17719_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17719/wow-march-of-the-legion-exorcism",
+      "cost": "1",
+      "artist": "Miguel Coimbra",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/57.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17720,
+      "name": "Ezra Phoenix",
+      "number": "182",
+      "rarity": "C",
+      "type": "Ally — 1/8 Tauren Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17720/wow-march-of-the-legion-ezra-phoenix",
+      "cost": "6",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/182.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17721,
+      "name": "Falling to Corruption",
+      "number": "299",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17721_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17721/wow-march-of-the-legion-falling-to-corruption",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/299.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17722,
+      "name": "Fel Cannon",
+      "number": "249",
+      "rarity": "U",
+      "type": "Ally — 1/4 Mechanical",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17722/wow-march-of-the-legion-fel-cannon",
+      "cost": "3",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/249.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.87,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17723,
+      "name": "Fel Leather Gloves",
+      "number": "261",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17723/wow-march-of-the-legion-fel-leather-gloves",
+      "cost": "3",
+      "artist": "Steve Hui",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/261.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17724,
+      "name": "Fel Pact",
+      "number": "106",
+      "rarity": "R",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17724/wow-march-of-the-legion-fel-pact",
+      "cost": "6",
+      "artist": "Kevin Chin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/106.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.73,
+          "low": 4.97,
+          "mid": 5.73
+        }
+      ]
+    },
+    {
+      "id": 17725,
+      "name": "Feral Instinct",
+      "number": "23",
+      "rarity": "R",
+      "type": "Ability — Feral Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17725_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17725/wow-march-of-the-legion-feral-instinct",
+      "cost": "1",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.61,
+          "low": 1.38,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 17726,
+      "name": "A Final Blow",
+      "number": "300",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17726_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17726/wow-march-of-the-legion-a-final-blow",
+      "artist": "Jim Murray",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/300.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17727,
+      "name": "Forang Deathrattle",
+      "number": "13",
+      "rarity": "U",
+      "type": "Hero — Orc Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17727/wow-march-of-the-legion-forang-deathrattle",
+      "artist": "Greg Staples",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17728,
+      "name": "Force Commander Danath Trollbane",
+      "number": "147",
+      "rarity": "E",
+      "type": "Ally — 6/7 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17728/wow-march-of-the-legion-force-commander-danath-trollbane",
+      "cost": "7",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/147.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.73,
+          "low": 2.5,
+          "mid": 3.73
+        }
+      ]
+    },
+    {
+      "id": 17729,
+      "name": "Forge Camp: Annihilated",
+      "number": "302",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17729/wow-march-of-the-legion-forge-camp-annihilated",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/302.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.25,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 17730,
+      "name": "The Formation of Felbane",
+      "number": "303",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17730/wow-march-of-the-legion-the-formation-of-felbane",
+      "artist": "Jaysin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/303.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.16,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17731,
+      "name": "Freezing Band",
+      "number": "271",
+      "rarity": "E",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17731/wow-march-of-the-legion-freezing-band",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/271.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.75,
+          "low": 1.75,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 17732,
+      "name": "Fuel for the Fire",
+      "number": "47",
+      "rarity": "R",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17732/wow-march-of-the-legion-fuel-for-the-fire",
+      "cost": "5",
+      "artist": "Jeff Easley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/47.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.54,
+          "low": 0.25,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 17733,
+      "name": "\"Fungus Face\" McGillicutty",
+      "number": "183",
+      "rarity": "C",
+      "type": "Ally — 3/3 Undead Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17733/wow-march-of-the-legion-fungus-face-mcgillicutty",
+      "cost": "3",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/183.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17734,
+      "name": "Gabble",
+      "number": "148",
+      "rarity": "C",
+      "type": "Ally — 7/5 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17734/wow-march-of-the-legion-gabble",
+      "cost": "7",
+      "artist": "Greg Hildebrandt",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/148.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17735,
+      "name": "Gareth Ironshot",
+      "number": "149",
+      "rarity": "C",
+      "type": "Ally — 2/6 Dwarf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17735/wow-march-of-the-legion-gareth-ironshot",
+      "cost": "5",
+      "artist": "Trevor Jacobs",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/149.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17736,
+      "name": "Gauntlets of the Skullsplitter",
+      "number": "262",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17736/wow-march-of-the-legion-gauntlets-of-the-skullsplitter",
+      "cost": "3",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/262.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.19,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17737,
+      "name": "Gear Upgrade",
+      "number": "115",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17737/wow-march-of-the-legion-gear-upgrade",
+      "cost": "1",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/115.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.2,
+          "low": 0.62,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 17738,
+      "name": "Gift of the Wild",
+      "number": "24",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17738/wow-march-of-the-legion-gift-of-the-wild",
+      "cost": "6",
+      "artist": "King Mong",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17739,
+      "name": "Givon",
+      "number": "150",
+      "rarity": "U",
+      "type": "Ally — 5/4 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17739/wow-march-of-the-legion-givon",
+      "cost": "6",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/150.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 0.1,
+          "mid": 0.94
+        }
+      ]
+    },
+    {
+      "id": 17740,
+      "name": "Golas Swiftwind",
+      "number": "184",
+      "rarity": "U",
+      "type": "Ally — 4/1 Tauren Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17740/wow-march-of-the-legion-golas-swiftwind",
+      "cost": "2",
+      "artist": "Hideaki Takamura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/184.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.25,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 17741,
+      "name": "Grandma Deadsie",
+      "number": "185",
+      "rarity": "R",
+      "type": "Ally — 1/1 Undead Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17741/wow-march-of-the-legion-grandma-deadsie",
+      "cost": "3",
+      "artist": "Dermot Power",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/185.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17742,
+      "name": "Greatsword of Horrid Dreams",
+      "number": "283",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17742/wow-march-of-the-legion-greatsword-of-horrid-dreams",
+      "cost": "4",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/283.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.66,
+          "low": 0.55,
+          "mid": 1.66
+        }
+      ]
+    },
+    {
+      "id": 17743,
+      "name": "Groundshaker Earnheart",
+      "number": "186",
+      "rarity": "C",
+      "type": "Ally — 5/5 Tauren Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17743/wow-march-of-the-legion-groundshaker-earnheart",
+      "cost": "6",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/186.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 17744,
+      "name": "Gurzuk",
+      "number": "187",
+      "rarity": "C",
+      "type": "Ally — 2/3 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17744/wow-march-of-the-legion-gurzuk",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/187.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.19,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 17745,
+      "name": "Haaroon",
+      "number": "107",
+      "rarity": "R",
+      "type": "Ally — 6/6 Felguard Demon Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17745/wow-march-of-the-legion-haaroon",
+      "cost": "5",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/107.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17746,
+      "name": "Halavar",
+      "number": "6",
+      "rarity": "U",
+      "type": "Hero — Draenei Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17746/wow-march-of-the-legion-halavar",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/6.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.25,
+          "mid": 0.32
+        },
+        {
+          "sub": "Foil",
+          "usd": 3.49,
+          "low": 2.99,
+          "mid": 3.49
+        }
+      ]
+    },
+    {
+      "id": 17747,
+      "name": "Hanaga Silvervein",
+      "number": "151",
+      "rarity": "C",
+      "type": "Ally — 1/3 Dwarf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17747/wow-march-of-the-legion-hanaga-silvervein",
+      "cost": "2",
+      "artist": "Mark Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/151.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17748,
+      "name": "Hauberk of Desolation",
+      "number": "263",
+      "rarity": "U",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17748/wow-march-of-the-legion-hauberk-of-desolation",
+      "cost": "5",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/263.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.24,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 17749,
+      "name": "Head Trauma",
+      "number": "82",
+      "rarity": "C",
+      "type": "Ability — Assassination",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17749/wow-march-of-the-legion-head-trauma",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/82.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17750,
+      "name": "Heartening Arrival",
+      "number": "69",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17750/wow-march-of-the-legion-heartening-arrival",
+      "cost": "3",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/69.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17751,
+      "name": "Hekto Starspire",
+      "number": "14",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17751/wow-march-of-the-legion-hekto-starspire",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17752,
+      "name": "Hellfire Fortifications",
+      "number": "305",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17752/wow-march-of-the-legion-hellfire-fortifications",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/305.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17753,
+      "name": "Hemet's Elekk Gun",
+      "number": "284",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Gun",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17753_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17753/wow-march-of-the-legion-hemets-elekk-gun",
+      "cost": "5",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/284.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17754,
+      "name": "Hide and Stab",
+      "number": "83",
+      "rarity": "C",
+      "type": "Ability — Subtlety Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17754_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17754/wow-march-of-the-legion-hide-and-stab",
+      "cost": "1",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/83.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.19,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 17755,
+      "name": "Hota the Bloodsoaked",
+      "number": "188",
+      "rarity": "C",
+      "type": "Ally — 4/4 Orc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17755_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17755/wow-march-of-the-legion-hota-the-bloodsoaked",
+      "cost": "4",
+      "artist": "John Bolton",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/188.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 17756,
+      "name": "Hungering Bone Cudgel",
+      "number": "285",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17756/wow-march-of-the-legion-hungering-bone-cudgel",
+      "cost": "4",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/285.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.76
+        }
+      ]
+    },
+    {
+      "id": 17757,
+      "name": "Hunter Training",
+      "number": "37",
+      "rarity": "U",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17757_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17757/wow-march-of-the-legion-hunter-training",
+      "cost": "1",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.26,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17758,
+      "name": "Imp Mistress Noali",
+      "number": "189",
+      "rarity": "R",
+      "type": "Ally — 4/4 Blood Elf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17758_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17758/wow-march-of-the-legion-imp-mistress-noali",
+      "cost": "6",
+      "artist": "Lorenzo Sperlonga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/189.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.97,
+          "low": 1.97,
+          "mid": 1.97
+        }
+      ]
+    },
+    {
+      "id": 17759,
+      "name": "Infusion of Fortitude",
+      "number": "71",
+      "rarity": "C",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17759_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17759/wow-march-of-the-legion-infusion-of-fortitude",
+      "cost": "1",
+      "artist": "Alex Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/71.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.06,
+          "low": 0.39,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 17760,
+      "name": "Ingrid Shadowstorm",
+      "number": "153",
+      "rarity": "C",
+      "type": "Ally — 3/5 Human Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17760_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17760/wow-march-of-the-legion-ingrid-shadowstorm",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/153.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17761,
+      "name": "Instructor Antheol",
+      "number": "190",
+      "rarity": "E",
+      "type": "Ally — 4/5 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17761_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17761/wow-march-of-the-legion-instructor-antheol",
+      "cost": "5",
+      "artist": "UDON",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/190.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 5.47
+        }
+      ]
+    },
+    {
+      "id": 17762,
+      "name": "Intensify Rage",
+      "number": "116",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17762_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17762/wow-march-of-the-legion-intensify-rage",
+      "cost": "2",
+      "artist": "Vance Kovacs",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/116.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.15,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17763,
+      "name": "Invigorating Touch",
+      "number": "25",
+      "rarity": "U",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17763_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17763/wow-march-of-the-legion-invigorating-touch",
+      "cost": "1",
+      "artist": "Rhoald",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.79,
+          "low": 0.79,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 17764,
+      "name": "Invoke the Nether",
+      "number": "108",
+      "rarity": "R",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17764_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17764/wow-march-of-the-legion-invoke-the-nether",
+      "cost": "6",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/108.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.67,
+          "low": 0.34,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 17765,
+      "name": "Jaedan Sunshot",
+      "number": "191",
+      "rarity": "C",
+      "type": "Ally — 2/2 Blood Elf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17765_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17765/wow-march-of-the-legion-jaedan-sunshot",
+      "cost": "2",
+      "artist": "Randy Gallegos",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/191.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.1,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17766,
+      "name": "Jav Stonewall",
+      "number": "154",
+      "rarity": "C",
+      "type": "Ally — 1/1 Dwarf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17766_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17766/wow-march-of-the-legion-jav-stonewall",
+      "cost": "1",
+      "artist": "Dave Dorman",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/154.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17767,
+      "name": "Ja'zoona",
+      "number": "192",
+      "rarity": "C",
+      "type": "Ally — 2/6 Troll Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17767_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17767/wow-march-of-the-legion-jazoona",
+      "cost": "4",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/192.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17768,
+      "name": "Judgement of Light",
+      "number": "58",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17768_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17768/wow-march-of-the-legion-judgement-of-light",
+      "cost": "2",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/58.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.38,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 17769,
+      "name": "Judgement of Wisdom",
+      "number": "59",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17769_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17769/wow-march-of-the-legion-judgement-of-wisdom",
+      "cost": "5",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/59.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.31,
+          "low": 1,
+          "mid": 1.31
+        }
+      ]
+    },
+    {
+      "id": 17770,
+      "name": "Jurpak",
+      "number": "193",
+      "rarity": "C",
+      "type": "Ally — 1/3 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17770_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17770/wow-march-of-the-legion-jurpak",
+      "cost": "2",
+      "artist": "Malcolm Davis",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/193.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 17771,
+      "name": "Kallas Sunflame",
+      "number": "194",
+      "rarity": "R",
+      "type": "Ally — 6/5 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17771_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17771/wow-march-of-the-legion-kallas-sunflame",
+      "cost": "6",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/194.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.34,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17772,
+      "name": "Kassandra Flameheart",
+      "number": "15",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17772_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17772/wow-march-of-the-legion-kassandra-flameheart",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 17773,
+      "name": "Keegana Silvershield",
+      "number": "7",
+      "rarity": "U",
+      "type": "Hero — Dwarf Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17773_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17773/wow-march-of-the-legion-keegana-silvershield",
+      "artist": "James Wong",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/7.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.24,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17774,
+      "name": "Kiki Sparkbottom",
+      "number": "155",
+      "rarity": "U",
+      "type": "Ally — 1/3 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17774_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17774/wow-march-of-the-legion-kiki-sparkbottom",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/155.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17775,
+      "name": "Kindred Spirits",
+      "number": "72",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17775_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17775/wow-march-of-the-legion-kindred-spirits",
+      "cost": "7",
+      "artist": "Lucio Parrillo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/72.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.06,
+          "low": 0.5,
+          "mid": 1.06
+        }
+      ]
+    },
+    {
+      "id": 17776,
+      "name": "Kintara Wintermoon",
+      "number": "8",
+      "rarity": "U",
+      "type": "Hero — Night Elf Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17776_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17776/wow-march-of-the-legion-kintara-wintermoon",
+      "artist": "Kev Walker",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/8.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 17777,
+      "name": "Kyla Duskrider",
+      "number": "156",
+      "rarity": "C",
+      "type": "Ally — 2/3 Night Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17777_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17777/wow-march-of-the-legion-kyla-duskrider",
+      "cost": "3",
+      "artist": "Ashley Wood",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/156.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.25,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 17778,
+      "name": "Levixus the Soul Caller",
+      "number": "306",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17778_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17778/wow-march-of-the-legion-levixus-the-soul-caller",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/306.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.25,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 17779,
+      "name": "The Light's Largess",
+      "number": "60",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17779_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17779/wow-march-of-the-legion-the-lights-largess",
+      "cost": "2",
+      "artist": "Jason Chan",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/60.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.23,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17780,
+      "name": "Magdeline Prideheart",
+      "number": "157",
+      "rarity": "C",
+      "type": "Ally — 4/4 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17780_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17780/wow-march-of-the-legion-magdeline-prideheart",
+      "cost": "5",
+      "artist": "John Bolton",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/157.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17781,
+      "name": "Mage Training",
+      "number": "48",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17781_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17781/wow-march-of-the-legion-mage-training",
+      "cost": "1",
+      "artist": "Samwise",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/48.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.25,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 17782,
+      "name": "Magister Ashi",
+      "number": "233",
+      "rarity": "C",
+      "type": "Ally — 2/1 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17782_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17782/wow-march-of-the-legion-magister-ashi",
+      "cost": "1",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/233.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17783,
+      "name": "Magister Lashan",
+      "number": "234",
+      "rarity": "U",
+      "type": "Ally — 3/1 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17783_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17783/wow-march-of-the-legion-magister-lashan",
+      "cost": "4",
+      "artist": "Justin Sweet",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/234.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.73,
+          "low": 0.43,
+          "mid": 0.73
+        }
+      ]
+    },
+    {
+      "id": 17784,
+      "name": "Magistrix Fyalenn",
+      "number": "235",
+      "rarity": "E",
+      "type": "Ally — 3/6 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17784_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17784/wow-march-of-the-legion-magistrix-fyalenn",
+      "cost": "6",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/235.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 5.88,
+          "mid": 5.88
+        }
+      ]
+    },
+    {
+      "id": 17785,
+      "name": "Magistrix Oleinas",
+      "number": "236",
+      "rarity": "R",
+      "type": "Ally — 4/5 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17785_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17785/wow-march-of-the-legion-magistrix-oleinas",
+      "cost": "5",
+      "artist": "Lucio Parrillo",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/236.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 0.95,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17786,
+      "name": "Magistrix Tibrana",
+      "number": "237",
+      "rarity": "U",
+      "type": "Ally — 3/2 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17786_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17786/wow-march-of-the-legion-magistrix-tibrana",
+      "cost": "3",
+      "artist": "Jason Chan",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/237.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.33,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17787,
+      "name": "Magma Spike",
+      "number": "49",
+      "rarity": "C",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17787_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17787/wow-march-of-the-legion-magma-spike",
+      "cost": "4",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/49.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17788,
+      "name": "Mana Spring Totem",
+      "number": "96",
+      "rarity": "U",
+      "type": "Ability — Restoration — 1",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17788_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17788/wow-march-of-the-legion-mana-spring-totem",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/96.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17789,
+      "name": "Mana-Etched Vestments",
+      "number": "264",
+      "rarity": "U",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17789_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17789/wow-march-of-the-legion-mana-etched-vestments",
+      "cost": "3",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/264.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.25,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 17790,
+      "name": "Manaspark Gloves",
+      "number": "265",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17790_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17790/wow-march-of-the-legion-manaspark-gloves",
+      "cost": "3",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/265.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.84,
+          "low": 0.68,
+          "mid": 1.84
+        }
+      ]
+    },
+    {
+      "id": 17791,
+      "name": "Marka Addington",
+      "number": "195",
+      "rarity": "U",
+      "type": "Ally — 7/7 Undead Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17791_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17791/wow-march-of-the-legion-marka-addington",
+      "cost": "5",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/195.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.25,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 17792,
+      "name": "Marksman Boriz",
+      "number": "218",
+      "rarity": "U",
+      "type": "Ally — 3/5 Draenei Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17792/wow-march-of-the-legion-marksman-boriz",
+      "cost": "6",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/218.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.23,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17793,
+      "name": "Marnie Moonlight",
+      "number": "158",
+      "rarity": "U",
+      "type": "Ally — 2/5 Human Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17793/wow-march-of-the-legion-marnie-moonlight",
+      "cost": "4",
+      "artist": "Terese Nielsen",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/158.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.25,
+          "mid": 1.89
+        }
+      ]
+    },
+    {
+      "id": 17794,
+      "name": "Martyr's Mending",
+      "number": "61",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17794_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17794/wow-march-of-the-legion-martyrs-mending",
+      "cost": "3",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/61.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.46,
+          "low": 1.25,
+          "mid": 1.46
+        }
+      ]
+    },
+    {
+      "id": 17795,
+      "name": "Meeting Stone",
+      "number": "129",
+      "rarity": "E",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17795_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17795/wow-march-of-the-legion-meeting-stone",
+      "cost": "10",
+      "artist": "Sam Basri",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/129.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.97,
+          "low": 4.97,
+          "mid": 4.97
+        }
+      ]
+    },
+    {
+      "id": 17796,
+      "name": "Memri the Channeler",
+      "number": "9",
+      "rarity": "U",
+      "type": "Hero — Draenei Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17796_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17796/wow-march-of-the-legion-memri-the-channeler",
+      "artist": "Volkan Baga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/9.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.17,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 17797,
+      "name": "Mental Anguish",
+      "number": "73",
+      "rarity": "C",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17797_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17797/wow-march-of-the-legion-mental-anguish",
+      "cost": "3",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/73.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.24,
+          "mid": 0.69
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.5,
+          "low": 0.25,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 17798,
+      "name": "Miner Harshdin",
+      "number": "159",
+      "rarity": "U",
+      "type": "Ally — 1/2 Dwarf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17798_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17798/wow-march-of-the-legion-miner-harshdin",
+      "cost": "1",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/159.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 17799,
+      "name": "Miner Stonedeep",
+      "number": "160",
+      "rarity": "R",
+      "type": "Ally — 5/7 Dwarf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17799_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17799/wow-march-of-the-legion-miner-stonedeep",
+      "cost": "7",
+      "artist": "Esad Ribic",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/160.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17800,
+      "name": "Mission: The Abyssal Shelf",
+      "number": "307",
+      "rarity": "R",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17800/wow-march-of-the-legion-mission-the-abyssal-shelf",
+      "artist": "Justin Sweet",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/307.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.11,
+          "low": 0.8,
+          "mid": 1.11
+        }
+      ]
+    },
+    {
+      "id": 17801,
+      "name": "The Name of the Beast",
+      "number": "308",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17801_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17801/wow-march-of-the-legion-the-name-of-the-beast",
+      "artist": "Svetlin Velinov",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/308.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17802,
+      "name": "Natural Remedies",
+      "number": "309",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17802_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17802/wow-march-of-the-legion-natural-remedies",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/309.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17803,
+      "name": "Nazgrel, Advisor to Thrall",
+      "number": "196",
+      "rarity": "E",
+      "type": "Ally — 7/6 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17803_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17803/wow-march-of-the-legion-nazgrel-advisor-to-thrall",
+      "cost": "7",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/196.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17804,
+      "name": "Neophyte Morandi",
+      "number": "219",
+      "rarity": "C",
+      "type": "Ally — 1/3 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17804_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17804/wow-march-of-the-legion-neophyte-morandi",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/219.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.24,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 17805,
+      "name": "Nether Fracture",
+      "number": "50",
+      "rarity": "C",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17805_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17805/wow-march-of-the-legion-nether-fracture",
+      "cost": "3",
+      "artist": "Malcolm Davis",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/50.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.2,
+          "mid": 0.48
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.99,
+          "low": 2.99,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 17806,
+      "name": "Nexus Torch",
+      "number": "286",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17806_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17806/wow-march-of-the-legion-nexus-torch",
+      "cost": "4",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/286.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17807,
+      "name": "Obfuscate",
+      "number": "84",
+      "rarity": "C",
+      "type": "Ability — Subtlety Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17807_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17807/wow-march-of-the-legion-obfuscate",
+      "cost": "1",
+      "artist": "Matt Stewart",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/84.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.19,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17808,
+      "name": "On the Brink",
+      "number": "85",
+      "rarity": "C",
+      "type": "Ability — Assassination Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17808_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17808/wow-march-of-the-legion-on-the-brink",
+      "cost": "1",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/85.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17809,
+      "name": "OOX of Your Own, An",
+      "rarity": "R",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17809_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17809/wow-march-of-the-legion-oox-of-your-own-an",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.97,
+          "low": 0.19,
+          "mid": 0.97
+        }
+      ]
+    },
+    {
+      "id": 17810,
+      "name": "Ossandran, Crematorium Master",
+      "number": "198",
+      "rarity": "C",
+      "type": "Ally — 3/5 Undead Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17810_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17810/wow-march-of-the-legion-ossandran-crematorium-master",
+      "cost": "4",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/198.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17811,
+      "name": "Paladin Training",
+      "number": "62",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17811_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17811/wow-march-of-the-legion-paladin-training",
+      "cost": "1",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/62.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17812,
+      "name": "Piana",
+      "number": "161",
+      "rarity": "C",
+      "type": "Ally — 0/2 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17812_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17812/wow-march-of-the-legion-piana",
+      "cost": "1",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/161.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17813,
+      "name": "Piercing Howl",
+      "number": "117",
+      "rarity": "R",
+      "type": "Ability — Fury Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17813_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17813/wow-march-of-the-legion-piercing-howl",
+      "cost": "5",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/117.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 0.75,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 17814,
+      "name": "Platinum Shield of the Valorous",
+      "number": "266",
+      "rarity": "U",
+      "type": "Equipment — Armor — Shield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17814/wow-march-of-the-legion-platinum-shield-of-the-valorous",
+      "cost": "3",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/266.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.87,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17815,
+      "name": "\"Poison Tongue\" McGillicutty",
+      "number": "199",
+      "rarity": "U",
+      "type": "Ally — 3/3 Undead Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17815_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17815/wow-march-of-the-legion-poison-tongue-mcgillicutty",
+      "cost": "5",
+      "artist": "Mark Gibbons",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/199.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17816,
+      "name": "Prayer of Fortitude",
+      "number": "74",
+      "rarity": "R",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17816_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17816/wow-march-of-the-legion-prayer-of-fortitude",
+      "cost": "6",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/74.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.17,
+          "low": 1.5,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 17817,
+      "name": "Pride of the Fel Horde",
+      "number": "311",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17817_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17817/wow-march-of-the-legion-pride-of-the-fel-horde",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/311.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.23,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17818,
+      "name": "Priest Training",
+      "number": "75",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17818_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17818/wow-march-of-the-legion-priest-training",
+      "cost": "1",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/75.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.23,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 17819,
+      "name": "Rahn Grimstaff",
+      "number": "162",
+      "rarity": "C",
+      "type": "Ally — 1/3 Human Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17819_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17819/wow-march-of-the-legion-rahn-grimstaff",
+      "cost": "2",
+      "artist": "Aleksi Briclot",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/162.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17820,
+      "name": "Razorsaw",
+      "number": "250",
+      "rarity": "R",
+      "type": "Ally — 7/4 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17820_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17820/wow-march-of-the-legion-razorsaw",
+      "cost": "6",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/250.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.48,
+          "mid": 0.57
+        }
+      ]
+    },
+    {
+      "id": 17821,
+      "name": "Reclusion",
+      "number": "63",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17821_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17821/wow-march-of-the-legion-reclusion",
+      "cost": "2",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/63.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17822,
+      "name": "Retainer Jitaen",
+      "number": "238",
+      "rarity": "C",
+      "type": "Ally — 1/3 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17822_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17822/wow-march-of-the-legion-retainer-jitaen",
+      "cost": "2",
+      "artist": "Mark Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/238.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.2,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17823,
+      "name": "Retainer Kedryn",
+      "number": "239",
+      "rarity": "C",
+      "type": "Ally — 1/1 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17823/wow-march-of-the-legion-retainer-kedryn",
+      "cost": "2",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/239.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.2,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17824,
+      "name": "Retainer Khorbus",
+      "number": "240",
+      "rarity": "U",
+      "type": "Ally — 4/4 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17824_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17824/wow-march-of-the-legion-retainer-khorbus",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/240.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.25,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 17825,
+      "name": "Retainer Nealos",
+      "number": "242",
+      "rarity": "C",
+      "type": "Ally — 2/3 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17825_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17825/wow-march-of-the-legion-retainer-nealos",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/242.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.19,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 17826,
+      "name": "Retainer Salvan",
+      "number": "243",
+      "rarity": "C",
+      "type": "Ally — 2/1 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17826_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17826/wow-march-of-the-legion-retainer-salvan",
+      "cost": "1",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/243.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.2,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17827,
+      "name": "Retainer Zaelan",
+      "number": "244",
+      "rarity": "C",
+      "type": "Ally — 2/5 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17827_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17827/wow-march-of-the-legion-retainer-zaelan",
+      "cost": "4",
+      "artist": "Tom Flemming",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/244.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.2,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17828,
+      "name": "Retaliation",
+      "number": "119",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17828_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17828/wow-march-of-the-legion-retaliation",
+      "cost": "1",
+      "artist": "Dave Dorman",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/119.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 17829,
+      "name": "Retribution of the Light",
+      "number": "312",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17829_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17829/wow-march-of-the-legion-retribution-of-the-light",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/312.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17830,
+      "name": "Ring of Flowing Light",
+      "number": "272",
+      "rarity": "U",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17830/wow-march-of-the-legion-ring-of-flowing-light",
+      "cost": "1",
+      "artist": "Hugh Jamieson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/272.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17831,
+      "name": "Ripper",
+      "number": "38",
+      "rarity": "U",
+      "type": "Ally — 1/1 Ravager",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17831_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17831/wow-march-of-the-legion-ripper",
+      "cost": "1",
+      "artist": "Kevin Chin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/38.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17832,
+      "name": "The Root of All Evil",
+      "number": "313",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17832_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17832/wow-march-of-the-legion-the-root-of-all-evil",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/313.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17833,
+      "name": "Rogue Training",
+      "number": "86",
+      "rarity": "U",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17833_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17833/wow-march-of-the-legion-rogue-training",
+      "cost": "1",
+      "artist": "E.M. Gist",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/86.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.24,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17834,
+      "name": "Routeen",
+      "number": "163",
+      "rarity": "C",
+      "type": "Ally — 2/1 Draenei Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17834_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17834/wow-march-of-the-legion-routeen",
+      "cost": "1",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/163.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.15,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 17835,
+      "name": "Ruala the Spotter",
+      "number": "200",
+      "rarity": "U",
+      "type": "Ally — 0/3 Troll Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17835/wow-march-of-the-legion-ruala-the-spotter",
+      "cost": "3",
+      "artist": "John Moriarty",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/200.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.1,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17836,
+      "name": "Rulrin",
+      "number": "109",
+      "rarity": "U",
+      "type": "Ally — 0/1 Imp Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17836/wow-march-of-the-legion-rulrin",
+      "cost": "0",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/109.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17837,
+      "name": "Sacred Purification",
+      "number": "64",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17837/wow-march-of-the-legion-sacred-purification",
+      "cost": "1",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/64.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.38,
+          "low": 2,
+          "mid": 2.38
+        }
+      ]
+    },
+    {
+      "id": 17838,
+      "name": "Safeguard",
+      "number": "120",
+      "rarity": "C",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17838_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17838/wow-march-of-the-legion-safeguard",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/120.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.15,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 17839,
+      "name": "Salt the Wounds",
+      "number": "121",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17839_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17839/wow-march-of-the-legion-salt-the-wounds",
+      "cost": "1",
+      "artist": "Hideaki Takamura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/121.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.24,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17840,
+      "name": "Scepter of the Unholy",
+      "number": "288",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17840/wow-march-of-the-legion-scepter-of-the-unholy",
+      "cost": "4",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/288.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17841,
+      "name": "Scraps",
+      "number": "39",
+      "rarity": "C",
+      "type": "Ally — 4/3 Carrion Bird",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17841_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17841/wow-march-of-the-legion-scraps",
+      "cost": "2",
+      "artist": "Bernie Kang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.18,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17842,
+      "name": "Seamus Somerset",
+      "number": "201",
+      "rarity": "U",
+      "type": "Ally — 2/1 Undead Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17842_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17842/wow-march-of-the-legion-seamus-somerset",
+      "cost": "2",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/201.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 17843,
+      "name": "Sentry Totem",
+      "number": "98",
+      "rarity": "U",
+      "type": "Ability — Enhancement — 1",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17843/wow-march-of-the-legion-sentry-totem",
+      "cost": "2",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/98.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17844,
+      "name": "Serpent Sting",
+      "number": "40",
+      "rarity": "C",
+      "type": "Ability — Marksmanship Sting",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17844/wow-march-of-the-legion-serpent-sting",
+      "cost": "2",
+      "artist": "Twee Qim",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/40.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17845,
+      "name": "Shadala",
+      "number": "202",
+      "rarity": "C",
+      "type": "Ally — 2/2 Blood Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17845_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17845/wow-march-of-the-legion-shadala",
+      "cost": "2",
+      "artist": "Ittoku Seta",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/202.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.74,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 17846,
+      "name": "Shadow Weaving",
+      "number": "76",
+      "rarity": "R",
+      "type": "Ability — Shadow Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17846/wow-march-of-the-legion-shadow-weaving",
+      "cost": "4",
+      "artist": "Mark Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/76.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.68,
+          "low": 5.68,
+          "mid": 5.68
+        }
+      ]
+    },
+    {
+      "id": 17847,
+      "name": "Shadowstalker's Sash",
+      "number": "267",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17847_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17847/wow-march-of-the-legion-shadowstalkers-sash",
+      "cost": "4",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/267.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.43,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17848,
+      "name": "Shaman Training",
+      "number": "99",
+      "rarity": "U",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17848_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17848/wow-march-of-the-legion-shaman-training",
+      "cost": "1",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/99.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 17849,
+      "name": "Sharial",
+      "number": "164",
+      "rarity": "U",
+      "type": "Ally — 5/1 Night Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17849_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17849/wow-march-of-the-legion-sharial",
+      "cost": "5",
+      "artist": "Graven Tung",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/164.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.23,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17850,
+      "name": "Shattrath City Peacekeeper",
+      "number": "252",
+      "rarity": "C",
+      "type": "Ally — 1/1 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17850_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17850/wow-march-of-the-legion-shattrath-city-peacekeeper",
+      "cost": "3",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/252.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.18,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17851,
+      "name": "Sheath of Light",
+      "number": "66",
+      "rarity": "U",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17851_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17851/wow-march-of-the-legion-sheath-of-light",
+      "cost": "3",
+      "artist": "Aleksi Briclot",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/66.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.24,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 17852,
+      "name": "Shem Reznict",
+      "number": "165",
+      "rarity": "R",
+      "type": "Ally — 2/6 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17852_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17852/wow-march-of-the-legion-shem-reznict",
+      "cost": "6",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/165.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.64,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17853,
+      "name": "Shred",
+      "number": "27",
+      "rarity": "C",
+      "type": "Ability — Feral",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17853_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17853/wow-march-of-the-legion-shred",
+      "cost": "2",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/27.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.24,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 17854,
+      "name": "Silea Dawnwalker",
+      "number": "203",
+      "rarity": "C",
+      "type": "Ally — 3/4 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17854/wow-march-of-the-legion-silea-dawnwalker",
+      "cost": "5",
+      "artist": "Boros-Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/203.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.15,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 17855,
+      "name": "Singing Crystal Axe",
+      "number": "289",
+      "rarity": "E",
+      "type": "Equipment — 2H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17855/wow-march-of-the-legion-singing-crystal-axe",
+      "cost": "3",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/289.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17856,
+      "name": "Skyfire Hawk-Bow",
+      "number": "290",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Bow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17856_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17856/wow-march-of-the-legion-skyfire-hawk-bow",
+      "cost": "4",
+      "artist": "King Mong",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/290.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17857,
+      "name": "Soul Inversion",
+      "number": "111",
+      "rarity": "C",
+      "type": "Ability — Affliction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17857_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17857/wow-march-of-the-legion-soul-inversion",
+      "cost": "1",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/111.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 17858,
+      "name": "\"Spider Legs\" McGillicutty",
+      "number": "204",
+      "rarity": "C",
+      "type": "Ally — 1/1 Undead Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17858/wow-march-of-the-legion-spider-legs-mcgillicutty",
+      "cost": "1",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/204.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 17859,
+      "name": "The Spirit Polluted",
+      "number": "314",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17859/wow-march-of-the-legion-the-spirit-polluted",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/314.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.5,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17860,
+      "name": "Sprint",
+      "number": "87",
+      "rarity": "U",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17860_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17860/wow-march-of-the-legion-sprint",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/87.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.5,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17861,
+      "name": "Stoneclaw Totem",
+      "number": "100",
+      "rarity": "C",
+      "type": "Ability — Elemental — 5",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17861/wow-march-of-the-legion-stoneclaw-totem",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/100.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.19,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17862,
+      "name": "Stormshield of Renewal",
+      "number": "268",
+      "rarity": "U",
+      "type": "Equipment — Armor — Shield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17862_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17862/wow-march-of-the-legion-stormshield-of-renewal",
+      "cost": "3",
+      "artist": "Jeff Easley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/268.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 17863,
+      "name": "Strangling Roots",
+      "number": "28",
+      "rarity": "C",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17863_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17863/wow-march-of-the-legion-strangling-roots",
+      "cost": "3",
+      "artist": "Imaginary FS",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/28.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17864,
+      "name": "Survey the Land",
+      "number": "315",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17864_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17864/wow-march-of-the-legion-survey-the-land",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/315.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.24,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17865,
+      "name": "Sustain or Reclaim",
+      "number": "29",
+      "rarity": "U",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17865_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17865/wow-march-of-the-legion-sustain-or-reclaim",
+      "cost": "2",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/29.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.2,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17866,
+      "name": "Swallow Soul",
+      "number": "112",
+      "rarity": "C",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17866/wow-march-of-the-legion-swallow-soul",
+      "cost": "3",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/112.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.24,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 17867,
+      "name": "Syluri",
+      "number": "166",
+      "rarity": "C",
+      "type": "Ally — 0/4 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17867_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17867/wow-march-of-the-legion-syluri",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/166.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17868,
+      "name": "Tarwila Gladespring",
+      "number": "167",
+      "rarity": "C",
+      "type": "Ally — 1/1 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17868_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17868/wow-march-of-the-legion-tarwila-gladespring",
+      "cost": "2",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/167.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.13
+        }
+      ]
+    },
+    {
+      "id": 17869,
+      "name": "Terokk's Quill",
+      "number": "291",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Polearm",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17869_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17869/wow-march-of-the-legion-terokks-quill",
+      "cost": "1",
+      "artist": "Martina Pilcerova",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/291.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.62,
+          "low": 0.62,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 17870,
+      "name": "Thick as Thieves",
+      "number": "88",
+      "rarity": "R",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17870/wow-march-of-the-legion-thick-as-thieves",
+      "cost": "5",
+      "artist": "JonBoy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/88.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.35,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 17871,
+      "name": "Thrill of the Hunt",
+      "number": "41",
+      "rarity": "R",
+      "type": "Ability — Survival Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17871/wow-march-of-the-legion-thrill-of-the-hunt",
+      "cost": "4",
+      "artist": "DCWJ",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/41.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.88,
+          "low": 0.5,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 17872,
+      "name": "Thulthun",
+      "number": "113",
+      "rarity": "C",
+      "type": "Ally — 3/3 Felhunter Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17872_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17872/wow-march-of-the-legion-thulthun",
+      "cost": "2",
+      "artist": "Dave Dorman",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/113.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.97,
+          "low": 0.26,
+          "mid": 0.97
+        }
+      ]
+    },
+    {
+      "id": 17873,
+      "name": "Totem of Wrath",
+      "number": "101",
+      "rarity": "R",
+      "type": "Ability — Elemental Talent — 1",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17873/wow-march-of-the-legion-totem-of-wrath",
+      "cost": "2",
+      "artist": "Mark Evans",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/101.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.15,
+          "low": 1.5,
+          "mid": 2.15
+        }
+      ]
+    },
+    {
+      "id": 17874,
+      "name": "Totemic Focus",
+      "number": "102",
+      "rarity": "R",
+      "type": "Ability — Restoration Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17874/wow-march-of-the-legion-totemic-focus",
+      "cost": "2",
+      "artist": "Artgerm",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/102.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.94,
+          "low": 2.87,
+          "mid": 2.94
+        }
+      ]
+    },
+    {
+      "id": 17875,
+      "name": "Touch of Darkness",
+      "number": "77",
+      "rarity": "U",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17875/wow-march-of-the-legion-touch-of-darkness",
+      "cost": "1",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/77.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.3,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 17876,
+      "name": "Touch of Ice",
+      "number": "52",
+      "rarity": "U",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17876/wow-march-of-the-legion-touch-of-ice",
+      "cost": "1",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/52.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78,
+          "low": 0.25,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 17877,
+      "name": "Touch of the Arcane",
+      "number": "53",
+      "rarity": "C",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17877/wow-march-of-the-legion-touch-of-the-arcane",
+      "cost": "3",
+      "artist": "JonBoy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/53.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.69,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 17878,
+      "name": "Toxic Horrors",
+      "number": "316",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17878/wow-march-of-the-legion-toxic-horrors",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/316.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.2,
+          "low": 2.99,
+          "mid": 3.2
+        }
+      ]
+    },
+    {
+      "id": 17879,
+      "name": "Track Demons",
+      "number": "42",
+      "rarity": "R",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17879/wow-march-of-the-legion-track-demons",
+      "cost": "2",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/42.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.19,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 17880,
+      "name": "Tracker Pardo",
+      "number": "168",
+      "rarity": "C",
+      "type": "Ally — 1/3 Night Elf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17880/wow-march-of-the-legion-tracker-pardo",
+      "cost": "4",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/168.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17881,
+      "name": "Traitor Among Us, A",
+      "rarity": "C",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17881/wow-march-of-the-legion-traitor-among-us-a",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.23,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17882,
+      "name": "Trytha Darksun",
+      "number": "205",
+      "rarity": "U",
+      "type": "Ally — 2/1 Blood Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17882/wow-march-of-the-legion-trytha-darksun",
+      "cost": "3",
+      "artist": "John Bolton",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/205.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.2,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17883,
+      "name": "Twist of Faith",
+      "number": "78",
+      "rarity": "R",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17883/wow-march-of-the-legion-twist-of-faith",
+      "cost": "5",
+      "artist": "James Wong",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/78.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17884,
+      "name": "Two-Handed Weapon Specialization",
+      "number": "122",
+      "rarity": "R",
+      "type": "Ability — Arms Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17884/wow-march-of-the-legion-two-handed-weapon-specialization",
+      "cost": "5",
+      "artist": "Jaysin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/122.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.5,
+          "low": 2.5,
+          "mid": 3.06
+        }
+      ]
+    },
+    {
+      "id": 17885,
+      "name": "Tyrennius Scatheblade",
+      "number": "206",
+      "rarity": "C",
+      "type": "Ally — 3/2 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17885/wow-march-of-the-legion-tyrennius-scatheblade",
+      "cost": "2",
+      "artist": "William O'Connor",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/206.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 17886,
+      "name": "Unrelenting Assault",
+      "number": "123",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17886/wow-march-of-the-legion-unrelenting-assault",
+      "cost": "5",
+      "artist": "Glenn Fabry",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/123.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.61,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 17887,
+      "name": "Urrth",
+      "number": "17",
+      "rarity": "U",
+      "type": "Hero — Orc Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17887/wow-march-of-the-legion-urrth",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17888,
+      "name": "Varimathras",
+      "number": "207",
+      "rarity": "E",
+      "type": "Ally — 9/7 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17888/wow-march-of-the-legion-varimathras",
+      "cost": "9",
+      "artist": "Andrew Robinson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/207.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 3,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 17889,
+      "name": "Vengeance of the Illidari",
+      "number": "273",
+      "rarity": "U",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17889/wow-march-of-the-legion-vengeance-of-the-illidari",
+      "cost": "5",
+      "artist": "Patrick McEvoy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/273.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.34,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 17890,
+      "name": "Vindicator Belian",
+      "number": "220",
+      "rarity": "C",
+      "type": "Ally — 1/1 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17890/wow-march-of-the-legion-vindicator-belian",
+      "cost": "1",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/220.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17891,
+      "name": "Vindicator Dindro",
+      "number": "221",
+      "rarity": "U",
+      "type": "Ally — 2/1 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17891/wow-march-of-the-legion-vindicator-dindro",
+      "cost": "1",
+      "artist": "William O'Connor",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/221.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17892,
+      "name": "Vindicator Kaldel",
+      "number": "222",
+      "rarity": "C",
+      "type": "Ally — 3/2 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17892/wow-march-of-the-legion-vindicator-kaldel",
+      "cost": "2",
+      "artist": "Jim Murray",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/222.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.19,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 17893,
+      "name": "Vindicator Khorin",
+      "number": "223",
+      "rarity": "R",
+      "type": "Ally — 3/4 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17893/wow-march-of-the-legion-vindicator-khorin",
+      "cost": "5",
+      "artist": "Vance Kovacs",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/223.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.18,
+          "low": 0.69,
+          "mid": 1.18
+        }
+      ]
+    },
+    {
+      "id": 17894,
+      "name": "Vindicator Melina",
+      "number": "224",
+      "rarity": "C",
+      "type": "Ally — 5/3 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17894/wow-march-of-the-legion-vindicator-melina",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/224.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17895,
+      "name": "Vindicator Trytan",
+      "number": "225",
+      "rarity": "C",
+      "type": "Ally — 2/2 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17895/wow-march-of-the-legion-vindicator-trytan",
+      "cost": "2",
+      "artist": "Dave Dorman",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/225.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.2,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17896,
+      "name": "Volin Netherburn",
+      "number": "208",
+      "rarity": "U",
+      "type": "Ally — 3/5 Blood Elf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17896/wow-march-of-the-legion-volin-netherburn",
+      "cost": "5",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/208.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 17897,
+      "name": "Waldo the Decoy",
+      "number": "169",
+      "rarity": "U",
+      "type": "Ally — 2/3 Gnome Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17897/wow-march-of-the-legion-waldo-the-decoy",
+      "cost": "3",
+      "artist": "Steven Belledin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/169.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.03,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 17898,
+      "name": "Wand of Eternal Light",
+      "number": "292",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17898/wow-march-of-the-legion-wand-of-eternal-light",
+      "cost": "1",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/292.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 17899,
+      "name": "Wand Specialization",
+      "number": "54",
+      "rarity": "R",
+      "type": "Ability — Arcane Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17899/wow-march-of-the-legion-wand-specialization",
+      "cost": "3",
+      "artist": "Miguel Coimbra",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/54.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 1.48,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 17900,
+      "name": "Warbringer Arix'amal",
+      "number": "254",
+      "rarity": "U",
+      "type": "Ally — 3/2 Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17900/wow-march-of-the-legion-warbringer-arixamal",
+      "cost": "3",
+      "artist": "Mark Evans",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/254.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 1,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 17901,
+      "name": "Warlock Training",
+      "number": "114",
+      "rarity": "U",
+      "type": "Ability — Affliction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17901/wow-march-of-the-legion-warlock-training",
+      "cost": "1",
+      "artist": "Kunkka",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/114.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.35,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17902,
+      "name": "Warrior Training",
+      "number": "124",
+      "rarity": "U",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17902/wow-march-of-the-legion-warrior-training",
+      "cost": "1",
+      "artist": "Steven Belledin",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/124.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17903,
+      "name": "Wastewalker Tunic",
+      "number": "269",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17903/wow-march-of-the-legion-wastewalker-tunic",
+      "cost": "2",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/269.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17904,
+      "name": "Weeble",
+      "number": "170",
+      "rarity": "C",
+      "type": "Ally — 4/4 Gnome Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17904/wow-march-of-the-legion-weeble",
+      "cost": "6",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/170.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17905,
+      "name": "Whispering Blade of Slaying",
+      "number": "293",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17905/wow-march-of-the-legion-whispering-blade-of-slaying",
+      "cost": "1",
+      "artist": "Vance Kovacs",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/293.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17906,
+      "name": "Withering Shout",
+      "number": "125",
+      "rarity": "U",
+      "type": "Ability — Fury Shout",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17906/wow-march-of-the-legion-withering-shout",
+      "cost": "4",
+      "artist": "Greg Hildebrandt",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/125.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.23,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17907,
+      "name": "Wound Poison",
+      "number": "90",
+      "rarity": "U",
+      "type": "Ability — Poison",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17907/wow-march-of-the-legion-wound-poison",
+      "cost": "1",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/90.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.88,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 17908,
+      "name": "Wreck",
+      "number": "126",
+      "rarity": "U",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17908/wow-march-of-the-legion-wreck",
+      "cost": "1",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/126.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 17909,
+      "name": "Wysko",
+      "number": "209",
+      "rarity": "U",
+      "type": "Ally — 3/2 Troll Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17909/wow-march-of-the-legion-wysko",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/209.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.25,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17910,
+      "name": "Xavar the Resourceful",
+      "number": "227",
+      "rarity": "C",
+      "type": "Ally — 1/2 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17910/wow-march-of-the-legion-xavar-the-resourceful",
+      "cost": "1",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/227.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.79,
+          "low": 0.5,
+          "mid": 5.25
+        }
+      ]
+    },
+    {
+      "id": 17911,
+      "name": "Yellowspine",
+      "number": "210",
+      "rarity": "C",
+      "type": "Ally — 3/1 Troll Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17911/wow-march-of-the-legion-yellowspine",
+      "cost": "4",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/210.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.1,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17912,
+      "name": "You Are Rakh'likh, Demon",
+      "number": "319",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17912/wow-march-of-the-legion-you-are-rakhlikh-demon",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/319.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 17913,
+      "name": "Zag'zil",
+      "number": "18",
+      "rarity": "U",
+      "type": "Hero — Troll Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17913/wow-march-of-the-legion-zagzil",
+      "artist": "Andrew Robinson",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17914,
+      "name": "Zaistor the Vigilant",
+      "number": "228",
+      "rarity": "C",
+      "type": "Ally — 2/2 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17914/wow-march-of-the-legion-zaistor-the-vigilant",
+      "cost": "2",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/228.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17915,
+      "name": "Zandar Shadesprocket",
+      "number": "171",
+      "rarity": "C",
+      "type": "Ally — 2/2 Gnome Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17915/wow-march-of-the-legion-zandar-shadesprocket",
+      "cost": "1",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/171.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 17916,
+      "name": "Zul'that Steeltusk",
+      "number": "211",
+      "rarity": "R",
+      "type": "Ally — 5/5 Troll Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17916/wow-march-of-the-legion-zulthat-steeltusk",
+      "cost": "5",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/legion/en/211.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 9128244744,
+      "name": "Devil-Stitched Leggings",
+      "number": "259",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "3",
+      "artist": "Karl Richardson",
+      "image": "https://www.wowcards.info/scans/legion/en/259.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9483231535,
+      "name": "An OOX of Your Own",
+      "number": "310",
+      "rarity": "Rare",
+      "type": "Quest",
+      "artist": "Eric Browning",
+      "image": "https://www.wowcards.info/scans/legion/en/310.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9130723016,
+      "name": "A Traitor Among Us",
+      "number": "317",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Ron Lemen",
+      "image": "https://www.wowcards.info/scans/legion/en/317.jpg",
+      "source": "wowcards",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

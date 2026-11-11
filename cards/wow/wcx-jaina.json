@@ -1,0 +1,318 @@
+{
+  "groupId": 91305100,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9156179532,
+      "name": "Jaina Proudmoore",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Human Mage — 25",
+      "artist": "Jesper Ejsing",
+      "image": "https://www.wowcards.info/scans/jaina/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9324961107,
+      "name": "Deep Freeze",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Chris Arneson",
+      "image": "https://www.wowcards.info/scans/jaina/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9033924219,
+      "name": "Frost Nova",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ability — Frost",
+      "cost": "4",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/jaina/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9325619559,
+      "name": "Frostbolt",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Ability — Frost",
+      "cost": "3",
+      "artist": "Luca Zontini",
+      "image": "https://www.wowcards.info/scans/jaina/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9582032326,
+      "name": "Glacial Tomb",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "1",
+      "artist": "Lars Grant-West",
+      "image": "https://www.wowcards.info/scans/jaina/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9325866263,
+      "name": "Ice Lance",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/jaina/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9858829285,
+      "name": "Mana Agate",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ability — Arcane",
+      "cost": "2",
+      "artist": "Khang Le",
+      "image": "https://www.wowcards.info/scans/jaina/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9788602928,
+      "name": "Whiteout",
+      "number": "8",
+      "rarity": "Uncommon",
+      "type": "Ability — Frost",
+      "cost": "6",
+      "artist": "Chris Seaman",
+      "image": "https://www.wowcards.info/scans/jaina/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9772010570,
+      "name": "Anathel the Eagle-Eye",
+      "number": "9",
+      "rarity": "Rare",
+      "type": "Ally — 2/2 Night Elf Hunter",
+      "cost": "2",
+      "artist": "Maria Trepalina",
+      "image": "https://www.wowcards.info/scans/jaina/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9921343870,
+      "name": "Corin Stallnorth",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Worgen Warrior",
+      "cost": "1",
+      "artist": "Dave Wilkins",
+      "image": "https://www.wowcards.info/scans/jaina/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9812207075,
+      "name": "Cynthia Masters",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 3/4 Human Mage",
+      "cost": "4",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/jaina/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9670268749,
+      "name": "Dradam Chillblade",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Dwarf Death Knight",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/jaina/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9893380709,
+      "name": "Fumdol Mountainfrost",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 6/4 Dwarf Shaman",
+      "cost": "5",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/jaina/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9059486042,
+      "name": "Hunrik Blackiron",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 5/3 Dwarf Warlock",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/jaina/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9685436820,
+      "name": "Kalam Blacksteel",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Worgen Death Knight",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/jaina/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9729625001,
+      "name": "Kara Vesstal",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Human Mage",
+      "cost": "2",
+      "artist": "Popo Wei (Concept Art House)",
+      "image": "https://www.wowcards.info/scans/jaina/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9596517724,
+      "name": "Malar Silverfrost",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Night Elf Death Knight",
+      "cost": "4",
+      "artist": "Benjamin Zhang",
+      "image": "https://www.wowcards.info/scans/jaina/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9120361633,
+      "name": "Roke the Ice Baron",
+      "number": "18",
+      "rarity": "Rare",
+      "type": "Ally — 2/1 Gnome Mage",
+      "cost": "2",
+      "artist": "Kevin Chin",
+      "image": "https://www.wowcards.info/scans/jaina/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9176223378,
+      "name": "Wendy Anne",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Human Mage",
+      "cost": "2",
+      "artist": "Maria Trepalina",
+      "image": "https://www.wowcards.info/scans/jaina/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9062053554,
+      "name": "\"Zooti\" Fizzlefury",
+      "number": "20",
+      "rarity": "Uncommon",
+      "type": "Ally — 3/4 Gnome Mage",
+      "cost": "5",
+      "artist": "Ben Olson",
+      "image": "https://www.wowcards.info/scans/jaina/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9424472106,
+      "name": "Bloodbane's Fall",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/jaina/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9199277515,
+      "name": "Demonfang Ritual Helm",
+      "number": "22",
+      "rarity": "Rare",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "6",
+      "artist": "Trent Kaniuga",
+      "image": "https://www.wowcards.info/scans/jaina/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9600122083,
+      "name": "Wand of Ruby Claret",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "cost": "3",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/jaina/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9493055805,
+      "name": "Blueleaf Tubers",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/jaina/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9645267805,
+      "name": "Entrenched",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/jaina/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9394447386,
+      "name": "The Key to Freedom",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/jaina/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9399743208,
+      "name": "The Last Living Lorekeeper",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Brandon Kitkouski",
+      "image": "https://www.wowcards.info/scans/jaina/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9985781427,
+      "name": "Sea Legs",
+      "number": "28",
+      "rarity": "Uncommon",
+      "type": "Quest",
+      "artist": "Sean O'Daniels",
+      "image": "https://www.wowcards.info/scans/jaina/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9705176794,
+      "name": "Seeds of Their Demise",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Zoltan Boros",
+      "image": "https://www.wowcards.info/scans/jaina/en/29.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

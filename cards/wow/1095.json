@@ -1,0 +1,5663 @@
+{
+  "groupId": 1095,
+  "cards": [
+    {
+      "id": 21153,
+      "name": "Commander Michael Goodchilde",
+      "number": "1",
+      "rarity": "U",
+      "type": "Hero — Human Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21153/wow-servants-of-the-betrayer-commander-michael-goodchilde",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/1.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.12,
+          "low": 1,
+          "mid": 1.12
+        }
+      ]
+    },
+    {
+      "id": 21154,
+      "name": "Blaze",
+      "number": "58",
+      "rarity": "C",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21154/wow-servants-of-the-betrayer-blaze",
+      "cost": "2",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/58.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21155,
+      "name": "Frost Armor",
+      "number": "59",
+      "rarity": "U",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21155/wow-servants-of-the-betrayer-frost-armor",
+      "cost": "4",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/59.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.43,
+          "low": 0.75,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 21177,
+      "name": "Lelora Sunlancer",
+      "number": "21",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21177/wow-servants-of-the-betrayer-lelora-sunlancer",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/21.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.75,
+          "low": 3.99,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 21178,
+      "name": "Wrath of Turalyon",
+      "number": "76",
+      "rarity": "R",
+      "type": "Ability — Retribution",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21178/wow-servants-of-the-betrayer-wrath-of-turalyon",
+      "cost": "4",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/76.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84,
+          "low": 0.5,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 21179,
+      "name": "Crusader Michael Goodchilde",
+      "number": "10",
+      "rarity": "U",
+      "type": "Hero — Human Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21179/wow-servants-of-the-betrayer-crusader-michael-goodchilde",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/10.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.7,
+          "low": 2.65,
+          "mid": 2.7
+        }
+      ]
+    },
+    {
+      "id": 21180,
+      "name": "Lelora the Dawnslayer",
+      "number": "30",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21180/wow-servants-of-the-betrayer-lelora-the-dawnslayer",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/30.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.45,
+          "low": 9.45,
+          "mid": 9.45
+        }
+      ]
+    },
+    {
+      "id": 21181,
+      "name": "Seal of Betrayal",
+      "number": "74",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21181/wow-servants-of-the-betrayer-seal-of-betrayal",
+      "cost": "4",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/74.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89,
+          "low": 0.88,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 21182,
+      "name": "Sister Remba",
+      "number": "9",
+      "rarity": "U",
+      "type": "Hero — Dwarf Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21182/wow-servants-of-the-betrayer-sister-remba",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/9.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.27,
+          "low": 2.75,
+          "mid": 3.27
+        }
+      ]
+    },
+    {
+      "id": 21183,
+      "name": "Runetusk",
+      "number": "25",
+      "rarity": "U",
+      "type": "Hero — Troll Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21183/wow-servants-of-the-betrayer-runetusk",
+      "artist": "Greg Staples",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.32,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21184,
+      "name": "Shadow Silhouettes",
+      "number": "85",
+      "rarity": "R",
+      "type": "Ally — 6/6 Shadow Silhouette",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21184/wow-servants-of-the-betrayer-shadow-silhouettes",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/85.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21185,
+      "name": "Remba, Abbess of Ash",
+      "number": "18",
+      "rarity": "U",
+      "type": "Hero — Dwarf Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21185/wow-servants-of-the-betrayer-remba-abbess-of-ash",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21186,
+      "name": "Bloodtusk",
+      "number": "34",
+      "rarity": "U",
+      "type": "Hero — Troll Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21186_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21186/wow-servants-of-the-betrayer-bloodtusk",
+      "artist": "Greg Staples",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.59,
+          "low": 0.99,
+          "mid": 1.14
+        }
+      ]
+    },
+    {
+      "id": 21187,
+      "name": "Spiritual Domination",
+      "number": "86",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21187/wow-servants-of-the-betrayer-spiritual-domination",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/86.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.59,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 21188,
+      "name": "Arcane Focus",
+      "number": "57",
+      "rarity": "R",
+      "type": "Ability — Arcane Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21188/wow-servants-of-the-betrayer-arcane-focus",
+      "cost": "1",
+      "artist": "Graven Tung",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/57.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2.99,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21189,
+      "name": "Orders From Lady Vashj",
+      "number": "257",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21189/wow-servants-of-the-betrayer-orders-from-lady-vashj",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/257.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.22,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21190,
+      "name": "Evasion",
+      "number": "91",
+      "rarity": "R",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21190/wow-servants-of-the-betrayer-evasion",
+      "cost": "6",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/91.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21191,
+      "name": "Ressa Shadeshine",
+      "number": "7",
+      "rarity": "U",
+      "type": "Hero — Gnome Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21191/wow-servants-of-the-betrayer-ressa-shadeshine",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/7.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.35,
+          "low": 1.75,
+          "mid": 2.35
+        }
+      ]
+    },
+    {
+      "id": 21192,
+      "name": "Jonas White",
+      "number": "19",
+      "rarity": "U",
+      "type": "Hero — Undead Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21192/wow-servants-of-the-betrayer-jonas-white",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.5,
+          "low": 9.5,
+          "mid": 9.5
+        }
+      ]
+    },
+    {
+      "id": 21193,
+      "name": "Ressa the Leper Queen",
+      "number": "16",
+      "rarity": "U",
+      "type": "Hero — Gnome Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21193/wow-servants-of-the-betrayer-ressa-the-leper-queen",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.5,
+          "low": 5.5,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 21194,
+      "name": "Jonas the Red",
+      "number": "28",
+      "rarity": "U",
+      "type": "Hero — Undead Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21194_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21194/wow-servants-of-the-betrayer-jonas-the-red",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/28.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.75,
+          "low": 1.6,
+          "mid": 1.72
+        }
+      ]
+    },
+    {
+      "id": 21195,
+      "name": "Gut Shot",
+      "number": "93",
+      "rarity": "R",
+      "type": "Ability — Finishing Move Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21195_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21195/wow-servants-of-the-betrayer-gut-shot",
+      "cost": "2",
+      "artist": "Alex Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/93.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21196,
+      "name": "Ixamos the Redeemed",
+      "number": "3",
+      "rarity": "U",
+      "type": "Hero — Draenei Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21196/wow-servants-of-the-betrayer-ixamos-the-redeemed",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/3.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 21197,
+      "name": "Kil'zin of the Darkspear",
+      "number": "20",
+      "rarity": "U",
+      "type": "Hero — Troll Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21197_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21197/wow-servants-of-the-betrayer-kilzin-of-the-darkspear",
+      "artist": "Alex Horley Orlandelli",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.85,
+          "low": 1.75,
+          "mid": 2.56
+        }
+      ]
+    },
+    {
+      "id": 21198,
+      "name": "Totemic Recovery",
+      "number": "104",
+      "rarity": "R",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21198/wow-servants-of-the-betrayer-totemic-recovery",
+      "cost": "4",
+      "artist": "Raven Mimura",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 49.98,
+          "low": 45,
+          "mid": 49.98
+        }
+      ]
+    },
+    {
+      "id": 21199,
+      "name": "Ixamos the Corrupted",
+      "number": "12",
+      "rarity": "U",
+      "type": "Hero — Draenei Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21199_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21199/wow-servants-of-the-betrayer-ixamos-the-corrupted",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.67,
+          "low": 1.65,
+          "mid": 1.66
+        }
+      ]
+    },
+    {
+      "id": 21200,
+      "name": "Kil'zin of the Bloodscalp",
+      "number": "29",
+      "rarity": "U",
+      "type": "Hero — Troll Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21200_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21200/wow-servants-of-the-betrayer-kilzin-of-the-bloodscalp",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/29.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 1.49,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 21201,
+      "name": "Totem of Decay",
+      "number": "105",
+      "rarity": "R",
+      "type": "Ability — Traitor — 1",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21201/wow-servants-of-the-betrayer-totem-of-decay",
+      "cost": "4",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/105.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.47,
+          "low": 0.94,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 21202,
+      "name": "Marlowe Christophers",
+      "number": "4",
+      "rarity": "U",
+      "type": "Hero — Human Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21202/wow-servants-of-the-betrayer-marlowe-christophers",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/4.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.29,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21203,
+      "name": "Marlowe the Felsworn",
+      "number": "13",
+      "rarity": "U",
+      "type": "Hero — Human Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21203/wow-servants-of-the-betrayer-marlowe-the-felsworn",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.75,
+          "low": 4,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 21204,
+      "name": "Plague Fleshbane",
+      "number": "24",
+      "rarity": "U",
+      "type": "Hero — Undead Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21204/wow-servants-of-the-betrayer-plague-fleshbane",
+      "artist": "Jim Murray",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.45,
+          "low": 1.99,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 21205,
+      "name": "Plague Demonsoul",
+      "number": "33",
+      "rarity": "U",
+      "type": "Hero — Undead Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21205_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21205/wow-servants-of-the-betrayer-plague-demonsoul",
+      "artist": "Jim Murray",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.3,
+          "low": 1.75,
+          "mid": 2.3
+        }
+      ]
+    },
+    {
+      "id": 21206,
+      "name": "Fallingstar",
+      "number": "2",
+      "rarity": "U",
+      "type": "Hero — Night Elf Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21206_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21206/wow-servants-of-the-betrayer-fallingstar",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/2.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.22,
+          "low": 2.21,
+          "mid": 2.22
+        }
+      ]
+    },
+    {
+      "id": 21207,
+      "name": "Fallenstar",
+      "number": "11",
+      "rarity": "U",
+      "type": "Hero — Night Elf Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21207_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21207/wow-servants-of-the-betrayer-fallenstar",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.5,
+          "low": 3,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 21208,
+      "name": "Lionar, Unbound",
+      "number": "22",
+      "rarity": "U",
+      "type": "Hero — Orc Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21208/wow-servants-of-the-betrayer-lionar-unbound",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/22.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.75,
+          "low": 3.75,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 21209,
+      "name": "Lionar the Blood Cursed",
+      "number": "31",
+      "rarity": "U",
+      "type": "Hero — Orc Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21209_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21209/wow-servants-of-the-betrayer-lionar-the-blood-cursed",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/31.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 21210,
+      "name": "Shadow and Flame",
+      "number": "116",
+      "rarity": "R",
+      "type": "Ability — Destruction Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21210_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21210/wow-servants-of-the-betrayer-shadow-and-flame",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/116.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 21211,
+      "name": "Ripped through the Portal",
+      "number": "114",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21211_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21211/wow-servants-of-the-betrayer-ripped-through-the-portal",
+      "cost": "5",
+      "artist": "Mark Gibbons",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.64,
+          "low": 4,
+          "mid": 4.64
+        }
+      ]
+    },
+    {
+      "id": 21212,
+      "name": "Shield Slam",
+      "number": "121",
+      "rarity": "R",
+      "type": "Ability — Protection Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21212_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21212/wow-servants-of-the-betrayer-shield-slam",
+      "cost": "3",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/121.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.5,
+          "low": 4.99,
+          "mid": 5.58
+        }
+      ]
+    },
+    {
+      "id": 21213,
+      "name": "Bloodbath",
+      "number": "118",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21213_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21213/wow-servants-of-the-betrayer-bloodbath",
+      "cost": "2",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/118.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.8,
+          "low": 0.7,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 21214,
+      "name": "Pathaleon the Calculator",
+      "number": "212",
+      "rarity": "R",
+      "type": "Ally — 6/5 Blood Elf Mage Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21214/wow-servants-of-the-betrayer-pathaleon-the-calculator",
+      "cost": "6",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/212.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.21,
+          "low": 5.21,
+          "mid": 5.21
+        }
+      ]
+    },
+    {
+      "id": 21215,
+      "name": "Lady Katrana Prestor",
+      "number": "209",
+      "rarity": "E",
+      "type": "Ally — 4/5 Black Dragon Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21215_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21215/wow-servants-of-the-betrayer-lady-katrana-prestor",
+      "cost": "5",
+      "artist": "Ittoku Seta",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.75,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 21216,
+      "name": "Reflex Blades",
+      "number": "239",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Fist",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21216/wow-servants-of-the-betrayer-reflex-blades",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/239.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.22,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 21217,
+      "name": "Blade of Wizardry",
+      "number": "234",
+      "rarity": "E",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21217_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21217/wow-servants-of-the-betrayer-blade-of-wizardry",
+      "cost": "3",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/234.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.49,
+          "low": 4.49,
+          "mid": 4.49
+        }
+      ]
+    },
+    {
+      "id": 21218,
+      "name": "Quantum Blade",
+      "number": "238",
+      "rarity": "E",
+      "type": "Equipment — 2H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21218/wow-servants-of-the-betrayer-quantum-blade",
+      "cost": "5",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/238.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.69,
+          "mid": 2.46
+        }
+      ]
+    },
+    {
+      "id": 21219,
+      "name": "Sek Grimlash",
+      "number": "177",
+      "rarity": "R",
+      "type": "Ally — 3/6 Orc Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21219_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21219/wow-servants-of-the-betrayer-sek-grimlash",
+      "cost": "6",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/177.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.25,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 21220,
+      "name": "Earth Mother's Blessing",
+      "number": "38",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21220/wow-servants-of-the-betrayer-earth-mothers-blessing",
+      "cost": "3",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/38.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 1.24,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 21221,
+      "name": "King of the Jungle",
+      "number": "41",
+      "rarity": "R",
+      "type": "Ability — Feral Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21221_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21221/wow-servants-of-the-betrayer-king-of-the-jungle",
+      "cost": "6",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/41.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 0.94,
+          "mid": 0.94
+        }
+      ]
+    },
+    {
+      "id": 21222,
+      "name": "Lacerate",
+      "number": "42",
+      "rarity": "C",
+      "type": "Ability — Feral",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21222_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21222/wow-servants-of-the-betrayer-lacerate",
+      "cost": "3",
+      "artist": "E.M. Gist",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/42.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.33,
+          "low": 1,
+          "mid": 1.33
+        }
+      ]
+    },
+    {
+      "id": 21223,
+      "name": "Savage Fury",
+      "number": "44",
+      "rarity": "R",
+      "type": "Ability — Feral Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21223_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21223/wow-servants-of-the-betrayer-savage-fury",
+      "cost": "3",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/44.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 3.75,
+          "mid": 3.75
+        }
+      ]
+    },
+    {
+      "id": 21224,
+      "name": "Tranquility",
+      "number": "46",
+      "rarity": "U",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21224/wow-servants-of-the-betrayer-tranquility",
+      "cost": "X",
+      "artist": "Jason Chan",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/46.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.62,
+          "low": 1.5,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 21225,
+      "name": "Bogspike",
+      "number": "47",
+      "rarity": "C",
+      "type": "Ally — 2/1 Spore Bat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21225/wow-servants-of-the-betrayer-bogspike",
+      "cost": "1",
+      "artist": "Miki Nohm",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/47.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.13,
+          "low": 1.88,
+          "mid": 3.13
+        }
+      ]
+    },
+    {
+      "id": 21226,
+      "name": "Feeding Frenzy",
+      "number": "49",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21226/wow-servants-of-the-betrayer-feeding-frenzy",
+      "cost": "1",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/49.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.49,
+          "low": 1.98,
+          "mid": 3.49
+        }
+      ]
+    },
+    {
+      "id": 21227,
+      "name": "King Khan",
+      "number": "51",
+      "rarity": "U",
+      "type": "Ally — 2/4 Gorilla",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21227/wow-servants-of-the-betrayer-king-khan",
+      "cost": "4",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/51.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.67,
+          "low": 1.3,
+          "mid": 1.51
+        }
+      ]
+    },
+    {
+      "id": 21228,
+      "name": "Rain of Arrows",
+      "number": "52",
+      "rarity": "C",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21228_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21228/wow-servants-of-the-betrayer-rain-of-arrows",
+      "cost": "2",
+      "artist": "Ken Steacy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/52.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.15,
+          "mid": 0.82
+        }
+      ]
+    },
+    {
+      "id": 21229,
+      "name": "Ranged Weapon Specialization",
+      "number": "53",
+      "rarity": "R",
+      "type": "Ability — Marksmanship Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21229_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21229/wow-servants-of-the-betrayer-ranged-weapon-specialization",
+      "cost": "3",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/53.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.74,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 21230,
+      "name": "Run to Ground",
+      "number": "54",
+      "rarity": "C",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21230_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21230/wow-servants-of-the-betrayer-run-to-ground",
+      "cost": "5",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/54.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 21231,
+      "name": "Survival Instincts",
+      "number": "56",
+      "rarity": "R",
+      "type": "Ability — Survival Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21231/wow-servants-of-the-betrayer-survival-instincts",
+      "cost": "3",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/56.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.19,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 21232,
+      "name": "Frostbite",
+      "number": "60",
+      "rarity": "R",
+      "type": "Ability — Frost Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21232/wow-servants-of-the-betrayer-frostbite",
+      "cost": "2",
+      "artist": "Leonard Boyarski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/60.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.9,
+          "low": 0.99,
+          "mid": 1.9
+        }
+      ]
+    },
+    {
+      "id": 21233,
+      "name": "Invocation",
+      "number": "62",
+      "rarity": "R",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21233/wow-servants-of-the-betrayer-invocation",
+      "cost": "2",
+      "artist": "Hideaki Takamura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/62.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.75,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 21234,
+      "name": "Living Pyre",
+      "number": "63",
+      "rarity": "C",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21234/wow-servants-of-the-betrayer-living-pyre",
+      "cost": "3",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/63.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.14,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 21235,
+      "name": "Metalmorph",
+      "number": "64",
+      "rarity": "C",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21235_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21235/wow-servants-of-the-betrayer-metalmorph",
+      "cost": "1",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/64.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.49,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 21236,
+      "name": "Murderous Torment",
+      "number": "65",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21236_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21236/wow-servants-of-the-betrayer-murderous-torment",
+      "cost": "3",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/65.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63,
+          "low": 0.5,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 21237,
+      "name": "Aura of Fanaticism",
+      "number": "67",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21237/wow-servants-of-the-betrayer-aura-of-fanaticism",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/67.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 1.92,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21238,
+      "name": "Avenging Wrath",
+      "number": "68",
+      "rarity": "U",
+      "type": "Ability — Retribution",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21238/wow-servants-of-the-betrayer-avenging-wrath",
+      "cost": "4",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/68.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.15,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 21239,
+      "name": "Blessed Life",
+      "number": "69",
+      "rarity": "R",
+      "type": "Ability — Holy Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21239/wow-servants-of-the-betrayer-blessed-life",
+      "cost": "2",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/69.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.43,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 21240,
+      "name": "Blessing of the Martyr",
+      "number": "70",
+      "rarity": "C",
+      "type": "Ability — Protection Blessing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21240/wow-servants-of-the-betrayer-blessing-of-the-martyr",
+      "cost": "1",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/70.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.2,
+          "low": 3.2,
+          "mid": 3.58
+        }
+      ]
+    },
+    {
+      "id": 21241,
+      "name": "Crusade",
+      "number": "71",
+      "rarity": "R",
+      "type": "Ability — Retribution Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21241_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21241/wow-servants-of-the-betrayer-crusade",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/71.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.59,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21242,
+      "name": "Divine Riposte",
+      "number": "72",
+      "rarity": "U",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21242_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21242/wow-servants-of-the-betrayer-divine-riposte",
+      "cost": "6",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/72.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.18,
+          "low": 3.17,
+          "mid": 3.18
+        }
+      ]
+    },
+    {
+      "id": 21243,
+      "name": "Flash of Light",
+      "number": "73",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21243/wow-servants-of-the-betrayer-flash-of-light",
+      "cost": "1",
+      "artist": "Jason Chan",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/73.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21244,
+      "name": "Seal of Redemption",
+      "number": "75",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21244/wow-servants-of-the-betrayer-seal-of-redemption",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/75.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21245,
+      "name": "Castigate",
+      "number": "77",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21245_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21245/wow-servants-of-the-betrayer-castigate",
+      "cost": "3",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/77.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 1.84,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21246,
+      "name": "Darkness",
+      "number": "78",
+      "rarity": "R",
+      "type": "Ability — Shadow Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21246/wow-servants-of-the-betrayer-darkness",
+      "cost": "7",
+      "artist": "Mark Gibbons",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/78.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.47,
+          "low": 1.47,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 21247,
+      "name": "Eclipse",
+      "number": "79",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21247/wow-servants-of-the-betrayer-eclipse",
+      "cost": "5",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/79.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.95,
+          "low": 3.74,
+          "mid": 6.95
+        }
+      ]
+    },
+    {
+      "id": 21248,
+      "name": "Enlightenment",
+      "number": "80",
+      "rarity": "R",
+      "type": "Ability — Discipline Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21248_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21248/wow-servants-of-the-betrayer-enlightenment",
+      "cost": "25",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/80.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 21249,
+      "name": "Fade",
+      "number": "81",
+      "rarity": "U",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21249/wow-servants-of-the-betrayer-fade",
+      "cost": "1",
+      "artist": "Ittoku Seta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/81.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.99,
+          "low": 1.89,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 21250,
+      "name": "Prayer of Mending",
+      "number": "83",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21250/wow-servants-of-the-betrayer-prayer-of-mending",
+      "cost": "1",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/83.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.47,
+          "low": 0.15,
+          "mid": 2.47
+        }
+      ]
+    },
+    {
+      "id": 21251,
+      "name": "Salvation",
+      "number": "84",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21251/wow-servants-of-the-betrayer-salvation",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/84.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21252,
+      "name": "Blade Twisting",
+      "number": "87",
+      "rarity": "R",
+      "type": "Ability — Combat Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21252/wow-servants-of-the-betrayer-blade-twisting",
+      "cost": "3",
+      "artist": "Steve Ellis",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/87.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.24,
+          "low": 3,
+          "mid": 3.24
+        }
+      ]
+    },
+    {
+      "id": 21253,
+      "name": "Cloak of Shadows",
+      "number": "88",
+      "rarity": "C",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21253/wow-servants-of-the-betrayer-cloak-of-shadows",
+      "cost": "1",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/88.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.99,
+          "mid": 2.19
+        }
+      ]
+    },
+    {
+      "id": 21254,
+      "name": "Cut to the Chase",
+      "number": "89",
+      "rarity": "U",
+      "type": "Ability — Assassination Finishing Move",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21254/wow-servants-of-the-betrayer-cut-to-the-chase",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/89.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 1,
+          "mid": 4.29
+        }
+      ]
+    },
+    {
+      "id": 21255,
+      "name": "Stoneskin Totem",
+      "number": "102",
+      "rarity": "U",
+      "type": "Ability — Enhancement — 1",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21255/wow-servants-of-the-betrayer-stoneskin-totem",
+      "cost": "1",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/102.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.27,
+          "low": 0.85,
+          "mid": 1.27
+        }
+      ]
+    },
+    {
+      "id": 21256,
+      "name": "Storm Shock",
+      "number": "103",
+      "rarity": "C",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21256/wow-servants-of-the-betrayer-storm-shock",
+      "cost": "1",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/103.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 21257,
+      "name": "Water Shield",
+      "number": "106",
+      "rarity": "U",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21257/wow-servants-of-the-betrayer-water-shield",
+      "cost": "3",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/106.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.99,
+          "low": 2.98,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 21258,
+      "name": "Apocanon",
+      "number": "107",
+      "rarity": "U",
+      "type": "Ally — 4/4 Abyssal Demon Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21258/wow-servants-of-the-betrayer-apocanon",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/107.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 1,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 21259,
+      "name": "Banish to the Nether",
+      "number": "108",
+      "rarity": "C",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21259/wow-servants-of-the-betrayer-banish-to-the-nether",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/108.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21260,
+      "name": "Curse of Frenzy",
+      "number": "109",
+      "rarity": "U",
+      "type": "Ability — Affliction Curse",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21260/wow-servants-of-the-betrayer-curse-of-frenzy",
+      "cost": "1",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/109.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 2.5,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21261,
+      "name": "Demonic Knowledge",
+      "number": "110",
+      "rarity": "R",
+      "type": "Ability — Demonology Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21261/wow-servants-of-the-betrayer-demonic-knowledge",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/110.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.59,
+          "low": 2,
+          "mid": 3.59
+        }
+      ]
+    },
+    {
+      "id": 21262,
+      "name": "Dread Infernal",
+      "number": "111",
+      "rarity": "R",
+      "type": "Ally — 5/5 Infernal Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21262/wow-servants-of-the-betrayer-dread-infernal",
+      "cost": "5",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/111.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 0.35,
+          "mid": 1.5
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.5,
+          "low": 2.49,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 21263,
+      "name": "Fel Fire",
+      "number": "112",
+      "rarity": "C",
+      "type": "Ability — Affliction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21263/wow-servants-of-the-betrayer-fel-fire",
+      "cost": "2",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/112.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.89,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 21264,
+      "name": "Gobloz",
+      "number": "113",
+      "rarity": "C",
+      "type": "Ally — 0/1 Imp Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21264/wow-servants-of-the-betrayer-gobloz",
+      "cost": "1",
+      "artist": "Bernie Kang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/113.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21265,
+      "name": "Ritual of Souls",
+      "number": "115",
+      "rarity": "U",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21265/wow-servants-of-the-betrayer-ritual-of-souls",
+      "cost": "3",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/115.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1.49,
+          "mid": 1.56
+        }
+      ]
+    },
+    {
+      "id": 21266,
+      "name": "Armed to the Teeth",
+      "number": "117",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21266/wow-servants-of-the-betrayer-armed-to-the-teeth",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/117.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21267,
+      "name": "Champion Stance",
+      "number": "119",
+      "rarity": "C",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21267/wow-servants-of-the-betrayer-champion-stance",
+      "cost": "5",
+      "artist": "Sloth Productions",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/119.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.83,
+          "low": 0.2,
+          "mid": 1.83
+        }
+      ]
+    },
+    {
+      "id": 21268,
+      "name": "Deafening Shout",
+      "number": "120",
+      "rarity": "R",
+      "type": "Ability — Fury Shout",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21268/wow-servants-of-the-betrayer-deafening-shout",
+      "cost": "7",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/120.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.39,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21269,
+      "name": "Smash",
+      "number": "122",
+      "rarity": "C",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21269/wow-servants-of-the-betrayer-smash",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/122.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21270,
+      "name": "Titan's Grip",
+      "number": "124",
+      "rarity": "U",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21270/wow-servants-of-the-betrayer-titans-grip",
+      "cost": "1",
+      "artist": "Andrew Arconti",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/124.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 3.75,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 21271,
+      "name": "Unbridled Wrath",
+      "number": "125",
+      "rarity": "R",
+      "type": "Ability — Fury Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21271/wow-servants-of-the-betrayer-unbridled-wrath",
+      "cost": "2",
+      "artist": "Sloth Productions",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/125.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21272,
+      "name": "Whirlwind",
+      "number": "126",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21272/wow-servants-of-the-betrayer-whirlwind",
+      "cost": "5",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/126.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.34,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 21273,
+      "name": "Angelista",
+      "number": "129",
+      "rarity": "C",
+      "type": "Ally — 2/2 Human Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21273/wow-servants-of-the-betrayer-angelista",
+      "cost": "2",
+      "artist": "Graven Tung",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/129.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21274,
+      "name": "Antikron the Unyielding",
+      "number": "130",
+      "rarity": "U",
+      "type": "Ally — 1/1 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21274/wow-servants-of-the-betrayer-antikron-the-unyielding",
+      "cost": "1",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/130.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.35,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21275,
+      "name": "Barous the Storm Baron",
+      "number": "131",
+      "rarity": "R",
+      "type": "Ally — 4/5 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21275/wow-servants-of-the-betrayer-barous-the-storm-baron",
+      "cost": "5",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/131.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.47,
+          "low": 3.47,
+          "mid": 3.47
+        }
+      ]
+    },
+    {
+      "id": 21276,
+      "name": "Bearlady Brala",
+      "number": "132",
+      "rarity": "R",
+      "type": "Ally — 1/1 Dwarf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21276/wow-servants-of-the-betrayer-bearlady-brala",
+      "cost": "1",
+      "artist": "Ron Spears",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/132.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 2.5,
+          "mid": 3.47
+        }
+      ]
+    },
+    {
+      "id": 21277,
+      "name": "Breen Toestubber",
+      "number": "133",
+      "rarity": "C",
+      "type": "Ally — 4/5 Gnome Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21277/wow-servants-of-the-betrayer-breen-toestubber",
+      "cost": "5",
+      "artist": "Randy Gallegos",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/133.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.1,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 21278,
+      "name": "Domona the Ever-Watchful",
+      "number": "134",
+      "rarity": "U",
+      "type": "Ally — 5/4 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21278/wow-servants-of-the-betrayer-domona-the-ever-watchful",
+      "cost": "6",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/134.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21279,
+      "name": "Falana of the Glen",
+      "number": "135",
+      "rarity": "C",
+      "type": "Ally — 1/2 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21279/wow-servants-of-the-betrayer-falana-of-the-glen",
+      "cost": "1",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/135.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 21280,
+      "name": "Highlord Bolvar Fordragon",
+      "number": "136",
+      "rarity": "E",
+      "type": "Ally — 8/8 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21280/wow-servants-of-the-betrayer-highlord-bolvar-fordragon",
+      "cost": "8",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/136.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21281,
+      "name": "Horace Shadowfall",
+      "number": "137",
+      "rarity": "R",
+      "type": "Ally — 6/5 Human Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21281/wow-servants-of-the-betrayer-horace-shadowfall",
+      "cost": "6",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/137.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.5,
+          "low": 3.99,
+          "mid": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21282,
+      "name": "Inventor Dorbin Callus",
+      "number": "138",
+      "rarity": "E",
+      "type": "Ally — 5/6 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21282/wow-servants-of-the-betrayer-inventor-dorbin-callus",
+      "cost": "7",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/138.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99,
+          "low": 9.99,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 21283,
+      "name": "Jezbella of Karabor",
+      "number": "139",
+      "rarity": "C",
+      "type": "Ally — 1/3 Draenei Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21283/wow-servants-of-the-betrayer-jezbella-of-karabor",
+      "cost": "3",
+      "artist": "Alex Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/139.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21284,
+      "name": "Justicar Brace",
+      "number": "140",
+      "rarity": "U",
+      "type": "Ally — 5/5 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21284/wow-servants-of-the-betrayer-justicar-brace",
+      "cost": "5",
+      "artist": "Tristan Schane",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/140.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21285,
+      "name": "Kronore",
+      "number": "141",
+      "rarity": "R",
+      "type": "Ally — 4/6 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21285/wow-servants-of-the-betrayer-kronore",
+      "cost": "7",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/141.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21286,
+      "name": "Llyras Keeneye",
+      "number": "142",
+      "rarity": "C",
+      "type": "Ally — 3/1 Night Elf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21286/wow-servants-of-the-betrayer-llyras-keeneye",
+      "cost": "2",
+      "artist": "Franz Vohwinkel",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/142.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.1,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 21287,
+      "name": "Lunen the Moon Baron",
+      "number": "143",
+      "rarity": "R",
+      "type": "Ally — 2/2 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21287/wow-servants-of-the-betrayer-lunen-the-moon-baron",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/143.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 21288,
+      "name": "Miner Steelwhiskers",
+      "number": "144",
+      "rarity": "C",
+      "type": "Ally — 2/3 Dwarf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21288/wow-servants-of-the-betrayer-miner-steelwhiskers",
+      "cost": "2",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/144.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21289,
+      "name": "Myriam Starcaller",
+      "number": "145",
+      "rarity": "C",
+      "type": "Ally — 3/4 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21289/wow-servants-of-the-betrayer-myriam-starcaller",
+      "cost": "4",
+      "artist": "Lucas Graciano",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/145.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.22,
+          "mid": 0.3
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.75,
+          "low": 1.5,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 21290,
+      "name": "Narthadus",
+      "number": "146",
+      "rarity": "C",
+      "type": "Ally — 3/6 Night Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21290/wow-servants-of-the-betrayer-narthadus",
+      "cost": "6",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/146.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 21291,
+      "name": "Orderkeeper Calister",
+      "number": "147",
+      "rarity": "C",
+      "type": "Ally — 2/5 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21291/wow-servants-of-the-betrayer-orderkeeper-calister",
+      "cost": "4",
+      "artist": "Daniel Dos Santos",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/147.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21292,
+      "name": "Orderkeeper Henley",
+      "number": "148",
+      "rarity": "C",
+      "type": "Ally — 5/3 Human Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21292/wow-servants-of-the-betrayer-orderkeeper-henley",
+      "cost": "5",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/148.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.33,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 21293,
+      "name": "Orderkeeper Vesra",
+      "number": "149",
+      "rarity": "U",
+      "type": "Ally — 4/1 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21293/wow-servants-of-the-betrayer-orderkeeper-vesra",
+      "cost": "3",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/149.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 21294,
+      "name": "Quigley Slipshade",
+      "number": "150",
+      "rarity": "C",
+      "type": "Ally — 2/1 Gnome Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21294/wow-servants-of-the-betrayer-quigley-slipshade",
+      "cost": "1",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/150.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.1,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 21295,
+      "name": "Rames the Purifier",
+      "number": "151",
+      "rarity": "C",
+      "type": "Ally — 4/3 Human Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21295/wow-servants-of-the-betrayer-rames-the-purifier",
+      "cost": "4",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/151.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 21296,
+      "name": "Razak Ironsides",
+      "number": "152",
+      "rarity": "E",
+      "type": "Ally — 4/8 Gnome Sharpshooter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21296/wow-servants-of-the-betrayer-razak-ironsides",
+      "cost": "7",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.9,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21297,
+      "name": "Roke the Ice Baron",
+      "number": "153",
+      "rarity": "R",
+      "type": "Ally — 2/1 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21297/wow-servants-of-the-betrayer-roke-the-ice-baron",
+      "cost": "2",
+      "artist": "Kevin Chin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/153.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2.43,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 21298,
+      "name": "Rysa the Earthcaller",
+      "number": "154",
+      "rarity": "C",
+      "type": "Ally — 1/4 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21298/wow-servants-of-the-betrayer-rysa-the-earthcaller",
+      "cost": "3",
+      "artist": "Trent Kaniuga",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/154.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.25,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 21299,
+      "name": "Sampron the Banisher",
+      "number": "155",
+      "rarity": "R",
+      "type": "Ally — 2/1 Gnome Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21299/wow-servants-of-the-betrayer-sampron-the-banisher",
+      "cost": "2",
+      "artist": "Justin Kunz",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/155.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64,
+          "low": 0.5,
+          "mid": 0.64
+        }
+      ]
+    },
+    {
+      "id": 21300,
+      "name": "Aesadonna Al'mere",
+      "number": "157",
+      "rarity": "R",
+      "type": "Ally — 5/4 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21300/wow-servants-of-the-betrayer-aesadonna-almere",
+      "cost": "4",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/157.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 3.23,
+          "mid": 3.23
+        }
+      ]
+    },
+    {
+      "id": 21301,
+      "name": "Alchemist Norrin'thal",
+      "number": "158",
+      "rarity": "C",
+      "type": "Ally — 3/3 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21301/wow-servants-of-the-betrayer-alchemist-norrinthal",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/158.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21302,
+      "name": "Cerrik Blooddawn",
+      "number": "159",
+      "rarity": "C",
+      "type": "Ally — 2/4 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21302/wow-servants-of-the-betrayer-cerrik-blooddawn",
+      "cost": "4",
+      "artist": "Derk Venneman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/159.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.8,
+          "low": 0.1,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 21303,
+      "name": "David Smythe",
+      "number": "160",
+      "rarity": "C",
+      "type": "Ally — 1/2 Undead Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21303/wow-servants-of-the-betrayer-david-smythe",
+      "cost": "1",
+      "artist": "Lucio Parrillo",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/160.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 21304,
+      "name": "Delrach the Vile",
+      "number": "161",
+      "rarity": "C",
+      "type": "Ally — 7/6 Undead Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21304/wow-servants-of-the-betrayer-delrach-the-vile",
+      "cost": "7",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/161.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.1,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21305,
+      "name": "Gok Stormhammer",
+      "number": "162",
+      "rarity": "R",
+      "type": "Ally — 5/3 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21305/wow-servants-of-the-betrayer-gok-stormhammer",
+      "cost": "6",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/162.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.09,
+          "mid": 0.41
+        }
+      ]
+    },
+    {
+      "id": 21306,
+      "name": "Hulok Trailblazer",
+      "number": "163",
+      "rarity": "C",
+      "type": "Ally — 2/2 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21306/wow-servants-of-the-betrayer-hulok-trailblazer",
+      "cost": "2",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/163.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.09,
+          "mid": 0.67
+        }
+      ]
+    },
+    {
+      "id": 21307,
+      "name": "Icemistress Gal'ha",
+      "number": "164",
+      "rarity": "R",
+      "type": "Ally — 3/5 Troll Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21307/wow-servants-of-the-betrayer-icemistress-galha",
+      "cost": "4",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/164.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.15,
+          "low": 7.15,
+          "mid": 7.15
+        }
+      ]
+    },
+    {
+      "id": 21308,
+      "name": "Jae'va the Relentless",
+      "number": "165",
+      "rarity": "C",
+      "type": "Ally — 3/7 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21308/wow-servants-of-the-betrayer-jaeva-the-relentless",
+      "cost": "7",
+      "artist": "Mark Evans",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/165.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21309,
+      "name": "Jessup Smythe",
+      "number": "166",
+      "rarity": "C",
+      "type": "Ally — 3/3 Undead Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21309/wow-servants-of-the-betrayer-jessup-smythe",
+      "cost": "3",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/166.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21310,
+      "name": "Leoroxx",
+      "number": "167",
+      "rarity": "E",
+      "type": "Ally — 7/7 Mok'Nathal Beastmaster",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21310/wow-servants-of-the-betrayer-leoroxx",
+      "cost": "8",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/167.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21311,
+      "name": "Lifemistress Tanagra",
+      "number": "168",
+      "rarity": "R",
+      "type": "Ally — 5/5 Orc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21311/wow-servants-of-the-betrayer-lifemistress-tanagra",
+      "cost": "6",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/168.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21312,
+      "name": "Lilith Smythe",
+      "number": "169",
+      "rarity": "C",
+      "type": "Ally — 3/2 Undead Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21312/wow-servants-of-the-betrayer-lilith-smythe",
+      "cost": "2",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/169.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21313,
+      "name": "Matalo Trailfinder",
+      "number": "170",
+      "rarity": "U",
+      "type": "Ally — 1/1 Tauren Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21313/wow-servants-of-the-betrayer-matalo-trailfinder",
+      "cost": "1",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/170.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.34,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21314,
+      "name": "Mojo Doctor Zin'tar",
+      "number": "171",
+      "rarity": "U",
+      "type": "Ally — 2/2 Troll Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21314/wow-servants-of-the-betrayer-mojo-doctor-zintar",
+      "cost": "2",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/171.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.3,
+          "low": 0.45,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 21315,
+      "name": "Ras'fari Bloodfrenzy",
+      "number": "172",
+      "rarity": "U",
+      "type": "Ally — 4/6 Troll Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21315/wow-servants-of-the-betrayer-rasfari-bloodfrenzy",
+      "cost": "6",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/172.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 21316,
+      "name": "Roena Trailmaker",
+      "number": "173",
+      "rarity": "C",
+      "type": "Ally — 4/2 Tauren Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21316/wow-servants-of-the-betrayer-roena-trailmaker",
+      "cost": "5",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/173.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 21317,
+      "name": "Rogg Dreadnock",
+      "number": "174",
+      "rarity": "U",
+      "type": "Ally — 2/4 Orc Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21317/wow-servants-of-the-betrayer-rogg-dreadnock",
+      "cost": "3",
+      "artist": "Brian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/174.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21318,
+      "name": "Saurfang the Younger",
+      "number": "175",
+      "rarity": "E",
+      "type": "Ally — 7/4 Orc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21318/wow-servants-of-the-betrayer-saurfang-the-younger",
+      "cost": "6",
+      "artist": "Chris Ha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6,
+          "low": 6,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 21319,
+      "name": "Scholar Krosiss",
+      "number": "176",
+      "rarity": "C",
+      "type": "Ally — 1/1 Undead Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21319/wow-servants-of-the-betrayer-scholar-krosiss",
+      "cost": "1",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/176.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21320,
+      "name": "Sha'kar",
+      "number": "178",
+      "rarity": "C",
+      "type": "Ally — 4/2 Troll Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21320/wow-servants-of-the-betrayer-shakar",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/178.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 0.2,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 21321,
+      "name": "Skymistress Taranna",
+      "number": "179",
+      "rarity": "R",
+      "type": "Ally — 2/4 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21321/wow-servants-of-the-betrayer-skymistress-taranna",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/179.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21322,
+      "name": "Tarn Darkwalker",
+      "number": "180",
+      "rarity": "C",
+      "type": "Ally — 3/1 Orc Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21322/wow-servants-of-the-betrayer-tarn-darkwalker",
+      "cost": "2",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/180.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.26,
+          "low": 0.99,
+          "mid": 3.26
+        }
+      ]
+    },
+    {
+      "id": 21323,
+      "name": "Tatulla the Reclaimer",
+      "number": "181",
+      "rarity": "C",
+      "type": "Ally — 3/3 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21323/wow-servants-of-the-betrayer-tatulla-the-reclaimer",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/181.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.63,
+          "low": 1.5,
+          "mid": 1.63
+        }
+      ]
+    },
+    {
+      "id": 21324,
+      "name": "Ulrac Bloodshadow",
+      "number": "182",
+      "rarity": "R",
+      "type": "Ally — 3/3 Blood Elf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21324/wow-servants-of-the-betrayer-ulrac-bloodshadow",
+      "cost": "5",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/182.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21325,
+      "name": "Vexmaster Nar'jo",
+      "number": "183",
+      "rarity": "C",
+      "type": "Ally — 1/3 Troll Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21325/wow-servants-of-the-betrayer-vexmaster-narjo",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/183.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 21326,
+      "name": "Anchorite Fareena",
+      "number": "184",
+      "rarity": "U",
+      "type": "Ally — 3/3 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21326/wow-servants-of-the-betrayer-anchorite-fareena",
+      "cost": "3",
+      "artist": "R.K. Post",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/184.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.19,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 21327,
+      "name": "Anchorite Karja",
+      "number": "185",
+      "rarity": "E",
+      "type": "Ally — 6/6 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21327/wow-servants-of-the-betrayer-anchorite-karja",
+      "cost": "7",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/185.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 4.49,
+          "mid": 5.75
+        }
+      ]
+    },
+    {
+      "id": 21328,
+      "name": "Anchorite Onkoth",
+      "number": "186",
+      "rarity": "U",
+      "type": "Ally — 5/4 Draenai Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21328/wow-servants-of-the-betrayer-anchorite-onkoth",
+      "cost": "5",
+      "artist": "Lucio Parrillo",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/186.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.33,
+          "low": 1,
+          "mid": 1.36
+        }
+      ]
+    },
+    {
+      "id": 21329,
+      "name": "Atani of the Watch",
+      "number": "187",
+      "rarity": "C",
+      "type": "Ally — 0/4 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21329/wow-servants-of-the-betrayer-atani-of-the-watch",
+      "cost": "1",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/187.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.25,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 21330,
+      "name": "Bulvai of the Watch",
+      "number": "188",
+      "rarity": "C",
+      "type": "Ally — 3/5 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21330/wow-servants-of-the-betrayer-bulvai-of-the-watch",
+      "cost": "4",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/188.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.09,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 21331,
+      "name": "Exarch Orelis",
+      "number": "189",
+      "rarity": "E",
+      "type": "Ally — 5/7 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21331/wow-servants-of-the-betrayer-exarch-orelis",
+      "cost": "6",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/189.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.95,
+          "low": 2.11,
+          "mid": 3.64
+        }
+      ]
+    },
+    {
+      "id": 21332,
+      "name": "Marksman Eowan",
+      "number": "190",
+      "rarity": "U",
+      "type": "Ally — 3/2 Draenei Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21332/wow-servants-of-the-betrayer-marksman-eowan",
+      "cost": "4",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/190.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.17,
+          "low": 1.99,
+          "mid": 3.17
+        }
+      ]
+    },
+    {
+      "id": 21333,
+      "name": "Niyore of the Watch",
+      "number": "192",
+      "rarity": "R",
+      "type": "Ally — 5/6 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21333/wow-servants-of-the-betrayer-niyore-of-the-watch",
+      "cost": "6",
+      "artist": "Sloth Productions",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/192.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.98,
+          "low": 0.75,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 21334,
+      "name": "Vindicator Agran",
+      "number": "193",
+      "rarity": "C",
+      "type": "Ally — 2/4 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21334/wow-servants-of-the-betrayer-vindicator-agran",
+      "cost": "3",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/193.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.2,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21335,
+      "name": "Vindicator Ostakron",
+      "number": "194",
+      "rarity": "C",
+      "type": "Ally — 1/2 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21335/wow-servants-of-the-betrayer-vindicator-ostakron",
+      "cost": "1",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/194.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 21336,
+      "name": "Arcanist Alathana",
+      "number": "196",
+      "rarity": "U",
+      "type": "Ally — 2/1 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21336/wow-servants-of-the-betrayer-arcanist-alathana",
+      "cost": "1",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/196.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21337,
+      "name": "Arcanist Lyronia",
+      "number": "199",
+      "rarity": "C",
+      "type": "Ally — 2/1 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21337/wow-servants-of-the-betrayer-arcanist-lyronia",
+      "cost": "1",
+      "artist": "Mark Evans",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/199.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.25,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 21338,
+      "name": "Magistrix Dianas",
+      "number": "200",
+      "rarity": "C",
+      "type": "Ally — 4/3 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21338/wow-servants-of-the-betrayer-magistrix-dianas",
+      "cost": "4",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/200.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 0.25,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 21339,
+      "name": "Magistrix Larynna",
+      "number": "201",
+      "rarity": "E",
+      "type": "Ally — 3/8 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21339/wow-servants-of-the-betrayer-magistrix-larynna",
+      "cost": "7",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/201.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21340,
+      "name": "Retainer Athan",
+      "number": "202",
+      "rarity": "U",
+      "type": "Ally — 3/3 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21340/wow-servants-of-the-betrayer-retainer-athan",
+      "cost": "3",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/202.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.25,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 21341,
+      "name": "Retainer Cara",
+      "number": "203",
+      "rarity": "C",
+      "type": "Ally — 6/4 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21341/wow-servants-of-the-betrayer-retainer-cara",
+      "cost": "6",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/203.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21342,
+      "name": "Retainer Eteron",
+      "number": "204",
+      "rarity": "R",
+      "type": "Ally — 5/4 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21342/wow-servants-of-the-betrayer-retainer-eteron",
+      "cost": "5",
+      "artist": "Sloth Productions",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/204.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.24,
+          "mid": 0.53
+        }
+      ]
+    },
+    {
+      "id": 21343,
+      "name": "Retainer Ryn",
+      "number": "205",
+      "rarity": "U",
+      "type": "Ally — 3/3 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21343/wow-servants-of-the-betrayer-retainer-ryn",
+      "cost": "4",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/205.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 1.25,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21344,
+      "name": "Retainer Zian",
+      "number": "206",
+      "rarity": "C",
+      "type": "Ally — 3/3 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21344/wow-servants-of-the-betrayer-retainer-zian",
+      "cost": "2",
+      "artist": "Andrew Arconti",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/206.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.15,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 21345,
+      "name": "Spymaster Thalodien",
+      "number": "207",
+      "rarity": "E",
+      "type": "Ally — 4/5 Blood Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21345/wow-servants-of-the-betrayer-spymaster-thalodien",
+      "cost": "5",
+      "artist": "Aleksi Briclot",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/207.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.89,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 21346,
+      "name": "Millhouse Manastorm",
+      "number": "211",
+      "rarity": "E",
+      "type": "Ally — 6/7 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21346/wow-servants-of-the-betrayer-millhouse-manastorm",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/211.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21347,
+      "name": "Sunseeker Astromage",
+      "number": "214",
+      "rarity": "C",
+      "type": "Ally — 1/2 Blood Elf Mage Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21347/wow-servants-of-the-betrayer-sunseeker-astromage",
+      "cost": "2",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/214.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21348,
+      "name": "Arcanium Signet Bands",
+      "number": "217",
+      "rarity": "U",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21348/wow-servants-of-the-betrayer-arcanium-signet-bands",
+      "cost": "2",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/217.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.56,
+          "low": 0.52,
+          "mid": 1.56
+        }
+      ]
+    },
+    {
+      "id": 21349,
+      "name": "Armwraps of Disdain",
+      "number": "218",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21349/wow-servants-of-the-betrayer-armwraps-of-disdain",
+      "cost": "1",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/218.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.28,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 21350,
+      "name": "Azure-Shield of Coldarra",
+      "number": "219",
+      "rarity": "R",
+      "type": "Equipment — Armor — Shield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21350/wow-servants-of-the-betrayer-azure-shield-of-coldarra",
+      "cost": "3",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/219.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21351,
+      "name": "Barbaric Legstraps",
+      "number": "220",
+      "rarity": "U",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21351/wow-servants-of-the-betrayer-barbaric-legstraps",
+      "cost": "3",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/220.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 1.92,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21352,
+      "name": "Doomplate Warhelm",
+      "number": "221",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21352/wow-servants-of-the-betrayer-doomplate-warhelm",
+      "cost": "4",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/221.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 2.5,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21353,
+      "name": "Fanblade Pauldrons",
+      "number": "222",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21353/wow-servants-of-the-betrayer-fanblade-pauldrons",
+      "cost": "2",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/222.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.3,
+          "low": 2.3,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 21354,
+      "name": "Helm of Desolation",
+      "number": "223",
+      "rarity": "U",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21354/wow-servants-of-the-betrayer-helm-of-desolation",
+      "cost": "3",
+      "artist": "Brian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/223.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 1.12,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21355,
+      "name": "Legguards of the Shattered Hand",
+      "number": "224",
+      "rarity": "R",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21355/wow-servants-of-the-betrayer-legguards-of-the-shattered-hand",
+      "cost": "6",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/224.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4.61
+        }
+      ]
+    },
+    {
+      "id": 21356,
+      "name": "Mana-Etched Crown",
+      "number": "225",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21356/wow-servants-of-the-betrayer-mana-etched-crown",
+      "cost": "4",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/225.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21357,
+      "name": "Mana-Sphere Shoulderguards",
+      "number": "226",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21357/wow-servants-of-the-betrayer-mana-sphere-shoulderguards",
+      "cost": "3",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/226.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.59,
+          "low": 2.17,
+          "mid": 2.59
+        }
+      ]
+    },
+    {
+      "id": 21358,
+      "name": "Wastewalker Helm",
+      "number": "227",
+      "rarity": "U",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21358/wow-servants-of-the-betrayer-wastewalker-helm",
+      "cost": "2",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/227.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 21359,
+      "name": "Wastewalker Leggings",
+      "number": "228",
+      "rarity": "R",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21359/wow-servants-of-the-betrayer-wastewalker-leggings",
+      "cost": "4",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/228.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.75,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 21360,
+      "name": "Choker of Vile Intent",
+      "number": "229",
+      "rarity": "R",
+      "type": "Equipment — Item — Neck",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21360/wow-servants-of-the-betrayer-choker-of-vile-intent",
+      "cost": "3",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/229.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.5,
+          "low": 0.47,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 21361,
+      "name": "Hourglass of the Unraveller",
+      "number": "230",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21361/wow-servants-of-the-betrayer-hourglass-of-the-unraveller",
+      "cost": "3",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/230.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 21362,
+      "name": "Quagmirran's Eye",
+      "number": "231",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21362/wow-servants-of-the-betrayer-quagmirrans-eye",
+      "cost": "3",
+      "artist": "Mike Nicholson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/231.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21363,
+      "name": "Ring of the Shadow Deeps",
+      "number": "232",
+      "rarity": "U",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21363/wow-servants-of-the-betrayer-ring-of-the-shadow-deeps",
+      "cost": "1",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/232.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.49,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21364,
+      "name": "Ring of the Silver Hand",
+      "number": "233",
+      "rarity": "R",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21364/wow-servants-of-the-betrayer-ring-of-the-silver-hand",
+      "cost": "3",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/233.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.99,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21365,
+      "name": "Bloodskull Destroyer",
+      "number": "235",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21365/wow-servants-of-the-betrayer-bloodskull-destroyer",
+      "cost": "2",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/235.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.75,
+          "low": 5,
+          "mid": 6.75
+        }
+      ]
+    },
+    {
+      "id": 21366,
+      "name": "Plasma Rat's Hyper-Scythe",
+      "number": "237",
+      "rarity": "U",
+      "type": "Equipment — 2H Weapon — Polearm",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21366/wow-servants-of-the-betrayer-plasma-rats-hyper-scythe",
+      "cost": "6",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/237.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.96,
+          "low": 1,
+          "mid": 1.96
+        }
+      ]
+    },
+    {
+      "id": 21367,
+      "name": "Terokk's Shadowstaff",
+      "number": "240",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21367/wow-servants-of-the-betrayer-terokks-shadowstaff",
+      "cost": "3",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/240.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.29,
+          "mid": 1.52
+        }
+      ]
+    },
+    {
+      "id": 21368,
+      "name": "Vileblade of the Betrayer",
+      "number": "241",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21368/wow-servants-of-the-betrayer-vileblade-of-the-betrayer",
+      "cost": "3",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/241.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 21369,
+      "name": "Voidfire Wand",
+      "number": "242",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21369/wow-servants-of-the-betrayer-voidfire-wand",
+      "cost": "4",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/242.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2.5,
+          "mid": 3
+        },
+        {
+          "sub": "Foil",
+          "usd": 12.98,
+          "low": 11.5,
+          "mid": 12.98
+        }
+      ]
+    },
+    {
+      "id": 21370,
+      "name": "Wand of the Seer",
+      "number": "243",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21370/wow-servants-of-the-betrayer-wand-of-the-seer",
+      "cost": "4",
+      "artist": "Ben Young",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/243.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.42,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 21371,
+      "name": "Sunfury Briefings",
+      "number": "246",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21371/wow-servants-of-the-betrayer-sunfury-briefings",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/246.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 21372,
+      "name": "Manaforge B'naar",
+      "number": "248",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21372/wow-servants-of-the-betrayer-manaforge-bnaar",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/248.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.15,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 21373,
+      "name": "Deep Sea Salvage",
+      "number": "249",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21373/wow-servants-of-the-betrayer-deep-sea-salvage",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/249.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 2.88,
+          "mid": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21374,
+      "name": "An Improper Burial",
+      "number": "251",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21374/wow-servants-of-the-betrayer-an-improper-burial",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/251.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21375,
+      "name": "Information Gathering",
+      "number": "252",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21375/wow-servants-of-the-betrayer-information-gathering",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/252.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.3,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 21376,
+      "name": "Kim'jael Indeed!",
+      "number": "253",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21376/wow-servants-of-the-betrayer-kimjael-indeed",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/253.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.25,
+          "mid": 3.15
+        }
+      ]
+    },
+    {
+      "id": 21377,
+      "name": "Leader of the Darkcrest",
+      "number": "254",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21377/wow-servants-of-the-betrayer-leader-of-the-darkcrest",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/254.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21378,
+      "name": "Meeting with the Master",
+      "number": "255",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21378/wow-servants-of-the-betrayer-meeting-with-the-master",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/255.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.2,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 21379,
+      "name": "Potential Energy Source",
+      "number": "258",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21379/wow-servants-of-the-betrayer-potential-energy-source",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/258.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 21380,
+      "name": "Preparing for War",
+      "number": "259",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21380/wow-servants-of-the-betrayer-preparing-for-war",
+      "artist": "Paolo Parente",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/259.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 21381,
+      "name": "Shutting Down Manaforge Ara",
+      "number": "260",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21381/wow-servants-of-the-betrayer-shutting-down-manaforge-ara",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/260.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.2,
+          "mid": 3.26
+        }
+      ]
+    },
+    {
+      "id": 21382,
+      "name": "The Sigil of Krasus",
+      "number": "261",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21382/wow-servants-of-the-betrayer-the-sigil-of-krasus",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/261.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.74,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 21383,
+      "name": "The Unending Invasion",
+      "number": "262",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21383/wow-servants-of-the-betrayer-the-unending-invasion",
+      "artist": "Aleksi Briclot",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/262.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21384,
+      "name": "A Warm Welcome",
+      "number": "263",
+      "rarity": "R",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21384/wow-servants-of-the-betrayer-a-warm-welcome",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/263.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.11,
+          "low": 4.99,
+          "mid": 5.11
+        }
+      ]
+    },
+    {
+      "id": 21385,
+      "name": "You, Robot",
+      "number": "264",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21385/wow-servants-of-the-betrayer-you-robot",
+      "artist": "Eric Browning",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/264.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 2.68,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21386,
+      "name": "Coilfang Myrmidon",
+      "number": "208",
+      "rarity": "C",
+      "type": "Ally — 3/2 Naga Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21386/wow-servants-of-the-betrayer-coilfang-myrmidon",
+      "cost": "3",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/208.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21387,
+      "name": "Chew Toy",
+      "number": "37",
+      "rarity": "U",
+      "type": "Ability — Feral Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21387/wow-servants-of-the-betrayer-chew-toy",
+      "cost": "2",
+      "artist": "Lucas Graciano",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 3,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21392,
+      "name": "Needs More Cowbell",
+      "number": "256",
+      "rarity": "R",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21392/wow-servants-of-the-betrayer-needs-more-cowbell",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/256.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21393,
+      "name": "Marks of Kil'jaeden",
+      "number": "245",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21393/wow-servants-of-the-betrayer-marks-of-kiljaeden",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/245.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.25,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 21394,
+      "name": "Firewing Signets",
+      "number": "247",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21394/wow-servants-of-the-betrayer-firewing-signets",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/247.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.15,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 21427,
+      "name": "Mythen of the Wild",
+      "number": "5",
+      "rarity": "U",
+      "type": "Hero — Night Elf Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21427/wow-servants-of-the-betrayer-mythen-of-the-wild",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/5.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 0.99,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 21428,
+      "name": "Warden Stormclaw",
+      "number": "27",
+      "rarity": "U",
+      "type": "Hero — Tauren Druid — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21428/wow-servants-of-the-betrayer-warden-stormclaw",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/27.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.32,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 21429,
+      "name": "Mythen of the Fang",
+      "number": "14",
+      "rarity": "U",
+      "type": "Hero — Night Elf Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21429_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21429/wow-servants-of-the-betrayer-mythen-of-the-fang",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1117.04,
+          "low": 2.75,
+          "mid": 1117.04
+        }
+      ]
+    },
+    {
+      "id": 21430,
+      "name": "Desecrator Stormclaw",
+      "number": "36",
+      "rarity": "U",
+      "type": "Hero — Tauren Druid — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21430/wow-servants-of-the-betrayer-desecrator-stormclaw",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.65,
+          "low": 2,
+          "mid": 2.65
+        }
+      ]
+    },
+    {
+      "id": 21431,
+      "name": "Tainted Earth",
+      "number": "45",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21431/wow-servants-of-the-betrayer-tainted-earth",
+      "cost": "1",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/45.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.75,
+          "low": 2.62,
+          "mid": 3.75
+        }
+      ]
+    },
+    {
+      "id": 21432,
+      "name": "Sharpshooter Nally",
+      "number": "8",
+      "rarity": "U",
+      "type": "Hero — Dwarf Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21432/wow-servants-of-the-betrayer-sharpshooter-nally",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/8.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 21433,
+      "name": "Feign Death",
+      "number": "50",
+      "rarity": "R",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21433/wow-servants-of-the-betrayer-feign-death",
+      "cost": "3",
+      "artist": "Luca Zontini",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 3,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 21434,
+      "name": "Seadog Nally",
+      "number": "17",
+      "rarity": "U",
+      "type": "Hero — Dwarf Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21434/wow-servants-of-the-betrayer-seadog-nally",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.35,
+          "low": 1.74,
+          "mid": 2.05
+        }
+      ]
+    },
+    {
+      "id": 21435,
+      "name": "Death Trap",
+      "number": "48",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21435/wow-servants-of-the-betrayer-death-trap",
+      "cost": "5",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/48.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 21436,
+      "name": "Obora the Wise",
+      "number": "6",
+      "rarity": "U",
+      "type": "Hero — Draenei Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21436/wow-servants-of-the-betrayer-obora-the-wise",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/6.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 21437,
+      "name": "Vor'na the Disciplined",
+      "number": "26",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21437/wow-servants-of-the-betrayer-vorna-the-disciplined",
+      "artist": "Hideaki Takamura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.22,
+          "low": 1,
+          "mid": 2.22
+        }
+      ]
+    },
+    {
+      "id": 21438,
+      "name": "Invisibility",
+      "number": "61",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21438/wow-servants-of-the-betrayer-invisibility",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/61.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.23,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21439,
+      "name": "Obora the Mad",
+      "number": "15",
+      "rarity": "U",
+      "type": "Hero — Draenei Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21439/wow-servants-of-the-betrayer-obora-the-mad",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.99,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 21440,
+      "name": "Vor'na the Wretched",
+      "number": "35",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21440/wow-servants-of-the-betrayer-vorna-the-wretched",
+      "artist": "Hideaki Takamura",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/35.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21441,
+      "name": "Tomb of Ice",
+      "number": "66",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21441/wow-servants-of-the-betrayer-tomb-of-ice",
+      "cost": "2",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/66.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 1,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 21442,
+      "name": "Death Shock",
+      "number": "97",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21442/wow-servants-of-the-betrayer-death-shock",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/97.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.36,
+          "low": 1.49,
+          "mid": 3.36
+        }
+      ]
+    },
+    {
+      "id": 21443,
+      "name": "Papa Hummel's Old-Fashioned Pet Biscuit",
+      "number": "127",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21443/wow-servants-of-the-betrayer-papa-hummels-old-fashioned-pet-biscuit",
+      "cost": "X",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/127.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21444,
+      "name": "Snake Trap",
+      "number": "55",
+      "rarity": "U",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21444/wow-servants-of-the-betrayer-snake-trap",
+      "cost": "6",
+      "artist": "Bernie Kang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/55.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 0.29,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 21445,
+      "name": "Stella Forgebane",
+      "number": "156",
+      "rarity": "C",
+      "type": "Ally — 5/3 Dwarf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21445/wow-servants-of-the-betrayer-stella-forgebane",
+      "cost": "6",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/156.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 21446,
+      "name": "Melt Face",
+      "number": "82",
+      "rarity": "C",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21446_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21446/wow-servants-of-the-betrayer-melt-face",
+      "cost": "2",
+      "artist": "Mark Romanowski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/82.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.99,
+          "low": 1.75,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 21447,
+      "name": "Dr. Boom!",
+      "number": "250",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21447/wow-servants-of-the-betrayer-dr-boom",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/250.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 21448,
+      "name": "Form of the Serpent",
+      "number": "39",
+      "rarity": "R",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21448_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21448/wow-servants-of-the-betrayer-form-of-the-serpent",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 3.84
+        }
+      ]
+    },
+    {
+      "id": 21449,
+      "name": "Wrathtide Longbow",
+      "number": "244",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Bow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21449/wow-servants-of-the-betrayer-wrathtide-longbow",
+      "cost": "5",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/244.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.3,
+          "low": 0.5,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 21450,
+      "name": "Personal Weather Maker",
+      "number": "128",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21450/wow-servants-of-the-betrayer-personal-weather-maker",
+      "cost": "3",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/128.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.05,
+          "low": 1.39,
+          "mid": 4.05
+        }
+      ]
+    },
+    {
+      "id": 21451,
+      "name": "X-51 Nether-Rocket",
+      "number": "216",
+      "rarity": "R",
+      "type": "Ally — 0/5 Rocket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21451/wow-servants-of-the-betrayer-x-51-nether-rocket",
+      "cost": "2",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/216.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21452,
+      "name": "Essence Gatherer",
+      "number": "236",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21452/wow-servants-of-the-betrayer-essence-gatherer",
+      "cost": "2",
+      "artist": "Karl Richardson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/236.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 0.6,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 21453,
+      "name": "Gift of Nature",
+      "number": "40",
+      "rarity": "R",
+      "type": "Ability — Restoration Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21453/wow-servants-of-the-betrayer-gift-of-nature",
+      "cost": "3",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/40.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1.49,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 21454,
+      "name": "The Natural Order",
+      "number": "43",
+      "rarity": "C",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21454/wow-servants-of-the-betrayer-the-natural-order",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/43.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21455,
+      "name": "Warlord Kalithresh",
+      "number": "215",
+      "rarity": "R",
+      "type": "Ally — 5/7 Naga Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21455_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21455/wow-servants-of-the-betrayer-warlord-kalithresh",
+      "cost": "6",
+      "artist": "Chippy",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/215.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21456,
+      "name": "Morn Walks-the-Path",
+      "number": "23",
+      "rarity": "U",
+      "type": "Hero — Tauren Hunter — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21456/wow-servants-of-the-betrayer-morn-walks-the-path",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 4.99,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 21457,
+      "name": "Morn Salts-the-Land",
+      "number": "32",
+      "rarity": "U",
+      "type": "Hero — Tauren Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21457/wow-servants-of-the-betrayer-morn-salts-the-land",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/32.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.85,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 21458,
+      "name": "Sudden Death",
+      "number": "123",
+      "rarity": "U",
+      "type": "Ability — Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21458/wow-servants-of-the-betrayer-sudden-death",
+      "cost": "2",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/123.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21459,
+      "name": "Lady Vashj",
+      "number": "210",
+      "rarity": "E",
+      "type": "Ally — 6/9 Naga Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21459/wow-servants-of-the-betrayer-lady-vashj",
+      "cost": "9",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/210.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.74,
+          "low": 3.5,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 21460,
+      "name": "Marksman Glous",
+      "number": "191",
+      "rarity": "R",
+      "type": "Ally — 3/2 Draenei Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21460/wow-servants-of-the-betrayer-marksman-glous",
+      "cost": "2",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/191.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.34,
+          "low": 1.18,
+          "mid": 1.34
+        }
+      ]
+    },
+    {
+      "id": 21461,
+      "name": "Xanata the Lightsworn",
+      "number": "195",
+      "rarity": "U",
+      "type": "Ally — 1/3 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21461/wow-servants-of-the-betrayer-xanata-the-lightsworn",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/195.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.35,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 21462,
+      "name": "Arcanist Atikan",
+      "number": "197",
+      "rarity": "R",
+      "type": "Ally — 4/2 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21462/wow-servants-of-the-betrayer-arcanist-atikan",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/197.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.48,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 21463,
+      "name": "Arcanist Dayvana",
+      "number": "198",
+      "rarity": "U",
+      "type": "Ally — 3/1 Blood Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21463_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21463/wow-servants-of-the-betrayer-arcanist-dayvana",
+      "cost": "2",
+      "artist": "Ittoku Seta",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/198.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 21464,
+      "name": "Elemental Precision",
+      "number": "98",
+      "rarity": "R",
+      "type": "Ability — Elemental Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21464/wow-servants-of-the-betrayer-elemental-precision",
+      "cost": "7",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/98.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.86,
+          "low": 0.24,
+          "mid": 1.86
+        }
+      ]
+    },
+    {
+      "id": 26800,
+      "name": "Diversion",
+      "number": "90",
+      "rarity": "C",
+      "type": "Ability — Subtlety",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26800/wow-servants-of-the-betrayer-diversion",
+      "cost": "3",
+      "artist": "Ron Spencer",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/90.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.15,
+          "low": 0.25,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 26801,
+      "name": "Pilfer",
+      "number": "94",
+      "rarity": "U",
+      "type": "Ability — Subtlety Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26801_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26801/wow-servants-of-the-betrayer-pilfer",
+      "cost": "3",
+      "artist": "Chris Seaman",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/94.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.25,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 26802,
+      "name": "Sacrificial Poison",
+      "number": "95",
+      "rarity": "U",
+      "type": "Ability — Poison Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26802_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26802/wow-servants-of-the-betrayer-sacrificial-poison",
+      "cost": "2",
+      "artist": "Alan Pollack",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/95.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.25,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 26803,
+      "name": "Unbalance",
+      "number": "96",
+      "rarity": "C",
+      "type": "Ability — Combat Combo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26803_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26803/wow-servants-of-the-betrayer-unbalance",
+      "cost": "2",
+      "artist": "Ted Park",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/96.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.28,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 26804,
+      "name": "Life Cycle",
+      "number": "99",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26804_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26804/wow-servants-of-the-betrayer-life-cycle",
+      "cost": "3",
+      "artist": "Massive Black",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/99.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.5,
+          "low": 0.15,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 26805,
+      "name": "Maelstrom Weapon",
+      "number": "100",
+      "rarity": "C",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26805_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26805/wow-servants-of-the-betrayer-maelstrom-weapon",
+      "cost": "3",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/100.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 1.24
+        }
+      ]
+    },
+    {
+      "id": 26806,
+      "name": "Prince Kael'thas Sunstrider",
+      "number": "213",
+      "rarity": "E",
+      "type": "Ally — 8/8 Blood Elf Mage Traitor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/26806_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/26806/wow-servants-of-the-betrayer-prince-kaelthas-sunstrider",
+      "cost": "9",
+      "artist": "Wei Wang",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 35,
+          "low": 21.49,
+          "mid": 21.49
+        }
+      ]
+    },
+    {
+      "id": 38449,
+      "name": "Find Weakness",
+      "number": "92",
+      "rarity": "R",
+      "type": "Ability — Assassination Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/38449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/38449/wow-servants-of-the-betrayer-find-weakness",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/92.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.9,
+          "low": 1.55,
+          "mid": 1.9
+        }
+      ]
+    },
+    {
+      "id": 155818,
+      "name": "Shamanistic Dual Wield",
+      "number": "101",
+      "rarity": "R",
+      "type": "Ability — Enhancement Talent",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/155818_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/155818/wow-servants-of-the-betrayer-shamanistic-dual-wield",
+      "cost": "1",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/betrayer/en/101.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

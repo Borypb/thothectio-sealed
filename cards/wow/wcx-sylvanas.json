@@ -1,0 +1,319 @@
+{
+  "groupId": 93911769,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9783211665,
+      "name": "Dark Lady Sylvanas Windrunner",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Undead Hunter — 28",
+      "artist": "Arnold Tsang",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9995136671,
+      "name": "Arcane Shot",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Marksmanship",
+      "cost": "2",
+      "artist": "Paul Mafayon",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9288685259,
+      "name": "Multi-Shot",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ability — Marksmanship",
+      "cost": "5",
+      "artist": "Craig Elliot",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9352746345,
+      "name": "Shadow",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Ally — 7/7 Panther",
+      "cost": "6",
+      "artist": "Daren Bader",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9741221296,
+      "name": "Steady Shot",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Ability — Marksmanship",
+      "cost": "3",
+      "artist": "John Polidora",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9394165013,
+      "name": "Turn the Blade",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Survival",
+      "cost": "1",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9385059279,
+      "name": "Zip",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/3 Tallstrider",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9234179255,
+      "name": "Master's Embrace",
+      "number": "8",
+      "rarity": "Uncommon",
+      "type": "Ability — Beast Mastery Demonology",
+      "cost": "3",
+      "artist": "Todd Lockwood",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9657538414,
+      "name": "Strength of Will",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Ability",
+      "cost": "3",
+      "artist": "Dave Wilkins",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9648400257,
+      "name": "Asoren Darksnout",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ally — 4/5 Tauren Death Knight",
+      "cost": "5",
+      "artist": "LD Austin",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9357627616,
+      "name": "Daroka Venomfist",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Orc Rogue",
+      "cost": "1",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9823006762,
+      "name": "Draga'zal",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Orc Mage",
+      "cost": "2",
+      "artist": "Dave Wilkins",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9963096187,
+      "name": "Grak Foulblade",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 6/2 Orc Death Knight",
+      "cost": "4",
+      "artist": "Dave Rapoza",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9250074650,
+      "name": "Hesawa Stormwalker",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 2/5 Tauren Druid",
+      "cost": "3",
+      "artist": "Stephen Crowe",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9142217120,
+      "name": "Kelena Ashford",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 4/1 Undead Warlock",
+      "cost": "3",
+      "artist": "Guangjian Huang",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9488195106,
+      "name": "Kraznix Smolderpain",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 4/6 Goblin Warlock",
+      "cost": "5",
+      "artist": "Arnie Swekel",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9195160907,
+      "name": "Krezza the Explosive",
+      "number": "17",
+      "rarity": "Rare",
+      "type": "Ally — 2/2 Goblin Mage",
+      "cost": "3",
+      "artist": "Alan Pollack",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9516882595,
+      "name": "Samantha Galvington",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 5/1 Undead Mage",
+      "cost": "3",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9365616656,
+      "name": "Vazu'jin",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 4/4 Troll Rogue",
+      "cost": "5",
+      "artist": "Richie Marella",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9534326362,
+      "name": "Waz'luk",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Troll Mage",
+      "cost": "1",
+      "artist": "Paolo Parente",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9963077664,
+      "name": "Bloodbane's Fall",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9246662690,
+      "name": "Blackcrow",
+      "number": "22",
+      "rarity": "Uncommon",
+      "type": "Equipment — Ranged Weapon — Crossbow",
+      "cost": "2",
+      "artist": "Bob Eggleton",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9006353461,
+      "name": "Lightning Whelk Axe",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Axe",
+      "cost": "2",
+      "artist": "Nathan Bowden",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9371579971,
+      "name": "Windrunner's Heartseeker",
+      "number": "24",
+      "rarity": "Rare",
+      "type": "Equipment — Ranged Weapon — Crossbow",
+      "cost": "5",
+      "artist": "Oliver Chipping",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9636726957,
+      "name": "Blueleaf Tubers",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9023381302,
+      "name": "The Culmination of Our Efforts",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9902772727,
+      "name": "Entrenched",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9780460208,
+      "name": "The Key to Freedom",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9107152069,
+      "name": "Seeds of Their Demise",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Zoltan Boros",
+      "image": "https://www.wowcards.info/scans/sylvanas/en/29.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

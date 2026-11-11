@@ -1,0 +1,896 @@
+{
+  "groupId": 1091,
+  "cards": [
+    {
+      "id": 34609,
+      "name": "Arrowsong",
+      "number": "28",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Bow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34609/wow-naxxramas-treasure-arrowsong",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/28.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.65,
+          "low": 1.29,
+          "mid": 1.65
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.49,
+          "low": 0.47,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 34610,
+      "name": "Bandit's Insignia",
+      "number": "22",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34610/wow-naxxramas-treasure-bandits-insignia",
+      "cost": "4",
+      "artist": "Eric Deschamps",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/22.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 1,
+          "mid": 1.15
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.15,
+          "low": 0.48,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 34611,
+      "name": "Betrayer of Humanity",
+      "number": "29",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34611/wow-naxxramas-treasure-betrayer-of-humanity",
+      "cost": "6",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/29.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.16,
+          "low": 3.16,
+          "mid": 3.16
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.74,
+          "low": 1.5,
+          "mid": 2.73
+        }
+      ]
+    },
+    {
+      "id": 34612,
+      "name": "Calamity's Grasp",
+      "number": "30",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Fist",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34612/wow-naxxramas-treasure-calamitys-grasp",
+      "cost": "4",
+      "artist": "Derk Venneman",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/30.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.29,
+          "low": 0.75,
+          "mid": 3.29
+        }
+      ]
+    },
+    {
+      "id": 34613,
+      "name": "Cincture of Polarity",
+      "number": "11",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34613/wow-naxxramas-treasure-cincture-of-polarity",
+      "cost": "1",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.47,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 34614,
+      "name": "Cover of Silence",
+      "number": "12",
+      "rarity": "R",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34614/wow-naxxramas-treasure-cover-of-silence",
+      "cost": "2",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.4,
+          "low": 2.22,
+          "mid": 3.64
+        }
+      ]
+    },
+    {
+      "id": 34615,
+      "name": "Damnation",
+      "number": "32",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34615/wow-naxxramas-treasure-damnation",
+      "cost": "4",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/32.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.75,
+          "low": 1.75,
+          "mid": 1.87
+        }
+      ]
+    },
+    {
+      "id": 34616,
+      "name": "Cryptfiend's Bite",
+      "number": "31",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Polearm",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34616/wow-naxxramas-treasure-cryptfiends-bite",
+      "cost": "3",
+      "artist": "Matt Starbuck",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/31.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.75,
+          "mid": 1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.75,
+          "low": 0.38,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 34617,
+      "name": "Dying Curse",
+      "number": "23",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34617/wow-naxxramas-treasure-dying-curse",
+      "cost": "1",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.88,
+          "low": 1.75,
+          "mid": 1.88
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.75,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 34618,
+      "name": "Envoy of Mortality",
+      "number": "33",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Gun",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34618/wow-naxxramas-treasure-envoy-of-mortality",
+      "cost": "2",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/33.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.33,
+          "low": 1.99,
+          "mid": 3.33
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 1.24
+        }
+      ]
+    },
+    {
+      "id": 34619,
+      "name": "Faerlina's Madness",
+      "number": "13",
+      "rarity": "R",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34619/wow-naxxramas-treasure-faerlinas-madness",
+      "cost": "1",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.76,
+          "low": 1.65,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 34620,
+      "name": "Footwraps of Vile Deceit",
+      "number": "14",
+      "rarity": "R",
+      "type": "Equipment — Armor — Leather",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34620/wow-naxxramas-treasure-footwraps-of-vile-deceit",
+      "cost": "4",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.5,
+          "low": 1.5,
+          "mid": 1.79
+        }
+      ]
+    },
+    {
+      "id": 34621,
+      "name": "Girdle of Razuvious",
+      "number": "15",
+      "rarity": "R",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34621/wow-naxxramas-treasure-girdle-of-razuvious",
+      "cost": "5",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 3,
+          "mid": 3
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.99,
+          "low": 1.99,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 34622,
+      "name": "Gloves of Calculated Risk",
+      "number": "16",
+      "rarity": "R",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34622/wow-naxxramas-treasure-gloves-of-calculated-risk",
+      "cost": "3",
+      "artist": "Jarreau Wimberly",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.99,
+          "low": 0.97,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 34623,
+      "name": "Icy Blast Amulet",
+      "number": "24",
+      "rarity": "R",
+      "type": "Equipment — Item — Neck",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34623/wow-naxxramas-treasure-icy-blast-amulet",
+      "cost": "2",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.29,
+          "low": 1.29,
+          "mid": 1.29
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.76,
+          "low": 0.34,
+          "mid": 2.87
+        }
+      ]
+    },
+    {
+      "id": 34624,
+      "name": "Last Laugh",
+      "number": "34",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34624/wow-naxxramas-treasure-last-laugh",
+      "cost": "5",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.15,
+          "low": 2,
+          "mid": 2.15
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.47,
+          "low": 1,
+          "mid": 1.7
+        }
+      ]
+    },
+    {
+      "id": 34625,
+      "name": "Plague Igniter",
+      "number": "35",
+      "rarity": "R",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34625/wow-naxxramas-treasure-plague-igniter",
+      "cost": "3",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/35.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.24,
+          "mid": 0.24
+        },
+        {
+          "sub": "Foil",
+          "usd": 2.87,
+          "low": 0.5,
+          "mid": 2.98
+        }
+      ]
+    },
+    {
+      "id": 34626,
+      "name": "Riveted Abomination Leggings",
+      "number": "17",
+      "rarity": "R",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34626/wow-naxxramas-treasure-riveted-abomination-leggings",
+      "cost": "5",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.39,
+          "low": 0.48,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 34627,
+      "name": "Scourgeborne Battlegear",
+      "number": "18",
+      "rarity": "R",
+      "type": "Equipment — Armor Set — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34627/wow-naxxramas-treasure-scourgeborne-battlegear",
+      "cost": "7",
+      "artist": "Howard Lyon",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.86,
+          "low": 0.45,
+          "mid": 2.75
+        }
+      ]
+    },
+    {
+      "id": 34628,
+      "name": "Signet of Manifested Pain",
+      "number": "25",
+      "rarity": "R",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34628/wow-naxxramas-treasure-signet-of-manifested-pain",
+      "cost": "2",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4,
+          "low": 4,
+          "mid": 4
+        },
+        {
+          "sub": "Foil",
+          "usd": 3.75,
+          "low": 2,
+          "mid": 3.75
+        }
+      ]
+    },
+    {
+      "id": 34629,
+      "name": "Sinister Revenge",
+      "number": "36",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34629/wow-naxxramas-treasure-sinister-revenge",
+      "cost": "2",
+      "artist": "Matt Cavotta",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.86,
+          "low": 3.76,
+          "mid": 3.86
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.74,
+          "low": 1.5,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 34630,
+      "name": "Split Greathammer",
+      "number": "37",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34630/wow-naxxramas-treasure-split-greathammer",
+      "cost": "4",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.44,
+          "low": 2.99,
+          "mid": 3.44
+        }
+      ]
+    },
+    {
+      "id": 34631,
+      "name": "Torn Web Wrapping",
+      "number": "19",
+      "rarity": "R",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34631/wow-naxxramas-treasure-torn-web-wrapping",
+      "cost": "3",
+      "artist": "Jarreau Wimberly",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.4,
+          "low": 2.29,
+          "mid": 3.4
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.91,
+          "low": 0.75,
+          "mid": 1.98
+        }
+      ]
+    },
+    {
+      "id": 34632,
+      "name": "The Turning Tide",
+      "number": "38",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34632/wow-naxxramas-treasure-the-turning-tide",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/38.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.8,
+          "low": 1.59,
+          "mid": 1.8
+        },
+        {
+          "sub": "Foil",
+          "usd": 2,
+          "low": 0.25,
+          "mid": 2.22
+        }
+      ]
+    },
+    {
+      "id": 34633,
+      "name": "The Undeath Carrier",
+      "number": "39",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34633/wow-naxxramas-treasure-the-undeath-carrier",
+      "cost": "5",
+      "artist": "Matt Starbuck",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 1,
+          "mid": 1.15
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.31,
+          "low": 0.5,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 34634,
+      "name": "Urn of Lost Memories",
+      "number": "27",
+      "rarity": "R",
+      "type": "Equipment — Item — Off-Hand",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34634/wow-naxxramas-treasure-urn-of-lost-memories",
+      "cost": "2",
+      "artist": "Tyler Walpole",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/27.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.45,
+          "low": 0.49,
+          "mid": 1.68
+        }
+      ]
+    },
+    {
+      "id": 34635,
+      "name": "Voice of Reason",
+      "number": "20",
+      "rarity": "R",
+      "type": "Equipment — Armor — Shield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34635/wow-naxxramas-treasure-voice-of-reason",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/20.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.24,
+          "low": 1.24,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 34636,
+      "name": "Wall of Terror",
+      "number": "21",
+      "rarity": "R",
+      "type": "Equipment — Armor — Shield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34636/wow-naxxramas-treasure-wall-of-terror",
+      "cost": "6",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/21.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.27,
+          "low": 1.27,
+          "mid": 1.27
+        },
+        {
+          "sub": "Foil",
+          "usd": 3.32,
+          "low": 1.5,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 34637,
+      "name": "Widow's Fury",
+      "number": "40",
+      "rarity": "R",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34637/wow-naxxramas-treasure-widows-fury",
+      "cost": "2",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/40.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.8,
+          "low": 1.59,
+          "mid": 1.8
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 34638,
+      "name": "Strong-Handed Ring",
+      "number": "26",
+      "rarity": "R",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/34638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/34638/wow-naxxramas-treasure-strong-handed-ring",
+      "cost": "5",
+      "artist": "Matt Starbuck",
+      "altImages": [
+        "https://www.wowcards.info/scans/naxxramas/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.41,
+          "low": 4.31,
+          "mid": 4.41
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.71,
+          "low": 1,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 9144314598,
+      "name": "Gyro of the Ring",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Gnome Rogue — 27",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/1.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9309549834,
+      "name": "Loraala the Frigid",
+      "number": "2",
+      "rarity": "Uncommon",
+      "type": "Hero — Draenei Mage — 25",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/2.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9662457670,
+      "name": "Martiana the Mindwrench",
+      "number": "3",
+      "rarity": "Uncommon",
+      "type": "Hero — Dwarf Priest — 26",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/3.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9626222660,
+      "name": "Oakenclaw",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Hero — Night Elf Druid — 27",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/4.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9864428214,
+      "name": "Randolphe Mortimer",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Hero — Human Death Knight — 29",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/5.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9883469676,
+      "name": "Andarius the Damned",
+      "number": "6",
+      "rarity": "Uncommon",
+      "type": "Hero — Undead Warlock — 28",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/6.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9428386785,
+      "name": "Boarguts the Impaler",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Hero — Orc Warrior — 30",
+      "artist": "Daren Bader",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/7.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9928949888,
+      "name": "Justice Blindburn",
+      "number": "8",
+      "rarity": "Uncommon",
+      "type": "Hero — Blood Elf Paladin — 29",
+      "artist": "James Ryman",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/8.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9044480382,
+      "name": "The Longeye",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Hero — Troll Hunter — 28",
+      "artist": "Daarken",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/9.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9797233558,
+      "name": "Tribemother Torra",
+      "number": "10",
+      "rarity": "Uncommon",
+      "type": "Hero — Tauren Shaman — 29",
+      "artist": "James Zhang",
+      "image": "https://www.wowcards.info/scans/naxxramas/en/10.jpg",
+      "source": "wowcards",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

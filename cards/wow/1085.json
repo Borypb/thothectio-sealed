@@ -1,0 +1,700 @@
+{
+  "groupId": 1085,
+  "cards": [
+    {
+      "id": 17917,
+      "name": "Fiery Pits",
+      "number": "14",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17917/wow-magtheridons-lair-fiery-pits",
+      "cost": "2",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/14.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17918,
+      "name": "One Fell Swoop",
+      "number": "17",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17918/wow-magtheridons-lair-one-fell-swoop",
+      "cost": "6",
+      "artist": "Brian Despain",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/17.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17919,
+      "name": "Swath of Destruction",
+      "number": "26",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17919/wow-magtheridons-lair-swath-of-destruction",
+      "cost": "2",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/26.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 17920,
+      "name": "Summoner Channeler",
+      "number": "34",
+      "rarity": "C",
+      "type": "Ally — 0/4 Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17920/wow-magtheridons-lair-summoner-channeler-34",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 17921,
+      "name": "Dark Mending Channeler",
+      "number": "36",
+      "rarity": "C",
+      "type": "Ally — 0/4 Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17921/wow-magtheridons-lair-dark-mending-channeler",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.99,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 17922,
+      "name": "Shadow Channeler",
+      "number": "37",
+      "rarity": "C",
+      "type": "Ally — 0/4 Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17922/wow-magtheridons-lair-shadow-channeler-37",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 17923,
+      "name": "Magtheridon's Blood",
+      "number": "41",
+      "rarity": "U",
+      "type": "Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17923/wow-magtheridons-lair-magtheridons-blood",
+      "artist": "Ben Thompson",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/41.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.24,
+          "low": 0.99,
+          "mid": 1.24
+        }
+      ]
+    },
+    {
+      "id": 17924,
+      "name": "Manticron Cube",
+      "number": "42",
+      "rarity": "U",
+      "type": "Cube",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17924/wow-magtheridons-lair-manticron-cube",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/42.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 17925,
+      "name": "Magtheridon's Lair",
+      "number": "43",
+      "rarity": "U",
+      "type": "Lair",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/17925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/17925/wow-magtheridons-lair-magtheridons-lair",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/43.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 21395,
+      "name": "Magtheridon",
+      "number": "1",
+      "rarity": "R",
+      "type": "Hero — Pit Lord — 100",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21395/wow-magtheridons-lair-magtheridon",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/1.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21396,
+      "name": "Abyssal Reinforcements",
+      "number": "3",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21396/wow-magtheridons-lair-abyssal-reinforcements",
+      "cost": "3",
+      "artist": "Kev Walker",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/3.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21397,
+      "name": "Bathe in Blood",
+      "number": "4",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21397/wow-magtheridons-lair-bathe-in-blood",
+      "cost": "0",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/4.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21398,
+      "name": "Blast Nova",
+      "number": "5",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21398/wow-magtheridons-lair-blast-nova",
+      "cost": "2",
+      "artist": "Josh Tallman",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/5.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21399,
+      "name": "Blindside",
+      "number": "6",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21399/wow-magtheridons-lair-blindside",
+      "cost": "2",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/6.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21400,
+      "name": "Broken Hopes",
+      "number": "8",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21400/wow-magtheridons-lair-broken-hopes",
+      "cost": "1",
+      "artist": "Alexander Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/8.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21401,
+      "name": "Brush Aside",
+      "number": "9",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21401/wow-magtheridons-lair-brush-aside",
+      "cost": "3",
+      "artist": "Brian Despain",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/9.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21402,
+      "name": "Cleave Apart",
+      "number": "10",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21402/wow-magtheridons-lair-cleave-apart",
+      "cost": "2",
+      "artist": "Samwise",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/10.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21403,
+      "name": "Deadly Sweep",
+      "number": "11",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21403/wow-magtheridons-lair-deadly-sweep",
+      "cost": "3",
+      "artist": "Ted Park",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/11.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21404,
+      "name": "Demonic Fury",
+      "number": "12",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21404/wow-magtheridons-lair-demonic-fury",
+      "cost": "2",
+      "artist": "Phill Gonzales",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/12.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21405,
+      "name": "Fel Ruination",
+      "number": "13",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21405/wow-magtheridons-lair-fel-ruination",
+      "cost": "2",
+      "artist": "Kev Walker",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/13.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21406,
+      "name": "Magtheridon's Rage",
+      "number": "15",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21406/wow-magtheridons-lair-magtheridons-rage",
+      "cost": "X",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/15.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21407,
+      "name": "Mind Exhaustion",
+      "number": "16",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21407/wow-magtheridons-lair-mind-exhaustion",
+      "cost": "1",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/16.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21408,
+      "name": "Path of Ruin",
+      "number": "18",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21408/wow-magtheridons-lair-path-of-ruin",
+      "cost": "4",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/18.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21409,
+      "name": "Power Returns",
+      "number": "19",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21409/wow-magtheridons-lair-power-returns",
+      "cost": "4",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/19.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21410,
+      "name": "Rampant Destruction",
+      "number": "20",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21410/wow-magtheridons-lair-rampant-destruction",
+      "cost": "3",
+      "artist": "Alexander Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/20.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21411,
+      "name": "Redouble Effort",
+      "number": "21",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21411/wow-magtheridons-lair-redouble-effort",
+      "cost": "3",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/21.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21412,
+      "name": "Sadistic Choice",
+      "number": "22",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21412/wow-magtheridons-lair-sadistic-choice",
+      "cost": "1",
+      "artist": "Dermot Power",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/22.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21413,
+      "name": "Sow Destruction",
+      "number": "23",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21413/wow-magtheridons-lair-sow-destruction",
+      "cost": "1",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 21414,
+      "name": "Spirit Wrench",
+      "number": "24",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21414/wow-magtheridons-lair-spirit-wrench",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/24.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21415,
+      "name": "Squish Together",
+      "number": "25",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21415/wow-magtheridons-lair-squish-together",
+      "cost": "1",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/25.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21416,
+      "name": "Terrifying Presence",
+      "number": "27",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21416/wow-magtheridons-lair-terrifying-presence",
+      "cost": "2",
+      "artist": "Greg Staples",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/27.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21417,
+      "name": "Toss About",
+      "number": "28",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21417/wow-magtheridons-lair-toss-about",
+      "cost": "2",
+      "artist": "Warren Mahy",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/28.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21418,
+      "name": "Trample Underfoot",
+      "number": "29",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21418/wow-magtheridons-lair-trample-underfoot",
+      "cost": "2",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/29.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21419,
+      "name": "Violent Reflex",
+      "number": "30",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21419/wow-magtheridons-lair-violent-reflex",
+      "cost": "1",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/30.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21420,
+      "name": "Whiplash",
+      "number": "31",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21420/wow-magtheridons-lair-whiplash",
+      "cost": "1",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/31.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21421,
+      "name": "Will of the Legion",
+      "number": "32",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21421/wow-magtheridons-lair-will-of-the-legion",
+      "cost": "2",
+      "artist": "James Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/32.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 21422,
+      "name": "Abyssal",
+      "number": "33",
+      "rarity": "U",
+      "type": "Ally Token — 6/6 Abyssal",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21422/wow-magtheridons-lair-abyssal",
+      "artist": "Mauro Cascioli",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/33.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.49,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 21423,
+      "name": "Summoner Channeler",
+      "number": "34",
+      "rarity": "C",
+      "type": "Ally — 0/4 Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21423/wow-magtheridons-lair-summoner-channeler-35",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 21424,
+      "name": "Shadow Channeler",
+      "number": "37",
+      "rarity": "C",
+      "type": "Ally — 0/4 Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21424/wow-magtheridons-lair-shadow-channeler-38",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 21425,
+      "name": "Pit Lord's Armor",
+      "number": "39",
+      "rarity": "U",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21425/wow-magtheridons-lair-pit-lords-armor",
+      "cost": "2",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 21426,
+      "name": "Pit Lord's Glaive",
+      "number": "40",
+      "rarity": "U",
+      "type": "Equipment — 2H Weapon — Polearm",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/21426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/21426/wow-magtheridons-lair-pit-lords-glaive",
+      "cost": "4",
+      "artist": "Peter Lee",
+      "altImages": [
+        "https://www.wowcards.info/scans/magtheridon-raid/en/40.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 9653382147,
+      "name": "Blood Siphon",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ability",
+      "cost": "1",
+      "artist": "Ron Spencer",
+      "image": "https://www.wowcards.info/scans/magtheridon-raid/en/7.jpg",
+      "source": "wowcards",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

@@ -1,0 +1,351 @@
+{
+  "groupId": 94472137,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9077248506,
+      "name": "Baeltor of the Undercity",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Undead Death Knight — 29",
+      "artist": "Trent Kaniuga",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9392738847,
+      "name": "Blight Bringers",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Unholy",
+      "cost": "1",
+      "artist": "E.M. Gist",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9222280782,
+      "name": "Blood Chill",
+      "number": "3",
+      "rarity": "Common",
+      "type": "Ability — Frost Disease",
+      "cost": "3",
+      "artist": "Chris Rahn",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9852856057,
+      "name": "Death Coil",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Ability — Unholy",
+      "cost": "3",
+      "artist": "Dany Orizio",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9631072632,
+      "name": "Frost Fever",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Frost Disease",
+      "cost": "2",
+      "artist": "Nils Hamm",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9812613857,
+      "name": "Gargoyle",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Ally — 5/5 Gargoyle",
+      "cost": "4",
+      "artist": "Richie Marella",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9083215727,
+      "name": "Horn of Winter",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Rutherford Gong",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9698183504,
+      "name": "Obliterate",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Eric Chiang",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9634315446,
+      "name": "Sanguine Presence",
+      "number": "9",
+      "rarity": "Rare",
+      "type": "Ability — Blood",
+      "cost": "4",
+      "artist": "Ron Lemen",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9585883305,
+      "name": "Unholy Ground",
+      "number": "10",
+      "rarity": "Rare",
+      "type": "Ability — Unholy",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9350987797,
+      "name": "\"Acid Hands\" McGillicutty",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 4/3 Undead Rogue",
+      "cost": "4",
+      "artist": "UDON",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9118592975,
+      "name": "Alecia Hall",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Undead Priest",
+      "cost": "2",
+      "artist": "James Ryman",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9927274442,
+      "name": "Benethor Draigo",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 4/2 Undead Mage",
+      "cost": "3",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9288768742,
+      "name": "Dark Cleric Jocasta",
+      "number": "14",
+      "rarity": "Uncommon",
+      "type": "Ally — 3/5 Undead Priest",
+      "cost": "6",
+      "artist": "Mark Evans",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9009651831,
+      "name": "Drandus the Deathcaller",
+      "number": "15",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/2 Blood Elf Death Knight",
+      "cost": "2",
+      "artist": "Graven Tung",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9045394928,
+      "name": "Emelia Darkhand",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 3/1 Undead Death Knight",
+      "cost": "1",
+      "artist": "Raymond Swanland",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9985963067,
+      "name": "Erytheis",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 1/1 Undead Mage",
+      "cost": "1",
+      "artist": "Artgerm",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9858683716,
+      "name": "\"Fungus Face\" McGillicutty",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Undead Priest",
+      "cost": "3",
+      "artist": "Chippy",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9386297969,
+      "name": "Murphy Watson",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 2/4 Undead Mage",
+      "cost": "4",
+      "artist": "Dany Orizio",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9015472767,
+      "name": "Rantuko Grimtouch",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Tauren Death Knight",
+      "cost": "1",
+      "artist": "Leonard Boyarski",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9064726176,
+      "name": "Vala Carville",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 5/5 Undead Mage",
+      "cost": "5",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9552027856,
+      "name": "Bloodbane's Fall",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9824273483,
+      "name": "Greathelm of the Scourge Champion",
+      "number": "23",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Plate",
+      "cost": "2",
+      "artist": "Peter Lee",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9161017921,
+      "name": "Angry Dread",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Mace",
+      "cost": "3",
+      "artist": "RK Post",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9701252529,
+      "name": "Citadel Enforcer's Claymore",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Equipment — 2H Weapon — Sword",
+      "cost": "4",
+      "artist": "J.P. Targete",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9893735353,
+      "name": "Reanimator's Hacker",
+      "number": "26",
+      "rarity": "Uncommon",
+      "type": "Equipment — 1H Weapon — Axe",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9630545481,
+      "name": "Brothers in Death",
+      "number": "27",
+      "rarity": "Uncommon",
+      "type": "Quest",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9463637834,
+      "name": "A Bird in Hand",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9346451832,
+      "name": "Blueleaf Tubers",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9461095580,
+      "name": "Entrenched",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/30.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9648855704,
+      "name": "The Essence of Enmity",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/31.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9916083062,
+      "name": "The Key to Freedom",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-dk/en/32.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

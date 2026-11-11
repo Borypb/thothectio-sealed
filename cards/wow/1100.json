@@ -1,0 +1,5591 @@
+{
+  "groupId": 1100,
+  "cards": [
+    {
+      "id": 56361,
+      "name": "Anaka the Light's Bulwark",
+      "number": "1",
+      "rarity": "U",
+      "type": "Hero — Draenei Paladin — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56361/wow-throne-of-the-tides-anaka-the-lights-bulwark",
+      "artist": "LD Austin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/1.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 56362,
+      "name": "Barathex, Undeath's Hand",
+      "number": "2",
+      "rarity": "U",
+      "type": "Hero — Night Elf Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56362/wow-throne-of-the-tides-barathex-undeaths-hand",
+      "artist": "Todd Lockwood",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/2.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.83,
+          "low": 3.29,
+          "mid": 7.83
+        }
+      ]
+    },
+    {
+      "id": 56363,
+      "name": "High Magus Olvek",
+      "number": "3",
+      "rarity": "U",
+      "type": "Hero — Dwarf Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56363/wow-throne-of-the-tides-high-magus-olvek",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/3.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.29,
+          "low": 3.29,
+          "mid": 3.29
+        }
+      ]
+    },
+    {
+      "id": 56364,
+      "name": "Janvaru the Thunderspeaker",
+      "number": "4",
+      "rarity": "U",
+      "type": "Hero — Draenei Shaman — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56364/wow-throne-of-the-tides-janvaru-the-thunderspeaker",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/4.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.49,
+          "low": 2.49,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 56365,
+      "name": "Master Sniper Simon McKey",
+      "number": "5",
+      "rarity": "U",
+      "type": "Hero — Human Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56365/wow-throne-of-the-tides-master-sniper-simon-mckey",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/5.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.5,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 56366,
+      "name": "Sana the Black Blade",
+      "number": "6",
+      "rarity": "U",
+      "type": "Hero — Worgen Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56366/wow-throne-of-the-tides-sana-the-black-blade",
+      "artist": "Daarken",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/6.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.95,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 56367,
+      "name": "Skodis the Nethertwister",
+      "number": "7",
+      "rarity": "U",
+      "type": "Hero — Dwarf Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56367/wow-throne-of-the-tides-skodis-the-nethertwister",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/7.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 56368,
+      "name": "Steelguard Adamson",
+      "number": "8",
+      "rarity": "U",
+      "type": "Hero — Worgen Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56368/wow-throne-of-the-tides-steelguard-adamson",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/8.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.68,
+          "low": 5.35,
+          "mid": 5.68
+        }
+      ]
+    },
+    {
+      "id": 56369,
+      "name": "Tinker Priest Cassie",
+      "number": "9",
+      "rarity": "U",
+      "type": "Hero — Gnome Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56369/wow-throne-of-the-tides-tinker-priest-cassie",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/9.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.98,
+          "low": 1.98,
+          "mid": 1.98
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.88,
+          "low": 1.75,
+          "mid": 1.88
+        }
+      ]
+    },
+    {
+      "id": 56370,
+      "name": "Wildseer Varel",
+      "number": "10",
+      "rarity": "U",
+      "type": "Hero — Worgen Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56370/wow-throne-of-the-tides-wildseer-varel",
+      "artist": "Ludo Lullabi & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/10.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 0.37,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 56371,
+      "name": "Drazul the Molten",
+      "number": "11",
+      "rarity": "U",
+      "type": "Hero — Orc Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56371/wow-throne-of-the-tides-drazul-the-molten",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/11.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56372,
+      "name": "Fama'sin the Lifeseer",
+      "number": "12",
+      "rarity": "U",
+      "type": "Hero — Troll Druid — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56372/wow-throne-of-the-tides-famasin-the-lifeseer",
+      "artist": "James Zhang (Concept Art House)",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/12.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 56373,
+      "name": "Gaxtro, Bilgewater Marksman",
+      "number": "13",
+      "rarity": "U",
+      "type": "Hero — Goblin Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56373/wow-throne-of-the-tides-gaxtro-bilgewater-marksman",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/13.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.35,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 56374,
+      "name": "Ghoulmaster Kalisa",
+      "number": "14",
+      "rarity": "U",
+      "type": "Hero — Undead Death Knight — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56374/wow-throne-of-the-tides-ghoulmaster-kalisa",
+      "artist": "Benjamin Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/14.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56375,
+      "name": "High Priestess Neeri",
+      "number": "15",
+      "rarity": "U",
+      "type": "Hero — Goblin Priest — 26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56375/wow-throne-of-the-tides-high-priestess-neeri",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/15.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.92,
+          "low": 0.69,
+          "mid": 0.92
+        }
+      ]
+    },
+    {
+      "id": 56376,
+      "name": "Jak the Bilgewater Bruiser",
+      "number": "16",
+      "rarity": "U",
+      "type": "Hero — Goblin Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56376/wow-throne-of-the-tides-jak-the-bilgewater-bruiser",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/16.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56377,
+      "name": "Joleera",
+      "number": "17",
+      "rarity": "U",
+      "type": "Hero — Blood Elf Rogue — 27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56377/wow-throne-of-the-tides-joleera",
+      "artist": "Glenn Rane",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/17.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2.93,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 56378,
+      "name": "Rohashu, Zealot of the Sun",
+      "number": "18",
+      "rarity": "U",
+      "type": "Hero — Tauren Paladin — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56378/wow-throne-of-the-tides-rohashu-zealot-of-the-sun",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/18.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.49,
+          "low": 1.94,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 56379,
+      "name": "Samaku, Hand of the Tempest",
+      "number": "19",
+      "rarity": "U",
+      "type": "Hero — Tauren Shaman — 29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56379/wow-throne-of-the-tides-samaku-hand-of-the-tempest",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/19.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 1.49,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 56380,
+      "name": "Voidbringer Jindal'an",
+      "number": "20",
+      "rarity": "U",
+      "type": "Hero — Troll Warlock — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56380/wow-throne-of-the-tides-voidbringer-jindalan",
+      "artist": "James Zhang (Concept Art House)",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/20.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.69,
+          "low": 1.69,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 56381,
+      "name": "Deathbringer Kor'ush",
+      "number": "21",
+      "rarity": "U",
+      "type": "Monster Hero — Ogre Death Knight — 32",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56381/wow-throne-of-the-tides-deathbringer-korush",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/21.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 4.99,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 56382,
+      "name": "Grglmrgl",
+      "number": "22",
+      "rarity": "U",
+      "type": "Monster Hero — Murloc Hunter — 28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56382/wow-throne-of-the-tides-grglmrgl",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/22.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56383,
+      "name": "Lady Sira'kess",
+      "number": "23",
+      "rarity": "U",
+      "type": "Monster Hero — Naga Mage — 25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56383/wow-throne-of-the-tides-lady-sirakess",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/23.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.49,
+          "low": 2,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 56384,
+      "name": "Rawrbrgle",
+      "number": "24",
+      "rarity": "U",
+      "type": "Monster Hero — Murloc Warrior — 30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56384/wow-throne-of-the-tides-rawrbrgle",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/24.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 1.5,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 56385,
+      "name": "Neptulon",
+      "number": "25",
+      "rarity": "E",
+      "type": "Monster Master Hero — 3/38 Water Elemental Lord",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56385/wow-throne-of-the-tides-neptulon",
+      "cost": "10",
+      "artist": "Ruan Jia & Yun Ling",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/25.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
+    },
+    {
+      "id": 56386,
+      "name": "Brittle Bones",
+      "number": "26",
+      "rarity": "R",
+      "type": "Ability — Frost Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56386/wow-throne-of-the-tides-brittle-bones",
+      "cost": "4",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/26.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.18,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 56387,
+      "name": "Claws of the Dead",
+      "number": "27",
+      "rarity": "U",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56387/wow-throne-of-the-tides-claws-of-the-dead",
+      "cost": "2",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/27.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56388,
+      "name": "Death's Duo",
+      "number": "28",
+      "rarity": "C",
+      "type": "Ability — Unholy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56388/wow-throne-of-the-tides-deaths-duo",
+      "cost": "4",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/28.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.94,
+          "low": 0.91,
+          "mid": 0.94
+        }
+      ]
+    },
+    {
+      "id": 56389,
+      "name": "Infestation",
+      "number": "29",
+      "rarity": "U",
+      "type": "Ability — Unholy Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56389/wow-throne-of-the-tides-infestation",
+      "cost": "3",
+      "artist": "E.M. Gist",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/29.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.59,
+          "low": 1.59,
+          "mid": 1.59
+        }
+      ]
+    },
+    {
+      "id": 56390,
+      "name": "Monstrous Essence",
+      "number": "30",
+      "rarity": "R",
+      "type": "Ability — Blood",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56390/wow-throne-of-the-tides-monstrous-essence",
+      "cost": "5",
+      "artist": "Wayne Reynolds",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/30.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.05,
+          "low": 0.97,
+          "mid": 1.05
+        }
+      ]
+    },
+    {
+      "id": 56391,
+      "name": "Plagued Mind",
+      "number": "31",
+      "rarity": "U",
+      "type": "Ability — Unholy Disease",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56391/wow-throne-of-the-tides-plagued-mind",
+      "cost": "3",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/31.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8,
+          "low": 6,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 56392,
+      "name": "Skullchewer",
+      "number": "32",
+      "rarity": "R",
+      "type": "Monster Ally — 5/6 Vrykul Ghoul",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56392/wow-throne-of-the-tides-skullchewer",
+      "cost": "5",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/32.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 56393,
+      "name": "Boundless Wild",
+      "number": "33",
+      "rarity": "R",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56393/wow-throne-of-the-tides-boundless-wild",
+      "cost": "6",
+      "artist": "Chris Seaman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/33.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.98,
+          "low": 3.95,
+          "mid": 3.98
+        }
+      ]
+    },
+    {
+      "id": 56394,
+      "name": "Fungal Growth",
+      "number": "34",
+      "rarity": "R",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56394/wow-throne-of-the-tides-fungal-growth",
+      "cost": "4",
+      "artist": "Brian Thompson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/34.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56395,
+      "name": "Mark of Goldrinn",
+      "number": "35",
+      "rarity": "C",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56395/wow-throne-of-the-tides-mark-of-goldrinn",
+      "cost": "5",
+      "artist": "Paul Mafayon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/35.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.39,
+          "mid": 0.41
+        }
+      ]
+    },
+    {
+      "id": 56396,
+      "name": "Stalwart Bear Form",
+      "number": "36",
+      "rarity": "U",
+      "type": "Ability — Feral Bear Form",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56396/wow-throne-of-the-tides-stalwart-bear-form",
+      "cost": "4",
+      "artist": "Chris Seaman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/36.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 8.5,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56397,
+      "name": "Verdant Boon",
+      "number": "37",
+      "rarity": "U",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56397/wow-throne-of-the-tides-verdant-boon",
+      "cost": "2",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/37.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 15,
+          "low": 15,
+          "mid": 15
+        }
+      ]
+    },
+    {
+      "id": 56398,
+      "name": "Wild Roots",
+      "number": "38",
+      "rarity": "U",
+      "type": "Ability — Balance",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56398/wow-throne-of-the-tides-wild-roots",
+      "cost": "3",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/38.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.25,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 56399,
+      "name": "Bestial Revival",
+      "number": "39",
+      "rarity": "R",
+      "type": "Ability — Beast Mastery",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56399/wow-throne-of-the-tides-bestial-revival",
+      "cost": "3",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/39.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.99,
+          "low": 8.99,
+          "mid": 8.99
+        }
+      ]
+    },
+    {
+      "id": 56400,
+      "name": "Chompers",
+      "number": "40",
+      "rarity": "U",
+      "type": "Monster Ally — 5/5 Shark",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56400/wow-throne-of-the-tides-chompers",
+      "cost": "5",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/40.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.47,
+          "low": 2.43,
+          "mid": 2.47
+        }
+      ]
+    },
+    {
+      "id": 56401,
+      "name": "Clamps",
+      "number": "41",
+      "rarity": "C",
+      "type": "Monster Ally — 2/6 Crab",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56401/wow-throne-of-the-tides-clamps",
+      "cost": "4",
+      "artist": "Jaemin Kim",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/41.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 56402,
+      "name": "Concussive Barrage",
+      "number": "42",
+      "rarity": "R",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56402/wow-throne-of-the-tides-concussive-barrage",
+      "cost": "1",
+      "artist": "Tyler West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/42.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56403,
+      "name": "Monstrous Mark",
+      "number": "43",
+      "rarity": "R",
+      "type": "Ability — Marksmanship",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56403/wow-throne-of-the-tides-monstrous-mark",
+      "cost": "4",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/43.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78,
+          "low": 0.5,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 56404,
+      "name": "Roar of the Beast",
+      "number": "44",
+      "rarity": "C",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56404/wow-throne-of-the-tides-roar-of-the-beast",
+      "cost": "1",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/44.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.6,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 56405,
+      "name": "Track Enemy",
+      "number": "45",
+      "rarity": "U",
+      "type": "Ability — Survival",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56405/wow-throne-of-the-tides-track-enemy",
+      "cost": "1",
+      "artist": "Dan Scott",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/45.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.47,
+          "low": 0.99,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 56406,
+      "name": "Char",
+      "number": "46",
+      "rarity": "R",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56406/wow-throne-of-the-tides-char",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/46.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 0.5,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 56407,
+      "name": "Focus Magic",
+      "number": "47",
+      "rarity": "R",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56407/wow-throne-of-the-tides-focus-magic",
+      "cost": "4",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/47.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 1.12
+        }
+      ]
+    },
+    {
+      "id": 56408,
+      "name": "Glacial Tomb",
+      "number": "48",
+      "rarity": "C",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56408/wow-throne-of-the-tides-glacial-tomb",
+      "cost": "1",
+      "artist": "Lars Grant-West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/48.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.49,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 56409,
+      "name": "Molten Scorch",
+      "number": "49",
+      "rarity": "U",
+      "type": "Ability — Fire",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56409/wow-throne-of-the-tides-molten-scorch",
+      "cost": "3",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/49.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.24,
+          "low": 0.69,
+          "mid": 1.24
+        }
+      ]
+    },
+    {
+      "id": 56410,
+      "name": "Monstrous Frostbolt Volley",
+      "number": "50",
+      "rarity": "R",
+      "type": "Ability — Frost",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56410/wow-throne-of-the-tides-monstrous-frostbolt-volley",
+      "cost": "3",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/50.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56411,
+      "name": "Touch of Brilliance",
+      "number": "51",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56411/wow-throne-of-the-tides-touch-of-brilliance",
+      "cost": "1",
+      "artist": "Steve Ellis",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/51.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.5,
+          "low": 9,
+          "mid": 9.5
+        }
+      ]
+    },
+    {
+      "id": 56412,
+      "name": "Vortex",
+      "number": "52",
+      "rarity": "U",
+      "type": "Ability — Arcane",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56412/wow-throne-of-the-tides-vortex",
+      "cost": "0",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/52.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22,
+          "low": 0.5,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 56413,
+      "name": "Blessing of the Light",
+      "number": "53",
+      "rarity": "C",
+      "type": "Ability — Holy Blessing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56413/wow-throne-of-the-tides-blessing-of-the-light",
+      "cost": "1",
+      "artist": "Matt Steward",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/53.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.34,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56414,
+      "name": "Blessing of the Righteous",
+      "number": "54",
+      "rarity": "U",
+      "type": "Ability — Protection Blessing",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56414/wow-throne-of-the-tides-blessing-of-the-righteous",
+      "cost": "3",
+      "artist": "Guangjian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/54.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56415,
+      "name": "Boundless Might",
+      "number": "55",
+      "rarity": "R",
+      "type": "Ability — Retribution",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56415/wow-throne-of-the-tides-boundless-might",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/55.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56416,
+      "name": "Grand Crusader",
+      "number": "56",
+      "rarity": "R",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56416/wow-throne-of-the-tides-grand-crusader",
+      "cost": "3",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/56.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56417,
+      "name": "Hammer of the Zealot",
+      "number": "57",
+      "rarity": "U",
+      "type": "Ability — Protection",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56417/wow-throne-of-the-tides-hammer-of-the-zealot",
+      "cost": "1",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/57.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56418,
+      "name": "Righteous Cleanse",
+      "number": "58",
+      "rarity": "U",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56418/wow-throne-of-the-tides-righteous-cleanse",
+      "cost": "2",
+      "artist": "Arthur Gimaldinov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/58.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56419,
+      "name": "Boundless Shadows",
+      "number": "59",
+      "rarity": "R",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56419/wow-throne-of-the-tides-boundless-shadows",
+      "cost": "4",
+      "artist": "Peet Cooper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/59.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.79,
+          "low": 1.79,
+          "mid": 1.79
+        }
+      ]
+    },
+    {
+      "id": 56420,
+      "name": "Chakra",
+      "number": "60",
+      "rarity": "R",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56420/wow-throne-of-the-tides-chakra",
+      "cost": "3",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/60.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56421,
+      "name": "Power Word: Purity",
+      "number": "61",
+      "rarity": "C",
+      "type": "Ability — Holy",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56421/wow-throne-of-the-tides-power-word-purity",
+      "cost": "1",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/61.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56422,
+      "name": "Power Word: Vitality",
+      "number": "62",
+      "rarity": "U",
+      "type": "Ability — Discipline",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56422/wow-throne-of-the-tides-power-word-vitality",
+      "cost": "0",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/62.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 10,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56423,
+      "name": "Psychic Screech",
+      "number": "63",
+      "rarity": "U",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56423/wow-throne-of-the-tides-psychic-screech",
+      "cost": "2",
+      "artist": "Mike Lim",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/63.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6,
+          "low": 0.69,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 56424,
+      "name": "Tendrils of Darkness",
+      "number": "64",
+      "rarity": "U",
+      "type": "Ability — Shadow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56424/wow-throne-of-the-tides-tendrils-of-darkness",
+      "cost": "5",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/64.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56425,
+      "name": "Disorienting Blow",
+      "number": "65",
+      "rarity": "U",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56425/wow-throne-of-the-tides-disorienting-blow",
+      "cost": "1",
+      "artist": "Dany Orizio",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/65.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.5,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 56426,
+      "name": "Distraction Technique",
+      "number": "66",
+      "rarity": "U",
+      "type": "Ability — Combat",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56426/wow-throne-of-the-tides-distraction-technique",
+      "cost": "2",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/66.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5,
+          "low": 5,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 56427,
+      "name": "Poison Bomb",
+      "number": "67",
+      "rarity": "R",
+      "type": "Ability — Assassination",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56427/wow-throne-of-the-tides-poison-bomb",
+      "cost": "5",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/67.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.45,
+          "low": 3.45,
+          "mid": 3.45
+        }
+      ]
+    },
+    {
+      "id": 56428,
+      "name": "Sleeping Poison",
+      "rarity": "U",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56428/wow-throne-of-the-tides-sleeping-poison",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 1.25,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 56429,
+      "name": "Vendetta",
+      "number": "69",
+      "rarity": "R",
+      "type": "Ability — Assassination",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56429_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56429/wow-throne-of-the-tides-vendetta",
+      "cost": "2",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/69.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.56,
+          "low": 3,
+          "mid": 3.56
+        }
+      ]
+    },
+    {
+      "id": 56430,
+      "name": "Boundless Life",
+      "number": "70",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56430/wow-throne-of-the-tides-boundless-life",
+      "cost": "1",
+      "artist": "Stephen Crowe",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/70.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8,
+          "low": 8,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 56431,
+      "name": "Earthen Might",
+      "number": "71",
+      "rarity": "C",
+      "type": "Ability — Enhancement",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56431/wow-throne-of-the-tides-earthen-might",
+      "cost": "1",
+      "artist": "John Donahue",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/71.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.94,
+          "low": 1.94,
+          "mid": 1.94
+        }
+      ]
+    },
+    {
+      "id": 56432,
+      "name": "Lava Shock",
+      "number": "72",
+      "rarity": "U",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56432/wow-throne-of-the-tides-lava-shock",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/72.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.36,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 56433,
+      "name": "Shock of the Elements",
+      "number": "73",
+      "rarity": "U",
+      "type": "Ability — Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56433/wow-throne-of-the-tides-shock-of-the-elements",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/73.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56434,
+      "name": "Spark of Life",
+      "number": "74",
+      "rarity": "R",
+      "type": "Ability — Restoration",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56434/wow-throne-of-the-tides-spark-of-life",
+      "cost": "5",
+      "artist": "Mike Sass",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/74.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 0.99,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56435,
+      "name": "Windguard Totem",
+      "number": "75",
+      "rarity": "U",
+      "type": "Ability Ally — 0/4 Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56435/wow-throne-of-the-tides-windguard-totem",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/75.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.99,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 56436,
+      "name": "Fel Summon",
+      "number": "76",
+      "rarity": "U",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56436/wow-throne-of-the-tides-fel-summon",
+      "cost": "2",
+      "artist": "Stephen Crowe",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/76.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56437,
+      "name": "Grimnar",
+      "number": "77",
+      "rarity": "U",
+      "type": "Monster Ally — 3/3 Voidwalker Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56437/wow-throne-of-the-tides-grimnar",
+      "cost": "6",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/77.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.99,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 56438,
+      "name": "Hellisa",
+      "number": "78",
+      "rarity": "C",
+      "type": "Monster Ally — 4/3 Succubus Demon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56438/wow-throne-of-the-tides-hellisa",
+      "cost": "3",
+      "artist": "Nacho Molina Porra",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/78.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56439,
+      "name": "Nether Balance",
+      "number": "79",
+      "rarity": "R",
+      "type": "Ability — Demonology",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56439/wow-throne-of-the-tides-nether-balance",
+      "cost": "5",
+      "artist": "Thom Tenery",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/79.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.24,
+          "low": 1.24,
+          "mid": 1.24
+        }
+      ]
+    },
+    {
+      "id": 56440,
+      "name": "Soul Cleave",
+      "number": "80",
+      "rarity": "U",
+      "type": "Ability — Destruction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56440/wow-throne-of-the-tides-soul-cleave",
+      "cost": "3",
+      "artist": "Gina Whitehall",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/80.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99,
+          "low": 9.99,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 56441,
+      "name": "Soul Swap",
+      "number": "81",
+      "rarity": "R",
+      "type": "Ability — Affliction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56441/wow-throne-of-the-tides-soul-swap",
+      "cost": "6",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/81.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.75,
+          "low": 2.99,
+          "mid": 3.75
+        }
+      ]
+    },
+    {
+      "id": 56442,
+      "name": "Armsman",
+      "number": "82",
+      "rarity": "U",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56442/wow-throne-of-the-tides-armsman",
+      "cost": "3",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/82.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.59,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 56443,
+      "name": "Augment Steel",
+      "number": "83",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56443/wow-throne-of-the-tides-augment-steel",
+      "cost": "5",
+      "artist": "Stefan Kopinski",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/83.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56444,
+      "name": "Bloodsurge",
+      "number": "84",
+      "rarity": "R",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56444/wow-throne-of-the-tides-bloodsurge",
+      "cost": "4",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/84.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 56445,
+      "name": "Furious Strike",
+      "number": "85",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56445/wow-throne-of-the-tides-furious-strike",
+      "cost": "1",
+      "artist": "Dave Rapoza",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/85.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56446,
+      "name": "Monstrous Cleave",
+      "number": "86",
+      "rarity": "U",
+      "type": "Ability — Fury",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56446_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56446/wow-throne-of-the-tides-monstrous-cleave",
+      "cost": "4",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/86.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.69,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 56447,
+      "name": "Rallying Swarm",
+      "number": "87",
+      "rarity": "R",
+      "type": "Ability — Arms",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56447/wow-throne-of-the-tides-rallying-swarm",
+      "cost": "1",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/87.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.48,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 56448,
+      "name": "Monstrous Strike",
+      "number": "88",
+      "rarity": "C",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56448_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56448/wow-throne-of-the-tides-monstrous-strike",
+      "cost": "2",
+      "artist": "Andrea Uderzo",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/88.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.25,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 56449,
+      "name": "Monstrous Upheaval",
+      "number": "89",
+      "rarity": "C",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56449/wow-throne-of-the-tides-monstrous-upheaval",
+      "cost": "3",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/89.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.05,
+          "low": 1.94,
+          "mid": 2.05
+        }
+      ]
+    },
+    {
+      "id": 56450,
+      "name": "RwlRwlRwlRwl!",
+      "number": "90",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56450/wow-throne-of-the-tides-rwlrwlrwlrwl",
+      "cost": "1",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/90.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56451,
+      "name": "Unleash the Swarm!",
+      "number": "91",
+      "rarity": "U",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56451/wow-throne-of-the-tides-unleash-the-swarm",
+      "cost": "4",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/91.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22,
+          "low": 0.49,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 56452,
+      "name": "Face of Fear",
+      "number": "92",
+      "rarity": "C",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56452/wow-throne-of-the-tides-face-of-fear",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/92.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.49,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 56453,
+      "name": "Rallying Cry of the Dragonslayer",
+      "number": "93",
+      "rarity": "C",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56453/wow-throne-of-the-tides-rallying-cry-of-the-dragonslayer",
+      "cost": "1",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/93.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56454,
+      "name": "Strength of Will",
+      "number": "94",
+      "rarity": "C",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56454/wow-throne-of-the-tides-strength-of-will",
+      "cost": "3",
+      "artist": "Dave Wilkins",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/94.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.78,
+          "low": 0.3,
+          "mid": 1.78
+        }
+      ]
+    },
+    {
+      "id": 56455,
+      "name": "Surge of Power",
+      "number": "95",
+      "rarity": "R",
+      "type": "Ability",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56455_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56455/wow-throne-of-the-tides-surge-of-power",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/95.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.98,
+          "low": 3.98,
+          "mid": 3.98
+        }
+      ]
+    },
+    {
+      "id": 56456,
+      "name": "Arcanomage Misti",
+      "number": "96",
+      "rarity": "R",
+      "type": "Ally — 1/3 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56456/wow-throne-of-the-tides-arcanomage-misti",
+      "cost": "3",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/96.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 3.6,
+          "mid": 3.6
+        }
+      ]
+    },
+    {
+      "id": 56457,
+      "name": "Ardon Almastor",
+      "number": "97",
+      "rarity": "C",
+      "type": "Ally — 4/4 Worgen Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56457/wow-throne-of-the-tides-ardon-almastor",
+      "cost": "3",
+      "artist": "Sean O'Daniels",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/97.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56458,
+      "name": "Balrak Stoutstone",
+      "number": "98",
+      "rarity": "C",
+      "type": "Ally — 0/7 Dwarf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56458/wow-throne-of-the-tides-balrak-stoutstone",
+      "cost": "2",
+      "artist": "Ludo Lullabi",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/98.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 0.2,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56459,
+      "name": "Braeo Darkpaw",
+      "number": "99",
+      "rarity": "C",
+      "type": "Ally — 3/3 Worgen Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56459/wow-throne-of-the-tides-braeo-darkpaw",
+      "cost": "3",
+      "artist": "John Donahue",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/99.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 56460,
+      "name": "Burdok Brewshot",
+      "number": "100",
+      "rarity": "C",
+      "type": "Ally — 4/1 Dwarf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56460/wow-throne-of-the-tides-burdok-brewshot",
+      "cost": "2",
+      "artist": "Vinod Rams",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/100.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.08,
+          "low": 0.2,
+          "mid": 1.08
+        }
+      ]
+    },
+    {
+      "id": 56461,
+      "name": "Corin Stallnorth",
+      "number": "101",
+      "rarity": "C",
+      "type": "Ally — 1/4 Worgen Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56461/wow-throne-of-the-tides-corin-stallnorth",
+      "cost": "1",
+      "artist": "Dave Wilkins",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/101.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 56462,
+      "name": "Dastrin Bowman",
+      "number": "102",
+      "rarity": "C",
+      "type": "Ally — 5/4 Human Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56462/wow-throne-of-the-tides-dastrin-bowman",
+      "cost": "5",
+      "artist": "Paul Mafayon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/102.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56463,
+      "name": "Davius, Herald of Nature",
+      "number": "103",
+      "rarity": "U",
+      "type": "Ally — 2/3 Worgen Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56463_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56463/wow-throne-of-the-tides-davius-herald-of-nature",
+      "cost": "3",
+      "artist": "Tim McBurnie",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/103.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.25,
+          "low": 3.41,
+          "mid": 4.25
+        }
+      ]
+    },
+    {
+      "id": 56464,
+      "name": "Dradam Chillblade",
+      "number": "104",
+      "rarity": "C",
+      "type": "Ally — 2/3 Dwarf Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56464/wow-throne-of-the-tides-dradam-chillblade",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/104.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56465,
+      "name": "Dulvar, Hand of the Light",
+      "number": "105",
+      "rarity": "E",
+      "type": "Ally — 5/6 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56465/wow-throne-of-the-tides-dulvar-hand-of-the-light",
+      "cost": "5",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/105.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.33,
+          "low": 4,
+          "mid": 6.33
+        }
+      ]
+    },
+    {
+      "id": 56466,
+      "name": "Evaax, Herald of Death",
+      "number": "106",
+      "rarity": "U",
+      "type": "Ally — 3/3 Draenei Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56466/wow-throne-of-the-tides-evaax-herald-of-death",
+      "cost": "6",
+      "artist": "Guangjian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/106.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.47,
+          "low": 0.99,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 56467,
+      "name": "Faenis the Tranquil",
+      "number": "107",
+      "rarity": "R",
+      "type": "Ally — 2/6 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56467/wow-throne-of-the-tides-faenis-the-tranquil",
+      "cost": "3",
+      "artist": "Jean-Sebastien Rossbach",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/107.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56468,
+      "name": "Faithseer Jasmina",
+      "number": "108",
+      "rarity": "R",
+      "type": "Ally — 1/1 Worgen Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56468/wow-throne-of-the-tides-faithseer-jasmina",
+      "cost": "2",
+      "artist": "Tyson Murphy",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/108.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.15,
+          "low": 2.04,
+          "mid": 2.15
+        }
+      ]
+    },
+    {
+      "id": 56469,
+      "name": "Fumdol Mountainfrost",
+      "number": "109",
+      "rarity": "C",
+      "type": "Ally — 6/4 Dwarf Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56469/wow-throne-of-the-tides-fumdol-mountainfrost",
+      "cost": "5",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/109.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.45,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56470,
+      "name": "Funken Fusemissile",
+      "number": "110",
+      "rarity": "C",
+      "type": "Ally — 3/2 Gnome Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56470/wow-throne-of-the-tides-funken-fusemissile",
+      "cost": "3",
+      "artist": "Austin Hsu (Concept Art House)",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/110.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 56471,
+      "name": "Grumdak, Herald of the Hunt",
+      "number": "111",
+      "rarity": "U",
+      "type": "Ally — 3/2 Dwarf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56471/wow-throne-of-the-tides-grumdak-herald-of-the-hunt",
+      "cost": "3",
+      "artist": "Ralph Horsley",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/111.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56472,
+      "name": "Hadrack the Devoted",
+      "number": "112",
+      "rarity": "R",
+      "type": "Ally — 5/2 Dwarf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56472/wow-throne-of-the-tides-hadrack-the-devoted",
+      "cost": "4",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/112.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.84,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56473,
+      "name": "Hunrik Blackiron",
+      "number": "113",
+      "rarity": "C",
+      "type": "Ally — 5/3 Dwarf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56473/wow-throne-of-the-tides-hunrik-blackiron",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/113.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56474,
+      "name": "Jaema, Herald of the Light",
+      "number": "114",
+      "rarity": "U",
+      "type": "Ally — 4/4 Draenei Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56474/wow-throne-of-the-tides-jaema-herald-of-the-light",
+      "cost": "5",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/114.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 5.25
+        }
+      ]
+    },
+    {
+      "id": 56475,
+      "name": "Kaelon, Herald of the Flame",
+      "number": "115",
+      "rarity": "U",
+      "type": "Ally — 5/3 Night Elf Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56475/wow-throne-of-the-tides-kaelon-herald-of-the-flame",
+      "cost": "4",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/115.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.48,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56476,
+      "name": "Kara Vesstal",
+      "number": "116",
+      "rarity": "C",
+      "type": "Ally — 3/2 Human Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56476/wow-throne-of-the-tides-kara-vesstal",
+      "cost": "2",
+      "artist": "Popo Wei (Concept Art House)",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/116.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 0.35,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 56477,
+      "name": "Kieron the Loaner",
+      "number": "117",
+      "rarity": "R",
+      "type": "Ally — 4/4 Gnome Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56477/wow-throne-of-the-tides-kieron-the-loaner",
+      "cost": "5",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/117.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.73,
+          "low": 0.73,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 56478,
+      "name": "Laetho Moonbranch",
+      "number": "118",
+      "rarity": "C",
+      "type": "Ally — 2/1 Night Elf Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56478/wow-throne-of-the-tides-laetho-moonbranch",
+      "cost": "2",
+      "artist": "Ittoku Seta",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/118.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 5.13
+        }
+      ]
+    },
+    {
+      "id": 56479,
+      "name": "Larrisa Valorshield",
+      "number": "119",
+      "rarity": "C",
+      "type": "Ally — 4/4 Human Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56479/wow-throne-of-the-tides-larrisa-valorshield",
+      "cost": "4",
+      "artist": "Anders Finér",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/119.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56480,
+      "name": "Lodur, Herald of the Elements",
+      "number": "120",
+      "rarity": "U",
+      "type": "Ally — 4/4 Dwarf Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56480/wow-throne-of-the-tides-lodur-herald-of-the-elements",
+      "cost": "4",
+      "artist": "Jonboy Meyers & Dave McCaig",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/120.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.24,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 56481,
+      "name": "Malar Silverfrost",
+      "number": "121",
+      "rarity": "C",
+      "type": "Ally — 3/3 Night Elf Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56481/wow-throne-of-the-tides-malar-silverfrost",
+      "cost": "4",
+      "artist": "Benjamin Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/121.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.03,
+          "low": 0.69,
+          "mid": 1.03
+        }
+      ]
+    },
+    {
+      "id": 56482,
+      "name": "Maloc, Herald of Trickery",
+      "number": "122",
+      "rarity": "U",
+      "type": "Ally — 4/1 Human Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56482/wow-throne-of-the-tides-maloc-herald-of-trickery",
+      "cost": "4",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/122.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22,
+          "low": 0.49,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 56483,
+      "name": "Mekkatorque, King of the Gnomes",
+      "number": "123",
+      "rarity": "E",
+      "type": "Ally — 4/4 Gnome Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56483/wow-throne-of-the-tides-mekkatorque-king-of-the-gnomes",
+      "cost": "5",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/123.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 20,
+          "low": 20,
+          "mid": 20
+        }
+      ]
+    },
+    {
+      "id": 56484,
+      "name": "Militia Commander Balor",
+      "number": "124",
+      "rarity": "R",
+      "type": "Ally — 4/8 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56484/wow-throne-of-the-tides-militia-commander-balor",
+      "cost": "7",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/124.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.8,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 56485,
+      "name": "Sebastian Malak",
+      "number": "125",
+      "rarity": "C",
+      "type": "Ally — 2/2 Worgen Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56485/wow-throne-of-the-tides-sebastian-malak",
+      "cost": "2",
+      "artist": "Ludo Lullabi & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/125.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.58,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 56486,
+      "name": "Shanla, Herald of Faith",
+      "number": "126",
+      "rarity": "U",
+      "type": "Ally — 2/4 Night Elf Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56486/wow-throne-of-the-tides-shanla-herald-of-faith",
+      "cost": "3",
+      "artist": "Guangjian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/126.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.59,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 56487,
+      "name": "Shaylith Swiftblade",
+      "number": "127",
+      "rarity": "C",
+      "type": "Ally — 1/2 Night Elf Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56487/wow-throne-of-the-tides-shaylith-swiftblade",
+      "cost": "1",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/127.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 56488,
+      "name": "Tallie Sprinklelight",
+      "number": "128",
+      "rarity": "C",
+      "type": "Ally — 1/4 Gnome Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56488/wow-throne-of-the-tides-tallie-sprinklelight",
+      "cost": "2",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/128.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.3,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 56489,
+      "name": "Trista, Herald of the Fel",
+      "number": "129",
+      "rarity": "U",
+      "type": "Ally — 5/2 Worgen Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56489/wow-throne-of-the-tides-trista-herald-of-the-fel",
+      "cost": "4",
+      "artist": "Paul Kwon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/129.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22,
+          "low": 0.49,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 56490,
+      "name": "Vaakia",
+      "number": "130",
+      "rarity": "C",
+      "type": "Ally — 2/1 Draenei Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56490/wow-throne-of-the-tides-vaakia",
+      "cost": "1",
+      "artist": "Luke Mancini",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/130.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.13,
+          "low": 0.25,
+          "mid": 5.13
+        }
+      ]
+    },
+    {
+      "id": 56491,
+      "name": "Valak the Vortex",
+      "number": "131",
+      "rarity": "R",
+      "type": "Ally — 2/1 Worgen Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56491/wow-throne-of-the-tides-valak-the-vortex",
+      "cost": "1",
+      "artist": "Phil Saunders",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/131.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.99,
+          "mid": 1.11
+        }
+      ]
+    },
+    {
+      "id": 56492,
+      "name": "Vandos, Herald of War",
+      "number": "132",
+      "rarity": "U",
+      "type": "Ally — 3/4 Human Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56492/wow-throne-of-the-tides-vandos-herald-of-war",
+      "cost": "4",
+      "artist": "Phroilan Gardner",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/132.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 2.5,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 56493,
+      "name": "Vindicator Saaris",
+      "number": "133",
+      "rarity": "R",
+      "type": "Ally — 6/4 Draenei Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56493/wow-throne-of-the-tides-vindicator-saaris",
+      "cost": "6",
+      "artist": "Luke Mancini",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/133.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84,
+          "low": 1.36,
+          "mid": 1.36
+        }
+      ]
+    },
+    {
+      "id": 56494,
+      "name": "Wuzlo Grindergear",
+      "number": "134",
+      "rarity": "C",
+      "type": "Ally — 1/5 Gnome Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56494/wow-throne-of-the-tides-wuzlo-grindergear",
+      "cost": "3",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/134.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.35,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56495,
+      "name": "Xuurvis",
+      "number": "135",
+      "rarity": "C",
+      "type": "Ally — 2/6 Draenei Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56495/wow-throne-of-the-tides-xuurvis",
+      "cost": "4",
+      "artist": "Mike Lim",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/135.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.67,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56496,
+      "name": "Zintix the Frostbringer",
+      "number": "136",
+      "rarity": "R",
+      "type": "Ally — 3/3 Gnome Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56496/wow-throne-of-the-tides-zintix-the-frostbringer",
+      "cost": "3",
+      "artist": "Ben Olson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/136.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56497,
+      "name": "Akasi, Herald of Nature",
+      "number": "137",
+      "rarity": "U",
+      "type": "Ally — 3/5 Troll Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56497/wow-throne-of-the-tides-akasi-herald-of-nature",
+      "cost": "4",
+      "artist": "Paul Warzecha",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/137.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.95,
+          "low": 4.95,
+          "mid": 4.95
+        }
+      ]
+    },
+    {
+      "id": 56498,
+      "name": "Alana the Woebringer",
+      "number": "138",
+      "rarity": "R",
+      "type": "Ally — 2/8 Undead Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56498/wow-throne-of-the-tides-alana-the-woebringer",
+      "cost": "5",
+      "artist": "Nacho Molina Porra",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/138.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.94,
+          "low": 1.94,
+          "mid": 1.94
+        }
+      ]
+    },
+    {
+      "id": 56499,
+      "name": "Alethia Brightsong",
+      "number": "139",
+      "rarity": "C",
+      "type": "Ally — 2/1 Blood Elf Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56499/wow-throne-of-the-tides-alethia-brightsong",
+      "cost": "1",
+      "artist": "Michael C. Hayes",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/139.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56500,
+      "name": "Amano, Herald of the Sun",
+      "number": "140",
+      "rarity": "U",
+      "type": "Ally — 4/4 Tauren Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56500/wow-throne-of-the-tides-amano-herald-of-the-sun",
+      "cost": "4",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/140.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 10,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56501,
+      "name": "Anastina, Herald of the Fel",
+      "number": "141",
+      "rarity": "U",
+      "type": "Ally — 2/6 Blood Elf Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56501/wow-throne-of-the-tides-anastina-herald-of-the-fel",
+      "cost": "5",
+      "artist": "Anton Zemzkov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/141.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.49,
+          "low": 2.42,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 56502,
+      "name": "Asoren Darksnout",
+      "number": "142",
+      "rarity": "C",
+      "type": "Ally — 4/5 Tauren Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56502_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56502/wow-throne-of-the-tides-asoren-darksnout",
+      "cost": "5",
+      "artist": "LD Austin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/142.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56503,
+      "name": "Baxtan, Herald of the Flame",
+      "number": "143",
+      "rarity": "U",
+      "type": "Ally — 3/1 Goblin Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56503/wow-throne-of-the-tides-baxtan-herald-of-the-flame",
+      "cost": "3",
+      "artist": "Michal Ivan",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/143.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56504,
+      "name": "Daroka Venomfist",
+      "number": "144",
+      "rarity": "C",
+      "type": "Ally — 2/1 Orc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56504/wow-throne-of-the-tides-daroka-venomfist",
+      "cost": "1",
+      "artist": "JonBoy Meyers & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/144.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.27,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56505,
+      "name": "Deatheater Stroud",
+      "number": "145",
+      "rarity": "R",
+      "type": "Ally — 4/5 Undead Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56505/wow-throne-of-the-tides-deatheater-stroud",
+      "cost": "4",
+      "artist": "Dave Wilkins",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/145.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 0.99,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56506,
+      "name": "Draga'zal",
+      "number": "146",
+      "rarity": "C",
+      "type": "Ally — 3/2 Orc Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56506/wow-throne-of-the-tides-dragazal",
+      "cost": "2",
+      "artist": "Dave Wilkins",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/146.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.35,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56507,
+      "name": "Eralysa Sunshot",
+      "number": "147",
+      "rarity": "C",
+      "type": "Ally — 2/3 Blood Elf Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56507/wow-throne-of-the-tides-eralysa-sunshot",
+      "cost": "4",
+      "artist": "Nacho Molina Porra",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/147.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.1,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56508,
+      "name": "Hagtrix the Mindsifter",
+      "number": "148",
+      "rarity": "R",
+      "type": "Ally — 3/5 Goblin Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56508/wow-throne-of-the-tides-hagtrix-the-mindsifter",
+      "cost": "5",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/148.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56509,
+      "name": "Hesawa Stormwalker",
+      "number": "149",
+      "rarity": "C",
+      "type": "Ally — 2/5 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56509/wow-throne-of-the-tides-hesawa-stormwalker",
+      "cost": "3",
+      "artist": "Stephen Crowe",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/149.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.12,
+          "low": 1.94,
+          "mid": 4.12
+        }
+      ]
+    },
+    {
+      "id": 56510,
+      "name": "Izzy Quizfiz",
+      "number": "150",
+      "rarity": "C",
+      "type": "Ally — 1/2 Goblin Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56510/wow-throne-of-the-tides-izzy-quizfiz",
+      "cost": "1",
+      "artist": "Anders Finér",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/150.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.35,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 56511,
+      "name": "Jagrok, Herald of Trickery",
+      "number": "151",
+      "rarity": "U",
+      "type": "Ally — 3/3 Orc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56511/wow-throne-of-the-tides-jagrok-herald-of-trickery",
+      "cost": "4",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/151.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.49,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56512,
+      "name": "Jaron, Herald of the Hunt",
+      "number": "152",
+      "rarity": "U",
+      "type": "Ally — 3/2 Undead Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56512/wow-throne-of-the-tides-jaron-herald-of-the-hunt",
+      "cost": "3",
+      "artist": "Dave Kendall",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/152.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.82,
+          "low": 1.69,
+          "mid": 1.82
+        }
+      ]
+    },
+    {
+      "id": 56513,
+      "name": "Jex'ali",
+      "number": "153",
+      "rarity": "C",
+      "type": "Ally — 2/4 Troll Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56513_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56513/wow-throne-of-the-tides-jexali",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/153.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56514,
+      "name": "Jumahko Thundersky",
+      "number": "154",
+      "rarity": "C",
+      "type": "Ally — 1/9 Tauren Paladin",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56514_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56514/wow-throne-of-the-tides-jumahko-thundersky",
+      "cost": "4",
+      "artist": "James Zhang (Concept Art House)",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/154.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56515,
+      "name": "Kalam'ti",
+      "number": "155",
+      "rarity": "R",
+      "type": "Ally — 3/2 Troll Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56515_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56515/wow-throne-of-the-tides-kalamti",
+      "cost": "3",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/155.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.9,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56516,
+      "name": "Kazbaz",
+      "number": "156",
+      "rarity": "C",
+      "type": "Ally — 2/2 Goblin Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56516_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56516/wow-throne-of-the-tides-kazbaz",
+      "cost": "2",
+      "artist": "Tim McBurnie",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/156.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.3,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 56517,
+      "name": "Kelena Ashford",
+      "number": "157",
+      "rarity": "C",
+      "type": "Ally — 4/1 Undead Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56517/wow-throne-of-the-tides-kelena-ashford",
+      "cost": "3",
+      "artist": "Guangjian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/157.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 1.94,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56518,
+      "name": "Kinza, Mistress of the Elements",
+      "number": "158",
+      "rarity": "R",
+      "type": "Ally — 2/7 Goblin Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56518_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56518/wow-throne-of-the-tides-kinza-mistress-of-the-elements",
+      "cost": "5",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/158.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72,
+          "low": 0.69,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 56519,
+      "name": "Krezza the Explosive",
+      "number": "159",
+      "rarity": "R",
+      "type": "Ally — 2/2 Goblin Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56519_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56519/wow-throne-of-the-tides-krezza-the-explosive",
+      "cost": "3",
+      "artist": "Alan Pollack",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/159.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.7,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56520,
+      "name": "Kromdar, Herald of War",
+      "number": "160",
+      "rarity": "U",
+      "type": "Ally — 6/4 Orc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56520/wow-throne-of-the-tides-kromdar-herald-of-war",
+      "cost": "5",
+      "artist": "José Ladreno",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/160.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.24,
+          "mid": 1.59
+        }
+      ]
+    },
+    {
+      "id": 56521,
+      "name": "Lordann the Bloodreaver",
+      "number": "161",
+      "rarity": "R",
+      "type": "Ally — 2/3 Blood Elf Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56521/wow-throne-of-the-tides-lordann-the-bloodreaver",
+      "cost": "2",
+      "artist": "Dave Rapoza",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/161.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.9,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 56522,
+      "name": "Mazu'kon",
+      "number": "162",
+      "rarity": "E",
+      "type": "Ally — 6/6 Troll Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56522_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56522/wow-throne-of-the-tides-mazukon",
+      "cost": "6",
+      "artist": "Steve Prescott",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/162.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 11.49,
+          "low": 10.55,
+          "mid": 11.49
+        }
+      ]
+    },
+    {
+      "id": 56523,
+      "name": "Moro Wildmesa",
+      "number": "163",
+      "rarity": "C",
+      "type": "Ally — 3/3 Tauren Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56523/wow-throne-of-the-tides-moro-wildmesa",
+      "cost": "3",
+      "artist": "Alexander Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/163.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.29,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 56524,
+      "name": "Nazuk Darkblood",
+      "number": "164",
+      "rarity": "C",
+      "type": "Ally — 5/3 Orc Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56524/wow-throne-of-the-tides-nazuk-darkblood",
+      "cost": "4",
+      "artist": "Stefan Kopinski",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/164.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.02,
+          "low": 0.97,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 56525,
+      "name": "Parexia, Herald of the Shadows",
+      "number": "165",
+      "rarity": "U",
+      "type": "Ally — 3/5 Goblin Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56525/wow-throne-of-the-tides-parexia-herald-of-the-shadows",
+      "cost": "5",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/165.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.47,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56526,
+      "name": "Prazo Whiptrick",
+      "number": "166",
+      "rarity": "C",
+      "type": "Ally — 3/2 Goblin Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56526/wow-throne-of-the-tides-prazo-whiptrick",
+      "cost": "3",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/166.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7,
+          "low": 0.69,
+          "mid": 7
+        }
+      ]
+    },
+    {
+      "id": 56527,
+      "name": "Runzik Shrapnelwhiz",
+      "number": "167",
+      "rarity": "C",
+      "type": "Ally — 1/1 Goblin Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56527/wow-throne-of-the-tides-runzik-shrapnelwhiz",
+      "cost": "1",
+      "artist": "Tim McBurnie",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/167.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.44,
+          "low": 0.94,
+          "mid": 1.44
+        }
+      ]
+    },
+    {
+      "id": 56528,
+      "name": "Samantha Galvington",
+      "number": "168",
+      "rarity": "C",
+      "type": "Ally — 5/1 Undead Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56528/wow-throne-of-the-tides-samantha-galvington",
+      "cost": "3",
+      "artist": "Gonzalo Ordonez",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/168.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 56529,
+      "name": "Shala'zum",
+      "number": "169",
+      "rarity": "C",
+      "type": "Ally — 4/2 Troll Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56529/wow-throne-of-the-tides-shalazum",
+      "cost": "3",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/169.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56530,
+      "name": "Treespeaker Onaha",
+      "number": "170",
+      "rarity": "R",
+      "type": "Ally — 3/7 Tauren Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56530/wow-throne-of-the-tides-treespeaker-onaha",
+      "cost": "5",
+      "artist": "Anton Zemzkov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/170.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.35,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56531,
+      "name": "Vol'jin, Darkspear Chieftain",
+      "number": "171",
+      "rarity": "E",
+      "type": "Ally — 7/7 Troll Shadow Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56531/wow-throne-of-the-tides-voljin-darkspear-chieftain",
+      "cost": "7",
+      "artist": "Alex Horley Orlandelli",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/171.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56532,
+      "name": "Vuza'jin",
+      "number": "172",
+      "rarity": "C",
+      "type": "Ally — 2/2 Troll Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56532/wow-throne-of-the-tides-vuzajin",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/172.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.25,
+          "low": 0.49,
+          "mid": 5.25
+        }
+      ]
+    },
+    {
+      "id": 56533,
+      "name": "Yana'mi",
+      "number": "173",
+      "rarity": "C",
+      "type": "Ally — 1/5 Troll Druid",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56533/wow-throne-of-the-tides-yanami",
+      "cost": "3",
+      "artist": "Grace Liu",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/173.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 0.3,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 56534,
+      "name": "Zarixx, Herald of Death",
+      "number": "174",
+      "rarity": "U",
+      "type": "Ally — 4/4 Goblin Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56534/wow-throne-of-the-tides-zarixx-herald-of-death",
+      "cost": "7",
+      "artist": "Ludo Lullabi & Mark Taduran",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/174.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.29,
+          "low": 1.29,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 56535,
+      "name": "Zizzlix Drizzledrill",
+      "number": "175",
+      "rarity": "C",
+      "type": "Ally — 1/5 Goblin Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56535/wow-throne-of-the-tides-zizzlix-drizzledrill",
+      "cost": "2",
+      "artist": "Anton Zemzkov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/175.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.92,
+          "low": 0.69,
+          "mid": 1.92
+        }
+      ]
+    },
+    {
+      "id": 56536,
+      "name": "Zudzo, Herald of the Elements",
+      "number": "176",
+      "rarity": "U",
+      "type": "Ally — 5/5 Goblin Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56536/wow-throne-of-the-tides-zudzo-herald-of-the-elements",
+      "cost": "5",
+      "artist": "Mike Sass",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/176.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.59,
+          "low": 2.59,
+          "mid": 2.59
+        }
+      ]
+    },
+    {
+      "id": 56537,
+      "name": "Gilblin Bully",
+      "number": "177",
+      "rarity": "C",
+      "type": "Monster Ally — 3/5 Goblin Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56537/wow-throne-of-the-tides-gilblin-bully",
+      "cost": "4",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/177.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.7,
+          "low": 1.4,
+          "mid": 1.7
+        }
+      ]
+    },
+    {
+      "id": 56538,
+      "name": "Gilblin Deathscrounger",
+      "number": "178",
+      "rarity": "R",
+      "type": "Monster Ally — 4/2 Goblin Death Knight",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56538/wow-throne-of-the-tides-gilblin-deathscrounger",
+      "cost": "2",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/178.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56539,
+      "name": "Gilblin Hoarder",
+      "number": "179",
+      "rarity": "U",
+      "type": "Monster Ally — 2/3 Goblin Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56539/wow-throne-of-the-tides-gilblin-hoarder",
+      "cost": "2",
+      "artist": "Brian Thompson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/179.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 1.94,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56540,
+      "name": "Gilblin Plunderer",
+      "number": "180",
+      "rarity": "U",
+      "type": "Monster Ally — 3/5 Goblin Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56540/wow-throne-of-the-tides-gilblin-plunderer",
+      "cost": "5",
+      "artist": "Efrem Palacios",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/180.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.45,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56541,
+      "name": "Gilblin Trickster",
+      "number": "181",
+      "rarity": "U",
+      "type": "Monster Ally — 1/4 Goblin Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56541/wow-throne-of-the-tides-gilblin-trickster",
+      "cost": "2",
+      "artist": "Seamus Gallagher",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/181.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 56542,
+      "name": "Bobbler",
+      "number": "182",
+      "rarity": "U",
+      "type": "Monster Ally — 1/4 Murloc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56542/wow-throne-of-the-tides-bobbler",
+      "cost": "4",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/182.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56543,
+      "name": "Brighteye",
+      "number": "183",
+      "rarity": "C",
+      "type": "Monster Ally — 1/4 Murloc Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56543/wow-throne-of-the-tides-brighteye",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/183.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56544,
+      "name": "Bubblegil",
+      "number": "184",
+      "rarity": "U",
+      "type": "Monster Ally — 2/4 Murloc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56544_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56544/wow-throne-of-the-tides-bubblegil",
+      "cost": "4",
+      "artist": "Arthur Gimaldinov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/184.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.58,
+          "low": 1.58,
+          "mid": 1.58
+        }
+      ]
+    },
+    {
+      "id": 56545,
+      "name": "Chumly",
+      "number": "185",
+      "rarity": "U",
+      "type": "Monster Ally — 2/2 Murloc Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56545/wow-throne-of-the-tides-chumly",
+      "cost": "3",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/185.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56546,
+      "name": "Crabbyfin",
+      "number": "186",
+      "rarity": "U",
+      "type": "Monster Ally — 1/1 Murloc Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56546/wow-throne-of-the-tides-crabbyfin",
+      "cost": "2",
+      "artist": "Jesper Ejsing",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/186.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56547,
+      "name": "Gobbler",
+      "number": "187",
+      "rarity": "R",
+      "type": "Monster Ally — 5/6 Murloc Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56547/wow-throne-of-the-tides-gobbler",
+      "cost": "6",
+      "artist": "Phil Saunders",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/187.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 1,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56548,
+      "name": "Murloc Coastrunner",
+      "number": "188",
+      "rarity": "C",
+      "type": "Monster Ally — 2/1 Murloc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56548/wow-throne-of-the-tides-murloc-coastrunner",
+      "cost": "1",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/188.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.65,
+          "low": 3.65,
+          "mid": 3.65
+        }
+      ]
+    },
+    {
+      "id": 56549,
+      "name": "Nibbler",
+      "number": "189",
+      "rarity": "C",
+      "type": "Monster Ally — 2/2 Murloc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56549/wow-throne-of-the-tides-nibbler",
+      "cost": "2",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/189.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.26,
+          "low": 1.26,
+          "mid": 1.26
+        }
+      ]
+    },
+    {
+      "id": 56550,
+      "name": "Slippyfist",
+      "number": "190",
+      "rarity": "U",
+      "type": "Monster Ally — 1/1 Murloc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56550/wow-throne-of-the-tides-slippyfist",
+      "cost": "1",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/190.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56551,
+      "name": "Snurky",
+      "number": "191",
+      "rarity": "C",
+      "type": "Monster Ally — 2/2 Murloc Rogue",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56551/wow-throne-of-the-tides-snurky",
+      "cost": "2",
+      "artist": "Seamus Gallagher",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/191.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.83,
+          "low": 3.65,
+          "mid": 6.83
+        }
+      ]
+    },
+    {
+      "id": 56552,
+      "name": "Swarmtooth",
+      "number": "192",
+      "rarity": "U",
+      "type": "Monster Ally — 1/1 Murloc Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56552/wow-throne-of-the-tides-swarmtooth",
+      "cost": "2",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/192.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.94,
+          "low": 1.94,
+          "mid": 1.94
+        }
+      ]
+    },
+    {
+      "id": 56553,
+      "name": "Buldrug",
+      "number": "193",
+      "rarity": "C",
+      "type": "Monster Ally — 3/5 Ogre Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56553/wow-throne-of-the-tides-buldrug",
+      "cost": "4",
+      "artist": "John Polidora",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/193.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.9,
+          "low": 0.5,
+          "mid": 1.9
+        }
+      ]
+    },
+    {
+      "id": 56554,
+      "name": "Drugush the Crusher",
+      "number": "194",
+      "rarity": "C",
+      "type": "Monster Ally — 8/4 Ogre Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56554/wow-throne-of-the-tides-drugush-the-crusher",
+      "cost": "6",
+      "artist": "José Ladrönn",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/194.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.98,
+          "low": 0.98,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 56555,
+      "name": "Neph'lahim",
+      "number": "195",
+      "rarity": "R",
+      "type": "Monster Ally — 8/8 Ogre Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56555/wow-throne-of-the-tides-nephlahim",
+      "cost": "8",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/195.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.2,
+          "low": 1,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 56556,
+      "name": "Tar'gak the Felcrazed",
+      "number": "196",
+      "rarity": "U",
+      "type": "Monster Ally — 10/8 Ogre Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56556/wow-throne-of-the-tides-targak-the-felcrazed",
+      "cost": "9",
+      "artist": "James Ryman",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/196.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.24,
+          "mid": 1.12
+        }
+      ]
+    },
+    {
+      "id": 56557,
+      "name": "Thrug the Hurler",
+      "number": "197",
+      "rarity": "U",
+      "type": "Monster Ally — 4/4 Ogre Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56557/wow-throne-of-the-tides-thrug-the-hurler",
+      "cost": "6",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/197.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 0.5,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 56558,
+      "name": "Zor'chal the Shadowseer",
+      "number": "198",
+      "rarity": "U",
+      "type": "Monster Ally — 6/4 Ogre Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56558/wow-throne-of-the-tides-zorchal-the-shadowseer",
+      "cost": "6",
+      "artist": "Vinod Rams",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/198.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.75,
+          "low": 1.5,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 56559,
+      "name": "Commander Ulthok",
+      "number": "199",
+      "rarity": "E",
+      "type": "Monster Ally — 5/4 Faceless One Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56559/wow-throne-of-the-tides-commander-ulthok",
+      "cost": "5",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/199.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 21.5,
+          "low": 18,
+          "mid": 21.5
+        }
+      ]
+    },
+    {
+      "id": 56560,
+      "name": "Faceless Sapper",
+      "number": "200",
+      "rarity": "C",
+      "type": "Monster Ally — 2/2 Faceless One Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56560/wow-throne-of-the-tides-faceless-sapper",
+      "cost": "2",
+      "artist": "Dan Brereton",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/200.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.39,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56561,
+      "name": "Faceless Watcher",
+      "number": "201",
+      "rarity": "R",
+      "type": "Monster Ally — 6/6 Faceless One Warlock",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56561/wow-throne-of-the-tides-faceless-watcher",
+      "cost": "3",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/201.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.18,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 56562,
+      "name": "Deep Subjugator",
+      "number": "202",
+      "rarity": "U",
+      "type": "Monster Ally — 2/2 Merciless One",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56562/wow-throne-of-the-tides-deep-subjugator",
+      "cost": "3",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/202.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.45,
+          "low": 0.99,
+          "mid": 1.45
+        }
+      ]
+    },
+    {
+      "id": 56563,
+      "name": "Mindbender Ghur'sha",
+      "number": "203",
+      "rarity": "R",
+      "type": "Monster Ally — 4/8 Merciless One",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56563/wow-throne-of-the-tides-mindbender-ghursha",
+      "cost": "7",
+      "artist": "Jakub Kasper",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/203.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3,
+          "low": 2.75,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 56564,
+      "name": "Idra'kess Enchantress",
+      "number": "204",
+      "rarity": "U",
+      "type": "Monster Ally — 2/5 Naga Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56564/wow-throne-of-the-tides-idrakess-enchantress",
+      "cost": "4",
+      "artist": "Benjamin Zhang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/204.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.62,
+          "low": 1.29,
+          "mid": 1.62
+        }
+      ]
+    },
+    {
+      "id": 56565,
+      "name": "Idra'kess Mistress",
+      "number": "205",
+      "rarity": "U",
+      "type": "Monster Ally — 1/4 Naga Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56565/wow-throne-of-the-tides-idrakess-mistress",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/205.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.69,
+          "low": 1.49,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 56566,
+      "name": "Lady Naz'jar",
+      "number": "206",
+      "rarity": "E",
+      "type": "Monster Ally — 5/7 Naga Sea Witch",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56566/wow-throne-of-the-tides-lady-nazjar",
+      "cost": "6",
+      "artist": "Ruan Jia",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/206.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.35,
+          "low": 2.35,
+          "mid": 2.35
+        }
+      ]
+    },
+    {
+      "id": 56567,
+      "name": "Naz'jar Harpooner",
+      "number": "207",
+      "rarity": "C",
+      "type": "Monster Ally — 3/1 Naga Hunter",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56567/wow-throne-of-the-tides-nazjar-harpooner",
+      "cost": "2",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/207.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.9,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 56568,
+      "name": "Naz'jar Myrmidon",
+      "number": "208",
+      "rarity": "C",
+      "type": "Monster Ally — 3/3 Naga Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56568/wow-throne-of-the-tides-nazjar-myrmidon",
+      "cost": "3",
+      "artist": "Steve Tappin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/208.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.98,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56569,
+      "name": "Naz'jar Sorceress",
+      "number": "209",
+      "rarity": "C",
+      "type": "Monster Ally — 1/3 Naga Mage",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56569/wow-throne-of-the-tides-nazjar-sorceress",
+      "cost": "2",
+      "artist": "Chris Rahn",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/209.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.69,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56570,
+      "name": "Sira'kess Tide Priestess",
+      "number": "210",
+      "rarity": "C",
+      "type": "Monster Ally — 2/2 Naga Priest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56570/wow-throne-of-the-tides-sirakess-tide-priestess",
+      "cost": "3",
+      "artist": "Nacho Molina Porra",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/210.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.57,
+          "low": 1.13,
+          "mid": 1.57
+        }
+      ]
+    },
+    {
+      "id": 56571,
+      "name": "Abyssal Seahorse",
+      "number": "211",
+      "rarity": "R",
+      "type": "Monster Ally — 0/3 Seahorse",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56571/wow-throne-of-the-tides-abyssal-seahorse",
+      "cost": "2",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/211.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.63,
+          "low": 1.42,
+          "mid": 1.48
+        }
+      ]
+    },
+    {
+      "id": 56572,
+      "name": "Gnash",
+      "number": "212",
+      "rarity": "R",
+      "type": "Monster Ally — 4/6 Sea Giant Warrior",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56572/wow-throne-of-the-tides-gnash",
+      "cost": "6",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/212.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22,
+          "low": 0.99,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 56573,
+      "name": "Kolorath",
+      "number": "213",
+      "rarity": "E",
+      "type": "Monster Ally — 6/12 Kraken",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56573/wow-throne-of-the-tides-kolorath",
+      "cost": "8",
+      "artist": "Seamus Gallagher",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/213.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12.5,
+          "low": 10,
+          "mid": 12.5
+        }
+      ]
+    },
+    {
+      "id": 56574,
+      "name": "Nespirah",
+      "number": "214",
+      "rarity": "R",
+      "type": "Monster Ally — 9/9 Demigod",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56574/wow-throne-of-the-tides-nespirah",
+      "cost": "8",
+      "artist": "Richard Wright",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/214.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.99,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56575,
+      "name": "Ozumat",
+      "number": "215",
+      "rarity": "E",
+      "type": "Monster Ally — 8/7 Leviathan",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56575/wow-throne-of-the-tides-ozumat",
+      "cost": "8",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/215.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56576,
+      "name": "Revenant of Neptulon",
+      "number": "216",
+      "rarity": "U",
+      "type": "Monster Ally — 2/6 Water Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56576/wow-throne-of-the-tides-revenant-of-neptulon",
+      "cost": "4",
+      "artist": "Thom Tenery",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/216.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 3.99,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 56577,
+      "name": "Servant of Neptulon",
+      "number": "217",
+      "rarity": "C",
+      "type": "Monster Ally — 0/1 Water Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56577/wow-throne-of-the-tides-servant-of-neptulon",
+      "cost": "1",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/217.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 0.25,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56578,
+      "name": "Unstable Corruption",
+      "number": "218",
+      "rarity": "R",
+      "type": "Monster Ally — 1/5 Water Elemental",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56578/wow-throne-of-the-tides-unstable-corruption",
+      "cost": "3",
+      "artist": "Matt Gaser",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/218.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.56,
+          "low": 3.56,
+          "mid": 3.56
+        }
+      ]
+    },
+    {
+      "id": 56581,
+      "name": "Erunak Stonespeaker",
+      "number": "221",
+      "rarity": "R",
+      "type": "Ally — 5/5 Broken Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56581/wow-throne-of-the-tides-erunak-stonespeaker",
+      "cost": "5",
+      "artist": "Michael Kormarck",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/221.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 51,
+          "low": 51,
+          "mid": 51
+        }
+      ]
+    },
+    {
+      "id": 56582,
+      "name": "Toshe Chaosrender",
+      "number": "222",
+      "rarity": "R",
+      "type": "Ally — 0/0 Taunka Shaman",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56582/wow-throne-of-the-tides-toshe-chaosrender",
+      "cost": "4",
+      "artist": "Raymond Swanland",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/222.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.51,
+          "low": 0.18,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 56583,
+      "name": "Periwinkle Cloak",
+      "number": "223",
+      "rarity": "U",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56583/wow-throne-of-the-tides-periwinkle-cloak",
+      "cost": "3",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/223.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.69,
+          "low": 0.2,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 56584,
+      "name": "Shroud of Cooperation",
+      "number": "224",
+      "rarity": "U",
+      "type": "Equipment — Armor — Cloth",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56584/wow-throne-of-the-tides-shroud-of-cooperation",
+      "cost": "3",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/224.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 1.94,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 56585,
+      "name": "Triton Legplates",
+      "number": "225",
+      "rarity": "R",
+      "type": "Equipment — Armor — Plate",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56585/wow-throne-of-the-tides-triton-legplates",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/225.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56586,
+      "name": "Wentletrap Vest",
+      "number": "226",
+      "rarity": "C",
+      "type": "Equipment — Armor — Mail",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56586/wow-throne-of-the-tides-wentletrap-vest",
+      "cost": "2",
+      "artist": "Jeff Kang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/226.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.85,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 56587,
+      "name": "Big Cauldron of Battle",
+      "number": "227",
+      "rarity": "R",
+      "type": "Equipment — Item",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56587/wow-throne-of-the-tides-big-cauldron-of-battle",
+      "cost": "6",
+      "artist": "Jonathan Ryder",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/227.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.11,
+          "low": 0.75,
+          "mid": 1.11
+        }
+      ]
+    },
+    {
+      "id": 56588,
+      "name": "Blessing of the Old God",
+      "number": "228",
+      "rarity": "C",
+      "type": "Equipment — Item",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56588/wow-throne-of-the-tides-blessing-of-the-old-god",
+      "cost": "2",
+      "artist": "Scott Altmann",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/228.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.54,
+          "mid": 0.57
+        }
+      ]
+    },
+    {
+      "id": 56589,
+      "name": "Bottled Cunning",
+      "number": "229",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56589/wow-throne-of-the-tides-bottled-cunning",
+      "cost": "2",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/229.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56590,
+      "name": "Bottled Death",
+      "number": "230",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56590/wow-throne-of-the-tides-bottled-death",
+      "cost": "3",
+      "artist": "Daren Bader",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/230.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 56591,
+      "name": "Bottled Elements",
+      "number": "231",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56591/wow-throne-of-the-tides-bottled-elements",
+      "cost": "3",
+      "artist": "Guangjian Huang",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/231.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.49,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56592,
+      "name": "Bottled Knowledge",
+      "number": "232",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56592/wow-throne-of-the-tides-bottled-knowledge",
+      "cost": "3",
+      "artist": "Arthur Gimaldinov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/232.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.2,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 56593,
+      "name": "Bottled Life",
+      "number": "233",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56593/wow-throne-of-the-tides-bottled-life",
+      "cost": "1",
+      "artist": "Anton Zemzkov",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/233.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.56,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 56594,
+      "name": "Bottled Light",
+      "number": "234",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56594/wow-throne-of-the-tides-bottled-light",
+      "cost": "3",
+      "artist": "Tyler West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/234.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.25,
+          "low": 2.49,
+          "mid": 6.25
+        }
+      ]
+    },
+    {
+      "id": 56595,
+      "name": "Bottled Mind",
+      "number": "235",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56595/wow-throne-of-the-tides-bottled-mind",
+      "cost": "3",
+      "artist": "Ben Wooten",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/235.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56596,
+      "name": "Bottled Rage",
+      "number": "236",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56596/wow-throne-of-the-tides-bottled-rage",
+      "cost": "2",
+      "artist": "Raven Mimura",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/236.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.24,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56597,
+      "name": "Bottled Spite",
+      "number": "237",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56597/wow-throne-of-the-tides-bottled-spite",
+      "cost": "3",
+      "artist": "Patrick Stone",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/237.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.45,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 56598,
+      "name": "Bottled Void",
+      "number": "238",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56598/wow-throne-of-the-tides-bottled-void",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/238.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.98,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56599,
+      "name": "Bottled Wild",
+      "number": "239",
+      "rarity": "C",
+      "type": "Equipment — Item — Potion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56599/wow-throne-of-the-tides-bottled-wild",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/239.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56600,
+      "name": "Nautilus Ring",
+      "number": "240",
+      "rarity": "U",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56600/wow-throne-of-the-tides-nautilus-ring",
+      "cost": "4",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/240.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 56601,
+      "name": "Ring of the Great Whale",
+      "number": "241",
+      "rarity": "U",
+      "type": "Equipment — Item — Ring",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56601/wow-throne-of-the-tides-ring-of-the-great-whale",
+      "cost": "1",
+      "artist": "Jim Nelson",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/241.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10,
+          "low": 10,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 56602,
+      "name": "Severed Visionary Tentacle",
+      "number": "242",
+      "rarity": "R",
+      "type": "Equipment — Item — Trinket",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56602/wow-throne-of-the-tides-severed-visionary-tentacle",
+      "cost": "5",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/242.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 1,
+          "mid": 1.1
+        }
+      ]
+    },
+    {
+      "id": 56604,
+      "name": "Breathstone-Infused Longbow",
+      "number": "244",
+      "rarity": "U",
+      "type": "Equipment — Ranged Weapon — Bow",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56604/wow-throne-of-the-tides-breathstone-infused-longbow",
+      "cost": "3",
+      "artist": "Alexander Garner",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/244.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 56605,
+      "name": "Cerith Spire Staff",
+      "number": "245",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Staff",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56605/wow-throne-of-the-tides-cerith-spire-staff",
+      "cost": "3",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/245.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.11,
+          "low": 1,
+          "mid": 1.11
+        }
+      ]
+    },
+    {
+      "id": 56606,
+      "name": "Dawnblaze Blade",
+      "number": "246",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56606/wow-throne-of-the-tides-dawnblaze-blade",
+      "cost": "5",
+      "artist": "Tyler West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/246.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 1.44,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 56607,
+      "name": "Dirk's Command",
+      "number": "247",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56607/wow-throne-of-the-tides-dirks-command",
+      "cost": "4",
+      "artist": "Tom Baxa",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/247.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.28,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 56608,
+      "name": "Downfall Hammer",
+      "number": "248",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56608/wow-throne-of-the-tides-downfall-hammer",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/248.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.25,
+          "low": 0.49,
+          "mid": 5.25
+        }
+      ]
+    },
+    {
+      "id": 56609,
+      "name": "Eel Cutter",
+      "number": "249",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Sword",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56609/wow-throne-of-the-tides-eel-cutter",
+      "cost": "3",
+      "artist": "Tyler West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/249.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56610,
+      "name": "Lightning Whelk Axe",
+      "number": "250",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Axe",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56610/wow-throne-of-the-tides-lightning-whelk-axe",
+      "cost": "2",
+      "artist": "Nathan Bowden",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/250.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.67,
+          "low": 0.35,
+          "mid": 0.67
+        }
+      ]
+    },
+    {
+      "id": 56611,
+      "name": "Potentate's Letter Opener",
+      "number": "251",
+      "rarity": "U",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56611/wow-throne-of-the-tides-potentates-letter-opener",
+      "cost": "3",
+      "artist": "Michael Sutfin",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/251.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.75,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 56612,
+      "name": "Sorrow's End",
+      "number": "252",
+      "rarity": "R",
+      "type": "Equipment — 2H Weapon — Mace",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56612/wow-throne-of-the-tides-sorrows-end",
+      "cost": "4",
+      "artist": "Ron Lemen",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/252.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 0.99,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 56613,
+      "name": "Throat Slasher",
+      "number": "253",
+      "rarity": "C",
+      "type": "Equipment — 1H Weapon — Dagger",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56613/wow-throne-of-the-tides-throat-slasher",
+      "cost": "1",
+      "artist": "Tyler West",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/253.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 56614,
+      "name": "The Culmination of Our Efforts",
+      "number": "254",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56614/wow-throne-of-the-tides-the-culmination-of-our-efforts",
+      "artist": "Slawomir Maniak",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/254.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56615,
+      "name": "The Last Living Lorekeeper",
+      "number": "255",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56615/wow-throne-of-the-tides-the-last-living-lorekeeper",
+      "artist": "Brandon Kitkouski",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/255.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56616,
+      "name": "Reoccupation",
+      "number": "256",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56616/wow-throne-of-the-tides-reoccupation",
+      "artist": "Jonboy Meyers",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/256.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.69,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 56617,
+      "name": "Rescue the Earthspeaker!",
+      "number": "257",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56617/wow-throne-of-the-tides-rescue-the-earthspeaker",
+      "artist": "Carl Critchlow",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/257.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 56618,
+      "name": "Seeds of Their Demise",
+      "number": "258",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56618/wow-throne-of-the-tides-seeds-of-their-demise",
+      "artist": "Zoltan Boros",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/258.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.49,
+          "low": 1,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 56619,
+      "name": "Setting an Example",
+      "number": "259",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56619/wow-throne-of-the-tides-setting-an-example",
+      "artist": "Gabor Szikszai",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/259.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.69,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 56620,
+      "name": "Wake of Destruction",
+      "number": "260",
+      "rarity": "U",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56620/wow-throne-of-the-tides-wake-of-destruction",
+      "artist": "Matt Dixon",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/260.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.96,
+          "low": 1.94,
+          "mid": 1.96
+        }
+      ]
+    },
+    {
+      "id": 56621,
+      "name": "Waking the Beast",
+      "number": "261",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56621/wow-throne-of-the-tides-waking-the-beast",
+      "artist": "Richard Wright",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/261.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 56622,
+      "name": "Waters of Elune",
+      "number": "262",
+      "rarity": "C",
+      "type": "Quest",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56622/wow-throne-of-the-tides-waters-of-elune",
+      "artist": "Richard Wright",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/262.jpg"
+      ],
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.39,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 56623,
+      "name": "Throne of the Tides",
+      "number": "263",
+      "rarity": "R",
+      "type": "Location",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/56623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/56623/wow-throne-of-the-tides-throne-of-the-tides",
+      "artist": "Thom Tenery",
+      "altImages": [
+        "https://www.wowcards.info/scans/throne/en/263.jpg"
+      ],
+      "prices": []
+    },
+    {
+      "id": 9285714876,
+      "name": "Seeping Poison",
+      "number": "68",
+      "rarity": "Uncommon",
+      "type": "Ability — Assassination Poison",
+      "cost": "1",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/throne/en/68.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9067585199,
+      "name": "Wasteland Tallstrider",
+      "number": "219",
+      "rarity": "Epic",
+      "type": "Monster Ally — 4/4 Tallstrider",
+      "cost": "5",
+      "artist": "Benjamin Zhang",
+      "image": "https://www.wowcards.info/scans/throne/en/219.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9028095189,
+      "name": "Bloat the Bubble Fish",
+      "number": "220",
+      "rarity": "Common",
+      "type": "Ally — 0/1 Fish",
+      "cost": "2",
+      "artist": "Sam Nielson",
+      "image": "https://www.wowcards.info/scans/throne/en/220.jpg",
+      "source": "wowcards",
+      "prices": []
+    },
+    {
+      "id": 9541250649,
+      "name": "Throwing Starfish",
+      "number": "243",
+      "rarity": "Rare",
+      "type": "Equipment — Item",
+      "cost": "1",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/throne/en/243.jpg",
+      "source": "wowcards",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-11-11"
+}

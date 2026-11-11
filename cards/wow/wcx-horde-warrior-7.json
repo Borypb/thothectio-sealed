@@ -1,0 +1,286 @@
+{
+  "groupId": 99666654,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9780317658,
+      "name": "Raja'sul the Relentless",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Troll Warrior — 30",
+      "artist": "Filip Acovic",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9086262202,
+      "name": "Bloodthirsty Shout",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Fury Shout",
+      "cost": "3",
+      "artist": "J.P. Targete",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9499466447,
+      "name": "Champion's Shout",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ability — Fury Shout",
+      "cost": "6",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9010909125,
+      "name": "Helm of Setesh",
+      "number": "4",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Plate",
+      "cost": "3",
+      "artist": "Leonard Boyarsky",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9291504228,
+      "name": "Infectious Brutality",
+      "number": "5",
+      "rarity": "Uncommon",
+      "type": "Ability — Fury",
+      "cost": "3",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9043150260,
+      "name": "Ruination",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Arms",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9929437075,
+      "name": "Ruthless Execution",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ability — Fury",
+      "cost": "2",
+      "artist": "Kerem Beyit",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9379202375,
+      "name": "Defender's Vigil",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Ability — Protection",
+      "cost": "1",
+      "artist": "Dave Dorman",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9043202742,
+      "name": "Abasha Windstorm",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/2 Tauren Shaman",
+      "cost": "2",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9669546249,
+      "name": "Grandma Deadsie",
+      "number": "10",
+      "rarity": "Rare",
+      "type": "Ally — 1/1 Undead Priest",
+      "cost": "3",
+      "artist": "Dermot Power",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9603541099,
+      "name": "Grok Goreblade",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ally — 2/2 Orc Warrior",
+      "cost": "3",
+      "artist": "Ladrönn",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9771965789,
+      "name": "Izzy Quizfiz",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Goblin Shaman",
+      "cost": "1",
+      "artist": "Anders Finer",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9014073436,
+      "name": "Kazbaz",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 2/2 Goblin Warrior",
+      "cost": "2",
+      "artist": "Tim McBurnie",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9631270538,
+      "name": "Raso'jin",
+      "number": "14",
+      "rarity": "Uncommon",
+      "type": "Ally — 0/2 Troll Druid",
+      "cost": "3",
+      "artist": "Dave Rapoza",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9618243492,
+      "name": "Voss Treebender",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Tauren Druid",
+      "cost": "1",
+      "artist": "Cyril Van Der Haegen",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9345810200,
+      "name": "Zaza'jun",
+      "number": "16",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/2 Troll Druid",
+      "cost": "4",
+      "artist": "Alex Garner",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9118527502,
+      "name": "Edge of Oblivion",
+      "number": "17",
+      "rarity": "Rare",
+      "type": "Equipment — 2H Weapon — Axe",
+      "cost": "4",
+      "artist": "Graven Tung",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9570402260,
+      "name": "Belt of Absolute Zero",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Plate",
+      "cost": "3",
+      "artist": "Thom Tenery",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9431442977,
+      "name": "Edgemaster's Handguards",
+      "number": "19",
+      "rarity": "Uncommon",
+      "type": "Equipment — Armor — Mail",
+      "cost": "3",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9784922917,
+      "name": "Mandible of Beth'tilac",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Sword",
+      "cost": "3",
+      "artist": "Matt Gaser",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9364714230,
+      "name": "Reanimator's Hacker",
+      "number": "21",
+      "rarity": "Uncommon",
+      "type": "Equipment — 1H Weapon — Axe",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9228420968,
+      "name": "Archival Purposes",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Anton Zemzkov",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9936064321,
+      "name": "Entrenched",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9635656686,
+      "name": "The Essence of Enmity",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9527851958,
+      "name": "Forged of Shadow and Flame",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Ralph Horsley",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9334490730,
+      "name": "The Grimtotem Weapon",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Steve Tappin",
+      "image": "https://www.wowcards.info/scans/horde-warrior-7/en/26.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

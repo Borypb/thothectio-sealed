@@ -1,0 +1,373 @@
+{
+  "groupId": 92767333,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9380737549,
+      "name": "Edaan of the Exodar",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Draenei Shaman — 28",
+      "artist": "Chris Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9120383981,
+      "name": "Ancestral Recovery",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9516976278,
+      "name": "Breath of the Elements",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ability — Enhancement",
+      "cost": "5",
+      "artist": "Tom Baxa",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9845422898,
+      "name": "Chain Heal",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "2",
+      "artist": "UDON",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9067993198,
+      "name": "Elements' Fury",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "3",
+      "artist": "Justin Sweet",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9796332073,
+      "name": "Energized",
+      "number": "6",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "2",
+      "artist": "Leonard Boyarski",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9313578060,
+      "name": "Frost Shock",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "2",
+      "artist": "Phroilan Gardner",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9698352605,
+      "name": "Greater Chain Lightning",
+      "number": "8",
+      "rarity": "Rare",
+      "type": "Ability — Elemental",
+      "cost": "7",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9629773926,
+      "name": "Inferno Totem",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Ability Ally — 0/3 Elemental",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9429163065,
+      "name": "Lightning Bolt",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "3",
+      "artist": "Brad Vancata",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9806191769,
+      "name": "Primal Strike",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "1",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9682356068,
+      "name": "Arvos Jadestone",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Dwarf Shaman",
+      "cost": "1",
+      "artist": "Grace Liu",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9037408416,
+      "name": "Bella Wilder",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Worgen Druid",
+      "cost": "3",
+      "artist": "Jesper Ejsing",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9771653381,
+      "name": "Dagin Bootzap",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Dwarf Hunter",
+      "cost": "4",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9022182416,
+      "name": "Haratha Hammerflame",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Dwarf Shaman",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9570691270,
+      "name": "Kalek Deepearth",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Dwarf Shaman",
+      "cost": "3",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9160689865,
+      "name": "Latro Abiectus",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Night Elf Rogue",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9993447189,
+      "name": "Roger Ulric",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 6/4 Worgen Hunter",
+      "cost": "5",
+      "artist": "Karl Richardson",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9065381371,
+      "name": "Shanis Bladefall",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 0/5 Night Elf Death Knight",
+      "cost": "1",
+      "artist": "Luke Mancini",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9051724744,
+      "name": "Terina Calin",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 4/1 Human Rogue",
+      "cost": "3",
+      "artist": "Jesper Ejsing",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9778022476,
+      "name": "Tinker Casey Springlock",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 4/4 Gnome Warrior",
+      "cost": "4",
+      "artist": "Karl Richardson",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9067132105,
+      "name": "Trixie Boltclunker",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Gnome Warrior",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9522988660,
+      "name": "Windspeaker Nuvu",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Draenei Shaman",
+      "cost": "1",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9363740670,
+      "name": "Zuur",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Draenei Shaman",
+      "cost": "4",
+      "artist": "Ron Lemen",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9468395190,
+      "name": "Bloodbane's Fall",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Equipment — Armor — Cloth",
+      "cost": "3",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9125939654,
+      "name": "Abomination Knuckles",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Fist",
+      "cost": "3",
+      "artist": "Popo Wei (Concept Art House)",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9177068342,
+      "name": "Claws of Torment",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Equipment — 1H Weapon — Fist",
+      "cost": "3",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9302634244,
+      "name": "Crul'korak, the Lightning's Arc",
+      "number": "28",
+      "rarity": "Rare",
+      "type": "Equipment — 1H Weapon — Axe",
+      "cost": "2",
+      "artist": "Peter Lee",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9492871949,
+      "name": "A Bird in Hand",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9224077389,
+      "name": "Blueleaf Tubers",
+      "number": "30",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/30.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9597923199,
+      "name": "Entrenched",
+      "number": "31",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/31.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9199393397,
+      "name": "The Essence of Enmity",
+      "number": "32",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/32.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9936097131,
+      "name": "The Key to Freedom",
+      "number": "33",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/33.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9145460836,
+      "name": "Mystery Goo",
+      "number": "34",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/alliance-shaman/en/34.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "groupId": 93010930,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9752430911,
+      "name": "Rumi of Gnomeregan",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Gnome Mage — 25",
+      "artist": "Ben Olson",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9964181014,
+      "name": "Arcane Barrage",
+      "number": "2",
+      "rarity": "Rare",
+      "type": "Ability — Arcane",
+      "cost": "4",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9188260467,
+      "name": "Cold Front",
+      "number": "3",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Andrea Uderzo",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9161558352,
+      "name": "Counterspell",
+      "number": "4",
+      "rarity": "Rare",
+      "type": "Ability — Arcane",
+      "cost": "2",
+      "artist": "Mauro Cascioli",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9894371959,
+      "name": "Fire Blast",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Fire",
+      "cost": "1",
+      "artist": "Dave Berggren",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9115075697,
+      "name": "Fireball",
+      "number": "6",
+      "rarity": "Uncommon",
+      "type": "Ability — Fire",
+      "cost": "4",
+      "artist": "Vance Kovacs",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9474246988,
+      "name": "Frostbolt",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ability — Frost",
+      "cost": "3",
+      "artist": "Steve Ellis",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9827452494,
+      "name": "Ice Lance",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Ability — Frost",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9644921917,
+      "name": "Mana Agate",
+      "number": "9",
+      "rarity": "Uncommon",
+      "type": "Ability — Arcane",
+      "cost": "2",
+      "artist": "Khang Le",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9183579354,
+      "name": "Polymorph",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ability — Arcane",
+      "cost": "2",
+      "artist": "Vance Kovacs",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9791824234,
+      "name": "Scorch",
+      "number": "11",
+      "rarity": "Uncommon",
+      "type": "Ability — Fire",
+      "cost": "0",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9780514480,
+      "name": "Adrienne the Inspiring",
+      "number": "12",
+      "rarity": "Uncommon",
+      "type": "Ally — 4/4 Draenei Shaman",
+      "cost": "5",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9027931052,
+      "name": "Axar",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Draenei Mage",
+      "cost": "4",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9959216552,
+      "name": "Cerwyn",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Night Elf Druid",
+      "cost": "1",
+      "artist": "Mark Evans",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9053831327,
+      "name": "Dominic Kandor",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 2/4 Worgen Death Knight",
+      "cost": "4",
+      "artist": "Stephen Crowe",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9737826099,
+      "name": "Gabble",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 7/5 Gnome Mage",
+      "cost": "7",
+      "artist": "Greg Hildebrandt",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9002000799,
+      "name": "Jarrod Gravon",
+      "number": "17",
+      "rarity": "Uncommon",
+      "type": "Ally — 1/6 Worgen Death Knight",
+      "cost": "3",
+      "artist": "Gino Whitehall",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9014022941,
+      "name": "Josiah King",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Human Mage",
+      "cost": "1",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9445852765,
+      "name": "Kirjen Fizzgar",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Dwarf Mage",
+      "cost": "3",
+      "artist": "Bob Watts",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9705312507,
+      "name": "Laenthor Shademoon",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Night Elf Mage",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9571799658,
+      "name": "Trixie Boltclunker",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 1/4 Gnome Warrior",
+      "cost": "2",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9556615403,
+      "name": "Lordbane Scepter",
+      "number": "22",
+      "rarity": "Rare",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "cost": "3",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9227002252,
+      "name": "A Bird in Hand",
+      "number": "23",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9587223026,
+      "name": "Blueleaf Tubers",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9443177002,
+      "name": "Entrenched",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9621065342,
+      "name": "The Essence of Enmity",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9718421566,
+      "name": "The Key to Freedom",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9215818601,
+      "name": "Mystery Goo",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/alliance-mage/en/28.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

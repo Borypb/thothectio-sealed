@@ -1,0 +1,328 @@
+{
+  "groupId": 90126069,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9191425549,
+      "name": "Gazriz of Gnomeregan",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Gnome Warlock — 28",
+      "artist": "Jim Nelson",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9029125955,
+      "name": "Dread Touch",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Affliction",
+      "cost": "3",
+      "artist": "Steve Tappin",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9454022353,
+      "name": "Fel Blaze",
+      "number": "3",
+      "rarity": "Uncommon",
+      "type": "Ability — Destruction",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9695483773,
+      "name": "Haaroon",
+      "number": "4",
+      "rarity": "Rare",
+      "type": "Ally — 6/6 Felguard Demon",
+      "cost": "5",
+      "artist": "John Polidora",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9668820619,
+      "name": "Immolate",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Destruction",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9847110269,
+      "name": "Invoke the Nether",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Ability — Destruction",
+      "cost": "6",
+      "artist": "Brandon Kitkouski",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9038730498,
+      "name": "Life Tap",
+      "number": "7",
+      "rarity": "Uncommon",
+      "type": "Ability — Affliction",
+      "cost": "2",
+      "artist": "Luca Zontini",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9900987174,
+      "name": "Maazhum",
+      "number": "8",
+      "rarity": "Common",
+      "type": "Ally — 3/3 Felhunter Demon",
+      "cost": "3",
+      "artist": "Warren Mahy",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9752877395,
+      "name": "Sarmoth",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Ally — 1/5 Voidwalker Demon",
+      "cost": "3",
+      "artist": "Ken Steacy",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9299761551,
+      "name": "Selora",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ally — 2/2 Succubus Demon",
+      "cost": "2",
+      "artist": "Luke Mancini",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9610171454,
+      "name": "Shadow Bolt",
+      "number": "11",
+      "rarity": "Uncommon",
+      "type": "Ability — Destruction",
+      "cost": "3",
+      "artist": "Mauro Cascioli",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9298830260,
+      "name": "Steal Essence",
+      "number": "12",
+      "rarity": "Uncommon",
+      "type": "Ability — Affliction",
+      "cost": "2",
+      "artist": "Dave Kendall",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9546351175,
+      "name": "Summoning Portal",
+      "number": "13",
+      "rarity": "Rare",
+      "type": "Ability — Demonology",
+      "cost": "2",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9950336545,
+      "name": "Brel Blazebeard",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 2/4 Dwarf Mage",
+      "cost": "4",
+      "artist": "Matt Steward",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9823701735,
+      "name": "Haratha Hammerflame",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Dwarf Shaman",
+      "cost": "2",
+      "artist": "Michal Ivan",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9291568488,
+      "name": "Jinie Swizzleshade",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 5/4 Gnome Priest",
+      "cost": "6",
+      "artist": "Efrem Palacios",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9872655541,
+      "name": "Kelsa Wildfire",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Worgen Mage",
+      "cost": "1",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9355277045,
+      "name": "Laenthor Shademoon",
+      "number": "18",
+      "rarity": "Common",
+      "type": "Ally — 2/3 Night Elf Mage",
+      "cost": "2",
+      "artist": "Christopher Moeller",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9150179049,
+      "name": "Nami Dabpox",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Gnome Warlock",
+      "cost": "1",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9807839016,
+      "name": "Nethermaven Donna Chastain",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 3/6 Human Warlock",
+      "cost": "5",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9298764628,
+      "name": "Patricia Potter",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 4/3 Human Warlock",
+      "cost": "3",
+      "artist": "Paul Kwon",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9737037688,
+      "name": "Scaramanga",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Human Warlock",
+      "cost": "1",
+      "artist": "E.M. Gist",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9320708454,
+      "name": "Crimson Shocker",
+      "number": "23",
+      "rarity": "Uncommon",
+      "type": "Equipment — Ranged Weapon — Wand",
+      "cost": "3",
+      "artist": "Steven Belledin",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9865492132,
+      "name": "A Bird in Hand",
+      "number": "24",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9686493398,
+      "name": "Blueleaf Tubers",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Kevin Maginnis",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9855872294,
+      "name": "Entrenched",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9484282690,
+      "name": "The Essence of Enmity",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9806272263,
+      "name": "The Key to Freedom",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9570635905,
+      "name": "Mystery Goo",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/29.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9601422036,
+      "name": "What Illidan Wants, Illidan Gets ...",
+      "number": "30",
+      "rarity": "Uncommon",
+      "type": "Quest",
+      "artist": "Dave Kendall",
+      "image": "https://www.wowcards.info/scans/alliance-warlock/en/30.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

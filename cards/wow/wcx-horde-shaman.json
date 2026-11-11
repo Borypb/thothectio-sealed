@@ -1,0 +1,319 @@
+{
+  "groupId": 94599920,
+  "source": "wowcards",
+  "cards": [
+    {
+      "id": 9860506645,
+      "name": "Akumo of Thunder Bluff",
+      "number": "1",
+      "rarity": "Uncommon",
+      "type": "Hero — Tauren Shaman — 29",
+      "artist": "Steve Prescott",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/1.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9360643883,
+      "name": "Chain Heal",
+      "number": "2",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "2",
+      "artist": "UDON",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/2.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9612317568,
+      "name": "Chain Lightning",
+      "number": "3",
+      "rarity": "Rare",
+      "type": "Ability — Elemental",
+      "cost": "5",
+      "artist": "Ariel Olivetti",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/3.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9488644488,
+      "name": "Cleanse Spirit",
+      "number": "4",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "2",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/4.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9692270459,
+      "name": "Earth's Bounty",
+      "number": "5",
+      "rarity": "Common",
+      "type": "Ability — Restoration",
+      "cost": "3",
+      "artist": "James Zhang",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/5.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9941764765,
+      "name": "Elemental Precision",
+      "number": "6",
+      "rarity": "Rare",
+      "type": "Ability — Elemental",
+      "cost": "7",
+      "artist": "James Zhang",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/6.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9706510731,
+      "name": "Frost Shock",
+      "number": "7",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "2",
+      "artist": "Phroilan Gardner",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/7.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9656574399,
+      "name": "Inferno Totem",
+      "number": "8",
+      "rarity": "Uncommon",
+      "type": "Ability Ally — 0/3 Elemental",
+      "cost": "2",
+      "artist": "Slawomir Maniak",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/8.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9138014641,
+      "name": "Infusion of Earth",
+      "number": "9",
+      "rarity": "Common",
+      "type": "Ability — Enhancement",
+      "cost": "2",
+      "artist": "Alex Horley Orlandelli",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/9.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9678800304,
+      "name": "Lightning Bolt",
+      "number": "10",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "3",
+      "artist": "Andrea Uderzo",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/10.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9019195346,
+      "name": "Natural Conduit",
+      "number": "11",
+      "rarity": "Common",
+      "type": "Ability — Elemental",
+      "cost": "3",
+      "artist": "Dany Orizio",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/11.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9269862590,
+      "name": "Boki Earthgaze",
+      "number": "12",
+      "rarity": "Common",
+      "type": "Ally — 6/2 Orc Shaman",
+      "cost": "6",
+      "artist": "Mike Sass",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/12.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9567039576,
+      "name": "Burom Bladeseer",
+      "number": "13",
+      "rarity": "Common",
+      "type": "Ally — 3/2 Orc Shaman",
+      "cost": "2",
+      "artist": "Clint Langley",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/13.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9834816405,
+      "name": "Guardian Steelhoof",
+      "number": "14",
+      "rarity": "Common",
+      "type": "Ally — 4/4 Tauren Druid",
+      "cost": "3",
+      "artist": "Lucas Graciano",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/14.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9564859795,
+      "name": "Ka'tali Stonetusk",
+      "number": "15",
+      "rarity": "Common",
+      "type": "Ally — 1/2 Troll Shaman",
+      "cost": "1",
+      "artist": "John Moriarty",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/15.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9285404349,
+      "name": "Kistix Shockvat",
+      "number": "16",
+      "rarity": "Common",
+      "type": "Ally — 4/2 Goblin Shaman",
+      "cost": "4",
+      "artist": "Pete Venters",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/16.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9663697085,
+      "name": "Lifemender Dorn",
+      "number": "17",
+      "rarity": "Common",
+      "type": "Ally — 2/1 Tauren Druid",
+      "cost": "1",
+      "artist": "Michael Kormarck",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/17.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9322374839,
+      "name": "Mojo Doctor Zin'tar",
+      "number": "18",
+      "rarity": "Uncommon",
+      "type": "Ally — 2/2 Troll Shaman",
+      "cost": "2",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/18.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9473164725,
+      "name": "Toz'jun",
+      "number": "19",
+      "rarity": "Common",
+      "type": "Ally — 4/3 Troll Shaman",
+      "cost": "5",
+      "artist": "Howard Lyon",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/19.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9725371719,
+      "name": "Vanda Skydaughter",
+      "number": "20",
+      "rarity": "Common",
+      "type": "Ally — 6/5 Tauren Druid",
+      "cost": "6",
+      "artist": "Luca Zontini",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/20.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9543446691,
+      "name": "Zakis Trickstab",
+      "number": "21",
+      "rarity": "Common",
+      "type": "Ally — 3/1 Goblin Rogue",
+      "cost": "3",
+      "artist": "Pete Venters",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/21.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9156885163,
+      "name": "Zerzu",
+      "number": "22",
+      "rarity": "Common",
+      "type": "Ally — 2/4 Troll Druid",
+      "cost": "3",
+      "artist": "Dan Scott",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/22.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9980661926,
+      "name": "Masterwork Stormhammer",
+      "number": "23",
+      "rarity": "Rare",
+      "type": "Equipment — 1H Weapon — Mace",
+      "cost": "3",
+      "artist": "David Palumbo",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/23.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9408452885,
+      "name": "Reanimator's Hacker",
+      "number": "24",
+      "rarity": "Uncommon",
+      "type": "Equipment — 1H Weapon — Axe",
+      "cost": "4",
+      "artist": "Dave Allsop",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/24.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9560590390,
+      "name": "A Bird in Hand",
+      "number": "25",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Gonzalo Ordonez",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/25.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9855386560,
+      "name": "Entrenched",
+      "number": "26",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Richard Wright",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/26.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9176056341,
+      "name": "The Essence of Enmity",
+      "number": "27",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "William O'Connor",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/27.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9069225342,
+      "name": "The Key to Freedom",
+      "number": "28",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Matt Dixon",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/28.jpg",
+      "source": "wowcards"
+    },
+    {
+      "id": 9850827796,
+      "name": "Mystery Goo",
+      "number": "29",
+      "rarity": "Common",
+      "type": "Quest",
+      "artist": "Tyler Walpole",
+      "image": "https://www.wowcards.info/scans/horde-shaman/en/29.jpg",
+      "source": "wowcards"
+    }
+  ]
+}

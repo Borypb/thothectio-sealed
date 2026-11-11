@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -5326,6 +5326,27 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/649420_200w.jpg",
       "source": {
         "tcgplayer": 649420
+      }
+    },
+    {
+      "id": "pkm-en-tcp732728",
+      "kind": "bundle",
+      "name": "Stellar Crown Booster Bundle (Retail)",
+      "lang": "en",
+      "setIds": [
+        "pkm-sv07"
+      ],
+      "releasedAt": "2024-09-13",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv07",
+          "qty": 6
+        }
+      ],
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732728_200w.jpg",
+      "source": {
+        "tcgplayer": 732728
       }
     },
     {

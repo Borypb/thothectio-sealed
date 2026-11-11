@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-11T19:58:32.516Z",
+  "harvestedAt": "2026-11-11T21:08:13.143Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -1003,7 +1003,7 @@
     "1386": {
       "name": "Dark Explorers",
       "abbreviation": "DEX",
-      "modifiedOn": "2026-10-05T13:29:57.007",
+      "modifiedOn": "2026-11-11T01:29:07.233",
       "publishedOn": "2012-05-09",
       "setCode": "bw5",
       "products": [
@@ -1997,7 +1997,7 @@
     "1407": {
       "name": "Black and White Promos",
       "abbreviation": "PR",
-      "modifiedOn": "2026-09-10T15:04:16.067",
+      "modifiedOn": "2026-11-11T13:23:38.17",
       "publishedOn": "2011-04-25",
       "setCode": "bwp",
       "products": []
@@ -5503,7 +5503,7 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-10T12:53:53.613",
+      "modifiedOn": "2026-11-11T01:28:04.133",
       "publishedOn": "2016-09-01",
       "products": []
     },
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-09T13:57:15.48",
+      "modifiedOn": "2026-11-11T15:14:33.227",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -20041,7 +20041,7 @@
     "23537": {
       "name": "SV07: Stellar Crown",
       "abbreviation": "SCR",
-      "modifiedOn": "2026-10-28T05:41:01.487",
+      "modifiedOn": "2026-11-11T17:34:41.817",
       "publishedOn": "2024-09-13",
       "setCode": "sv07",
       "products": [
@@ -20212,6 +20212,14 @@
           "releasedOn": "2024-09-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/649420_200w.jpg",
           "url": "https://www.tcgplayer.com/product/649420/pokemon-sv07-stellar-crown-stellar-crown-half-booster-box"
+        },
+        {
+          "tcgplayerId": 732728,
+          "name": "Stellar Crown Booster Bundle (Retail)",
+          "kind": "bundle",
+          "releasedOn": "2024-09-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732728_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732728/pokemon-sv07-stellar-crown-stellar-crown-booster-bundle-retail"
         }
       ]
     },
@@ -21809,7 +21817,7 @@
     "24382": {
       "name": "SVE: Scarlet & Violet Energies",
       "abbreviation": "SVE",
-      "modifiedOn": "2026-09-25T14:31:54.223",
+      "modifiedOn": "2026-11-11T01:11:50.253",
       "publishedOn": "2023-03-31",
       "products": []
     },
@@ -22009,7 +22017,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-10T13:34:34.83",
+      "modifiedOn": "2026-11-11T13:29:11.283",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -22017,7 +22025,7 @@
     "24461": {
       "name": "MEE: Mega Evolution Energies",
       "abbreviation": "MEE",
-      "modifiedOn": "2026-11-02T14:50:44.033",
+      "modifiedOn": "2026-11-11T00:55:28.223",
       "publishedOn": "2025-09-26",
       "products": []
     },
@@ -23393,8 +23401,9 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-11-06T17:11:08.173",
+      "modifiedOn": "2026-11-11T15:13:44.987",
       "publishedOn": "2026-11-06",
+      "setCode": "me06",
       "products": [
         {
           "tcgplayerId": 712093,
@@ -23548,8 +23557,7 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712112_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712112/pokemon-me06-delta-reign-delta-reign-sleeved-booster-pack"
         }
-      ],
-      "setCode": "me06"
+      ]
     },
     "24837": {
       "name": "ME: 30th Celebration Classic Collection",

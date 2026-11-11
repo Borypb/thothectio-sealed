@@ -612,10 +612,10 @@
           "name": "Starter Deck 25: Rubeusdramon",
           "code": "BD01",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-09T20:36:19.383",
-          "count": 9,
+          "modifiedOn": "2026-11-11T16:48:53.91",
+          "count": 15,
           "file": "cards/digimon/24932.json",
-          "version": "9f176906ae72"
+          "version": "0e8c87e7acf2"
         },
         {
           "groupId": 24929,
@@ -626,6 +626,16 @@
           "count": 9,
           "file": "cards/digimon/24929.json",
           "version": "8b5939ae8690"
+        },
+        {
+          "groupId": 24941,
+          "name": "Limited Card Pack -Distancia Cero-",
+          "code": "LM-09",
+          "releasedAt": "2026-11-27",
+          "modifiedOn": "2026-11-11T16:15:44.847",
+          "count": 33,
+          "file": "cards/digimon/24941.json",
+          "version": "a4d716f57735"
         },
         {
           "groupId": 24635,
@@ -822,7 +832,7 @@
           "name": "Hackers' Slumber",
           "code": "BT-23",
           "releasedAt": "2025-10-24",
-          "modifiedOn": "2026-11-09T18:30:47.167",
+          "modifiedOn": "2026-11-11T16:30:08.403",
           "count": 139,
           "file": "cards/digimon/24430.json",
           "version": "b79b0319bc23"
@@ -852,7 +862,7 @@
           "name": "Cyber Eden",
           "code": "BT-22",
           "releasedAt": "2025-07-25",
-          "modifiedOn": "2026-06-01T13:35:37.193",
+          "modifiedOn": "2026-11-11T16:32:41.153",
           "count": 160,
           "file": "cards/digimon/24078.json",
           "version": "8b979109d3bf"
@@ -1052,7 +1062,7 @@
           "name": "Infernal Ascension",
           "code": "EX-06",
           "releasedAt": "2024-06-28",
-          "modifiedOn": "2026-11-10T15:31:24.793",
+          "modifiedOn": "2026-11-11T16:30:52.84",
           "count": 113,
           "file": "cards/digimon/23414.json",
           "version": "bf5721f306a8"
@@ -1633,14 +1643,24 @@
       "category": "Riftbound League of Legends Trading Card Game",
       "sets": [
         {
+          "groupId": 24943,
+          "name": "Riftbound x K/DA: Couture Collection",
+          "code": "RXK/DA",
+          "releasedAt": "2026-11-11",
+          "modifiedOn": "2026-11-11T14:57:30.16",
+          "count": 5,
+          "file": "cards/riftbound/24943.json",
+          "version": "fb8a130cbff6"
+        },
+        {
           "groupId": 24819,
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-11-09T14:00:23.877",
-          "count": 240,
+          "modifiedOn": "2026-11-11T14:19:44.76",
+          "count": 246,
           "file": "cards/riftbound/24819.json",
-          "version": "e1163c6b985d"
+          "version": "0c145b14bbf6"
         },
         {
           "groupId": 24861,
@@ -1657,20 +1677,20 @@
           "name": "Vendetta",
           "code": "VEN",
           "releasedAt": "2026-07-31",
-          "modifiedOn": "2026-10-27T20:23:01.593",
-          "count": 248,
+          "modifiedOn": "2026-11-11T14:00:26.473",
+          "count": 254,
           "file": "cards/riftbound/24698.json",
-          "version": "391657d81f8c"
+          "version": "8b9b24a2a1d0"
         },
         {
           "groupId": 24560,
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-10-30T13:29:13.617",
-          "count": 308,
+          "modifiedOn": "2026-11-11T14:06:45.907",
+          "count": 314,
           "file": "cards/riftbound/24560.json",
-          "version": "3b6140146afd"
+          "version": "b79ec6efad8c"
         },
         {
           "groupId": 24519,
@@ -1697,10 +1717,10 @@
           "name": "Origins",
           "code": "OGN",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-22T19:56:34.517",
-          "count": 353,
+          "modifiedOn": "2026-11-11T14:05:23.687",
+          "count": 359,
           "file": "cards/riftbound/24344.json",
-          "version": "236bf3df6275"
+          "version": "2d355b1538cf"
         },
         {
           "groupId": 24439,
@@ -1717,10 +1737,10 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-11-05T20:56:57.86",
-          "count": 265,
+          "modifiedOn": "2026-11-11T14:04:32.103",
+          "count": 247,
           "file": "cards/riftbound/24528.json",
-          "version": "f8bd32821ff8"
+          "version": "78932a4e46b1"
         },
         {
           "groupId": 24343,
@@ -1798,7 +1818,7 @@
           "groupId": 24855,
           "name": "Welcome to Night City - Retail",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-11-06T19:11:20.87",
+          "modifiedOn": "2026-11-11T14:02:40.823",
           "count": 172,
           "file": "cards/cyberpunk/24855.json",
           "version": "5c70c3863b88"

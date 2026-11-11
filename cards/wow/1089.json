@@ -106,14 +106,14 @@
         {
           "sub": "Normal",
           "usd": 0.5,
-          "low": 2.48,
-          "mid": 2.48
+          "low": 1,
+          "mid": 1.74
         },
         {
           "sub": "Foil",
-          "usd": 2.53,
-          "low": 1.25,
-          "mid": 2.53
+          "usd": 3.81,
+          "low": 3.81,
+          "mid": 3.81
         }
       ]
     },
@@ -133,9 +133,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.5,
+          "usd": 2.75,
           "low": 0.99,
-          "mid": 3.5
+          "mid": 2.75
         },
         {
           "sub": "Foil",
@@ -401,9 +401,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.43,
+          "usd": 1.99,
           "low": 1.38,
-          "mid": 2.43
+          "mid": 1.99
         },
         {
           "sub": "Foil",
@@ -429,9 +429,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.61,
+          "usd": 0.99,
           "low": 0.87,
-          "mid": 1.61
+          "mid": 0.99
         },
         {
           "sub": "Foil",
@@ -561,6 +561,12 @@
         "https://www.wowcards.info/scans/molten-core/en/18.jpg"
       ],
       "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.49,
+          "mid": 0.49
+        },
         {
           "sub": "Foil",
           "usd": 3.81,

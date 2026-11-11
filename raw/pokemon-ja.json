@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-11T19:58:33.195Z",
+  "harvestedAt": "2026-11-11T21:08:16.272Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -4917,7 +4917,7 @@
     },
     "24167": {
       "name": "Pokemon-e Starter Deck",
-      "modifiedOn": "2025-12-02T17:00:59.447",
+      "modifiedOn": "2026-11-11T15:01:44.987",
       "publishedOn": "2001-12-01",
       "products": [
         {
@@ -4927,6 +4927,14 @@
           "releasedOn": "2001-12-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/666516_200w.jpg",
           "url": "https://www.tcgplayer.com/product/666516/pokemon-japan-pokemon-e-starter-deck-e-card-1st-edition-starter-deck"
+        },
+        {
+          "tcgplayerId": 732662,
+          "name": "Pokémon-e Starter Deck",
+          "kind": "deck",
+          "releasedOn": "2001-12-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732662_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732662/pokemon-japan-pokemon-e-starter-deck-pokemon-e-starter-deck"
         }
       ]
     },

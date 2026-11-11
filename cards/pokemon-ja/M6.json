@@ -560,21 +560,66 @@
       "name": "伝説の海溝",
       "number": "071",
       "total": "076",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050409_T_DENSETSUNOKAIKOU.jpg"
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050409_T_DENSETSUNOKAIKOU.jpg",
+      "part": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 50409,
+      "name": "伝説の海溝",
+      "number": "072",
+      "total": "076",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050409_T_DENSETSUNOKAIKOU.jpg",
+      "part": [
+        2,
+        2
+      ]
     },
     {
       "id": 50410,
       "name": "伝説の山頂",
       "number": "073",
       "total": "076",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050410_T_DENSETSUNOSANCHIXYOU.jpg"
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050410_T_DENSETSUNOSANCHIXYOU.jpg",
+      "part": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 50410,
+      "name": "伝説の山頂",
+      "number": "074",
+      "total": "076",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050410_T_DENSETSUNOSANCHIXYOU.jpg",
+      "part": [
+        2,
+        2
+      ]
     },
     {
       "id": 50411,
       "name": "伝説の溶岩洞",
       "number": "075",
       "total": "076",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050411_T_DENSETSUNOYOUGANDOU.jpg"
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050411_T_DENSETSUNOYOUGANDOU.jpg",
+      "part": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 50411,
+      "name": "伝説の溶岩洞",
+      "number": "076",
+      "total": "076",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M6/050411_T_DENSETSUNOYOUGANDOU.jpg",
+      "part": [
+        2,
+        2
+      ]
     },
     {
       "id": 50518,

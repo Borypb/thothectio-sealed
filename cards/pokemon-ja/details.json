@@ -9565,7 +9565,8 @@
     "number": "014",
     "total": "070",
     "product": "ポケモンカードゲームLEGEND 拡張パック「ハートゴールドコレクション」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "25030": {
     "number": "017",
@@ -10049,7 +10050,8 @@
     "number": "028",
     "total": "070",
     "product": "ポケモンカードゲームLEGEND 拡張パック「ソウルシルバーコレクション」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "25189": {
     "number": "031",
@@ -11613,7 +11615,8 @@
     "number": "062",
     "total": "080",
     "product": "ポケモンカードゲームLEGEND 拡張パック「よみがえる伝説」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "25705": {
     "number": "069",
@@ -11899,7 +11902,8 @@
     "number": "034",
     "total": "040",
     "product": "ポケモンカードゲーム 強化パック「ロストリンク」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "26071": {
     "number": "037",
@@ -12373,7 +12377,8 @@
     "number": "069",
     "total": "080",
     "product": "ポケモンカードゲームLEGEND 拡張パック「頂上大激突」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "26173": {
     "number": "076",
@@ -12593,7 +12598,8 @@
     "number": "003",
     "total": "009",
     "product": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ツタージャ",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27004": {
     "number": "004",
@@ -12611,7 +12617,8 @@
     "number": "006",
     "total": "009",
     "product": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ポカブ",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27007": {
     "number": "007",
@@ -12653,7 +12660,8 @@
     "number": "003",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ツタージャデッキ）",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "27014": {
     "number": "003",
@@ -12665,13 +12673,15 @@
     "number": "005",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27016": {
     "number": "014",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27017": {
     "number": "024",
@@ -12695,13 +12705,15 @@
     "number": "026",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27021": {
     "number": "029",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27022": {
     "number": "033",
@@ -12738,7 +12750,8 @@
     "number": "004",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27030": {
     "number": "006",
@@ -12768,7 +12781,8 @@
     "number": "010",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27036": {
     "number": "017",
@@ -12786,7 +12800,8 @@
     "number": "019",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27039": {
     "number": "030",
@@ -12798,17 +12813,20 @@
     "number": "028",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27041": {
     "number": "031",
     "total": "037",
-    "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
+    "wide": false
   },
   "27042": {
     "number": "033",
     "total": "037",
-    "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
+    "wide": false
   },
   "27043": {
     "number": "035",
@@ -12835,7 +12853,8 @@
     "number": "009",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27049": {
     "number": "011",
@@ -12859,7 +12878,8 @@
     "number": "013",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ミジュマルデッキ）",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "27053": {
     "number": "013",
@@ -12877,7 +12897,8 @@
     "number": "016",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27056": {
     "number": "020",
@@ -12895,13 +12916,15 @@
     "number": "022",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "27059": {
     "number": "027",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27060": {
     "number": "032",
@@ -12911,7 +12934,8 @@
   "27061": {
     "number": "033",
     "total": "037",
-    "product": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）",
+    "wide": false
   },
   "27062": {
     "number": "035",
@@ -12938,7 +12962,8 @@
     "number": "008",
     "total": "037",
     "product": "ポケモンカードゲームBW はじめてセット forガール （ポカブデッキ）",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "27101": {
     "number": "001",
@@ -15761,7 +15786,8 @@
     "number": "004",
     "total": "020",
     "product": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （トルネロスデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "27673": {
     "number": "011",
@@ -15773,7 +15799,8 @@
     "number": "012",
     "total": "020",
     "product": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （トルネロスデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "27675": {
     "number": "014",
@@ -15854,13 +15881,15 @@
     "number": "010",
     "total": "020",
     "product": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （ボルトロスデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "27691": {
     "number": "013",
     "total": "020",
     "product": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （ボルトロスデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27692": {
     "number": "015",
@@ -15923,13 +15952,15 @@
     "number": "005",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27705": {
     "number": "014",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27706": {
     "number": "022",
@@ -15953,7 +15984,8 @@
     "number": "025",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27710": {
     "number": "030",
@@ -15990,7 +16022,8 @@
     "number": "004",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27718": {
     "number": "006",
@@ -16014,7 +16047,8 @@
     "number": "010",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27722": {
     "number": "016",
@@ -16032,7 +16066,8 @@
     "number": "018",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27725": {
     "number": "027",
@@ -16043,12 +16078,14 @@
   "27726": {
     "number": "028",
     "total": "034",
-    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
+    "wide": false
   },
   "27727": {
     "number": "030",
     "total": "034",
-    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
+    "wide": false
   },
   "27728": {
     "number": "032",
@@ -16075,7 +16112,8 @@
     "number": "009",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27734": {
     "number": "011",
@@ -16099,7 +16137,8 @@
     "number": "015",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27738": {
     "number": "019",
@@ -16117,13 +16156,15 @@
     "number": "021",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "27741": {
     "number": "026",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "27742": {
     "number": "029",
@@ -16133,7 +16174,8 @@
   "27743": {
     "number": "030",
     "total": "034",
-    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）"
+    "product": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
+    "wide": false
   },
   "27744": {
     "number": "032",
@@ -17768,19 +17810,22 @@
     "number": "020",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ツタージャデッキ）",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "28032": {
     "number": "026",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28033": {
     "number": "029",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ツタージャデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28034": {
     "number": "031",
@@ -17860,13 +17905,15 @@
     "number": "025",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28049": {
     "number": "027",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ポカブデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28050": {
     "number": "031",
@@ -17940,13 +17987,15 @@
     "number": "016",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28064": {
     "number": "028",
     "total": "034",
     "product": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ミジュマルデッキ）",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "28065": {
     "number": "030",
@@ -30233,7 +30282,8 @@
     "number": "036",
     "total": "059",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「青い衝撃」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31347": {
     "number": "038",
@@ -30263,7 +30313,8 @@
     "number": "042",
     "total": "059",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「青い衝撃」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "31353": {
     "number": "044",
@@ -30383,7 +30434,8 @@
     "number": "005",
     "total": "059",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「赤い閃光」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "31375": {
     "number": "007",
@@ -30557,7 +30609,8 @@
     "number": "035",
     "total": "059",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「赤い閃光」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31405": {
     "number": "037",
@@ -30701,7 +30754,8 @@
     "number": "002",
     "total": "010",
     "product": "ポケモンカードゲームXY BREAK 進化パック「ライチュウBREAK」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31431": {
     "number": "004",
@@ -30743,7 +30797,8 @@
     "number": "001",
     "total": "010",
     "product": "ポケモンカードゲームXY BREAK 進化パック「オンバーンBREAK」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31440": {
     "number": "003",
@@ -30797,7 +30852,8 @@
     "number": "002",
     "total": "016",
     "product": "ポケモンカードゲームXY BREAK コンボデッキ60「ゴルダックBREAK+パルキアEX」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31451": {
     "number": "004",
@@ -31083,7 +31139,8 @@
     "number": "029",
     "total": "080",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "31503": {
     "number": "031",
@@ -31179,7 +31236,8 @@
     "number": "046",
     "total": "080",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31520": {
     "number": "048",
@@ -31287,7 +31345,8 @@
     "number": "065",
     "total": "080",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31539": {
     "number": "067",
@@ -32389,7 +32448,8 @@
     "number": "011",
     "total": "078",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "31747": {
     "number": "013",
@@ -32413,7 +32473,8 @@
     "number": "016",
     "total": "078",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31752": {
     "number": "018",
@@ -32599,7 +32660,8 @@
     "number": "048",
     "total": "078",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "31784": {
     "number": "050",
@@ -32653,7 +32715,8 @@
     "number": "058",
     "total": "078",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "31794": {
     "number": "060",
@@ -32796,7 +32859,8 @@
     "number": "007",
     "total": "019",
     "product": "ポケモンカードゲームXY BREAK パーフェクトバトルデッキ60「ジガルデEX」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "31821": {
     "number": "009",
@@ -33115,7 +33179,8 @@
     "number": "014",
     "total": "131",
     "product": "ポケモンカードゲームXY BREAK プレミアムチャンピオンパック「EX×M×BREAK」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "31881": {
     "number": "016",
@@ -33349,7 +33414,8 @@
     "number": "054",
     "total": "131",
     "product": "ポケモンカードゲームXY BREAK プレミアムチャンピオンパック「EX×M×BREAK」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "31921": {
     "number": "056",
@@ -33886,7 +33952,8 @@
     "number": "009",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「爆熱の闘士」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "32023": {
     "number": "011",
@@ -33940,7 +34007,8 @@
     "number": "019",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「爆熱の闘士」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "32033": {
     "number": "021",
@@ -34066,7 +34134,8 @@
     "number": "041",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「爆熱の闘士」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "32055": {
     "number": "043",
@@ -34174,7 +34243,8 @@
     "number": "007",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「冷酷の反逆者」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "32075": {
     "number": "009",
@@ -34324,7 +34394,8 @@
     "number": "033",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「冷酷の反逆者」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "32101": {
     "number": "035",
@@ -34372,7 +34443,8 @@
     "number": "042",
     "total": "054",
     "product": "ポケモンカードゲームXY BREAK 拡張パック「冷酷の反逆者」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "32110": {
     "number": "044",
@@ -34963,7 +35035,8 @@
     "number": "015",
     "total": "087",
     "product": "ポケモンカードゲームXY BREAK コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "32223": {
     "number": "017",
@@ -35041,7 +35114,8 @@
     "number": "029",
     "total": "087",
     "product": "ポケモンカードゲームXY BREAK コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "32237": {
     "number": "031",
@@ -35119,7 +35193,8 @@
     "number": "043",
     "total": "087",
     "product": "ポケモンカードゲームXY BREAK コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "32251": {
     "number": "045",
@@ -35197,7 +35272,8 @@
     "number": "057",
     "total": "087",
     "product": "ポケモンカードゲームXY BREAK コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
-    "stage": "2 進化"
+    "stage": "2 進化",
+    "wide": false
   },
   "32265": {
     "number": "059",
@@ -36866,7 +36942,8 @@
   "33189": {
     "number": "006",
     "total": "018",
-    "product": "「プレミアムトレーナーボックス」"
+    "product": "「プレミアムトレーナーボックス」",
+    "wide": false
   },
   "33190": {
     "product": "「プレミアムトレーナーボックス」"
@@ -39186,7 +39263,8 @@
     "number": "054",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33608": {
     "number": "056",
@@ -39252,7 +39330,8 @@
     "number": "066",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "33620": {
     "number": "068",
@@ -39294,7 +39373,8 @@
     "number": "074",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33628": {
     "number": "076",
@@ -39336,7 +39416,8 @@
     "number": "082",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33636": {
     "number": "084",
@@ -39414,7 +39495,8 @@
     "number": "096",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "33650": {
     "number": "098",
@@ -40016,7 +40098,8 @@
     "number": "054",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33761": {
     "number": "056",
@@ -40058,7 +40141,8 @@
     "number": "066",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "33768": {
     "number": "068",
@@ -40076,7 +40160,8 @@
     "number": "074",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33771": {
     "number": "077",
@@ -40106,7 +40191,8 @@
     "number": "082",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "33776": {
     "number": "084",
@@ -40154,7 +40240,8 @@
     "number": "096",
     "total": "171",
     "product": "ハイクラスパック「THE BEST OF XY」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "33784": {
     "number": "100",
@@ -44352,7 +44439,8 @@
   "34526": {
     "number": "012",
     "total": "020",
-    "product": "ポケモンカードゲーム サン&ムーン プレミアムトレーナーボックス ウルトラサン・ウルトラムーン"
+    "product": "ポケモンカードゲーム サン&ムーン プレミアムトレーナーボックス ウルトラサン・ウルトラムーン",
+    "wide": false
   },
   "34527": {
     "number": "013",
@@ -44953,7 +45041,8 @@
   "34636": {
     "number": "012",
     "total": "041",
-    "product": "ポケモンカードゲーム サン&ムーン デッキビルドBOX「ウルトラムーン」"
+    "product": "ポケモンカードゲーム サン&ムーン デッキビルドBOX「ウルトラムーン」",
+    "wide": false
   },
   "34637": {
     "number": "013",
@@ -60607,7 +60696,8 @@
     "number": "002",
     "total": "048",
     "product": "「エクストラレギュレーションBOX」",
-    "stage": "たね"
+    "stage": "たね",
+    "wide": false
   },
   "37393": {
     "number": "003",
@@ -60679,7 +60769,8 @@
     "number": "014",
     "total": "048",
     "product": "「エクストラレギュレーションBOX」",
-    "stage": "1 進化"
+    "stage": "1 進化",
+    "wide": false
   },
   "37405": {
     "number": "015",
@@ -60731,7 +60822,8 @@
   "37413": {
     "number": "023",
     "total": "048",
-    "product": "「エクストラレギュレーションBOX」"
+    "product": "「エクストラレギュレーションBOX」",
+    "wide": false
   },
   "37414": {
     "number": "024",
@@ -60756,7 +60848,8 @@
   "37418": {
     "number": "028",
     "total": "048",
-    "product": "「エクストラレギュレーションBOX」"
+    "product": "「エクストラレギュレーションBOX」",
+    "wide": false
   },
   "37419": {
     "number": "029",
@@ -60766,7 +60859,8 @@
   "37420": {
     "number": "030",
     "total": "048",
-    "product": "「エクストラレギュレーションBOX」"
+    "product": "「エクストラレギュレーションBOX」",
+    "wide": false
   },
   "37421": {
     "number": "031",
@@ -60791,7 +60885,8 @@
   "37425": {
     "number": "035",
     "total": "048",
-    "product": "「エクストラレギュレーションBOX」"
+    "product": "「エクストラレギュレーションBOX」",
+    "wide": false
   },
   "37426": {
     "number": "036",
@@ -74890,19 +74985,22 @@
     "number": "001",
     "total": "013",
     "product": "スペシャルカードセット ミュウツーV-UNION、ゲッコウガV-UNION、ザシアンV-UNION",
-    "stage": "V-UNION"
+    "stage": "V-UNION",
+    "wide": false
   },
   "39922": {
     "number": "005",
     "total": "013",
     "product": "スペシャルカードセット ミュウツーV-UNION、ゲッコウガV-UNION、ザシアンV-UNION",
-    "stage": "V-UNION"
+    "stage": "V-UNION",
+    "wide": false
   },
   "39923": {
     "number": "009",
     "total": "013",
     "product": "スペシャルカードセット ミュウツーV-UNION、ゲッコウガV-UNION、ザシアンV-UNION",
-    "stage": "V-UNION"
+    "stage": "V-UNION",
+    "wide": false
   },
   "39924": {
     "number": "013",
@@ -75877,7 +75975,8 @@
     "number": "025",
     "total": "028",
     "product": "拡張パック「25th ANNIVERSARY COLLECTION」",
-    "stage": "V-UNION"
+    "stage": "V-UNION",
+    "wide": false
   },
   "40091": {
     "product": "拡張パック「25th ANNIVERSARY COLLECTION」"
@@ -76543,7 +76642,8 @@
     "number": "056",
     "total": "184",
     "product": "ハイクラスパック「VMAXクライマックス」",
-    "stage": "V-UNION"
+    "stage": "V-UNION",
+    "wide": false
   },
   "40209": {
     "number": "060",
@@ -110828,17 +110928,20 @@
   "50409": {
     "number": "071",
     "total": "076",
-    "product": "拡張パック「ストームエメラルダ」"
+    "product": "拡張パック「ストームエメラルダ」",
+    "wide": true
   },
   "50410": {
     "number": "073",
     "total": "076",
-    "product": "拡張パック「ストームエメラルダ」"
+    "product": "拡張パック「ストームエメラルダ」",
+    "wide": true
   },
   "50411": {
     "number": "075",
     "total": "076",
-    "product": "拡張パック「ストームエメラルダ」"
+    "product": "拡張パック「ストームエメラルダ」",
+    "wide": true
   },
   "50412": {
     "number": "001",

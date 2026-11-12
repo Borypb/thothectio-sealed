@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "sets": [
     {
       "id": "584011",
@@ -7,7 +7,7 @@
       "code": "FB11",
       "count": 162,
       "file": "cards/dragonball-ja/584011.json",
-      "version": "e98b6d6d8b0f",
+      "version": "fb1f17913bef",
       "order": 27
     },
     {
@@ -16,7 +16,7 @@
       "code": "ST01",
       "count": 172,
       "file": "cards/dragonball-ja/584301.json",
-      "version": "cb543c0e9bee",
+      "version": "6b8745b7d320",
       "order": 26
     },
     {
@@ -25,7 +25,7 @@
       "code": "FB10",
       "count": 162,
       "file": "cards/dragonball-ja/584010.json",
-      "version": "dc99c1183aeb",
+      "version": "915e87e4fa04",
       "order": 25
     },
     {
@@ -34,7 +34,7 @@
       "code": "FB09",
       "count": 164,
       "file": "cards/dragonball-ja/584009.json",
-      "version": "10bd05d20e3a",
+      "version": "e74f23eeb772",
       "order": 24
     },
     {
@@ -43,7 +43,7 @@
       "code": "FB08",
       "count": 158,
       "file": "cards/dragonball-ja/584008.json",
-      "version": "4f075ad7aa3c",
+      "version": "f0261d5880e0",
       "order": 23
     },
     {
@@ -52,7 +52,7 @@
       "code": "SB02",
       "count": 177,
       "file": "cards/dragonball-ja/584202.json",
-      "version": "b6b654764670",
+      "version": "e029f73ef061",
       "order": 22
     },
     {
@@ -61,7 +61,7 @@
       "code": "FB07",
       "count": 158,
       "file": "cards/dragonball-ja/584007.json",
-      "version": "71abfa1e70a6",
+      "version": "f2d596835b3d",
       "order": 21
     },
     {
@@ -70,7 +70,7 @@
       "code": "SB01",
       "count": 177,
       "file": "cards/dragonball-ja/584201.json",
-      "version": "46f712205b21",
+      "version": "cfabaad62387",
       "order": 20
     },
     {
@@ -79,7 +79,7 @@
       "code": "FB06",
       "count": 143,
       "file": "cards/dragonball-ja/584006.json",
-      "version": "9b11c10c263f",
+      "version": "7e09ed1beabc",
       "order": 19
     },
     {
@@ -88,7 +88,7 @@
       "code": "FB05",
       "count": 154,
       "file": "cards/dragonball-ja/584005.json",
-      "version": "42c90f270a5a",
+      "version": "a0636989372c",
       "order": 18
     },
     {
@@ -97,7 +97,7 @@
       "code": "FB04",
       "count": 158,
       "file": "cards/dragonball-ja/584004.json",
-      "version": "19f885003093",
+      "version": "7c849dbd60e1",
       "order": 17
     },
     {
@@ -106,7 +106,7 @@
       "code": "FB03",
       "count": 163,
       "file": "cards/dragonball-ja/584003.json",
-      "version": "7557d2f33f9f",
+      "version": "aea46e3ce9a8",
       "order": 16
     },
     {
@@ -115,7 +115,7 @@
       "code": "FB02",
       "count": 163,
       "file": "cards/dragonball-ja/584002.json",
-      "version": "9dc0dbba564d",
+      "version": "8c7d717ccc65",
       "order": 15
     },
     {
@@ -124,7 +124,7 @@
       "code": "FB01",
       "count": 163,
       "file": "cards/dragonball-ja/584001.json",
-      "version": "66b3eda6fddf",
+      "version": "2453bd9aea56",
       "order": 14
     },
     {
@@ -133,7 +133,7 @@
       "code": "FS12",
       "count": 41,
       "file": "cards/dragonball-ja/584112.json",
-      "version": "1481dd9aa1e6",
+      "version": "bbc073aa04ff",
       "order": 13
     },
     {
@@ -142,7 +142,7 @@
       "code": "FS11",
       "count": 41,
       "file": "cards/dragonball-ja/584111.json",
-      "version": "b11189b5a3b4",
+      "version": "b8751d273b22",
       "order": 12
     },
     {
@@ -178,7 +178,7 @@
       "code": "FS07",
       "count": 22,
       "file": "cards/dragonball-ja/584107.json",
-      "version": "8a35386a0b62",
+      "version": "e76daf9d50af",
       "order": 8
     },
     {
@@ -205,7 +205,7 @@
       "code": "FS04",
       "count": 23,
       "file": "cards/dragonball-ja/584104.json",
-      "version": "842b3f8bdf87",
+      "version": "91579ebf0ed2",
       "order": 5
     },
     {
@@ -214,7 +214,7 @@
       "code": "FS03",
       "count": 23,
       "file": "cards/dragonball-ja/584103.json",
-      "version": "4288d425b35f",
+      "version": "208f093a04da",
       "order": 4
     },
     {
@@ -232,7 +232,7 @@
       "code": "FS01",
       "count": 23,
       "file": "cards/dragonball-ja/584101.json",
-      "version": "ff0085df1ffa",
+      "version": "f0a979170226",
       "order": 2
     },
     {
@@ -240,7 +240,7 @@
       "name": "プロモーションカード",
       "count": 620,
       "file": "cards/dragonball-ja/584901.json",
-      "version": "52f72a680e10",
+      "version": "214b1b39fa7c",
       "order": 1
     }
   ]

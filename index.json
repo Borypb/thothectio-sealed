@@ -1,6 +1,6 @@
 {
-  "version": 53,
-  "updatedAt": "2026-11-11",
+  "version": 54,
+  "updatedAt": "2026-11-12",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -44,8 +44,8 @@
       "files": {
         "en": {
           "file": "onepiece-en.json",
-          "version": 5,
-          "count": 313
+          "version": 6,
+          "count": 314
         }
       }
     },
@@ -80,8 +80,8 @@
       "files": {
         "en": {
           "file": "digimon-en.json",
-          "version": 4,
-          "count": 261
+          "version": 5,
+          "count": 263
         }
       }
     },
@@ -98,8 +98,8 @@
       "files": {
         "en": {
           "file": "riftbound-en.json",
-          "version": 2,
-          "count": 54
+          "version": 3,
+          "count": 55
         }
       }
     },
@@ -148,57 +148,57 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 394
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-11",
-      "count": 3193
+      "date": "2026-11-12",
+      "count": 3190
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-11",
-      "count": 962
+      "date": "2026-11-12",
+      "count": 961
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-11",
-      "count": 159
+      "date": "2026-11-12",
+      "count": 160
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 295
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-11",
-      "count": 71
+      "date": "2026-11-12",
+      "count": 72
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 17
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 18
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-11",
-      "count": 99
+      "date": "2026-11-12",
+      "count": 101
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 26
     }
   }

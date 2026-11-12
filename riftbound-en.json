@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "riftbound",
   "lang": "en",
   "products": [
@@ -91,6 +91,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/714486_200w.jpg",
       "source": {
         "tcgplayer": 714486
+      }
+    },
+    {
+      "id": "rb-en-tcp732649",
+      "game": "riftbound",
+      "kind": "bundle",
+      "name": "Riftbound x K/DA: Couture Collection (Sealed Promotional Bundle)",
+      "lang": "en",
+      "setIds": [
+        "rb-g24943"
+      ],
+      "releasedAt": "2026-11-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732649_200w.jpg",
+      "source": {
+        "tcgplayer": 732649
       }
     },
     {

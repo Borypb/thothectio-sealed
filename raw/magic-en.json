@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-11T14:40:25.123Z",
+  "harvestedAt": "2026-11-12T12:53:22.476Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -250,7 +250,7 @@
     "4": {
       "name": "9th Edition",
       "abbreviation": "9ED",
-      "modifiedOn": "2026-09-18T01:46:25.3",
+      "modifiedOn": "2026-11-11T01:52:46.733",
       "publishedOn": "2005-04-29",
       "setId": "mtg-9ed",
       "products": [
@@ -494,7 +494,7 @@
     "10": {
       "name": "Apocalypse",
       "abbreviation": "APC",
-      "modifiedOn": "2026-08-14T04:31:21.44",
+      "modifiedOn": "2026-11-11T01:59:38.073",
       "publishedOn": "2001-06-04",
       "setId": "mtg-apc",
       "products": [
@@ -1205,7 +1205,7 @@
     "28": {
       "name": "Dissension",
       "abbreviation": "DIS",
-      "modifiedOn": "2026-09-14T15:27:27.61",
+      "modifiedOn": "2026-11-11T01:25:20.513",
       "publishedOn": "2006-05-06",
       "setId": "mtg-dis",
       "products": [
@@ -1576,7 +1576,7 @@
     "43": {
       "name": "Fifth Dawn",
       "abbreviation": "5DN",
-      "modifiedOn": "2026-09-12T00:58:47.59",
+      "modifiedOn": "2026-11-11T01:57:33.807",
       "publishedOn": "2004-06-04",
       "setId": "mtg-5dn",
       "products": [
@@ -3050,7 +3050,7 @@
     "75": {
       "name": "Mirrodin",
       "abbreviation": "MRD",
-      "modifiedOn": "2026-09-12T03:04:23.363",
+      "modifiedOn": "2026-11-11T01:55:45.77",
       "publishedOn": "2003-10-03",
       "setId": "mtg-mrd",
       "products": [
@@ -3511,7 +3511,7 @@
     "80": {
       "name": "Odyssey",
       "abbreviation": "ODY",
-      "modifiedOn": "2026-10-01T05:19:18.207",
+      "modifiedOn": "2026-11-11T01:05:56.51",
       "publishedOn": "2001-10-01",
       "setId": "mtg-ody",
       "products": [
@@ -3907,7 +3907,7 @@
     "87": {
       "name": "Portal Second Age",
       "abbreviation": "P02",
-      "modifiedOn": "2026-10-16T19:41:56.55",
+      "modifiedOn": "2026-11-11T02:51:43.297",
       "publishedOn": "1998-06-08",
       "setId": "mtg-p02",
       "products": [
@@ -4134,7 +4134,7 @@
     "93": {
       "name": "Pro Tour Promos",
       "abbreviation": "PTP",
-      "modifiedOn": "2026-07-21T14:45:15.27",
+      "modifiedOn": "2026-11-11T01:14:35.347",
       "setId": "mtg-ppro",
       "products": []
     },
@@ -4328,7 +4328,7 @@
     "98": {
       "name": "Rise of the Eldrazi",
       "abbreviation": "ROE",
-      "modifiedOn": "2026-10-21T13:35:59.55",
+      "modifiedOn": "2026-11-11T03:42:56.94",
       "publishedOn": "2010-04-23",
       "setId": "mtg-roe",
       "products": [
@@ -5310,7 +5310,7 @@
     "115": {
       "name": "Unlimited Edition",
       "abbreviation": "2ED",
-      "modifiedOn": "2026-10-23T03:07:22.87",
+      "modifiedOn": "2026-11-11T01:23:42.243",
       "publishedOn": "1993-12-06",
       "setId": "mtg-2ed",
       "products": [
@@ -6032,7 +6032,7 @@
     "364": {
       "name": "Magic 2013 (M13)",
       "abbreviation": "M13",
-      "modifiedOn": "2026-10-23T20:24:18.627",
+      "modifiedOn": "2026-11-11T01:48:55.733",
       "publishedOn": "2012-07-13",
       "setId": "mtg-m13",
       "products": [
@@ -10413,7 +10413,7 @@
     "2198": {
       "name": "World Championship Decks",
       "abbreviation": "WCD",
-      "modifiedOn": "2026-10-02T13:57:34.59",
+      "modifiedOn": "2026-11-11T02:53:12.74",
       "products": [
         {
           "tcgplayerId": 158276,
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-09T18:12:31.14",
+      "modifiedOn": "2026-11-11T02:50:08.667",
       "setId": "mtg-sld",
       "products": [
         {
@@ -21816,14 +21816,14 @@
     "2714": {
       "name": "Art Series: Zendikar Rising",
       "abbreviation": "ASZNR",
-      "modifiedOn": "2026-07-30T15:33:20.657",
+      "modifiedOn": "2026-11-11T00:45:57.893",
       "publishedOn": "2020-09-25",
       "products": []
     },
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-10T17:18:38.38",
+      "modifiedOn": "2026-11-11T13:30:24.12",
       "products": []
     },
     "2716": {
@@ -24950,7 +24950,7 @@
     "3159": {
       "name": "Commander: The Brothers' War",
       "abbreviation": "BRC",
-      "modifiedOn": "2026-10-15T19:51:12.513",
+      "modifiedOn": "2026-11-11T01:07:33.403",
       "publishedOn": "2022-11-18",
       "setId": "mtg-brc",
       "products": [
@@ -24998,7 +24998,7 @@
     "3169": {
       "name": "Promo Pack: Dominaria United",
       "abbreviation": "PPDMU",
-      "modifiedOn": "2026-07-21T18:51:52.78",
+      "modifiedOn": "2026-11-11T01:17:04.507",
       "publishedOn": "2022-09-09",
       "products": []
     },
@@ -25181,7 +25181,7 @@
     "17665": {
       "name": "The Brothers' War: Retro Frame Artifacts",
       "abbreviation": "BRR",
-      "modifiedOn": "2026-10-21T13:22:05.017",
+      "modifiedOn": "2026-11-11T01:26:24.81",
       "publishedOn": "2022-11-18",
       "setId": "mtg-brr",
       "products": []
@@ -25222,7 +25222,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-11-10T19:08:05.273",
+      "modifiedOn": "2026-11-11T19:45:13.81",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -25852,7 +25852,7 @@
     "23019": {
       "name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
       "abbreviation": "LTR",
-      "modifiedOn": "2026-10-16T04:44:17.877",
+      "modifiedOn": "2026-11-11T00:44:46.407",
       "publishedOn": "2023-06-23",
       "setId": "mtg-ltr",
       "products": [
@@ -27559,7 +27559,7 @@
     "23444": {
       "name": "Modern Horizons 3",
       "abbreviation": "MH3",
-      "modifiedOn": "2026-10-26T20:05:28.247",
+      "modifiedOn": "2026-11-11T01:11:57.837",
       "publishedOn": "2024-06-14",
       "setId": "mtg-mh3",
       "products": [
@@ -28516,7 +28516,7 @@
     "23560": {
       "name": "Promo Pack: Bloomburrow",
       "abbreviation": "PPBLB",
-      "modifiedOn": "2026-07-30T21:17:13.31",
+      "modifiedOn": "2026-11-11T00:41:14.207",
       "publishedOn": "2024-08-02",
       "products": []
     },
@@ -28956,7 +28956,7 @@
     "23930": {
       "name": "Promo Pack: Aetherdrift",
       "abbreviation": "PPDFT",
-      "modifiedOn": "2026-09-19T16:28:36.797",
+      "modifiedOn": "2026-11-11T00:39:12.113",
       "publishedOn": "2025-02-14",
       "products": [
         {
@@ -28994,7 +28994,7 @@
     "24219": {
       "name": "FINAL FANTASY",
       "abbreviation": "FIN",
-      "modifiedOn": "2026-10-28T07:09:14.673",
+      "modifiedOn": "2026-11-11T00:48:31.26",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fin",
       "products": [
@@ -30017,7 +30017,7 @@
     "24267": {
       "name": "Promo Pack: Tarkir: Dragonstorm",
       "abbreviation": "PPTDM",
-      "modifiedOn": "2026-09-19T15:28:12.59",
+      "modifiedOn": "2026-11-11T01:56:36.58",
       "publishedOn": "2025-04-11",
       "products": [
         {
@@ -32044,7 +32044,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-11-10T19:41:17.71",
+      "modifiedOn": "2026-11-11T19:49:57.86",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -32191,7 +32191,7 @@
     "24877": {
       "name": "Promo Pack: Reality Fracture",
       "abbreviation": "PPFRA",
-      "modifiedOn": "2026-11-03T15:35:50.85",
+      "modifiedOn": "2026-11-11T15:41:05.073",
       "publishedOn": "2026-10-02",
       "products": [
         {

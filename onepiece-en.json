@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "onepiece",
   "lang": "en",
   "products": [
@@ -4144,6 +4144,18 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/731742_200w.jpg",
       "source": {
         "tcgplayer": 731742
+      }
+    },
+    {
+      "id": "op-en-tcp732640",
+      "game": "onepiece",
+      "kind": "booster",
+      "name": "Regional Participation Pack 2026 Vol. 1",
+      "lang": "en",
+      "releasedAt": "2022-09-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732640_200w.jpg",
+      "source": {
+        "tcgplayer": 732640
       }
     }
   ]

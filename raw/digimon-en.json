@@ -2,7 +2,7 @@
   "game": "digimon",
   "lang": "en",
   "categoryId": 63,
-  "harvestedAt": "2026-11-11T14:41:39.044Z",
+  "harvestedAt": "2026-11-12T12:57:12.903Z",
   "groups": {
     "2733": {
       "name": "Release Special Booster 1.0",
@@ -2203,7 +2203,7 @@
     "23414": {
       "name": "Infernal Ascension",
       "abbreviation": "EX-06",
-      "modifiedOn": "2026-11-10T15:31:24.793",
+      "modifiedOn": "2026-11-11T16:30:52.84",
       "publishedOn": "2024-06-28",
       "setId": "dgm-g23414",
       "products": [
@@ -2683,7 +2683,7 @@
     "24078": {
       "name": "Cyber Eden",
       "abbreviation": "BT-22",
-      "modifiedOn": "2026-06-01T13:35:37.193",
+      "modifiedOn": "2026-11-11T16:32:41.153",
       "publishedOn": "2025-07-25",
       "setId": "dgm-g24078",
       "products": [
@@ -2949,7 +2949,7 @@
     "24430": {
       "name": "Hackers' Slumber",
       "abbreviation": "BT-23",
-      "modifiedOn": "2026-11-09T18:30:47.167",
+      "modifiedOn": "2026-11-11T16:30:08.403",
       "publishedOn": "2025-10-24",
       "setId": "dgm-g24430",
       "products": [
@@ -3503,7 +3503,7 @@
     "24932": {
       "name": "Starter Deck 25: Rubeusdramon",
       "abbreviation": "BD01",
-      "modifiedOn": "2026-11-09T20:36:19.383",
+      "modifiedOn": "2026-11-11T16:48:53.91",
       "publishedOn": "2026-12-04",
       "setId": "dgm-g24932",
       "products": [
@@ -3528,10 +3528,27 @@
     "24941": {
       "name": "Limited Card Pack -Distancia Cero-",
       "abbreviation": "LM-09",
-      "modifiedOn": "2026-11-06T15:57:19.89",
+      "modifiedOn": "2026-11-11T16:15:44.847",
       "publishedOn": "2026-11-27",
       "setId": "dgm-g24941",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 732710,
+          "name": "Limited Card Pack -Distancia Cero- (Sealed Promotional Pack)",
+          "kind": "booster",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732710_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732710/digimon-card-game-limited-card-pack-distancia-cero-limited-card-pack-distancia-cero-sealed-promotional-pack"
+        },
+        {
+          "tcgplayerId": 732711,
+          "name": "Limited Card Pack -Distancia Cero- (Sealed Promotional Box)",
+          "kind": "booster",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732711_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732711/digimon-card-game-limited-card-pack-distancia-cero-limited-card-pack-distancia-cero-sealed-promotional-box"
+        }
+      ]
     }
   }
 }

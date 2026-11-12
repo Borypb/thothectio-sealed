@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "digimon",
   "lang": "en",
   "products": [
@@ -76,6 +76,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730029_200w.jpg",
       "source": {
         "tcgplayer": 730029
+      }
+    },
+    {
+      "id": "dgm-en-tcp732710",
+      "game": "digimon",
+      "kind": "booster",
+      "name": "Limited Card Pack -Distancia Cero- (Sealed Promotional Pack)",
+      "lang": "en",
+      "setIds": [
+        "dgm-g24941"
+      ],
+      "releasedAt": "2026-11-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732710_200w.jpg",
+      "source": {
+        "tcgplayer": 732710
+      }
+    },
+    {
+      "id": "dgm-en-tcp732711",
+      "game": "digimon",
+      "kind": "booster",
+      "name": "Limited Card Pack -Distancia Cero- (Sealed Promotional Box)",
+      "lang": "en",
+      "setIds": [
+        "dgm-g24941"
+      ],
+      "releasedAt": "2026-11-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732711_200w.jpg",
+      "source": {
+        "tcgplayer": 732711
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -2983,6 +2983,20 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715706_200w.jpg",
       "source": {
         "tcgplayer": 715706
+      }
+    },
+    {
+      "id": "pkm-en-tcp732872",
+      "kind": "other",
+      "name": "Kyogre - 117 (Pokemon Center Exclusive)",
+      "lang": "en",
+      "setIds": [
+        "pkm-mep"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732872_200w.jpg",
+      "source": {
+        "tcgplayer": 732872
       }
     },
     {

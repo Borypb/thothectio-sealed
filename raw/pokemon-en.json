@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-12T11:54:08.429Z",
+  "harvestedAt": "2026-11-13T11:37:40.187Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -535,7 +535,7 @@
     "1374": {
       "name": "Legendary Collection",
       "abbreviation": "LC",
-      "modifiedOn": "2026-09-23T01:21:27.493",
+      "modifiedOn": "2026-11-12T18:47:25.063",
       "publishedOn": "2002-05-24",
       "setCode": "lc",
       "products": [
@@ -757,7 +757,7 @@
     "1380": {
       "name": "Secret Wonders",
       "abbreviation": "SW",
-      "modifiedOn": "2026-08-05T22:10:45.743",
+      "modifiedOn": "2026-11-12T19:14:18.34",
       "publishedOn": "2007-11-07",
       "setCode": "dp3",
       "products": [
@@ -922,7 +922,7 @@
     "1385": {
       "name": "Noble Victories",
       "abbreviation": "NVI",
-      "modifiedOn": "2026-10-01T19:08:28.487",
+      "modifiedOn": "2026-11-12T15:27:54.687",
       "publishedOn": "2011-11-16",
       "setCode": "bw3",
       "products": [
@@ -3901,7 +3901,7 @@
     "1525": {
       "name": "Double Crisis",
       "abbreviation": "DCR",
-      "modifiedOn": "2026-07-20T19:23:47.967",
+      "modifiedOn": "2026-11-11T20:17:26.373",
       "publishedOn": "2015-03-25",
       "setCode": "dc1",
       "products": [
@@ -4167,7 +4167,7 @@
     "1539": {
       "name": "League & Championship Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-03T20:39:09.39",
+      "modifiedOn": "2026-11-12T19:11:37.113",
       "publishedOn": "2016-06-01",
       "products": []
     },
@@ -5061,7 +5061,7 @@
     "1729": {
       "name": "Generations: Radiant Collection",
       "abbreviation": "GEN",
-      "modifiedOn": "2026-09-10T16:46:02.777",
+      "modifiedOn": "2026-11-11T20:19:47.937",
       "publishedOn": "2016-02-22",
       "setCode": "rc",
       "products": []
@@ -5823,7 +5823,7 @@
     "1861": {
       "name": "SM Promos",
       "abbreviation": "SMP",
-      "modifiedOn": "2026-11-04T05:19:12.15",
+      "modifiedOn": "2026-11-11T20:18:18.183",
       "publishedOn": "2016-12-14",
       "setCode": "smp",
       "products": []
@@ -7821,7 +7821,7 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-11-10T12:57:02.713",
+      "modifiedOn": "2026-11-12T18:57:10.63",
       "products": []
     },
     "2295": {
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-11T15:14:33.227",
+      "modifiedOn": "2026-11-12T18:30:23.29",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13308,7 +13308,7 @@
     "2534": {
       "name": "SM - Cosmic Eclipse",
       "abbreviation": "SM12",
-      "modifiedOn": "2026-11-02T20:23:06.22",
+      "modifiedOn": "2026-11-11T20:21:30.87",
       "publishedOn": "2019-11-01",
       "setCode": "sm12",
       "products": [
@@ -13468,7 +13468,7 @@
     "2585": {
       "name": "SWSH01: Sword & Shield Base Set",
       "abbreviation": "SWSH01",
-      "modifiedOn": "2026-10-21T15:33:19.85",
+      "modifiedOn": "2026-11-11T20:16:08.17",
       "publishedOn": "2020-02-07",
       "setCode": "swsh1",
       "products": [
@@ -13781,7 +13781,7 @@
     "2626": {
       "name": "SWSH02: Rebel Clash",
       "abbreviation": "SWSH02",
-      "modifiedOn": "2026-11-02T13:58:24.407",
+      "modifiedOn": "2026-11-12T18:38:09.743",
       "publishedOn": "2020-05-01",
       "setCode": "swsh2",
       "products": [
@@ -18058,7 +18058,7 @@
     },
     "22880": {
       "name": "Prize Pack Series Cards",
-      "modifiedOn": "2026-10-28T05:22:20.777",
+      "modifiedOn": "2026-11-12T18:54:35.68",
       "publishedOn": "2022-11-30",
       "products": [
         {
@@ -19647,7 +19647,7 @@
     "23473": {
       "name": "SV06: Twilight Masquerade",
       "abbreviation": "TWM",
-      "modifiedOn": "2026-10-15T20:11:12.313",
+      "modifiedOn": "2026-11-11T20:19:05.853",
       "publishedOn": "2024-05-24",
       "setCode": "sv06",
       "products": [
@@ -22017,10 +22017,19 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-11T13:29:11.283",
+      "modifiedOn": "2026-11-12T19:29:19.243",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 732872,
+          "name": "Kyogre - 117 (Pokemon Center Exclusive)",
+          "kind": "other",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732872_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732872/pokemon-me-mega-evolution-promo-kyogre-117-pokemon-center-exclusive"
+        }
+      ]
     },
     "24461": {
       "name": "MEE: Mega Evolution Energies",
@@ -22045,7 +22054,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-11-02T21:17:05.493",
+      "modifiedOn": "2026-11-12T18:32:39.117",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [

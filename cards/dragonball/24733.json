@@ -13,7 +13,7 @@
         {
           "sub": "Normal",
           "usd": 2.6,
-          "low": 0.75,
+          "low": 0.5,
           "mid": 1.92
         }
       ],
@@ -49,7 +49,7 @@
         {
           "sub": "Normal",
           "usd": 0.98,
-          "low": 0.5,
+          "low": 0.45,
           "mid": 0.98
         }
       ],
@@ -139,7 +139,7 @@
         {
           "sub": "Normal",
           "usd": 2.96,
-          "low": 1.75,
+          "low": 1.5,
           "mid": 2.96
         }
       ],
@@ -157,7 +157,7 @@
         {
           "sub": "Normal",
           "usd": 2.87,
-          "low": 1,
+          "low": 0.95,
           "mid": 1.99
         }
       ],
@@ -175,7 +175,7 @@
         {
           "sub": "Normal",
           "usd": 2.29,
-          "low": 1.95,
+          "low": 1.5,
           "mid": 2.29
         }
       ],
@@ -229,7 +229,7 @@
         {
           "sub": "Normal",
           "usd": 1,
-          "low": 0.5,
+          "low": 0.45,
           "mid": 1
         }
       ],
@@ -474,7 +474,7 @@
         {
           "sub": "Normal",
           "usd": 1,
-          "low": 0.44,
+          "low": 0.39,
           "mid": 1
         }
       ],
@@ -492,7 +492,7 @@
         {
           "sub": "Normal",
           "usd": 1.45,
-          "low": 0.8,
+          "low": 0.5,
           "mid": 1.5
         }
       ],
@@ -564,7 +564,7 @@
         {
           "sub": "Normal",
           "usd": 2.49,
-          "low": 1.9,
+          "low": 1.5,
           "mid": 2.49
         }
       ],
@@ -582,8 +582,8 @@
         {
           "sub": "Normal",
           "usd": 2.65,
-          "low": 1.95,
-          "mid": 2.51
+          "low": 1.5,
+          "mid": 2.49
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700847_200w.jpg"
@@ -618,8 +618,8 @@
         {
           "sub": "Normal",
           "usd": 2.83,
-          "low": 1,
-          "mid": 2.49
+          "low": 0.75,
+          "mid": 2.42
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700849_200w.jpg"
@@ -690,7 +690,7 @@
         {
           "sub": "Normal",
           "usd": 1.74,
-          "low": 0.74,
+          "low": 0.49,
           "mid": 1.74
         }
       ],
@@ -906,7 +906,7 @@
         {
           "sub": "Normal",
           "usd": 1.25,
-          "low": 0.75,
+          "low": 0.5,
           "mid": 1.25
         }
       ],
@@ -978,8 +978,8 @@
         {
           "sub": "Normal",
           "usd": 2,
-          "low": 1.5,
-          "mid": 2
+          "low": 1,
+          "mid": 1.9
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700869_200w.jpg"
@@ -996,8 +996,8 @@
         {
           "sub": "Normal",
           "usd": 2.99,
-          "low": 2.4,
-          "mid": 2.96
+          "low": 2,
+          "mid": 2.85
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700870_200w.jpg"
@@ -1015,7 +1015,7 @@
           "sub": "Normal",
           "usd": 2.3,
           "low": 2,
-          "mid": 2.31
+          "mid": 2.48
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700871_200w.jpg"
@@ -1032,7 +1032,7 @@
         {
           "sub": "Normal",
           "usd": 0.88,
-          "low": 0.5,
+          "low": 0.45,
           "mid": 0.99
         }
       ],
@@ -1050,7 +1050,7 @@
         {
           "sub": "Normal",
           "usd": 1.37,
-          "low": 0.5,
+          "low": 0.45,
           "mid": 1
         }
       ],
@@ -1085,9 +1085,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.54,
-          "low": 2.2,
-          "mid": 2.54
+          "usd": 2.5,
+          "low": 2,
+          "mid": 2.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700875_200w.jpg"
@@ -1122,8 +1122,8 @@
         {
           "sub": "Normal",
           "usd": 3.35,
-          "low": 1,
-          "mid": 2.4
+          "low": 0.75,
+          "mid": 2.3
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700877_200w.jpg"
@@ -1140,8 +1140,8 @@
         {
           "sub": "Normal",
           "usd": 6.13,
-          "low": 3.5,
-          "mid": 5.04
+          "low": 2.99,
+          "mid": 4.99
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700878_200w.jpg"
@@ -1158,7 +1158,7 @@
         {
           "sub": "Normal",
           "usd": 2.48,
-          "low": 1.95,
+          "low": 1.75,
           "mid": 2.48
         }
       ],
@@ -1176,7 +1176,7 @@
         {
           "sub": "Normal",
           "usd": 1.64,
-          "low": 1.2,
+          "low": 1,
           "mid": 1.34
         }
       ],
@@ -1229,7 +1229,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.84,
+          "usd": 4.72,
           "low": 3,
           "mid": 4.72
         }
@@ -1267,7 +1267,7 @@
           "sub": "Normal",
           "usd": 3.95,
           "low": 1.69,
-          "mid": 3.28
+          "mid": 3.27
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700885_200w.jpg"
@@ -1284,7 +1284,7 @@
         {
           "sub": "Normal",
           "usd": 1,
-          "low": 0.49,
+          "low": 0.44,
           "mid": 1
         }
       ],
@@ -1320,8 +1320,8 @@
         {
           "sub": "Normal",
           "usd": 2.54,
-          "low": 1.99,
-          "mid": 2.54
+          "low": 1.74,
+          "mid": 2.53
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700888_200w.jpg"
@@ -1345,5 +1345,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/700889_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-12"
+  "pricesAt": "2026-11-13"
 }

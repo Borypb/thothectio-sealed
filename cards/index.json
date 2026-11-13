@@ -420,30 +420,30 @@
           "name": "Blazing Aura Release Event Cards",
           "code": "FB02_PR",
           "releasedAt": "2024-05-03",
-          "modifiedOn": "2026-11-10T15:49:49.187",
+          "modifiedOn": "2026-11-12T19:35:43.56",
           "count": 92,
           "file": "cards/dragonball/23471.json",
-          "version": "21787178496a"
+          "version": "c2128db4ce75"
         },
         {
           "groupId": 23401,
           "name": "Awakened Pulse",
           "code": "FB01",
           "releasedAt": "2024-02-23",
-          "modifiedOn": "2026-11-10T15:45:37.59",
+          "modifiedOn": "2026-11-11T20:53:37.71",
           "count": 164,
           "file": "cards/dragonball/23401.json",
-          "version": "604bf8789d16"
+          "version": "dbb2c1171a6c"
         },
         {
           "groupId": 23407,
           "name": "Awakened Pulse Pre-Release Cards",
           "code": "FB01_PR",
           "releasedAt": "2024-02-16",
-          "modifiedOn": "2026-11-10T15:46:08.393",
+          "modifiedOn": "2026-11-12T19:12:52.747",
           "count": 88,
           "file": "cards/dragonball/23407.json",
-          "version": "297a51404baf"
+          "version": "a13fc9783540"
         },
         {
           "groupId": 23408,
@@ -1647,7 +1647,7 @@
           "name": "Riftbound x K/DA: Couture Collection",
           "code": "RXK/DA",
           "releasedAt": "2026-11-11",
-          "modifiedOn": "2026-11-11T14:57:30.16",
+          "modifiedOn": "2026-11-12T19:03:23.687",
           "count": 5,
           "file": "cards/riftbound/24943.json",
           "version": "fb8a130cbff6"
@@ -1657,10 +1657,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-11-11T14:19:44.76",
-          "count": 246,
+          "modifiedOn": "2026-11-12T19:17:41.84",
+          "count": 247,
           "file": "cards/riftbound/24819.json",
-          "version": "0c145b14bbf6"
+          "version": "3bb6bd1b5d30"
         },
         {
           "groupId": 24861,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-12"
+  "updatedAt": "2026-11-13"
 }

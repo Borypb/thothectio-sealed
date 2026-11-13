@@ -2,12 +2,12 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-12T12:53:22.476Z",
+  "harvestedAt": "2026-11-13T12:20:48.339Z",
   "groups": {
     "1": {
       "name": "10th Edition",
       "abbreviation": "10E",
-      "modifiedOn": "2026-11-10T02:47:13.663",
+      "modifiedOn": "2026-11-12T14:36:46.133",
       "publishedOn": "2007-07-13",
       "setId": "mtg-10e",
       "products": [
@@ -153,7 +153,7 @@
     "3": {
       "name": "8th Edition",
       "abbreviation": "8ED",
-      "modifiedOn": "2026-10-07T04:36:27.177",
+      "modifiedOn": "2026-11-12T14:55:16.35",
       "publishedOn": "2003-04-28",
       "setId": "mtg-8ed",
       "products": [
@@ -698,7 +698,7 @@
     "18": {
       "name": "Betrayers of Kamigawa",
       "abbreviation": "BOK",
-      "modifiedOn": "2026-09-11T23:21:18.653",
+      "modifiedOn": "2026-11-12T18:25:25.92",
       "publishedOn": "2005-02-04",
       "setId": "mtg-bok",
       "products": [
@@ -776,7 +776,7 @@
     "20": {
       "name": "Champions of Kamigawa",
       "abbreviation": "CHK",
-      "modifiedOn": "2026-11-09T13:46:44.053",
+      "modifiedOn": "2026-11-12T17:28:22.927",
       "publishedOn": "2004-10-01",
       "setId": "mtg-chk",
       "products": [
@@ -1262,7 +1262,7 @@
     "30": {
       "name": "Duel Decks: Ajani vs. Nicol Bolas",
       "abbreviation": "DDH",
-      "modifiedOn": "2026-10-22T19:58:08.56",
+      "modifiedOn": "2026-11-12T15:57:43.377",
       "publishedOn": "2011-09-02",
       "setId": "mtg-ddh",
       "products": [
@@ -1313,7 +1313,7 @@
     "33": {
       "name": "Duel Decks: Elves vs. Goblins",
       "abbreviation": "EVG",
-      "modifiedOn": "2026-09-10T16:12:47.533",
+      "modifiedOn": "2026-11-12T14:30:17.26",
       "publishedOn": "2007-11-16",
       "setId": "mtg-evg",
       "products": [
@@ -2024,7 +2024,7 @@
     "58": {
       "name": "Ice Age",
       "abbreviation": "ICE",
-      "modifiedOn": "2026-09-22T23:15:05.137",
+      "modifiedOn": "2026-11-12T18:45:31.91",
       "publishedOn": "1995-06-12",
       "setId": "mtg-ice",
       "products": [
@@ -2857,7 +2857,7 @@
     "72": {
       "name": "Media Promos",
       "abbreviation": "MEDIA",
-      "modifiedOn": "2026-10-13T16:51:04.517",
+      "modifiedOn": "2026-11-12T14:49:47.627",
       "products": [
         {
           "tcgplayerId": 70795,
@@ -3050,7 +3050,7 @@
     "75": {
       "name": "Mirrodin",
       "abbreviation": "MRD",
-      "modifiedOn": "2026-11-11T01:55:45.77",
+      "modifiedOn": "2026-11-12T17:26:48.207",
       "publishedOn": "2003-10-03",
       "setId": "mtg-mrd",
       "products": [
@@ -4128,7 +4128,7 @@
     "92": {
       "name": "Prerelease Cards",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-10-13T02:37:10.983",
+      "modifiedOn": "2026-11-12T14:45:37.69",
       "products": []
     },
     "93": {
@@ -4328,7 +4328,7 @@
     "98": {
       "name": "Rise of the Eldrazi",
       "abbreviation": "ROE",
-      "modifiedOn": "2026-11-11T03:42:56.94",
+      "modifiedOn": "2026-11-12T18:21:39.82",
       "publishedOn": "2010-04-23",
       "setId": "mtg-roe",
       "products": [
@@ -6784,7 +6784,7 @@
     "1111": {
       "name": "Modern Masters",
       "abbreviation": "MMA",
-      "modifiedOn": "2026-09-19T18:03:51.1",
+      "modifiedOn": "2026-11-12T14:21:34.373",
       "publishedOn": "2013-06-07",
       "setId": "mtg-mma",
       "products": [
@@ -6809,7 +6809,7 @@
     "1113": {
       "name": "Magic 2014 (M14)",
       "abbreviation": "M14",
-      "modifiedOn": "2026-08-08T02:50:23.983",
+      "modifiedOn": "2026-11-12T18:18:06.527",
       "publishedOn": "2013-07-19",
       "setId": "mtg-m14",
       "products": [
@@ -7117,7 +7117,7 @@
     "1163": {
       "name": "Unique and Miscellaneous Promos",
       "abbreviation": "UMP",
-      "modifiedOn": "2026-11-06T14:59:16.79",
+      "modifiedOn": "2026-11-12T14:38:40.107",
       "products": [
         {
           "tcgplayerId": 217567,
@@ -7201,7 +7201,7 @@
     "1164": {
       "name": "Commander 2013",
       "abbreviation": "C13",
-      "modifiedOn": "2026-09-09T20:08:49.41",
+      "modifiedOn": "2026-11-12T14:20:14.387",
       "publishedOn": "2013-11-01",
       "setId": "mtg-c13",
       "products": [
@@ -7412,7 +7412,7 @@
     "1275": {
       "name": "Anthologies",
       "abbreviation": "ATH",
-      "modifiedOn": "2026-07-24T11:17:43.003",
+      "modifiedOn": "2026-11-12T14:33:34.47",
       "publishedOn": "1998-11-02",
       "setId": "mtg-ath",
       "products": [
@@ -10173,7 +10173,7 @@
     "2084": {
       "name": "Gift Boxes and Promos",
       "abbreviation": "GBP",
-      "modifiedOn": "2026-05-22T00:01:59.637",
+      "modifiedOn": "2026-11-12T18:29:36.373",
       "publishedOn": "2017-10-20",
       "products": [
         {
@@ -10259,7 +10259,7 @@
     "2092": {
       "name": "Unstable",
       "abbreviation": "UST",
-      "modifiedOn": "2026-09-14T13:02:28.097",
+      "modifiedOn": "2026-11-12T14:53:50.553",
       "publishedOn": "2017-12-08",
       "setId": "mtg-ust",
       "products": [
@@ -11272,7 +11272,7 @@
     "2250": {
       "name": "Core Set 2019",
       "abbreviation": "M19",
-      "modifiedOn": "2026-09-15T12:45:43.537",
+      "modifiedOn": "2026-11-12T18:11:58.143",
       "publishedOn": "2018-07-13",
       "setId": "mtg-m19",
       "products": [
@@ -11692,7 +11692,7 @@
     "2360": {
       "name": "Ultimate Masters",
       "abbreviation": "UMA",
-      "modifiedOn": "2026-09-15T15:28:56.603",
+      "modifiedOn": "2026-11-12T14:16:22.96",
       "publishedOn": "2018-12-07",
       "setId": "mtg-uma",
       "products": [
@@ -11901,7 +11901,7 @@
     "2376": {
       "name": "MagicFest Cards",
       "abbreviation": "MFP",
-      "modifiedOn": "2026-11-05T15:03:24.56",
+      "modifiedOn": "2026-11-12T18:08:39.45",
       "products": []
     },
     "2379": {
@@ -12029,7 +12029,7 @@
     "2418": {
       "name": "War of the Spark",
       "abbreviation": "WAR",
-      "modifiedOn": "2026-09-19T15:18:59.95",
+      "modifiedOn": "2026-11-12T18:52:52.213",
       "publishedOn": "2019-05-03",
       "setId": "mtg-war",
       "products": [
@@ -12158,7 +12158,7 @@
     "2422": {
       "name": "Modern Horizons",
       "abbreviation": "MH1",
-      "modifiedOn": "2026-10-07T22:48:55.57",
+      "modifiedOn": "2026-11-12T16:21:41.603",
       "publishedOn": "2019-06-14",
       "setId": "mtg-mh1",
       "products": [
@@ -12704,7 +12704,7 @@
     "2568": {
       "name": "Theros Beyond Death",
       "abbreviation": "THB",
-      "modifiedOn": "2026-09-18T03:20:17.287",
+      "modifiedOn": "2026-11-12T15:59:58.94",
       "publishedOn": "2020-01-24",
       "setId": "mtg-thb",
       "products": [
@@ -12873,7 +12873,7 @@
     "2570": {
       "name": "Mystery Booster: Convention Edition Exclusives",
       "abbreviation": "CMB1",
-      "modifiedOn": "2026-10-19T15:47:21.087",
+      "modifiedOn": "2026-11-12T17:06:27.19",
       "publishedOn": "2019-11-07",
       "setId": "mtg-cmb1",
       "products": [
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-11T02:50:08.667",
+      "modifiedOn": "2026-11-12T15:12:00.427",
       "setId": "mtg-sld",
       "products": [
         {
@@ -21678,7 +21678,7 @@
     "2708": {
       "name": "Commander Legends",
       "abbreviation": "CMR",
-      "modifiedOn": "2026-10-26T19:42:21.76",
+      "modifiedOn": "2026-11-12T14:55:27.677",
       "publishedOn": "2020-11-20",
       "setId": "mtg-cmr",
       "products": [
@@ -21823,7 +21823,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-11T13:30:24.12",
+      "modifiedOn": "2026-11-12T18:54:03.28",
       "products": []
     },
     "2716": {
@@ -21886,7 +21886,7 @@
     "2750": {
       "name": "Kaldheim",
       "abbreviation": "KHM",
-      "modifiedOn": "2026-10-21T16:20:05.297",
+      "modifiedOn": "2026-11-12T17:16:03.323",
       "publishedOn": "2021-02-05",
       "setId": "mtg-khm",
       "products": [
@@ -22118,7 +22118,7 @@
     "2772": {
       "name": "Time Spiral: Remastered",
       "abbreviation": "TSR",
-      "modifiedOn": "2026-09-15T13:18:40.593",
+      "modifiedOn": "2026-11-12T15:55:57.013",
       "publishedOn": "2021-03-21",
       "setId": "mtg-tsr",
       "products": [
@@ -22377,7 +22377,7 @@
     "2801": {
       "name": "Commander 2021",
       "abbreviation": "C21",
-      "modifiedOn": "2026-09-22T23:12:16.47",
+      "modifiedOn": "2026-11-12T16:52:28.42",
       "publishedOn": "2021-04-23",
       "setId": "mtg-c21",
       "products": [
@@ -22488,7 +22488,7 @@
     "2809": {
       "name": "Modern Horizons 2",
       "abbreviation": "MH2",
-      "modifiedOn": "2026-10-01T17:42:50.58",
+      "modifiedOn": "2026-11-12T14:23:41.917",
       "publishedOn": "2021-06-19",
       "setId": "mtg-mh2",
       "products": [
@@ -22624,7 +22624,7 @@
     "2823": {
       "name": "Adventures in the Forgotten Realms",
       "abbreviation": "AFR",
-      "modifiedOn": "2026-10-23T20:15:03.66",
+      "modifiedOn": "2026-11-12T18:17:59.567",
       "publishedOn": "2021-07-23",
       "setId": "mtg-afr",
       "products": [
@@ -23042,7 +23042,7 @@
     "2864": {
       "name": "Innistrad: Midnight Hunt",
       "abbreviation": "MID",
-      "modifiedOn": "2026-10-21T13:29:05.94",
+      "modifiedOn": "2026-11-12T19:29:22.953",
       "publishedOn": "2021-09-24",
       "setId": "mtg-mid",
       "products": [
@@ -23489,7 +23489,7 @@
     "2958": {
       "name": "Unfinity",
       "abbreviation": "UNF",
-      "modifiedOn": "2026-11-10T14:50:53.863",
+      "modifiedOn": "2026-11-12T18:26:41.037",
       "publishedOn": "2022-07-29",
       "setId": "mtg-unf",
       "products": [
@@ -23834,7 +23834,7 @@
     "3026": {
       "name": "Streets of New Capenna",
       "abbreviation": "SNC",
-      "modifiedOn": "2026-11-09T13:53:56.013",
+      "modifiedOn": "2026-11-12T16:07:22.913",
       "publishedOn": "2022-04-29",
       "setId": "mtg-snc",
       "products": [
@@ -24377,7 +24377,7 @@
     "3070": {
       "name": "Double Masters 2022",
       "abbreviation": "2X2",
-      "modifiedOn": "2026-10-28T17:36:33.88",
+      "modifiedOn": "2026-11-12T17:21:47.487",
       "publishedOn": "2022-07-08",
       "setId": "mtg-2x2",
       "products": [
@@ -24458,7 +24458,7 @@
     "3079": {
       "name": "Universes Beyond: Warhammer 40,000",
       "abbreviation": "40K",
-      "modifiedOn": "2026-10-21T13:42:37.89",
+      "modifiedOn": "2026-11-12T14:40:10.663",
       "publishedOn": "2022-10-07",
       "setId": "mtg-40k",
       "products": [
@@ -25181,7 +25181,7 @@
     "17665": {
       "name": "The Brothers' War: Retro Frame Artifacts",
       "abbreviation": "BRR",
-      "modifiedOn": "2026-11-11T01:26:24.81",
+      "modifiedOn": "2026-11-12T14:27:46.937",
       "publishedOn": "2022-11-18",
       "setId": "mtg-brr",
       "products": []
@@ -25222,7 +25222,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-11-11T19:45:13.81",
+      "modifiedOn": "2026-11-12T18:49:29.74",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -25320,7 +25320,7 @@
     "17684": {
       "name": "Phyrexia: All Will Be One",
       "abbreviation": "ONE",
-      "modifiedOn": "2026-11-09T13:53:16.047",
+      "modifiedOn": "2026-11-12T18:23:59.49",
       "publishedOn": "2023-02-03",
       "setId": "mtg-one",
       "products": [
@@ -25473,7 +25473,7 @@
     "17685": {
       "name": "Commander: Phyrexia: All Will Be One",
       "abbreviation": "ONC",
-      "modifiedOn": "2026-09-18T13:59:12.55",
+      "modifiedOn": "2026-11-12T18:19:47.357",
       "publishedOn": "2023-02-03",
       "setId": "mtg-onc",
       "products": [
@@ -25506,7 +25506,7 @@
     "22875": {
       "name": "March of the Machine",
       "abbreviation": "MOM",
-      "modifiedOn": "2026-11-09T14:13:59.213",
+      "modifiedOn": "2026-11-12T17:20:38.203",
       "publishedOn": "2023-04-14",
       "setId": "mtg-mom",
       "products": [
@@ -26173,7 +26173,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-11-09T21:44:08.16",
+      "modifiedOn": "2026-11-12T16:05:12.877",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -26404,7 +26404,7 @@
     "23163": {
       "name": "Wilds of Eldraine",
       "abbreviation": "WOE",
-      "modifiedOn": "2026-10-01T15:29:21.66",
+      "modifiedOn": "2026-11-12T17:12:39.88",
       "publishedOn": "2023-09-08",
       "setId": "mtg-woe",
       "products": [
@@ -26684,7 +26684,7 @@
     "23273": {
       "name": "Wilds of Eldraine: Enchanting Tales",
       "abbreviation": "WOT",
-      "modifiedOn": "2026-10-10T04:05:19.367",
+      "modifiedOn": "2026-11-12T17:13:38.893",
       "publishedOn": "2023-09-08",
       "setId": "mtg-wot",
       "products": []
@@ -26940,7 +26940,7 @@
     "23319": {
       "name": "Ravnica Remastered",
       "abbreviation": "RVR",
-      "modifiedOn": "2026-10-29T20:55:09.843",
+      "modifiedOn": "2026-11-12T16:38:02.427",
       "publishedOn": "2024-01-12",
       "setId": "mtg-rvr",
       "products": [
@@ -27021,7 +27021,7 @@
     "23337": {
       "name": "Universes Beyond: Fallout",
       "abbreviation": "PIP",
-      "modifiedOn": "2026-10-21T17:15:17.543",
+      "modifiedOn": "2026-11-12T17:23:50.553",
       "publishedOn": "2024-03-08",
       "setId": "mtg-pip",
       "products": [
@@ -27132,7 +27132,7 @@
     "23361": {
       "name": "Murders at Karlov Manor",
       "abbreviation": "MKM",
-      "modifiedOn": "2026-11-04T05:36:10.86",
+      "modifiedOn": "2026-11-12T15:16:21.723",
       "publishedOn": "2024-02-09",
       "setId": "mtg-mkm",
       "products": [
@@ -27349,7 +27349,7 @@
     "23439": {
       "name": "Outlaws of Thunder Junction",
       "abbreviation": "OTJ",
-      "modifiedOn": "2026-11-03T04:21:39.91",
+      "modifiedOn": "2026-11-12T15:04:41.333",
       "publishedOn": "2024-04-19",
       "setId": "mtg-otj",
       "products": [
@@ -27559,7 +27559,7 @@
     "23444": {
       "name": "Modern Horizons 3",
       "abbreviation": "MH3",
-      "modifiedOn": "2026-11-11T01:11:57.837",
+      "modifiedOn": "2026-11-12T16:28:18.603",
       "publishedOn": "2024-06-14",
       "setId": "mtg-mh3",
       "products": [
@@ -27898,7 +27898,7 @@
     "23447": {
       "name": "Bloomburrow",
       "abbreviation": "BLB",
-      "modifiedOn": "2026-10-28T13:40:51.887",
+      "modifiedOn": "2026-11-12T16:49:10.547",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blb",
       "products": [
@@ -28059,7 +28059,7 @@
     "23448": {
       "name": "Commander: Bloomburrow",
       "abbreviation": "BLC",
-      "modifiedOn": "2026-11-09T15:33:02.277",
+      "modifiedOn": "2026-11-12T15:01:10.707",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blc",
       "products": [
@@ -28185,7 +28185,7 @@
     "23550": {
       "name": "Duskmourn: House of Horror",
       "abbreviation": "DSK",
-      "modifiedOn": "2026-10-20T14:34:40.507",
+      "modifiedOn": "2026-11-12T14:35:22.337",
       "publishedOn": "2024-09-27",
       "setId": "mtg-dsk",
       "products": [
@@ -28379,7 +28379,7 @@
     "23556": {
       "name": "Foundations",
       "abbreviation": "FDN",
-      "modifiedOn": "2026-11-10T02:50:07.507",
+      "modifiedOn": "2026-11-12T17:10:35.867",
       "publishedOn": "2024-11-15",
       "setId": "mtg-fdn",
       "products": [
@@ -28608,7 +28608,7 @@
     "23792": {
       "name": "Foundations Jumpstart",
       "abbreviation": "J25",
-      "modifiedOn": "2026-11-09T13:54:31.343",
+      "modifiedOn": "2026-11-12T16:03:06.353",
       "publishedOn": "2024-11-15",
       "setId": "mtg-j25",
       "products": [
@@ -28705,7 +28705,7 @@
     "23848": {
       "name": "Innistrad Remastered",
       "abbreviation": "INR",
-      "modifiedOn": "2026-11-09T19:34:13.39",
+      "modifiedOn": "2026-11-12T17:29:19.01",
       "publishedOn": "2025-01-24",
       "setId": "mtg-inr",
       "products": [
@@ -28786,7 +28786,7 @@
     "23874": {
       "name": "Aetherdrift",
       "abbreviation": "DFT",
-      "modifiedOn": "2026-10-21T13:41:11.267",
+      "modifiedOn": "2026-11-12T14:30:12.97",
       "publishedOn": "2025-02-14",
       "setId": "mtg-dft",
       "products": [
@@ -28931,7 +28931,7 @@
     "23929": {
       "name": "Commander: Aetherdrift",
       "abbreviation": "DRC",
-      "modifiedOn": "2026-10-26T20:08:34.6",
+      "modifiedOn": "2026-11-12T14:59:57.083",
       "publishedOn": "2025-02-14",
       "setId": "mtg-drc",
       "products": [
@@ -28956,7 +28956,7 @@
     "23930": {
       "name": "Promo Pack: Aetherdrift",
       "abbreviation": "PPDFT",
-      "modifiedOn": "2026-11-11T00:39:12.113",
+      "modifiedOn": "2026-11-12T18:20:20.347",
       "publishedOn": "2025-02-14",
       "products": [
         {
@@ -29299,7 +29299,7 @@
     "24220": {
       "name": "Commander: FINAL FANTASY",
       "abbreviation": "FIC",
-      "modifiedOn": "2026-10-26T13:08:29.41",
+      "modifiedOn": "2026-11-12T18:23:17.55",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fic",
       "products": [
@@ -29436,7 +29436,7 @@
     "24226": {
       "name": "FINAL FANTASY: Through the Ages",
       "abbreviation": "FCA",
-      "modifiedOn": "2026-10-28T07:08:09.21",
+      "modifiedOn": "2026-11-12T16:16:33.843",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fca",
       "products": []
@@ -29444,7 +29444,7 @@
     "24232": {
       "name": "Tarkir: Dragonstorm",
       "abbreviation": "TDM",
-      "modifiedOn": "2026-10-29T06:16:10.257",
+      "modifiedOn": "2026-11-12T15:23:02.027",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdm",
       "products": [
@@ -29597,7 +29597,7 @@
     "24233": {
       "name": "Edge of Eternities",
       "abbreviation": "EOE",
-      "modifiedOn": "2026-10-26T19:51:43.97",
+      "modifiedOn": "2026-11-12T17:19:38.237",
       "publishedOn": "2025-08-01",
       "setId": "mtg-eoe",
       "products": [
@@ -29718,7 +29718,7 @@
     "24234": {
       "name": "Commander: Tarkir: Dragonstorm",
       "abbreviation": "TDC",
-      "modifiedOn": "2026-11-09T13:45:57.553",
+      "modifiedOn": "2026-11-12T18:25:02.38",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdc",
       "products": [
@@ -29815,7 +29815,7 @@
     "24236": {
       "name": "Commander: Edge of Eternities",
       "abbreviation": "EOC",
-      "modifiedOn": "2026-10-26T12:52:27.193",
+      "modifiedOn": "2026-11-12T03:37:57.103",
       "publishedOn": "2025-08-01",
       "setId": "mtg-eoc",
       "products": [
@@ -30094,7 +30094,7 @@
     "24421": {
       "name": "Avatar: The Last Airbender",
       "abbreviation": "TLA",
-      "modifiedOn": "2026-11-10T02:49:18.283",
+      "modifiedOn": "2026-11-12T15:26:54.053",
       "publishedOn": "2025-11-21",
       "setId": "mtg-tla",
       "products": [
@@ -30350,7 +30350,7 @@
     "24432": {
       "name": "Marvel Universe Eternal-Legal",
       "abbreviation": "MAR",
-      "modifiedOn": "2026-10-30T19:21:47.36",
+      "modifiedOn": "2026-11-12T14:58:09.48",
       "publishedOn": "2025-09-26",
       "setId": "mtg-mar",
       "products": []
@@ -30526,7 +30526,7 @@
     "24464": {
       "name": "Commander: Lorwyn Eclipsed",
       "abbreviation": "ECC",
-      "modifiedOn": "2026-11-10T02:55:55.09",
+      "modifiedOn": "2026-11-12T18:26:09.987",
       "publishedOn": "2026-01-23",
       "setId": "mtg-ecc",
       "products": [
@@ -30824,7 +30824,7 @@
     "24553": {
       "name": "Marvel Super Heroes",
       "abbreviation": "MSH",
-      "modifiedOn": "2026-10-22T01:59:43.39",
+      "modifiedOn": "2026-11-12T17:00:31.88",
       "publishedOn": "2026-06-26",
       "setId": "mtg-msh",
       "products": [
@@ -31065,7 +31065,7 @@
     "24554": {
       "name": "Commander: Marvel Super Heroes",
       "abbreviation": "MSC",
-      "modifiedOn": "2026-11-09T13:55:11.857",
+      "modifiedOn": "2026-11-12T16:58:23.907",
       "publishedOn": "2026-06-26",
       "setId": "mtg-msc",
       "products": [
@@ -31186,7 +31186,7 @@
     "24601": {
       "name": "Secrets of Strixhaven",
       "abbreviation": "SOS",
-      "modifiedOn": "2026-11-10T02:55:17.823",
+      "modifiedOn": "2026-11-12T17:18:24.673",
       "publishedOn": "2026-04-24",
       "setId": "mtg-sos",
       "products": [
@@ -31483,7 +31483,7 @@
     "24661": {
       "name": "Promo Pack: Secrets of Strixhaven",
       "abbreviation": "PPSOS",
-      "modifiedOn": "2026-10-26T12:42:35.153",
+      "modifiedOn": "2026-11-12T18:09:59.2",
       "publishedOn": "2026-04-24",
       "products": [
         {
@@ -31514,7 +31514,7 @@
     "24683": {
       "name": "The Hobbit",
       "abbreviation": "HOB",
-      "modifiedOn": "2026-11-10T03:19:17.593",
+      "modifiedOn": "2026-11-12T18:21:11.18",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hob",
       "products": [
@@ -31699,7 +31699,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-10-26T12:49:07.093",
+      "modifiedOn": "2026-11-12T16:20:30.833",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -31868,7 +31868,7 @@
     "24691": {
       "name": "The Hobbit: Eternal-Legal",
       "abbreviation": "HOC",
-      "modifiedOn": "2026-11-03T21:19:16.107",
+      "modifiedOn": "2026-11-11T20:14:13.06",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hoc",
       "products": []
@@ -32044,7 +32044,7 @@
     "24770": {
       "name": "Commander: Star Trek",
       "abbreviation": "TRC",
-      "modifiedOn": "2026-11-11T19:49:57.86",
+      "modifiedOn": "2026-11-11T21:29:15.803",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trc",
       "products": [
@@ -32133,7 +32133,7 @@
     "24771": {
       "name": "Star Trek: Stardates",
       "abbreviation": "SDS",
-      "modifiedOn": "2026-10-28T18:27:51.237",
+      "modifiedOn": "2026-11-11T21:48:18.81",
       "publishedOn": "2026-11-13",
       "setId": "mtg-sds",
       "products": []
@@ -32174,7 +32174,7 @@
     "24836": {
       "name": "Secret Lair x MSCHF: The Zeta Set",
       "abbreviation": "SLZ",
-      "modifiedOn": "2026-09-30T12:13:41.77",
+      "modifiedOn": "2026-11-12T13:50:06.63",
       "publishedOn": "2026-09-02",
       "setId": "mtg-slz",
       "products": [

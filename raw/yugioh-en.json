@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-11-12T12:55:01.789Z",
+  "harvestedAt": "2026-11-13T12:22:52.769Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -7503,7 +7503,7 @@
     "1505": {
       "name": "Secrets of Eternity",
       "abbreviation": "SECE",
-      "modifiedOn": "2026-10-21T15:22:32.117",
+      "modifiedOn": "2026-11-12T19:41:11.133",
       "publishedOn": "2015-01-16",
       "setId": "ygo-sece",
       "products": [
@@ -13707,7 +13707,7 @@
     "23314": {
       "name": "Battles of Legend: Chapter 1",
       "abbreviation": "BLC1",
-      "modifiedOn": "2026-08-24T15:53:42.467",
+      "modifiedOn": "2026-11-12T18:43:56.7",
       "publishedOn": "2024-02-23",
       "setId": "ygo-blc1",
       "products": [
@@ -14413,7 +14413,7 @@
     "23995": {
       "name": "Alliance Insight",
       "abbreviation": "ALIN",
-      "modifiedOn": "2026-10-15T19:40:31.377",
+      "modifiedOn": "2026-11-12T18:42:42.283",
       "publishedOn": "2025-05-02",
       "setId": "ygo-alin",
       "products": [
@@ -15105,7 +15105,7 @@
     "24679": {
       "name": "Legendary Arc-V Decks",
       "abbreviation": "LAVD",
-      "modifiedOn": "2026-09-15T13:17:44.333",
+      "modifiedOn": "2026-11-12T19:06:14.003",
       "publishedOn": "2026-08-07",
       "setId": "ygo-lavd",
       "products": [
@@ -15270,8 +15270,9 @@
     "24822": {
       "name": "Glorious Victors",
       "abbreviation": "GLVI",
-      "modifiedOn": "2026-08-25T20:31:08.153",
+      "modifiedOn": "2026-11-11T21:11:02.06",
       "publishedOn": "2026-12-04",
+      "setId": "ygo-glvi",
       "products": [
         {
           "tcgplayerId": 713237,
@@ -15289,8 +15290,7 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/713238_200w.jpg",
           "url": "https://www.tcgplayer.com/product/713238/yugioh-glorious-victors-glorious-victors-booster-box-1st-edition"
         }
-      ],
-      "setId": "ygo-glvi"
+      ]
     },
     "24918": {
       "name": "Thank You Pack",
@@ -15298,6 +15298,13 @@
       "modifiedOn": "2026-10-19T13:51:38.873",
       "publishedOn": "2026-07-22",
       "setId": "ygo-typ1",
+      "products": []
+    },
+    "24944": {
+      "name": "Immortal Pheonix",
+      "abbreviation": "IMPH",
+      "modifiedOn": "2026-11-11T22:10:17.987",
+      "publishedOn": "2027-01-29",
       "products": []
     }
   }

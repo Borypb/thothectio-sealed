@@ -13,8 +13,8 @@
         {
           "sub": "Holofoil",
           "usd": 5.96,
-          "low": 5,
-          "mid": 8.48
+          "low": 4.5,
+          "mid": 8.51
         }
       ]
     },
@@ -99,7 +99,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.62,
+          "usd": 0.61,
           "low": 0.4,
           "mid": 0.99
         }
@@ -117,7 +117,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.15,
           "low": 0.05,
           "mid": 0.25
         }
@@ -151,7 +151,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.98,
+          "usd": 0.97,
           "low": 0.5,
           "mid": 1
         }
@@ -168,7 +168,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.23,
+          "usd": 0.93,
           "low": 0.69,
           "mid": 1.5
         }
@@ -185,7 +185,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.31,
+          "usd": 1.28,
           "low": 0.72,
           "mid": 1.28
         }
@@ -238,7 +238,7 @@
           "sub": "Normal",
           "usd": 1.13,
           "low": 0.9,
-          "mid": 1.44
+          "mid": 1.43
         }
       ]
     },
@@ -253,7 +253,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.06,
+          "usd": 1.08,
           "low": 0.3,
           "mid": 1.5
         }
@@ -290,7 +290,7 @@
           "sub": "Holofoil",
           "usd": 136.47,
           "low": 113.99,
-          "mid": 145
+          "mid": 145.94
         }
       ]
     },
@@ -306,7 +306,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.83,
+          "usd": 1.82,
           "low": 1.5,
           "mid": 2.93
         }
@@ -342,9 +342,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.19,
-          "low": 2.48,
-          "mid": 3.19
+          "usd": 3.2,
+          "low": 2.5,
+          "mid": 3.65
         }
       ]
     },
@@ -360,9 +360,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.8,
+          "usd": 13.84,
           "low": 12,
-          "mid": 14.9
+          "mid": 14.99
         }
       ]
     },
@@ -378,7 +378,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 44.68,
+          "usd": 44.28,
           "low": 35,
           "mid": 39
         }
@@ -396,9 +396,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 10.3,
-          "low": 9.01,
-          "mid": 10.97
+          "usd": 10.45,
+          "low": 9,
+          "mid": 10.99
         }
       ]
     },
@@ -416,7 +416,7 @@
           "sub": "Holofoil",
           "usd": 2.15,
           "low": 1.75,
-          "mid": 2.24
+          "mid": 2.26
         }
       ]
     },
@@ -432,9 +432,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 8.65,
+          "usd": 8.73,
           "low": 6.72,
-          "mid": 11.5
+          "mid": 12
         }
       ]
     },
@@ -470,7 +470,7 @@
           "sub": "Holofoil",
           "usd": 26.23,
           "low": 18,
-          "mid": 25
+          "mid": 25.62
         }
       ]
     },
@@ -488,7 +488,7 @@
           "sub": "Holofoil",
           "usd": 2.09,
           "low": 1.7,
-          "mid": 2.33
+          "mid": 2.34
         }
       ]
     },
@@ -506,7 +506,7 @@
           "sub": "Holofoil",
           "usd": 1.46,
           "low": 1.08,
-          "mid": 1.99
+          "mid": 2
         }
       ]
     },
@@ -542,7 +542,7 @@
           "sub": "Holofoil",
           "usd": 14.78,
           "low": 12.99,
-          "mid": 18.98
+          "mid": 18.94
         }
       ]
     },
@@ -576,9 +576,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.76,
+          "usd": 0.77,
           "low": 0.44,
-          "mid": 0.8
+          "mid": 0.81
         }
       ]
     },
@@ -594,9 +594,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.63,
+          "usd": 0.66,
           "low": 0.39,
-          "mid": 0.78
+          "mid": 0.75
         }
       ]
     },
@@ -612,12 +612,12 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.04,
+          "usd": 2,
           "low": 2,
-          "mid": 2.76
+          "mid": 2.52
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

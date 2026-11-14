@@ -210,10 +210,10 @@
           "name": "Rivals Clash",
           "code": "FB06",
           "releasedAt": "2025-05-02",
-          "modifiedOn": "2026-11-10T16:16:01.15",
+          "modifiedOn": "2026-11-13T17:13:11.593",
           "count": 141,
           "file": "cards/dragonball/24247.json",
-          "version": "5dbfd344a37a"
+          "version": "6fe74e504662"
         },
         {
           "groupId": 24248,
@@ -260,20 +260,20 @@
           "name": "Starter Deck 5: Bardock Alternate Art Reprints",
           "code": "FS05_AR",
           "releasedAt": "2025-02-14",
-          "modifiedOn": "2026-11-10T16:21:22.84",
+          "modifiedOn": "2026-11-13T17:36:12.623",
           "count": 2,
           "file": "cards/dragonball/24185.json",
-          "version": "71ee365d3a40"
+          "version": "6889ee8f5f2a"
         },
         {
           "groupId": 24184,
           "name": "Ultra Limit Alternate Art Reprints",
           "code": "FB04_AR",
           "releasedAt": "2025-02-14",
-          "modifiedOn": "2026-11-10T17:22:12.557",
+          "modifiedOn": "2026-11-13T18:24:45.493",
           "count": 5,
           "file": "cards/dragonball/24184.json",
-          "version": "4a2a18e7c1ce"
+          "version": "bec6b2ce1e52"
         },
         {
           "groupId": 24186,
@@ -290,10 +290,10 @@
           "name": "Raging Roar Alternate Art Reprints",
           "code": "FB03_AR",
           "releasedAt": "2024-11-15",
-          "modifiedOn": "2026-11-10T16:08:34.197",
+          "modifiedOn": "2026-11-13T17:08:33.893",
           "count": 8,
           "file": "cards/dragonball/23823.json",
-          "version": "0948058af79a"
+          "version": "473514f72433"
         },
         {
           "groupId": 23658,
@@ -350,10 +350,10 @@
           "name": "Starter Deck 4: Frieza Alternate Art Reprints",
           "code": "FS04_AR",
           "releasedAt": "2024-08-16",
-          "modifiedOn": "2026-11-10T16:20:37.34",
+          "modifiedOn": "2026-11-13T17:34:36.17",
           "count": 2,
           "file": "cards/dragonball/23581.json",
-          "version": "27f90504b79c"
+          "version": "c4c11bbced96"
         },
         {
           "groupId": 23518,
@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-09T18:59:27.88",
-          "count": 103,
+          "modifiedOn": "2026-11-13T19:31:20.133",
+          "count": 111,
           "file": "cards/digimon/24865.json",
-          "version": "874a7ed200fb"
+          "version": "a733c50049a9"
         },
         {
           "groupId": 24932,
@@ -632,10 +632,10 @@
           "name": "Limited Card Pack -Distancia Cero-",
           "code": "LM-09",
           "releasedAt": "2026-11-27",
-          "modifiedOn": "2026-11-11T16:15:44.847",
+          "modifiedOn": "2026-11-13T16:10:30.523",
           "count": 33,
           "file": "cards/digimon/24941.json",
-          "version": "a4d716f57735"
+          "version": "fffa81b85906"
         },
         {
           "groupId": 24635,
@@ -952,7 +952,7 @@
           "name": "Release Special Booster 2.5",
           "code": "BT19-20",
           "releasedAt": "2025-02-28",
-          "modifiedOn": "2026-11-02T16:54:35.397",
+          "modifiedOn": "2026-11-13T19:21:35.547",
           "count": 250,
           "file": "cards/digimon/24178.json",
           "version": "643f40851669"
@@ -1062,7 +1062,7 @@
           "name": "Infernal Ascension",
           "code": "EX-06",
           "releasedAt": "2024-06-28",
-          "modifiedOn": "2026-11-11T16:30:52.84",
+          "modifiedOn": "2026-11-13T19:18:11.97",
           "count": 113,
           "file": "cards/digimon/23414.json",
           "version": "bf5721f306a8"
@@ -1657,10 +1657,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-11-12T19:17:41.84",
-          "count": 247,
+          "modifiedOn": "2026-11-12T20:45:19.78",
+          "count": 246,
           "file": "cards/riftbound/24819.json",
-          "version": "3bb6bd1b5d30"
+          "version": "daed2a485b76"
         },
         {
           "groupId": 24861,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-13"
+  "updatedAt": "2026-11-14"
 }

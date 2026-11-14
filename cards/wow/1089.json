@@ -46,9 +46,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.27,
-          "low": 1.99,
-          "mid": 3.27
+          "usd": 2.39,
+          "low": 0.25,
+          "mid": 2.39
         }
       ],
       "tr": {
@@ -134,8 +134,8 @@
         {
           "sub": "Normal",
           "usd": 0.5,
-          "low": 1,
-          "mid": 1.74
+          "low": 0.5,
+          "mid": 1
         },
         {
           "sub": "Foil",
@@ -168,9 +168,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.75,
+          "usd": 1.99,
           "low": 0.99,
-          "mid": 2.75
+          "mid": 1.99
         },
         {
           "sub": "Foil",
@@ -231,6 +231,12 @@
       ],
       "prices": [
         {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 1,
+          "mid": 1
+        },
+        {
           "sub": "Foil",
           "usd": 2.59,
           "low": 0.5,
@@ -261,9 +267,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.34,
+          "usd": 3.35,
           "low": 0.89,
-          "mid": 3.34
+          "mid": 3.35
         },
         {
           "sub": "Foil",
@@ -809,9 +815,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.36,
+          "usd": 3.4,
           "low": 3,
-          "mid": 3.36
+          "mid": 3.4
         },
         {
           "sub": "Foil",
@@ -902,9 +908,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.69,
+          "usd": 1.7,
           "low": 1.25,
-          "mid": 1.69
+          "mid": 1.7
         }
       ],
       "tr": {
@@ -974,5 +980,5 @@
       }
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

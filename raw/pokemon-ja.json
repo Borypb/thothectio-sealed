@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-13T11:37:45.278Z",
+  "harvestedAt": "2026-11-14T10:59:21.302Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -5710,9 +5710,11 @@
       "products": []
     },
     "24567": {
-      "name": "Start Deck 100 Battle Collection",
-      "modifiedOn": "2026-10-07T15:58:40.46",
+      "name": "MC: Start Deck 100 Battle Collection",
+      "abbreviation": "mC",
+      "modifiedOn": "2026-11-13T17:44:53.317",
       "publishedOn": "2025-12-19",
+      "setCode": "MC",
       "products": [
         {
           "tcgplayerId": 670145,
@@ -5720,7 +5722,7 @@
           "kind": "collection",
           "releasedOn": "2025-12-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/670145_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/670145/pokemon-japan-start-deck-100-battle-collection-start-deck-100-battle-collection"
+          "url": "https://www.tcgplayer.com/product/670145/pokemon-japan-mc-start-deck-100-battle-collection-start-deck-100-battle-collection"
         }
       ]
     },
@@ -6413,6 +6415,22 @@
       "modifiedOn": "2026-11-03T19:50:38.33",
       "publishedOn": "2010-10-29",
       "products": []
+    },
+    "24945": {
+      "name": "mG: Mega Feraligatr ex, Mega Dragonite ex, and Mega Gengar ex Special Deck Set",
+      "abbreviation": "mG",
+      "modifiedOn": "2026-11-13T16:44:27.39",
+      "publishedOn": "2026-11-13",
+      "products": [
+        {
+          "tcgplayerId": 732941,
+          "name": "Mega Feraligatr ex, Mega Dragonite ex & Mega Gengar ex Special Deck Set",
+          "kind": "other",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732941_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732941/pokemon-japan-mg-mega-feraligatr-ex-mega-dragonite-ex-and-mega-gengar-ex-special-deck-set-mega-feraligatr-ex-mega-dragonite-ex-and-mega-gengar-ex-special-deck-set"
+        }
+      ]
     }
   }
 }

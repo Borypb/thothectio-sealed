@@ -12,9 +12,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12.26,
-          "low": 12,
-          "mid": 12.26
+          "usd": 12.51,
+          "low": 12.51,
+          "mid": 12.51
         }
       ]
     },
@@ -46,9 +46,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.5,
-          "low": 8,
-          "mid": 8.5
+          "usd": 8.51,
+          "low": 8.51,
+          "mid": 8.51
         }
       ]
     },
@@ -168,9 +168,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.43,
-          "low": 0.35,
-          "mid": 0.43
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
         }
       ]
     },
@@ -182,14 +182,7 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715230_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715230/cyberpunk-tcg-embracing-power-retail-starter-deck-goro-takemura-hands-unclean",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 15,
-          "low": 15,
-          "mid": 15
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715231,
@@ -199,14 +192,7 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715231_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715231/cyberpunk-tcg-embracing-power-retail-starter-deck-saburo-arasaka-stubborn-patriarch",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 12,
-          "low": 12,
-          "mid": 12
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715232,
@@ -328,5 +314,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

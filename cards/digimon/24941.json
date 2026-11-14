@@ -7,6 +7,7 @@
       "label": "Alternate Art",
       "number": "BT22-005 C",
       "rarity": "Common",
+      "type": "Digi-Egg",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732663_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732663/digimon-card-game-limited-card-pack-distancia-cero-tsumemon-alternate-art",
       "prices": [
@@ -24,6 +25,7 @@
       "label": "Alternate Art",
       "number": "BT23-013 SR",
       "rarity": "Super Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732665_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732665/digimon-card-game-limited-card-pack-distancia-cero-jesmon-alternate-art",
       "prices": [
@@ -41,6 +43,7 @@
       "label": "Alternate Art",
       "number": "EX5-063 SR",
       "rarity": "Super Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732667_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732667/digimon-card-game-limited-card-pack-distancia-cero-leviamon-alternate-art",
       "prices": [
@@ -58,6 +61,7 @@
       "label": "X Antibody · Alternate Art",
       "number": "EX7-073 SEC",
       "rarity": "Secret Rare",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732669_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732669/digimon-card-game-limited-card-pack-distancia-cero-beelstarmon-x-antibody-alternate-art",
       "prices": [
@@ -74,6 +78,7 @@
       "name": "Endurance Training",
       "number": "LM-063 P",
       "rarity": "Promo",
+      "type": "Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732670_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732670/digimon-card-game-limited-card-pack-distancia-cero-endurance-training",
       "prices": [
@@ -554,6 +559,7 @@
       "label": "Limited Foil",
       "number": "P-240 P",
       "rarity": "Promo",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732708_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732708/digimon-card-game-limited-card-pack-distancia-cero-arcturusmon-limited-foil",
       "prices": [
@@ -571,6 +577,7 @@
       "label": "Limited Foil",
       "number": "P-241 P",
       "rarity": "Promo",
+      "type": "Tamer",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732709_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732709/digimon-card-game-limited-card-pack-distancia-cero-yujin-ozora-p-241-limited-foil",
       "prices": [
@@ -583,5 +590,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

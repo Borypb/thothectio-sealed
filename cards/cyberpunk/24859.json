@@ -13,8 +13,8 @@
         {
           "sub": "Foil",
           "usd": 4.95,
-          "low": 4,
-          "mid": 4.48
+          "low": 4.54,
+          "mid": 4.54
         }
       ]
     },
@@ -26,14 +26,7 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715266/cyberpunk-tcg-the-heist-retail-starter-deck-dexter-deshawn-one-last-chance",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 6.74,
-          "low": 7.24,
-          "mid": 7.24
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715267,
@@ -199,9 +192,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
-          "low": 4.99,
-          "mid": 5
+          "usd": 4.99,
+          "low": 4.54,
+          "mid": 4.54
         }
       ]
     },
@@ -217,8 +210,8 @@
         {
           "sub": "Normal",
           "usd": 0.1,
-          "low": 0.1,
-          "mid": 0.13
+          "low": 0.15,
+          "mid": 0.2
         }
       ]
     },
@@ -247,14 +240,7 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715279_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715279/cyberpunk-tcg-the-heist-retail-starter-deck-mt0d12-flathead",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 8.87,
-          "low": 9.19,
-          "mid": 9.19
-        }
-      ]
+      "prices": []
     },
     {
       "id": 715280,
@@ -342,5 +328,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

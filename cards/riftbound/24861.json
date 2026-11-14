@@ -10,7 +10,14 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716010_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716010/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-ambessa-the-wolf-t1-worlds-champion-player-bundle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 150,
+          "low": 150,
+          "mid": 150
+        }
+      ]
     },
     {
       "id": 716012,
@@ -57,7 +64,14 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716015_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716015/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-xin-zhao-vigilant-t1-worlds-champion-player-bundle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 125,
+          "low": 125,
+          "mid": 125
+        }
+      ]
     },
     {
       "id": 716016,
@@ -97,7 +111,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716020_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716020/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-galio-indefatigable-t1-worlds-champion-player-bundle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 200,
+          "low": 200,
+          "mid": 200
+        }
+      ]
     },
     {
       "id": 716021,
@@ -144,7 +165,14 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716024_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716024/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-miss-fortune-buccaneer-t1-worlds-champion-player-bundle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 200,
+          "low": 200,
+          "mid": 200
+        }
+      ]
     },
     {
       "id": 716026,
@@ -191,7 +219,14 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716034_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716034/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-seraphine-not-alone-t1-worlds-champion-player-bundle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 100,
+          "low": 100,
+          "mid": 100
+        }
+      ]
     },
     {
       "id": 716035,
@@ -206,7 +241,7 @@
         {
           "sub": "Foil",
           "usd": 1233.33,
-          "low": 699.99,
+          "low": 679.99,
           "mid": 857.5
         }
       ]
@@ -223,5 +258,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-13"
+  "pricesAt": "2026-11-14"
 }

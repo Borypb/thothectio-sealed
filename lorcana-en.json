@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "lorcana",
   "lang": "en",
   "products": [
@@ -1636,6 +1636,18 @@
       }
     },
     {
+      "id": "lor-en-tcp718571",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Ursula - Deceiver",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/718571_200w.jpg",
+      "source": {
+        "tcgplayer": 718571
+      }
+    },
+    {
       "id": "lor-en-tcp721004",
       "game": "lorcana",
       "kind": "bundle",
@@ -1645,6 +1657,18 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/721004_200w.jpg",
       "source": {
         "tcgplayer": 721004
+      }
+    },
+    {
+      "id": "lor-en-tcp733378",
+      "game": "lorcana",
+      "kind": "other",
+      "name": "Madam Mim - Resourceful Trickster",
+      "lang": "en",
+      "releasedAt": "2023-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733378_200w.jpg",
+      "source": {
+        "tcgplayer": 733378
       }
     },
     {

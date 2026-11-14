@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "game": "riftbound",
   "lang": "en",
   "products": [
@@ -226,6 +226,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711372_200w.jpg",
       "source": {
         "tcgplayer": 711372
+      }
+    },
+    {
+      "id": "rb-en-tcp732873",
+      "game": "riftbound",
+      "kind": "booster",
+      "name": "Radiance - Nexus Night Promo Pack",
+      "lang": "en",
+      "setIds": [
+        "rb-g24819"
+      ],
+      "releasedAt": "2026-10-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732873_200w.jpg",
+      "source": {
+        "tcgplayer": 732873
       }
     },
     {

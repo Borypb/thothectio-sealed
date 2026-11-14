@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-11-13T12:20:25.123Z",
+  "harvestedAt": "2026-11-14T11:35:50.713Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -268,7 +268,7 @@
     "17675": {
       "name": "One Piece Promotion Cards",
       "abbreviation": "OP-PR",
-      "modifiedOn": "2026-11-12T19:14:18.553",
+      "modifiedOn": "2026-11-13T19:25:04.467",
       "publishedOn": "2022-09-30",
       "products": [
         {
@@ -4182,7 +4182,7 @@
     "24833": {
       "name": "The Dominance of God",
       "abbreviation": "OP18",
-      "modifiedOn": "2026-11-12T19:08:46.05",
+      "modifiedOn": "2026-11-13T17:59:44.493",
       "publishedOn": "2026-11-20",
       "setId": "op-op18",
       "products": [
@@ -4239,9 +4239,18 @@
     "24834": {
       "name": "The Dominance of God Release Event Cards",
       "abbreviation": "OP18 RE",
-      "modifiedOn": "2026-10-15T19:09:47.647",
+      "modifiedOn": "2026-11-13T19:26:01.023",
       "publishedOn": "2026-11-13",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 733372,
+          "name": "The Dominance of God - 4th Anniversary Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733372_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733372/one-piece-card-game-the-dominance-of-god-release-event-cards-the-dominance-of-god-4th-anniversary-tournament-pack"
+        }
+      ]
     }
   }
 }

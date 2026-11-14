@@ -2,7 +2,7 @@
   "game": "riftbound",
   "lang": "en",
   "categoryId": 89,
-  "harvestedAt": "2026-11-13T12:25:50.656Z",
+  "harvestedAt": "2026-11-14T11:37:36.441Z",
   "groups": {
     "24343": {
       "name": "Riftbound Promotional Cards",
@@ -527,7 +527,7 @@
     "24819": {
       "name": "Radiance",
       "abbreviation": "RAD",
-      "modifiedOn": "2026-11-12T19:17:41.84",
+      "modifiedOn": "2026-11-12T20:45:19.78",
       "publishedOn": "2026-10-23",
       "setId": "rb-g24819",
       "products": [
@@ -618,6 +618,14 @@
           "releasedOn": "2026-10-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/711446_200w.jpg",
           "url": "https://www.tcgplayer.com/product/711446/riftbound-league-of-legends-trading-card-game-radiance-radiance-vault-bundle-case"
+        },
+        {
+          "tcgplayerId": 732873,
+          "name": "Radiance - Nexus Night Promo Pack",
+          "kind": "booster",
+          "releasedOn": "2026-10-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732873_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/732873/riftbound-league-of-legends-trading-card-game-radiance-radiance-nexus-night-promo-pack"
         }
       ]
     },
@@ -712,9 +720,9 @@
       ]
     },
     "24901": {
-      "name": "Gift of the Rift Bundles",
+      "name": "Gift of the Rift Bundle",
       "abbreviation": "GRFT",
-      "modifiedOn": "2026-11-11T14:23:29.073",
+      "modifiedOn": "2026-11-13T15:03:53.923",
       "publishedOn": "2026-12-04",
       "setId": "rb-g24901",
       "products": [
@@ -724,7 +732,7 @@
           "kind": "bundle",
           "releasedOn": "2026-12-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/714486_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/714486/riftbound-league-of-legends-trading-card-game-gift-of-the-rift-bundles-gift-of-the-rift-bundle"
+          "url": "https://www.tcgplayer.com/product/714486/riftbound-league-of-legends-trading-card-game-gift-of-the-rift-bundle-gift-of-the-rift-bundle"
         }
       ]
     },

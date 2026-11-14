@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-13T12:20:48.339Z",
+  "harvestedAt": "2026-11-14T11:35:59.816Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -80,7 +80,7 @@
     "2": {
       "name": "7th Edition",
       "abbreviation": "7ED",
-      "modifiedOn": "2026-07-31T03:08:10.88",
+      "modifiedOn": "2026-11-12T20:46:21.317",
       "publishedOn": "2001-04-11",
       "setId": "mtg-7ed",
       "products": [
@@ -1205,7 +1205,7 @@
     "28": {
       "name": "Dissension",
       "abbreviation": "DIS",
-      "modifiedOn": "2026-11-11T01:25:20.513",
+      "modifiedOn": "2026-11-12T20:42:26.677",
       "publishedOn": "2006-05-06",
       "setId": "mtg-dis",
       "products": [
@@ -1814,7 +1814,7 @@
     "51": {
       "name": "Future Sight",
       "abbreviation": "FUT",
-      "modifiedOn": "2026-09-18T13:00:37.257",
+      "modifiedOn": "2026-11-12T21:19:23.193",
       "publishedOn": "2007-05-04",
       "setId": "mtg-fut",
       "products": [
@@ -3801,7 +3801,7 @@
     "85": {
       "name": "Planeshift",
       "abbreviation": "PLS",
-      "modifiedOn": "2026-06-24T17:46:59.28",
+      "modifiedOn": "2026-11-12T20:43:50.963",
       "publishedOn": "2001-02-05",
       "setId": "mtg-pls",
       "products": [
@@ -5343,7 +5343,7 @@
     "116": {
       "name": "Urza's Destiny",
       "abbreviation": "UDS",
-      "modifiedOn": "2026-10-26T13:04:48.93",
+      "modifiedOn": "2026-11-12T20:45:00.627",
       "publishedOn": "1999-06-07",
       "setId": "mtg-uds",
       "products": [
@@ -6235,7 +6235,7 @@
     "370": {
       "name": "Return to Ravnica",
       "abbreviation": "RTR",
-      "modifiedOn": "2026-09-18T01:57:33.417",
+      "modifiedOn": "2026-11-13T05:05:33.927",
       "publishedOn": "2012-10-05",
       "setId": "mtg-rtr",
       "products": [
@@ -6429,7 +6429,7 @@
     "569": {
       "name": "Gatecrash",
       "abbreviation": "GTC",
-      "modifiedOn": "2026-09-22T22:52:57.777",
+      "modifiedOn": "2026-11-12T20:38:45.29",
       "publishedOn": "2013-02-01",
       "setId": "mtg-gtc",
       "products": [
@@ -9006,7 +9006,7 @@
     "1693": {
       "name": "Oath of the Gatewatch",
       "abbreviation": "OGW",
-      "modifiedOn": "2026-10-13T02:34:31.223",
+      "modifiedOn": "2026-11-12T20:11:23.897",
       "publishedOn": "2016-01-22",
       "setId": "mtg-ogw",
       "products": [
@@ -10259,7 +10259,7 @@
     "2092": {
       "name": "Unstable",
       "abbreviation": "UST",
-      "modifiedOn": "2026-11-12T14:53:50.553",
+      "modifiedOn": "2026-11-12T20:48:05.22",
       "publishedOn": "2017-12-08",
       "setId": "mtg-ust",
       "products": [
@@ -11901,7 +11901,7 @@
     "2376": {
       "name": "MagicFest Cards",
       "abbreviation": "MFP",
-      "modifiedOn": "2026-11-12T18:08:39.45",
+      "modifiedOn": "2026-11-13T13:42:35.677",
       "products": []
     },
     "2379": {
@@ -12952,7 +12952,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-12T15:12:00.427",
+      "modifiedOn": "2026-11-13T16:23:34.953",
       "setId": "mtg-sld",
       "products": [
         {
@@ -20930,7 +20930,7 @@
     "2603": {
       "name": "Ikoria: Lair of Behemoths",
       "abbreviation": "IKO",
-      "modifiedOn": "2026-10-09T06:49:51.86",
+      "modifiedOn": "2026-11-12T20:37:16.597",
       "publishedOn": "2020-05-15",
       "setId": "mtg-iko",
       "products": [
@@ -21823,7 +21823,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-12T18:54:03.28",
+      "modifiedOn": "2026-11-12T21:44:53.34",
       "products": []
     },
     "2716": {
@@ -23042,7 +23042,7 @@
     "2864": {
       "name": "Innistrad: Midnight Hunt",
       "abbreviation": "MID",
-      "modifiedOn": "2026-11-12T19:29:22.953",
+      "modifiedOn": "2026-11-13T04:59:47.583",
       "publishedOn": "2021-09-24",
       "setId": "mtg-mid",
       "products": [
@@ -25222,7 +25222,7 @@
     "17667": {
       "name": "Secret Lair Countdown Kit",
       "abbreviation": "SLC",
-      "modifiedOn": "2026-11-12T18:49:29.74",
+      "modifiedOn": "2026-11-12T20:41:48.593",
       "publishedOn": "2022-12-01",
       "setId": "mtg-slc",
       "products": [
@@ -26933,14 +26933,14 @@
     "23318": {
       "name": "Special Guests",
       "abbreviation": "SPG",
-      "modifiedOn": "2026-10-02T20:30:12.09",
+      "modifiedOn": "2026-11-13T19:10:27.29",
       "setId": "mtg-spg",
       "products": []
     },
     "23319": {
       "name": "Ravnica Remastered",
       "abbreviation": "RVR",
-      "modifiedOn": "2026-11-12T16:38:02.427",
+      "modifiedOn": "2026-11-12T20:09:36.697",
       "publishedOn": "2024-01-12",
       "setId": "mtg-rvr",
       "products": [
@@ -27696,7 +27696,7 @@
     "23445": {
       "name": "Commander: Modern Horizons 3",
       "abbreviation": "M3C",
-      "modifiedOn": "2026-11-09T21:42:17.19",
+      "modifiedOn": "2026-11-12T19:41:32.393",
       "publishedOn": "2024-06-14",
       "setId": "mtg-m3c",
       "products": [
@@ -27898,7 +27898,7 @@
     "23447": {
       "name": "Bloomburrow",
       "abbreviation": "BLB",
-      "modifiedOn": "2026-11-12T16:49:10.547",
+      "modifiedOn": "2026-11-12T19:43:08.417",
       "publishedOn": "2024-08-02",
       "setId": "mtg-blb",
       "products": [
@@ -28379,7 +28379,7 @@
     "23556": {
       "name": "Foundations",
       "abbreviation": "FDN",
-      "modifiedOn": "2026-11-12T17:10:35.867",
+      "modifiedOn": "2026-11-13T17:13:13.11",
       "publishedOn": "2024-11-15",
       "setId": "mtg-fdn",
       "products": [
@@ -29444,7 +29444,7 @@
     "24232": {
       "name": "Tarkir: Dragonstorm",
       "abbreviation": "TDM",
-      "modifiedOn": "2026-11-12T15:23:02.027",
+      "modifiedOn": "2026-11-13T19:12:37.33",
       "publishedOn": "2025-04-11",
       "setId": "mtg-tdm",
       "products": [
@@ -31411,7 +31411,7 @@
     "24602": {
       "name": "Commander: Secrets of Strixhaven",
       "abbreviation": "SOC",
-      "modifiedOn": "2026-11-10T02:54:01.67",
+      "modifiedOn": "2026-11-13T03:31:35.013",
       "publishedOn": "2026-04-24",
       "setId": "mtg-soc",
       "products": [
@@ -31514,7 +31514,7 @@
     "24683": {
       "name": "The Hobbit",
       "abbreviation": "HOB",
-      "modifiedOn": "2026-11-12T18:21:11.18",
+      "modifiedOn": "2026-11-13T03:33:03.233",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hob",
       "products": [
@@ -31883,7 +31883,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-11-09T13:46:56.64",
+      "modifiedOn": "2026-11-13T02:05:38.973",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -32133,7 +32133,7 @@
     "24771": {
       "name": "Star Trek: Stardates",
       "abbreviation": "SDS",
-      "modifiedOn": "2026-11-11T21:48:18.81",
+      "modifiedOn": "2026-11-12T20:57:07.05",
       "publishedOn": "2026-11-13",
       "setId": "mtg-sds",
       "products": []
@@ -32174,7 +32174,7 @@
     "24836": {
       "name": "Secret Lair x MSCHF: The Zeta Set",
       "abbreviation": "SLZ",
-      "modifiedOn": "2026-11-12T13:50:06.63",
+      "modifiedOn": "2026-11-13T15:23:56.39",
       "publishedOn": "2026-09-02",
       "setId": "mtg-slz",
       "products": [

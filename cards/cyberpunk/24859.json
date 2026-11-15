@@ -12,8 +12,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.95,
-          "low": 4.54,
+          "usd": 4.81,
+          "low": 4,
           "mid": 4.54
         }
       ]
@@ -56,9 +56,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.13,
           "low": 0.13,
-          "mid": 0.14
+          "mid": 0.13
         }
       ]
     },
@@ -109,7 +109,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.15,
-          "mid": 0.2
+          "mid": 0.15
         }
       ]
     },
@@ -158,9 +158,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.15,
           "low": 0.12,
-          "mid": 0.14
+          "mid": 0.12
         }
       ]
     },
@@ -177,7 +177,7 @@
           "sub": "Foil",
           "usd": 13.25,
           "low": 13.25,
-          "mid": 13.25
+          "mid": 13.38
         }
       ]
     },
@@ -192,9 +192,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.99,
+          "usd": 4.69,
           "low": 4.54,
-          "mid": 4.54
+          "mid": 4.99
         }
       ]
     },
@@ -211,7 +211,7 @@
           "sub": "Normal",
           "usd": 0.1,
           "low": 0.15,
-          "mid": 0.2
+          "mid": 0.15
         }
       ]
     },
@@ -226,9 +226,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.16,
+          "usd": 0.1,
           "low": 0.1,
-          "mid": 0.16
+          "mid": 0.1
         }
       ]
     },
@@ -240,7 +240,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715279_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715279/cyberpunk-tcg-the-heist-retail-starter-deck-mt0d12-flathead",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.94,
+          "low": 35,
+          "mid": 35
+        }
+      ]
     },
     {
       "id": 715280,
@@ -253,9 +260,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15,
+          "usd": 0.14,
           "low": 0.14,
-          "mid": 0.15
+          "mid": 0.14
         }
       ]
     },
@@ -272,7 +279,7 @@
           "sub": "Foil",
           "usd": 0.15,
           "low": 0.15,
-          "mid": 0.2
+          "mid": 0.15
         }
       ]
     },
@@ -289,7 +296,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.15,
-          "mid": 0.2
+          "mid": 0.15
         }
       ]
     },
@@ -304,9 +311,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13,
+          "usd": 0.1,
           "low": 0.1,
-          "mid": 0.13
+          "mid": 0.1
         }
       ]
     },
@@ -321,12 +328,12 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.13,
           "low": 0.13,
-          "mid": 0.14
+          "mid": 0.13
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-14"
+  "pricesAt": "2026-11-15"
 }

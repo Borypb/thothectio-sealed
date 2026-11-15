@@ -50,7 +50,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.56,
+          "usd": 0.51,
           "low": 0.3,
           "mid": 0.5
         }
@@ -251,7 +251,7 @@
           "sub": "Foil",
           "usd": 0.75,
           "low": 0.6,
-          "mid": 0.75
+          "mid": 0.72
         }
       ]
     },
@@ -267,9 +267,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.03,
+          "usd": 5.13,
           "low": 4.5,
-          "mid": 5.49
+          "mid": 5.5
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/493682_200w.jpg"
@@ -313,5 +313,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/681959_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-14"
+  "pricesAt": "2026-11-15"
 }

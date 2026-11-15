@@ -1,6 +1,6 @@
 {
-  "version": 57,
-  "updatedAt": "2026-11-14",
+  "version": 58,
+  "updatedAt": "2026-11-15",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -44,8 +44,8 @@
       "files": {
         "en": {
           "file": "onepiece-en.json",
-          "version": 7,
-          "count": 315
+          "version": 8,
+          "count": 319
         }
       }
     },
@@ -148,57 +148,57 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-14",
-      "count": 395
+      "date": "2026-11-15",
+      "count": 396
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-14",
-      "count": 3188
+      "date": "2026-11-15",
+      "count": 3190
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-14",
-      "count": 959
+      "date": "2026-11-15",
+      "count": 960
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 160
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-14",
-      "count": 295
+      "date": "2026-11-15",
+      "count": 294
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 74
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 18
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 18
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 101
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "count": 26
     }
   }

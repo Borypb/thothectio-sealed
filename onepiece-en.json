@@ -1,8 +1,62 @@
 {
-  "version": 7,
+  "version": 8,
   "game": "onepiece",
   "lang": "en",
   "products": [
+    {
+      "id": "op-en-tcp733408",
+      "game": "onepiece",
+      "kind": "booster",
+      "name": "Extra Booster: East Blue Box",
+      "lang": "en",
+      "setIds": [
+        "op-eb06"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733408_200w.jpg",
+      "source": {
+        "tcgplayer": 733408
+      }
+    },
+    {
+      "id": "op-en-tcp733410",
+      "game": "onepiece",
+      "kind": "booster",
+      "name": "Extra Booster: East Blue Pack",
+      "lang": "en",
+      "setIds": [
+        "op-eb06"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733410_200w.jpg",
+      "source": {
+        "tcgplayer": 733410
+      }
+    },
+    {
+      "id": "op-en-tcp733411",
+      "game": "onepiece",
+      "kind": "collection",
+      "name": "One Piece Card Game Illustration Box Vol. 9",
+      "lang": "en",
+      "releasedAt": "2026-12-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733411_200w.jpg",
+      "source": {
+        "tcgplayer": 733411
+      }
+    },
+    {
+      "id": "op-en-tcp733414",
+      "game": "onepiece",
+      "kind": "collection",
+      "name": "One Piece Card Game Illustration Box Vol. 10",
+      "lang": "en",
+      "releasedAt": "2026-12-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733414_200w.jpg",
+      "source": {
+        "tcgplayer": 733414
+      }
+    },
     {
       "id": "op-en-tcp690658",
       "game": "onepiece",

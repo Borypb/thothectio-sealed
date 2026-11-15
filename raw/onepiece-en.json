@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-11-14T11:35:50.713Z",
+  "harvestedAt": "2026-11-15T12:00:34.637Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -268,7 +268,7 @@
     "17675": {
       "name": "One Piece Promotion Cards",
       "abbreviation": "OP-PR",
-      "modifiedOn": "2026-11-13T19:25:04.467",
+      "modifiedOn": "2026-11-14T18:08:22.07",
       "publishedOn": "2022-09-30",
       "products": [
         {
@@ -1534,6 +1534,38 @@
           "releasedOn": "2022-09-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/732640_200w.jpg",
           "url": "https://www.tcgplayer.com/product/732640/one-piece-card-game-one-piece-promotion-cards-regional-participation-pack-2026-vol-1"
+        },
+        {
+          "tcgplayerId": 733411,
+          "name": "One Piece Card Game Illustration Box Vol. 9",
+          "kind": "collection",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733411_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733411/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-9"
+        },
+        {
+          "tcgplayerId": 733412,
+          "name": "One Piece Card Game Illustration Box Vol. 9 Case",
+          "kind": "case",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733412_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733412/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-9-case"
+        },
+        {
+          "tcgplayerId": 733413,
+          "name": "One Piece Card Game Illustration Box Vol. 10 Case",
+          "kind": "case",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733413_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733413/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-10-case"
+        },
+        {
+          "tcgplayerId": 733414,
+          "name": "One Piece Card Game Illustration Box Vol. 10",
+          "kind": "collection",
+          "releasedOn": "2026-12-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733414_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733414/one-piece-card-game-one-piece-promotion-cards-one-piece-card-game-illustration-box-vol-10"
         }
       ]
     },
@@ -3594,7 +3626,7 @@
     "24545": {
       "name": "Extra Booster: One Piece Heroines Edition",
       "abbreviation": "EB03",
-      "modifiedOn": "2026-10-28T11:52:59.513",
+      "modifiedOn": "2026-11-14T17:27:22.377",
       "publishedOn": "2026-02-20",
       "setId": "op-eb03",
       "products": [
@@ -4249,6 +4281,39 @@
           "releasedOn": "2026-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/733372_200w.jpg",
           "url": "https://www.tcgplayer.com/product/733372/one-piece-card-game-the-dominance-of-god-release-event-cards-the-dominance-of-god-4th-anniversary-tournament-pack"
+        }
+      ]
+    },
+    "24946": {
+      "name": "Extra Booster: East Blue",
+      "abbreviation": "EB06",
+      "modifiedOn": "2026-11-14T17:35:51.377",
+      "publishedOn": "2027-01-29",
+      "setId": "op-eb06",
+      "products": [
+        {
+          "tcgplayerId": 733408,
+          "name": "Extra Booster: East Blue Box",
+          "kind": "booster",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733408_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733408/one-piece-card-game-extra-booster-east-blue-extra-booster-east-blue-box"
+        },
+        {
+          "tcgplayerId": 733409,
+          "name": "Extra Booster: East Blue Box Case",
+          "kind": "case",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733409_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733409/one-piece-card-game-extra-booster-east-blue-extra-booster-east-blue-box-case"
+        },
+        {
+          "tcgplayerId": 733410,
+          "name": "Extra Booster: East Blue Pack",
+          "kind": "booster",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733410_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733410/one-piece-card-game-extra-booster-east-blue-extra-booster-east-blue-pack"
         }
       ]
     }

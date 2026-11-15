@@ -24,7 +24,7 @@
       "name": "ウイス",
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-002.webp",
       "en": "Whis",
-      "rarity": "Uncommon"
+      "rarity": "UC"
     },
     {
       "number": "FB04-003",
@@ -871,7 +871,7 @@
       "name": "グロリオ：DA",
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-105.webp",
       "en": "Glorio : DA",
-      "rarity": "Rare"
+      "rarity": "R"
     },
     {
       "number": "FB04-106",
@@ -908,7 +908,7 @@
       "name": "孫悟空：GT",
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-109.webp",
       "en": "Son Goku : GT",
-      "rarity": "Rare"
+      "rarity": "R"
     },
     {
       "number": "FB04-110",
@@ -1100,7 +1100,7 @@
       "parallel": true,
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-077_p1.webp",
       "en": "Special Beam Cannon",
-      "rarity": "Rare"
+      "rarity": "R"
     },
     {
       "number": "FB03-102",
@@ -1118,7 +1118,7 @@
       "parallel": true,
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-137_p1.webp",
       "en": "10x Kamehameha",
-      "rarity": "Rare"
+      "rarity": "R"
     },
     {
       "number": "FB04-008",
@@ -1163,7 +1163,7 @@
       "parallel": true,
       "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-105_p1.webp",
       "en": "Glorio : DA",
-      "rarity": "Rare"
+      "rarity": "R"
     }
   ]
 }

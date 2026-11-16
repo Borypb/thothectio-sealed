@@ -1,6 +1,6 @@
 {
-  "version": 58,
-  "updatedAt": "2026-11-15",
+  "version": 59,
+  "updatedAt": "2026-11-16",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -148,57 +148,57 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-15",
-      "count": 396
+      "date": "2026-11-16",
+      "count": 398
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-15",
-      "count": 3190
+      "date": "2026-11-16",
+      "count": 3186
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-15",
-      "count": 960
+      "date": "2026-11-16",
+      "count": 957
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 160
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 294
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 74
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 18
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 18
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 101
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "count": 26
     }
   }

@@ -17,9 +17,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.65,
+          "usd": 1.29,
           "low": 1.29,
-          "mid": 1.65
+          "mid": 1.29
         },
         {
           "sub": "Foil",
@@ -45,9 +45,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.15,
-          "low": 1,
-          "mid": 1.15
+          "usd": 1.29,
+          "low": 1.29,
+          "mid": 1.29
         },
         {
           "sub": "Foil",
@@ -189,9 +189,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 1.02,
           "low": 0.75,
-          "mid": 1
+          "mid": 1.02
         },
         {
           "sub": "Foil",
@@ -217,9 +217,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.88,
+          "usd": 1.75,
           "low": 1.75,
-          "mid": 1.88
+          "mid": 1.75
         },
         {
           "sub": "Foil",
@@ -294,12 +294,6 @@
       ],
       "prices": [
         {
-          "sub": "Normal",
-          "usd": 2,
-          "low": 2,
-          "mid": 2
-        },
-        {
           "sub": "Foil",
           "usd": 1.5,
           "low": 1.5,
@@ -321,12 +315,6 @@
         "https://www.wowcards.info/scans/naxxramas/en/15.jpg"
       ],
       "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 3,
-          "mid": 3
-        },
         {
           "sub": "Foil",
           "usd": 2.99,
@@ -379,7 +367,7 @@
         },
         {
           "sub": "Foil",
-          "usd": 2.76,
+          "usd": 2.65,
           "low": 0.34,
           "mid": 2.87
         }
@@ -401,9 +389,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.15,
-          "low": 2,
-          "mid": 2.15
+          "usd": 2.29,
+          "low": 2.29,
+          "mid": 2.29
         },
         {
           "sub": "Foil",
@@ -435,7 +423,7 @@
         },
         {
           "sub": "Foil",
-          "usd": 2.87,
+          "usd": 2.75,
           "low": 0.5,
           "mid": 2.87
         }
@@ -479,7 +467,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.86,
+          "usd": 2.75,
           "low": 0.45,
           "mid": 2.75
         }
@@ -529,9 +517,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.86,
-          "low": 3.76,
-          "mid": 3.86
+          "usd": 3.95,
+          "low": 3.95,
+          "mid": 3.95
         },
         {
           "sub": "Foil",
@@ -585,7 +573,7 @@
         },
         {
           "sub": "Foil",
-          "usd": 1.91,
+          "usd": 1.87,
           "low": 0.75,
           "mid": 1.98
         }
@@ -607,9 +595,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.8,
+          "usd": 1.59,
           "low": 1.59,
-          "mid": 1.8
+          "mid": 1.59
         },
         {
           "sub": "Foil",
@@ -641,7 +629,7 @@
         },
         {
           "sub": "Foil",
-          "usd": 1.31,
+          "usd": 1.2,
           "low": 0.5,
           "mid": 1.2
         }
@@ -661,12 +649,6 @@
         "https://www.wowcards.info/scans/naxxramas/en/27.jpg"
       ],
       "prices": [
-        {
-          "sub": "Normal",
-          "usd": 2,
-          "low": 2,
-          "mid": 2
-        },
         {
           "sub": "Foil",
           "usd": 1.45,
@@ -741,9 +723,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.8,
+          "usd": 1.59,
           "low": 1.59,
-          "mid": 1.8
+          "mid": 1.59
         },
         {
           "sub": "Foil",
@@ -769,9 +751,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.31,
+          "usd": 2.43,
           "low": 0.35,
-          "mid": 4.31
+          "mid": 2.43
         },
         {
           "sub": "Foil",
@@ -892,5 +874,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-15"
+  "pricesAt": "2026-11-16"
 }

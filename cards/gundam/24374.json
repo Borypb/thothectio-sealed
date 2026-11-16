@@ -49,9 +49,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.72,
-          "low": 10.67,
-          "mid": 17.49
+          "usd": 13.17,
+          "low": 9.69,
+          "mid": 16.5
         }
       ]
     },
@@ -68,8 +68,8 @@
         {
           "sub": "Holofoil",
           "usd": 18.17,
-          "low": 15.39,
-          "mid": 18.3
+          "low": 14.87,
+          "mid": 18.17
         }
       ]
     },
@@ -87,7 +87,7 @@
           "sub": "Normal",
           "usd": 16.39,
           "low": 8.25,
-          "mid": 17.99
+          "mid": 17.47
         }
       ]
     },
@@ -139,7 +139,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.65,
+          "usd": 0.68,
           "low": 0.24,
           "mid": 0.95
         }
@@ -157,9 +157,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.85,
+          "usd": 0.86,
           "low": 0.67,
-          "mid": 0.99
+          "mid": 1
         }
       ]
     },
@@ -177,7 +177,7 @@
           "sub": "Holofoil",
           "usd": 0.43,
           "low": 0.24,
-          "mid": 0.61
+          "mid": 0.57
         }
       ]
     },
@@ -230,8 +230,8 @@
         {
           "sub": "Holofoil",
           "usd": 23.75,
-          "low": 23.42,
-          "mid": 27.88
+          "low": 22.92,
+          "mid": 27.78
         }
       ]
     },
@@ -249,7 +249,7 @@
           "sub": "Holofoil",
           "usd": 12.7,
           "low": 10,
-          "mid": 14.07
+          "mid": 13.95
         }
       ]
     },
@@ -267,7 +267,7 @@
           "sub": "Holofoil",
           "usd": 12.43,
           "low": 10.25,
-          "mid": 12.71
+          "mid": 12.84
         }
       ]
     },
@@ -284,8 +284,8 @@
         {
           "sub": "Holofoil",
           "usd": 14.53,
-          "low": 13.93,
-          "mid": 15.25
+          "low": 13.15,
+          "mid": 15.12
         }
       ]
     },
@@ -321,7 +321,7 @@
           "sub": "Holofoil",
           "usd": 23.9,
           "low": 21,
-          "mid": 26.96
+          "mid": 26.95
         }
       ]
     },
@@ -337,7 +337,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 25.68,
+          "usd": 25.66,
           "low": 22,
           "mid": 26.99
         }
@@ -355,7 +355,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 63.5,
+          "usd": 63.09,
           "low": 54.95,
           "mid": 60
         }
@@ -388,14 +388,7 @@
       "type": "EX Base",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/696885_200w.jpg",
       "url": "https://www.tcgplayer.com/product/696885/gundam-card-game-promotional-ex-base-tokens-ex-base-exbp-018-the-sorcery-of-nymph-circe-movie-release",
-      "prices": [
-        {
-          "sub": "Holofoil",
-          "usd": 192.09,
-          "low": 299.67,
-          "mid": 299.67
-        }
-      ]
+      "prices": []
     },
     {
       "id": 708069,
@@ -409,9 +402,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 2.96,
+          "usd": 2.94,
           "low": 2,
-          "mid": 6.3
+          "mid": 6.97
         }
       ]
     },
@@ -427,9 +420,9 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.16,
+          "usd": 5.93,
           "low": 4.5,
-          "mid": 8.99
+          "mid": 9.17
         }
       ]
     },
@@ -447,7 +440,7 @@
           "sub": "Holofoil",
           "usd": 6.39,
           "low": 5.49,
-          "mid": 11.39
+          "mid": 10.7
         }
       ]
     },
@@ -465,7 +458,7 @@
           "sub": "Holofoil",
           "usd": 88.61,
           "low": 67.53,
-          "mid": 73.34
+          "mid": 74.98
         }
       ]
     },
@@ -481,7 +474,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.95,
+          "usd": 6.83,
           "low": 6,
           "mid": 24.99
         }
@@ -501,7 +494,7 @@
           "sub": "Holofoil",
           "usd": 10000,
           "low": 6298.99,
-          "mid": 7099.5
+          "mid": 7900
         }
       ]
     },
@@ -528,12 +521,12 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 15.45,
-          "low": 14.87,
-          "mid": 16.49
+          "usd": 15.37,
+          "low": 14.49,
+          "mid": 16.25
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-15"
+  "pricesAt": "2026-11-16"
 }

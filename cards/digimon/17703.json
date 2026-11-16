@@ -14,7 +14,7 @@
           "sub": "Foil",
           "usd": 0.31,
           "low": 0.15,
-          "mid": 0.35
+          "mid": 0.36
         }
       ]
     },
@@ -31,7 +31,7 @@
           "sub": "Foil",
           "usd": 0.65,
           "low": 0.25,
-          "mid": 1.12
+          "mid": 1.19
         }
       ]
     },
@@ -133,7 +133,7 @@
           "sub": "Foil",
           "usd": 2.46,
           "low": 1.99,
-          "mid": 2.67
+          "mid": 2.68
         }
       ]
     },
@@ -167,7 +167,7 @@
           "sub": "Foil",
           "usd": 0.69,
           "low": 0.3,
-          "mid": 0.72
+          "mid": 0.75
         }
       ]
     },
@@ -201,7 +201,7 @@
           "sub": "Foil",
           "usd": 2.67,
           "low": 2,
-          "mid": 3.8
+          "mid": 3.85
         }
       ]
     },
@@ -237,7 +237,7 @@
           "sub": "Foil",
           "usd": 0.15,
           "low": 0.05,
-          "mid": 0.21
+          "mid": 0.2
         }
       ]
     },
@@ -289,9 +289,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.72,
+          "usd": 0.71,
           "low": 0.2,
-          "mid": 0.96
+          "mid": 0.99
         }
       ]
     },
@@ -309,7 +309,7 @@
           "sub": "Foil",
           "usd": 0.54,
           "low": 0.26,
-          "mid": 0.72
+          "mid": 0.69
         }
       ]
     },
@@ -327,7 +327,7 @@
           "sub": "Foil",
           "usd": 0.32,
           "low": 0.18,
-          "mid": 0.39
+          "mid": 0.37
         }
       ]
     },
@@ -397,9 +397,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.67,
+          "usd": 1.65,
           "low": 0.89,
-          "mid": 2.44
+          "mid": 2.45
         }
       ]
     },
@@ -471,7 +471,7 @@
           "sub": "Foil",
           "usd": 5.14,
           "low": 2.59,
-          "mid": 6.29
+          "mid": 6.49
         }
       ]
     },
@@ -506,8 +506,8 @@
         {
           "sub": "Foil",
           "usd": 19.99,
-          "low": 15,
-          "mid": 20
+          "low": 14.99,
+          "mid": 19.99
         }
       ]
     },
@@ -538,14 +538,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/564268_200w.jpg",
       "url": "https://www.tcgplayer.com/product/564268/digimon-card-game-starter-deck-14-beelzemon-advanced-deck-set-beelzemon-blast-mode-digimon-3-on-3-champion",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 249.84,
-          "low": 500,
-          "mid": 500
-        }
-      ]
+      "prices": []
     },
     {
       "id": 619050,
@@ -595,12 +588,12 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.89,
+          "usd": 0.91,
           "low": 0.54,
           "mid": 1
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-15"
+  "pricesAt": "2026-11-16"
 }

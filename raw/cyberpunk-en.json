@@ -2,7 +2,7 @@
   "game": "cyberpunk",
   "lang": "en",
   "categoryId": 92,
-  "harvestedAt": "2026-11-16T12:55:42.599Z",
+  "harvestedAt": "2026-11-17T13:38:18.698Z",
   "groups": {
     "24845": {
       "name": "Welcome to Night City - Beta",
@@ -246,10 +246,155 @@
     "24884": {
       "name": "Night City Brawl Season 1",
       "abbreviation": "NCB01",
-      "modifiedOn": "2026-10-15T18:51:50.733",
+      "modifiedOn": "2026-11-16T19:34:14.467",
       "publishedOn": "2026-09-11",
       "setId": "cyb-g24884",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 733492,
+          "name": "Kerry Eurodyne - The Last Rockerboy (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733492_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733492/cyberpunk-tcg-night-city-brawl-season-1-kerry-eurodyne-the-last-rockerboy-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733493,
+          "name": "Minotaur (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733493_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733493/cyberpunk-tcg-night-city-brawl-season-1-minotaur-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733494,
+          "name": "Satori - Sword of Saburo (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733494_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733494/cyberpunk-tcg-night-city-brawl-season-1-satori-sword-of-saburo-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733495,
+          "name": "Jackie Welles - Ride or Die Choom (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733495_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733495/cyberpunk-tcg-night-city-brawl-season-1-jackie-welles-ride-or-die-choom-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733496,
+          "name": "Secondhand Bombus (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733496_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733496/cyberpunk-tcg-night-city-brawl-season-1-secondhand-bombus-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733497,
+          "name": "Mandibular Upgrade (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733497_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733497/cyberpunk-tcg-night-city-brawl-season-1-mandibular-upgrade-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733498,
+          "name": "Bootleg Black Sapphire Show (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733498_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733498/cyberpunk-tcg-night-city-brawl-season-1-bootleg-black-sapphire-show-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733499,
+          "name": "Cyberpsychosis (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733499_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733499/cyberpunk-tcg-night-city-brawl-season-1-cyberpsychosis-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733500,
+          "name": "Corpo Security (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733500_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733500/cyberpunk-tcg-night-city-brawl-season-1-corpo-security-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733501,
+          "name": "MaxTac Squadron (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733501_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733501/cyberpunk-tcg-night-city-brawl-season-1-maxtac-squadron-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733502,
+          "name": "Wraith Marauders (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733502_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733502/cyberpunk-tcg-night-city-brawl-season-1-wraith-marauders-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733503,
+          "name": "(Don't Fear) The Reaper (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733503_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733503/cyberpunk-tcg-night-city-brawl-season-1-dont-fear-the-reaper-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733504,
+          "name": "We Gotta Live Together (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733504_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733504/cyberpunk-tcg-night-city-brawl-season-1-we-gotta-live-together-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733505,
+          "name": "Delamain Cab (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733505_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733505/cyberpunk-tcg-night-city-brawl-season-1-delamain-cab-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733506,
+          "name": "Maman Brigitte - Spirit of Death (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733506/cyberpunk-tcg-night-city-brawl-season-1-maman-brigitte-spirit-of-death-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733507,
+          "name": "Dying Night - V's Pistol (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733507_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733507/cyberpunk-tcg-night-city-brawl-season-1-dying-night-vs-pistol-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733508,
+          "name": "NetWatch Netdriver (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733508_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733508/cyberpunk-tcg-night-city-brawl-season-1-netwatch-netdriver-brawl-champ"
+        },
+        {
+          "tcgplayerId": 733509,
+          "name": "Floor It (Brawl Champ)",
+          "kind": "other",
+          "releasedOn": "2026-09-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733509_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733509/cyberpunk-tcg-night-city-brawl-season-1-floor-it-brawl-champ"
+        }
+      ]
     },
     "24927": {
       "name": "Judge Promos",

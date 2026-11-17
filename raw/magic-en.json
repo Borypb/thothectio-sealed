@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-16T12:53:50.433Z",
+  "harvestedAt": "2026-11-17T13:36:12.180Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -888,7 +888,7 @@
     "23": {
       "name": "Classic Sixth Edition",
       "abbreviation": "6ED",
-      "modifiedOn": "2026-09-18T02:46:39.57",
+      "modifiedOn": "2026-11-16T16:21:40.033",
       "publishedOn": "1999-04-28",
       "setId": "mtg-6ed",
       "products": [
@@ -2857,7 +2857,7 @@
     "72": {
       "name": "Media Promos",
       "abbreviation": "MEDIA",
-      "modifiedOn": "2026-11-12T14:49:47.627",
+      "modifiedOn": "2026-11-16T15:00:52.227",
       "products": [
         {
           "tcgplayerId": 70795,
@@ -4128,7 +4128,7 @@
     "92": {
       "name": "Prerelease Cards",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-11-12T14:45:37.69",
+      "modifiedOn": "2026-11-16T19:09:42.09",
       "products": []
     },
     "93": {
@@ -5008,7 +5008,7 @@
     "108": {
       "name": "Tempest",
       "abbreviation": "TMP",
-      "modifiedOn": "2026-09-17T15:54:27.067",
+      "modifiedOn": "2026-11-16T14:28:26.197",
       "publishedOn": "1997-10-13",
       "setId": "mtg-tmp",
       "products": [
@@ -7117,7 +7117,7 @@
     "1163": {
       "name": "Unique and Miscellaneous Promos",
       "abbreviation": "UMP",
-      "modifiedOn": "2026-11-12T14:38:40.107",
+      "modifiedOn": "2026-11-16T14:52:40.957",
       "products": [
         {
           "tcgplayerId": 217567,
@@ -7195,6 +7195,13 @@
           "kind": "deck",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/721785_200w.jpg",
           "url": "https://www.tcgplayer.com/product/721785/magic-unique-and-miscellaneous-promos-garuuk-wildspeaker-m13-sample-deck"
+        },
+        {
+          "tcgplayerId": 733447,
+          "name": "The Lord of the Rings: The Hobbit Middle-Earth Booster Kit",
+          "kind": "booster",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733447_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733447/magic-unique-and-miscellaneous-promos-the-lord-of-the-rings-the-hobbit-middle-earth-booster-kit"
         }
       ]
     },
@@ -12952,7 +12959,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-13T16:23:34.953",
+      "modifiedOn": "2026-11-16T18:36:36.57",
       "setId": "mtg-sld",
       "products": [
         {
@@ -20331,10 +20338,10 @@
         },
         {
           "tcgplayerId": 715298,
-          "name": "Secret Lair Drop: Secret Lair x The Hobbit - Arcane Signet As \"Heat of the Mountain\"  - Traditional Foil Edition",
+          "name": "Secret Lair Drop: Secret Lair x The Hobbit - Arcane Signet As \"Heart of the Mountain\"  - Traditional Foil Edition",
           "kind": "collection",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/715298_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/715298/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-the-hobbit-arcane-signet-as-heat-of-the-mountain-traditional-foil-edition"
+          "url": "https://www.tcgplayer.com/product/715298/magic-secret-lair-drop-series-secret-lair-drop-secret-lair-x-the-hobbit-arcane-signet-as-heart-of-the-mountain-traditional-foil-edition"
         },
         {
           "tcgplayerId": 715701,
@@ -21823,7 +21830,7 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-12T21:44:53.34",
+      "modifiedOn": "2026-11-16T14:21:03.043",
       "products": []
     },
     "2716": {
@@ -24370,7 +24377,7 @@
     "3054": {
       "name": "SLX Cards",
       "abbreviation": "SLX",
-      "modifiedOn": "2026-08-26T19:14:50.887",
+      "modifiedOn": "2026-11-16T18:35:05.837",
       "setId": "mtg-slx",
       "products": []
     },
@@ -26302,7 +26309,7 @@
     "23025": {
       "name": "Un-Known Event Playtest Cards",
       "abbreviation": "UNK",
-      "modifiedOn": "2026-11-03T15:44:12.247",
+      "modifiedOn": "2026-11-16T14:40:08.89",
       "setId": "mtg-unk",
       "products": []
     },
@@ -26533,7 +26540,7 @@
     "23164": {
       "name": "Commander: Wilds of Eldraine",
       "abbreviation": "WOC",
-      "modifiedOn": "2026-10-26T12:50:14.807",
+      "modifiedOn": "2026-11-16T16:13:46.933",
       "publishedOn": "2023-09-08",
       "setId": "mtg-woc",
       "products": [
@@ -27349,7 +27356,7 @@
     "23439": {
       "name": "Outlaws of Thunder Junction",
       "abbreviation": "OTJ",
-      "modifiedOn": "2026-11-12T15:04:41.333",
+      "modifiedOn": "2026-11-16T16:14:36.74",
       "publishedOn": "2024-04-19",
       "setId": "mtg-otj",
       "products": [
@@ -27559,7 +27566,7 @@
     "23444": {
       "name": "Modern Horizons 3",
       "abbreviation": "MH3",
-      "modifiedOn": "2026-11-12T16:28:18.603",
+      "modifiedOn": "2026-11-16T14:13:27.267",
       "publishedOn": "2024-06-14",
       "setId": "mtg-mh3",
       "products": [
@@ -28330,7 +28337,7 @@
     "23551": {
       "name": "Commander: Duskmourn: House of Horror",
       "abbreviation": "DSC",
-      "modifiedOn": "2026-11-09T13:47:23.98",
+      "modifiedOn": "2026-11-16T14:21:00.973",
       "publishedOn": "2024-09-27",
       "setId": "mtg-dsc",
       "products": [
@@ -28530,7 +28537,7 @@
     "23580": {
       "name": "Mystery Booster 2",
       "abbreviation": "MB2",
-      "modifiedOn": "2026-11-03T15:11:03.363",
+      "modifiedOn": "2026-11-16T16:29:14.613",
       "publishedOn": "2024-10-25",
       "setId": "mtg-mb2",
       "products": [
@@ -29597,7 +29604,7 @@
     "24233": {
       "name": "Edge of Eternities",
       "abbreviation": "EOE",
-      "modifiedOn": "2026-11-12T17:19:38.237",
+      "modifiedOn": "2026-11-16T14:29:46.3",
       "publishedOn": "2025-08-01",
       "setId": "mtg-eoe",
       "products": [
@@ -29848,7 +29855,7 @@
     "24245": {
       "name": "Marvel's Spider-Man",
       "abbreviation": "SPM",
-      "modifiedOn": "2026-11-10T02:51:10.26",
+      "modifiedOn": "2026-11-16T14:19:49.737",
       "publishedOn": "2025-09-26",
       "setId": "mtg-spm",
       "products": [
@@ -30063,7 +30070,7 @@
     "24376": {
       "name": "Promo Pack: Edge of Eternities",
       "abbreviation": "PPEOE",
-      "modifiedOn": "2026-10-12T20:27:08.677",
+      "modifiedOn": "2026-11-16T16:07:35.1",
       "publishedOn": "2025-08-01",
       "products": [
         {
@@ -30335,7 +30342,7 @@
     "24422": {
       "name": "Avatar: The Last Airbender: Eternal-Legal",
       "abbreviation": "TLE",
-      "modifiedOn": "2026-10-21T04:49:07.79",
+      "modifiedOn": "2026-11-16T18:07:22.11",
       "publishedOn": "2025-11-21",
       "setId": "mtg-tle",
       "products": []
@@ -31699,7 +31706,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-11-12T16:20:30.833",
+      "modifiedOn": "2026-11-16T17:37:14.19",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -31811,7 +31818,7 @@
           "tcgplayerId": 692992,
           "name": "Reality Fracture - Secret Lair Bundle Case",
           "kind": "case",
-          "releasedOn": "2026-10-23",
+          "releasedOn": "2026-10-02",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692992_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692992/magic-reality-fracture-reality-fracture-secret-lair-bundle-case"
         },
@@ -31868,7 +31875,7 @@
     "24691": {
       "name": "The Hobbit: Eternal-Legal",
       "abbreviation": "HOC",
-      "modifiedOn": "2026-11-11T20:14:13.06",
+      "modifiedOn": "2026-11-16T16:16:46.783",
       "publishedOn": "2026-08-14",
       "setId": "mtg-hoc",
       "products": []
@@ -31883,7 +31890,7 @@
     "24766": {
       "name": "Star Trek",
       "abbreviation": "TRK",
-      "modifiedOn": "2026-11-13T02:05:38.973",
+      "modifiedOn": "2026-11-16T13:42:38.333",
       "publishedOn": "2026-11-13",
       "setId": "mtg-trk",
       "products": [
@@ -32174,7 +32181,7 @@
     "24836": {
       "name": "Secret Lair x MSCHF: The Zeta Set",
       "abbreviation": "SLZ",
-      "modifiedOn": "2026-11-13T15:23:56.39",
+      "modifiedOn": "2026-11-16T16:46:26.67",
       "publishedOn": "2026-09-02",
       "setId": "mtg-slz",
       "products": [
@@ -32466,6 +32473,103 @@
       "abbreviation": "ASTRK",
       "modifiedOn": "2026-11-04T14:04:07.84",
       "publishedOn": "2026-11-13",
+      "products": []
+    },
+    "24947": {
+      "name": "Nauctis: The Sunken Realm",
+      "abbreviation": "NAU",
+      "modifiedOn": "2026-11-16T19:43:09.053",
+      "publishedOn": "2027-02-05",
+      "setId": "mtg-nau",
+      "products": [
+        {
+          "tcgplayerId": 733515,
+          "name": "Calmwater Mentor",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733515_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733515/magic-nauctis-the-sunken-realm-calmwater-mentor"
+        },
+        {
+          "tcgplayerId": 733517,
+          "name": "Calmwater Mentor (Showcase)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733517_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733517/magic-nauctis-the-sunken-realm-calmwater-mentor-showcase"
+        },
+        {
+          "tcgplayerId": 733518,
+          "name": "Salinae, the Ocean Mother",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733518_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733518/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother"
+        },
+        {
+          "tcgplayerId": 733519,
+          "name": "Salinae, the Ocean Mother (Borderless) (0321)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733519_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733519/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-borderless-0321"
+        },
+        {
+          "tcgplayerId": 733520,
+          "name": "Salinae, the Ocean Mother (Showcase)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733520_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733520/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-showcase"
+        },
+        {
+          "tcgplayerId": 733521,
+          "name": "Salinae, the Ocean Mother (Showcase) (Fracture Foil)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733521_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733521/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-showcase-fracture-foil"
+        },
+        {
+          "tcgplayerId": 733522,
+          "name": "Salinae, the Ocean Mother (Borderless) (0409)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733522_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733522/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-borderless-0409"
+        },
+        {
+          "tcgplayerId": 733523,
+          "name": "Tecton, Malignant Ruin (Borderless) (0410)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733523_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733523/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-borderless-0410"
+        },
+        {
+          "tcgplayerId": 733524,
+          "name": "Tecton, Malignant Ruin (Showcase) (Fracture Foil)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733524_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733524/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-showcase-fracture-foil"
+        },
+        {
+          "tcgplayerId": 733525,
+          "name": "Tecton, Malignant Ruin (Showcase)",
+          "kind": "other",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733525_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733525/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-showcase"
+        }
+      ]
+    },
+    "24948": {
+      "name": "Commander: Nauctis: The Sunken Realm",
+      "abbreviation": "NAC",
+      "modifiedOn": "2026-11-16T19:33:23.897",
+      "publishedOn": "2027-02-05",
+      "setId": "mtg-nac",
       "products": []
     }
   }

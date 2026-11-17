@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "cyberpunk",
   "lang": "en",
   "products": [
@@ -76,6 +76,276 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/727957_200w.jpg",
       "source": {
         "tcgplayer": 727957
+      }
+    },
+    {
+      "id": "cyb-en-tcp733492",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Kerry Eurodyne - The Last Rockerboy (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733492_200w.jpg",
+      "source": {
+        "tcgplayer": 733492
+      }
+    },
+    {
+      "id": "cyb-en-tcp733493",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Minotaur (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733493_200w.jpg",
+      "source": {
+        "tcgplayer": 733493
+      }
+    },
+    {
+      "id": "cyb-en-tcp733494",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Satori - Sword of Saburo (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733494_200w.jpg",
+      "source": {
+        "tcgplayer": 733494
+      }
+    },
+    {
+      "id": "cyb-en-tcp733495",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Jackie Welles - Ride or Die Choom (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733495_200w.jpg",
+      "source": {
+        "tcgplayer": 733495
+      }
+    },
+    {
+      "id": "cyb-en-tcp733496",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Secondhand Bombus (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733496_200w.jpg",
+      "source": {
+        "tcgplayer": 733496
+      }
+    },
+    {
+      "id": "cyb-en-tcp733497",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Mandibular Upgrade (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733497_200w.jpg",
+      "source": {
+        "tcgplayer": 733497
+      }
+    },
+    {
+      "id": "cyb-en-tcp733498",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Bootleg Black Sapphire Show (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733498_200w.jpg",
+      "source": {
+        "tcgplayer": 733498
+      }
+    },
+    {
+      "id": "cyb-en-tcp733499",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Cyberpsychosis (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733499_200w.jpg",
+      "source": {
+        "tcgplayer": 733499
+      }
+    },
+    {
+      "id": "cyb-en-tcp733500",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Corpo Security (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733500_200w.jpg",
+      "source": {
+        "tcgplayer": 733500
+      }
+    },
+    {
+      "id": "cyb-en-tcp733501",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "MaxTac Squadron (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733501_200w.jpg",
+      "source": {
+        "tcgplayer": 733501
+      }
+    },
+    {
+      "id": "cyb-en-tcp733502",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Wraith Marauders (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733502_200w.jpg",
+      "source": {
+        "tcgplayer": 733502
+      }
+    },
+    {
+      "id": "cyb-en-tcp733503",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "(Don't Fear) The Reaper (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733503_200w.jpg",
+      "source": {
+        "tcgplayer": 733503
+      }
+    },
+    {
+      "id": "cyb-en-tcp733504",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "We Gotta Live Together (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733504_200w.jpg",
+      "source": {
+        "tcgplayer": 733504
+      }
+    },
+    {
+      "id": "cyb-en-tcp733505",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Delamain Cab (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733505_200w.jpg",
+      "source": {
+        "tcgplayer": 733505
+      }
+    },
+    {
+      "id": "cyb-en-tcp733506",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Maman Brigitte - Spirit of Death (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733506_200w.jpg",
+      "source": {
+        "tcgplayer": 733506
+      }
+    },
+    {
+      "id": "cyb-en-tcp733507",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Dying Night - V's Pistol (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733507_200w.jpg",
+      "source": {
+        "tcgplayer": 733507
+      }
+    },
+    {
+      "id": "cyb-en-tcp733508",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "NetWatch Netdriver (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733508_200w.jpg",
+      "source": {
+        "tcgplayer": 733508
+      }
+    },
+    {
+      "id": "cyb-en-tcp733509",
+      "game": "cyberpunk",
+      "kind": "other",
+      "name": "Floor It (Brawl Champ)",
+      "lang": "en",
+      "setIds": [
+        "cyb-g24884"
+      ],
+      "releasedAt": "2026-09-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733509_200w.jpg",
+      "source": {
+        "tcgplayer": 733509
       }
     },
     {

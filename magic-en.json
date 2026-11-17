@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -271,6 +271,156 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723286_200w.jpg",
       "source": {
         "tcgplayer": 723286
+      }
+    },
+    {
+      "id": "mtg-en-tcp733515",
+      "game": "magic",
+      "kind": "other",
+      "name": "Calmwater Mentor",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733515_200w.jpg",
+      "source": {
+        "tcgplayer": 733515
+      }
+    },
+    {
+      "id": "mtg-en-tcp733517",
+      "game": "magic",
+      "kind": "other",
+      "name": "Calmwater Mentor (Showcase)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733517_200w.jpg",
+      "source": {
+        "tcgplayer": 733517
+      }
+    },
+    {
+      "id": "mtg-en-tcp733518",
+      "game": "magic",
+      "kind": "other",
+      "name": "Salinae, the Ocean Mother",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733518_200w.jpg",
+      "source": {
+        "tcgplayer": 733518
+      }
+    },
+    {
+      "id": "mtg-en-tcp733519",
+      "game": "magic",
+      "kind": "other",
+      "name": "Salinae, the Ocean Mother (Borderless) (0321)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733519_200w.jpg",
+      "source": {
+        "tcgplayer": 733519
+      }
+    },
+    {
+      "id": "mtg-en-tcp733520",
+      "game": "magic",
+      "kind": "other",
+      "name": "Salinae, the Ocean Mother (Showcase)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733520_200w.jpg",
+      "source": {
+        "tcgplayer": 733520
+      }
+    },
+    {
+      "id": "mtg-en-tcp733521",
+      "game": "magic",
+      "kind": "other",
+      "name": "Salinae, the Ocean Mother (Showcase) (Fracture Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733521_200w.jpg",
+      "source": {
+        "tcgplayer": 733521
+      }
+    },
+    {
+      "id": "mtg-en-tcp733522",
+      "game": "magic",
+      "kind": "other",
+      "name": "Salinae, the Ocean Mother (Borderless) (0409)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733522_200w.jpg",
+      "source": {
+        "tcgplayer": 733522
+      }
+    },
+    {
+      "id": "mtg-en-tcp733523",
+      "game": "magic",
+      "kind": "other",
+      "name": "Tecton, Malignant Ruin (Borderless) (0410)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733523_200w.jpg",
+      "source": {
+        "tcgplayer": 733523
+      }
+    },
+    {
+      "id": "mtg-en-tcp733524",
+      "game": "magic",
+      "kind": "other",
+      "name": "Tecton, Malignant Ruin (Showcase) (Fracture Foil)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733524_200w.jpg",
+      "source": {
+        "tcgplayer": 733524
+      }
+    },
+    {
+      "id": "mtg-en-tcp733525",
+      "game": "magic",
+      "kind": "other",
+      "name": "Tecton, Malignant Ruin (Showcase)",
+      "lang": "en",
+      "setIds": [
+        "mtg-nau"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733525_200w.jpg",
+      "source": {
+        "tcgplayer": 733525
       }
     },
     {
@@ -47830,7 +47980,7 @@
       "id": "mtg-en-tcp715298",
       "game": "magic",
       "kind": "collection",
-      "name": "Secret Lair Drop: Secret Lair x The Hobbit - Arcane Signet As \"Heat of the Mountain\"  - Traditional Foil Edition",
+      "name": "Secret Lair Drop: Secret Lair x The Hobbit - Arcane Signet As \"Heart of the Mountain\"  - Traditional Foil Edition",
       "lang": "en",
       "setIds": [
         "mtg-sld"
@@ -47946,6 +48096,17 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722935_200w.jpg",
       "source": {
         "tcgplayer": 722935
+      }
+    },
+    {
+      "id": "mtg-en-tcp733447",
+      "game": "magic",
+      "kind": "booster",
+      "name": "The Lord of the Rings: The Hobbit Middle-Earth Booster Kit",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733447_200w.jpg",
+      "source": {
+        "tcgplayer": 733447
       }
     },
     {

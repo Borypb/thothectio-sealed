@@ -58,14 +58,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
-        }
-      ]
+      "prices": []
     },
     {
       "id": 17921,
@@ -79,14 +72,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/36.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 2.5,
-          "low": 2,
-          "mid": 2.5
-        }
-      ]
+      "prices": []
     },
     {
       "id": 17922,
@@ -100,14 +86,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
-        }
-      ]
+      "prices": []
     },
     {
       "id": 17923,
@@ -124,9 +103,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1,
+          "usd": 0.99,
           "low": 0.99,
-          "mid": 1
+          "mid": 0.99
         }
       ]
     },
@@ -142,14 +121,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/42.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
-        }
-      ]
+      "prices": []
     },
     {
       "id": 17925,
@@ -163,14 +135,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/43.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3.99,
-          "low": 3.99,
-          "mid": 3.99
-        }
-      ]
+      "prices": []
     },
     {
       "id": 21395,
@@ -598,9 +563,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.99,
+          "usd": 0.49,
           "low": 0.49,
-          "mid": 0.99
+          "mid": 0.49
         }
       ]
     },
@@ -616,14 +581,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
-        }
-      ]
+      "prices": []
     },
     {
       "id": 21424,
@@ -637,14 +595,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3,
-          "low": 2,
-          "mid": 3
-        }
-      ]
+      "prices": []
     },
     {
       "id": 21425,
@@ -696,5 +647,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-16"
+  "pricesAt": "2026-11-17"
 }

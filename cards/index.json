@@ -631,8 +631,8 @@
           "groupId": 24941,
           "name": "Limited Card Pack -Distancia Cero-",
           "code": "LM-09",
-          "releasedAt": "2026-11-27",
-          "modifiedOn": "2026-11-13T16:10:30.523",
+          "releasedAt": "2026-11-17",
+          "modifiedOn": "2026-11-16T19:13:52.08",
           "count": 33,
           "file": "cards/digimon/24941.json",
           "version": "fffa81b85906"
@@ -1848,7 +1848,7 @@
           "name": "Night City Brawl Season 1",
           "code": "NCB01",
           "releasedAt": "2026-09-11",
-          "modifiedOn": "2026-10-15T18:51:50.733",
+          "modifiedOn": "2026-11-16T19:34:14.467",
           "count": 18,
           "file": "cards/cyberpunk/24884.json",
           "version": "6c70efa498e9"
@@ -1920,7 +1920,7 @@
           "name": "Stardust Trails",
           "code": "GD06",
           "releasedAt": "2026-10-30",
-          "modifiedOn": "2026-11-04T16:16:27.247",
+          "modifiedOn": "2026-11-16T19:49:22.913",
           "count": 189,
           "file": "cards/gundam/24804.json",
           "version": "10d6720cd355"
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-17"
 }

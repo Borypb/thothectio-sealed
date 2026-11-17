@@ -32,8 +32,8 @@
         {
           "sub": "Foil",
           "usd": 387,
-          "low": 405,
-          "mid": 999.98
+          "low": 403.6,
+          "mid": 698.27
         }
       ]
     },
@@ -86,8 +86,8 @@
         {
           "sub": "Foil",
           "usd": 447.4,
-          "low": 598,
-          "mid": 649.99
+          "low": 447.4,
+          "mid": 624.27
         }
       ]
     },
@@ -219,14 +219,7 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716034_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716034/riftbound-league-of-legends-trading-card-game-t1-2025-worlds-champion-bundles-seraphine-not-alone-t1-worlds-champion-player-bundle",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 100,
-          "low": 100,
-          "mid": 100
-        }
-      ]
+      "prices": []
     },
     {
       "id": 716035,
@@ -258,5 +251,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-16"
+  "pricesAt": "2026-11-17"
 }

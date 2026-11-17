@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-16T12:05:55.466Z",
+  "harvestedAt": "2026-11-17T12:31:08.996Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -642,7 +642,7 @@
     "1377": {
       "name": "EX Team Magma vs Team Aqua",
       "abbreviation": "MA",
-      "modifiedOn": "2026-08-04T20:39:39.937",
+      "modifiedOn": "2026-11-16T14:01:52.98",
       "publishedOn": "2004-03-15",
       "setCode": "ex4",
       "products": [
@@ -17850,7 +17850,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-10-28T17:38:14.177",
+      "modifiedOn": "2026-11-16T14:11:25.703",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -22017,19 +22017,10 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-12T19:29:19.243",
+      "modifiedOn": "2026-11-16T16:38:44.377",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
-      "products": [
-        {
-          "tcgplayerId": 732872,
-          "name": "Kyogre - 117 (Pokemon Center Exclusive)",
-          "kind": "other",
-          "releasedOn": "2025-09-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/732872_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/732872/pokemon-me-mega-evolution-promo-kyogre-117-pokemon-center-exclusive"
-        }
-      ]
+      "products": []
     },
     "24461": {
       "name": "MEE: Mega Evolution Energies",

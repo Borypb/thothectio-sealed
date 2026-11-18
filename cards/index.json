@@ -500,10 +500,10 @@
           "name": "Fusion World Promotion Cards and Packs",
           "code": "DBSFW_PR",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-11-10T16:01:53.757",
+          "modifiedOn": "2026-11-17T18:43:54.053",
           "count": 119,
           "file": "cards/dragonball/23428.json",
-          "version": "9963696afae9"
+          "version": "fc0bf31e3433"
         },
         {
           "groupId": 23429,
@@ -1687,7 +1687,7 @@
           "name": "Unleashed",
           "code": "UNL",
           "releasedAt": "2026-05-08",
-          "modifiedOn": "2026-11-11T14:06:45.907",
+          "modifiedOn": "2026-11-17T16:03:07.653",
           "count": 314,
           "file": "cards/riftbound/24560.json",
           "version": "b79ec6efad8c"
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-18"
 }

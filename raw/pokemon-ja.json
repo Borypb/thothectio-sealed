@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-17T12:31:10.511Z",
+  "harvestedAt": "2026-11-18T12:19:38.260Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -1887,7 +1887,7 @@
     "23698": {
       "name": "SM7a: Thunderclap Spark",
       "abbreviation": "SM7a",
-      "modifiedOn": "2026-10-07T16:13:06.34",
+      "modifiedOn": "2026-11-17T13:39:15.453",
       "publishedOn": "2018-07-06",
       "setCode": "SM7a",
       "products": [
@@ -1906,6 +1906,14 @@
           "releasedOn": "2018-07-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/576940_200w.jpg",
           "url": "https://www.tcgplayer.com/product/576940/pokemon-japan-sm7a-thunderclap-spark-thunderclap-spark-booster-box"
+        },
+        {
+          "tcgplayerId": 733562,
+          "name": "Zeraora Special Jumbo Card Pack",
+          "kind": "other",
+          "releasedOn": "2018-07-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733562_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733562/pokemon-japan-sm7a-thunderclap-spark-zeraora-special-jumbo-card-pack"
         }
       ]
     },
@@ -3225,7 +3233,7 @@
     "23881": {
       "name": "SM-P: Sun & Moon Promos",
       "abbreviation": "SM-P",
-      "modifiedOn": "2026-07-23T17:44:47.043",
+      "modifiedOn": "2026-11-17T14:09:37.99",
       "publishedOn": "2016-11-01",
       "products": []
     },

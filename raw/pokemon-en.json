@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-17T12:31:08.996Z",
+  "harvestedAt": "2026-11-18T12:19:34.811Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -2413,7 +2413,7 @@
     "1418": {
       "name": "WoTC Promo",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-28T17:46:24.57",
+      "modifiedOn": "2026-11-17T03:41:22.403",
       "publishedOn": "1999-07-01",
       "products": [
         {
@@ -5503,14 +5503,14 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-11T01:28:04.133",
+      "modifiedOn": "2026-11-17T05:34:05.49",
       "publishedOn": "2016-09-01",
       "products": []
     },
     "1842": {
       "name": "XY - Evolutions",
       "abbreviation": "EVO",
-      "modifiedOn": "2026-10-15T19:20:37.107",
+      "modifiedOn": "2026-11-16T21:40:58.59",
       "publishedOn": "2016-11-02",
       "setCode": "xy12",
       "products": [
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-13T14:22:44.977",
+      "modifiedOn": "2026-11-17T16:13:53.87",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -15121,7 +15121,7 @@
     "2781": {
       "name": "Shining Fates: Shiny Vault",
       "abbreviation": "SHFSV",
-      "modifiedOn": "2026-10-15T02:54:41.96",
+      "modifiedOn": "2026-11-16T21:05:23.293",
       "publishedOn": "2021-02-19",
       "setCode": "swsh4.5sv",
       "products": []
@@ -16149,7 +16149,7 @@
     "2948": {
       "name": "SWSH09: Brilliant Stars",
       "abbreviation": "SWSH09",
-      "modifiedOn": "2026-10-21T15:45:00.6",
+      "modifiedOn": "2026-11-17T05:32:02.413",
       "publishedOn": "2022-02-25",
       "setCode": "swsh9",
       "products": [
@@ -18346,7 +18346,7 @@
     "23228": {
       "name": "SV03: Obsidian Flames",
       "abbreviation": "OBF",
-      "modifiedOn": "2026-10-21T15:44:09.54",
+      "modifiedOn": "2026-11-17T05:32:59.9",
       "publishedOn": "2023-08-11",
       "setCode": "sv03",
       "products": [
@@ -19390,7 +19390,7 @@
     "23381": {
       "name": "SV05: Temporal Forces",
       "abbreviation": "TEF",
-      "modifiedOn": "2026-09-15T00:37:21.72",
+      "modifiedOn": "2026-11-17T05:28:40.817",
       "publishedOn": "2024-03-22",
       "setCode": "sv05",
       "products": [
@@ -19417,14 +19417,6 @@
           "releasedOn": "2024-03-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/532848_200w.jpg",
           "url": "https://www.tcgplayer.com/product/532848/pokemon-sv05-temporal-forces-temporal-forces-elite-trainer-box-iron-leaves-ex"
-        },
-        {
-          "tcgplayerId": 532849,
-          "name": "Temporal Forces Elite Trainer Box [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2024-03-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532849_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/532849/pokemon-sv05-temporal-forces-temporal-forces-elite-trainer-box-set-of-2"
         },
         {
           "tcgplayerId": 532853,
@@ -19477,7 +19469,7 @@
         {
           "tcgplayerId": 537409,
           "name": "Temporal Forces Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2024-03-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/537409_200w.jpg",
           "url": "https://www.tcgplayer.com/product/537409/pokemon-sv05-temporal-forces-temporal-forces-build-and-battle-box-display"
@@ -19515,36 +19507,12 @@
           "url": "https://www.tcgplayer.com/product/538775/pokemon-sv05-temporal-forces-temporal-forces-pokemon-center-elite-trainer-box-exclusive-walking-wake"
         },
         {
-          "tcgplayerId": 538786,
-          "name": "Temporal Forces Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-03-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538786_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/538786/pokemon-sv05-temporal-forces-temporal-forces-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 538787,
           "name": "Temporal Forces Sleeved Booster Pack",
           "kind": "booster",
           "releasedOn": "2024-03-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/538787_200w.jpg",
           "url": "https://www.tcgplayer.com/product/538787/pokemon-sv05-temporal-forces-temporal-forces-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 538789,
-          "name": "Temporal Forces Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-03-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538789_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/538789/pokemon-sv05-temporal-forces-temporal-forces-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 538807,
-          "name": "Temporal Forces Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2024-03-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538807_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/538807/pokemon-sv05-temporal-forces-temporal-forces-sleeved-booster-pack-bundle-set-of-8"
         },
         {
           "tcgplayerId": 541017,
@@ -19589,7 +19557,7 @@
         {
           "tcgplayerId": 604248,
           "name": "Temporal Forces Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2024-03-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/604248_200w.jpg",
           "url": "https://www.tcgplayer.com/product/604248/pokemon-sv05-temporal-forces-temporal-forces-sleeved-booster-case"
@@ -19627,17 +19595,9 @@
           "url": "https://www.tcgplayer.com/product/649416/pokemon-sv05-temporal-forces-temporal-forces-half-booster-box"
         },
         {
-          "tcgplayerId": 670916,
-          "name": "Temporal Forces Single Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2024-03-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670916_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/670916/pokemon-sv05-temporal-forces-temporal-forces-single-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 680963,
           "name": "Temporal Forces 3 Pack Blister Display",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2024-03-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/680963_200w.jpg",
           "url": "https://www.tcgplayer.com/product/680963/pokemon-sv05-temporal-forces-temporal-forces-3-pack-blister-display"
@@ -20274,7 +20234,7 @@
     "23651": {
       "name": "SV08: Surging Sparks",
       "abbreviation": "SSP",
-      "modifiedOn": "2026-10-13T00:02:55.823",
+      "modifiedOn": "2026-11-17T05:31:06.25",
       "publishedOn": "2024-11-08",
       "setCode": "sv08",
       "products": [
@@ -22025,7 +21985,7 @@
     "24461": {
       "name": "MEE: Mega Evolution Energies",
       "abbreviation": "MEE",
-      "modifiedOn": "2026-11-11T00:55:28.223",
+      "modifiedOn": "2026-11-16T21:41:44.813",
       "publishedOn": "2025-09-26",
       "products": []
     },

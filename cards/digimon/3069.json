@@ -61,7 +61,7 @@
           "sub": "Foil",
           "usd": 0.25,
           "low": 0.2,
-          "mid": 0.29
+          "mid": 0.32
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271527_200w.jpg"
@@ -96,7 +96,7 @@
         {
           "sub": "Foil",
           "usd": 0.29,
-          "low": 0.26,
+          "low": 0.29,
           "mid": 0.98
         }
       ],
@@ -295,7 +295,7 @@
           "sub": "Foil",
           "usd": 0.59,
           "low": 0.39,
-          "mid": 0.71
+          "mid": 0.67
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271540_200w.jpg"
@@ -329,9 +329,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5,
-          "low": 2.29,
-          "mid": 5
+          "usd": 4.48,
+          "low": 2,
+          "mid": 4.48
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271542_200w.jpg"
@@ -689,7 +689,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.62,
+          "usd": 1.72,
           "low": 0.98,
           "mid": 1.24
         }
@@ -727,7 +727,7 @@
           "sub": "Foil",
           "usd": 2.06,
           "low": 1.99,
-          "mid": 3.98
+          "mid": 2.99
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271564_200w.jpg"
@@ -743,9 +743,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1,
+          "usd": 1.04,
           "low": 0.89,
-          "mid": 1.11
+          "mid": 1.18
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271567_200w.jpg"
@@ -761,9 +761,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.06,
-          "low": 0.99,
-          "mid": 1.1
+          "usd": 1.07,
+          "low": 1.2,
+          "mid": 1.99
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271568_200w.jpg"
@@ -776,14 +776,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/268957_200w.jpg",
       "url": "https://www.tcgplayer.com/product/271569/digimon-card-game-new-awakening-pre-release-cards-banchomamemon",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1.04,
-          "low": 1.04,
-          "mid": 1.04
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271569_200w.jpg"
     },
     {
@@ -835,7 +828,7 @@
           "sub": "Foil",
           "usd": 0.54,
           "low": 0.54,
-          "mid": 1.48
+          "mid": 1.51
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/271572_200w.jpg"
@@ -1014,9 +1007,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.6,
+          "usd": 0.61,
           "low": 0.35,
-          "mid": 0.77
+          "mid": 0.75
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/272897_200w.jpg"
@@ -1040,5 +1033,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-17"
+  "pricesAt": "2026-11-18"
 }

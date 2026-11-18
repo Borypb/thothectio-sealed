@@ -2,7 +2,7 @@
   "game": "dragonball",
   "lang": "en",
   "categoryId": 80,
-  "harvestedAt": "2026-11-17T13:38:05.976Z",
+  "harvestedAt": "2026-11-18T13:12:36.454Z",
   "groups": {
     "23401": {
       "name": "Awakened Pulse",
@@ -189,7 +189,7 @@
     "23428": {
       "name": "Fusion World Promotion Cards and Packs",
       "abbreviation": "DBSFW_PR",
-      "modifiedOn": "2026-11-10T16:01:53.757",
+      "modifiedOn": "2026-11-17T18:43:54.053",
       "publishedOn": "2024-02-14",
       "setId": "db-g23428",
       "products": [
@@ -296,6 +296,14 @@
           "releasedOn": "2024-02-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712767_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712767/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-premium-card-collection-03"
+        },
+        {
+          "tcgplayerId": 733614,
+          "name": "Gogeta - FB06-097",
+          "kind": "other",
+          "releasedOn": "2024-02-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733614_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733614/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-gogeta-fb06-097"
         }
       ]
     },
@@ -1736,7 +1744,7 @@
     "24783": {
       "name": "Reach the God",
       "abbreviation": "FB12",
-      "modifiedOn": "2026-11-16T18:33:49.077",
+      "modifiedOn": "2026-11-17T13:50:50.843",
       "publishedOn": "2026-12-11",
       "setId": "db-g24783",
       "products": [

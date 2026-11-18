@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-17T13:36:12.180Z",
+  "harvestedAt": "2026-11-18T13:10:57.179Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -11908,7 +11908,7 @@
     "2376": {
       "name": "MagicFest Cards",
       "abbreviation": "MFP",
-      "modifiedOn": "2026-11-13T13:42:35.677",
+      "modifiedOn": "2026-11-17T13:42:54.327",
       "products": []
     },
     "2379": {
@@ -12165,7 +12165,7 @@
     "2422": {
       "name": "Modern Horizons",
       "abbreviation": "MH1",
-      "modifiedOn": "2026-11-12T16:21:41.603",
+      "modifiedOn": "2026-11-17T02:59:07.897",
       "publishedOn": "2019-06-14",
       "setId": "mtg-mh1",
       "products": [
@@ -21572,7 +21572,7 @@
     "2655": {
       "name": "Double Masters",
       "abbreviation": "2XM",
-      "modifiedOn": "2026-09-03T17:31:01.193",
+      "modifiedOn": "2026-11-17T02:50:46.533",
       "publishedOn": "2020-08-07",
       "setId": "mtg-2xm",
       "products": [
@@ -21830,13 +21830,13 @@
     "2715": {
       "name": "The List Reprints",
       "abbreviation": "LIST",
-      "modifiedOn": "2026-11-16T14:21:03.043",
+      "modifiedOn": "2026-11-16T21:18:22.617",
       "products": []
     },
     "2716": {
       "name": "Commander: Zendikar Rising",
       "abbreviation": "ZNC",
-      "modifiedOn": "2026-09-09T19:53:44.907",
+      "modifiedOn": "2026-11-17T02:38:57.653",
       "publishedOn": "2020-09-25",
       "setId": "mtg-znc",
       "products": [
@@ -22125,7 +22125,7 @@
     "2772": {
       "name": "Time Spiral: Remastered",
       "abbreviation": "TSR",
-      "modifiedOn": "2026-11-12T15:55:57.013",
+      "modifiedOn": "2026-11-17T02:46:24.113",
       "publishedOn": "2021-03-21",
       "setId": "mtg-tsr",
       "products": [
@@ -22495,7 +22495,7 @@
     "2809": {
       "name": "Modern Horizons 2",
       "abbreviation": "MH2",
-      "modifiedOn": "2026-11-12T14:23:41.917",
+      "modifiedOn": "2026-11-17T06:09:12.693",
       "publishedOn": "2021-06-19",
       "setId": "mtg-mh2",
       "products": [
@@ -24169,7 +24169,7 @@
     "3047": {
       "name": "Commander Legends: Battle for Baldur's Gate",
       "abbreviation": "CLB",
-      "modifiedOn": "2026-10-26T13:09:58.71",
+      "modifiedOn": "2026-11-17T02:57:43.437",
       "publishedOn": "2022-06-10",
       "setId": "mtg-clb",
       "products": [
@@ -26180,7 +26180,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-11-12T16:05:12.877",
+      "modifiedOn": "2026-11-17T19:41:59.997",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -27566,7 +27566,7 @@
     "23444": {
       "name": "Modern Horizons 3",
       "abbreviation": "MH3",
-      "modifiedOn": "2026-11-16T14:13:27.267",
+      "modifiedOn": "2026-11-17T02:47:40.91",
       "publishedOn": "2024-06-14",
       "setId": "mtg-mh3",
       "products": [
@@ -29306,7 +29306,7 @@
     "24220": {
       "name": "Commander: FINAL FANTASY",
       "abbreviation": "FIC",
-      "modifiedOn": "2026-11-12T18:23:17.55",
+      "modifiedOn": "2026-11-17T02:44:19.83",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fic",
       "products": [
@@ -29855,7 +29855,7 @@
     "24245": {
       "name": "Marvel's Spider-Man",
       "abbreviation": "SPM",
-      "modifiedOn": "2026-11-16T14:19:49.737",
+      "modifiedOn": "2026-11-17T16:35:45.693",
       "publishedOn": "2025-09-26",
       "setId": "mtg-spm",
       "products": [
@@ -30533,7 +30533,7 @@
     "24464": {
       "name": "Commander: Lorwyn Eclipsed",
       "abbreviation": "ECC",
-      "modifiedOn": "2026-11-12T18:26:09.987",
+      "modifiedOn": "2026-11-17T02:40:27.447",
       "publishedOn": "2026-01-23",
       "setId": "mtg-ecc",
       "products": [
@@ -31418,7 +31418,7 @@
     "24602": {
       "name": "Commander: Secrets of Strixhaven",
       "abbreviation": "SOC",
-      "modifiedOn": "2026-11-13T03:31:35.013",
+      "modifiedOn": "2026-11-17T13:39:03.2",
       "publishedOn": "2026-04-24",
       "setId": "mtg-soc",
       "products": [
@@ -31706,7 +31706,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-11-16T17:37:14.19",
+      "modifiedOn": "2026-11-17T02:41:34.637",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -32478,99 +32478,220 @@
     "24947": {
       "name": "Nauctis: The Sunken Realm",
       "abbreviation": "NAU",
-      "modifiedOn": "2026-11-16T19:43:09.053",
+      "modifiedOn": "2026-11-17T16:30:18.59",
       "publishedOn": "2027-02-05",
       "setId": "mtg-nau",
       "products": [
         {
-          "tcgplayerId": 733515,
-          "name": "Calmwater Mentor",
-          "kind": "other",
+          "tcgplayerId": 733550,
+          "name": "Nauctis: The Sunken Realm - Booster Pack",
+          "kind": "booster",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733515_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733515/magic-nauctis-the-sunken-realm-calmwater-mentor"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733550_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733550/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-booster-pack"
         },
         {
-          "tcgplayerId": 733517,
-          "name": "Calmwater Mentor (Showcase)",
-          "kind": "other",
+          "tcgplayerId": 733551,
+          "name": "Nauctis: The Sunken Realm - Booster Display",
+          "kind": "booster_box",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733517_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733517/magic-nauctis-the-sunken-realm-calmwater-mentor-showcase"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733551_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733551/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-booster-display"
         },
         {
-          "tcgplayerId": 733518,
-          "name": "Salinae, the Ocean Mother",
-          "kind": "other",
+          "tcgplayerId": 733552,
+          "name": "Nauctis: The Sunken Realm - Booster Display Case",
+          "kind": "case",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733518_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733518/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733552_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733552/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-booster-display-case"
         },
         {
-          "tcgplayerId": 733519,
-          "name": "Salinae, the Ocean Mother (Borderless) (0321)",
-          "kind": "other",
+          "tcgplayerId": 733553,
+          "name": "Nauctis: The Sunken Realm - Collector Booster Pack",
+          "kind": "booster",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733519_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733519/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-borderless-0321"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733553_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733553/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-collector-booster-pack"
         },
         {
-          "tcgplayerId": 733520,
-          "name": "Salinae, the Ocean Mother (Showcase)",
-          "kind": "other",
+          "tcgplayerId": 733554,
+          "name": "Nauctis: The Sunken Realm - Collector Booster Display",
+          "kind": "booster_box",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733520_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733520/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-showcase"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733554_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733554/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-collector-booster-display"
         },
         {
-          "tcgplayerId": 733521,
-          "name": "Salinae, the Ocean Mother (Showcase) (Fracture Foil)",
-          "kind": "other",
+          "tcgplayerId": 733555,
+          "name": "Nauctis: The Sunken Realm - Collector Booster Display Case",
+          "kind": "case",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733521_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733521/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-showcase-fracture-foil"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733555_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733555/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-collector-booster-display-case"
         },
         {
-          "tcgplayerId": 733522,
-          "name": "Salinae, the Ocean Mother (Borderless) (0409)",
-          "kind": "other",
+          "tcgplayerId": 733556,
+          "name": "Nauctis: The Sunken Realm - Collector Booster Display Master Case",
+          "kind": "case",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733522_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733522/magic-nauctis-the-sunken-realm-salinae-the-ocean-mother-borderless-0409"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733556_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733556/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-collector-booster-display-master-case"
         },
         {
-          "tcgplayerId": 733523,
-          "name": "Tecton, Malignant Ruin (Borderless) (0410)",
-          "kind": "other",
-          "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733523_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733523/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-borderless-0410"
+          "tcgplayerId": 733557,
+          "name": "Nauctis: The Sunken Realm - Prerelease Pack",
+          "kind": "build_battle",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733557_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733557/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-prerelease-pack"
         },
         {
-          "tcgplayerId": 733524,
-          "name": "Tecton, Malignant Ruin (Showcase) (Fracture Foil)",
-          "kind": "other",
-          "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733524_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733524/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-showcase-fracture-foil"
+          "tcgplayerId": 733558,
+          "name": "Nauctis: The Sunken Realm - Prerelease Pack Case",
+          "kind": "case",
+          "releasedOn": "2027-01-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733558_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733558/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-prerelease-pack-case"
         },
         {
-          "tcgplayerId": 733525,
-          "name": "Tecton, Malignant Ruin (Showcase)",
+          "tcgplayerId": 733559,
+          "name": "Nauctis: The Sunken Realm - Bundle",
+          "kind": "bundle",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733559_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733559/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-bundle"
+        },
+        {
+          "tcgplayerId": 733576,
+          "name": "Nauctis: The Sunken Realm - Bundle Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733576_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733576/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-bundle-case"
+        },
+        {
+          "tcgplayerId": 733578,
+          "name": "Nauctis: The Sunken Realm - Draft Night",
           "kind": "other",
           "releasedOn": "2027-02-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733525_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733525/magic-nauctis-the-sunken-realm-tecton-malignant-ruin-showcase"
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733578_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733578/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-draft-night"
+        },
+        {
+          "tcgplayerId": 733580,
+          "name": "Nauctis: The Sunken Realm - Draft Night Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733580_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733580/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-draft-night-case"
+        },
+        {
+          "tcgplayerId": 733602,
+          "name": "Nauctis: The Sunken Realm - Secret Lair Bundle",
+          "kind": "bundle",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733602_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733602/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-secret-lair-bundle"
+        },
+        {
+          "tcgplayerId": 733603,
+          "name": "Nauctis: The Sunken Realm - Secret Lair Bundle Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733603_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733603/magic-nauctis-the-sunken-realm-nauctis-the-sunken-realm-secret-lair-bundle-case"
         }
       ]
     },
     "24948": {
       "name": "Commander: Nauctis: The Sunken Realm",
       "abbreviation": "NAC",
-      "modifiedOn": "2026-11-16T19:33:23.897",
+      "modifiedOn": "2026-11-17T15:30:32.543",
       "publishedOn": "2027-02-05",
       "setId": "mtg-nac",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 733583,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Merfolk Regiment",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733583_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733583/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-merfolk-regiment"
+        },
+        {
+          "tcgplayerId": 733584,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Merfolk Regiment (Premium Edition)",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733584_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733584/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-merfolk-regiment-premium-edition"
+        },
+        {
+          "tcgplayerId": 733585,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Terrors of the Abyss",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733585_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733585/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-terrors-of-the-abyss"
+        },
+        {
+          "tcgplayerId": 733587,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Blood in the Water",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733587_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733587/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-blood-in-the-water"
+        },
+        {
+          "tcgplayerId": 733588,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Seal the Deal",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733588/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-seal-the-deal"
+        },
+        {
+          "tcgplayerId": 733590,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Seal the Deal (Premium Edition)",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733590_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733590/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-seal-the-deal-premium-edition"
+        },
+        {
+          "tcgplayerId": 733591,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Blood in the Water (Premium Edition)",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733591_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733591/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-blood-in-the-water-premium-edition"
+        },
+        {
+          "tcgplayerId": 733592,
+          "name": "Nauctis: The Sunken Realm Commander Deck - Terrors of the Abyss (Premium Edition)",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733592/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-terrors-of-the-abyss-premium-edition"
+        },
+        {
+          "tcgplayerId": 733597,
+          "name": "Nauctis: The Sunken Realm Commander Deck Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733597_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733597/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-case"
+        },
+        {
+          "tcgplayerId": 733598,
+          "name": "Nauctis: The Sunken Realm Commander Deck Case (Premium Edition)",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733598_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733598/magic-commander-nauctis-the-sunken-realm-nauctis-the-sunken-realm-commander-deck-case-premium-edition"
+        }
+      ]
     }
   }
 }

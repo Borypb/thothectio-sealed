@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -7549,6 +7549,66 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/600426_200w.jpg",
       "source": {
         "tcgplayer": 600426
+      }
+    },
+    {
+      "id": "mtg-en-tcp733762",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Jump Scare)",
+      "lang": "en",
+      "setIds": [
+        "mtg-dsc"
+      ],
+      "releasedAt": "2024-09-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733762_200w.jpg",
+      "source": {
+        "tcgplayer": 733762
+      }
+    },
+    {
+      "id": "mtg-en-tcp733765",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Death Toll)",
+      "lang": "en",
+      "setIds": [
+        "mtg-dsc"
+      ],
+      "releasedAt": "2024-09-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733765_200w.jpg",
+      "source": {
+        "tcgplayer": 733765
+      }
+    },
+    {
+      "id": "mtg-en-tcp733766",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Endless Punishment)",
+      "lang": "en",
+      "setIds": [
+        "mtg-dsc"
+      ],
+      "releasedAt": "2024-09-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733766_200w.jpg",
+      "source": {
+        "tcgplayer": 733766
+      }
+    },
+    {
+      "id": "mtg-en-tcp733768",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Miracle Worker)",
+      "lang": "en",
+      "setIds": [
+        "mtg-dsc"
+      ],
+      "releasedAt": "2024-09-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733768_200w.jpg",
+      "source": {
+        "tcgplayer": 733768
       }
     },
     {

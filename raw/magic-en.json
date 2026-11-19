@@ -2,7 +2,7 @@
   "game": "magic",
   "lang": "en",
   "categoryId": 1,
-  "harvestedAt": "2026-11-18T13:10:57.179Z",
+  "harvestedAt": "2026-11-19T13:27:13.468Z",
   "groups": {
     "1": {
       "name": "10th Edition",
@@ -12959,7 +12959,7 @@
     "2576": {
       "name": "Secret Lair Drop Series",
       "abbreviation": "SLD",
-      "modifiedOn": "2026-11-16T18:36:36.57",
+      "modifiedOn": "2026-11-17T21:53:39.143",
       "setId": "mtg-sld",
       "products": [
         {
@@ -26180,7 +26180,7 @@
     "23020": {
       "name": "Commander Masters",
       "abbreviation": "CMM",
-      "modifiedOn": "2026-11-17T19:41:59.997",
+      "modifiedOn": "2026-11-18T16:05:00.13",
       "publishedOn": "2023-08-04",
       "setId": "mtg-cmm",
       "products": [
@@ -28337,7 +28337,7 @@
     "23551": {
       "name": "Commander: Duskmourn: House of Horror",
       "abbreviation": "DSC",
-      "modifiedOn": "2026-11-16T14:21:00.973",
+      "modifiedOn": "2026-11-18T15:45:07.19",
       "publishedOn": "2024-09-27",
       "setId": "mtg-dsc",
       "products": [
@@ -28380,6 +28380,38 @@
           "releasedOn": "2024-09-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/557257_200w.jpg",
           "url": "https://www.tcgplayer.com/product/557257/magic-commander-duskmourn-house-of-horror-duskmourn-house-of-horror-commander-deck-display"
+        },
+        {
+          "tcgplayerId": 733762,
+          "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Jump Scare)",
+          "kind": "booster",
+          "releasedOn": "2024-09-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733762_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733762/magic-commander-duskmourn-house-of-horror-duskmourn-house-of-horror-haunts-and-horrors-commander-pack-jump-scare"
+        },
+        {
+          "tcgplayerId": 733765,
+          "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Death Toll)",
+          "kind": "booster",
+          "releasedOn": "2024-09-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733765_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733765/magic-commander-duskmourn-house-of-horror-duskmourn-house-of-horror-haunts-and-horrors-commander-pack-death-toll"
+        },
+        {
+          "tcgplayerId": 733766,
+          "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Endless Punishment)",
+          "kind": "booster",
+          "releasedOn": "2024-09-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733766_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733766/magic-commander-duskmourn-house-of-horror-duskmourn-house-of-horror-haunts-and-horrors-commander-pack-endless-punishment"
+        },
+        {
+          "tcgplayerId": 733768,
+          "name": "Duskmourn: House of Horror - Haunts and Horrors Commander Pack (Miracle Worker)",
+          "kind": "booster",
+          "releasedOn": "2024-09-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733768_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/733768/magic-commander-duskmourn-house-of-horror-duskmourn-house-of-horror-haunts-and-horrors-commander-pack-miracle-worker"
         }
       ]
     },
@@ -29001,7 +29033,7 @@
     "24219": {
       "name": "FINAL FANTASY",
       "abbreviation": "FIN",
-      "modifiedOn": "2026-11-11T00:48:31.26",
+      "modifiedOn": "2026-11-17T20:50:30.13",
       "publishedOn": "2025-06-13",
       "setId": "mtg-fin",
       "products": [
@@ -31706,7 +31738,7 @@
     "24684": {
       "name": "Reality Fracture",
       "abbreviation": "FRA",
-      "modifiedOn": "2026-11-17T02:41:34.637",
+      "modifiedOn": "2026-11-17T20:49:16.697",
       "publishedOn": "2026-10-02",
       "setId": "mtg-fra",
       "products": [
@@ -32181,7 +32213,7 @@
     "24836": {
       "name": "Secret Lair x MSCHF: The Zeta Set",
       "abbreviation": "SLZ",
-      "modifiedOn": "2026-11-16T16:46:26.67",
+      "modifiedOn": "2026-11-18T13:18:42.607",
       "publishedOn": "2026-09-02",
       "setId": "mtg-slz",
       "products": [

@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-13T19:31:20.133",
-          "count": 111,
+          "modifiedOn": "2026-11-18T16:36:42.817",
+          "count": 113,
           "file": "cards/digimon/24865.json",
-          "version": "a733c50049a9"
+          "version": "f262f9ab395f"
         },
         {
           "groupId": 24932,
@@ -622,10 +622,10 @@
           "name": "Starter Deck 26: Yukinamon",
           "code": "BD02",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-10T15:57:28.217",
-          "count": 9,
+          "modifiedOn": "2026-11-18T17:54:35.487",
+          "count": 15,
           "file": "cards/digimon/24929.json",
-          "version": "8b5939ae8690"
+          "version": "007d9ba4cbae"
         },
         {
           "groupId": 24941,
@@ -1800,10 +1800,10 @@
           "groupId": 24860,
           "name": "Set 1 Promos",
           "releasedAt": "2026-11-06",
-          "modifiedOn": "2026-10-30T16:38:34.743",
-          "count": 5,
+          "modifiedOn": "2026-11-17T21:24:10.843",
+          "count": 8,
           "file": "cards/cyberpunk/24860.json",
-          "version": "04a6500255a3"
+          "version": "e37178c1666e"
         },
         {
           "groupId": 24859,
@@ -1828,10 +1828,10 @@
           "name": "Judge Promos",
           "code": "JDG",
           "releasedAt": "2026-11-01",
-          "modifiedOn": "2026-11-02T20:15:10.083",
-          "count": 3,
+          "modifiedOn": "2026-11-17T21:20:09.01",
+          "count": 4,
           "file": "cards/cyberpunk/24927.json",
-          "version": "8c3e7a7364aa"
+          "version": "21cb55bb7d95"
         },
         {
           "groupId": 24928,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-18"
+  "updatedAt": "2026-11-19"
 }

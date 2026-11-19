@@ -67,7 +67,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.59,
+          "usd": 0.6,
           "low": 0.49,
           "mid": 0.79
         }
@@ -105,7 +105,7 @@
           "sub": "Normal",
           "usd": 0.63,
           "low": 0.49,
-          "mid": 0.79
+          "mid": 0.75
         }
       ]
     },
@@ -123,7 +123,7 @@
           "sub": "Normal",
           "usd": 0.31,
           "low": 0.18,
-          "mid": 0.4
+          "mid": 0.38
         }
       ]
     },
@@ -388,7 +388,14 @@
       "type": "Tamer",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/549394_200w.jpg",
       "url": "https://www.tcgplayer.com/product/549394/digimon-card-game-digimon-demo-deck-exclusive-cards-tai-kamiya-demo-deck-exclusive",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.59,
+          "mid": 0.59
+        }
+      ]
     },
     {
       "id": 549395,
@@ -613,7 +620,7 @@
           "sub": "Normal",
           "usd": 0.43,
           "low": 0.2,
-          "mid": 0.41
+          "mid": 0.39
         }
       ]
     },
@@ -631,7 +638,7 @@
           "sub": "Normal",
           "usd": 0.24,
           "low": 0.2,
-          "mid": 0.44
+          "mid": 0.4
         }
       ]
     },
@@ -649,7 +656,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.2,
-          "mid": 0.26
+          "mid": 0.25
         }
       ]
     },
@@ -667,7 +674,7 @@
           "sub": "Normal",
           "usd": 0.24,
           "low": 0.2,
-          "mid": 0.38
+          "mid": 0.35
         }
       ]
     },
@@ -703,7 +710,7 @@
           "sub": "Normal",
           "usd": 0.4,
           "low": 0.2,
-          "mid": 0.41
+          "mid": 0.4
         }
       ]
     },
@@ -721,7 +728,7 @@
           "sub": "Normal",
           "usd": 0.34,
           "low": 0.24,
-          "mid": 0.37
+          "mid": 0.35
         }
       ]
     },
@@ -739,7 +746,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.2,
-          "mid": 0.26
+          "mid": 0.25
         }
       ]
     },
@@ -775,7 +782,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.25,
-          "mid": 0.99
+          "mid": 0.98
         }
       ]
     },
@@ -791,9 +798,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.68,
+          "usd": 0.67,
           "low": 0.3,
-          "mid": 0.77
+          "mid": 0.75
         }
       ]
     },
@@ -829,7 +836,7 @@
           "sub": "Normal",
           "usd": 3.39,
           "low": 0.44,
-          "mid": 4
+          "mid": 3.91
         }
       ]
     },
@@ -847,7 +854,7 @@
           "sub": "Normal",
           "usd": 0.39,
           "low": 0.07,
-          "mid": 0.82
+          "mid": 0.65
         }
       ]
     },
@@ -865,7 +872,7 @@
           "sub": "Normal",
           "usd": 0.71,
           "low": 0.31,
-          "mid": 0.54
+          "mid": 0.51
         }
       ]
     },
@@ -916,5 +923,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-18"
+  "pricesAt": "2026-11-19"
 }

@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-18T12:19:34.811Z",
+  "harvestedAt": "2026-11-19T12:12:49.527Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -2298,7 +2298,7 @@
     "1415": {
       "name": "Call of Legends",
       "abbreviation": "CL",
-      "modifiedOn": "2026-10-02T02:56:14.3",
+      "modifiedOn": "2026-11-17T20:53:03.573",
       "publishedOn": "2011-02-09",
       "setCode": "col1",
       "products": [
@@ -3934,7 +3934,7 @@
     "1528": {
       "name": "Jumbo Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-11-09T16:32:45.75",
+      "modifiedOn": "2026-11-18T17:19:19.553",
       "publishedOn": "2015-04-01",
       "setCode": "jumbo",
       "products": []
@@ -5823,7 +5823,7 @@
     "1861": {
       "name": "SM Promos",
       "abbreviation": "SMP",
-      "modifiedOn": "2026-11-11T20:18:18.183",
+      "modifiedOn": "2026-11-17T20:39:51.373",
       "publishedOn": "2016-12-14",
       "setCode": "smp",
       "products": []
@@ -8077,7 +8077,7 @@
     "2332": {
       "name": "Professor Program Promos",
       "abbreviation": "PPP",
-      "modifiedOn": "2026-10-07T16:24:58.283",
+      "modifiedOn": "2026-11-18T17:26:51.413",
       "products": []
     },
     "2364": {
@@ -12471,7 +12471,7 @@
     "2377": {
       "name": "SM - Team Up",
       "abbreviation": "SM9",
-      "modifiedOn": "2026-10-05T13:27:07.44",
+      "modifiedOn": "2026-11-17T20:51:22.397",
       "publishedOn": "2019-02-01",
       "setCode": "sm9",
       "products": [
@@ -12596,30 +12596,6 @@
           "url": "https://www.tcgplayer.com/product/185258/pokemon-sm-team-up-tag-team-tin-pikachu-and-zekrom-gx"
         },
         {
-          "tcgplayerId": 185259,
-          "name": "TAG TEAM Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2019-02-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/185259_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/185259/pokemon-sm-team-up-tag-team-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 267044,
-          "name": "Team Up Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2019-02-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267044_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267044/pokemon-sm-team-up-team-up-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 276584,
-          "name": "Team Up Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2019-02-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276584_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276584/pokemon-sm-team-up-team-up-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 524330,
           "name": "Team Up Sleeved Booster Pack",
           "kind": "booster",
@@ -12630,7 +12606,7 @@
         {
           "tcgplayerId": 547128,
           "name": "Team Up Prerelease Kit Display",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2019-02-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/547128_200w.jpg",
           "url": "https://www.tcgplayer.com/product/547128/pokemon-sm-team-up-team-up-prerelease-kit-display"
@@ -18346,7 +18322,7 @@
     "23228": {
       "name": "SV03: Obsidian Flames",
       "abbreviation": "OBF",
-      "modifiedOn": "2026-11-17T05:32:59.9",
+      "modifiedOn": "2026-11-18T19:04:21.297",
       "publishedOn": "2023-08-11",
       "setCode": "sv03",
       "products": [
@@ -18517,6 +18493,22 @@
           "releasedOn": "2023-08-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/618341_200w.jpg",
           "url": "https://www.tcgplayer.com/product/618341/pokemon-sv03-obsidian-flames-obsidian-flames-pokemon-center-elite-trainer-box-case-exclusive"
+        },
+        {
+          "tcgplayerId": 734558,
+          "name": "Obsidian Flames Fun Pack",
+          "kind": "other",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/734558_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/734558/pokemon-sv03-obsidian-flames-obsidian-flames-fun-pack"
+        },
+        {
+          "tcgplayerId": 734560,
+          "name": "Obsidian Flames Half Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-08-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/734560_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/734560/pokemon-sv03-obsidian-flames-obsidian-flames-half-booster-box"
         }
       ]
     },
@@ -21977,10 +21969,19 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-16T16:38:44.377",
+      "modifiedOn": "2026-11-18T13:48:51.19",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 734563,
+          "name": "Kommo-o - 114 (Staff)",
+          "kind": "other",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/734563_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/734563/pokemon-me-mega-evolution-promo-kommo-o-114-staff"
+        }
+      ]
     },
     "24461": {
       "name": "MEE: Mega Evolution Energies",

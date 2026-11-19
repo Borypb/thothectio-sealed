@@ -24,7 +24,7 @@
           "sub": "Foil",
           "usd": 214.83,
           "low": 204,
-          "mid": 293.51
+          "mid": 270
         }
       ]
     },
@@ -50,16 +50,75 @@
       "prices": []
     },
     {
-      "id": 725838,
-      "name": "Gorilla Arms",
-      "label": "Pre-release",
-      "number": "011",
+      "id": 733735,
+      "name": "Sandevistan",
+      "number": "001",
       "rarity": "NR",
       "type": "Gear",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/725838_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/725838/cyberpunk-tcg-set-1-promos-gorilla-arms-pre-release",
-      "prices": []
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733735/cyberpunk-tcg-set-1-promos-sandevistan",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.07,
+          "low": 100,
+          "mid": 100
+        }
+      ]
+    },
+    {
+      "id": 733736,
+      "name": "Sandevistan",
+      "label": "Top 4",
+      "number": "003",
+      "rarity": "NR",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733736/cyberpunk-tcg-set-1-promos-sandevistan-top-4",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 400,
+          "low": 400,
+          "mid": 400
+        }
+      ]
+    },
+    {
+      "id": 733739,
+      "name": "Adam Smasher - Metal Over Meat",
+      "number": "002",
+      "rarity": "NR",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733739/cyberpunk-tcg-set-1-promos-adam-smasher-metal-over-meat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 95,
+          "low": 91,
+          "mid": 95
+        }
+      ]
+    },
+    {
+      "id": 733740,
+      "name": "Adam Smasher - Metal Over Meat",
+      "label": "Showdown Champ",
+      "number": "004",
+      "rarity": "NR",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/733740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/733740/cyberpunk-tcg-set-1-promos-adam-smasher-metal-over-meat-showdown-champ",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 900,
+          "low": 900,
+          "mid": 900
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-11-18"
+  "pricesAt": "2026-11-19"
 }

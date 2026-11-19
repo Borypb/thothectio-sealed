@@ -1075,6 +1075,7 @@
       "label": "X Antibody · Alternate Art",
       "number": "BT27-016 SR",
       "rarity": "Super Rare",
+      "type": "Digimon/Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732935_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732935/digimon-card-game-ignition-of-x-jesmon-x-antibody-ultimate-seibaken-alternate-art",
       "prices": []
@@ -1084,6 +1085,7 @@
       "name": "Gurimon",
       "number": "BT27-001 C",
       "rarity": "Common",
+      "type": "Digi-Egg",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/732942_200w.jpg",
       "url": "https://www.tcgplayer.com/product/732942/digimon-card-game-ignition-of-x-gurimon",
       "prices": []
@@ -1125,6 +1127,7 @@
       "name": "Motimon",
       "number": "BT27-005 C",
       "rarity": "Common",
+      "type": "Digi-Egg",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/733286_200w.jpg",
       "url": "https://www.tcgplayer.com/product/733286/digimon-card-game-ignition-of-x-motimon",
       "prices": []
@@ -1134,10 +1137,33 @@
       "name": "Andromon",
       "number": "BT27-063 U",
       "rarity": "Uncommon",
+      "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/733288_200w.jpg",
       "url": "https://www.tcgplayer.com/product/733288/digimon-card-game-ignition-of-x-andromon",
       "prices": []
+    },
+    {
+      "id": 734290,
+      "name": "Ravemon: Burst Mode // Mourning Dance",
+      "label": "SP",
+      "number": "BT27-085 UR",
+      "rarity": "Special Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/734290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/734290/digimon-card-game-ignition-of-x-ravemon-burst-mode-mourning-dance-sp",
+      "prices": []
+    },
+    {
+      "id": 734291,
+      "name": "MirageGaogamon: Burst Mode // Full Moon Meteor Impact",
+      "label": "SP",
+      "number": "BT27-035 UR",
+      "rarity": "Special Rare",
+      "type": "Digimon/Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/734291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/734291/digimon-card-game-ignition-of-x-miragegaogamon-burst-mode-full-moon-meteor-impact-sp",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-18"
+  "pricesAt": "2026-11-19"
 }

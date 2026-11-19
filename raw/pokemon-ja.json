@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-18T12:19:38.260Z",
+  "harvestedAt": "2026-11-19T12:12:51.980Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -5448,7 +5448,7 @@
     "24423": {
       "name": "M-P Promotional Cards",
       "abbreviation": "M-P",
-      "modifiedOn": "2026-11-16T19:40:44.173",
+      "modifiedOn": "2026-11-18T19:05:02.97",
       "publishedOn": "2025-08-08",
       "products": [
         {
@@ -5530,46 +5530,6 @@
           "releasedOn": "2025-08-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/723660_200w.jpg",
           "url": "https://www.tcgplayer.com/product/723660/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-sprigatito-fuecoco-and-quaxly"
-        },
-        {
-          "tcgplayerId": 733510,
-          "name": "Grisham - 099/M-P (GYM)",
-          "kind": "other",
-          "releasedOn": "2025-08-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733510_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733510/pokemon-japan-m-p-promotional-cards-grisham-099-m-p-gym"
-        },
-        {
-          "tcgplayerId": 733511,
-          "name": "Dawn - 100/M-P (GYM)",
-          "kind": "other",
-          "releasedOn": "2025-08-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733511_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733511/pokemon-japan-m-p-promotional-cards-dawn-100-m-p-gym"
-        },
-        {
-          "tcgplayerId": 733512,
-          "name": "Poke Pad - 135/M-P (SAR Get Battle)",
-          "kind": "other",
-          "releasedOn": "2025-08-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733512_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733512/pokemon-japan-m-p-promotional-cards-poke-pad-135-m-p-sar-get-battle"
-        },
-        {
-          "tcgplayerId": 733513,
-          "name": "Urbain - 136/M-P (SAR Get Battle)",
-          "kind": "other",
-          "releasedOn": "2025-08-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733513_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733513/pokemon-japan-m-p-promotional-cards-urbain-136-m-p-sar-get-battle"
-        },
-        {
-          "tcgplayerId": 733514,
-          "name": "Mega Gallade ex - 137/M-P (SAR Get Battle)",
-          "kind": "other",
-          "releasedOn": "2025-08-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/733514_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/733514/pokemon-japan-m-p-promotional-cards-mega-gallade-ex-137-m-p-sar-get-battle"
         }
       ]
     },

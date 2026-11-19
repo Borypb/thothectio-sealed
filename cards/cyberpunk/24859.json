@@ -14,7 +14,7 @@
           "sub": "Foil",
           "usd": 4.4,
           "low": 4.75,
-          "mid": 4.94
+          "mid": 4.95
         }
       ]
     },
@@ -26,7 +26,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715266_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715266/cyberpunk-tcg-the-heist-retail-starter-deck-dexter-deshawn-one-last-chance",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.39,
+          "low": 16.5,
+          "mid": 16.5
+        }
+      ]
     },
     {
       "id": 715267,
@@ -177,7 +184,7 @@
           "sub": "Foil",
           "usd": 13.25,
           "low": 13.5,
-          "mid": 13.5
+          "mid": 13.74
         }
       ]
     },
@@ -192,7 +199,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.62,
+          "usd": 4.59,
           "low": 4,
           "mid": 4.54
         }
@@ -226,7 +233,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1,
+          "usd": 0.16,
           "low": 0.1,
           "mid": 0.22
         }
@@ -243,7 +250,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.97,
+          "usd": 8.98,
           "low": 8,
           "mid": 9
         }
@@ -335,5 +342,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-18"
+  "pricesAt": "2026-11-19"
 }

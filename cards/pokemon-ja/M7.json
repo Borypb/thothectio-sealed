@@ -1,0 +1,626 @@
+{
+  "code": "M7",
+  "name": "ハドウシーカー",
+  "official": "078",
+  "cards": [
+    {
+      "id": 50856,
+      "name": "マダツボミ",
+      "number": "001",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050856_P_MADATSUBOMI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50857,
+      "name": "ウツドン",
+      "number": "002",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050857_P_UTSUDON.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50858,
+      "name": "ウツボット",
+      "number": "003",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050858_P_UTSUBOTTO.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50859,
+      "name": "ヤンヤンマ",
+      "number": "004",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050859_P_YANYANMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50860,
+      "name": "メガヤンマ",
+      "number": "005",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050860_P_MYANMA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50861,
+      "name": "キモリ",
+      "number": "006",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050861_P_KIMORI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50862,
+      "name": "ジュプトル",
+      "number": "007",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050862_P_JIXYUPUTORU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50863,
+      "name": "ジュカインex",
+      "number": "008",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050863_P_JIXYUKAINIEKKUSU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50864,
+      "name": "カブルモ",
+      "number": "009",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050864_P_KABURUMO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50865,
+      "name": "チョボマキ",
+      "number": "010",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050865_P_CHIXYOBOMAKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50866,
+      "name": "アギルダー",
+      "number": "011",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050866_P_AGIRUDA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50867,
+      "name": "ロコン",
+      "number": "012",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050867_P_ROKON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50868,
+      "name": "キュウコン",
+      "number": "013",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050868_P_KIXYUUKON.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50869,
+      "name": "ゼニガメ",
+      "number": "014",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050869_P_ZENIGAME.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50870,
+      "name": "カメール",
+      "number": "015",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050870_P_KAMERU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50871,
+      "name": "カメックス",
+      "number": "016",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050871_P_KAMEKKUSU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50872,
+      "name": "ウパー",
+      "number": "017",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050872_P_UPA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50873,
+      "name": "ヌオー",
+      "number": "018",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050873_P_NUO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50874,
+      "name": "ブイゼル",
+      "number": "019",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050874_P_BUIZERU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50875,
+      "name": "フローゼルex",
+      "number": "020",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050875_P_FUROZERUIEKKUSU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50876,
+      "name": "フリージオ",
+      "number": "021",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050876_P_FURIJIO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50877,
+      "name": "オドリドリ",
+      "number": "022",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050877_P_ODORIDORI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50878,
+      "name": "パモ",
+      "number": "023",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050878_P_PAMO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50879,
+      "name": "パモット",
+      "number": "024",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050879_P_PAMOTTO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50880,
+      "name": "パーモット",
+      "number": "025",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050880_P_PAMOTTO.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50881,
+      "name": "ネイティ",
+      "number": "026",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050881_P_NEITEI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50882,
+      "name": "ネイティオ",
+      "number": "027",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050882_P_NEITEIO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50883,
+      "name": "アサナン",
+      "number": "028",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050883_P_ASANAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50884,
+      "name": "チャーレム",
+      "number": "029",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050884_P_CHIXYAREMU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50885,
+      "name": "メガアブソルZex",
+      "number": "030",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050885_P_MABUSORUZETTOIEKKUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50886,
+      "name": "シンボラーex",
+      "number": "031",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050886_P_SHINBORAIEKKUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50887,
+      "name": "メロエッタ",
+      "number": "032",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050887_P_MEROETTA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50888,
+      "name": "ヤレユータン",
+      "number": "033",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050888_P_YAREYUTAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50889,
+      "name": "ミブリム",
+      "number": "034",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050889_P_MIBURIMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50890,
+      "name": "テブリム",
+      "number": "035",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050890_P_TEBURIMU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50891,
+      "name": "ブリムオン",
+      "number": "036",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050891_P_BURIMUON.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50892,
+      "name": "ワンリキー",
+      "number": "037",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050892_P_WANRIKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50893,
+      "name": "ゴーリキー",
+      "number": "038",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050893_P_GORIKI.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50894,
+      "name": "カイリキー",
+      "number": "039",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050894_P_KAIRIKI.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50895,
+      "name": "カポエラー",
+      "number": "040",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050895_P_KAPOERA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50896,
+      "name": "ナックラー",
+      "number": "041",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050896_P_NAKKURA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50897,
+      "name": "ドジョッチ",
+      "number": "042",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050897_P_DOJIXYOTCHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50898,
+      "name": "ナマズン",
+      "number": "043",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050898_P_NAMAZUN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50899,
+      "name": "リオル",
+      "number": "044",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050899_P_RIORU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50900,
+      "name": "ナゲキ",
+      "number": "045",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050900_P_NAGEKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50901,
+      "name": "ルチャブル",
+      "number": "046",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050901_P_RUCHIXYABURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50902,
+      "name": "タイレーツ",
+      "number": "047",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050902_P_TAIRETSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50903,
+      "name": "ダクマ",
+      "number": "048",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050903_P_DAKUMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50904,
+      "name": "いちげきウーラオス",
+      "number": "049",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050904_P_ICHIGEKIURAOSU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50905,
+      "name": "れんげきウーラオス",
+      "number": "050",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050905_P_RENGEKIURAOSU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50906,
+      "name": "マーイーカ",
+      "number": "051",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050906_P_MAIKA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50907,
+      "name": "カラマネロ",
+      "number": "052",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050907_P_KARAMANERO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50908,
+      "name": "キラーメ",
+      "number": "053",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050908_P_KIRAME.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50909,
+      "name": "メガキラフロルex",
+      "number": "054",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050909_P_MKIRAFURORUIEKKUSU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50910,
+      "name": "ディンルー",
+      "number": "055",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050910_P_DEINRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50911,
+      "name": "クチート",
+      "number": "056",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050911_P_KUCHITO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50912,
+      "name": "メガルカリオZex",
+      "number": "057",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050912_P_MRUKARIOZETTOIEKKUSU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50913,
+      "name": "シュバルゴ",
+      "number": "058",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050913_P_SHIXYUBARUGO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50914,
+      "name": "トゲデマルex",
+      "number": "059",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050914_P_TOGEDEMARUIEKKUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50915,
+      "name": "ブロロン",
+      "number": "060",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050915_P_BURORON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50916,
+      "name": "ブロロローム",
+      "number": "061",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050916_P_BUROROROMU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50917,
+      "name": "ミミズズ",
+      "number": "062",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050917_P_MIMIZUZU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50918,
+      "name": "ビブラーバ",
+      "number": "063",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050918_P_BIBURABA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50919,
+      "name": "フライゴン",
+      "number": "064",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050919_P_FURAIGON.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50920,
+      "name": "フカマル",
+      "number": "065",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050920_P_FUKAMARU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50921,
+      "name": "ガバイト",
+      "number": "066",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050921_P_GABAITO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50922,
+      "name": "メガガブリアスZex",
+      "number": "067",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050922_P_MGABURIASUZETTOIEKKUSU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 50923,
+      "name": "ジジーロン",
+      "number": "068",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050923_P_JIJIRON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50924,
+      "name": "ニャース",
+      "number": "069",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050924_P_NIXYASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50925,
+      "name": "ペルシアン",
+      "number": "070",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050925_P_PERUSHIAN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 50926,
+      "name": "カクレオン",
+      "number": "071",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050926_P_KAKUREON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50927,
+      "name": "ゴンベ",
+      "number": "072",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050927_P_GONBE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50928,
+      "name": "レジギガス",
+      "number": "073",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050928_P_REJIGIGASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 50929,
+      "name": "きずなのタスキ",
+      "number": "074",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050929_T_KIZUNANOTASUKI.jpg"
+    },
+    {
+      "id": 50930,
+      "name": "コルニの本気",
+      "number": "075",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050930_T_KORUNINOHONKI.jpg"
+    },
+    {
+      "id": 50931,
+      "name": "マキシの熱血",
+      "number": "076",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050931_T_MAKISHINONEKKETSU.jpg"
+    },
+    {
+      "id": 50932,
+      "name": "レポーター",
+      "number": "077",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050932_T_REPOTA.jpg"
+    },
+    {
+      "id": 50933,
+      "name": "ファイトアリーナ",
+      "number": "078",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M7/050933_T_FUAITOARINA.jpg"
+    }
+  ]
+}

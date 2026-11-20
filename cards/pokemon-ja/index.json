@@ -1,14 +1,23 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "sets": [
+    {
+      "code": "M7",
+      "name": "ハドウシーカー",
+      "official": 78,
+      "releasedAt": "2026-11-27",
+      "count": 78,
+      "file": "cards/pokemon-ja/M7.json",
+      "version": "ed14968c40a6"
+    },
     {
       "code": "M6a",
       "name": "30th CELEBRATION",
       "official": 103,
       "releasedAt": "2026-09-16",
-      "count": 130,
+      "count": 162,
       "file": "cards/pokemon-ja/M6a.json",
-      "version": "33f96f7982d1"
+      "version": "76e2224bf0af"
     },
     {
       "code": "M6",

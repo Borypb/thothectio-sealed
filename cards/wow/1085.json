@@ -58,7 +58,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 17921,
@@ -72,7 +79,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/36.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 17922,
@@ -86,7 +100,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 17923,
@@ -103,9 +124,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.99,
+          "usd": 1,
           "low": 0.99,
-          "mid": 0.99
+          "mid": 1
         }
       ]
     },
@@ -121,7 +142,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/42.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 17925,
@@ -581,7 +609,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/34.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 21424,
@@ -595,7 +630,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/magtheridon-raid/en/37.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 2,
+          "mid": 2
+        }
+      ]
     },
     {
       "id": 21425,
@@ -647,5 +689,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-19"
+  "pricesAt": "2026-11-20"
 }

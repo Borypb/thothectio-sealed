@@ -602,10 +602,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-18T16:36:42.817",
-          "count": 113,
+          "modifiedOn": "2026-11-18T22:03:07.143",
+          "count": 125,
           "file": "cards/digimon/24865.json",
-          "version": "f262f9ab395f"
+          "version": "3e2a3c75edc3"
         },
         {
           "groupId": 24932,
@@ -622,10 +622,10 @@
           "name": "Starter Deck 26: Yukinamon",
           "code": "BD02",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-18T17:54:35.487",
+          "modifiedOn": "2026-11-18T20:53:28.047",
           "count": 15,
           "file": "cards/digimon/24929.json",
-          "version": "007d9ba4cbae"
+          "version": "9253bcdecaaa"
         },
         {
           "groupId": 24941,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-19"
+  "updatedAt": "2026-11-20"
 }

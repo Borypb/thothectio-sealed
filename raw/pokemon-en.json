@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-19T12:12:49.527Z",
+  "harvestedAt": "2026-11-20T12:14:12.005Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -14344,7 +14344,7 @@
     "2701": {
       "name": "SWSH04: Vivid Voltage",
       "abbreviation": "SWSH04",
-      "modifiedOn": "2026-10-05T13:23:27.303",
+      "modifiedOn": "2026-11-19T19:21:04.673",
       "publishedOn": "2020-11-13",
       "setCode": "swsh4",
       "products": [
@@ -14407,7 +14407,7 @@
         {
           "tcgplayerId": 221749,
           "name": "Vivid Voltage Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2020-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/221749_200w.jpg",
           "url": "https://www.tcgplayer.com/product/221749/pokemon-swsh04-vivid-voltage-vivid-voltage-build-and-battle-box-display"
@@ -14503,7 +14503,7 @@
         {
           "tcgplayerId": 231693,
           "name": "Vivid Voltage Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2020-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/231693_200w.jpg",
           "url": "https://www.tcgplayer.com/product/231693/pokemon-swsh04-vivid-voltage-vivid-voltage-theme-deck-display"
@@ -14525,14 +14525,6 @@
           "url": "https://www.tcgplayer.com/product/245143/pokemon-swsh04-vivid-voltage-vivid-voltage-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 265319,
-          "name": "Vivid Voltage Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-11-13",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/265319_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/265319/pokemon-swsh04-vivid-voltage-vivid-voltage-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 278642,
           "name": "Vivid Voltage Elite Trainer Box Case",
           "kind": "case",
@@ -14541,17 +14533,9 @@
           "url": "https://www.tcgplayer.com/product/278642/pokemon-swsh04-vivid-voltage-vivid-voltage-elite-trainer-box-case"
         },
         {
-          "tcgplayerId": 487798,
-          "name": "Vivid Voltage Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2020-11-13",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/487798_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/487798/pokemon-swsh04-vivid-voltage-vivid-voltage-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 653200,
           "name": "Vivid Voltage Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2020-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/653200_200w.jpg",
           "url": "https://www.tcgplayer.com/product/653200/pokemon-swsh04-vivid-voltage-vivid-voltage-sleeved-booster-case"
@@ -14559,7 +14543,7 @@
         {
           "tcgplayerId": 683003,
           "name": "Alakazam V Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2020-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/683003_200w.jpg",
           "url": "https://www.tcgplayer.com/product/683003/pokemon-swsh04-vivid-voltage-alakazam-v-box-case"
@@ -21969,19 +21953,10 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-18T13:48:51.19",
+      "modifiedOn": "2026-11-19T15:10:48.27",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
-      "products": [
-        {
-          "tcgplayerId": 734563,
-          "name": "Kommo-o - 114 (Staff)",
-          "kind": "other",
-          "releasedOn": "2025-09-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/734563_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/734563/pokemon-me-mega-evolution-promo-kommo-o-114-staff"
-        }
-      ]
+      "products": []
     },
     "24461": {
       "name": "MEE: Mega Evolution Energies",
@@ -22768,7 +22743,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-11-10T03:15:13.41",
+      "modifiedOn": "2026-11-19T17:28:33.633",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [
@@ -22790,11 +22765,11 @@
         },
         {
           "tcgplayerId": 692940,
-          "name": "Pitch Black Half Booster Boxes",
+          "name": "Pitch Black Half Booster Box",
           "kind": "booster_box",
           "releasedOn": "2026-07-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692940_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/692940/pokemon-me05-pitch-black-pitch-black-half-booster-boxes"
+          "url": "https://www.tcgplayer.com/product/692940/pokemon-me05-pitch-black-pitch-black-half-booster-box"
         },
         {
           "tcgplayerId": 692941,
@@ -23537,9 +23512,177 @@
     "24938": {
       "name": "McDonald's Promos 2026",
       "abbreviation": "M26",
-      "modifiedOn": "2026-11-12T21:02:02.997",
+      "modifiedOn": "2026-11-18T22:10:49.187",
       "publishedOn": "2026-11-06",
       "products": []
+    },
+    "24955": {
+      "name": "ME07: Flowing Fists",
+      "abbreviation": "FLO",
+      "modifiedOn": "2026-11-19T17:47:36.43",
+      "publishedOn": "2027-02-06",
+      "products": [
+        {
+          "tcgplayerId": 735044,
+          "name": "Flowing Fists Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735044_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735044/pokemon-me07-flowing-fists-flowing-fists-booster-box-case"
+        },
+        {
+          "tcgplayerId": 735045,
+          "name": "Flowing Fists Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735045_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735045/pokemon-me07-flowing-fists-flowing-fists-booster-box"
+        },
+        {
+          "tcgplayerId": 735046,
+          "name": "Flowing Fists Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735046_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735046/pokemon-me07-flowing-fists-flowing-fists-booster-pack"
+        },
+        {
+          "tcgplayerId": 735047,
+          "name": "Flowing Fists Sleeved Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735047_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735047/pokemon-me07-flowing-fists-flowing-fists-sleeved-booster-pack"
+        },
+        {
+          "tcgplayerId": 735049,
+          "name": "Flowing Fists Pokemon Center Elite Trainer Box (Exclusive)",
+          "kind": "etb",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735049_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735049/pokemon-me07-flowing-fists-flowing-fists-pokemon-center-elite-trainer-box-exclusive"
+        },
+        {
+          "tcgplayerId": 735050,
+          "name": "Flowing Fists Elite Trainer Box",
+          "kind": "etb",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735050_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735050/pokemon-me07-flowing-fists-flowing-fists-elite-trainer-box"
+        },
+        {
+          "tcgplayerId": 735052,
+          "name": "Flowing Fists Elite Trainer Box Case",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735052_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735052/pokemon-me07-flowing-fists-flowing-fists-elite-trainer-box-case"
+        },
+        {
+          "tcgplayerId": 735053,
+          "name": "Flowing Fists Half Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735053_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735053/pokemon-me07-flowing-fists-flowing-fists-half-booster-box"
+        },
+        {
+          "tcgplayerId": 735057,
+          "name": "Flowing Fists Sleeved Booster Case",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735057_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735057/pokemon-me07-flowing-fists-flowing-fists-sleeved-booster-case"
+        },
+        {
+          "tcgplayerId": 735058,
+          "name": "Flowing Fists 3-Pack Blister [Wimpod]",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735058_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735058/pokemon-me07-flowing-fists-flowing-fists-3-pack-blister-wimpod"
+        },
+        {
+          "tcgplayerId": 735059,
+          "name": "Flowing Fists 3-Pack Blister Case",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735059_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735059/pokemon-me07-flowing-fists-flowing-fists-3-pack-blister-case"
+        },
+        {
+          "tcgplayerId": 735060,
+          "name": "Flowing Fists Single Pack Blister [Tynamo]",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735060_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735060/pokemon-me07-flowing-fists-flowing-fists-single-pack-blister-tynamo"
+        },
+        {
+          "tcgplayerId": 735062,
+          "name": "Flowing Fists Premium Checklane Blister [Bastiodon Line]",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735062_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735062/pokemon-me07-flowing-fists-flowing-fists-premium-checklane-blister-bastiodon-line"
+        },
+        {
+          "tcgplayerId": 735063,
+          "name": "Flowing Fists Premium Checklane Blister [Primarina Line]",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735063_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735063/pokemon-me07-flowing-fists-flowing-fists-premium-checklane-blister-primarina-line"
+        },
+        {
+          "tcgplayerId": 735064,
+          "name": "Flowing Fists Premium Checklane Blister [Armarouge Line] (Target Exclusive)",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735064_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735064/pokemon-me07-flowing-fists-flowing-fists-premium-checklane-blister-armarouge-line-target-exclusive"
+        },
+        {
+          "tcgplayerId": 735065,
+          "name": "Flowing Fists Premium Checklane Blister [Silvally Line] (Target Exclusive)",
+          "kind": "blister",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735065_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735065/pokemon-me07-flowing-fists-flowing-fists-premium-checklane-blister-silvally-line-target-exclusive"
+        },
+        {
+          "tcgplayerId": 735066,
+          "name": "Flowing Fists Booster Bundle",
+          "kind": "bundle",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735066_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735066/pokemon-me07-flowing-fists-flowing-fists-booster-bundle"
+        },
+        {
+          "tcgplayerId": 735067,
+          "name": "Flowing Fists Booster Bundle Case",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735067_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735067/pokemon-me07-flowing-fists-flowing-fists-booster-bundle-case"
+        },
+        {
+          "tcgplayerId": 735069,
+          "name": "Flowing Fists Build & Battle Box",
+          "kind": "build_battle",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735069_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735069/pokemon-me07-flowing-fists-flowing-fists-build-and-battle-box"
+        },
+        {
+          "tcgplayerId": 735070,
+          "name": "Flowing Fists Build & Battle Box Display",
+          "kind": "case",
+          "releasedOn": "2027-02-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735070_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735070/pokemon-me07-flowing-fists-flowing-fists-build-and-battle-box-display"
+        }
+      ]
     }
   }
 }

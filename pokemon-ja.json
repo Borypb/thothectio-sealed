@@ -1,8 +1,28 @@
 {
-  "version": 7,
+  "version": 8,
   "game": "pokemon",
   "lang": "ja",
   "products": [
+    {
+      "id": "pkm-ja-pcg-9829eabc37",
+      "kind": "collection",
+      "name": "カードイラストフィギュアコレクション 30th CELEBRATION",
+      "lang": "ja",
+      "releasedAt": "2026-11-27",
+      "extras": [
+        "ポケモンフィギュア…1個",
+        "ディスプレイフレーム付き台座…1個",
+        "カード…1枚"
+      ],
+      "image": "https://www.pokemon-card.com/products/2026/images/cardillust_figure_30th.jpg",
+      "msrp": {
+        "jpy": 1800
+      },
+      "source": {
+        "official": "https://www.pokemon-card.com/products/"
+      },
+      "verified": true
+    },
     {
       "id": "pkm-ja-pcg-d0ee276543",
       "kind": "booster",

@@ -1,8 +1,162 @@
 {
-  "version": 17,
+  "version": 18,
   "game": "pokemon",
   "lang": "en",
   "products": [
+    {
+      "id": "pkm-en-tcp735045",
+      "kind": "booster_box",
+      "name": "Flowing Fists Booster Box",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735045_200w.jpg",
+      "source": {
+        "tcgplayer": 735045
+      }
+    },
+    {
+      "id": "pkm-en-tcp735046",
+      "kind": "booster",
+      "name": "Flowing Fists Booster Pack",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735046_200w.jpg",
+      "source": {
+        "tcgplayer": 735046
+      }
+    },
+    {
+      "id": "pkm-en-tcp735047",
+      "kind": "booster",
+      "name": "Flowing Fists Sleeved Booster Pack",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735047_200w.jpg",
+      "source": {
+        "tcgplayer": 735047
+      }
+    },
+    {
+      "id": "pkm-en-tcp735049",
+      "kind": "etb",
+      "name": "Flowing Fists Pokemon Center Elite Trainer Box (Exclusive)",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735049_200w.jpg",
+      "source": {
+        "tcgplayer": 735049
+      }
+    },
+    {
+      "id": "pkm-en-tcp735050",
+      "kind": "etb",
+      "name": "Flowing Fists Elite Trainer Box",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735050_200w.jpg",
+      "source": {
+        "tcgplayer": 735050
+      }
+    },
+    {
+      "id": "pkm-en-tcp735053",
+      "kind": "booster_box",
+      "name": "Flowing Fists Half Booster Box",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735053_200w.jpg",
+      "source": {
+        "tcgplayer": 735053
+      }
+    },
+    {
+      "id": "pkm-en-tcp735058",
+      "kind": "blister",
+      "name": "Flowing Fists 3-Pack Blister [Wimpod]",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735058_200w.jpg",
+      "source": {
+        "tcgplayer": 735058
+      }
+    },
+    {
+      "id": "pkm-en-tcp735060",
+      "kind": "blister",
+      "name": "Flowing Fists Single Pack Blister [Tynamo]",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735060_200w.jpg",
+      "source": {
+        "tcgplayer": 735060
+      }
+    },
+    {
+      "id": "pkm-en-tcp735062",
+      "kind": "blister",
+      "name": "Flowing Fists Premium Checklane Blister [Bastiodon Line]",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735062_200w.jpg",
+      "source": {
+        "tcgplayer": 735062
+      }
+    },
+    {
+      "id": "pkm-en-tcp735063",
+      "kind": "blister",
+      "name": "Flowing Fists Premium Checklane Blister [Primarina Line]",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735063_200w.jpg",
+      "source": {
+        "tcgplayer": 735063
+      }
+    },
+    {
+      "id": "pkm-en-tcp735064",
+      "kind": "blister",
+      "name": "Flowing Fists Premium Checklane Blister [Armarouge Line] (Target Exclusive)",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735064_200w.jpg",
+      "source": {
+        "tcgplayer": 735064
+      }
+    },
+    {
+      "id": "pkm-en-tcp735065",
+      "kind": "blister",
+      "name": "Flowing Fists Premium Checklane Blister [Silvally Line] (Target Exclusive)",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735065_200w.jpg",
+      "source": {
+        "tcgplayer": 735065
+      }
+    },
+    {
+      "id": "pkm-en-tcp735066",
+      "kind": "bundle",
+      "name": "Flowing Fists Booster Bundle",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735066_200w.jpg",
+      "source": {
+        "tcgplayer": 735066
+      }
+    },
+    {
+      "id": "pkm-en-tcp735069",
+      "kind": "build_battle",
+      "name": "Flowing Fists Build & Battle Box",
+      "lang": "en",
+      "releasedAt": "2027-02-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735069_200w.jpg",
+      "source": {
+        "tcgplayer": 735069
+      }
+    },
     {
       "id": "pkm-en-tcp704149",
       "kind": "tin",
@@ -951,7 +1105,7 @@
     {
       "id": "pkm-en-tcp692940",
       "kind": "booster_box",
-      "name": "Pitch Black Half Booster Boxes",
+      "name": "Pitch Black Half Booster Box",
       "lang": "en",
       "setIds": [
         "pkm-me05"
@@ -2983,20 +3137,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715706_200w.jpg",
       "source": {
         "tcgplayer": 715706
-      }
-    },
-    {
-      "id": "pkm-en-tcp734563",
-      "kind": "other",
-      "name": "Kommo-o - 114 (Staff)",
-      "lang": "en",
-      "setIds": [
-        "pkm-mep"
-      ],
-      "releasedAt": "2025-09-26",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/734563_200w.jpg",
-      "source": {
-        "tcgplayer": 734563
       }
     },
     {

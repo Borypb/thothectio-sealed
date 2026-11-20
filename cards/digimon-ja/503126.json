@@ -1,0 +1,169 @@
+{
+  "id": "503126",
+  "name": "スターターデッキ DIGIMON ALYSION ユキナモン【ST-26】",
+  "code": "ST-26",
+  "cards": [
+    {
+      "number": "ST26-01",
+      "name": "ポコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-01.png?04",
+      "en": "Viximon"
+    },
+    {
+      "number": "ST26-02",
+      "name": "レナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-02.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "ST26-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-03.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "ST26-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-04.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "ST26-05",
+      "name": "ユキナモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-05.png?04",
+      "en": "Yukinamon // Ice Beast Caricatures"
+    },
+    {
+      "number": "ST26-06",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-06.png?04",
+      "en": "Valner Dragnogh"
+    },
+    {
+      "number": "SD02-02",
+      "name": "レナモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-02.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "SD02-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-03.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "SD02-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-04.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "BD02-02",
+      "name": "レナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-02.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "BD02-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-03.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "BD02-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-04.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "ED01-02",
+      "name": "ユキナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-02.png?04",
+      "en": "Yukinamon"
+    },
+    {
+      "number": "BD02-08",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-08.png?04",
+      "en": "Valner Dragnogh"
+    },
+    {
+      "number": "ED01-10",
+      "name": "雪片の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-10.png?04",
+      "en": "Bond of Snowflakes"
+    },
+    {
+      "number": "ED01-10",
+      "name": "雪片の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-10_P1.png?04",
+      "en": "Bond of Snowflakes"
+    },
+    {
+      "number": "LM-028",
+      "name": "ブルー・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p5",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P5.png?04",
+      "en": "Blue Scramble"
+    },
+    {
+      "number": "P-036",
+      "name": "ブルー・メモリーブースト！！",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p7",
+      "image": "https://digimoncard.com/images/cardlist/card/P-036_P7.png?04",
+      "en": "Blue Memory Boost!"
+    }
+  ]
+}

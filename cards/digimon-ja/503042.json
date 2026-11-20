@@ -1,0 +1,1254 @@
+{
+  "id": "503042",
+  "name": "ブースターパック IGNITION OF X【BT-27】",
+  "code": "BT-27",
+  "cards": [
+    {
+      "number": "BT27-001",
+      "name": "グリモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-001.png?04",
+      "en": "Gurimon"
+    },
+    {
+      "number": "BT27-002",
+      "name": "チャップモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-002.png?04",
+      "en": "Chapmon"
+    },
+    {
+      "number": "BT27-003",
+      "name": "フリモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-003.png?04",
+      "en": "Frimon"
+    },
+    {
+      "number": "BT27-004",
+      "name": "カプリモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-004.png?04",
+      "en": "Kapurimon"
+    },
+    {
+      "number": "BT27-005",
+      "name": "モチモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-005.png?04",
+      "en": "Motimon"
+    },
+    {
+      "number": "BT27-006",
+      "name": "ジェムモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-006.png?04"
+    },
+    {
+      "number": "BT27-007",
+      "name": "ソーラーモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-007.png?04",
+      "en": "Solarmon"
+    },
+    {
+      "number": "BT27-008",
+      "name": "リュウダモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-008.png?04",
+      "en": "Ryudamon"
+    },
+    {
+      "number": "BT27-008",
+      "name": "リュウダモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-008_P1.png?04",
+      "en": "Ryudamon"
+    },
+    {
+      "number": "BT27-009",
+      "name": "ギンリュウモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-009.png?04",
+      "en": "Ginryumon"
+    },
+    {
+      "number": "BT27-010",
+      "name": "メラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-010.png?04",
+      "en": "Meramon"
+    },
+    {
+      "number": "BT27-011",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-011.png?04"
+    },
+    {
+      "number": "BT27-012",
+      "name": "デスメラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-012.png?04",
+      "en": "SkullMeramon"
+    },
+    {
+      "number": "BT27-013",
+      "name": "ヒシャリュウモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-013.png?04",
+      "en": "Hisyaryumon"
+    },
+    {
+      "number": "BT27-014",
+      "name": "レプティリモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-014.png?04"
+    },
+    {
+      "number": "BT27-015",
+      "name": "オウリュウモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-015.png?04",
+      "en": "Ouryumon"
+    },
+    {
+      "number": "BT27-015",
+      "name": "オウリュウモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-015_P1.png?04",
+      "en": "Ouryumon"
+    },
+    {
+      "number": "BT27-016",
+      "name": "ジエスモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-016.png?04",
+      "en": "Jesmon // Ultimate Seibaken"
+    },
+    {
+      "number": "BT27-016",
+      "name": "ジエスモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-016_P1.png?04",
+      "en": "Jesmon // Ultimate Seibaken"
+    },
+    {
+      "number": "BT27-016",
+      "name": "ジエスモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-016_P2.png?04",
+      "en": "Jesmon // Ultimate Seibaken"
+    },
+    {
+      "number": "BT27-017",
+      "name": "スピノモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-017.png?04",
+      "en": "Spinomon"
+    },
+    {
+      "number": "BT27-018",
+      "name": "ルビウスドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-018.png?04"
+    },
+    {
+      "number": "BT27-018",
+      "name": "ルビウスドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-018_P1.png?04"
+    },
+    {
+      "number": "BT27-019",
+      "name": "ガオモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-019.png?04",
+      "en": "Gaomon"
+    },
+    {
+      "number": "BT27-020",
+      "name": "カメモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-020.png?04",
+      "en": "Kamemon"
+    },
+    {
+      "number": "BT27-021",
+      "name": "ドラコモンX抗体",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-021.png?04",
+      "en": "Dracomon"
+    },
+    {
+      "number": "BT27-022",
+      "name": "レナモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-022.png?04"
+    },
+    {
+      "number": "BT27-023",
+      "name": "カウスガンマモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-023.png?04",
+      "en": "KausGammamon"
+    },
+    {
+      "number": "BT27-024",
+      "name": "ガオガモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-024.png?04",
+      "en": "Gaogamon"
+    },
+    {
+      "number": "BT27-025",
+      "name": "ガワッパモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-025.png?04",
+      "en": "Gawappamon"
+    },
+    {
+      "number": "BT27-026",
+      "name": "サンダーバーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-026.png?04",
+      "en": "Thunderbirdmon"
+    },
+    {
+      "number": "BT27-027",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-027.png?04"
+    },
+    {
+      "number": "BT27-028",
+      "name": "シャウジンモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-028.png?04",
+      "en": "Shaujinmon"
+    },
+    {
+      "number": "BT27-029",
+      "name": "セッカモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-029.png?04"
+    },
+    {
+      "number": "BT27-030",
+      "name": "マッハガオガモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-030.png?04",
+      "en": "MachGaogamon"
+    },
+    {
+      "number": "BT27-031",
+      "name": "ジャンボガメモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-031.png?04",
+      "en": "JumboGamemon"
+    },
+    {
+      "number": "BT27-032",
+      "name": "ミラージュガオガモン",
+      "rarity": "R",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-032.png?04",
+      "en": "MirageGaogamon // Full Moon Blaster"
+    },
+    {
+      "number": "BT27-032",
+      "name": "ミラージュガオガモン",
+      "rarity": "R",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-032_P1.png?04",
+      "en": "MirageGaogamon // Full Moon Blaster"
+    },
+    {
+      "number": "BT27-033",
+      "name": "ユキナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-033.png?04"
+    },
+    {
+      "number": "BT27-033",
+      "name": "ユキナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-033_P1.png?04"
+    },
+    {
+      "number": "BT27-034",
+      "name": "エグザモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-034.png?04",
+      "en": "Examon // Ultimate Battle Dragonlance Ambrose"
+    },
+    {
+      "number": "BT27-034",
+      "name": "エグザモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-034_P1.png?04",
+      "en": "Examon // Ultimate Battle Dragonlance Ambrose"
+    },
+    {
+      "number": "BT27-035",
+      "name": "ミラージュガオガモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-035.png?04",
+      "en": "MirageGaogamon: Burst Mode // Full Moon Meteor Impact"
+    },
+    {
+      "number": "BT27-035",
+      "name": "ミラージュガオガモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-035_P1.png?04",
+      "en": "MirageGaogamon: Burst Mode // Full Moon Meteor Impact"
+    },
+    {
+      "number": "BT27-035",
+      "name": "ミラージュガオガモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-035_P2.png?04",
+      "en": "MirageGaogamon: Burst Mode // Full Moon Meteor Impact"
+    },
+    {
+      "number": "BT27-036",
+      "name": "ポーンチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-036.png?04",
+      "en": "PawnChessmon"
+    },
+    {
+      "number": "BT27-037",
+      "name": "ガードロモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-037.png?04",
+      "en": "Guardromon"
+    },
+    {
+      "number": "BT27-038",
+      "name": "クアトルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-038.png?04",
+      "en": "Quetzalmon"
+    },
+    {
+      "number": "BT27-039",
+      "name": "ナイトチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-039.png?04",
+      "en": "KnightChessmon"
+    },
+    {
+      "number": "BT27-040",
+      "name": "エテモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-040.png?04",
+      "en": "Etemon"
+    },
+    {
+      "number": "BT27-041",
+      "name": "ビショップチェスモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-041.png?04",
+      "en": "BishopChessmon"
+    },
+    {
+      "number": "BT27-042",
+      "name": "キングチェスモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-042.png?04",
+      "en": "KingChessmon"
+    },
+    {
+      "number": "BT27-043",
+      "name": "スレイプモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-043.png?04",
+      "en": "Kentaurosmon // Ultimate Crossbow Einherjar"
+    },
+    {
+      "number": "BT27-043",
+      "name": "スレイプモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-043_P1.png?04",
+      "en": "Kentaurosmon // Ultimate Crossbow Einherjar"
+    },
+    {
+      "number": "BT27-044",
+      "name": "ゲッコーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-044.png?04",
+      "en": "Gekkomon"
+    },
+    {
+      "number": "BT27-044",
+      "name": "ゲッコーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-044_P1.png?04",
+      "en": "Gekkomon"
+    },
+    {
+      "number": "BT27-045",
+      "name": "レオルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-045.png?04",
+      "en": "Liollmon"
+    },
+    {
+      "number": "BT27-046",
+      "name": "アルマリザモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-046.png?04",
+      "en": "Armalizamon"
+    },
+    {
+      "number": "BT27-047",
+      "name": "ウェズンガンマモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-047.png?04",
+      "en": "WezenGammamon"
+    },
+    {
+      "number": "BT27-048",
+      "name": "ステゴモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-048.png?04",
+      "en": "Stegomon"
+    },
+    {
+      "number": "BT27-049",
+      "name": "ライアモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-049.png?04",
+      "en": "Liamon"
+    },
+    {
+      "number": "BT27-050",
+      "name": "モナークリザモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-050.png?04",
+      "en": "Monarchlizamon"
+    },
+    {
+      "number": "BT27-051",
+      "name": "ローダーレオモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-051.png?04",
+      "en": "LoaderLeomon"
+    },
+    {
+      "number": "BT27-052",
+      "name": "アトラタスモン",
+      "rarity": "UR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-052.png?04",
+      "en": "Atratusmon"
+    },
+    {
+      "number": "BT27-052",
+      "name": "アトラタスモン",
+      "rarity": "UR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-052_P1.png?04",
+      "en": "Atratusmon"
+    },
+    {
+      "number": "BT27-052",
+      "name": "アトラタスモン",
+      "rarity": "UR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-052_P2.png?04",
+      "en": "Atratusmon"
+    },
+    {
+      "number": "BT27-053",
+      "name": "バンチョーレオモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-053.png?04",
+      "en": "BanchoLeomon"
+    },
+    {
+      "number": "BT27-053",
+      "name": "バンチョーレオモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-053_P1.png?04",
+      "en": "BanchoLeomon"
+    },
+    {
+      "number": "BT27-054",
+      "name": "ロトスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-054.png?04",
+      "en": "Lotosmon"
+    },
+    {
+      "number": "BT27-055",
+      "name": "ロトスモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-055.png?04",
+      "en": "Lotosmon"
+    },
+    {
+      "number": "BT27-056",
+      "name": "プリスティモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-056.png?04",
+      "en": "Pristimon"
+    },
+    {
+      "number": "BT27-056",
+      "name": "プリスティモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-056_P1.png?04",
+      "en": "Pristimon"
+    },
+    {
+      "number": "BT27-057",
+      "name": "ポーンチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-057.png?04",
+      "en": "PawnChessmon"
+    },
+    {
+      "number": "BT27-058",
+      "name": "ウルヴァモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-058.png?04",
+      "en": "Wolvermon"
+    },
+    {
+      "number": "BT27-059",
+      "name": "クロックモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-059.png?04",
+      "en": "Clockmon"
+    },
+    {
+      "number": "BT27-060",
+      "name": "サンダーボールモンX抗体",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-060.png?04",
+      "en": "Thundermon"
+    },
+    {
+      "number": "BT27-061",
+      "name": "ナイトチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-061.png?04",
+      "en": "KnightChessmon"
+    },
+    {
+      "number": "BT27-062",
+      "name": "メイルドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-062.png?04",
+      "en": "Maildramon"
+    },
+    {
+      "number": "BT27-063",
+      "name": "アンドロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-063.png?04",
+      "en": "Andromon"
+    },
+    {
+      "number": "BT27-064",
+      "name": "ベアキャットモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-064.png?04",
+      "en": "Bearcatmon"
+    },
+    {
+      "number": "BT27-065",
+      "name": "マメモンX抗体",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-065.png?04",
+      "en": "Mamemon"
+    },
+    {
+      "number": "BT27-066",
+      "name": "ルークチェスモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-066.png?04",
+      "en": "RookChessmon"
+    },
+    {
+      "number": "BT27-067",
+      "name": "アルティオモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-067.png?04",
+      "en": "Artiomon // Doom Buster"
+    },
+    {
+      "number": "BT27-067",
+      "name": "アルティオモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-067_P1.png?04",
+      "en": "Artiomon // Doom Buster"
+    },
+    {
+      "number": "BT27-068",
+      "name": "ガンクゥモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-068.png?04",
+      "en": "Gankoomon // Ultimate Sengi Tengyouken"
+    },
+    {
+      "number": "BT27-068",
+      "name": "ガンクゥモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-068_P1.png?04",
+      "en": "Gankoomon // Ultimate Sengi Tengyouken"
+    },
+    {
+      "number": "BT27-069",
+      "name": "クイーンチェスモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-069.png?04",
+      "en": "QueenChessmon"
+    },
+    {
+      "number": "BT27-070",
+      "name": "クレニアムモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-070.png?04",
+      "en": "Craniamon // Ultimate Crossblade Dainsleif"
+    },
+    {
+      "number": "BT27-070",
+      "name": "クレニアムモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-070_P1.png?04",
+      "en": "Craniamon // Ultimate Crossblade Dainsleif"
+    },
+    {
+      "number": "BT27-071",
+      "name": "ダークドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-071.png?04",
+      "en": "Darkdramon"
+    },
+    {
+      "number": "BT27-072",
+      "name": "プリンスマメモンX抗体",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-072.png?04",
+      "en": "PrinceMamemon"
+    },
+    {
+      "number": "BT27-073",
+      "name": "キロプモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-073.png?04",
+      "en": "Chiropmon"
+    },
+    {
+      "number": "BT27-073",
+      "name": "キロプモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-073_P1.png?04",
+      "en": "Chiropmon"
+    },
+    {
+      "number": "BT27-074",
+      "name": "ファルコモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-074.png?04",
+      "en": "Falcomon"
+    },
+    {
+      "number": "BT27-075",
+      "name": "プロトギズモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-075.png?04"
+    },
+    {
+      "number": "BT27-076",
+      "name": "ギズモン：AT",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-076.png?04",
+      "en": "Gizmon: AT"
+    },
+    {
+      "number": "BT27-077",
+      "name": "ナイトキロプモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-077.png?04",
+      "en": "NightChiropmon"
+    },
+    {
+      "number": "BT27-078",
+      "name": "ペックモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-078.png?04",
+      "en": "Peckmon"
+    },
+    {
+      "number": "BT27-079",
+      "name": "ギズモン：XT",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-079.png?04",
+      "en": "ProtoGizmon"
+    },
+    {
+      "number": "BT27-080",
+      "name": "スカージキロプモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-080.png?04",
+      "en": "ScourgeChiropmon"
+    },
+    {
+      "number": "BT27-081",
+      "name": "ヤタガラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-081.png?04",
+      "en": "Crowmon"
+    },
+    {
+      "number": "BT27-082",
+      "name": "ノスフェラモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-082.png?04",
+      "en": "Nosferamon // Rampage Bullet"
+    },
+    {
+      "number": "BT27-082",
+      "name": "ノスフェラモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-082_P1.png?04",
+      "en": "Nosferamon // Rampage Bullet"
+    },
+    {
+      "number": "BT27-083",
+      "name": "レイヴモン",
+      "rarity": "R",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-083.png?04",
+      "en": "Ravemon // Ame-no-Ohabari"
+    },
+    {
+      "number": "BT27-083",
+      "name": "レイヴモン",
+      "rarity": "R",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-083_P1.png?04",
+      "en": "Ravemon // Ame-no-Ohabari"
+    },
+    {
+      "number": "BT27-084",
+      "name": "ロードナイトモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-084.png?04",
+      "en": "LordKnightmon // Ultimate Thrusting Sword Gran Rozerio"
+    },
+    {
+      "number": "BT27-084",
+      "name": "ロードナイトモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-084_P1.png?04",
+      "en": "LordKnightmon // Ultimate Thrusting Sword Gran Rozerio"
+    },
+    {
+      "number": "BT27-085",
+      "name": "レイヴモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-085.png?04",
+      "en": "Ravemon: Burst Mode // Mourning Dance"
+    },
+    {
+      "number": "BT27-085",
+      "name": "レイヴモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-085_P1.png?04",
+      "en": "Ravemon: Burst Mode // Mourning Dance"
+    },
+    {
+      "number": "BT27-085",
+      "name": "レイヴモン：バーストモード",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-085_P2.png?04",
+      "en": "Ravemon: Burst Mode // Mourning Dance"
+    },
+    {
+      "number": "BT27-086",
+      "name": "本堂カナタ",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-086.png?04"
+    },
+    {
+      "number": "BT27-086",
+      "name": "本堂カナタ",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-086_P1.png?04"
+    },
+    {
+      "number": "BT27-087",
+      "name": "武者ユージ",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-087.png?04",
+      "en": "Yuji Musya"
+    },
+    {
+      "number": "BT27-088",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-088.png?04"
+    },
+    {
+      "number": "BT27-088",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-088_P1.png?04"
+    },
+    {
+      "number": "BT27-089",
+      "name": "トーマ・H・ノルシュタイン",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-089.png?04",
+      "en": "Thomas H. Norstein"
+    },
+    {
+      "number": "BT27-090",
+      "name": "大門英",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-090.png?04",
+      "en": "Spencer Damon"
+    },
+    {
+      "number": "BT27-091",
+      "name": "天馬トモロウ",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-091.png?04",
+      "en": "Tomoro Tenma"
+    },
+    {
+      "number": "BT27-092",
+      "name": "ナナミ＆コウキ＆イワン",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-092.png?04",
+      "en": "Nanami, Kouki, & Ivan"
+    },
+    {
+      "number": "BT27-093",
+      "name": "黒崎美樹＆白川恵",
+      "rarity": "C",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-093.png?04",
+      "en": "Miki Kurosaki & Megumi Shirakawa"
+    },
+    {
+      "number": "BT27-094",
+      "name": "咲夜レーナ",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-094.png?04",
+      "en": "Reina Sakuya"
+    },
+    {
+      "number": "BT27-095",
+      "name": "湯島浩",
+      "rarity": "C",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-095.png?04",
+      "en": "Homer Yushima"
+    },
+    {
+      "number": "BT27-096",
+      "name": "イクト",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-096.png?04",
+      "en": "Keenan Crier"
+    },
+    {
+      "number": "BT27-097",
+      "name": "久遠寺マコト",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-097.png?04",
+      "en": "Makoto Kuonji"
+    },
+    {
+      "number": "BT27-098",
+      "name": "倉田明宏",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-098.png?04",
+      "en": "Akihiro Kurata"
+    },
+    {
+      "number": "BT27-099",
+      "name": "スルトブランダー",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-099.png?04",
+      "en": "Surtr Brander"
+    },
+    {
+      "number": "BT27-100",
+      "name": "ヒャズニング・ワルツ",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-100.png?04",
+      "en": "Hjaoningar Waltz"
+    },
+    {
+      "number": "BT27-101",
+      "name": "銀翼の夜叉",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-101.png?04",
+      "en": "Silver-Winged Yaksha"
+    },
+    {
+      "number": "BT27-102",
+      "name": "ハイパーバイオエボリューション",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-102.png?04",
+      "en": "Bio Hybrid Digivolution"
+    },
+    {
+      "number": "BT27-103",
+      "name": "アルファモン：王竜剣",
+      "rarity": "SEC",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-103.png?04",
+      "en": "Alphamon: Ouryuken // Ultimate Ouryuken"
+    },
+    {
+      "number": "BT27-103",
+      "name": "アルファモン：王竜剣",
+      "rarity": "SEC",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-103_P1.png?04",
+      "en": "Alphamon: Ouryuken // Ultimate Ouryuken"
+    },
+    {
+      "number": "BT27-103",
+      "name": "アルファモン：王竜剣",
+      "rarity": "SEC",
+      "type": "デジモン/オプション",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-103_P2.png?04",
+      "en": "Alphamon: Ouryuken // Ultimate Ouryuken"
+    },
+    {
+      "number": "BT27-104",
+      "name": "イグドラシル",
+      "rarity": "SEC",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-104.png?04",
+      "en": "King Drasil"
+    },
+    {
+      "number": "BT27-104",
+      "name": "イグドラシル",
+      "rarity": "SEC",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-104_P1.png?04",
+      "en": "King Drasil"
+    },
+    {
+      "number": "BT27-104",
+      "name": "イグドラシル",
+      "rarity": "SEC",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-104_P2.png?04",
+      "en": "King Drasil"
+    },
+    {
+      "number": "BT27-TOKEN",
+      "name": "ヒヌカムイ",
+      "type": "デジモン",
+      "level": "Lv.-",
+      "image": "https://digimoncard.com/images/cardlist/card/BT27-TOKEN.png?04"
+    }
+  ]
+}

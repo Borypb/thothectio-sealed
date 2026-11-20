@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "sets": [
+    {
+      "id": "503042",
+      "name": "ブースターパック IGNITION OF X【BT-27】",
+      "code": "BT-27",
+      "count": 136,
+      "file": "cards/digimon-ja/503042.json",
+      "version": "487e61811b0c",
+      "order": 81
+    },
     {
       "id": "503041",
       "name": "エクストラブースター CHIVALROUS XIII【EX-13】",
@@ -8,7 +17,7 @@
       "count": 164,
       "file": "cards/digimon-ja/503041.json",
       "version": "7f9197b136f6",
-      "order": 78
+      "order": 80
     },
     {
       "id": "503040",
@@ -17,7 +26,7 @@
       "count": 136,
       "file": "cards/digimon-ja/503040.json",
       "version": "ee044be298e0",
-      "order": 77
+      "order": 79
     },
     {
       "id": "503039",
@@ -26,7 +35,7 @@
       "count": 152,
       "file": "cards/digimon-ja/503039.json",
       "version": "37c8c1cf2aa9",
-      "order": 76
+      "order": 78
     },
     {
       "id": "503038",
@@ -35,7 +44,7 @@
       "count": 143,
       "file": "cards/digimon-ja/503038.json",
       "version": "c392090de135",
-      "order": 75
+      "order": 77
     },
     {
       "id": "503037",
@@ -44,7 +53,7 @@
       "count": 291,
       "file": "cards/digimon-ja/503037.json",
       "version": "67de17d28379",
-      "order": 74
+      "order": 76
     },
     {
       "id": "503036",
@@ -53,7 +62,7 @@
       "count": 158,
       "file": "cards/digimon-ja/503036.json",
       "version": "dc497f527324",
-      "order": 73
+      "order": 75
     },
     {
       "id": "503035",
@@ -62,7 +71,7 @@
       "count": 134,
       "file": "cards/digimon-ja/503035.json",
       "version": "0344c2f39746",
-      "order": 72
+      "order": 74
     },
     {
       "id": "503034",
@@ -71,7 +80,7 @@
       "count": 135,
       "file": "cards/digimon-ja/503034.json",
       "version": "943a3eead64e",
-      "order": 71
+      "order": 73
     },
     {
       "id": "503033",
@@ -80,7 +89,7 @@
       "count": 146,
       "file": "cards/digimon-ja/503033.json",
       "version": "04682f172858",
-      "order": 70
+      "order": 72
     },
     {
       "id": "503032",
@@ -89,7 +98,7 @@
       "count": 134,
       "file": "cards/digimon-ja/503032.json",
       "version": "5a3cadff6153",
-      "order": 69
+      "order": 71
     },
     {
       "id": "503031",
@@ -98,7 +107,7 @@
       "count": 147,
       "file": "cards/digimon-ja/503031.json",
       "version": "879a336c5438",
-      "order": 68
+      "order": 70
     },
     {
       "id": "503030",
@@ -107,7 +116,7 @@
       "count": 134,
       "file": "cards/digimon-ja/503030.json",
       "version": "b2cda5bfb8f7",
-      "order": 67
+      "order": 69
     },
     {
       "id": "503029",
@@ -116,7 +125,7 @@
       "count": 138,
       "file": "cards/digimon-ja/503029.json",
       "version": "c46b9cab1c04",
-      "order": 66
+      "order": 68
     },
     {
       "id": "503028",
@@ -125,7 +134,7 @@
       "count": 154,
       "file": "cards/digimon-ja/503028.json",
       "version": "3b606cb58c9d",
-      "order": 65
+      "order": 67
     },
     {
       "id": "503027",
@@ -134,7 +143,7 @@
       "count": 134,
       "file": "cards/digimon-ja/503027.json",
       "version": "2ec310f25344",
-      "order": 64
+      "order": 66
     },
     {
       "id": "503026",
@@ -143,7 +152,7 @@
       "count": 134,
       "file": "cards/digimon-ja/503026.json",
       "version": "739f27ac4a66",
-      "order": 63
+      "order": 65
     },
     {
       "id": "503025",
@@ -152,7 +161,7 @@
       "count": 146,
       "file": "cards/digimon-ja/503025.json",
       "version": "564514a7c8fe",
-      "order": 62
+      "order": 64
     },
     {
       "id": "503024",
@@ -161,7 +170,7 @@
       "count": 136,
       "file": "cards/digimon-ja/503024.json",
       "version": "67a6e2d3c3f5",
-      "order": 61
+      "order": 63
     },
     {
       "id": "503023",
@@ -170,7 +179,7 @@
       "count": 106,
       "file": "cards/digimon-ja/503023.json",
       "version": "b81eb340e239",
-      "order": 60
+      "order": 62
     },
     {
       "id": "503022",
@@ -179,7 +188,7 @@
       "count": 135,
       "file": "cards/digimon-ja/503022.json",
       "version": "2165676bf837",
-      "order": 59
+      "order": 61
     },
     {
       "id": "503021",
@@ -188,7 +197,7 @@
       "count": 137,
       "file": "cards/digimon-ja/503021.json",
       "version": "5fca1edad0f4",
-      "order": 58
+      "order": 60
     },
     {
       "id": "503020",
@@ -197,7 +206,7 @@
       "count": 101,
       "file": "cards/digimon-ja/503020.json",
       "version": "b0a9aadd627a",
-      "order": 57
+      "order": 59
     },
     {
       "id": "503019",
@@ -206,7 +215,7 @@
       "count": 130,
       "file": "cards/digimon-ja/503019.json",
       "version": "4f3079e65a45",
-      "order": 56
+      "order": 58
     },
     {
       "id": "503018",
@@ -215,7 +224,7 @@
       "count": 142,
       "file": "cards/digimon-ja/503018.json",
       "version": "0e0ae5f53816",
-      "order": 55
+      "order": 57
     },
     {
       "id": "503017",
@@ -224,7 +233,7 @@
       "count": 148,
       "file": "cards/digimon-ja/503017.json",
       "version": "1b60f294c050",
-      "order": 54
+      "order": 56
     },
     {
       "id": "503016",
@@ -233,7 +242,7 @@
       "count": 99,
       "file": "cards/digimon-ja/503016.json",
       "version": "5390f564e8ac",
-      "order": 53
+      "order": 55
     },
     {
       "id": "503015",
@@ -242,7 +251,7 @@
       "count": 139,
       "file": "cards/digimon-ja/503015.json",
       "version": "78b78c1a79a7",
-      "order": 52
+      "order": 54
     },
     {
       "id": "503014",
@@ -251,7 +260,7 @@
       "count": 140,
       "file": "cards/digimon-ja/503014.json",
       "version": "eb2ef0a39c1e",
-      "order": 51
+      "order": 53
     },
     {
       "id": "503013",
@@ -260,7 +269,7 @@
       "count": 99,
       "file": "cards/digimon-ja/503013.json",
       "version": "ad73ad155092",
-      "order": 50
+      "order": 52
     },
     {
       "id": "503012",
@@ -269,7 +278,7 @@
       "count": 137,
       "file": "cards/digimon-ja/503012.json",
       "version": "3ec0b14ae6d8",
-      "order": 49
+      "order": 51
     },
     {
       "id": "503011",
@@ -278,7 +287,7 @@
       "count": 136,
       "file": "cards/digimon-ja/503011.json",
       "version": "cea4e3543c23",
-      "order": 48
+      "order": 50
     },
     {
       "id": "503010",
@@ -287,7 +296,7 @@
       "count": 104,
       "file": "cards/digimon-ja/503010.json",
       "version": "00bd5882842d",
-      "order": 47
+      "order": 49
     },
     {
       "id": "503009",
@@ -296,7 +305,7 @@
       "count": 136,
       "file": "cards/digimon-ja/503009.json",
       "version": "ffdf160ee718",
-      "order": 46
+      "order": 48
     },
     {
       "id": "503008",
@@ -305,7 +314,7 @@
       "count": 144,
       "file": "cards/digimon-ja/503008.json",
       "version": "21a1ea7a1fab",
-      "order": 45
+      "order": 47
     },
     {
       "id": "503007",
@@ -314,7 +323,7 @@
       "count": 103,
       "file": "cards/digimon-ja/503007.json",
       "version": "812fc13ff8ec",
-      "order": 44
+      "order": 46
     },
     {
       "id": "503006",
@@ -323,7 +332,7 @@
       "count": 147,
       "file": "cards/digimon-ja/503006.json",
       "version": "65b69a78e303",
-      "order": 43
+      "order": 45
     },
     {
       "id": "503005",
@@ -332,7 +341,7 @@
       "count": 130,
       "file": "cards/digimon-ja/503005.json",
       "version": "aea4e569e909",
-      "order": 42
+      "order": 44
     },
     {
       "id": "503004",
@@ -341,7 +350,7 @@
       "count": 136,
       "file": "cards/digimon-ja/503004.json",
       "version": "19711119a073",
-      "order": 41
+      "order": 43
     },
     {
       "id": "503003",
@@ -350,7 +359,7 @@
       "count": 130,
       "file": "cards/digimon-ja/503003.json",
       "version": "f3819d9669bd",
-      "order": 40
+      "order": 42
     },
     {
       "id": "503002",
@@ -359,7 +368,7 @@
       "count": 129,
       "file": "cards/digimon-ja/503002.json",
       "version": "6cfff6806661",
-      "order": 39
+      "order": 41
     },
     {
       "id": "503001",
@@ -368,6 +377,24 @@
       "count": 134,
       "file": "cards/digimon-ja/503001.json",
       "version": "b4bc32c8a186",
+      "order": 40
+    },
+    {
+      "id": "503126",
+      "name": "スターターデッキ DIGIMON ALYSION ユキナモン【ST-26】",
+      "code": "ST-26",
+      "count": 18,
+      "file": "cards/digimon-ja/503126.json",
+      "version": "b10e971de207",
+      "order": 39
+    },
+    {
+      "id": "503125",
+      "name": "スターターデッキ DIGIMON ALYSION ルビウスドラモン【ST-25】",
+      "code": "ST-25",
+      "count": 18,
+      "file": "cards/digimon-ja/503125.json",
+      "version": "78187a95fabc",
       "order": 38
     },
     {

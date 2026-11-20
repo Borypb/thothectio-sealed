@@ -1,0 +1,169 @@
+{
+  "id": "503125",
+  "name": "スターターデッキ DIGIMON ALYSION ルビウスドラモン【ST-25】",
+  "code": "ST-25",
+  "cards": [
+    {
+      "number": "ST25-01",
+      "name": "トコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-01.png?04",
+      "en": "Tokomon"
+    },
+    {
+      "number": "ST25-02",
+      "name": "ジェムモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-02.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "ST25-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-03.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "ST25-04",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-04.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "ST25-05",
+      "name": "ルビウスドラモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-05.png?04",
+      "en": "Rubeusdramon // Burning Drive"
+    },
+    {
+      "number": "ST25-06",
+      "name": "本堂カナタ",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-06.png?04",
+      "en": "Kanata Hondo"
+    },
+    {
+      "number": "SD01-02",
+      "name": "ジェムモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-02.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "SD01-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-03.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "SD01-04",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-04.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "BD01-02",
+      "name": "ジェムモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-02.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "BD01-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-03.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "BD01-05",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-05.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "ED01-01",
+      "name": "ルビウスドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-01.png?04",
+      "en": "Rubeusdramon"
+    },
+    {
+      "number": "BD01-10",
+      "name": "本堂カナタ",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-10.png?04",
+      "en": "Kanata Hondo"
+    },
+    {
+      "number": "ED01-09",
+      "name": "紅玉の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-09.png?04",
+      "en": "Bond of Rubies"
+    },
+    {
+      "number": "ED01-09",
+      "name": "紅玉の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-09_P1.png?04",
+      "en": "Bond of Rubies"
+    },
+    {
+      "number": "LM-027",
+      "name": "レッド・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p5",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P5.png?04",
+      "en": "Red Scramble"
+    },
+    {
+      "number": "P-035",
+      "name": "レッド・メモリーブースト！！",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p6",
+      "image": "https://digimoncard.com/images/cardlist/card/P-035_P6.png?04",
+      "en": "Red Memory Boost!"
+    }
+  ]
+}

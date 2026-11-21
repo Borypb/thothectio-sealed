@@ -30,10 +30,10 @@
           "name": "Story Booster 01",
           "code": "ST01",
           "releasedAt": "2026-08-21",
-          "modifiedOn": "2026-11-10T17:17:54.193",
+          "modifiedOn": "2026-11-19T22:17:23.25",
           "count": 148,
           "file": "cards/dragonball/24680.json",
-          "version": "90b16d90b9f1"
+          "version": "88792ee414e0"
         },
         {
           "groupId": 24604,
@@ -602,37 +602,37 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-18T22:03:07.143",
-          "count": 125,
+          "modifiedOn": "2026-11-20T16:59:42.027",
+          "count": 129,
           "file": "cards/digimon/24865.json",
-          "version": "3e2a3c75edc3"
+          "version": "276a3108f569"
         },
         {
           "groupId": 24932,
           "name": "Starter Deck 25: Rubeusdramon",
           "code": "BD01",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-11T16:48:53.91",
-          "count": 15,
+          "modifiedOn": "2026-11-20T16:42:58.277",
+          "count": 16,
           "file": "cards/digimon/24932.json",
-          "version": "0e8c87e7acf2"
+          "version": "bfdc28796e76"
         },
         {
           "groupId": 24929,
           "name": "Starter Deck 26: Yukinamon",
           "code": "BD02",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-18T20:53:28.047",
-          "count": 15,
+          "modifiedOn": "2026-11-20T16:43:54.297",
+          "count": 16,
           "file": "cards/digimon/24929.json",
-          "version": "9253bcdecaaa"
+          "version": "090c76414088"
         },
         {
           "groupId": 24941,
           "name": "Limited Card Pack -Distancia Cero-",
           "code": "LM-09",
           "releasedAt": "2026-11-17",
-          "modifiedOn": "2026-11-16T19:13:52.08",
+          "modifiedOn": "2026-11-20T15:43:51.59",
           "count": 33,
           "file": "cards/digimon/24941.json",
           "version": "fffa81b85906"
@@ -682,20 +682,20 @@
           "name": "Digital World Shambala",
           "code": "EX-12",
           "releasedAt": "2026-07-03",
-          "modifiedOn": "2026-11-02T16:45:12.51",
-          "count": 156,
+          "modifiedOn": "2026-11-20T15:52:47.543",
+          "count": 157,
           "file": "cards/digimon/24630.json",
-          "version": "382dac69e7ed"
+          "version": "b8a8b46f3f9a"
         },
         {
           "groupId": 24574,
           "name": "Dual Revolution",
           "code": "BT-25",
           "releasedAt": "2026-05-22",
-          "modifiedOn": "2026-08-18T18:07:42.2",
-          "count": 152,
+          "modifiedOn": "2026-11-20T15:51:21.647",
+          "count": 154,
           "file": "cards/digimon/24574.json",
-          "version": "9ae51af473bb"
+          "version": "f70af856dddb"
         },
         {
           "groupId": 24627,
@@ -1657,7 +1657,7 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-11-12T20:45:19.78",
+          "modifiedOn": "2026-11-20T13:44:29.557",
           "count": 246,
           "file": "cards/riftbound/24819.json",
           "version": "daed2a485b76"
@@ -1747,10 +1747,10 @@
           "name": "Riftbound Promotional Cards",
           "code": "PR",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-10-28T19:31:31.163",
-          "count": 12,
+          "modifiedOn": "2026-11-20T13:52:39.693",
+          "count": 14,
           "file": "cards/riftbound/24343.json",
-          "version": "88c615f504e1"
+          "version": "5b7d2d7820c9"
         },
         {
           "groupId": 24502,
@@ -1828,10 +1828,10 @@
           "name": "Judge Promos",
           "code": "JDG",
           "releasedAt": "2026-11-01",
-          "modifiedOn": "2026-11-17T21:20:09.01",
-          "count": 4,
+          "modifiedOn": "2026-11-20T18:59:56.053",
+          "count": 5,
           "file": "cards/cyberpunk/24927.json",
-          "version": "21cb55bb7d95"
+          "version": "4b144e02dcc8"
         },
         {
           "groupId": 24928,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-20"
+  "updatedAt": "2026-11-21"
 }

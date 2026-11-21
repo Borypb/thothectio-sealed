@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-20T12:14:14.019Z",
+  "harvestedAt": "2026-11-21T11:49:34.793Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -5448,7 +5448,7 @@
     "24423": {
       "name": "M-P Promotional Cards",
       "abbreviation": "M-P",
-      "modifiedOn": "2026-11-18T19:05:02.97",
+      "modifiedOn": "2026-11-20T18:33:03.36",
       "publishedOn": "2025-08-08",
       "products": [
         {
@@ -5676,7 +5676,7 @@
     "24499": {
       "name": "M2a: High Class Pack: MEGA Dream ex",
       "abbreviation": "M2a",
-      "modifiedOn": "2026-09-16T21:31:00.707",
+      "modifiedOn": "2026-11-19T23:11:27.497",
       "publishedOn": "2025-11-28",
       "setCode": "M2a",
       "products": [
@@ -6298,7 +6298,7 @@
     "24791": {
       "name": "M6: Storm Emeralda",
       "abbreviation": "m6",
-      "modifiedOn": "2026-09-16T21:28:18.367",
+      "modifiedOn": "2026-11-19T23:12:41.87",
       "publishedOn": "2026-07-31",
       "setCode": "M6",
       "products": [
@@ -6439,6 +6439,13 @@
           "url": "https://www.tcgplayer.com/product/732941/pokemon-japan-mg-mega-feraligatr-ex-mega-dragonite-ex-and-mega-gengar-ex-special-deck-set-mega-feraligatr-ex-mega-dragonite-ex-and-mega-gengar-ex-special-deck-set"
         }
       ]
+    },
+    "24956": {
+      "name": "M7: Aura Seeker",
+      "abbreviation": "m7",
+      "modifiedOn": "2026-11-20T19:01:16.833",
+      "publishedOn": "2026-11-27",
+      "products": []
     }
   }
 }

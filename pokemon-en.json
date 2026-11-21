@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -155,6 +155,17 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/735069_200w.jpg",
       "source": {
         "tcgplayer": 735069
+      }
+    },
+    {
+      "id": "pkm-en-tcp735297",
+      "kind": "collection",
+      "name": "Valentine’s Day Box",
+      "lang": "en",
+      "releasedAt": "2027-01-15",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735297_200w.jpg",
+      "source": {
+        "tcgplayer": 735297
       }
     },
     {
@@ -32709,7 +32720,7 @@
     {
       "id": "pkm-en-tcp685924",
       "kind": "other",
-      "name": "Costco 6-Pack Poke balls",
+      "name": "Costco 6-Pack Poke Ball Tins (G25)",
       "lang": "en",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/685924_200w.jpg",
       "source": {
@@ -32944,6 +32955,16 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723301_200w.jpg",
       "source": {
         "tcgplayer": 723301
+      }
+    },
+    {
+      "id": "pkm-en-tcp735151",
+      "kind": "etb",
+      "name": "Costco Pokemon Perfect Order 2-Pack Elite Trainer Box and Booster Bundle",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735151_200w.jpg",
+      "source": {
+        "tcgplayer": 735151
       }
     },
     {

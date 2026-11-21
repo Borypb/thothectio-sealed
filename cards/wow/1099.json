@@ -496,14 +496,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/illidan/en/140.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 4.07,
-          "low": 5,
-          "mid": 5
-        }
-      ]
+      "prices": []
     },
     {
       "id": 26830,
@@ -675,7 +668,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.75,
           "low": 0.2,
           "mid": 0.25
         }
@@ -1350,7 +1343,7 @@
           "sub": "Normal",
           "usd": 1.99,
           "low": 0.75,
-          "mid": 1.49
+          "mid": 2.43
         }
       ]
     },
@@ -2162,7 +2155,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.75,
           "low": 0.1,
           "mid": 0.25
         }
@@ -2443,9 +2436,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.43,
+          "usd": 0.63,
           "low": 0.35,
-          "mid": 0.43
+          "mid": 0.63
         }
       ]
     },
@@ -3372,7 +3365,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.51,
+          "usd": 0.76,
           "low": 0.25,
           "mid": 0.51
         }
@@ -3457,9 +3450,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.48,
           "low": 0.24,
-          "mid": 0.25
+          "mid": 0.48
         }
       ]
     },
@@ -4432,7 +4425,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.26,
+          "usd": 1.62,
           "low": 0.99,
           "mid": 1.26
         }
@@ -4586,9 +4579,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.49,
+          "usd": 2,
           "low": 0.31,
-          "mid": 1.49
+          "mid": 2
         }
       ]
     },
@@ -5224,9 +5217,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.44,
+          "usd": 4.34,
           "low": 3.99,
-          "mid": 4.44
+          "mid": 4.34
         }
       ]
     },
@@ -5399,9 +5392,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.35,
+          "usd": 0.75,
           "low": 0.24,
-          "mid": 0.35
+          "mid": 0.75
         }
       ]
     },
@@ -5442,9 +5435,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.75,
           "low": 0.15,
-          "mid": 0.25
+          "mid": 0.75
         }
       ]
     },
@@ -5485,5 +5478,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-20"
+  "pricesAt": "2026-11-21"
 }

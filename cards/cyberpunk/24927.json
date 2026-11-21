@@ -42,12 +42,22 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 73.5,
-          "low": 75.45,
-          "mid": 75.73
+          "usd": 72.29,
+          "low": 69.99,
+          "mid": 72.5
         }
       ]
+    },
+    {
+      "id": 735296,
+      "name": "Maman Brigitte - Spirit of Death",
+      "number": "037",
+      "rarity": "NR",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/735296/cyberpunk-tcg-judge-promos-maman-brigitte-spirit-of-death",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-20"
+  "pricesAt": "2026-11-21"
 }

@@ -12,9 +12,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8,
-          "low": 6.51,
-          "mid": 8
+          "usd": 7,
+          "low": 6,
+          "mid": 7
         }
       ]
     },
@@ -46,9 +46,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 8.51,
-          "low": 5,
-          "mid": 5
+          "usd": 6.76,
+          "low": 9,
+          "mid": 9
         }
       ]
     },
@@ -94,7 +94,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715224_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715224/cyberpunk-tcg-embracing-power-retail-starter-deck-arasaka-emergency-radioport",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715225,
@@ -121,7 +128,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715226_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715226/cyberpunk-tcg-embracing-power-retail-starter-deck-satori-sword-of-saburo",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715227,
@@ -186,7 +200,7 @@
         {
           "sub": "Foil",
           "usd": 9.5,
-          "low": 8.51,
+          "low": 8,
           "mid": 9.5
         }
       ]
@@ -202,9 +216,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9,
-          "low": 8.49,
-          "mid": 9
+          "usd": 8.49,
+          "low": 8,
+          "mid": 8.49
         }
       ]
     },
@@ -267,7 +281,14 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715235_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715235/cyberpunk-tcg-embracing-power-retail-starter-deck-goro-takemura-losing-his-way",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.4,
+          "low": 10,
+          "mid": 10
+        }
+      ]
     },
     {
       "id": 715236,
@@ -321,5 +342,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-20"
+  "pricesAt": "2026-11-21"
 }

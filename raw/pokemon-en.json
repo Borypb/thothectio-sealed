@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-20T12:14:12.005Z",
+  "harvestedAt": "2026-11-21T11:49:29.731Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -8090,7 +8090,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-17T16:13:53.87",
+      "modifiedOn": "2026-11-20T19:14:54.083",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -12178,10 +12178,10 @@
         },
         {
           "tcgplayerId": 685924,
-          "name": "Costco 6-Pack Poke balls",
+          "name": "Costco 6-Pack Poke Ball Tins (G25)",
           "kind": "other",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685924_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/685924/pokemon-miscellaneous-cards-and-products-costco-6-pack-poke-balls"
+          "url": "https://www.tcgplayer.com/product/685924/pokemon-miscellaneous-cards-and-products-costco-6-pack-poke-ball-tins-g25"
         },
         {
           "tcgplayerId": 686298,
@@ -12465,6 +12465,29 @@
           "kind": "etb",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/723301_200w.jpg",
           "url": "https://www.tcgplayer.com/product/723301/pokemon-miscellaneous-cards-and-products-ascended-heroes-elite-trainer-box-and-pokeball-sams-club"
+        },
+        {
+          "tcgplayerId": 735151,
+          "name": "Costco Pokemon Perfect Order 2-Pack Elite Trainer Box and Booster Bundle",
+          "kind": "etb",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735151_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735151/pokemon-miscellaneous-cards-and-products-costco-pokemon-perfect-order-2-pack-elite-trainer-box-and-booster-bundle"
+        },
+        {
+          "tcgplayerId": 735297,
+          "name": "Valentine’s Day Box",
+          "kind": "collection",
+          "releasedOn": "2027-01-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735297_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735297/pokemon-miscellaneous-cards-and-products-valentines-day-box"
+        },
+        {
+          "tcgplayerId": 735298,
+          "name": "Valentine’s Day Box Case",
+          "kind": "case",
+          "releasedOn": "2027-01-15",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735298_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735298/pokemon-miscellaneous-cards-and-products-valentines-day-box-case"
         }
       ]
     },
@@ -17810,7 +17833,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-11-16T14:11:25.703",
+      "modifiedOn": "2026-11-19T20:25:42.443",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -18499,7 +18522,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-11-02T20:58:04.147",
+      "modifiedOn": "2026-11-19T22:26:12.647",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -20210,7 +20233,7 @@
     "23651": {
       "name": "SV08: Surging Sparks",
       "abbreviation": "SSP",
-      "modifiedOn": "2026-11-17T05:31:06.25",
+      "modifiedOn": "2026-11-19T22:21:33.447",
       "publishedOn": "2024-11-08",
       "setCode": "sv08",
       "products": [
@@ -21488,7 +21511,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-11-10T03:03:35.56",
+      "modifiedOn": "2026-11-19T23:06:54.987",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -21760,7 +21783,7 @@
     "24448": {
       "name": "ME02: Phantasmal Flames",
       "abbreviation": "PFL",
-      "modifiedOn": "2026-10-27T21:23:46.263",
+      "modifiedOn": "2026-11-19T23:03:49.147",
       "publishedOn": "2025-11-14",
       "setCode": "me02",
       "products": [
@@ -21953,7 +21976,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-11-19T15:10:48.27",
+      "modifiedOn": "2026-11-19T20:32:41.033",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -21961,7 +21984,7 @@
     "24461": {
       "name": "MEE: Mega Evolution Energies",
       "abbreviation": "MEE",
-      "modifiedOn": "2026-11-16T21:41:44.813",
+      "modifiedOn": "2026-11-20T19:54:13.48",
       "publishedOn": "2025-09-26",
       "products": []
     },
@@ -21981,7 +22004,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-11-13T19:16:26.383",
+      "modifiedOn": "2026-11-19T23:08:23.977",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22301,7 +22324,7 @@
     },
     "24584": {
       "name": "First Partner Collection 2026",
-      "modifiedOn": "2026-09-01T16:20:54.39",
+      "modifiedOn": "2026-11-19T23:05:04.337",
       "publishedOn": "2026-03-30",
       "products": [
         {
@@ -22315,7 +22338,7 @@
         {
           "tcgplayerId": 673439,
           "name": "First Partner Illustration Collection Case (Series 1)",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-03-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/673439_200w.jpg",
           "url": "https://www.tcgplayer.com/product/673439/pokemon-first-partner-collection-2026-first-partner-illustration-collection-case-series-1"
@@ -22331,7 +22354,7 @@
         {
           "tcgplayerId": 688716,
           "name": "First Partner Illustration Collection Case (Series 2)",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-03-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/688716_200w.jpg",
           "url": "https://www.tcgplayer.com/product/688716/pokemon-first-partner-collection-2026-first-partner-illustration-collection-case-series-2"
@@ -22355,7 +22378,7 @@
         {
           "tcgplayerId": 695402,
           "name": "First Partner Illustration Collection Case (Series 3)",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-08-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/695402_200w.jpg",
           "url": "https://www.tcgplayer.com/product/695402/pokemon-first-partner-collection-2026-first-partner-illustration-collection-case-series-3"
@@ -22381,7 +22404,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-11-10T03:17:51.393",
+      "modifiedOn": "2026-11-19T22:31:02.683",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [
@@ -22566,7 +22589,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-11-04T05:34:39.947",
+      "modifiedOn": "2026-11-19T22:30:10.497",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [
@@ -22743,7 +22766,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-11-19T17:28:33.633",
+      "modifiedOn": "2026-11-19T22:31:56.437",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [
@@ -22920,7 +22943,7 @@
     "24722": {
       "name": "ME: 30th Celebration",
       "abbreviation": "30C",
-      "modifiedOn": "2026-11-02T18:34:52.583",
+      "modifiedOn": "2026-11-20T19:48:00.873",
       "publishedOn": "2026-09-16",
       "setCode": "30th",
       "products": [
@@ -23498,7 +23521,7 @@
     "24837": {
       "name": "ME: 30th Celebration Classic Collection",
       "abbreviation": "30C",
-      "modifiedOn": "2026-10-30T13:12:23.21",
+      "modifiedOn": "2026-11-19T20:37:15.22",
       "publishedOn": "2026-09-16",
       "products": []
     },
@@ -23519,7 +23542,7 @@
     "24955": {
       "name": "ME07: Flowing Fists",
       "abbreviation": "FLO",
-      "modifiedOn": "2026-11-19T17:47:36.43",
+      "modifiedOn": "2026-11-20T19:44:01.867",
       "publishedOn": "2027-02-06",
       "products": [
         {

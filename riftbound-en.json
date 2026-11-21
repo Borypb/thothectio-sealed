@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "riftbound",
   "lang": "en",
   "products": [
@@ -796,21 +796,6 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/675404_200w.jpg",
       "source": {
         "tcgplayer": 675404
-      }
-    },
-    {
-      "id": "rb-en-tcp726827",
-      "game": "riftbound",
-      "kind": "other",
-      "name": "Lulu, Whimsical",
-      "lang": "en",
-      "setIds": [
-        "rb-g24343"
-      ],
-      "releasedAt": "2025-10-31",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726827_200w.jpg",
-      "source": {
-        "tcgplayer": 726827
       }
     },
     {

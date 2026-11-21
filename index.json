@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "updatedAt": "2026-11-21",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -98,8 +98,8 @@
       "files": {
         "en": {
           "file": "riftbound-en.json",
-          "version": 4,
-          "count": 56
+          "version": 5,
+          "count": 55
         }
       }
     },
@@ -148,57 +148,57 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 399
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-20",
-      "count": 3213
+      "date": "2026-11-21",
+      "count": 3222
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-20",
-      "count": 951
+      "date": "2026-11-21",
+      "count": 949
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 159
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-20",
-      "count": 296
+      "date": "2026-11-21",
+      "count": 295
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 151
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-20",
-      "count": 74
+      "date": "2026-11-21",
+      "count": 73
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 18
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-20",
-      "count": 33
+      "date": "2026-11-21",
+      "count": 36
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 101
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 26
     }
   }

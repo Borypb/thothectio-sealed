@@ -2,12 +2,12 @@
   "game": "riftbound",
   "lang": "en",
   "categoryId": 89,
-  "harvestedAt": "2026-11-20T13:09:26.791Z",
+  "harvestedAt": "2026-11-21T12:48:52.984Z",
   "groups": {
     "24343": {
       "name": "Riftbound Promotional Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-28T19:31:31.163",
+      "modifiedOn": "2026-11-20T13:52:39.693",
       "publishedOn": "2025-10-31",
       "setId": "rb-g24343",
       "products": [
@@ -18,14 +18,6 @@
           "releasedOn": "2026-02-10",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/655495_200w.jpg",
           "url": "https://www.tcgplayer.com/product/655495/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-league-of-legends-arcane-box-set"
-        },
-        {
-          "tcgplayerId": 726827,
-          "name": "Lulu, Whimsical",
-          "kind": "other",
-          "releasedOn": "2025-10-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/726827_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/726827/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-lulu-whimsical"
         }
       ]
     },
@@ -527,7 +519,7 @@
     "24819": {
       "name": "Radiance",
       "abbreviation": "RAD",
-      "modifiedOn": "2026-11-12T20:45:19.78",
+      "modifiedOn": "2026-11-20T13:44:29.557",
       "publishedOn": "2026-10-23",
       "setId": "rb-g24819",
       "products": [

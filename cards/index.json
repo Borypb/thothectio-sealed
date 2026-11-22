@@ -632,10 +632,10 @@
           "name": "Limited Card Pack -Distancia Cero-",
           "code": "LM-09",
           "releasedAt": "2026-11-17",
-          "modifiedOn": "2026-11-20T15:43:51.59",
+          "modifiedOn": "2026-11-20T21:08:09.187",
           "count": 33,
           "file": "cards/digimon/24941.json",
-          "version": "fffa81b85906"
+          "version": "3f17e901659f"
         },
         {
           "groupId": 24635,
@@ -3411,5 +3411,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-21"
+  "updatedAt": "2026-11-22"
 }

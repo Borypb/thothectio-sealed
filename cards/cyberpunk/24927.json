@@ -42,9 +42,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 72.29,
-          "low": 69.99,
-          "mid": 72.5
+          "usd": 71.81,
+          "low": 68.5,
+          "mid": 69.99
         }
       ]
     },
@@ -56,8 +56,15 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/735296_200w.jpg",
       "url": "https://www.tcgplayer.com/product/735296/cyberpunk-tcg-judge-promos-maman-brigitte-spirit-of-death",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 32.43,
+          "low": 31.36,
+          "mid": 32.43
+        }
+      ]
     }
   ],
-  "pricesAt": "2026-11-21"
+  "pricesAt": "2026-11-22"
 }

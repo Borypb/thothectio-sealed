@@ -176,7 +176,7 @@
           "sub": "Foil",
           "usd": 0.37,
           "low": 0.32,
-          "mid": 1.26
+          "mid": 1.24
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450384_200w.jpg"
@@ -266,7 +266,7 @@
           "sub": "Foil",
           "usd": 1.36,
           "low": 0.75,
-          "mid": 2.18
+          "mid": 2.26
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450389_200w.jpg"
@@ -320,7 +320,7 @@
           "sub": "Foil",
           "usd": 3.07,
           "low": 2.75,
-          "mid": 4.06
+          "mid": 4.37
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450392_200w.jpg"
@@ -374,7 +374,7 @@
           "sub": "Foil",
           "usd": 12.39,
           "low": 10,
-          "mid": 12.5
+          "mid": 13
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450395_200w.jpg"
@@ -608,7 +608,7 @@
           "sub": "Foil",
           "usd": 0.45,
           "low": 0.35,
-          "mid": 0.52
+          "mid": 0.54
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450409_200w.jpg"
@@ -788,7 +788,7 @@
           "sub": "Foil",
           "usd": 2.64,
           "low": 2.3,
-          "mid": 4
+          "mid": 3.32
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450422_200w.jpg"
@@ -819,14 +819,7 @@
       "type": "Tamer",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/285692_200w.jpg",
       "url": "https://www.tcgplayer.com/product/450425/digimon-card-game-xros-encounter-pre-release-cards-taiki-kudo",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 2.76,
-          "low": 2.73,
-          "mid": 4
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450425_200w.jpg"
     },
     {
@@ -967,8 +960,8 @@
         {
           "sub": "Foil",
           "usd": 0.86,
-          "low": 0.55,
-          "mid": 1.25
+          "low": 0.5,
+          "mid": 1.2
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450433_200w.jpg"
@@ -985,7 +978,7 @@
         {
           "sub": "Foil",
           "usd": 2.87,
-          "low": 2.93,
+          "low": 2.91,
           "mid": 3.28
         }
       ],
@@ -1010,5 +1003,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/450485_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-21"
+  "pricesAt": "2026-11-22"
 }

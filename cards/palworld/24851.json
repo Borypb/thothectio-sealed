@@ -13,7 +13,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.02,
+          "usd": 7.01,
           "low": 6,
           "mid": 12.9
         }
@@ -30,7 +30,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.95,
+          "usd": 0.93,
           "low": 0.6,
           "mid": 1.5
         }
@@ -47,9 +47,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.04,
+          "usd": 2.79,
           "low": 0.94,
-          "mid": 3.11
+          "mid": 3.18
         }
       ]
     },
@@ -64,7 +64,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.03,
+          "usd": 1.86,
           "low": 0.25,
           "mid": 2
         }
@@ -83,7 +83,7 @@
           "sub": "Foil",
           "usd": 1.36,
           "low": 0.68,
-          "mid": 1.65
+          "mid": 1.5
         }
       ]
     },
@@ -184,8 +184,8 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 38.45,
-          "low": 25.44,
+          "usd": 37.64,
+          "low": 25,
           "mid": 38
         }
       ]
@@ -231,7 +231,7 @@
           "sub": "Normal",
           "usd": 4.95,
           "low": 4.26,
-          "mid": 8.5
+          "mid": 7.23
         }
       ]
     },
@@ -266,7 +266,7 @@
           "sub": "Foil",
           "usd": 584.01,
           "low": 310,
-          "mid": 381.1
+          "mid": 375
         }
       ]
     },
@@ -282,8 +282,8 @@
         {
           "sub": "Foil",
           "usd": 84.13,
-          "low": 30.01,
-          "mid": 52.75
+          "low": 30,
+          "mid": 46.48
         }
       ]
     },
@@ -316,8 +316,8 @@
         {
           "sub": "Foil",
           "usd": 45.79,
-          "low": 30.69,
-          "mid": 53.51
+          "low": 30.5,
+          "mid": 49.13
         }
       ]
     },
@@ -367,7 +367,7 @@
         {
           "sub": "Foil",
           "usd": 48.82,
-          "low": 22.63,
+          "low": 19.99,
           "mid": 25
         }
       ]
@@ -402,7 +402,7 @@
           "sub": "Foil",
           "usd": 39.62,
           "low": 25.5,
-          "mid": 41.51
+          "mid": 40.32
         }
       ]
     },
@@ -418,8 +418,8 @@
         {
           "sub": "Foil",
           "usd": 66.86,
-          "low": 54.98,
-          "mid": 75.02
+          "low": 54.96,
+          "mid": 68.48
         }
       ]
     },
@@ -448,7 +448,14 @@
       "rarity": "PR",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723005_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723005/palworld-official-card-game-palworld-promo-cards-chikipi-my-first-pal-epr-019",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 120,
+          "low": 120,
+          "mid": 120
+        }
+      ]
     },
     {
       "id": 723006,
@@ -510,7 +517,7 @@
           "sub": "Foil",
           "usd": 250,
           "low": 240,
-          "mid": 245
+          "mid": 240
         }
       ]
     },
@@ -621,7 +628,7 @@
           "sub": "Foil",
           "usd": 15,
           "low": 6,
-          "mid": 13.01
+          "mid": 12.02
         }
       ]
     },
@@ -636,9 +643,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 50,
+          "usd": 42.04,
           "low": 35,
-          "mid": 50
+          "mid": 42.04
         }
       ]
     },
@@ -653,9 +660,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.95,
+          "usd": 6.85,
           "low": 6,
-          "mid": 6.95
+          "mid": 6.85
         }
       ]
     },
@@ -670,9 +677,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 55.48,
+          "usd": 47.98,
           "low": 45,
-          "mid": 55.48
+          "mid": 47.98
         }
       ]
     },
@@ -723,7 +730,7 @@
           "sub": "Foil",
           "usd": 7,
           "low": 5,
-          "mid": 6.95
+          "mid": 6.75
         }
       ]
     },
@@ -740,7 +747,7 @@
           "sub": "Foil",
           "usd": 10,
           "low": 5,
-          "mid": 9.38
+          "mid": 8.88
         }
       ]
     },
@@ -789,9 +796,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 77.5,
-          "low": 74,
-          "mid": 77.5
+          "usd": 74,
+          "low": 65,
+          "mid": 74
         }
       ]
     },
@@ -807,8 +814,8 @@
         {
           "sub": "Foil",
           "usd": 10,
-          "low": 5.9,
-          "mid": 8.25
+          "low": 5,
+          "mid": 5.99
         }
       ]
     },
@@ -842,7 +849,7 @@
           "sub": "Foil",
           "usd": 14.99,
           "low": 6,
-          "mid": 13
+          "mid": 10.51
         }
       ]
     },
@@ -893,10 +900,10 @@
           "sub": "Foil",
           "usd": 11.47,
           "low": 10,
-          "mid": 11
+          "mid": 10.94
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-21"
+  "pricesAt": "2026-11-22"
 }

@@ -463,8 +463,8 @@
         {
           "sub": "Normal",
           "usd": 2.49,
-          "low": 2,
-          "mid": 6
+          "low": 2.49,
+          "mid": 6.25
         }
       ]
     },
@@ -892,14 +892,7 @@
       "altImages": [
         "https://www.wowcards.info/scans/throne/en/44.jpg"
       ],
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.6,
-          "low": 0.6,
-          "mid": 0.6
-        }
-      ]
+      "prices": []
     },
     {
       "id": 56405,
@@ -1765,9 +1758,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.26,
+          "usd": 0.25,
           "low": 0.15,
-          "mid": 0.26
+          "mid": 0.25
         }
       ]
     },
@@ -1868,9 +1861,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.3,
+          "usd": 0.5,
           "low": 0.29,
-          "mid": 0.3
+          "mid": 0.5
         }
       ]
     },
@@ -1956,9 +1949,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.23,
+          "usd": 1.25,
           "low": 0.35,
-          "mid": 1.23
+          "mid": 1.25
         }
       ]
     },
@@ -2089,8 +2082,8 @@
         {
           "sub": "Normal",
           "usd": 5,
-          "low": 3.41,
-          "mid": 3.46
+          "low": 3.5,
+          "mid": 3.5
         }
       ]
     },
@@ -2294,9 +2287,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.35,
+          "usd": 1.13,
           "low": 0.25,
-          "mid": 0.35
+          "mid": 1.13
         }
       ]
     },
@@ -3059,8 +3052,8 @@
         {
           "sub": "Normal",
           "usd": 10,
-          "low": 1.94,
-          "mid": 2.97
+          "low": 3.99,
+          "mid": 6.89
         }
       ]
     },
@@ -3867,9 +3860,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.21,
-          "low": 4.21,
-          "mid": 4.21
+          "usd": 4.26,
+          "low": 4.26,
+          "mid": 4.26
         }
       ]
     },
@@ -3926,9 +3919,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.21,
-          "low": 4.21,
-          "mid": 4.21
+          "usd": 4.26,
+          "low": 4.26,
+          "mid": 4.26
         }
       ]
     },
@@ -4700,7 +4693,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.25,
-          "mid": 0.42
+          "mid": 0.4
         }
       ]
     },
@@ -5412,5 +5405,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-21"
+  "pricesAt": "2026-11-22"
 }

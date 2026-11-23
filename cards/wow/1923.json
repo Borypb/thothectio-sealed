@@ -13,7 +13,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/1.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130697,
@@ -57,7 +64,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/1.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130700,
@@ -223,7 +237,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/4.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130711,
@@ -346,7 +367,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/16.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130719,
@@ -411,7 +439,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/5.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130723,
@@ -737,9 +772,15 @@
       ],
       "prices": [
         {
+          "sub": "Foil",
+          "usd": 8.99,
+          "low": 8.99,
+          "mid": 8.99
+        },
+        {
           "sub": "Normal",
           "usd": 1.9,
-          "low": 1.9,
+          "low": 1.03,
           "mid": 1.9
         }
       ]
@@ -930,7 +971,14 @@
       "altImages": [
         "https://www.wowcards.info/scans/timewalkers/en/30.jpg"
       ],
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
     },
     {
       "id": 130755,
@@ -948,5 +996,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-11-22"
+  "pricesAt": "2026-11-23"
 }

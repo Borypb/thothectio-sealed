@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-23T13:43:04.331Z",
+  "harvestedAt": "2026-11-24T14:19:40.629Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -2005,7 +2005,7 @@
     "1408": {
       "name": "Boundaries Crossed",
       "abbreviation": "BCR",
-      "modifiedOn": "2026-06-12T18:36:12.473",
+      "modifiedOn": "2026-11-23T12:32:21.22",
       "publishedOn": "2012-11-07",
       "setCode": "bw7",
       "products": [
@@ -2837,7 +2837,7 @@
     "1439": {
       "name": "POP Series 5",
       "abbreviation": "POP",
-      "modifiedOn": "2026-05-07T13:10:16.383",
+      "modifiedOn": "2026-11-23T14:11:58.333",
       "setCode": "pop5",
       "products": [
         {
@@ -4660,7 +4660,7 @@
     "1663": {
       "name": "Base Set (Shadowless)",
       "abbreviation": "BSS",
-      "modifiedOn": "2026-10-26T13:55:46.507",
+      "modifiedOn": "2026-11-23T13:32:19.54",
       "publishedOn": "1999-01-09",
       "setCode": "base1",
       "products": [
@@ -7179,7 +7179,7 @@
     "2209": {
       "name": "SM - Forbidden Light",
       "abbreviation": "SM06",
-      "modifiedOn": "2026-07-15T15:34:01.38",
+      "modifiedOn": "2026-11-23T12:33:12.55",
       "publishedOn": "2018-05-04",
       "setCode": "sm6",
       "products": [
@@ -7250,7 +7250,7 @@
         {
           "tcgplayerId": 164304,
           "name": "Forbidden Light Theme Deck Display",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2018-05-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/164304_200w.jpg",
           "url": "https://www.tcgplayer.com/product/164304/pokemon-sm-forbidden-light-forbidden-light-theme-deck-display"
@@ -7320,17 +7320,9 @@
           "url": "https://www.tcgplayer.com/product/246415/pokemon-sm-forbidden-light-dusk-mane-necrozma-box"
         },
         {
-          "tcgplayerId": 267041,
-          "name": "Forbidden Light Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2018-05-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267041_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267041/pokemon-sm-forbidden-light-forbidden-light-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 591049,
           "name": "Forbidden Light Prerelease Kit Display",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2018-05-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/591049_200w.jpg",
           "url": "https://www.tcgplayer.com/product/591049/pokemon-sm-forbidden-light-forbidden-light-prerelease-kit-display"
@@ -8090,7 +8082,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-11-20T19:14:54.083",
+      "modifiedOn": "2026-11-23T12:30:38.477",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -14367,7 +14359,7 @@
     "2701": {
       "name": "SWSH04: Vivid Voltage",
       "abbreviation": "SWSH04",
-      "modifiedOn": "2026-11-19T19:21:04.673",
+      "modifiedOn": "2026-11-23T12:29:25.473",
       "publishedOn": "2020-11-13",
       "setCode": "swsh4",
       "products": [
@@ -15112,7 +15104,7 @@
     "2782": {
       "name": "McDonald's 25th Anniversary Promos",
       "abbreviation": "M21",
-      "modifiedOn": "2026-06-24T22:27:22.56",
+      "modifiedOn": "2026-11-23T12:31:48.54",
       "publishedOn": "2021-02-09",
       "products": [
         {
@@ -15329,7 +15321,7 @@
     "2848": {
       "name": "SWSH07: Evolving Skies",
       "abbreviation": "SWSH07",
-      "modifiedOn": "2026-09-23T01:10:12.697",
+      "modifiedOn": "2026-11-23T12:28:26.4",
       "publishedOn": "2021-08-27",
       "setCode": "swsh7",
       "products": [
@@ -15424,7 +15416,7 @@
         {
           "tcgplayerId": 242450,
           "name": "Evolving Skies Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2021-08-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/242450_200w.jpg",
           "url": "https://www.tcgplayer.com/product/242450/pokemon-swsh07-evolving-skies-evolving-skies-build-and-battle-box-display"
@@ -15436,14 +15428,6 @@
           "releasedOn": "2021-08-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/243425_200w.jpg",
           "url": "https://www.tcgplayer.com/product/243425/pokemon-swsh07-evolving-skies-evolving-skies-build-and-battle-stadium"
-        },
-        {
-          "tcgplayerId": 243721,
-          "name": "Evolving Skies Elite Trainer Box [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2021-08-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243721_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/243721/pokemon-swsh07-evolving-skies-evolving-skies-elite-trainer-box-set-of-2"
         },
         {
           "tcgplayerId": 243722,
@@ -15478,14 +15462,6 @@
           "url": "https://www.tcgplayer.com/product/245376/pokemon-swsh07-evolving-skies-evolving-skies-pokemon-center-elite-trainer-box-jolteon-flareon-umbreon-leafeon-exclusive"
         },
         {
-          "tcgplayerId": 245855,
-          "name": "Evolving Skies Pokemon Center Elite Trainer Box [Set of 2] (Exclusive)",
-          "kind": "etb",
-          "releasedOn": "2021-08-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245855_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/245855/pokemon-swsh07-evolving-skies-evolving-skies-pokemon-center-elite-trainer-box-set-of-2-exclusive"
-        },
-        {
           "tcgplayerId": 245877,
           "name": "Mewtwo V-UNION Special Collection",
           "kind": "collection",
@@ -15516,30 +15492,6 @@
           "releasedOn": "2021-08-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/245880_200w.jpg",
           "url": "https://www.tcgplayer.com/product/245880/pokemon-swsh07-evolving-skies-v-union-special-collection-set-of-3"
-        },
-        {
-          "tcgplayerId": 246274,
-          "name": "Evolving Skies Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2021-08-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/246274_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/246274/pokemon-swsh07-evolving-skies-evolving-skies-sleeved-booster-pack-bundle-set-of-8"
-        },
-        {
-          "tcgplayerId": 247497,
-          "name": "Evolving Skies Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-08-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247497_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/247497/pokemon-swsh07-evolving-skies-evolving-skies-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 247498,
-          "name": "Evolving Skies Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-08-27",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247498_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/247498/pokemon-swsh07-evolving-skies-evolving-skies-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 247603,
@@ -16598,7 +16550,7 @@
     "3064": {
       "name": "Pokemon GO",
       "abbreviation": "PGO",
-      "modifiedOn": "2026-09-12T03:17:00.77",
+      "modifiedOn": "2026-11-23T11:50:31.227",
       "publishedOn": "2022-07-01",
       "setCode": "swsh10.5",
       "products": [
@@ -16771,22 +16723,6 @@
           "url": "https://www.tcgplayer.com/product/270735/pokemon-pokemon-go-pokemon-go-poke-ball-tin-ultra-ball"
         },
         {
-          "tcgplayerId": 271500,
-          "name": "Pokemon GO Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2022-08-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271500_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/271500/pokemon-pokemon-go-pokemon-go-mini-tin-set-of-5"
-        },
-        {
-          "tcgplayerId": 271501,
-          "name": "Pokemon GO Poke Ball Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2022-08-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271501_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/271501/pokemon-pokemon-go-pokemon-go-poke-ball-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 271502,
           "name": "Pokemon GO Special Collection [Set of 3]",
           "kind": "collection",
@@ -16795,25 +16731,9 @@
           "url": "https://www.tcgplayer.com/product/271502/pokemon-pokemon-go-pokemon-go-special-collection-set-of-3"
         },
         {
-          "tcgplayerId": 271503,
-          "name": "Pokemon GO Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2022-07-15",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271503_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/271503/pokemon-pokemon-go-pokemon-go-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 271504,
-          "name": "Pokemon GO Melmetal V/Mewtwo V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2022-07-01",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271504_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/271504/pokemon-pokemon-go-pokemon-go-melmetal-v-mewtwo-v-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 271511,
           "name": "Pokemon GO Poke Ball Tin Display",
-          "kind": "tin",
+          "kind": "case",
           "releasedOn": "2022-08-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/271511_200w.jpg",
           "url": "https://www.tcgplayer.com/product/271511/pokemon-pokemon-go-pokemon-go-poke-ball-tin-display"
@@ -16821,7 +16741,7 @@
         {
           "tcgplayerId": 271512,
           "name": "Pokemon GO Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2022-07-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/271512_200w.jpg",
           "url": "https://www.tcgplayer.com/product/271512/pokemon-pokemon-go-pokemon-go-mini-tin-display"
@@ -16901,7 +16821,7 @@
         {
           "tcgplayerId": 692922,
           "name": "Pokemon GO Pin Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2022-07-01",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692922_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692922/pokemon-pokemon-go-pokemon-go-pin-collection-case"
@@ -17841,7 +17761,7 @@
     "22873": {
       "name": "SV01: Scarlet & Violet Base Set",
       "abbreviation": "SVI",
-      "modifiedOn": "2026-10-23T13:39:43.043",
+      "modifiedOn": "2026-11-23T12:25:59.397",
       "publishedOn": "2023-03-31",
       "setCode": "sv01",
       "products": [
@@ -18522,7 +18442,7 @@
     "23237": {
       "name": "SV: Scarlet & Violet 151",
       "abbreviation": "MEW",
-      "modifiedOn": "2026-11-19T22:26:12.647",
+      "modifiedOn": "2026-11-23T18:42:11.897",
       "publishedOn": "2023-09-22",
       "setCode": "sv03.5",
       "products": [
@@ -19116,7 +19036,7 @@
     "23353": {
       "name": "SV: Paldean Fates",
       "abbreviation": "PAF",
-      "modifiedOn": "2026-10-27T21:31:47.533",
+      "modifiedOn": "2026-11-23T12:26:56.713",
       "publishedOn": "2024-01-26",
       "setCode": "sv04.5",
       "products": [
@@ -19389,7 +19309,7 @@
     "23381": {
       "name": "SV05: Temporal Forces",
       "abbreviation": "TEF",
-      "modifiedOn": "2026-11-17T05:28:40.817",
+      "modifiedOn": "2026-11-23T12:26:30.703",
       "publishedOn": "2024-03-22",
       "setCode": "sv05",
       "products": [
@@ -20442,7 +20362,7 @@
     "23821": {
       "name": "SV: Prismatic Evolutions",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-11-10T03:13:41.417",
+      "modifiedOn": "2026-11-23T12:24:35.013",
       "publishedOn": "2025-01-17",
       "setCode": "sv08.5",
       "products": [
@@ -22004,7 +21924,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-11-20T20:07:31.56",
+      "modifiedOn": "2026-11-23T12:21:11.463",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22404,7 +22324,7 @@
     "24587": {
       "name": "ME03: Perfect Order",
       "abbreviation": "POR",
-      "modifiedOn": "2026-11-20T20:07:53.573",
+      "modifiedOn": "2026-11-23T16:08:34.267",
       "publishedOn": "2026-03-27",
       "setCode": "me03",
       "products": [

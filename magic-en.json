@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "game": "magic",
   "lang": "en",
   "products": [
@@ -1456,6 +1456,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730160_200w.jpg",
       "source": {
         "tcgplayer": 730160
+      }
+    },
+    {
+      "id": "mtg-en-tcp735337",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Star Trek - Collector Booster Omega Pack",
+      "lang": "en",
+      "setIds": [
+        "mtg-trk"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735337_200w.jpg",
+      "source": {
+        "tcgplayer": 735337
       }
     },
     {
@@ -9760,6 +9775,21 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/579965_200w.jpg",
       "source": {
         "tcgplayer": 579965
+      }
+    },
+    {
+      "id": "mtg-en-tcp735309",
+      "game": "magic",
+      "kind": "booster",
+      "name": "Wilds of Eldraine - Sleeved Drafted Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "mtg-woe"
+      ],
+      "releasedAt": "2023-09-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735309_200w.jpg",
+      "source": {
+        "tcgplayer": 735309
       }
     },
     {

@@ -11,6 +11,7 @@
 //    à part « Promos » (cards/sorcery/api-promos.json) ;
 //  - extension officielle que TCGplayer n'a pas encore : rien d'ajouté (TCGplayer la liste en quelques jours, et des
 //    cartes ajoutées entre-temps changeraient d'identifiant à son arrivée).
+// « Jihad » s'affiche « Ji had », comme sur eBay (RENAMED).
 // Cartes ajoutées : sans image ni lien TCGplayer, `source: "sorcery-api"`, finition dans `prices` (cote vide) pour que
 // l'app sache si elles sont foil. Elles sont retirées puis recalculées à chaque passage : une carte que TCGplayer finit
 // par lister disparaît d'elle-même.
@@ -232,6 +233,13 @@ export function planAdditions(cards, groups) {
   return { add, promos, skipped, matched: P.filter((x) => x.matched).length, total: P.length, log };
 }
 
+/**
+ * noms réécrits comme sur les places de marché (eBay : « Ji had »), pour que l'app ne montre pas le mot (règles des
+ * boutiques d'applications) ; la carte reste trouvable et se rapproche toujours par son nom d'origine
+ */
+const RENAMED = { Jihad: "Ji had" };
+const shown = (c) => (RENAMED[c.name] ? { ...c, name: RENAMED[c.name] } : c);
+
 /** ordre alphabétique, comme TCGplayer ; une carte ajoutée vient après celles du même nom */
 const byName = (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" });
 
@@ -267,7 +275,7 @@ export async function completeSorcery(sets, hash) {
   for (const g of groups) {
     const extra = plan.add.get(g.groupId) ?? [];
     added += extra.length;
-    g.data.cards = [...g.data.cards, ...extra].sort(byName);
+    g.data.cards = [...g.data.cards, ...extra].map(shown).sort(byName);
     await writeJson(g.s.file, g.data);
     g.s.count = g.data.cards.length;
     g.s.version = hash(g.data.cards.map(({ prices, ...c }) => c));
@@ -282,7 +290,7 @@ export async function completeSorcery(sets, hash) {
     await rm(PROMO_FILE, { force: true });
     return [];
   }
-  const cards = plan.promos.map((x) => x.card).sort(byName);
+  const cards = plan.promos.map((x) => shown(x.card)).sort(byName);
   await writeJson(PROMO_FILE, { groupId: PROMO_GROUP, source: SOURCE, cards });
   const dates = plan.promos.map((x) => x.printedAt).filter(Boolean).sort();
   return [

@@ -327,3 +327,15 @@ Blizzard Entertainment, Upper Deck, Cryptozoic.
    l'édition et le numéro : chaque carte reçoit `tr.fr` (nom, type, image), l'extension `languages: ["en", "fr"]` et
    son nom français ; l'index des noms (`names.json`) contient aussi les noms français.
    L'index du scan ne télécharge que les images TCGplayer.
+
+   **Sorcery: Contested Realm** : le catalogue TCGplayer est complété chaque nuit par la liste officielle de l'éditeur
+   ([api.sorcerytcg.com/api/cards](https://api.sorcerytcg.com/api/cards) : toutes les cartes et leurs impressions, sans
+   image ni cote), par `sorcery-api.mjs`. Chaque impression officielle est rapprochée d'une carte TCGplayer (nom,
+   extension, finition, produit) ; celles que TCGplayer n'a pas sont ajoutées, sans image ni cote (`source: "sorcery-api"`,
+   finition donnée par une ligne de cote vide) :
+   - à leur extension TCGplayer (Crusade et Jihad d'Alpha et Beta, jetons de boîte, avatars des decks de Gothic…) ;
+   - les promos Dust à « Dust Reward Promos », celles du Welcome Kit à « Welcome Kit Promos » ;
+   - les autres promos (Organized Play, dont les avatars Rainbow, Draft Kit, Alpha Investments…) à une extension à part
+     « Promos » (`cards/sorcery/api-promos.json`, groupe 77 000 999).
+   Une extension officielle que TCGplayer n'a pas encore n'est pas ajoutée (il la liste en quelques jours). Copie de
+   secours de la liste : `cards/sorcery-api.json`.

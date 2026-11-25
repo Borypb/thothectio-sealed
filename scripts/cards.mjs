@@ -4,11 +4,13 @@
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
 // Image d'attente de TCGplayer (dos de carte d'une extension qui vient de sortir, tcgplayer-placeholders.mjs) : l'adresse
 // passe de `image` à `pendingImage` (l'app ne la montre pas) et revient dans `image` quand la vraie photo arrive.
+// Sorcery : complété par la liste officielle de l'éditeur (sorcery-api.mjs) : cartes absentes de TCGplayer, sans image.
 // Sortie : cards/index.json + cards/<licence>/<groupId>.json
 import { createHash } from "node:crypto";
 import { getJson, readJson, writeJson } from "./lib.mjs";
 import { checkTcgplayerImages, RECENT_MS } from "./tcgplayer-placeholders.mjs";
 import { loadWow } from "./wow-merge.mjs";
+import { completeSorcery, SOURCE as SORCERY_SOURCE } from "./sorcery-api.mjs";
 
 const TCGCSV = "https://tcgcsv.com/tcgplayer";
 
@@ -199,7 +201,8 @@ export async function cards() {
           const row = { sub: r.subTypeName, usd: v ?? null, low: cents(r.lowPrice), mid: cents(r.midPrice) };
           by.set(r.productId, [...(by.get(r.productId) ?? []), row]);
         }
-        for (const c of data.cards) c.prices = by.get(c.id) ?? [];
+        // carte ajoutée d'après la liste officielle de Sorcery : sa ligne vide garde la finition
+        for (const c of data.cards) c.prices = by.get(c.id) ?? (c.source === SORCERY_SOURCE ? c.prices : []);
         data.pricesAt = new Date().toISOString().slice(0, 10);
       } catch (e) {
         console.warn(`${game}/${g.name} : cotes indisponibles`, e.message);
@@ -221,6 +224,14 @@ export async function cards() {
     }
     await cleanEventImages(game, groups, sets);
     if (wow) sets.push(...(await wow.extraSets(hash)));
+    // Sorcery : impressions de la liste officielle absentes de TCGplayer (sorcery-api.mjs)
+    if (game === "sorcery") {
+      try {
+        sets.push(...(await completeSorcery(sets, hash)));
+      } catch (e) {
+        console.warn(`sorcery : liste officielle non intégrée (${e.message})`);
+      }
+    }
     await writeNames(game, sets);
     index.games[game] = { categoryId: cat.categoryId, category: cat.name, sets };
     console.log(`${game} (${cat.name}) : ${sets.length} extensions, ${sets.reduce((n, s) => n + s.count, 0)} cartes, ${fetched} extensions mises à jour`);

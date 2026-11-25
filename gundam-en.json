@@ -1,8 +1,53 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "gundam",
   "lang": "en",
   "products": [
+    {
+      "id": "gdm-en-tcp735340",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Blazing Fist Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24826"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735340_200w.jpg",
+      "source": {
+        "tcgplayer": 735340
+      }
+    },
+    {
+      "id": "gdm-en-tcp735342",
+      "game": "gundam",
+      "kind": "booster",
+      "name": "Blazing Fist Sleeved Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24826"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735342_200w.jpg",
+      "source": {
+        "tcgplayer": 735342
+      }
+    },
+    {
+      "id": "gdm-en-tcp735345",
+      "game": "gundam",
+      "kind": "booster_box",
+      "name": "Blazing Fist Booster Box",
+      "lang": "en",
+      "setIds": [
+        "gdm-g24826"
+      ],
+      "releasedAt": "2027-01-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735345_200w.jpg",
+      "source": {
+        "tcgplayer": 735345
+      }
+    },
     {
       "id": "gdm-en-tcp710651",
       "game": "gundam",

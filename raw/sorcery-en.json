@@ -1,0 +1,276 @@
+{
+  "game": "sorcery",
+  "lang": "en",
+  "categoryId": 77,
+  "harvestedAt": "2026-11-25T13:37:44.231Z",
+  "groups": {
+    "23335": {
+      "name": "Alpha",
+      "abbreviation": "A",
+      "modifiedOn": "2026-05-08T13:25:37.043",
+      "publishedOn": "2023-10-26",
+      "setId": "sor-g23335",
+      "products": [
+        {
+          "tcgplayerId": 521505,
+          "name": "The Four Elementals Preconstructed Deck: Air",
+          "kind": "deck",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521505_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521505/sorcery-contested-realm-alpha-the-four-elementals-preconstructed-deck-air"
+        },
+        {
+          "tcgplayerId": 521506,
+          "name": "The Four Elementals Preconstructed Deck: Earth",
+          "kind": "deck",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521506/sorcery-contested-realm-alpha-the-four-elementals-preconstructed-deck-earth"
+        },
+        {
+          "tcgplayerId": 521508,
+          "name": "The Four Elementals Preconstructed Deck: Fire",
+          "kind": "deck",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521508_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521508/sorcery-contested-realm-alpha-the-four-elementals-preconstructed-deck-fire"
+        },
+        {
+          "tcgplayerId": 521509,
+          "name": "The Four Elementals Preconstructed Deck: Water",
+          "kind": "deck",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521509_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521509/sorcery-contested-realm-alpha-the-four-elementals-preconstructed-deck-water"
+        },
+        {
+          "tcgplayerId": 521577,
+          "name": "The Four Elementals Preconstructed Deck Box",
+          "kind": "collection",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521577_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521577/sorcery-contested-realm-alpha-the-four-elementals-preconstructed-deck-box"
+        },
+        {
+          "tcgplayerId": 521581,
+          "name": "Alpha - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521581_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521581/sorcery-contested-realm-alpha-alpha-booster-box"
+        },
+        {
+          "tcgplayerId": 521582,
+          "name": "Alpha - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521582_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521582/sorcery-contested-realm-alpha-alpha-booster-box-case"
+        },
+        {
+          "tcgplayerId": 521583,
+          "name": "Alpha - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/521583_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/521583/sorcery-contested-realm-alpha-alpha-booster-pack"
+        },
+        {
+          "tcgplayerId": 522617,
+          "name": "Sorcery: Contested Realm - Pledge Pack",
+          "kind": "booster",
+          "releasedOn": "2023-10-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/522617_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/522617/sorcery-contested-realm-alpha-sorcery-contested-realm-pledge-pack"
+        }
+      ]
+    },
+    "23336": {
+      "name": "Beta",
+      "abbreviation": "B",
+      "modifiedOn": "2026-05-08T13:25:26.613",
+      "publishedOn": "2023-11-10",
+      "setId": "sor-g23336",
+      "products": [
+        {
+          "tcgplayerId": 522758,
+          "name": "Beta - Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/522758_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/522758/sorcery-contested-realm-beta-beta-booster-pack"
+        },
+        {
+          "tcgplayerId": 522759,
+          "name": "Beta - Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/522759_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/522759/sorcery-contested-realm-beta-beta-booster-box"
+        },
+        {
+          "tcgplayerId": 522760,
+          "name": "Beta - Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/522760_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/522760/sorcery-contested-realm-beta-beta-booster-box-case"
+        },
+        {
+          "tcgplayerId": 522783,
+          "name": "The Four Elementals Preconstructed Deck Box (Beta)",
+          "kind": "collection",
+          "releasedOn": "2023-11-10",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/522783_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/522783/sorcery-contested-realm-beta-the-four-elementals-preconstructed-deck-box-beta"
+        }
+      ]
+    },
+    "23514": {
+      "name": "Dust Reward Promos",
+      "abbreviation": "DRP",
+      "modifiedOn": "2026-11-21T17:30:35.873",
+      "publishedOn": "2024-05-10",
+      "setId": "sor-g23514",
+      "products": []
+    },
+    "23588": {
+      "name": "Arthurian Legends",
+      "abbreviation": "ART",
+      "modifiedOn": "2026-11-21T17:35:25.393",
+      "publishedOn": "2024-10-04",
+      "setId": "sor-g23588",
+      "products": [
+        {
+          "tcgplayerId": 563830,
+          "name": "Arthurian Legends Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-10-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563830_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563830/sorcery-contested-realm-arthurian-legends-arthurian-legends-booster-box"
+        },
+        {
+          "tcgplayerId": 563831,
+          "name": "Arthurian Legends Booster Case",
+          "kind": "case",
+          "releasedOn": "2024-10-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563831_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563831/sorcery-contested-realm-arthurian-legends-arthurian-legends-booster-case"
+        },
+        {
+          "tcgplayerId": 563832,
+          "name": "Arthurian Legends Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-10-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/563832_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/563832/sorcery-contested-realm-arthurian-legends-arthurian-legends-booster-pack"
+        },
+        {
+          "tcgplayerId": 585315,
+          "name": "Lance (Box Topper)",
+          "kind": "collection",
+          "releasedOn": "2024-10-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/585315_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/585315/sorcery-contested-realm-arthurian-legends-lance-box-topper"
+        },
+        {
+          "tcgplayerId": 585474,
+          "name": "Stealth (Box Topper)",
+          "kind": "collection",
+          "releasedOn": "2024-10-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/585474_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/585474/sorcery-contested-realm-arthurian-legends-stealth-box-topper"
+        }
+      ]
+    },
+    "23778": {
+      "name": "Arthurian Legends Promo",
+      "abbreviation": "ARTP",
+      "modifiedOn": "2024-12-30T14:44:47.19",
+      "publishedOn": "2024-10-04",
+      "setId": "sor-g23778",
+      "products": []
+    },
+    "24378": {
+      "name": "Dragonlord",
+      "abbreviation": "SCRDL",
+      "modifiedOn": "2026-07-30T14:42:42.08",
+      "publishedOn": "2025-08-02",
+      "setId": "sor-g24378",
+      "products": [
+        {
+          "tcgplayerId": 641955,
+          "name": "Dragonlord Box",
+          "kind": "collection",
+          "releasedOn": "2025-08-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641955_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641955/sorcery-contested-realm-dragonlord-dragonlord-box"
+        }
+      ]
+    },
+    "24471": {
+      "name": "Gothic",
+      "abbreviation": "GT",
+      "modifiedOn": "2026-10-08T14:37:39.02",
+      "publishedOn": "2025-10-31",
+      "setId": "sor-g24471",
+      "products": [
+        {
+          "tcgplayerId": 656589,
+          "name": "Prophets of Doom Preconstructed Decks",
+          "kind": "deck",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656589/sorcery-contested-realm-gothic-prophets-of-doom-preconstructed-decks"
+        },
+        {
+          "tcgplayerId": 656590,
+          "name": "Gothic Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656590_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656590/sorcery-contested-realm-gothic-gothic-booster-pack"
+        },
+        {
+          "tcgplayerId": 656591,
+          "name": "Gothic Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656591_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656591/sorcery-contested-realm-gothic-gothic-booster-box"
+        },
+        {
+          "tcgplayerId": 656592,
+          "name": "Gothic Booster Case",
+          "kind": "case",
+          "releasedOn": "2025-12-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656592/sorcery-contested-realm-gothic-gothic-booster-case"
+        }
+      ]
+    },
+    "24871": {
+      "name": "Welcome Kit Promos",
+      "modifiedOn": "2026-09-09T15:26:35.71",
+      "publishedOn": "2026-09-01",
+      "setId": "sor-g24871",
+      "products": []
+    },
+    "24902": {
+      "name": "Frost Mage vs Lavamancer",
+      "modifiedOn": "2026-11-18T17:30:49.12",
+      "publishedOn": "2026-11-13",
+      "setId": "sor-g24902",
+      "products": [
+        {
+          "tcgplayerId": 722928,
+          "name": "Frost Mage vs Lavamancer Box",
+          "kind": "collection",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/722928_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/722928/sorcery-contested-realm-frost-mage-vs-lavamancer-frost-mage-vs-lavamancer-box"
+        }
+      ]
+    }
+  }
+}

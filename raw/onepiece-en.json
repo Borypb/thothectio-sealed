@@ -2,7 +2,7 @@
   "game": "onepiece",
   "lang": "en",
   "categoryId": 68,
-  "harvestedAt": "2026-11-24T14:57:47.236Z",
+  "harvestedAt": "2026-11-25T13:34:56.259Z",
   "groups": {
     "3188": {
       "name": "Romance Dawn",
@@ -4314,6 +4314,56 @@
           "releasedOn": "2027-01-29",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/733410_200w.jpg",
           "url": "https://www.tcgplayer.com/product/733410/one-piece-card-game-extra-booster-east-blue-extra-booster-east-blue-pack"
+        }
+      ]
+    },
+    "24957": {
+      "name": "ST-37: Starter Deck 37 The Desert Princess and the Pirates",
+      "abbreviation": "ST-37",
+      "modifiedOn": "2026-11-24T19:14:39.59",
+      "publishedOn": "2026-12-18",
+      "setId": "op-st37",
+      "products": [
+        {
+          "tcgplayerId": 735362,
+          "name": "Starter Deck 37: The Desert Princess and the Pirates",
+          "kind": "deck",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735362_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735362/one-piece-card-game-st-37-starter-deck-37-the-desert-princess-and-the-pirates-starter-deck-37-the-desert-princess-and-the-pirates"
+        },
+        {
+          "tcgplayerId": 735363,
+          "name": "Starter Deck 37: The Desert Princess and the Pirates Display",
+          "kind": "case",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735363_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735363/one-piece-card-game-st-37-starter-deck-37-the-desert-princess-and-the-pirates-starter-deck-37-the-desert-princess-and-the-pirates-display"
+        }
+      ]
+    },
+    "24958": {
+      "name": "ST-38: Starter Deck 38 Baroque Works",
+      "abbreviation": "ST-38",
+      "modifiedOn": "2026-11-24T19:19:32.94",
+      "publishedOn": "2026-12-18",
+      "setId": "op-st38",
+      "products": [
+        {
+          "tcgplayerId": 735364,
+          "name": "Starter Deck 38: Baroque Works",
+          "kind": "deck",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735364_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735364/one-piece-card-game-st-38-starter-deck-38-baroque-works-starter-deck-38-baroque-works"
+        },
+        {
+          "tcgplayerId": 735365,
+          "name": "Starter Deck 38: Baroque Works Display",
+          "kind": "case",
+          "releasedOn": "2026-12-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735365_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735365/one-piece-card-game-st-38-starter-deck-38-baroque-works-starter-deck-38-baroque-works-display"
         }
       ]
     }

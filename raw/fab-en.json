@@ -1,0 +1,2847 @@
+{
+  "game": "fab",
+  "lang": "en",
+  "categoryId": 62,
+  "harvestedAt": "2026-11-25T13:37:20.328Z",
+  "groups": {
+    "2724": {
+      "name": "Crucible of War",
+      "abbreviation": "CRU",
+      "modifiedOn": "2026-09-11T15:30:03.27",
+      "publishedOn": "2020-08-28",
+      "setId": "fab-g2724",
+      "products": [
+        {
+          "tcgplayerId": 224723,
+          "name": "Crucible of War Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224723_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224723/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 224724,
+          "name": "Crucible of War Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224724_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224724/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 224725,
+          "name": "Crucible of War Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224725_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224725/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 245615,
+          "name": "Crucible of War Booster Box [Unlimited Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245615_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245615/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 245616,
+          "name": "Crucible of War Booster Box Case [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245616_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245616/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-box-case-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 245617,
+          "name": "Crucible of War Booster Pack [Unlimited Edition]",
+          "kind": "booster",
+          "releasedOn": "2020-08-28",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245617_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245617/flesh-and-blood-tcg-crucible-of-war-crucible-of-war-booster-pack-unlimited-edition"
+        }
+      ]
+    },
+    "2725": {
+      "name": "Arcane Rising",
+      "abbreviation": "ARC",
+      "modifiedOn": "2025-03-06T21:35:02.587",
+      "publishedOn": "2020-03-27",
+      "setId": "fab-g2725",
+      "products": [
+        {
+          "tcgplayerId": 224720,
+          "name": "Arcane Rising Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2020-03-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224720_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224720/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 224721,
+          "name": "Arcane Rising Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2020-03-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224721_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224721/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 224722,
+          "name": "Arcane Rising Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2020-03-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224722_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224722/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 224729,
+          "name": "Arcane Rising Booster Box Case [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2020-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224729_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224729/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-box-case-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 224730,
+          "name": "Arcane Rising Booster Box [Unlimited Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2020-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224730_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224730/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 224731,
+          "name": "Arcane Rising Booster Pack [Unlimited Edition]",
+          "kind": "booster",
+          "releasedOn": "2020-11-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224731_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224731/flesh-and-blood-tcg-arcane-rising-arcane-rising-booster-pack-unlimited-edition"
+        }
+      ]
+    },
+    "2726": {
+      "name": "Welcome to Rathe",
+      "abbreviation": "WTR",
+      "modifiedOn": "2025-03-05T19:34:02.213",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2726",
+      "products": [
+        {
+          "tcgplayerId": 224712,
+          "name": "Welcome to Rathe Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224712_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224712/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 224713,
+          "name": "Welcome to Rathe Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224713_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224713/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 224714,
+          "name": "Welcome to Rathe Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224714_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224714/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 224715,
+          "name": "Hero Decks: Welcome to Rathe Display [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224715_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224715/flesh-and-blood-tcg-welcome-to-rathe-hero-decks-welcome-to-rathe-display-1st-edition"
+        },
+        {
+          "tcgplayerId": 224726,
+          "name": "Welcome to Rathe Booster Box Case [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224726_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224726/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-box-case-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 224727,
+          "name": "Welcome to Rathe Booster Box [Unlimited Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224727_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224727/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 224728,
+          "name": "Welcome to Rathe Booster Pack [Unlimited Edition]",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224728_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224728/flesh-and-blood-tcg-welcome-to-rathe-welcome-to-rathe-booster-pack-unlimited-edition"
+        }
+      ]
+    },
+    "2727": {
+      "name": "Welcome Deck: Ira",
+      "abbreviation": "IRA",
+      "modifiedOn": "2025-03-03T22:40:39.52",
+      "publishedOn": "2019-08-31",
+      "setId": "fab-g2727",
+      "products": []
+    },
+    "2728": {
+      "name": "Hero Deck: Bravo",
+      "abbreviation": "BVO",
+      "modifiedOn": "2025-03-06T16:09:10.4",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2728",
+      "products": [
+        {
+          "tcgplayerId": 224716,
+          "name": "Hero Decks: Welcome to Rathe - Bravo [1st Edition]",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224716_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224716/flesh-and-blood-tcg-hero-deck-bravo-hero-decks-welcome-to-rathe-bravo-1st-edition"
+        }
+      ]
+    },
+    "2729": {
+      "name": "Hero Deck: Rhinar",
+      "abbreviation": "RNR",
+      "modifiedOn": "2025-06-23T13:38:31.493",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2729",
+      "products": [
+        {
+          "tcgplayerId": 224719,
+          "name": "Hero Decks: Welcome to Rathe - Rhinar [1st Edition]",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224719_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224719/flesh-and-blood-tcg-hero-deck-rhinar-hero-decks-welcome-to-rathe-rhinar-1st-edition"
+        }
+      ]
+    },
+    "2730": {
+      "name": "Hero Deck: Katsu",
+      "abbreviation": "KSU",
+      "modifiedOn": "2025-03-20T18:14:42.703",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2730",
+      "products": [
+        {
+          "tcgplayerId": 224718,
+          "name": "Hero Decks: Welcome to Rathe - Katsu [1st Edition]",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224718_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224718/flesh-and-blood-tcg-hero-deck-katsu-hero-decks-welcome-to-rathe-katsu-1st-edition"
+        }
+      ]
+    },
+    "2731": {
+      "name": "Hero Deck: Dorinthea",
+      "abbreviation": "TEA",
+      "modifiedOn": "2025-03-05T19:49:57.583",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2731",
+      "products": [
+        {
+          "tcgplayerId": 224717,
+          "name": "Hero Decks: Welcome to Rathe - Dorinthea [1st Edition]",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/224717_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/224717/flesh-and-blood-tcg-hero-deck-dorinthea-hero-decks-welcome-to-rathe-dorinthea-1st-edition"
+        }
+      ]
+    },
+    "2732": {
+      "name": "Flesh and Blood: Promo Cards",
+      "abbreviation": "PR",
+      "modifiedOn": "2026-11-23T16:28:40.78",
+      "publishedOn": "2019-10-11",
+      "setId": "fab-g2732",
+      "products": [
+        {
+          "tcgplayerId": 252744,
+          "name": "Second Anniversary Kit - Alpha Investments",
+          "kind": "collection",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/252744_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/252744/flesh-and-blood-tcg-flesh-and-blood-promo-cards-second-anniversary-kit-alpha-investments"
+        },
+        {
+          "tcgplayerId": 502046,
+          "name": "Judge Pack Season 1",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502046_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/502046/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-1"
+        },
+        {
+          "tcgplayerId": 524398,
+          "name": "Judge Pack Season 2",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/524398_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/524398/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-2"
+        },
+        {
+          "tcgplayerId": 538691,
+          "name": "Judge Pack Season 3",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538691_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538691/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-3"
+        },
+        {
+          "tcgplayerId": 538692,
+          "name": "Judge Pack Season 4",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/538692_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/538692/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-4"
+        },
+        {
+          "tcgplayerId": 578945,
+          "name": "Judge Pack Season 5",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/578945_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/578945/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-5"
+        },
+        {
+          "tcgplayerId": 617822,
+          "name": "Judge Pack Season 6",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617822_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/617822/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-6"
+        },
+        {
+          "tcgplayerId": 637631,
+          "name": "Judge Pack Season 7",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/637631_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/637631/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-7"
+        },
+        {
+          "tcgplayerId": 648064,
+          "name": "Light & Shadow Convention Exclusive Set",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648064_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648064/flesh-and-blood-tcg-flesh-and-blood-promo-cards-light-and-shadow-convention-exclusive-set"
+        },
+        {
+          "tcgplayerId": 657485,
+          "name": "Judge Pack Season 8",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657485_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/657485/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-8"
+        },
+        {
+          "tcgplayerId": 686436,
+          "name": "Judge Pack Season 9",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686436_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/686436/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-9"
+        },
+        {
+          "tcgplayerId": 686494,
+          "name": "Tournament Pack",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/686494_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/686494/flesh-and-blood-tcg-flesh-and-blood-promo-cards-tournament-pack"
+        },
+        {
+          "tcgplayerId": 707207,
+          "name": "Faith & Torment Collector Series Set",
+          "kind": "other",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/707207_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/707207/flesh-and-blood-tcg-flesh-and-blood-promo-cards-faith-and-torment-collector-series-set"
+        },
+        {
+          "tcgplayerId": 709897,
+          "name": "Judge Pack Season 10",
+          "kind": "booster",
+          "releasedOn": "2019-10-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/709897_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/709897/flesh-and-blood-tcg-flesh-and-blood-promo-cards-judge-pack-season-10"
+        }
+      ]
+    },
+    "2775": {
+      "name": "Monarch",
+      "abbreviation": "MON",
+      "modifiedOn": "2026-09-11T15:31:48.547",
+      "publishedOn": "2021-04-30",
+      "setId": "fab-g2775",
+      "products": [
+        {
+          "tcgplayerId": 231038,
+          "name": "Monarch Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231038_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231038/flesh-and-blood-tcg-monarch-monarch-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 231039,
+          "name": "Monarch Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231039_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231039/flesh-and-blood-tcg-monarch-monarch-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 231040,
+          "name": "Monarch Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2021-05-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231040_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231040/flesh-and-blood-tcg-monarch-monarch-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 231041,
+          "name": "Monarch Booster Box [Unlimited Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2021-06-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231041_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231041/flesh-and-blood-tcg-monarch-monarch-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 231042,
+          "name": "Monarch Booster Box Case [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2021-06-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231042_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231042/flesh-and-blood-tcg-monarch-monarch-booster-box-case-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 231043,
+          "name": "Monarch Booster Pack [Unlimited Edition]",
+          "kind": "booster",
+          "releasedOn": "2021-06-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/231043_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/231043/flesh-and-blood-tcg-monarch-monarch-booster-pack-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 237763,
+          "name": "Monarch Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237763_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237763/flesh-and-blood-tcg-monarch-monarch-blitz-deck-display"
+        },
+        {
+          "tcgplayerId": 237771,
+          "name": "Monarch Blitz Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237771_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237771/flesh-and-blood-tcg-monarch-monarch-blitz-deck-display-case"
+        }
+      ]
+    },
+    "2818": {
+      "name": "Blitz Deck: Monarch - Prism",
+      "abbreviation": "PSM",
+      "modifiedOn": "2025-03-11T11:59:19.17",
+      "publishedOn": "2021-05-14",
+      "setId": "fab-g2818",
+      "products": [
+        {
+          "tcgplayerId": 237758,
+          "name": "Monarch Blitz Deck - Prism",
+          "kind": "deck",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237758_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237758/flesh-and-blood-tcg-blitz-deck-monarch-prism-monarch-blitz-deck-prism"
+        }
+      ]
+    },
+    "2819": {
+      "name": "Blitz Deck: Monarch - Boltyn",
+      "abbreviation": "BOL",
+      "modifiedOn": "2025-03-10T18:04:03.083",
+      "publishedOn": "2021-05-14",
+      "setId": "fab-g2819",
+      "products": [
+        {
+          "tcgplayerId": 237756,
+          "name": "Monarch Blitz Deck - Boltyn",
+          "kind": "deck",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237756_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237756/flesh-and-blood-tcg-blitz-deck-monarch-boltyn-monarch-blitz-deck-boltyn"
+        }
+      ]
+    },
+    "2820": {
+      "name": "Blitz Deck: Monarch - Chane",
+      "abbreviation": "CHN",
+      "modifiedOn": "2025-03-10T18:05:48.467",
+      "publishedOn": "2021-05-14",
+      "setId": "fab-g2820",
+      "products": [
+        {
+          "tcgplayerId": 237750,
+          "name": "Monarch Blitz Deck - Chane",
+          "kind": "deck",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237750_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237750/flesh-and-blood-tcg-blitz-deck-monarch-chane-monarch-blitz-deck-chane"
+        }
+      ]
+    },
+    "2821": {
+      "name": "Blitz Deck: Monarch - Levia",
+      "abbreviation": "LEV",
+      "modifiedOn": "2025-03-11T11:44:46.22",
+      "publishedOn": "2021-05-14",
+      "setId": "fab-g2821",
+      "products": [
+        {
+          "tcgplayerId": 237755,
+          "name": "Monarch Blitz Deck - Levia",
+          "kind": "deck",
+          "releasedOn": "2021-05-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/237755_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/237755/flesh-and-blood-tcg-blitz-deck-monarch-levia-monarch-blitz-deck-levia"
+        }
+      ]
+    },
+    "2885": {
+      "name": "Tales of Aria",
+      "abbreviation": "ELE",
+      "modifiedOn": "2025-03-12T15:28:55.41",
+      "publishedOn": "2021-09-24",
+      "setId": "fab-g2885",
+      "products": [
+        {
+          "tcgplayerId": 245202,
+          "name": "Tales of Aria Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245202_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245202/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 245203,
+          "name": "Tales of Aria Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245203_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245203/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 245204,
+          "name": "Tales of Aria Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245204_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245204/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-pack-1st-edition"
+        },
+        {
+          "tcgplayerId": 245207,
+          "name": "Tales of Aria Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245207_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245207/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-blitz-deck-display"
+        },
+        {
+          "tcgplayerId": 245211,
+          "name": "Tales of Aria Blitz Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245211_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245211/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-blitz-deck-display-case"
+        },
+        {
+          "tcgplayerId": 253571,
+          "name": "Tales of Aria Booster Pack [Unlimited Edition]",
+          "kind": "booster",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/253571_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/253571/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-pack-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 253572,
+          "name": "Tales of Aria Booster Box [Unlimited Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/253572_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/253572/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-box-unlimited-edition"
+        },
+        {
+          "tcgplayerId": 253573,
+          "name": "Tales of Aria Booster Box Case [Unlimited Edition]",
+          "kind": "case",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/253573_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/253573/flesh-and-blood-tcg-tales-of-aria-tales-of-aria-booster-box-case-unlimited-edition"
+        }
+      ]
+    },
+    "2947": {
+      "name": "Everfest",
+      "abbreviation": "EVR",
+      "modifiedOn": "2026-11-02T22:08:02.313",
+      "publishedOn": "2022-02-04",
+      "setId": "fab-g2947",
+      "products": [
+        {
+          "tcgplayerId": 255918,
+          "name": "Everfest Booster Box Case [1st Edition]",
+          "kind": "case",
+          "releasedOn": "2022-02-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/255918_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/255918/flesh-and-blood-tcg-everfest-everfest-booster-box-case-1st-edition"
+        },
+        {
+          "tcgplayerId": 255919,
+          "name": "Everfest Booster Box [1st Edition]",
+          "kind": "booster_box",
+          "releasedOn": "2022-02-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/255919_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/255919/flesh-and-blood-tcg-everfest-everfest-booster-box-1st-edition"
+        },
+        {
+          "tcgplayerId": 255920,
+          "name": "Everfest Booster Pack [1st Edition]",
+          "kind": "booster",
+          "releasedOn": "2022-02-04",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/255920_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/255920/flesh-and-blood-tcg-everfest-everfest-booster-pack-1st-edition"
+        }
+      ]
+    },
+    "3016": {
+      "name": "Blitz Deck: Tales of Aria - Lexi",
+      "abbreviation": "LXI",
+      "modifiedOn": "2025-03-12T21:59:19.213",
+      "publishedOn": "2021-09-24",
+      "setId": "fab-g3016",
+      "products": [
+        {
+          "tcgplayerId": 245209,
+          "name": "Tales of Aria Blitz Deck - Lexi",
+          "kind": "deck",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245209_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/245209/flesh-and-blood-tcg-blitz-deck-tales-of-aria-lexi-tales-of-aria-blitz-deck-lexi"
+        }
+      ]
+    },
+    "3017": {
+      "name": "Blitz Deck: Tales of Aria - Oldhim",
+      "abbreviation": "OLD",
+      "modifiedOn": "2026-02-03T14:31:36.29",
+      "publishedOn": "2021-09-24",
+      "setId": "fab-g3017",
+      "products": [
+        {
+          "tcgplayerId": 248244,
+          "name": "Tales of Aria Blitz Deck - Oldhim",
+          "kind": "deck",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/248244_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/248244/flesh-and-blood-tcg-blitz-deck-tales-of-aria-oldhim-tales-of-aria-blitz-deck-oldhim"
+        }
+      ]
+    },
+    "3018": {
+      "name": "Blitz Deck: Tales of Aria - Briar",
+      "abbreviation": "BRI",
+      "modifiedOn": "2026-05-08T13:40:21.253",
+      "publishedOn": "2021-09-24",
+      "setId": "fab-g3018",
+      "products": [
+        {
+          "tcgplayerId": 248242,
+          "name": "Tales of Aria Blitz Deck - Briar",
+          "kind": "deck",
+          "releasedOn": "2021-09-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/248242_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/248242/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-tales-of-aria-blitz-deck-briar"
+        }
+      ]
+    },
+    "3053": {
+      "name": "History Pack Vol.1",
+      "abbreviation": "1HP",
+      "modifiedOn": "2025-11-26T14:19:33.753",
+      "publishedOn": "2022-05-06",
+      "setId": "fab-g3053",
+      "products": [
+        {
+          "tcgplayerId": 268763,
+          "name": "History Pack Vol.1 Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/268763_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/268763/flesh-and-blood-tcg-history-pack-vol1-history-pack-vol1-booster-box-case"
+        },
+        {
+          "tcgplayerId": 268764,
+          "name": "History Pack Vol.1 Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/268764_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/268764/flesh-and-blood-tcg-history-pack-vol1-history-pack-vol1-booster-box"
+        },
+        {
+          "tcgplayerId": 268765,
+          "name": "History Pack Vol.1 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/268765_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/268765/flesh-and-blood-tcg-history-pack-vol1-history-pack-vol1-booster-pack"
+        },
+        {
+          "tcgplayerId": 495222,
+          "name": "Historic Pack 1 Blitz Deck - Dorinthea",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495222_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495222/flesh-and-blood-tcg-history-pack-vol1-historic-pack-1-blitz-deck-dorinthea"
+        },
+        {
+          "tcgplayerId": 495223,
+          "name": "Historic Pack 1 Blitz Deck - Bravo",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495223_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495223/flesh-and-blood-tcg-history-pack-vol1-historic-pack-1-blitz-deck-bravo"
+        },
+        {
+          "tcgplayerId": 495224,
+          "name": "Historic Pack 1 Blitz Deck - Viserai",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495224_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495224/flesh-and-blood-tcg-history-pack-vol1-historic-pack-1-blitz-deck-viserai"
+        },
+        {
+          "tcgplayerId": 495225,
+          "name": "Historic Pack 1 Blitz Deck - Rhinar",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495225_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495225/flesh-and-blood-tcg-history-pack-vol1-historic-pack-1-blitz-deck-rhinar"
+        },
+        {
+          "tcgplayerId": 495226,
+          "name": "History Pack 1 Blitz Deck - Dash",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495226_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495226/flesh-and-blood-tcg-history-pack-vol1-history-pack-1-blitz-deck-dash"
+        },
+        {
+          "tcgplayerId": 495227,
+          "name": "Historic Pack 1 Blitz Deck - Kano",
+          "kind": "deck",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495227_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495227/flesh-and-blood-tcg-history-pack-vol1-historic-pack-1-blitz-deck-kano"
+        },
+        {
+          "tcgplayerId": 495228,
+          "name": "History Pack 1 Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-05-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/495228_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/495228/flesh-and-blood-tcg-history-pack-vol1-history-pack-1-blitz-deck-display"
+        }
+      ]
+    },
+    "3056": {
+      "name": "Uprising",
+      "abbreviation": "UPR",
+      "modifiedOn": "2025-03-17T16:53:34.89",
+      "publishedOn": "2022-07-01",
+      "setId": "fab-g3056",
+      "products": [
+        {
+          "tcgplayerId": 270480,
+          "name": "Uprising Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270480_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270480/flesh-and-blood-tcg-uprising-uprising-booster-box"
+        },
+        {
+          "tcgplayerId": 270481,
+          "name": "Uprising Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270481_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270481/flesh-and-blood-tcg-uprising-uprising-booster-box-case"
+        },
+        {
+          "tcgplayerId": 270482,
+          "name": "Uprising Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270482_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270482/flesh-and-blood-tcg-uprising-uprising-booster-pack"
+        },
+        {
+          "tcgplayerId": 270512,
+          "name": "Uprising Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270512_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270512/flesh-and-blood-tcg-uprising-uprising-blitz-deck-display"
+        }
+      ]
+    },
+    "3057": {
+      "name": "Classic Battles: Rhinar vs Dorinthea",
+      "abbreviation": "RVD/DVR",
+      "modifiedOn": "2025-03-03T19:30:32.607",
+      "publishedOn": "2022-05-27",
+      "setId": "fab-g3057",
+      "products": [
+        {
+          "tcgplayerId": 270492,
+          "name": "Classic Battles: Rhinar vs. Dorinthea Box Set",
+          "kind": "collection",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270492_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270492/flesh-and-blood-tcg-classic-battles-rhinar-vs-dorinthea-classic-battles-rhinar-vs-dorinthea-box-set"
+        },
+        {
+          "tcgplayerId": 270493,
+          "name": "Classic Battles: Rhinar vs. Dorinthea Box Set Case",
+          "kind": "case",
+          "releasedOn": "2022-05-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270493_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270493/flesh-and-blood-tcg-classic-battles-rhinar-vs-dorinthea-classic-battles-rhinar-vs-dorinthea-box-set-case"
+        }
+      ]
+    },
+    "3059": {
+      "name": "Blitz Deck: Uprising - Fai",
+      "abbreviation": "FAI",
+      "modifiedOn": "2025-03-17T16:59:29.297",
+      "publishedOn": "2022-07-01",
+      "setId": "fab-g3059",
+      "products": [
+        {
+          "tcgplayerId": 270510,
+          "name": "Uprising Blitz Deck - Fai",
+          "kind": "deck",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270510_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270510/flesh-and-blood-tcg-blitz-deck-uprising-fai-uprising-blitz-deck-fai"
+        }
+      ]
+    },
+    "3060": {
+      "name": "Blitz Deck: Uprising - Dromai",
+      "abbreviation": "DRO",
+      "modifiedOn": "2026-07-06T15:04:51.67",
+      "publishedOn": "2022-07-01",
+      "setId": "fab-g3060",
+      "products": [
+        {
+          "tcgplayerId": 270509,
+          "name": "Uprising Blitz Deck - Dromai",
+          "kind": "deck",
+          "releasedOn": "2022-07-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270509_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/270509/flesh-and-blood-tcg-blitz-deck-uprising-dromai-uprising-blitz-deck-dromai"
+        }
+      ]
+    },
+    "17678": {
+      "name": "Dynasty",
+      "abbreviation": "DYN",
+      "modifiedOn": "2025-03-12T21:11:52.103",
+      "publishedOn": "2022-11-11",
+      "setId": "fab-g17678",
+      "products": [
+        {
+          "tcgplayerId": 450341,
+          "name": "Dynasty Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450341_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450341/flesh-and-blood-tcg-dynasty-dynasty-booster-box"
+        },
+        {
+          "tcgplayerId": 450342,
+          "name": "Dynasty Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450342_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450342/flesh-and-blood-tcg-dynasty-dynasty-booster-box-case"
+        },
+        {
+          "tcgplayerId": 450343,
+          "name": "Dynasty Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2022-11-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/450343_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/450343/flesh-and-blood-tcg-dynasty-dynasty-booster-pack"
+        }
+      ]
+    },
+    "22893": {
+      "name": "Outsiders",
+      "abbreviation": "OUT",
+      "modifiedOn": "2026-05-08T13:38:12.36",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22893",
+      "products": [
+        {
+          "tcgplayerId": 477233,
+          "name": "Outsiders Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477233_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477233/flesh-and-blood-tcg-outsiders-outsiders-booster-box"
+        },
+        {
+          "tcgplayerId": 477234,
+          "name": "Outsiders Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477234_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477234/flesh-and-blood-tcg-outsiders-outsiders-booster-pack"
+        },
+        {
+          "tcgplayerId": 477235,
+          "name": "Outsiders Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477235_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477235/flesh-and-blood-tcg-outsiders-outsiders-booster-box-case"
+        },
+        {
+          "tcgplayerId": 477994,
+          "name": "Outsiders Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477994_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477994/flesh-and-blood-tcg-outsiders-outsiders-blitz-deck-display"
+        }
+      ]
+    },
+    "22898": {
+      "name": "Blitz Deck: Outsiders - Arakni",
+      "modifiedOn": "2025-03-03T20:53:21.423",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22898",
+      "products": [
+        {
+          "tcgplayerId": 477988,
+          "name": "Outsider Blitz Deck - Arakni",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477988_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477988/flesh-and-blood-tcg-blitz-deck-outsiders-arakni-outsider-blitz-deck-arakni"
+        }
+      ]
+    },
+    "22899": {
+      "name": "Blitz Deck: Outsiders - Azalea",
+      "modifiedOn": "2024-12-11T20:38:36.007",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22899",
+      "products": [
+        {
+          "tcgplayerId": 477989,
+          "name": "Outsider Blitz Deck - Azalea",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477989_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477989/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-outsider-blitz-deck-azalea"
+        }
+      ]
+    },
+    "22900": {
+      "name": "Blitz Deck: Outsiders - Benji",
+      "modifiedOn": "2025-03-17T17:27:16.017",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22900",
+      "products": [
+        {
+          "tcgplayerId": 477990,
+          "name": "Outsider Blitz Deck - Benji",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477990_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477990/flesh-and-blood-tcg-blitz-deck-outsiders-benji-outsider-blitz-deck-benji"
+        }
+      ]
+    },
+    "22901": {
+      "name": "Blitz Deck: Outsiders - Katsu",
+      "modifiedOn": "2025-03-17T17:27:40.297",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22901",
+      "products": [
+        {
+          "tcgplayerId": 477991,
+          "name": "Outsider Blitz Deck - Katsu",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477991_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477991/flesh-and-blood-tcg-blitz-deck-outsiders-katsu-outsider-blitz-deck-katsu"
+        }
+      ]
+    },
+    "22902": {
+      "name": "Blitz Deck: Outsiders - Riptide",
+      "modifiedOn": "2025-03-17T16:51:44.527",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22902",
+      "products": [
+        {
+          "tcgplayerId": 477992,
+          "name": "Outsider Blitz Deck - Riptide",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477992_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477992/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-outsider-blitz-deck-riptide"
+        }
+      ]
+    },
+    "22903": {
+      "name": "Blitz Deck: Outsiders - Uzuri",
+      "modifiedOn": "2025-03-17T17:28:39.263",
+      "publishedOn": "2023-03-24",
+      "setId": "fab-g22903",
+      "products": [
+        {
+          "tcgplayerId": 477993,
+          "name": "Outsider Blitz Deck - Uzuri",
+          "kind": "deck",
+          "releasedOn": "2023-03-24",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/477993_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/477993/flesh-and-blood-tcg-blitz-deck-outsiders-uzuri-outsider-blitz-deck-uzuri"
+        }
+      ]
+    },
+    "23173": {
+      "name": "Dusk till Dawn",
+      "abbreviation": "DTD",
+      "modifiedOn": "2026-06-12T15:59:28.623",
+      "publishedOn": "2023-07-14",
+      "setId": "fab-g23173",
+      "products": [
+        {
+          "tcgplayerId": 496434,
+          "name": "Dusk Till Dawn Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-07-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496434_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496434/flesh-and-blood-tcg-dusk-till-dawn-dusk-till-dawn-booster-box"
+        },
+        {
+          "tcgplayerId": 496436,
+          "name": "Dusk Till Dawn Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-07-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496436_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496436/flesh-and-blood-tcg-dusk-till-dawn-dusk-till-dawn-booster-box-case"
+        },
+        {
+          "tcgplayerId": 496438,
+          "name": "Dusk Till Dawn Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-07-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496438_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/496438/flesh-and-blood-tcg-dusk-till-dawn-dusk-till-dawn-booster-pack"
+        }
+      ]
+    },
+    "23277": {
+      "name": "Bright Lights",
+      "abbreviation": "EVO",
+      "modifiedOn": "2025-11-10T21:41:32.19",
+      "publishedOn": "2023-10-06",
+      "setId": "fab-g23277",
+      "products": [
+        {
+          "tcgplayerId": 510029,
+          "name": "Bright Lights Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2023-10-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/510029_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/510029/flesh-and-blood-tcg-bright-lights-bright-lights-booster-pack"
+        },
+        {
+          "tcgplayerId": 510030,
+          "name": "Bright Lights Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2023-10-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/510030_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/510030/flesh-and-blood-tcg-bright-lights-bright-lights-booster-box"
+        },
+        {
+          "tcgplayerId": 510031,
+          "name": "Bright Lights Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2023-10-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/510031_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/510031/flesh-and-blood-tcg-bright-lights-bright-lights-booster-box-case"
+        }
+      ]
+    },
+    "23295": {
+      "name": "Round the Table: TCCxLSS",
+      "abbreviation": "TCC",
+      "modifiedOn": "2026-03-16T17:13:32.86",
+      "publishedOn": "2023-09-29",
+      "setId": "fab-g23295",
+      "products": [
+        {
+          "tcgplayerId": 516503,
+          "name": "Round the Table: TCCxLSS Deck Set",
+          "kind": "deck",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516503_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516503/flesh-and-blood-tcg-round-the-table-tccxlss-round-the-table-tccxlss-deck-set"
+        },
+        {
+          "tcgplayerId": 516504,
+          "name": "Round the Table Blitz Deck - The Professor",
+          "kind": "deck",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516504_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516504/flesh-and-blood-tcg-round-the-table-tccxlss-round-the-table-blitz-deck-the-professor"
+        },
+        {
+          "tcgplayerId": 516505,
+          "name": "Round the Table Blitz Deck - Melody",
+          "kind": "deck",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516505_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516505/flesh-and-blood-tcg-round-the-table-tccxlss-round-the-table-blitz-deck-melody"
+        },
+        {
+          "tcgplayerId": 516506,
+          "name": "Round the Table Blitz Deck - Brevant",
+          "kind": "deck",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516506_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516506/flesh-and-blood-tcg-round-the-table-tccxlss-round-the-table-blitz-deck-brevant"
+        },
+        {
+          "tcgplayerId": 516507,
+          "name": "Round the Table Blitz Deck - Ira",
+          "kind": "deck",
+          "releasedOn": "2023-09-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/516507_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/516507/flesh-and-blood-tcg-round-the-table-tccxlss-round-the-table-blitz-deck-ira"
+        }
+      ]
+    },
+    "23354": {
+      "name": "Heavy Hitters",
+      "abbreviation": "HVY",
+      "modifiedOn": "2026-08-24T13:15:20.007",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23354",
+      "products": [
+        {
+          "tcgplayerId": 528085,
+          "name": "Heavy Hitters Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528085_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/528085/flesh-and-blood-tcg-heavy-hitters-heavy-hitters-booster-pack"
+        },
+        {
+          "tcgplayerId": 528086,
+          "name": "Heavy Hitters Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528086_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/528086/flesh-and-blood-tcg-heavy-hitters-heavy-hitters-booster-box"
+        },
+        {
+          "tcgplayerId": 528087,
+          "name": "Heavy Hitters Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528087_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/528087/flesh-and-blood-tcg-heavy-hitters-heavy-hitters-booster-box-case"
+        },
+        {
+          "tcgplayerId": 529734,
+          "name": "Heavy Hitters Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/529734_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/529734/flesh-and-blood-tcg-heavy-hitters-heavy-hitters-blitz-deck-display"
+        }
+      ]
+    },
+    "23384": {
+      "name": "Blitz Deck: Heavy Hitters - Kassai",
+      "modifiedOn": "2026-08-13T01:05:09.34",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23384",
+      "products": [
+        {
+          "tcgplayerId": 531963,
+          "name": "Heavy Hitters Blitz Deck - Kassai",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531963_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/531963/flesh-and-blood-tcg-blitz-deck-heavy-hitters-kassai-heavy-hitters-blitz-deck-kassai"
+        }
+      ]
+    },
+    "23388": {
+      "name": "Blitz Deck: Heavy Hitters - Kayo",
+      "modifiedOn": "2026-08-13T01:05:36.023",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23388",
+      "products": [
+        {
+          "tcgplayerId": 532117,
+          "name": "Heavy Hitters Blitz Deck - Kayo",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532117_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532117/flesh-and-blood-tcg-blitz-deck-heavy-hitters-kayo-heavy-hitters-blitz-deck-kayo"
+        }
+      ]
+    },
+    "23389": {
+      "name": "Blitz Deck: Heavy Hitters - Rhinar",
+      "modifiedOn": "2026-08-13T01:06:59.473",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23389",
+      "products": [
+        {
+          "tcgplayerId": 532118,
+          "name": "Heavy Hitters Blitz Deck - Rhinar",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532118_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532118/flesh-and-blood-tcg-blitz-deck-heavy-hitters-rhinar-heavy-hitters-blitz-deck-rhinar"
+        }
+      ]
+    },
+    "23390": {
+      "name": "Blitz Deck: Heavy Hitters - Betsy",
+      "modifiedOn": "2026-08-13T01:04:21.177",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23390",
+      "products": [
+        {
+          "tcgplayerId": 532119,
+          "name": "Heavy Hitters Blitz Deck - Betsy",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532119_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532119/flesh-and-blood-tcg-blitz-deck-heavy-hitters-betsy-heavy-hitters-blitz-deck-betsy"
+        }
+      ]
+    },
+    "23391": {
+      "name": "Blitz Deck: Heavy Hitters - Olympia",
+      "modifiedOn": "2026-08-13T01:05:58.947",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23391",
+      "products": [
+        {
+          "tcgplayerId": 532120,
+          "name": "Heavy Hitters Blitz Deck - Olympia",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532120_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532120/flesh-and-blood-tcg-blitz-deck-heavy-hitters-olympia-heavy-hitters-blitz-deck-olympia"
+        }
+      ]
+    },
+    "23392": {
+      "name": "Blitz Deck: Heavy Hitters - Victor",
+      "modifiedOn": "2026-08-13T01:07:52.927",
+      "publishedOn": "2024-02-02",
+      "setId": "fab-g23392",
+      "products": [
+        {
+          "tcgplayerId": 532121,
+          "name": "Heavy Hitters Blitz Deck - Victor",
+          "kind": "deck",
+          "releasedOn": "2024-02-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/532121_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/532121/flesh-and-blood-tcg-blitz-deck-heavy-hitters-victor-heavy-hitters-blitz-deck-victor"
+        }
+      ]
+    },
+    "23476": {
+      "name": "Part the Mistveil",
+      "abbreviation": "MST",
+      "modifiedOn": "2026-08-19T17:12:56.013",
+      "publishedOn": "2024-05-17",
+      "setId": "fab-g23476",
+      "products": [
+        {
+          "tcgplayerId": 543922,
+          "name": "Part the Mistveil Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-05-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543922_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543922/flesh-and-blood-tcg-part-the-mistveil-part-the-mistveil-booster-pack"
+        },
+        {
+          "tcgplayerId": 543923,
+          "name": "Part the Mistveil Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-05-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543923_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543923/flesh-and-blood-tcg-part-the-mistveil-part-the-mistveil-booster-box"
+        },
+        {
+          "tcgplayerId": 543924,
+          "name": "Part the Mistveil Collection Box",
+          "kind": "collection",
+          "releasedOn": "2024-05-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543924_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543924/flesh-and-blood-tcg-part-the-mistveil-part-the-mistveil-collection-box"
+        },
+        {
+          "tcgplayerId": 545006,
+          "name": "Part the Mistveil Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-05-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/545006_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/545006/flesh-and-blood-tcg-part-the-mistveil-part-the-mistveil-booster-box-case"
+        }
+      ]
+    },
+    "23477": {
+      "name": "Blitz Deck: Part the Mistveil - Enigma",
+      "modifiedOn": "2026-08-12T21:49:45.313",
+      "publishedOn": "2024-05-17",
+      "setId": "fab-g23477",
+      "products": [
+        {
+          "tcgplayerId": 543925,
+          "name": "Part the Mistveil Blitz Deck - Enigma",
+          "kind": "deck",
+          "releasedOn": "2024-05-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543925_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543925/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-enigma-part-the-mistveil-blitz-deck-enigma"
+        }
+      ]
+    },
+    "23478": {
+      "name": "Blitz Deck: Part the Mistveil - Nuu",
+      "modifiedOn": "2026-08-12T21:48:55.183",
+      "publishedOn": "2024-05-17",
+      "setId": "fab-g23478",
+      "products": [
+        {
+          "tcgplayerId": 543926,
+          "name": "Part the Mistveil Blitz Deck - Nuu",
+          "kind": "deck",
+          "releasedOn": "2024-05-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543926_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543926/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-nuu-part-the-mistveil-blitz-deck-nuu"
+        }
+      ]
+    },
+    "23479": {
+      "name": "Blitz Deck: Part the Mistveil - Zen",
+      "modifiedOn": "2026-08-12T21:47:18.04",
+      "publishedOn": "2024-05-17",
+      "setId": "fab-g23479",
+      "products": [
+        {
+          "tcgplayerId": 543927,
+          "name": "Part the Mistveil Blitz Deck - Zen",
+          "kind": "deck",
+          "releasedOn": "2024-05-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/543927_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/543927/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-part-the-mistveil-blitz-deck-zen"
+        }
+      ]
+    },
+    "23506": {
+      "name": "Armory Deck: Kayo",
+      "modifiedOn": "2026-10-06T20:13:36.7",
+      "publishedOn": "2024-05-03",
+      "setId": "fab-g23506",
+      "products": [
+        {
+          "tcgplayerId": 547761,
+          "name": "Armory Deck: Kayo",
+          "kind": "deck",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/547761_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/547761/flesh-and-blood-tcg-armory-deck-kayo-armory-deck-kayo"
+        },
+        {
+          "tcgplayerId": 547762,
+          "name": "Armory Deck: Kayo Case",
+          "kind": "case",
+          "releasedOn": "2024-05-03",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/547762_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/547762/flesh-and-blood-tcg-armory-deck-kayo-armory-deck-kayo-case"
+        }
+      ]
+    },
+    "23534": {
+      "name": "Armory Deck: Boltyn",
+      "modifiedOn": "2025-03-17T20:39:54.06",
+      "publishedOn": "2024-07-12",
+      "setId": "fab-g23534",
+      "products": [
+        {
+          "tcgplayerId": 555205,
+          "name": "Armory Deck: Boltyn",
+          "kind": "deck",
+          "releasedOn": "2024-07-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/555205_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/555205/flesh-and-blood-tcg-armory-deck-boltyn-armory-deck-boltyn"
+        },
+        {
+          "tcgplayerId": 555206,
+          "name": "Armory Deck: Boltyn Case",
+          "kind": "case",
+          "releasedOn": "2024-07-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/555206_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/555206/flesh-and-blood-tcg-armory-deck-boltyn-armory-deck-boltyn-case"
+        }
+      ]
+    },
+    "23540": {
+      "name": "Rosetta",
+      "abbreviation": "ROS",
+      "modifiedOn": "2026-10-05T14:48:05.117",
+      "publishedOn": "2024-09-20",
+      "setId": "fab-g23540",
+      "products": [
+        {
+          "tcgplayerId": 555706,
+          "name": "Rosetta Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/555706_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/555706/flesh-and-blood-tcg-rosetta-rosetta-booster-box"
+        },
+        {
+          "tcgplayerId": 555707,
+          "name": "Rosetta Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/555707_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/555707/flesh-and-blood-tcg-rosetta-rosetta-booster-box-case"
+        },
+        {
+          "tcgplayerId": 555708,
+          "name": "Rosetta Blitz Deck Collection Box",
+          "kind": "collection",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/555708_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/555708/flesh-and-blood-tcg-rosetta-rosetta-blitz-deck-collection-box"
+        },
+        {
+          "tcgplayerId": 557336,
+          "name": "Rosetta Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557336_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557336/flesh-and-blood-tcg-rosetta-rosetta-booster-pack"
+        }
+      ]
+    },
+    "23548": {
+      "name": "1st Strike",
+      "modifiedOn": "2026-08-12T21:51:02.63",
+      "publishedOn": "2024-08-23",
+      "setId": "fab-g23548",
+      "products": [
+        {
+          "tcgplayerId": 557180,
+          "name": "1st Strike Blitz Deck - Aurora",
+          "kind": "deck",
+          "releasedOn": "2024-08-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557180_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557180/flesh-and-blood-tcg-1st-strike-1st-strike-blitz-deck-aurora"
+        },
+        {
+          "tcgplayerId": 557181,
+          "name": "1st Strike Blitz Deck - Terra",
+          "kind": "deck",
+          "releasedOn": "2024-08-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557181_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557181/flesh-and-blood-tcg-1st-strike-1st-strike-blitz-deck-terra"
+        },
+        {
+          "tcgplayerId": 557182,
+          "name": "1st Strike Blitz Deck Display",
+          "kind": "case",
+          "releasedOn": "2024-08-23",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/557182_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/557182/flesh-and-blood-tcg-1st-strike-1st-strike-blitz-deck-display"
+        }
+      ]
+    },
+    "23558": {
+      "name": "Armory Deck: Azalea",
+      "abbreviation": "ADA",
+      "modifiedOn": "2026-04-30T18:33:12.313",
+      "publishedOn": "2024-08-02",
+      "setId": "fab-g23558",
+      "products": [
+        {
+          "tcgplayerId": 558191,
+          "name": "Armory Deck: Azalea Case",
+          "kind": "case",
+          "releasedOn": "2024-08-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558191_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558191/flesh-and-blood-tcg-armory-deck-azalea-armory-deck-azalea-case"
+        },
+        {
+          "tcgplayerId": 558192,
+          "name": "Armory Deck: Azalea",
+          "kind": "deck",
+          "releasedOn": "2024-08-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/558192_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/558192/flesh-and-blood-tcg-armory-deck-azalea-armory-deck-azalea"
+        }
+      ]
+    },
+    "23738": {
+      "name": "Armory Deck: Dash",
+      "abbreviation": "ADD",
+      "modifiedOn": "2026-09-11T15:31:12.457",
+      "publishedOn": "2024-10-18",
+      "setId": "fab-g23738",
+      "products": [
+        {
+          "tcgplayerId": 576967,
+          "name": "Armory Deck: Dash",
+          "kind": "deck",
+          "releasedOn": "2024-10-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576967_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/576967/flesh-and-blood-tcg-armory-deck-dash-armory-deck-dash"
+        },
+        {
+          "tcgplayerId": 576973,
+          "name": "Armory Deck: Dash Case",
+          "kind": "case",
+          "releasedOn": "2024-10-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/576973_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/576973/flesh-and-blood-tcg-armory-deck-dash-armory-deck-dash-case"
+        }
+      ]
+    },
+    "23741": {
+      "name": "Blitz Deck: Rosetta - Florian",
+      "abbreviation": "FLR",
+      "modifiedOn": "2026-08-13T01:00:23.317",
+      "publishedOn": "2024-09-20",
+      "setId": "fab-g23741",
+      "products": [
+        {
+          "tcgplayerId": 586041,
+          "name": "Rosetta Blitz Deck - Florian",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586041_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586041/flesh-and-blood-tcg-blitz-deck-rosetta-florian-rosetta-blitz-deck-florian"
+        }
+      ]
+    },
+    "23742": {
+      "name": "Blitz Deck: Rosetta - Aurora",
+      "abbreviation": "ARA",
+      "modifiedOn": "2026-08-13T00:58:38.413",
+      "publishedOn": "2024-09-20",
+      "setId": "fab-g23742",
+      "products": [
+        {
+          "tcgplayerId": 586040,
+          "name": "Rosetta Blitz Deck - Aurora",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586040_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586040/flesh-and-blood-tcg-blitz-deck-rosetta-aurora-rosetta-blitz-deck-aurora"
+        }
+      ]
+    },
+    "23744": {
+      "name": "Blitz Deck: Rosetta - Oscilio",
+      "abbreviation": "OSC",
+      "modifiedOn": "2026-08-13T01:00:55.113",
+      "publishedOn": "2024-09-20",
+      "setId": "fab-g23744",
+      "products": [
+        {
+          "tcgplayerId": 586042,
+          "name": "Rosetta Blitz Deck - Oscilio",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586042_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586042/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-rosetta-blitz-deck-oscilio"
+        }
+      ]
+    },
+    "23745": {
+      "name": "Blitz Deck: Rosetta - Verdance",
+      "abbreviation": "VER",
+      "modifiedOn": "2026-08-13T01:01:26.52",
+      "publishedOn": "2024-09-20",
+      "setId": "fab-g23745",
+      "products": [
+        {
+          "tcgplayerId": 586043,
+          "name": "Rosetta Blitz Deck - Verdance",
+          "kind": "deck",
+          "releasedOn": "2024-09-20",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/586043_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/586043/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-rosetta-blitz-deck-verdance"
+        }
+      ]
+    },
+    "23760": {
+      "name": "Historic Pack 1 Blitz Deck: Bravo",
+      "modifiedOn": "2026-07-08T17:34:42.933",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23760",
+      "products": []
+    },
+    "23761": {
+      "name": "Historic Pack 1 Blitz Deck: Dash",
+      "modifiedOn": "2026-07-08T17:44:15.587",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23761",
+      "products": []
+    },
+    "23762": {
+      "name": "Historic Pack 1 Blitz Deck: Dorinthea",
+      "modifiedOn": "2026-07-08T17:39:10.693",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23762",
+      "products": []
+    },
+    "23763": {
+      "name": "Historic Pack 1 Blitz Deck: Kano",
+      "modifiedOn": "2026-07-08T17:40:28.05",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23763",
+      "products": []
+    },
+    "23764": {
+      "name": "Historic Pack 1 Blitz Deck: Rhinar",
+      "modifiedOn": "2026-07-08T17:40:56.993",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23764",
+      "products": []
+    },
+    "23765": {
+      "name": "Historic Pack 1 Blitz Deck: Viserai",
+      "modifiedOn": "2026-07-20T15:02:45.617",
+      "publishedOn": "2023-04-07",
+      "setId": "fab-g23765",
+      "products": []
+    },
+    "23771": {
+      "name": "Armory Deck: Jarl Vetreidi",
+      "modifiedOn": "2026-03-12T13:25:42.55",
+      "publishedOn": "2024-11-29",
+      "setId": "fab-g23771",
+      "products": [
+        {
+          "tcgplayerId": 587210,
+          "name": "Armory Deck: Jarl Vetreidi",
+          "kind": "deck",
+          "releasedOn": "2024-11-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/587210_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/587210/flesh-and-blood-tcg-armory-deck-jarl-vetreidi-armory-deck-jarl-vetreidi"
+        }
+      ]
+    },
+    "23815": {
+      "name": "The Hunted",
+      "modifiedOn": "2026-08-14T14:03:11.46",
+      "publishedOn": "2025-01-31",
+      "setId": "fab-g23815",
+      "products": [
+        {
+          "tcgplayerId": 591273,
+          "name": "The Hunted Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-01-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/591273_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/591273/flesh-and-blood-tcg-the-hunted-the-hunted-booster-box-case"
+        },
+        {
+          "tcgplayerId": 591274,
+          "name": "The Hunted Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-01-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/591274_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/591274/flesh-and-blood-tcg-the-hunted-the-hunted-booster-box"
+        },
+        {
+          "tcgplayerId": 591297,
+          "name": "The Hunted Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-01-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/591297_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/591297/flesh-and-blood-tcg-the-hunted-the-hunted-booster-pack"
+        },
+        {
+          "tcgplayerId": 591299,
+          "name": "The Hunted Blitz Deck Collection Box",
+          "kind": "collection",
+          "releasedOn": "2025-01-31",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/591299_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/591299/flesh-and-blood-tcg-the-hunted-the-hunted-blitz-deck-collection-box"
+        }
+      ]
+    },
+    "24162": {
+      "name": "Armory Deck: Aurora",
+      "modifiedOn": "2026-08-13T00:46:55.977",
+      "publishedOn": "2025-03-14",
+      "setId": "fab-g24162",
+      "products": [
+        {
+          "tcgplayerId": 614361,
+          "name": "Armory Deck: Aurora",
+          "kind": "deck",
+          "releasedOn": "2025-03-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/614361_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/614361/flesh-and-blood-tcg-armory-deck-aurora-armory-deck-aurora"
+        }
+      ]
+    },
+    "24176": {
+      "name": "GEM Pack 1",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-09-04T17:35:35.99",
+      "publishedOn": "2025-02-01",
+      "setId": "fab-g24176",
+      "products": []
+    },
+    "24212": {
+      "name": "Blitz Deck: The Hunted - Arakni",
+      "modifiedOn": "2026-08-13T00:54:02.84",
+      "publishedOn": "2025-01-31",
+      "setId": "fab-g24212",
+      "products": []
+    },
+    "24213": {
+      "name": "Blitz Deck: The Hunted - Fang",
+      "modifiedOn": "2026-08-13T00:56:30.83",
+      "publishedOn": "2025-01-31",
+      "setId": "fab-g24213",
+      "products": []
+    },
+    "24214": {
+      "name": "Blitz Deck: The Hunted - Arakni, Web of Deceit",
+      "modifiedOn": "2026-08-13T00:55:00.893",
+      "publishedOn": "2025-01-31",
+      "setId": "fab-g24214",
+      "products": []
+    },
+    "24215": {
+      "name": "Blitz Deck: The Hunted - Cindra",
+      "modifiedOn": "2026-10-22T13:58:14.31",
+      "publishedOn": "2025-01-31",
+      "setId": "fab-g24215",
+      "products": []
+    },
+    "24253": {
+      "name": "Armory Deck: Maxx Nitro",
+      "modifiedOn": "2025-04-30T13:11:06.31",
+      "publishedOn": "2025-04-17",
+      "setId": "fab-g24253",
+      "products": [
+        {
+          "tcgplayerId": 622768,
+          "name": "Armory Deck: Maxx Nitro",
+          "kind": "deck",
+          "releasedOn": "2025-04-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622768_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622768/flesh-and-blood-tcg-armory-deck-maxx-nitro-armory-deck-maxx-nitro"
+        },
+        {
+          "tcgplayerId": 622769,
+          "name": "Armory Deck: Maxx Nitro Case",
+          "kind": "case",
+          "releasedOn": "2025-04-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/622769_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/622769/flesh-and-blood-tcg-armory-deck-maxx-nitro-armory-deck-maxx-nitro-case"
+        }
+      ]
+    },
+    "24266": {
+      "name": "High Seas",
+      "modifiedOn": "2026-10-13T18:00:42.513",
+      "publishedOn": "2025-06-06",
+      "setId": "fab-g24266",
+      "products": [
+        {
+          "tcgplayerId": 624348,
+          "name": "High Seas Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624348_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624348/flesh-and-blood-tcg-high-seas-high-seas-booster-box"
+        },
+        {
+          "tcgplayerId": 624349,
+          "name": "High Seas Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624349_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624349/flesh-and-blood-tcg-high-seas-high-seas-booster-pack"
+        },
+        {
+          "tcgplayerId": 626559,
+          "name": "High Seas Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-06-06",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/626559_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/626559/flesh-and-blood-tcg-high-seas-high-seas-booster-box-case"
+        }
+      ]
+    },
+    "24268": {
+      "name": "Armory Deck: Gravy Bones",
+      "modifiedOn": "2026-08-13T00:49:35.887",
+      "publishedOn": "2025-05-30",
+      "setId": "fab-g24268",
+      "products": [
+        {
+          "tcgplayerId": 624355,
+          "name": "Armory Deck: Gravy Bones",
+          "kind": "deck",
+          "releasedOn": "2025-05-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/624355_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/624355/flesh-and-blood-tcg-armory-deck-gravy-bones-armory-deck-gravy-bones"
+        }
+      ]
+    },
+    "24315": {
+      "name": "Armory Deck: Ira",
+      "modifiedOn": "2026-08-13T01:09:16.447",
+      "publishedOn": "2025-07-11",
+      "setId": "fab-g24315",
+      "products": [
+        {
+          "tcgplayerId": 629763,
+          "name": "Armory Deck: Ira",
+          "kind": "deck",
+          "releasedOn": "2025-07-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/629763_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/629763/flesh-and-blood-tcg-armory-deck-ira-armory-deck-ira"
+        },
+        {
+          "tcgplayerId": 629764,
+          "name": "Armory Deck: Ira Case",
+          "kind": "case",
+          "releasedOn": "2025-07-11",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/629764_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/629764/flesh-and-blood-tcg-armory-deck-ira-armory-deck-ira-case"
+        }
+      ]
+    },
+    "24330": {
+      "name": "Mastery Pack Guardian",
+      "modifiedOn": "2026-10-06T19:48:42.077",
+      "publishedOn": "2025-08-06",
+      "setId": "fab-g24330",
+      "products": [
+        {
+          "tcgplayerId": 631084,
+          "name": "Mastery Pack Guardian Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631084_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/631084/flesh-and-blood-tcg-mastery-pack-guardian-mastery-pack-guardian-booster-box"
+        },
+        {
+          "tcgplayerId": 631085,
+          "name": "Mastery Pack Guardian Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631085_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/631085/flesh-and-blood-tcg-mastery-pack-guardian-mastery-pack-guardian-booster-box-case"
+        },
+        {
+          "tcgplayerId": 631086,
+          "name": "Mastery Pack Guardian Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/631086_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/631086/flesh-and-blood-tcg-mastery-pack-guardian-mastery-pack-guardian-booster-pack"
+        }
+      ]
+    },
+    "24334": {
+      "name": "GEM Pack 2",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-09-03T14:02:39.66",
+      "publishedOn": "2025-06-02",
+      "setId": "fab-g24334",
+      "products": []
+    },
+    "24371": {
+      "name": "Super Slam",
+      "abbreviation": "SUP",
+      "modifiedOn": "2026-11-20T14:24:52.033",
+      "publishedOn": "2025-09-26",
+      "setId": "fab-g24371",
+      "products": [
+        {
+          "tcgplayerId": 641710,
+          "name": "Super Slam Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641710_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641710/flesh-and-blood-tcg-super-slam-super-slam-booster-box"
+        },
+        {
+          "tcgplayerId": 647443,
+          "name": "Super Slam Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/647443_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/647443/flesh-and-blood-tcg-super-slam-super-slam-booster-box-case"
+        },
+        {
+          "tcgplayerId": 649648,
+          "name": "Super Slam Pre-release Kit",
+          "kind": "build_battle",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649648_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/649648/flesh-and-blood-tcg-super-slam-super-slam-pre-release-kit"
+        },
+        {
+          "tcgplayerId": 651133,
+          "name": "Super Slam Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-09-26",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/651133_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/651133/flesh-and-blood-tcg-super-slam-super-slam-booster-pack"
+        }
+      ]
+    },
+    "24375": {
+      "name": "Armory Deck: Pleiades",
+      "modifiedOn": "2026-10-06T19:45:43.71",
+      "publishedOn": "2025-09-19",
+      "setId": "fab-g24375",
+      "products": [
+        {
+          "tcgplayerId": 641715,
+          "name": "Armory Deck: Pleiades",
+          "kind": "deck",
+          "releasedOn": "2025-09-19",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/641715_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/641715/flesh-and-blood-tcg-armory-deck-pleiades-armory-deck-pleiades"
+        }
+      ]
+    },
+    "24391": {
+      "name": "Welcome Deck Bravo",
+      "abbreviation": "BDD",
+      "modifiedOn": "2026-10-06T20:07:36.563",
+      "publishedOn": "2025-08-01",
+      "setId": "fab-g24391",
+      "products": []
+    },
+    "24415": {
+      "name": "Smash Palace",
+      "modifiedOn": "2026-07-20T15:01:54.803",
+      "publishedOn": "2025-08-08",
+      "setId": "fab-g24415",
+      "products": [
+        {
+          "tcgplayerId": 648060,
+          "name": "Smash Palace Box Set",
+          "kind": "collection",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648060_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648060/flesh-and-blood-tcg-smash-palace-smash-palace-box-set"
+        }
+      ]
+    },
+    "24416": {
+      "name": "Armory Deck: Legends Viserai",
+      "modifiedOn": "2026-10-13T13:20:09.513",
+      "publishedOn": "2025-08-01",
+      "setId": "fab-g24416",
+      "products": [
+        {
+          "tcgplayerId": 648133,
+          "name": "Armory Deck: Legends Viserai",
+          "kind": "deck",
+          "releasedOn": "2025-08-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648133_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648133/flesh-and-blood-tcg-armory-deck-legends-viserai-armory-deck-legends-viserai"
+        }
+      ]
+    },
+    "24417": {
+      "name": "Armory Deck: Legends Prism",
+      "modifiedOn": "2026-05-11T18:55:16.117",
+      "publishedOn": "2025-08-01",
+      "setId": "fab-g24417",
+      "products": [
+        {
+          "tcgplayerId": 648124,
+          "name": "Armory Deck: Legends Prism",
+          "kind": "deck",
+          "releasedOn": "2025-08-01",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648124_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/648124/flesh-and-blood-tcg-armory-deck-legends-prism-armory-deck-legends-prism"
+        }
+      ]
+    },
+    "24446": {
+      "name": "GEM Pack 3",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-02-19T14:44:55.75",
+      "publishedOn": "2025-09-30",
+      "setId": "fab-g24446",
+      "products": [
+        {
+          "tcgplayerId": 656627,
+          "name": "Gem Pack 3 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2025-09-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656627_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656627/flesh-and-blood-tcg-gem-pack-3-gem-pack-3-booster-pack"
+        }
+      ]
+    },
+    "24474": {
+      "name": "Armory Deck: Rhinar",
+      "modifiedOn": "2025-11-21T20:41:34.96",
+      "publishedOn": "2025-11-14",
+      "setId": "fab-g24474",
+      "products": [
+        {
+          "tcgplayerId": 656946,
+          "name": "Armory Deck: Rhinar",
+          "kind": "deck",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656946_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656946/flesh-and-blood-tcg-armory-deck-rhinar-armory-deck-rhinar"
+        },
+        {
+          "tcgplayerId": 656947,
+          "name": "Armory Deck: Rhinar Case",
+          "kind": "case",
+          "releasedOn": "2025-11-14",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/656947_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/656947/flesh-and-blood-tcg-armory-deck-rhinar-armory-deck-rhinar-case"
+        }
+      ]
+    },
+    "24524": {
+      "name": "Silver Age Chapter 1",
+      "modifiedOn": "2026-11-20T15:41:50.16",
+      "publishedOn": "2026-02-13",
+      "setId": "fab-g24524",
+      "products": [
+        {
+          "tcgplayerId": 662575,
+          "name": "Silver Age Chapter 1 Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662575_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662575/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-display"
+        },
+        {
+          "tcgplayerId": 662578,
+          "name": "Silver Age Chapter 1 Deck - Kayo (Brute)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662578_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662578/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-kayo-brute"
+        },
+        {
+          "tcgplayerId": 662579,
+          "name": "Silver Age Chapter 1 Deck - Iyslander (Elemental Wizard)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662579_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662579/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-iyslander-elemental-wizard"
+        },
+        {
+          "tcgplayerId": 662580,
+          "name": "Silver Age Chapter 1 Deck - Viserai (Runeblade)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662580_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662580/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-viserai-runeblade"
+        },
+        {
+          "tcgplayerId": 662582,
+          "name": "Silver Age Chapter 1 Deck - Dash (Mechanologist)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662582_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662582/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-dash-mechanologist"
+        },
+        {
+          "tcgplayerId": 662583,
+          "name": "Silver Age Chapter 1 Deck - Bravo, Flattering Showman (Guardian)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662583_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662583/flesh-and-blood-tcg-silver-age-chapter-1-silver-age-chapter-1-deck-bravo-flattering-showman-guardian"
+        }
+      ]
+    },
+    "24525": {
+      "name": "Silver Age Chapter 2",
+      "modifiedOn": "2026-02-10T15:22:51.5",
+      "publishedOn": "2026-02-13",
+      "setId": "fab-g24525",
+      "products": [
+        {
+          "tcgplayerId": 662576,
+          "name": "Silver Age Chapter 2 Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662576_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662576/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-display"
+        },
+        {
+          "tcgplayerId": 662584,
+          "name": "Silver Age Chapter 2 Deck - Azalea (Ranger)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662584_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662584/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-azalea-ranger"
+        },
+        {
+          "tcgplayerId": 662585,
+          "name": "Silver Age Chapter 2 Deck - Dorinthea (Warrior)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662585_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662585/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-dorinthea-warrior"
+        },
+        {
+          "tcgplayerId": 662587,
+          "name": "Silver Age Chapter 2 Deck - Fai (Draconic Ninja)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662587_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662587/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-fai-draconic-ninja"
+        },
+        {
+          "tcgplayerId": 662588,
+          "name": "Silver Age Chapter 2 Deck - Enigma (Mystic Illusionist)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662588/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-enigma-mystic-illusionist"
+        },
+        {
+          "tcgplayerId": 662589,
+          "name": "Silver Age Chapter 2 Deck - Arakni, Web of Deceit (Chaos Assassin)",
+          "kind": "deck",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662589/flesh-and-blood-tcg-silver-age-chapter-2-silver-age-chapter-2-deck-arakni-web-of-deceit-chaos-assassin"
+        }
+      ]
+    },
+    "24526": {
+      "name": "Armory Deck: Arakni",
+      "modifiedOn": "2026-08-25T20:27:39.13",
+      "publishedOn": "2025-12-12",
+      "setId": "fab-g24526",
+      "products": [
+        {
+          "tcgplayerId": 662600,
+          "name": "Armory Deck: Arakni",
+          "kind": "deck",
+          "releasedOn": "2025-12-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662600_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662600/flesh-and-blood-tcg-armory-deck-arakni-armory-deck-arakni"
+        },
+        {
+          "tcgplayerId": 662605,
+          "name": "Armory Deck: Arakni Case",
+          "kind": "case",
+          "releasedOn": "2025-12-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/662605_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/662605/flesh-and-blood-tcg-armory-deck-arakni-armory-deck-arakni-case"
+        }
+      ]
+    },
+    "24532": {
+      "name": "Compendium of Rathe",
+      "abbreviation": "PEN",
+      "modifiedOn": "2026-11-19T19:48:42.25",
+      "publishedOn": "2026-02-13",
+      "setId": "fab-g24532",
+      "products": [
+        {
+          "tcgplayerId": 664844,
+          "name": "Compendium of Rathe Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664844_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/664844/flesh-and-blood-tcg-compendium-of-rathe-compendium-of-rathe-booster-box"
+        },
+        {
+          "tcgplayerId": 664845,
+          "name": "Compendium of Rathe Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664845_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/664845/flesh-and-blood-tcg-compendium-of-rathe-compendium-of-rathe-booster-pack"
+        },
+        {
+          "tcgplayerId": 664846,
+          "name": "Compendium of Rathe Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664846_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/664846/flesh-and-blood-tcg-compendium-of-rathe-compendium-of-rathe-booster-box-case"
+        }
+      ]
+    },
+    "24533": {
+      "name": "Compendium of Rathe - Antiquity Pack",
+      "abbreviation": "ANQ",
+      "modifiedOn": "2026-09-03T14:03:16.773",
+      "publishedOn": "2026-02-13",
+      "setId": "fab-g24533",
+      "products": [
+        {
+          "tcgplayerId": 664848,
+          "name": "Compendium of Rathe - Antiquity Pack",
+          "kind": "booster",
+          "releasedOn": "2026-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/664848_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/664848/flesh-and-blood-tcg-compendium-of-rathe-antiquity-pack-compendium-of-rathe-antiquity-pack"
+        }
+      ]
+    },
+    "24610": {
+      "name": "Armory Deck Origins: Hala",
+      "abbreviation": "AHA",
+      "modifiedOn": "2026-04-26T15:28:08.893",
+      "publishedOn": "2026-04-17",
+      "setId": "fab-g24610",
+      "products": [
+        {
+          "tcgplayerId": 677329,
+          "name": "Armory Deck Origins: Hala",
+          "kind": "deck",
+          "releasedOn": "2026-04-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/677329_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/677329/flesh-and-blood-tcg-armory-deck-origins-hala-armory-deck-origins-hala"
+        },
+        {
+          "tcgplayerId": 677330,
+          "name": "Armory Deck Origins: Hala Case",
+          "kind": "case",
+          "releasedOn": "2026-04-17",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/677330_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/677330/flesh-and-blood-tcg-armory-deck-origins-hala-armory-deck-origins-hala-case"
+        }
+      ]
+    },
+    "24620": {
+      "name": "GEM Pack 4",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-05-04T14:17:41.903",
+      "publishedOn": "2026-02-14",
+      "setId": "fab-g24620",
+      "products": []
+    },
+    "24639": {
+      "name": "Armory Deck: Zyggy",
+      "abbreviation": "AZS",
+      "modifiedOn": "2026-10-12T18:14:48.287",
+      "publishedOn": "2026-05-29",
+      "setId": "fab-g24639",
+      "products": [
+        {
+          "tcgplayerId": 682782,
+          "name": "Armory Deck: Zyggy",
+          "kind": "deck",
+          "releasedOn": "2026-05-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682782_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682782/flesh-and-blood-tcg-armory-deck-zyggy-armory-deck-zyggy"
+        },
+        {
+          "tcgplayerId": 682788,
+          "name": "Armory Deck: Zyggy Case",
+          "kind": "case",
+          "releasedOn": "2026-05-29",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682788_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682788/flesh-and-blood-tcg-armory-deck-zyggy-armory-deck-zyggy-case"
+        }
+      ]
+    },
+    "24640": {
+      "name": "Omens of the Third Age",
+      "abbreviation": "OMN",
+      "modifiedOn": "2026-11-12T17:35:55.82",
+      "publishedOn": "2026-06-05",
+      "setId": "fab-g24640",
+      "products": [
+        {
+          "tcgplayerId": 682812,
+          "name": "Omens of the Third Age Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682812_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682812/flesh-and-blood-tcg-omens-of-the-third-age-omens-of-the-third-age-booster-pack"
+        },
+        {
+          "tcgplayerId": 682814,
+          "name": "Omens of the Third Age Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682814/flesh-and-blood-tcg-omens-of-the-third-age-omens-of-the-third-age-booster-box"
+        },
+        {
+          "tcgplayerId": 682815,
+          "name": "Omens of the Third Age Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682815_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682815/flesh-and-blood-tcg-omens-of-the-third-age-omens-of-the-third-age-booster-box-case"
+        },
+        {
+          "tcgplayerId": 682817,
+          "name": "Omens of the Third Age Pre-release Kit",
+          "kind": "build_battle",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/682817_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/682817/flesh-and-blood-tcg-omens-of-the-third-age-omens-of-the-third-age-pre-release-kit"
+        }
+      ]
+    },
+    "24671": {
+      "name": "Mastery Pack Warrior",
+      "abbreviation": "MPW",
+      "modifiedOn": "2026-11-19T14:22:10.927",
+      "publishedOn": "2026-08-07",
+      "setId": "fab-g24671",
+      "products": [
+        {
+          "tcgplayerId": 690470,
+          "name": "Mastery Pack Warrior Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690470_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690470/flesh-and-blood-tcg-mastery-pack-warrior-mastery-pack-warrior-booster-box"
+        },
+        {
+          "tcgplayerId": 690471,
+          "name": "Mastery Pack Warrior Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690471_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690471/flesh-and-blood-tcg-mastery-pack-warrior-mastery-pack-warrior-booster-pack"
+        },
+        {
+          "tcgplayerId": 690473,
+          "name": "Mastery Pack Warrior Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690473_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690473/flesh-and-blood-tcg-mastery-pack-warrior-mastery-pack-warrior-booster-box-case"
+        }
+      ]
+    },
+    "24672": {
+      "name": "Armory Deck: Olympia",
+      "abbreviation": "AOL",
+      "modifiedOn": "2026-08-13T20:21:24.023",
+      "publishedOn": "2026-08-07",
+      "setId": "fab-g24672",
+      "products": [
+        {
+          "tcgplayerId": 690417,
+          "name": "Armory Deck: Olympia",
+          "kind": "deck",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690417_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690417/flesh-and-blood-tcg-armory-deck-olympia-armory-deck-olympia"
+        },
+        {
+          "tcgplayerId": 690419,
+          "name": "Armory Deck: Olympia Case",
+          "kind": "case",
+          "releasedOn": "2026-08-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/690419_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/690419/flesh-and-blood-tcg-armory-deck-olympia-armory-deck-olympia-case"
+        }
+      ]
+    },
+    "24706": {
+      "name": "Silver Age Chapter 3",
+      "modifiedOn": "2026-08-06T00:18:10.99",
+      "publishedOn": "2026-06-05",
+      "setId": "fab-g24706",
+      "products": [
+        {
+          "tcgplayerId": 694715,
+          "name": "Silver Age Chapter 3 Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694715_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694715/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-display"
+        },
+        {
+          "tcgplayerId": 694833,
+          "name": "Silver Age Chapter 3 Deck - Blaze Firemind (Wizard)",
+          "kind": "deck",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694833_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694833/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-blaze-firemind-wizard"
+        },
+        {
+          "tcgplayerId": 694834,
+          "name": "Silver Age Chapter 3 Deck - Boltyn (Light Warrior)",
+          "kind": "deck",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694834_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694834/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-boltyn-light-warrior"
+        },
+        {
+          "tcgplayerId": 694835,
+          "name": "Silver Age Chapter 3 Deck - Briar (Elemental Runeblade)",
+          "kind": "deck",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694835_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694835/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-briar-elemental-runeblade"
+        },
+        {
+          "tcgplayerId": 694836,
+          "name": "Silver Age Chapter 3 Deck - Gravy Bones (Pirate Necromancer)",
+          "kind": "deck",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694836_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694836/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-gravy-bones-pirate-necromancer"
+        },
+        {
+          "tcgplayerId": 694837,
+          "name": "Silver Age Chapter 3 Deck - Lyath Goldmane (Reviled Guardian)",
+          "kind": "deck",
+          "releasedOn": "2026-06-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/694837_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/694837/flesh-and-blood-tcg-silver-age-chapter-3-silver-age-chapter-3-deck-lyath-goldmane-reviled-guardian"
+        }
+      ]
+    },
+    "24720": {
+      "name": "GEM Pack 5",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-11-04T14:48:58.203",
+      "publishedOn": "2026-06-05",
+      "setId": "fab-g24720",
+      "products": []
+    },
+    "24762": {
+      "name": "Usurp the Shadow Throne",
+      "abbreviation": "IAR",
+      "modifiedOn": "2026-11-12T18:10:56.83",
+      "publishedOn": "2026-09-25",
+      "setId": "fab-g24762",
+      "products": [
+        {
+          "tcgplayerId": 705069,
+          "name": "Usurp the Shadow Throne Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-09-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705069_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705069/flesh-and-blood-tcg-usurp-the-shadow-throne-usurp-the-shadow-throne-booster-pack"
+        },
+        {
+          "tcgplayerId": 705070,
+          "name": "Usurp the Shadow Throne Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-09-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705070_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705070/flesh-and-blood-tcg-usurp-the-shadow-throne-usurp-the-shadow-throne-booster-box"
+        },
+        {
+          "tcgplayerId": 705071,
+          "name": "Usurp the Shadow Throne Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-09-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705071_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705071/flesh-and-blood-tcg-usurp-the-shadow-throne-usurp-the-shadow-throne-booster-box-case"
+        }
+      ]
+    },
+    "24763": {
+      "name": "Armory Deck: Malice",
+      "abbreviation": "AMA",
+      "modifiedOn": "2026-09-10T12:49:40.037",
+      "publishedOn": "2026-09-18",
+      "setId": "fab-g24763",
+      "products": [
+        {
+          "tcgplayerId": 705075,
+          "name": "Armory Deck: Malice",
+          "kind": "deck",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705075_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705075/flesh-and-blood-tcg-armory-deck-malice-armory-deck-malice"
+        },
+        {
+          "tcgplayerId": 705076,
+          "name": "Armory Deck: Malice Case",
+          "kind": "case",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705076_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705076/flesh-and-blood-tcg-armory-deck-malice-armory-deck-malice-case"
+        }
+      ]
+    },
+    "24764": {
+      "name": "Silver Age: Usurp the Shadow Throne",
+      "abbreviation": "SAT",
+      "modifiedOn": "2026-09-08T14:50:45.017",
+      "publishedOn": "2026-09-18",
+      "setId": "fab-g24764",
+      "products": [
+        {
+          "tcgplayerId": 706588,
+          "name": "Silver Age: Usurp the Shadow Throne Deck - Prism Advent of Thrones",
+          "kind": "deck",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/706588_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/706588/flesh-and-blood-tcg-silver-age-usurp-the-shadow-throne-silver-age-usurp-the-shadow-throne-deck-prism-advent-of-thrones"
+        },
+        {
+          "tcgplayerId": 706589,
+          "name": "Silver Age: Usurp the Shadow Throne Deck - Viserai Between Worlds",
+          "kind": "deck",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/706589_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/706589/flesh-and-blood-tcg-silver-age-usurp-the-shadow-throne-silver-age-usurp-the-shadow-throne-deck-viserai-between-worlds"
+        },
+        {
+          "tcgplayerId": 706591,
+          "name": "Silver Age: Usurp the Shadow Throne Deck Display",
+          "kind": "case",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/706591_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/706591/flesh-and-blood-tcg-silver-age-usurp-the-shadow-throne-silver-age-usurp-the-shadow-throne-deck-display"
+        },
+        {
+          "tcgplayerId": 706592,
+          "name": "Silver Age: Usurp the Shadow Throne Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/706592_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/706592/flesh-and-blood-tcg-silver-age-usurp-the-shadow-throne-silver-age-usurp-the-shadow-throne-deck-display-case"
+        }
+      ]
+    },
+    "24773": {
+      "name": "Smash Palace: Chorus of Steel",
+      "abbreviation": "SPW",
+      "modifiedOn": "2026-10-27T15:28:05.37",
+      "publishedOn": "2026-10-30",
+      "setId": "fab-g24773",
+      "products": [
+        {
+          "tcgplayerId": 709988,
+          "name": "Smash Palace: Chorus of Steel Box Set",
+          "kind": "collection",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/709988_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/709988/flesh-and-blood-tcg-smash-palace-chorus-of-steel-smash-palace-chorus-of-steel-box-set"
+        },
+        {
+          "tcgplayerId": 709989,
+          "name": "Smash Palace: Chorus of Steel Box Set Case",
+          "kind": "case",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/709989_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/709989/flesh-and-blood-tcg-smash-palace-chorus-of-steel-smash-palace-chorus-of-steel-box-set-case"
+        },
+        {
+          "tcgplayerId": 710111,
+          "name": "Smash Palace: Chorus of Steel Event Deck",
+          "kind": "deck",
+          "releasedOn": "2026-10-30",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/710111_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/710111/flesh-and-blood-tcg-smash-palace-chorus-of-steel-smash-palace-chorus-of-steel-event-deck"
+        }
+      ]
+    },
+    "24774": {
+      "name": "GEM Pack 6",
+      "abbreviation": "GEM",
+      "modifiedOn": "2026-10-14T14:11:30.417",
+      "publishedOn": "2026-09-25",
+      "setId": "fab-g24774",
+      "products": [
+        {
+          "tcgplayerId": 719683,
+          "name": "GEM Pack 6 Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-09-25",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/719683_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/719683/flesh-and-blood-tcg-gem-pack-6-gem-pack-6-booster-pack"
+        }
+      ]
+    },
+    "24776": {
+      "name": "Usurp the Shadow Throne Pre-release Cards",
+      "abbreviation": "IAR",
+      "modifiedOn": "2026-10-27T19:54:31.85",
+      "publishedOn": "2026-09-25",
+      "setId": "fab-g24776",
+      "products": [
+        {
+          "tcgplayerId": 705077,
+          "name": "Usurp the Shadow Throne Pre-release Kit",
+          "kind": "build_battle",
+          "releasedOn": "2026-09-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/705077_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/705077/flesh-and-blood-tcg-usurp-the-shadow-throne-pre-release-cards-usurp-the-shadow-throne-pre-release-kit"
+        }
+      ]
+    },
+    "24814": {
+      "name": "Armory Deck: Dr. Mortimer",
+      "abbreviation": "AMO",
+      "modifiedOn": "2026-11-04T15:48:08.11",
+      "publishedOn": "2026-11-13",
+      "setId": "fab-g24814",
+      "products": [
+        {
+          "tcgplayerId": 711011,
+          "name": "Armory Deck: Dr. Mortimer",
+          "kind": "deck",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711011_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711011/flesh-and-blood-tcg-armory-deck-dr-mortimer-armory-deck-dr-mortimer"
+        },
+        {
+          "tcgplayerId": 711012,
+          "name": "Armory Deck: Dr. Mortimer Case",
+          "kind": "case",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711012_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711012/flesh-and-blood-tcg-armory-deck-dr-mortimer-armory-deck-dr-mortimer-case"
+        }
+      ]
+    },
+    "24818": {
+      "name": "Mastery Pack Assassin",
+      "abbreviation": "MPA",
+      "modifiedOn": "2026-11-12T02:41:00.373",
+      "publishedOn": "2026-11-13",
+      "setId": "fab-g24818",
+      "products": [
+        {
+          "tcgplayerId": 711354,
+          "name": "Mastery Pack Assassin Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711354_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711354/flesh-and-blood-tcg-mastery-pack-assassin-mastery-pack-assassin-booster-pack"
+        },
+        {
+          "tcgplayerId": 711356,
+          "name": "Mastery Pack Assassin Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711356/flesh-and-blood-tcg-mastery-pack-assassin-mastery-pack-assassin-booster-box"
+        },
+        {
+          "tcgplayerId": 711357,
+          "name": "Mastery Pack Assassin Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2026-11-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/711357_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/711357/flesh-and-blood-tcg-mastery-pack-assassin-mastery-pack-assassin-booster-box-case"
+        }
+      ]
+    },
+    "24913": {
+      "name": "Armory Deck: Min",
+      "abbreviation": "AMG",
+      "modifiedOn": "2026-11-11T20:05:05.137",
+      "publishedOn": "2027-02-05",
+      "setId": "fab-g24913",
+      "products": [
+        {
+          "tcgplayerId": 723443,
+          "name": "Armory Deck: Min",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723443_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723443/flesh-and-blood-tcg-armory-deck-min-armory-deck-min"
+        },
+        {
+          "tcgplayerId": 723445,
+          "name": "Armory Deck: Min Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723445_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723445/flesh-and-blood-tcg-armory-deck-min-armory-deck-min-case"
+        }
+      ]
+    },
+    "24914": {
+      "name": "Outbreak",
+      "abbreviation": "OBK",
+      "modifiedOn": "2026-11-18T20:03:32.143",
+      "publishedOn": "2027-02-12",
+      "setId": "fab-g24914",
+      "products": [
+        {
+          "tcgplayerId": 723448,
+          "name": "Outbreak Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2027-02-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723448_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723448/flesh-and-blood-tcg-outbreak-outbreak-booster-box"
+        },
+        {
+          "tcgplayerId": 723449,
+          "name": "Outbreak Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-02-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723449_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723449/flesh-and-blood-tcg-outbreak-outbreak-booster-pack"
+        },
+        {
+          "tcgplayerId": 723450,
+          "name": "Outbreak Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2027-02-12",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723450_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723450/flesh-and-blood-tcg-outbreak-outbreak-booster-box-case"
+        }
+      ]
+    },
+    "24915": {
+      "name": "Silver Age: Outbreak",
+      "modifiedOn": "2026-11-04T16:04:31.907",
+      "publishedOn": "2027-02-05",
+      "setId": "fab-g24915",
+      "products": [
+        {
+          "tcgplayerId": 723451,
+          "name": "Silver Age: Outbreak Deck Display",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723451_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723451/flesh-and-blood-tcg-silver-age-outbreak-silver-age-outbreak-deck-display"
+        },
+        {
+          "tcgplayerId": 723452,
+          "name": "Silver Age: Outbreak Deck - Mortimer, Living Virus",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723452_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723452/flesh-and-blood-tcg-silver-age-outbreak-silver-age-outbreak-deck-mortimer-living-virus"
+        },
+        {
+          "tcgplayerId": 723453,
+          "name": "Silver Age: Outbreak Deck - A-01, First Cogwarden",
+          "kind": "deck",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723453_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723453/flesh-and-blood-tcg-silver-age-outbreak-silver-age-outbreak-deck-a-01-first-cogwarden"
+        },
+        {
+          "tcgplayerId": 723454,
+          "name": "Silver Age: Outbreak Deck Display Case",
+          "kind": "case",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723454_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723454/flesh-and-blood-tcg-silver-age-outbreak-silver-age-outbreak-deck-display-case"
+        }
+      ]
+    },
+    "24916": {
+      "name": "Outbreak Pre-Release Kit",
+      "modifiedOn": "2026-11-03T22:06:45.143",
+      "publishedOn": "2027-02-05",
+      "setId": "fab-g24916",
+      "products": [
+        {
+          "tcgplayerId": 723455,
+          "name": "Outbreak Pre-release Kit",
+          "kind": "build_battle",
+          "releasedOn": "2027-02-05",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723455_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723455/flesh-and-blood-tcg-outbreak-pre-release-kit-outbreak-pre-release-kit"
+        }
+      ]
+    },
+    "24936": {
+      "name": "Demo Deck: Dorinthea",
+      "abbreviation": "DDD",
+      "modifiedOn": "2026-11-04T15:17:42.337",
+      "publishedOn": "2026-08-07",
+      "setId": "fab-g24936",
+      "products": []
+    },
+    "24940": {
+      "name": "Mastery Pack Brute",
+      "abbreviation": "MPB",
+      "modifiedOn": "2026-11-19T18:00:57.72",
+      "publishedOn": "2027-04-02",
+      "setId": "fab-g24940",
+      "products": [
+        {
+          "tcgplayerId": 735074,
+          "name": "Mastery Pack Brute Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2027-04-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735074_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735074/flesh-and-blood-tcg-mastery-pack-brute-mastery-pack-brute-booster-pack"
+        },
+        {
+          "tcgplayerId": 735076,
+          "name": "Mastery Pack Brute Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2027-04-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735076_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735076/flesh-and-blood-tcg-mastery-pack-brute-mastery-pack-brute-booster-box"
+        },
+        {
+          "tcgplayerId": 735077,
+          "name": "Mastery Pack Brute Booster Box Case",
+          "kind": "case",
+          "releasedOn": "2027-04-02",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735077_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735077/flesh-and-blood-tcg-mastery-pack-brute-mastery-pack-brute-booster-box-case"
+        }
+      ]
+    }
+  }
+}

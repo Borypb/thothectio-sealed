@@ -1,6 +1,6 @@
 {
-  "version": 71,
-  "updatedAt": "2026-11-24",
+  "version": 72,
+  "updatedAt": "2026-11-25",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
     "booster_box": "Display",
@@ -44,8 +44,8 @@
       "files": {
         "en": {
           "file": "onepiece-en.json",
-          "version": 8,
-          "count": 319
+          "version": 9,
+          "count": 321
         }
       }
     },
@@ -53,7 +53,7 @@
       "files": {
         "en": {
           "file": "magic-en.json",
-          "version": 17,
+          "version": 18,
           "count": 3320
         }
       }
@@ -125,8 +125,8 @@
       "files": {
         "en": {
           "file": "gundam-en.json",
-          "version": 1,
-          "count": 80
+          "version": 2,
+          "count": 83
         }
       }
     },
@@ -136,6 +136,24 @@
           "file": "wow-en.json",
           "version": 1,
           "count": 59
+        }
+      }
+    },
+    "fab": {
+      "files": {
+        "en": {
+          "file": "fab-en.json",
+          "version": 1,
+          "count": 174
+        }
+      }
+    },
+    "sorcery": {
+      "files": {
+        "en": {
+          "file": "sorcery-en.json",
+          "version": 1,
+          "count": 20
         }
       }
     }
@@ -148,58 +166,68 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-24",
-      "count": 400
+      "date": "2026-11-25",
+      "count": 403
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-24",
-      "count": 3221
+      "date": "2026-11-25",
+      "count": 3227
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "count": 953
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-24",
-      "count": 159
+      "date": "2026-11-25",
+      "count": 160
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-24",
-      "count": 294
+      "date": "2026-11-25",
+      "count": 295
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "count": 73
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-24",
-      "count": 18
+      "date": "2026-11-25",
+      "count": 19
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "count": 36
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-24",
-      "count": 104
+      "date": "2026-11-25",
+      "count": 106
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "count": 26
+    },
+    "fab": {
+      "file": "prices-fab.json",
+      "date": "2026-11-25",
+      "count": 214
+    },
+    "sorcery": {
+      "file": "prices-sorcery.json",
+      "date": "2026-11-25",
+      "count": 24
     }
   }
 }

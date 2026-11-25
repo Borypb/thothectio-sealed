@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "game": "sorcery",
+  "lang": "en",
+  "products": [
+    {
+      "id": "sor-en-tcp722928",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "Frost Mage vs Lavamancer Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g24902"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722928_200w.jpg",
+      "source": {
+        "tcgplayer": 722928
+      }
+    },
+    {
+      "id": "sor-en-tcp656589",
+      "game": "sorcery",
+      "kind": "deck",
+      "name": "Prophets of Doom Preconstructed Decks",
+      "lang": "en",
+      "setIds": [
+        "sor-g24471"
+      ],
+      "releasedAt": "2025-12-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656589_200w.jpg",
+      "source": {
+        "tcgplayer": 656589
+      }
+    },
+    {
+      "id": "sor-en-tcp656590",
+      "game": "sorcery",
+      "kind": "booster",
+      "name": "Gothic Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "sor-g24471"
+      ],
+      "releasedAt": "2025-12-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656590_200w.jpg",
+      "source": {
+        "tcgplayer": 656590
+      }
+    },
+    {
+      "id": "sor-en-tcp656591",
+      "game": "sorcery",
+      "kind": "booster_box",
+      "name": "Gothic Booster Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g24471"
+      ],
+      "releasedAt": "2025-12-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656591_200w.jpg",
+      "source": {
+        "tcgplayer": 656591
+      }
+    },
+    {
+      "id": "sor-en-tcp641955",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "Dragonlord Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g24378"
+      ],
+      "releasedAt": "2025-08-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641955_200w.jpg",
+      "source": {
+        "tcgplayer": 641955
+      }
+    },
+    {
+      "id": "sor-en-tcp563830",
+      "game": "sorcery",
+      "kind": "booster_box",
+      "name": "Arthurian Legends Booster Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g23588"
+      ],
+      "releasedAt": "2024-10-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/563830_200w.jpg",
+      "source": {
+        "tcgplayer": 563830
+      }
+    },
+    {
+      "id": "sor-en-tcp563832",
+      "game": "sorcery",
+      "kind": "booster",
+      "name": "Arthurian Legends Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "sor-g23588"
+      ],
+      "releasedAt": "2024-10-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/563832_200w.jpg",
+      "source": {
+        "tcgplayer": 563832
+      }
+    },
+    {
+      "id": "sor-en-tcp585315",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "Lance (Box Topper)",
+      "lang": "en",
+      "setIds": [
+        "sor-g23588"
+      ],
+      "releasedAt": "2024-10-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585315_200w.jpg",
+      "source": {
+        "tcgplayer": 585315
+      }
+    },
+    {
+      "id": "sor-en-tcp585474",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "Stealth (Box Topper)",
+      "lang": "en",
+      "setIds": [
+        "sor-g23588"
+      ],
+      "releasedAt": "2024-10-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585474_200w.jpg",
+      "source": {
+        "tcgplayer": 585474
+      }
+    },
+    {
+      "id": "sor-en-tcp522758",
+      "game": "sorcery",
+      "kind": "booster",
+      "name": "Beta - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "sor-g23336"
+      ],
+      "releasedAt": "2023-11-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/522758_200w.jpg",
+      "source": {
+        "tcgplayer": 522758
+      }
+    },
+    {
+      "id": "sor-en-tcp522759",
+      "game": "sorcery",
+      "kind": "booster_box",
+      "name": "Beta - Booster Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g23336"
+      ],
+      "releasedAt": "2023-11-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/522759_200w.jpg",
+      "source": {
+        "tcgplayer": 522759
+      }
+    },
+    {
+      "id": "sor-en-tcp522783",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "The Four Elementals Preconstructed Deck Box (Beta)",
+      "lang": "en",
+      "setIds": [
+        "sor-g23336"
+      ],
+      "releasedAt": "2023-11-10",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/522783_200w.jpg",
+      "source": {
+        "tcgplayer": 522783
+      }
+    },
+    {
+      "id": "sor-en-tcp521505",
+      "game": "sorcery",
+      "kind": "deck",
+      "name": "The Four Elementals Preconstructed Deck: Air",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521505_200w.jpg",
+      "source": {
+        "tcgplayer": 521505
+      }
+    },
+    {
+      "id": "sor-en-tcp521506",
+      "game": "sorcery",
+      "kind": "deck",
+      "name": "The Four Elementals Preconstructed Deck: Earth",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521506_200w.jpg",
+      "source": {
+        "tcgplayer": 521506
+      }
+    },
+    {
+      "id": "sor-en-tcp521508",
+      "game": "sorcery",
+      "kind": "deck",
+      "name": "The Four Elementals Preconstructed Deck: Fire",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521508_200w.jpg",
+      "source": {
+        "tcgplayer": 521508
+      }
+    },
+    {
+      "id": "sor-en-tcp521509",
+      "game": "sorcery",
+      "kind": "deck",
+      "name": "The Four Elementals Preconstructed Deck: Water",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521509_200w.jpg",
+      "source": {
+        "tcgplayer": 521509
+      }
+    },
+    {
+      "id": "sor-en-tcp521577",
+      "game": "sorcery",
+      "kind": "collection",
+      "name": "The Four Elementals Preconstructed Deck Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521577_200w.jpg",
+      "source": {
+        "tcgplayer": 521577
+      }
+    },
+    {
+      "id": "sor-en-tcp521581",
+      "game": "sorcery",
+      "kind": "booster_box",
+      "name": "Alpha - Booster Box",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521581_200w.jpg",
+      "source": {
+        "tcgplayer": 521581
+      }
+    },
+    {
+      "id": "sor-en-tcp521583",
+      "game": "sorcery",
+      "kind": "booster",
+      "name": "Alpha - Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/521583_200w.jpg",
+      "source": {
+        "tcgplayer": 521583
+      }
+    },
+    {
+      "id": "sor-en-tcp522617",
+      "game": "sorcery",
+      "kind": "booster",
+      "name": "Sorcery: Contested Realm - Pledge Pack",
+      "lang": "en",
+      "setIds": [
+        "sor-g23335"
+      ],
+      "releasedAt": "2023-10-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/522617_200w.jpg",
+      "source": {
+        "tcgplayer": 522617
+      }
+    }
+  ]
+}

@@ -1,0 +1,2617 @@
+{
+  "version": 1,
+  "game": "fab",
+  "lang": "en",
+  "products": [
+    {
+      "id": "fab-en-tcp735074",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Mastery Pack Brute Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24940"
+      ],
+      "releasedAt": "2027-04-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735074_200w.jpg",
+      "source": {
+        "tcgplayer": 735074
+      }
+    },
+    {
+      "id": "fab-en-tcp735076",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Mastery Pack Brute Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24940"
+      ],
+      "releasedAt": "2027-04-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735076_200w.jpg",
+      "source": {
+        "tcgplayer": 735076
+      }
+    },
+    {
+      "id": "fab-en-tcp723448",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Outbreak Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24914"
+      ],
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723448_200w.jpg",
+      "source": {
+        "tcgplayer": 723448
+      }
+    },
+    {
+      "id": "fab-en-tcp723449",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Outbreak Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24914"
+      ],
+      "releasedAt": "2027-02-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723449_200w.jpg",
+      "source": {
+        "tcgplayer": 723449
+      }
+    },
+    {
+      "id": "fab-en-tcp723443",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Min",
+      "lang": "en",
+      "setIds": [
+        "fab-g24913"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723443_200w.jpg",
+      "source": {
+        "tcgplayer": 723443
+      }
+    },
+    {
+      "id": "fab-en-tcp723452",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age: Outbreak Deck - Mortimer, Living Virus",
+      "lang": "en",
+      "setIds": [
+        "fab-g24915"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723452_200w.jpg",
+      "source": {
+        "tcgplayer": 723452
+      }
+    },
+    {
+      "id": "fab-en-tcp723453",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age: Outbreak Deck - A-01, First Cogwarden",
+      "lang": "en",
+      "setIds": [
+        "fab-g24915"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723453_200w.jpg",
+      "source": {
+        "tcgplayer": 723453
+      }
+    },
+    {
+      "id": "fab-en-tcp723455",
+      "game": "fab",
+      "kind": "build_battle",
+      "name": "Outbreak Pre-release Kit",
+      "lang": "en",
+      "setIds": [
+        "fab-g24916"
+      ],
+      "releasedAt": "2027-02-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723455_200w.jpg",
+      "source": {
+        "tcgplayer": 723455
+      }
+    },
+    {
+      "id": "fab-en-tcp711011",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Dr. Mortimer",
+      "lang": "en",
+      "setIds": [
+        "fab-g24814"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711011_200w.jpg",
+      "source": {
+        "tcgplayer": 711011
+      }
+    },
+    {
+      "id": "fab-en-tcp711354",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Mastery Pack Assassin Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24818"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711354_200w.jpg",
+      "source": {
+        "tcgplayer": 711354
+      }
+    },
+    {
+      "id": "fab-en-tcp711356",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Mastery Pack Assassin Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24818"
+      ],
+      "releasedAt": "2026-11-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711356_200w.jpg",
+      "source": {
+        "tcgplayer": 711356
+      }
+    },
+    {
+      "id": "fab-en-tcp709988",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Smash Palace: Chorus of Steel Box Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g24773"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709988_200w.jpg",
+      "source": {
+        "tcgplayer": 709988
+      }
+    },
+    {
+      "id": "fab-en-tcp710111",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Smash Palace: Chorus of Steel Event Deck",
+      "lang": "en",
+      "setIds": [
+        "fab-g24773"
+      ],
+      "releasedAt": "2026-10-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710111_200w.jpg",
+      "source": {
+        "tcgplayer": 710111
+      }
+    },
+    {
+      "id": "fab-en-tcp705069",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Usurp the Shadow Throne Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24762"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705069_200w.jpg",
+      "source": {
+        "tcgplayer": 705069
+      }
+    },
+    {
+      "id": "fab-en-tcp705070",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Usurp the Shadow Throne Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24762"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705070_200w.jpg",
+      "source": {
+        "tcgplayer": 705070
+      }
+    },
+    {
+      "id": "fab-en-tcp719683",
+      "game": "fab",
+      "kind": "booster",
+      "name": "GEM Pack 6 Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24774"
+      ],
+      "releasedAt": "2026-09-25",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/719683_200w.jpg",
+      "source": {
+        "tcgplayer": 719683
+      }
+    },
+    {
+      "id": "fab-en-tcp705075",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Malice",
+      "lang": "en",
+      "setIds": [
+        "fab-g24763"
+      ],
+      "releasedAt": "2026-09-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705075_200w.jpg",
+      "source": {
+        "tcgplayer": 705075
+      }
+    },
+    {
+      "id": "fab-en-tcp705077",
+      "game": "fab",
+      "kind": "build_battle",
+      "name": "Usurp the Shadow Throne Pre-release Kit",
+      "lang": "en",
+      "setIds": [
+        "fab-g24776"
+      ],
+      "releasedAt": "2026-09-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705077_200w.jpg",
+      "source": {
+        "tcgplayer": 705077
+      }
+    },
+    {
+      "id": "fab-en-tcp706588",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age: Usurp the Shadow Throne Deck - Prism Advent of Thrones",
+      "lang": "en",
+      "setIds": [
+        "fab-g24764"
+      ],
+      "releasedAt": "2026-09-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706588_200w.jpg",
+      "source": {
+        "tcgplayer": 706588
+      }
+    },
+    {
+      "id": "fab-en-tcp706589",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age: Usurp the Shadow Throne Deck - Viserai Between Worlds",
+      "lang": "en",
+      "setIds": [
+        "fab-g24764"
+      ],
+      "releasedAt": "2026-09-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/706589_200w.jpg",
+      "source": {
+        "tcgplayer": 706589
+      }
+    },
+    {
+      "id": "fab-en-tcp690417",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Olympia",
+      "lang": "en",
+      "setIds": [
+        "fab-g24672"
+      ],
+      "releasedAt": "2026-08-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690417_200w.jpg",
+      "source": {
+        "tcgplayer": 690417
+      }
+    },
+    {
+      "id": "fab-en-tcp690470",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Mastery Pack Warrior Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24671"
+      ],
+      "releasedAt": "2026-08-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690470_200w.jpg",
+      "source": {
+        "tcgplayer": 690470
+      }
+    },
+    {
+      "id": "fab-en-tcp690471",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Mastery Pack Warrior Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24671"
+      ],
+      "releasedAt": "2026-08-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690471_200w.jpg",
+      "source": {
+        "tcgplayer": 690471
+      }
+    },
+    {
+      "id": "fab-en-tcp682812",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Omens of the Third Age Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24640"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682812_200w.jpg",
+      "source": {
+        "tcgplayer": 682812
+      }
+    },
+    {
+      "id": "fab-en-tcp682814",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Omens of the Third Age Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24640"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682814_200w.jpg",
+      "source": {
+        "tcgplayer": 682814
+      }
+    },
+    {
+      "id": "fab-en-tcp682817",
+      "game": "fab",
+      "kind": "build_battle",
+      "name": "Omens of the Third Age Pre-release Kit",
+      "lang": "en",
+      "setIds": [
+        "fab-g24640"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682817_200w.jpg",
+      "source": {
+        "tcgplayer": 682817
+      }
+    },
+    {
+      "id": "fab-en-tcp694833",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 3 Deck - Blaze Firemind (Wizard)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24706"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694833_200w.jpg",
+      "source": {
+        "tcgplayer": 694833
+      }
+    },
+    {
+      "id": "fab-en-tcp694834",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 3 Deck - Boltyn (Light Warrior)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24706"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694834_200w.jpg",
+      "source": {
+        "tcgplayer": 694834
+      }
+    },
+    {
+      "id": "fab-en-tcp694835",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 3 Deck - Briar (Elemental Runeblade)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24706"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694835_200w.jpg",
+      "source": {
+        "tcgplayer": 694835
+      }
+    },
+    {
+      "id": "fab-en-tcp694836",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 3 Deck - Gravy Bones (Pirate Necromancer)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24706"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694836_200w.jpg",
+      "source": {
+        "tcgplayer": 694836
+      }
+    },
+    {
+      "id": "fab-en-tcp694837",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 3 Deck - Lyath Goldmane (Reviled Guardian)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24706"
+      ],
+      "releasedAt": "2026-06-05",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694837_200w.jpg",
+      "source": {
+        "tcgplayer": 694837
+      }
+    },
+    {
+      "id": "fab-en-tcp682782",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Zyggy",
+      "lang": "en",
+      "setIds": [
+        "fab-g24639"
+      ],
+      "releasedAt": "2026-05-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682782_200w.jpg",
+      "source": {
+        "tcgplayer": 682782
+      }
+    },
+    {
+      "id": "fab-en-tcp677329",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck Origins: Hala",
+      "lang": "en",
+      "setIds": [
+        "fab-g24610"
+      ],
+      "releasedAt": "2026-04-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677329_200w.jpg",
+      "source": {
+        "tcgplayer": 677329
+      }
+    },
+    {
+      "id": "fab-en-tcp662578",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 1 Deck - Kayo (Brute)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24524"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662578_200w.jpg",
+      "source": {
+        "tcgplayer": 662578
+      }
+    },
+    {
+      "id": "fab-en-tcp662579",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 1 Deck - Iyslander (Elemental Wizard)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24524"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662579_200w.jpg",
+      "source": {
+        "tcgplayer": 662579
+      }
+    },
+    {
+      "id": "fab-en-tcp662580",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 1 Deck - Viserai (Runeblade)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24524"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662580_200w.jpg",
+      "source": {
+        "tcgplayer": 662580
+      }
+    },
+    {
+      "id": "fab-en-tcp662582",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 1 Deck - Dash (Mechanologist)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24524"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662582_200w.jpg",
+      "source": {
+        "tcgplayer": 662582
+      }
+    },
+    {
+      "id": "fab-en-tcp662583",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 1 Deck - Bravo, Flattering Showman (Guardian)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24524"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662583_200w.jpg",
+      "source": {
+        "tcgplayer": 662583
+      }
+    },
+    {
+      "id": "fab-en-tcp662584",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 2 Deck - Azalea (Ranger)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24525"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662584_200w.jpg",
+      "source": {
+        "tcgplayer": 662584
+      }
+    },
+    {
+      "id": "fab-en-tcp662585",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 2 Deck - Dorinthea (Warrior)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24525"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662585_200w.jpg",
+      "source": {
+        "tcgplayer": 662585
+      }
+    },
+    {
+      "id": "fab-en-tcp662587",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 2 Deck - Fai (Draconic Ninja)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24525"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662587_200w.jpg",
+      "source": {
+        "tcgplayer": 662587
+      }
+    },
+    {
+      "id": "fab-en-tcp662588",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 2 Deck - Enigma (Mystic Illusionist)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24525"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662588_200w.jpg",
+      "source": {
+        "tcgplayer": 662588
+      }
+    },
+    {
+      "id": "fab-en-tcp662589",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Silver Age Chapter 2 Deck - Arakni, Web of Deceit (Chaos Assassin)",
+      "lang": "en",
+      "setIds": [
+        "fab-g24525"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662589_200w.jpg",
+      "source": {
+        "tcgplayer": 662589
+      }
+    },
+    {
+      "id": "fab-en-tcp664844",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Compendium of Rathe Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24532"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664844_200w.jpg",
+      "source": {
+        "tcgplayer": 664844
+      }
+    },
+    {
+      "id": "fab-en-tcp664845",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Compendium of Rathe Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24532"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664845_200w.jpg",
+      "source": {
+        "tcgplayer": 664845
+      }
+    },
+    {
+      "id": "fab-en-tcp664848",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Compendium of Rathe - Antiquity Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24533"
+      ],
+      "releasedAt": "2026-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664848_200w.jpg",
+      "source": {
+        "tcgplayer": 664848
+      }
+    },
+    {
+      "id": "fab-en-tcp662600",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Arakni",
+      "lang": "en",
+      "setIds": [
+        "fab-g24526"
+      ],
+      "releasedAt": "2025-12-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662600_200w.jpg",
+      "source": {
+        "tcgplayer": 662600
+      }
+    },
+    {
+      "id": "fab-en-tcp656946",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Rhinar",
+      "lang": "en",
+      "setIds": [
+        "fab-g24474"
+      ],
+      "releasedAt": "2025-11-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656946_200w.jpg",
+      "source": {
+        "tcgplayer": 656946
+      }
+    },
+    {
+      "id": "fab-en-tcp656627",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Gem Pack 3 Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24446"
+      ],
+      "releasedAt": "2025-09-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/656627_200w.jpg",
+      "source": {
+        "tcgplayer": 656627
+      }
+    },
+    {
+      "id": "fab-en-tcp641710",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Super Slam Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24371"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641710_200w.jpg",
+      "source": {
+        "tcgplayer": 641710
+      }
+    },
+    {
+      "id": "fab-en-tcp649648",
+      "game": "fab",
+      "kind": "build_battle",
+      "name": "Super Slam Pre-release Kit",
+      "lang": "en",
+      "setIds": [
+        "fab-g24371"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649648_200w.jpg",
+      "source": {
+        "tcgplayer": 649648
+      }
+    },
+    {
+      "id": "fab-en-tcp651133",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Super Slam Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24371"
+      ],
+      "releasedAt": "2025-09-26",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651133_200w.jpg",
+      "source": {
+        "tcgplayer": 651133
+      }
+    },
+    {
+      "id": "fab-en-tcp641715",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Pleiades",
+      "lang": "en",
+      "setIds": [
+        "fab-g24375"
+      ],
+      "releasedAt": "2025-09-19",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641715_200w.jpg",
+      "source": {
+        "tcgplayer": 641715
+      }
+    },
+    {
+      "id": "fab-en-tcp631084",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Mastery Pack Guardian Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24330"
+      ],
+      "releasedAt": "2025-08-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631084_200w.jpg",
+      "source": {
+        "tcgplayer": 631084
+      }
+    },
+    {
+      "id": "fab-en-tcp631086",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Mastery Pack Guardian Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24330"
+      ],
+      "releasedAt": "2025-08-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631086_200w.jpg",
+      "source": {
+        "tcgplayer": 631086
+      }
+    },
+    {
+      "id": "fab-en-tcp648060",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Smash Palace Box Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g24415"
+      ],
+      "releasedAt": "2025-08-08",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648060_200w.jpg",
+      "source": {
+        "tcgplayer": 648060
+      }
+    },
+    {
+      "id": "fab-en-tcp648124",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Legends Prism",
+      "lang": "en",
+      "setIds": [
+        "fab-g24417"
+      ],
+      "releasedAt": "2025-08-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648124_200w.jpg",
+      "source": {
+        "tcgplayer": 648124
+      }
+    },
+    {
+      "id": "fab-en-tcp648133",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Legends Viserai",
+      "lang": "en",
+      "setIds": [
+        "fab-g24416"
+      ],
+      "releasedAt": "2025-08-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648133_200w.jpg",
+      "source": {
+        "tcgplayer": 648133
+      }
+    },
+    {
+      "id": "fab-en-tcp629763",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Ira",
+      "lang": "en",
+      "setIds": [
+        "fab-g24315"
+      ],
+      "releasedAt": "2025-07-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629763_200w.jpg",
+      "source": {
+        "tcgplayer": 629763
+      }
+    },
+    {
+      "id": "fab-en-tcp624348",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "High Seas Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g24266"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/624348_200w.jpg",
+      "source": {
+        "tcgplayer": 624348
+      }
+    },
+    {
+      "id": "fab-en-tcp624349",
+      "game": "fab",
+      "kind": "booster",
+      "name": "High Seas Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g24266"
+      ],
+      "releasedAt": "2025-06-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/624349_200w.jpg",
+      "source": {
+        "tcgplayer": 624349
+      }
+    },
+    {
+      "id": "fab-en-tcp624355",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Gravy Bones",
+      "lang": "en",
+      "setIds": [
+        "fab-g24268"
+      ],
+      "releasedAt": "2025-05-30",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/624355_200w.jpg",
+      "source": {
+        "tcgplayer": 624355
+      }
+    },
+    {
+      "id": "fab-en-tcp622768",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Maxx Nitro",
+      "lang": "en",
+      "setIds": [
+        "fab-g24253"
+      ],
+      "releasedAt": "2025-04-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/622768_200w.jpg",
+      "source": {
+        "tcgplayer": 622768
+      }
+    },
+    {
+      "id": "fab-en-tcp614361",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Aurora",
+      "lang": "en",
+      "setIds": [
+        "fab-g24162"
+      ],
+      "releasedAt": "2025-03-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614361_200w.jpg",
+      "source": {
+        "tcgplayer": 614361
+      }
+    },
+    {
+      "id": "fab-en-tcp591274",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "The Hunted Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23815"
+      ],
+      "releasedAt": "2025-01-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591274_200w.jpg",
+      "source": {
+        "tcgplayer": 591274
+      }
+    },
+    {
+      "id": "fab-en-tcp591297",
+      "game": "fab",
+      "kind": "booster",
+      "name": "The Hunted Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23815"
+      ],
+      "releasedAt": "2025-01-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591297_200w.jpg",
+      "source": {
+        "tcgplayer": 591297
+      }
+    },
+    {
+      "id": "fab-en-tcp591299",
+      "game": "fab",
+      "kind": "collection",
+      "name": "The Hunted Blitz Deck Collection Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23815"
+      ],
+      "releasedAt": "2025-01-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/591299_200w.jpg",
+      "source": {
+        "tcgplayer": 591299
+      }
+    },
+    {
+      "id": "fab-en-tcp587210",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Jarl Vetreidi",
+      "lang": "en",
+      "setIds": [
+        "fab-g23771"
+      ],
+      "releasedAt": "2024-11-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/587210_200w.jpg",
+      "source": {
+        "tcgplayer": 587210
+      }
+    },
+    {
+      "id": "fab-en-tcp576967",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Dash",
+      "lang": "en",
+      "setIds": [
+        "fab-g23738"
+      ],
+      "releasedAt": "2024-10-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576967_200w.jpg",
+      "source": {
+        "tcgplayer": 576967
+      }
+    },
+    {
+      "id": "fab-en-tcp555706",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Rosetta Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23540"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555706_200w.jpg",
+      "source": {
+        "tcgplayer": 555706
+      }
+    },
+    {
+      "id": "fab-en-tcp555708",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Rosetta Blitz Deck Collection Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23540"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555708_200w.jpg",
+      "source": {
+        "tcgplayer": 555708
+      }
+    },
+    {
+      "id": "fab-en-tcp557336",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Rosetta Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23540"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/557336_200w.jpg",
+      "source": {
+        "tcgplayer": 557336
+      }
+    },
+    {
+      "id": "fab-en-tcp586040",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Rosetta Blitz Deck - Aurora",
+      "lang": "en",
+      "setIds": [
+        "fab-g23742"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586040_200w.jpg",
+      "source": {
+        "tcgplayer": 586040
+      }
+    },
+    {
+      "id": "fab-en-tcp586041",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Rosetta Blitz Deck - Florian",
+      "lang": "en",
+      "setIds": [
+        "fab-g23741"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586041_200w.jpg",
+      "source": {
+        "tcgplayer": 586041
+      }
+    },
+    {
+      "id": "fab-en-tcp586042",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Rosetta Blitz Deck - Oscilio",
+      "lang": "en",
+      "setIds": [
+        "fab-g23744"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586042_200w.jpg",
+      "source": {
+        "tcgplayer": 586042
+      }
+    },
+    {
+      "id": "fab-en-tcp586043",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Rosetta Blitz Deck - Verdance",
+      "lang": "en",
+      "setIds": [
+        "fab-g23745"
+      ],
+      "releasedAt": "2024-09-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586043_200w.jpg",
+      "source": {
+        "tcgplayer": 586043
+      }
+    },
+    {
+      "id": "fab-en-tcp557180",
+      "game": "fab",
+      "kind": "deck",
+      "name": "1st Strike Blitz Deck - Aurora",
+      "lang": "en",
+      "setIds": [
+        "fab-g23548"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/557180_200w.jpg",
+      "source": {
+        "tcgplayer": 557180
+      }
+    },
+    {
+      "id": "fab-en-tcp557181",
+      "game": "fab",
+      "kind": "deck",
+      "name": "1st Strike Blitz Deck - Terra",
+      "lang": "en",
+      "setIds": [
+        "fab-g23548"
+      ],
+      "releasedAt": "2024-08-23",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/557181_200w.jpg",
+      "source": {
+        "tcgplayer": 557181
+      }
+    },
+    {
+      "id": "fab-en-tcp558192",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Azalea",
+      "lang": "en",
+      "setIds": [
+        "fab-g23558"
+      ],
+      "releasedAt": "2024-08-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/558192_200w.jpg",
+      "source": {
+        "tcgplayer": 558192
+      }
+    },
+    {
+      "id": "fab-en-tcp555205",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Boltyn",
+      "lang": "en",
+      "setIds": [
+        "fab-g23534"
+      ],
+      "releasedAt": "2024-07-12",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555205_200w.jpg",
+      "source": {
+        "tcgplayer": 555205
+      }
+    },
+    {
+      "id": "fab-en-tcp543922",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Part the Mistveil Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23476"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543922_200w.jpg",
+      "source": {
+        "tcgplayer": 543922
+      }
+    },
+    {
+      "id": "fab-en-tcp543925",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Part the Mistveil Blitz Deck - Enigma",
+      "lang": "en",
+      "setIds": [
+        "fab-g23477"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543925_200w.jpg",
+      "source": {
+        "tcgplayer": 543925
+      }
+    },
+    {
+      "id": "fab-en-tcp543926",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Part the Mistveil Blitz Deck - Nuu",
+      "lang": "en",
+      "setIds": [
+        "fab-g23478"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543926_200w.jpg",
+      "source": {
+        "tcgplayer": 543926
+      }
+    },
+    {
+      "id": "fab-en-tcp543927",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Part the Mistveil Blitz Deck - Zen",
+      "lang": "en",
+      "setIds": [
+        "fab-g23479"
+      ],
+      "releasedAt": "2024-05-31",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543927_200w.jpg",
+      "source": {
+        "tcgplayer": 543927
+      }
+    },
+    {
+      "id": "fab-en-tcp543923",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Part the Mistveil Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23476"
+      ],
+      "releasedAt": "2024-05-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543923_200w.jpg",
+      "source": {
+        "tcgplayer": 543923
+      }
+    },
+    {
+      "id": "fab-en-tcp543924",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Part the Mistveil Collection Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23476"
+      ],
+      "releasedAt": "2024-05-17",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/543924_200w.jpg",
+      "source": {
+        "tcgplayer": 543924
+      }
+    },
+    {
+      "id": "fab-en-tcp547761",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Armory Deck: Kayo",
+      "lang": "en",
+      "setIds": [
+        "fab-g23506"
+      ],
+      "releasedAt": "2024-05-03",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547761_200w.jpg",
+      "source": {
+        "tcgplayer": 547761
+      }
+    },
+    {
+      "id": "fab-en-tcp528085",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Heavy Hitters Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23354"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528085_200w.jpg",
+      "source": {
+        "tcgplayer": 528085
+      }
+    },
+    {
+      "id": "fab-en-tcp528086",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Heavy Hitters Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23354"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528086_200w.jpg",
+      "source": {
+        "tcgplayer": 528086
+      }
+    },
+    {
+      "id": "fab-en-tcp531963",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Kassai",
+      "lang": "en",
+      "setIds": [
+        "fab-g23384"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/531963_200w.jpg",
+      "source": {
+        "tcgplayer": 531963
+      }
+    },
+    {
+      "id": "fab-en-tcp532117",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Kayo",
+      "lang": "en",
+      "setIds": [
+        "fab-g23388"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/532117_200w.jpg",
+      "source": {
+        "tcgplayer": 532117
+      }
+    },
+    {
+      "id": "fab-en-tcp532118",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Rhinar",
+      "lang": "en",
+      "setIds": [
+        "fab-g23389"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/532118_200w.jpg",
+      "source": {
+        "tcgplayer": 532118
+      }
+    },
+    {
+      "id": "fab-en-tcp532119",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Betsy",
+      "lang": "en",
+      "setIds": [
+        "fab-g23390"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/532119_200w.jpg",
+      "source": {
+        "tcgplayer": 532119
+      }
+    },
+    {
+      "id": "fab-en-tcp532120",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Olympia",
+      "lang": "en",
+      "setIds": [
+        "fab-g23391"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/532120_200w.jpg",
+      "source": {
+        "tcgplayer": 532120
+      }
+    },
+    {
+      "id": "fab-en-tcp532121",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Heavy Hitters Blitz Deck - Victor",
+      "lang": "en",
+      "setIds": [
+        "fab-g23392"
+      ],
+      "releasedAt": "2024-02-02",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/532121_200w.jpg",
+      "source": {
+        "tcgplayer": 532121
+      }
+    },
+    {
+      "id": "fab-en-tcp510029",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Bright Lights Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23277"
+      ],
+      "releasedAt": "2023-10-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510029_200w.jpg",
+      "source": {
+        "tcgplayer": 510029
+      }
+    },
+    {
+      "id": "fab-en-tcp510030",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Bright Lights Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23277"
+      ],
+      "releasedAt": "2023-10-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510030_200w.jpg",
+      "source": {
+        "tcgplayer": 510030
+      }
+    },
+    {
+      "id": "fab-en-tcp516503",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Round the Table: TCCxLSS Deck Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g23295"
+      ],
+      "releasedAt": "2023-09-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516503_200w.jpg",
+      "source": {
+        "tcgplayer": 516503
+      }
+    },
+    {
+      "id": "fab-en-tcp516504",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Round the Table Blitz Deck - The Professor",
+      "lang": "en",
+      "setIds": [
+        "fab-g23295"
+      ],
+      "releasedAt": "2023-09-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516504_200w.jpg",
+      "source": {
+        "tcgplayer": 516504
+      }
+    },
+    {
+      "id": "fab-en-tcp516505",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Round the Table Blitz Deck - Melody",
+      "lang": "en",
+      "setIds": [
+        "fab-g23295"
+      ],
+      "releasedAt": "2023-09-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516505_200w.jpg",
+      "source": {
+        "tcgplayer": 516505
+      }
+    },
+    {
+      "id": "fab-en-tcp516506",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Round the Table Blitz Deck - Brevant",
+      "lang": "en",
+      "setIds": [
+        "fab-g23295"
+      ],
+      "releasedAt": "2023-09-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516506_200w.jpg",
+      "source": {
+        "tcgplayer": 516506
+      }
+    },
+    {
+      "id": "fab-en-tcp516507",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Round the Table Blitz Deck - Ira",
+      "lang": "en",
+      "setIds": [
+        "fab-g23295"
+      ],
+      "releasedAt": "2023-09-29",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516507_200w.jpg",
+      "source": {
+        "tcgplayer": 516507
+      }
+    },
+    {
+      "id": "fab-en-tcp496434",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Dusk Till Dawn Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g23173"
+      ],
+      "releasedAt": "2023-07-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496434_200w.jpg",
+      "source": {
+        "tcgplayer": 496434
+      }
+    },
+    {
+      "id": "fab-en-tcp496438",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Dusk Till Dawn Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g23173"
+      ],
+      "releasedAt": "2023-07-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496438_200w.jpg",
+      "source": {
+        "tcgplayer": 496438
+      }
+    },
+    {
+      "id": "fab-en-tcp477233",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Outsiders Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g22893"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477233_200w.jpg",
+      "source": {
+        "tcgplayer": 477233
+      }
+    },
+    {
+      "id": "fab-en-tcp477234",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Outsiders Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g22893"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477234_200w.jpg",
+      "source": {
+        "tcgplayer": 477234
+      }
+    },
+    {
+      "id": "fab-en-tcp477988",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Arakni",
+      "lang": "en",
+      "setIds": [
+        "fab-g22898"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477988_200w.jpg",
+      "source": {
+        "tcgplayer": 477988
+      }
+    },
+    {
+      "id": "fab-en-tcp477989",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Azalea",
+      "lang": "en",
+      "setIds": [
+        "fab-g22899"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477989_200w.jpg",
+      "source": {
+        "tcgplayer": 477989
+      }
+    },
+    {
+      "id": "fab-en-tcp477990",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Benji",
+      "lang": "en",
+      "setIds": [
+        "fab-g22900"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477990_200w.jpg",
+      "source": {
+        "tcgplayer": 477990
+      }
+    },
+    {
+      "id": "fab-en-tcp477991",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Katsu",
+      "lang": "en",
+      "setIds": [
+        "fab-g22901"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477991_200w.jpg",
+      "source": {
+        "tcgplayer": 477991
+      }
+    },
+    {
+      "id": "fab-en-tcp477992",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Riptide",
+      "lang": "en",
+      "setIds": [
+        "fab-g22902"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477992_200w.jpg",
+      "source": {
+        "tcgplayer": 477992
+      }
+    },
+    {
+      "id": "fab-en-tcp477993",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Outsider Blitz Deck - Uzuri",
+      "lang": "en",
+      "setIds": [
+        "fab-g22903"
+      ],
+      "releasedAt": "2023-03-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/477993_200w.jpg",
+      "source": {
+        "tcgplayer": 477993
+      }
+    },
+    {
+      "id": "fab-en-tcp450341",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Dynasty Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g17678"
+      ],
+      "releasedAt": "2022-11-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450341_200w.jpg",
+      "source": {
+        "tcgplayer": 450341
+      }
+    },
+    {
+      "id": "fab-en-tcp450343",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Dynasty Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g17678"
+      ],
+      "releasedAt": "2022-11-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450343_200w.jpg",
+      "source": {
+        "tcgplayer": 450343
+      }
+    },
+    {
+      "id": "fab-en-tcp270480",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Uprising Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g3056"
+      ],
+      "releasedAt": "2022-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270480_200w.jpg",
+      "source": {
+        "tcgplayer": 270480
+      }
+    },
+    {
+      "id": "fab-en-tcp270482",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Uprising Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g3056"
+      ],
+      "releasedAt": "2022-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270482_200w.jpg",
+      "source": {
+        "tcgplayer": 270482
+      }
+    },
+    {
+      "id": "fab-en-tcp270509",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Uprising Blitz Deck - Dromai",
+      "lang": "en",
+      "setIds": [
+        "fab-g3060"
+      ],
+      "releasedAt": "2022-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270509_200w.jpg",
+      "source": {
+        "tcgplayer": 270509
+      }
+    },
+    {
+      "id": "fab-en-tcp270510",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Uprising Blitz Deck - Fai",
+      "lang": "en",
+      "setIds": [
+        "fab-g3059"
+      ],
+      "releasedAt": "2022-07-01",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270510_200w.jpg",
+      "source": {
+        "tcgplayer": 270510
+      }
+    },
+    {
+      "id": "fab-en-tcp270492",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Classic Battles: Rhinar vs. Dorinthea Box Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g3057"
+      ],
+      "releasedAt": "2022-05-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270492_200w.jpg",
+      "source": {
+        "tcgplayer": 270492
+      }
+    },
+    {
+      "id": "fab-en-tcp268764",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "History Pack Vol.1 Booster Box",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/268764_200w.jpg",
+      "source": {
+        "tcgplayer": 268764
+      }
+    },
+    {
+      "id": "fab-en-tcp268765",
+      "game": "fab",
+      "kind": "booster",
+      "name": "History Pack Vol.1 Booster Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/268765_200w.jpg",
+      "source": {
+        "tcgplayer": 268765
+      }
+    },
+    {
+      "id": "fab-en-tcp495222",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Historic Pack 1 Blitz Deck - Dorinthea",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495222_200w.jpg",
+      "source": {
+        "tcgplayer": 495222
+      }
+    },
+    {
+      "id": "fab-en-tcp495223",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Historic Pack 1 Blitz Deck - Bravo",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495223_200w.jpg",
+      "source": {
+        "tcgplayer": 495223
+      }
+    },
+    {
+      "id": "fab-en-tcp495224",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Historic Pack 1 Blitz Deck - Viserai",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495224_200w.jpg",
+      "source": {
+        "tcgplayer": 495224
+      }
+    },
+    {
+      "id": "fab-en-tcp495225",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Historic Pack 1 Blitz Deck - Rhinar",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495225_200w.jpg",
+      "source": {
+        "tcgplayer": 495225
+      }
+    },
+    {
+      "id": "fab-en-tcp495226",
+      "game": "fab",
+      "kind": "deck",
+      "name": "History Pack 1 Blitz Deck - Dash",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495226_200w.jpg",
+      "source": {
+        "tcgplayer": 495226
+      }
+    },
+    {
+      "id": "fab-en-tcp495227",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Historic Pack 1 Blitz Deck - Kano",
+      "lang": "en",
+      "setIds": [
+        "fab-g3053"
+      ],
+      "releasedAt": "2022-05-06",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/495227_200w.jpg",
+      "source": {
+        "tcgplayer": 495227
+      }
+    },
+    {
+      "id": "fab-en-tcp255919",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Everfest Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2947"
+      ],
+      "releasedAt": "2022-02-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255919_200w.jpg",
+      "source": {
+        "tcgplayer": 255919
+      }
+    },
+    {
+      "id": "fab-en-tcp255920",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Everfest Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2947"
+      ],
+      "releasedAt": "2022-02-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255920_200w.jpg",
+      "source": {
+        "tcgplayer": 255920
+      }
+    },
+    {
+      "id": "fab-en-tcp245203",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Tales of Aria Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2885"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/245203_200w.jpg",
+      "source": {
+        "tcgplayer": 245203
+      }
+    },
+    {
+      "id": "fab-en-tcp245204",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Tales of Aria Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2885"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/245204_200w.jpg",
+      "source": {
+        "tcgplayer": 245204
+      }
+    },
+    {
+      "id": "fab-en-tcp245209",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Tales of Aria Blitz Deck - Lexi",
+      "lang": "en",
+      "setIds": [
+        "fab-g3016"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/245209_200w.jpg",
+      "source": {
+        "tcgplayer": 245209
+      }
+    },
+    {
+      "id": "fab-en-tcp248242",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Tales of Aria Blitz Deck - Briar",
+      "lang": "en",
+      "setIds": [
+        "fab-g3018"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248242_200w.jpg",
+      "source": {
+        "tcgplayer": 248242
+      }
+    },
+    {
+      "id": "fab-en-tcp248244",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Tales of Aria Blitz Deck - Oldhim",
+      "lang": "en",
+      "setIds": [
+        "fab-g3017"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248244_200w.jpg",
+      "source": {
+        "tcgplayer": 248244
+      }
+    },
+    {
+      "id": "fab-en-tcp253571",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Tales of Aria Booster Pack [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2885"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253571_200w.jpg",
+      "source": {
+        "tcgplayer": 253571
+      }
+    },
+    {
+      "id": "fab-en-tcp253572",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Tales of Aria Booster Box [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2885"
+      ],
+      "releasedAt": "2021-09-24",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253572_200w.jpg",
+      "source": {
+        "tcgplayer": 253572
+      }
+    },
+    {
+      "id": "fab-en-tcp231041",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Monarch Booster Box [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2775"
+      ],
+      "releasedAt": "2021-06-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/231041_200w.jpg",
+      "source": {
+        "tcgplayer": 231041
+      }
+    },
+    {
+      "id": "fab-en-tcp231043",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Monarch Booster Pack [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2775"
+      ],
+      "releasedAt": "2021-06-04",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/231043_200w.jpg",
+      "source": {
+        "tcgplayer": 231043
+      }
+    },
+    {
+      "id": "fab-en-tcp237750",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Monarch Blitz Deck - Chane",
+      "lang": "en",
+      "setIds": [
+        "fab-g2820"
+      ],
+      "releasedAt": "2021-05-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/237750_200w.jpg",
+      "source": {
+        "tcgplayer": 237750
+      }
+    },
+    {
+      "id": "fab-en-tcp237755",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Monarch Blitz Deck - Levia",
+      "lang": "en",
+      "setIds": [
+        "fab-g2821"
+      ],
+      "releasedAt": "2021-05-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/237755_200w.jpg",
+      "source": {
+        "tcgplayer": 237755
+      }
+    },
+    {
+      "id": "fab-en-tcp237756",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Monarch Blitz Deck - Boltyn",
+      "lang": "en",
+      "setIds": [
+        "fab-g2819"
+      ],
+      "releasedAt": "2021-05-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/237756_200w.jpg",
+      "source": {
+        "tcgplayer": 237756
+      }
+    },
+    {
+      "id": "fab-en-tcp237758",
+      "game": "fab",
+      "kind": "deck",
+      "name": "Monarch Blitz Deck - Prism",
+      "lang": "en",
+      "setIds": [
+        "fab-g2818"
+      ],
+      "releasedAt": "2021-05-14",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/237758_200w.jpg",
+      "source": {
+        "tcgplayer": 237758
+      }
+    },
+    {
+      "id": "fab-en-tcp231038",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Monarch Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2775"
+      ],
+      "releasedAt": "2021-05-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/231038_200w.jpg",
+      "source": {
+        "tcgplayer": 231038
+      }
+    },
+    {
+      "id": "fab-en-tcp231040",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Monarch Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2775"
+      ],
+      "releasedAt": "2021-05-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/231040_200w.jpg",
+      "source": {
+        "tcgplayer": 231040
+      }
+    },
+    {
+      "id": "fab-en-tcp224730",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Arcane Rising Booster Box [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2725"
+      ],
+      "releasedAt": "2020-11-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224730_200w.jpg",
+      "source": {
+        "tcgplayer": 224730
+      }
+    },
+    {
+      "id": "fab-en-tcp224731",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Arcane Rising Booster Pack [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2725"
+      ],
+      "releasedAt": "2020-11-20",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224731_200w.jpg",
+      "source": {
+        "tcgplayer": 224731
+      }
+    },
+    {
+      "id": "fab-en-tcp224724",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Crucible of War Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2724"
+      ],
+      "releasedAt": "2020-08-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224724_200w.jpg",
+      "source": {
+        "tcgplayer": 224724
+      }
+    },
+    {
+      "id": "fab-en-tcp224725",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Crucible of War Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2724"
+      ],
+      "releasedAt": "2020-08-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224725_200w.jpg",
+      "source": {
+        "tcgplayer": 224725
+      }
+    },
+    {
+      "id": "fab-en-tcp245615",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Crucible of War Booster Box [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2724"
+      ],
+      "releasedAt": "2020-08-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/245615_200w.jpg",
+      "source": {
+        "tcgplayer": 245615
+      }
+    },
+    {
+      "id": "fab-en-tcp245617",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Crucible of War Booster Pack [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2724"
+      ],
+      "releasedAt": "2020-08-28",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/245617_200w.jpg",
+      "source": {
+        "tcgplayer": 245617
+      }
+    },
+    {
+      "id": "fab-en-tcp224721",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Arcane Rising Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2725"
+      ],
+      "releasedAt": "2020-03-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224721_200w.jpg",
+      "source": {
+        "tcgplayer": 224721
+      }
+    },
+    {
+      "id": "fab-en-tcp224722",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Arcane Rising Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2725"
+      ],
+      "releasedAt": "2020-03-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224722_200w.jpg",
+      "source": {
+        "tcgplayer": 224722
+      }
+    },
+    {
+      "id": "fab-en-tcp224712",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Welcome to Rathe Booster Box [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2726"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224712_200w.jpg",
+      "source": {
+        "tcgplayer": 224712
+      }
+    },
+    {
+      "id": "fab-en-tcp224713",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Welcome to Rathe Booster Pack [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2726"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224713_200w.jpg",
+      "source": {
+        "tcgplayer": 224713
+      }
+    },
+    {
+      "id": "fab-en-tcp224716",
+      "game": "fab",
+      "kind": "other",
+      "name": "Hero Decks: Welcome to Rathe - Bravo [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2728"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224716_200w.jpg",
+      "source": {
+        "tcgplayer": 224716
+      }
+    },
+    {
+      "id": "fab-en-tcp224717",
+      "game": "fab",
+      "kind": "other",
+      "name": "Hero Decks: Welcome to Rathe - Dorinthea [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2731"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224717_200w.jpg",
+      "source": {
+        "tcgplayer": 224717
+      }
+    },
+    {
+      "id": "fab-en-tcp224718",
+      "game": "fab",
+      "kind": "other",
+      "name": "Hero Decks: Welcome to Rathe - Katsu [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2730"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224718_200w.jpg",
+      "source": {
+        "tcgplayer": 224718
+      }
+    },
+    {
+      "id": "fab-en-tcp224719",
+      "game": "fab",
+      "kind": "other",
+      "name": "Hero Decks: Welcome to Rathe - Rhinar [1st Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2729"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224719_200w.jpg",
+      "source": {
+        "tcgplayer": 224719
+      }
+    },
+    {
+      "id": "fab-en-tcp224727",
+      "game": "fab",
+      "kind": "booster_box",
+      "name": "Welcome to Rathe Booster Box [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2726"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224727_200w.jpg",
+      "source": {
+        "tcgplayer": 224727
+      }
+    },
+    {
+      "id": "fab-en-tcp224728",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Welcome to Rathe Booster Pack [Unlimited Edition]",
+      "lang": "en",
+      "setIds": [
+        "fab-g2726"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/224728_200w.jpg",
+      "source": {
+        "tcgplayer": 224728
+      }
+    },
+    {
+      "id": "fab-en-tcp252744",
+      "game": "fab",
+      "kind": "collection",
+      "name": "Second Anniversary Kit - Alpha Investments",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/252744_200w.jpg",
+      "source": {
+        "tcgplayer": 252744
+      }
+    },
+    {
+      "id": "fab-en-tcp502046",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 1",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/502046_200w.jpg",
+      "source": {
+        "tcgplayer": 502046
+      }
+    },
+    {
+      "id": "fab-en-tcp524398",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 2",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/524398_200w.jpg",
+      "source": {
+        "tcgplayer": 524398
+      }
+    },
+    {
+      "id": "fab-en-tcp538691",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 3",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538691_200w.jpg",
+      "source": {
+        "tcgplayer": 538691
+      }
+    },
+    {
+      "id": "fab-en-tcp538692",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 4",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538692_200w.jpg",
+      "source": {
+        "tcgplayer": 538692
+      }
+    },
+    {
+      "id": "fab-en-tcp578945",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 5",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/578945_200w.jpg",
+      "source": {
+        "tcgplayer": 578945
+      }
+    },
+    {
+      "id": "fab-en-tcp617822",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 6",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617822_200w.jpg",
+      "source": {
+        "tcgplayer": 617822
+      }
+    },
+    {
+      "id": "fab-en-tcp637631",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 7",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637631_200w.jpg",
+      "source": {
+        "tcgplayer": 637631
+      }
+    },
+    {
+      "id": "fab-en-tcp648064",
+      "game": "fab",
+      "kind": "other",
+      "name": "Light & Shadow Convention Exclusive Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648064_200w.jpg",
+      "source": {
+        "tcgplayer": 648064
+      }
+    },
+    {
+      "id": "fab-en-tcp657485",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 8",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/657485_200w.jpg",
+      "source": {
+        "tcgplayer": 657485
+      }
+    },
+    {
+      "id": "fab-en-tcp686436",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 9",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686436_200w.jpg",
+      "source": {
+        "tcgplayer": 686436
+      }
+    },
+    {
+      "id": "fab-en-tcp686494",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Tournament Pack",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686494_200w.jpg",
+      "source": {
+        "tcgplayer": 686494
+      }
+    },
+    {
+      "id": "fab-en-tcp707207",
+      "game": "fab",
+      "kind": "other",
+      "name": "Faith & Torment Collector Series Set",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/707207_200w.jpg",
+      "source": {
+        "tcgplayer": 707207
+      }
+    },
+    {
+      "id": "fab-en-tcp709897",
+      "game": "fab",
+      "kind": "booster",
+      "name": "Judge Pack Season 10",
+      "lang": "en",
+      "setIds": [
+        "fab-g2732"
+      ],
+      "releasedAt": "2019-10-11",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709897_200w.jpg",
+      "source": {
+        "tcgplayer": 709897
+      }
+    }
+  ]
+}

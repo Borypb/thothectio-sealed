@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "game": "onepiece",
   "lang": "en",
   "products": [
@@ -31,6 +31,36 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/733410_200w.jpg",
       "source": {
         "tcgplayer": 733410
+      }
+    },
+    {
+      "id": "op-en-tcp735362",
+      "game": "onepiece",
+      "kind": "deck",
+      "name": "Starter Deck 37: The Desert Princess and the Pirates",
+      "lang": "en",
+      "setIds": [
+        "op-st37"
+      ],
+      "releasedAt": "2026-12-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735362_200w.jpg",
+      "source": {
+        "tcgplayer": 735362
+      }
+    },
+    {
+      "id": "op-en-tcp735364",
+      "game": "onepiece",
+      "kind": "deck",
+      "name": "Starter Deck 38: Baroque Works",
+      "lang": "en",
+      "setIds": [
+        "op-st38"
+      ],
+      "releasedAt": "2026-12-18",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735364_200w.jpg",
+      "source": {
+        "tcgplayer": 735364
       }
     },
     {

@@ -1,0 +1,510 @@
+{
+  "groupId": 23506,
+  "cards": [
+    {
+      "id": 549250,
+      "name": "Kayo, Armed and Dangerous",
+      "number": "AKO001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549250/flesh-and-blood-tcg-armory-deck-kayo-kayo-armed-and-dangerous",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 0.8,
+          "mid": 1.14
+        }
+      ]
+    },
+    {
+      "id": 549251,
+      "name": "Mandible Claw",
+      "number": "AKO002",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549251/flesh-and-blood-tcg-armory-deck-kayo-mandible-claw",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.4,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 549252,
+      "name": "Knucklehead",
+      "number": "AKO003",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549252/flesh-and-blood-tcg-armory-deck-kayo-knucklehead",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.25,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 549254,
+      "name": "Savage Sash",
+      "number": "AKO004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549254/flesh-and-blood-tcg-armory-deck-kayo-savage-sash",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.63,
+          "low": 4.99,
+          "mid": 7.64
+        }
+      ]
+    },
+    {
+      "id": 549255,
+      "name": "Hide Tanner",
+      "number": "AKO005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549255/flesh-and-blood-tcg-armory-deck-kayo-hide-tanner",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.64,
+          "low": 0.5,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 549256,
+      "name": "Beaten Trackers",
+      "number": "AKO006",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549256/flesh-and-blood-tcg-armory-deck-kayo-beaten-trackers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2,
+          "low": 1.6,
+          "mid": 2.15
+        }
+      ]
+    },
+    {
+      "id": 549257,
+      "name": "Bare Fangs",
+      "label": "Red",
+      "number": "AKO007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549257/flesh-and-blood-tcg-armory-deck-kayo-bare-fangs-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 549258,
+      "name": "Clash of Agility",
+      "label": "Red",
+      "number": "AKO008",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549258/flesh-and-blood-tcg-armory-deck-kayo-clash-of-agility-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 549259,
+      "name": "Humble",
+      "label": "Red",
+      "number": "AKO009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549259/flesh-and-blood-tcg-armory-deck-kayo-humble-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.92,
+          "low": 11.49,
+          "mid": 11.49
+        }
+      ]
+    },
+    {
+      "id": 549260,
+      "name": "Pulping",
+      "label": "Red",
+      "number": "AKO010",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549260/flesh-and-blood-tcg-armory-deck-kayo-pulping-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.05,
+          "low": 1.75,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 549261,
+      "name": "Rally the Rearguard",
+      "label": "Red",
+      "number": "AKO011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549261/flesh-and-blood-tcg-armory-deck-kayo-rally-the-rearguard-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 549262,
+      "name": "Savage Beatdown",
+      "number": "AKO012",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549262/flesh-and-blood-tcg-armory-deck-kayo-savage-beatdown",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.16,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 549263,
+      "name": "Strength Rules All",
+      "number": "AKO013",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549263/flesh-and-blood-tcg-armory-deck-kayo-strength-rules-all",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64,
+          "low": 0.49,
+          "mid": 0.77
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.79,
+          "low": 0.5,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 549264,
+      "name": "Wild Ride",
+      "label": "Red",
+      "number": "AKO014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549264/flesh-and-blood-tcg-armory-deck-kayo-wild-ride-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 549265,
+      "name": "Wreck Havoc",
+      "label": "Red",
+      "number": "AKO015",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549265/flesh-and-blood-tcg-armory-deck-kayo-wreck-havoc-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1,
+          "low": 1,
+          "mid": 1.23
+        }
+      ]
+    },
+    {
+      "id": 549266,
+      "name": "Bare Fangs",
+      "label": "Yellow",
+      "number": "AKO016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549266/flesh-and-blood-tcg-armory-deck-kayo-bare-fangs-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.3,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 549267,
+      "name": "Agile Windup",
+      "label": "Blue",
+      "number": "AKO017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549267/flesh-and-blood-tcg-armory-deck-kayo-agile-windup-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 549268,
+      "name": "Assault and Battery",
+      "label": "Blue",
+      "number": "AKO018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549268/flesh-and-blood-tcg-armory-deck-kayo-assault-and-battery-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.25,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 549269,
+      "name": "Battlefront Bastion",
+      "number": "AKO019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549269/flesh-and-blood-tcg-armory-deck-kayo-battlefront-bastion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 549270,
+      "name": "Mighty Windup",
+      "label": "Blue",
+      "number": "AKO020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549270/flesh-and-blood-tcg-armory-deck-kayo-mighty-windup-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 549271,
+      "name": "Pound Town",
+      "label": "Blue",
+      "number": "AKO021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549271/flesh-and-blood-tcg-armory-deck-kayo-pound-town-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 549272,
+      "name": "Reincarnate",
+      "label": "Blue",
+      "number": "AKO022",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549272/flesh-and-blood-tcg-armory-deck-kayo-reincarnate-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.11,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 549273,
+      "name": "Riled Up",
+      "label": "Blue",
+      "number": "AKO023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549273/flesh-and-blood-tcg-armory-deck-kayo-riled-up-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.46,
+          "mid": 0.53
+        }
+      ]
+    },
+    {
+      "id": 549274,
+      "name": "Run Roughshod",
+      "number": "AKO024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549274/flesh-and-blood-tcg-armory-deck-kayo-run-roughshod",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.01,
+          "low": 0.8,
+          "mid": 1.04
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.91,
+          "low": 0.68,
+          "mid": 1.91
+        }
+      ]
+    },
+    {
+      "id": 549275,
+      "name": "Smash Instinct",
+      "label": "Blue",
+      "number": "AKO025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549275/flesh-and-blood-tcg-armory-deck-kayo-smash-instinct-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.25,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 549276,
+      "name": "Wrecker Romp",
+      "label": "Blue",
+      "number": "AKO026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549276/flesh-and-blood-tcg-armory-deck-kayo-wrecker-romp-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.25,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 549277,
+      "name": "Agility",
+      "number": "AKO027",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549277/flesh-and-blood-tcg-armory-deck-kayo-agility",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.99,
+          "low": 3,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 549278,
+      "name": "Might",
+      "number": "AKO028",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549278/flesh-and-blood-tcg-armory-deck-kayo-might",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.76,
+          "low": 2.38,
+          "mid": 2.69
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

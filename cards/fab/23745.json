@@ -1,0 +1,500 @@
+{
+  "groupId": 23745,
+  "cards": [
+    {
+      "id": 577259,
+      "name": "Verdance",
+      "number": "VER001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577259/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-verdance",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.97,
+          "low": 3.5,
+          "mid": 6.36
+        }
+      ]
+    },
+    {
+      "id": 577260,
+      "name": "Staff of Verdant Shoots",
+      "number": "VER002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577260/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-staff-of-verdant-shoots",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577261,
+      "name": "Helm of Lignum Vitae",
+      "number": "VER003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577261/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-helm-of-lignum-vitae",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577262,
+      "name": "Bruised Leather",
+      "number": "VER004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577262/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-bruised-leather",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577263,
+      "name": "Hold Focus",
+      "number": "VER005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577263/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-hold-focus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.24,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577264,
+      "name": "Well Grounded",
+      "number": "VER006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577264/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-well-grounded",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 577265,
+      "name": "Autumn's Touch",
+      "label": "Red",
+      "number": "VER007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577265/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-autumns-touch-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 577266,
+      "name": "Blossoming Decay",
+      "label": "Red",
+      "number": "VER008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577266/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-blossoming-decay-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.06,
+          "low": 0.94,
+          "mid": 1.03
+        }
+      ]
+    },
+    {
+      "id": 577267,
+      "name": "Fruits of the Forest",
+      "label": "Red",
+      "number": "VER009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577267/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-fruits-of-the-forest-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.3,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 577268,
+      "name": "Fyendal's Fighting Spirit",
+      "label": "Red",
+      "number": "VER010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577268/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-fyendals-fighting-spirit-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 1.93,
+          "mid": 2.03
+        }
+      ]
+    },
+    {
+      "id": 577269,
+      "name": "Rootbound Carapace",
+      "label": "Red",
+      "number": "VER011",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577269/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-rootbound-carapace-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.84,
+          "low": 1.25,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 577270,
+      "name": "Aether Quickening",
+      "label": "Red",
+      "number": "VER012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577270/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-aether-quickening-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577271,
+      "name": "Harvest Season",
+      "label": "Red",
+      "number": "VER013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577271/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-harvest-season-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577272,
+      "name": "Perennial Aetherbloom",
+      "label": "Red",
+      "number": "VER014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577272/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-perennial-aetherbloom-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 577273,
+      "name": "Pulsing Aether / Life",
+      "number": "VER015",
+      "rarity": "Rare",
+      "type": "Action;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577273/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-pulsing-aether-life",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.14,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577274,
+      "name": "Fertile Ground",
+      "label": "Red",
+      "number": "VER016",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577274/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-fertile-ground-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 577275,
+      "name": "Blossoming Decay",
+      "label": "Yellow",
+      "number": "VER017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577275/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-blossoming-decay-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.35,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 577276,
+      "name": "Autumn's Touch",
+      "label": "Blue",
+      "number": "VER018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577276/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-autumns-touch-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577277,
+      "name": "Blossoming Decay",
+      "label": "Blue",
+      "number": "VER019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577277/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-blossoming-decay-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.48,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 577278,
+      "name": "Fruits of the Forest",
+      "label": "Blue",
+      "number": "VER020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577278/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-fruits-of-the-forest-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.87,
+          "low": 1.8,
+          "mid": 2.06
+        }
+      ]
+    },
+    {
+      "id": 577279,
+      "name": "Fyendal's Fighting Spirit",
+      "label": "Blue",
+      "number": "VER021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577279/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-fyendals-fighting-spirit-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 577280,
+      "name": "Summer's Fall",
+      "label": "Blue",
+      "number": "VER022",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577280/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-summers-fall-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.98,
+          "low": 0.7,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 577281,
+      "name": "Arcane Twining",
+      "label": "Blue",
+      "number": "VER023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577281/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-arcane-twining-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.24,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 577282,
+      "name": "Harvest Season",
+      "label": "Blue",
+      "number": "VER024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577282/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-harvest-season-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 577283,
+      "name": "Pop the Bubble",
+      "label": "Blue",
+      "number": "VER025",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577283/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-pop-the-bubble-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577284,
+      "name": "Sigil of Fyendal",
+      "number": "VER027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577284/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-sigil-of-fyendal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 577285,
+      "name": "Embodiment of Earth",
+      "number": "VER026",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577285/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-embodiment-of-earth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 581069,
+      "name": "Sanctuary of Aria",
+      "number": "VER028",
+      "rarity": "None",
+      "type": "Macro",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/581069_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/581069/flesh-and-blood-tcg-blitz-deck-rosetta-verdance-sanctuary-of-aria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

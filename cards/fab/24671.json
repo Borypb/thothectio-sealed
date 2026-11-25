@@ -1,0 +1,3540 @@
+{
+  "groupId": 24671,
+  "cards": [
+    {
+      "id": 690432,
+      "name": "Dorinthea, Quicksilver Prodigy",
+      "number": "MPW001",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690432/flesh-and-blood-tcg-mastery-pack-warrior-dorinthea-quicksilver-prodigy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 690433,
+      "name": "Dawnblade, Resplendent",
+      "number": "MPW002",
+      "rarity": "Basic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690433/flesh-and-blood-tcg-mastery-pack-warrior-dawnblade-resplendent",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 690436,
+      "name": "Hala",
+      "number": "MPW004",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690436/flesh-and-blood-tcg-mastery-pack-warrior-hala",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 690437,
+      "name": "Hala",
+      "label": "Marvel",
+      "number": "MPW004",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690437/flesh-and-blood-tcg-mastery-pack-warrior-hala-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 30.71,
+          "low": 23.5,
+          "mid": 27.38
+        }
+      ]
+    },
+    {
+      "id": 690438,
+      "name": "Zenith Blade",
+      "number": "MPW005",
+      "rarity": "Basic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690438/flesh-and-blood-tcg-mastery-pack-warrior-zenith-blade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 690439,
+      "name": "Zenith Blade",
+      "label": "Marvel",
+      "number": "MPW005",
+      "rarity": "Marvel",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690439/flesh-and-blood-tcg-mastery-pack-warrior-zenith-blade-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 330.62,
+          "low": 315,
+          "mid": 315
+        }
+      ]
+    },
+    {
+      "id": 690440,
+      "name": "Olympia",
+      "number": "MPW006",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690440/flesh-and-blood-tcg-mastery-pack-warrior-olympia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 690441,
+      "name": "Golden Grail",
+      "number": "MPW007",
+      "rarity": "Basic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690441/flesh-and-blood-tcg-mastery-pack-warrior-golden-grail",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 690442,
+      "name": "Golden Grail",
+      "label": "Marvel",
+      "number": "MPW007",
+      "rarity": "Marvel",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690442/flesh-and-blood-tcg-mastery-pack-warrior-golden-grail-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 358.48,
+          "low": 299.68,
+          "mid": 307.54
+        }
+      ]
+    },
+    {
+      "id": 690443,
+      "name": "Valiant Dynamo",
+      "number": "MPW012",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690443/flesh-and-blood-tcg-mastery-pack-warrior-valiant-dynamo",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 52.65,
+          "low": 47.4,
+          "mid": 55.32
+        }
+      ]
+    },
+    {
+      "id": 690444,
+      "name": "Sharpening Sparks",
+      "label": "Extended Art",
+      "number": "MPW026",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690444/flesh-and-blood-tcg-mastery-pack-warrior-sharpening-sparks-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 31.45,
+          "low": 25.5,
+          "mid": 33.65
+        }
+      ]
+    },
+    {
+      "id": 690445,
+      "name": "Stand Tall",
+      "number": "MPW037",
+      "rarity": "Majestic",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690445/flesh-and-blood-tcg-mastery-pack-warrior-stand-tall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.13,
+          "low": 0.71,
+          "mid": 1.97
+        }
+      ]
+    },
+    {
+      "id": 690446,
+      "name": "Run Through",
+      "label": "Red",
+      "number": "MPW048",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690446_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690446/flesh-and-blood-tcg-mastery-pack-warrior-run-through-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63,
+          "low": 0.27,
+          "mid": 0.77
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.76,
+          "low": 0.52,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 690447,
+      "name": "Run Through",
+      "label": "Yellow",
+      "number": "MPW049",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690447/flesh-and-blood-tcg-mastery-pack-warrior-run-through-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 690448,
+      "name": "Run Through",
+      "label": "Blue",
+      "number": "MPW050",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690448_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690448/flesh-and-blood-tcg-mastery-pack-warrior-run-through-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.5,
+          "low": 1.24,
+          "mid": 1.46
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 690449,
+      "name": "Shove Off",
+      "number": "MPW052",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690449/flesh-and-blood-tcg-mastery-pack-warrior-shove-off",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.73,
+          "low": 0.8,
+          "mid": 2.01
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.3,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 690450,
+      "name": "Golden Company",
+      "label": "Red",
+      "number": "MPW053",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690450/flesh-and-blood-tcg-mastery-pack-warrior-golden-company-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.3,
+          "mid": 0.45
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.62,
+          "low": 0.25,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 690451,
+      "name": "Golden Company",
+      "label": "Yellow",
+      "number": "MPW054",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690451/flesh-and-blood-tcg-mastery-pack-warrior-golden-company-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.24,
+          "mid": 0.4
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.64,
+          "low": 0.34,
+          "mid": 0.64
+        }
+      ]
+    },
+    {
+      "id": 690452,
+      "name": "Golden Company",
+      "label": "Blue",
+      "number": "MPW055",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690452/flesh-and-blood-tcg-mastery-pack-warrior-golden-company-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.25,
+          "mid": 0.46
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.05,
+          "low": 0.39,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 690453,
+      "name": "Blade Rush",
+      "number": "MPW063",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690453/flesh-and-blood-tcg-mastery-pack-warrior-blade-rush",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1,
+          "low": 0.3,
+          "mid": 0.94
+        }
+      ]
+    },
+    {
+      "id": 690454,
+      "name": "Warrior's Valor",
+      "number": "MPW072",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690454/flesh-and-blood-tcg-mastery-pack-warrior-warriors-valor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 690455,
+      "name": "In the Swing",
+      "number": "MPW084",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690455_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690455/flesh-and-blood-tcg-mastery-pack-warrior-in-the-swing",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 690456,
+      "name": "Steel on Steel",
+      "label": "Red",
+      "number": "MPW096",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690456/flesh-and-blood-tcg-mastery-pack-warrior-steel-on-steel-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.14,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.78,
+          "low": 0.6,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 690458,
+      "name": "Steel on Steel",
+      "label": "Blue",
+      "number": "MPW098",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690458/flesh-and-blood-tcg-mastery-pack-warrior-steel-on-steel-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.2,
+          "mid": 0.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.14,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 690459,
+      "name": "Steel on Steel",
+      "label": "Yellow",
+      "number": "MPW097",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690459/flesh-and-blood-tcg-mastery-pack-warrior-steel-on-steel-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.64,
+          "low": 0.25,
+          "mid": 0.66
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.14,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 690460,
+      "name": "Trot Along",
+      "number": "MPW153",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690460/flesh-and-blood-tcg-mastery-pack-warrior-trot-along",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 690461,
+      "name": "Dawnblade",
+      "label": "Marvel",
+      "number": "MPW156",
+      "rarity": "Marvel",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/690461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/690461/flesh-and-blood-tcg-mastery-pack-warrior-dawnblade-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1204.87,
+          "low": 1498.75,
+          "mid": 1499.84
+        }
+      ]
+    },
+    {
+      "id": 703800,
+      "name": "Overwhelming Swing",
+      "number": "MPW024",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703800/flesh-and-blood-tcg-mastery-pack-warrior-overwhelming-swing",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.35,
+          "low": 3.51,
+          "mid": 5.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.6,
+          "low": 2.48,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 703803,
+      "name": "Raise Blades",
+      "number": "MPW032",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703803_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703803/flesh-and-blood-tcg-mastery-pack-warrior-raise-blades",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 15.59,
+          "low": 8.53,
+          "mid": 12.69
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.11,
+          "low": 4.09,
+          "mid": 8.98
+        }
+      ]
+    },
+    {
+      "id": 703883,
+      "name": "Rake Back",
+      "number": "MPW033",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703883/flesh-and-blood-tcg-mastery-pack-warrior-rake-back",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.58,
+          "low": 3.25,
+          "mid": 8.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.21,
+          "low": 2.45,
+          "mid": 8.73
+        }
+      ]
+    },
+    {
+      "id": 703884,
+      "name": "Durendal",
+      "number": "MPW008",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703884/flesh-and-blood-tcg-mastery-pack-warrior-durendal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.32,
+          "low": 0.84,
+          "mid": 1.5
+        }
+      ]
+    },
+    {
+      "id": 703885,
+      "name": "Durendal",
+      "label": "Marvel",
+      "number": "MPW008",
+      "rarity": "Marvel",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703885/flesh-and-blood-tcg-mastery-pack-warrior-durendal-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 355.68,
+          "low": 229,
+          "mid": 299.49
+        }
+      ]
+    },
+    {
+      "id": 703886,
+      "name": "And Again...",
+      "number": "MPW028",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703886/flesh-and-blood-tcg-mastery-pack-warrior-and-again",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 11.52,
+          "low": 10.61,
+          "mid": 12.46
+        }
+      ]
+    },
+    {
+      "id": 703887,
+      "name": "And Again...",
+      "label": "Extended Art",
+      "number": "MPW028",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/703887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/703887/flesh-and-blood-tcg-mastery-pack-warrior-and-again-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 81.49,
+          "low": 48.29,
+          "mid": 81.49
+        }
+      ]
+    },
+    {
+      "id": 708189,
+      "name": "Into the Muck",
+      "number": "MPW023",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708189/flesh-and-blood-tcg-mastery-pack-warrior-into-the-muck",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.35,
+          "low": 3.35,
+          "mid": 4.22
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.85,
+          "low": 1.45,
+          "mid": 2.51
+        }
+      ]
+    },
+    {
+      "id": 708190,
+      "name": "Honed for Honor",
+      "number": "MPW031",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708190/flesh-and-blood-tcg-mastery-pack-warrior-honed-for-honor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.57,
+          "low": 2,
+          "mid": 3.51
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.16,
+          "low": 6.69,
+          "mid": 8.39
+        }
+      ]
+    },
+    {
+      "id": 708464,
+      "name": "Point of Escalation",
+      "number": "MPW025",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708464/flesh-and-blood-tcg-mastery-pack-warrior-point-of-escalation",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.39,
+          "low": 1.1,
+          "mid": 2.46
+        }
+      ]
+    },
+    {
+      "id": 708465,
+      "name": "Point of Escalation",
+      "label": "Extended Art",
+      "number": "MPW025",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708465/flesh-and-blood-tcg-mastery-pack-warrior-point-of-escalation-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 68.55,
+          "low": 44,
+          "mid": 50.19
+        }
+      ]
+    },
+    {
+      "id": 708467,
+      "name": "Bluff Catcher",
+      "number": "MPW029",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708467/flesh-and-blood-tcg-mastery-pack-warrior-bluff-catcher",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.15,
+          "low": 3.33,
+          "mid": 5.71
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.98,
+          "low": 1.5,
+          "mid": 2.39
+        }
+      ]
+    },
+    {
+      "id": 708468,
+      "name": "Drawn to the Blade",
+      "number": "MPW030",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708468/flesh-and-blood-tcg-mastery-pack-warrior-drawn-to-the-blade",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.7,
+          "low": 3.35,
+          "mid": 6.94
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.95,
+          "low": 2,
+          "mid": 3.47
+        }
+      ]
+    },
+    {
+      "id": 708473,
+      "name": "Terms of Combat",
+      "number": "MPW034",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708473/flesh-and-blood-tcg-mastery-pack-warrior-terms-of-combat",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.33,
+          "low": 1.13,
+          "mid": 1.6
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.37,
+          "low": 1.9,
+          "mid": 3.43
+        }
+      ]
+    },
+    {
+      "id": 708477,
+      "name": "Shimmer of the Blade",
+      "number": "MPW051",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708477/flesh-and-blood-tcg-mastery-pack-warrior-shimmer-of-the-blade",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.74,
+          "low": 1,
+          "mid": 1.74
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.29,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 708478,
+      "name": "Blade Dance",
+      "label": "Marvel",
+      "number": "MPW134",
+      "rarity": "Marvel",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708478/flesh-and-blood-tcg-mastery-pack-warrior-blade-dance-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 9.14,
+          "low": 8.45,
+          "mid": 13.99
+        }
+      ]
+    },
+    {
+      "id": 708882,
+      "name": "Hala, Bladesaint of the Vow",
+      "number": "MPW003",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708882/flesh-and-blood-tcg-mastery-pack-warrior-hala-bladesaint-of-the-vow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7,
+          "low": 0.2,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 708883,
+      "name": "Paragon Plate",
+      "number": "MPW009",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708883/flesh-and-blood-tcg-mastery-pack-warrior-paragon-plate",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 108.66,
+          "low": 74.16,
+          "mid": 77.25
+        }
+      ]
+    },
+    {
+      "id": 708884,
+      "name": "Grains of Bloodspill",
+      "number": "MPW010",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708884/flesh-and-blood-tcg-mastery-pack-warrior-grains-of-bloodspill",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 57.63,
+          "low": 56.98,
+          "mid": 63.03
+        }
+      ]
+    },
+    {
+      "id": 708885,
+      "name": "Braveforge Bracers",
+      "number": "MPW011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708885/flesh-and-blood-tcg-mastery-pack-warrior-braveforge-bracers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.69,
+          "low": 11,
+          "mid": 13.96
+        }
+      ]
+    },
+    {
+      "id": 708886,
+      "name": "Blunt Retort",
+      "number": "MPW013",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708886/flesh-and-blood-tcg-mastery-pack-warrior-blunt-retort",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.18,
+          "low": 0.55,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 708887,
+      "name": "Edge Laden Plate",
+      "number": "MPW014",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708887/flesh-and-blood-tcg-mastery-pack-warrior-edge-laden-plate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.11,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.29,
+          "low": 0.35,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 708888,
+      "name": "Duelist Gauntlets",
+      "number": "MPW015",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708888/flesh-and-blood-tcg-mastery-pack-warrior-duelist-gauntlets",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.48,
+          "low": 0.25,
+          "mid": 1.58
+        }
+      ]
+    },
+    {
+      "id": 708889,
+      "name": "Longsword Leggings",
+      "number": "MPW016",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708889/flesh-and-blood-tcg-mastery-pack-warrior-longsword-leggings",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 3.36,
+          "low": 1.41,
+          "mid": 2.93
+        }
+      ]
+    },
+    {
+      "id": 708890,
+      "name": "Hot Top",
+      "number": "MPW017",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708890/flesh-and-blood-tcg-mastery-pack-warrior-hot-top",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.78,
+          "low": 0.24,
+          "mid": 1.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.11,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708891,
+      "name": "Heart of Bladehold",
+      "number": "MPW018",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708891/flesh-and-blood-tcg-mastery-pack-warrior-heart-of-bladehold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.62,
+          "low": 0.52,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 708892,
+      "name": "Dealer's Grip",
+      "number": "MPW019",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708892/flesh-and-blood-tcg-mastery-pack-warrior-dealers-grip",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.11,
+          "mid": 0.3
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.28,
+          "low": 0.01,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 708893,
+      "name": "Refraction Bolters",
+      "number": "MPW020",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708893/flesh-and-blood-tcg-mastery-pack-warrior-refraction-bolters",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708894,
+      "name": "Blade Flurry",
+      "label": "Red",
+      "number": "MPW021",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708894/flesh-and-blood-tcg-mastery-pack-warrior-blade-flurry-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.23,
+          "low": 5.17,
+          "mid": 7.1
+        }
+      ]
+    },
+    {
+      "id": 708895,
+      "name": "Glint the Quicksilver",
+      "label": "Blue",
+      "number": "MPW022",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708895/flesh-and-blood-tcg-mastery-pack-warrior-glint-the-quicksilver-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.37,
+          "low": 2.22,
+          "mid": 2.69
+        }
+      ]
+    },
+    {
+      "id": 708896,
+      "name": "All In",
+      "label": "Red",
+      "number": "MPW027",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708896/flesh-and-blood-tcg-mastery-pack-warrior-all-in-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.26,
+          "low": 0.6,
+          "mid": 1.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 9.38,
+          "low": 3.11,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 708897,
+      "name": "Unsheathed",
+      "label": "Red",
+      "number": "MPW035",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708897/flesh-and-blood-tcg-mastery-pack-warrior-unsheathed-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.81,
+          "low": 4.03,
+          "mid": 5.8
+        }
+      ]
+    },
+    {
+      "id": 708898,
+      "name": "Lessons Learned",
+      "label": "Blue",
+      "number": "MPW036",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708898/flesh-and-blood-tcg-mastery-pack-warrior-lessons-learned-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 17.02,
+          "low": 25,
+          "mid": 25
+        },
+        {
+          "sub": "Normal",
+          "usd": 13.91,
+          "low": 12.41,
+          "mid": 16.88
+        }
+      ]
+    },
+    {
+      "id": 708899,
+      "name": "Backside of the Blade",
+      "label": "Blue",
+      "number": "MPW038",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708899/flesh-and-blood-tcg-mastery-pack-warrior-backside-of-the-blade-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.19,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.2,
+          "low": 0.2,
+          "mid": 0.82
+        }
+      ]
+    },
+    {
+      "id": 708900,
+      "name": "Display of Artistry",
+      "label": "Red",
+      "number": "MPW039",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708900/flesh-and-blood-tcg-mastery-pack-warrior-display-of-artistry-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.08,
+          "low": 0.4,
+          "mid": 0.89
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.22,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 708901,
+      "name": "Display of Artistry",
+      "label": "Yellow",
+      "number": "MPW040",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708901/flesh-and-blood-tcg-mastery-pack-warrior-display-of-artistry-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.15,
+          "mid": 0.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.34,
+          "mid": 0.61
+        }
+      ]
+    },
+    {
+      "id": 708902,
+      "name": "Display of Artistry",
+      "label": "Blue",
+      "number": "MPW041",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708902/flesh-and-blood-tcg-mastery-pack-warrior-display-of-artistry-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.19,
+          "mid": 0.46
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.9,
+          "low": 0.75,
+          "mid": 0.94
+        }
+      ]
+    },
+    {
+      "id": 708903,
+      "name": "Donkey",
+      "label": "Blue",
+      "number": "MPW042",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708903/flesh-and-blood-tcg-mastery-pack-warrior-donkey-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.4,
+          "mid": 0.57
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.93,
+          "low": 0.85,
+          "mid": 0.97
+        }
+      ]
+    },
+    {
+      "id": 708904,
+      "name": "Downswing",
+      "label": "Red",
+      "number": "MPW043",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708904/flesh-and-blood-tcg-mastery-pack-warrior-downswing-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.23,
+          "mid": 0.59
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708905,
+      "name": "Drawing Dead",
+      "label": "Yellow",
+      "number": "MPW044",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708905/flesh-and-blood-tcg-mastery-pack-warrior-drawing-dead-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.7,
+          "low": 0.33,
+          "mid": 0.69
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.24,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 708906,
+      "name": "Gleam of the Blade",
+      "label": "Red",
+      "number": "MPW045",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708906/flesh-and-blood-tcg-mastery-pack-warrior-gleam-of-the-blade-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.25,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.24,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 708907,
+      "name": "Ole",
+      "label": "Blue",
+      "number": "MPW046",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708907/flesh-and-blood-tcg-mastery-pack-warrior-ole-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.92,
+          "low": 0.32,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 708908,
+      "name": "Steelblade Shunt",
+      "label": "Red",
+      "number": "MPW056",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708908/flesh-and-blood-tcg-mastery-pack-warrior-steelblade-shunt-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 708909,
+      "name": "Steelblade Shunt",
+      "label": "Yellow",
+      "number": "MPW057",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708909/flesh-and-blood-tcg-mastery-pack-warrior-steelblade-shunt-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 708910,
+      "name": "Steelblade Shunt",
+      "label": "Blue",
+      "number": "MPW058",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708910/flesh-and-blood-tcg-mastery-pack-warrior-steelblade-shunt-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 708911,
+      "name": "Below the Belt",
+      "label": "Red",
+      "number": "MPW059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708911/flesh-and-blood-tcg-mastery-pack-warrior-below-the-belt-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.79,
+          "low": 0.34,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 708912,
+      "name": "Big Slick",
+      "label": "Red",
+      "number": "MPW060",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708912/flesh-and-blood-tcg-mastery-pack-warrior-big-slick-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.17,
+          "mid": 0.29
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.13,
+          "low": 0.73,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 708913,
+      "name": "Big Slick",
+      "label": "Yellow",
+      "number": "MPW061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708913/flesh-and-blood-tcg-mastery-pack-warrior-big-slick-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.15,
+          "low": 0.4,
+          "mid": 1.11
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 708914,
+      "name": "Big Slick",
+      "label": "Blue",
+      "number": "MPW062",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708914/flesh-and-blood-tcg-mastery-pack-warrior-big-slick-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.9,
+          "low": 0.45,
+          "mid": 0.91
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.18,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 708915,
+      "name": "Crimson Waltz",
+      "label": "Yellow",
+      "number": "MPW064",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708915/flesh-and-blood-tcg-mastery-pack-warrior-crimson-waltz-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.2,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.2,
+          "low": 0.5,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 708916,
+      "name": "Dusk Path Pilgrimage",
+      "label": "Red",
+      "number": "MPW065",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708916/flesh-and-blood-tcg-mastery-pack-warrior-dusk-path-pilgrimage-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 708917,
+      "name": "Off Beat",
+      "label": "Blue",
+      "number": "MPW066",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708917/flesh-and-blood-tcg-mastery-pack-warrior-off-beat-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.3,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 708918,
+      "name": "Rest Before Battle",
+      "label": "Yellow",
+      "number": "MPW067",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708918/flesh-and-blood-tcg-mastery-pack-warrior-rest-before-battle-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.46,
+          "low": 0.73,
+          "mid": 1.05
+        }
+      ]
+    },
+    {
+      "id": 708919,
+      "name": "Shatter the Weakpoint",
+      "label": "Red",
+      "number": "MPW068",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708919/flesh-and-blood-tcg-mastery-pack-warrior-shatter-the-weakpoint-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.61,
+          "low": 0.3,
+          "mid": 0.6
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 708920,
+      "name": "Slice and Dice",
+      "label": "Red",
+      "number": "MPW069",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708920/flesh-and-blood-tcg-mastery-pack-warrior-slice-and-dice-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.27,
+          "mid": 0.41
+        }
+      ]
+    },
+    {
+      "id": 708921,
+      "name": "Steel to the Dome",
+      "label": "Red",
+      "number": "MPW070",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708921/flesh-and-blood-tcg-mastery-pack-warrior-steel-to-the-dome-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.65,
+          "low": 0.59,
+          "mid": 0.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.23,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708922,
+      "name": "Visit the Dawnsmith",
+      "label": "Blue",
+      "number": "MPW071",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708922/flesh-and-blood-tcg-mastery-pack-warrior-visit-the-dawnsmith-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 0.48
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.07,
+          "low": 0.5,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 708923,
+      "name": "Take the Lead",
+      "label": "Red",
+      "number": "MPW073",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708923/flesh-and-blood-tcg-mastery-pack-warrior-take-the-lead-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.28,
+          "mid": 0.46
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.34,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 708924,
+      "name": "Toe the Line",
+      "label": "Red",
+      "number": "MPW074",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708924/flesh-and-blood-tcg-mastery-pack-warrior-toe-the-line-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.61,
+          "low": 0.35,
+          "mid": 0.73
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.63,
+          "low": 0.24,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 708925,
+      "name": "A Moment's Peace",
+      "label": "Blue",
+      "number": "MPW075",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708925/flesh-and-blood-tcg-mastery-pack-warrior-a-moments-peace-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.16,
+          "mid": 0.28
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.91,
+          "low": 0.35,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 708926,
+      "name": "Big Blinder",
+      "label": "Red",
+      "number": "MPW076",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708926/flesh-and-blood-tcg-mastery-pack-warrior-big-blinder-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.81,
+          "low": 0.75,
+          "mid": 0.84
+        }
+      ]
+    },
+    {
+      "id": 708927,
+      "name": "Big Blinder",
+      "label": "Yellow",
+      "number": "MPW077",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708927_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708927/flesh-and-blood-tcg-mastery-pack-warrior-big-blinder-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.21
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 708928,
+      "name": "Big Blinder",
+      "label": "Blue",
+      "number": "MPW078",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708928_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708928/flesh-and-blood-tcg-mastery-pack-warrior-big-blinder-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.22,
+          "mid": 0.41
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.13,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 708929,
+      "name": "Carve Up",
+      "label": "Yellow",
+      "number": "MPW079",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708929_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708929/flesh-and-blood-tcg-mastery-pack-warrior-carve-up-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.79,
+          "low": 0.45,
+          "mid": 0.76
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708930,
+      "name": "Deadly Display",
+      "label": "Red",
+      "number": "MPW080",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708930/flesh-and-blood-tcg-mastery-pack-warrior-deadly-display-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.24,
+          "mid": 0.71
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.13,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708931,
+      "name": "Deadly Display",
+      "label": "Yellow",
+      "number": "MPW081",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708931/flesh-and-blood-tcg-mastery-pack-warrior-deadly-display-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.19,
+          "mid": 0.63
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708932,
+      "name": "Deadly Display",
+      "label": "Blue",
+      "number": "MPW082",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708932/flesh-and-blood-tcg-mastery-pack-warrior-deadly-display-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.56,
+          "low": 0.19,
+          "mid": 0.54
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.11,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708933,
+      "name": "Dice Up",
+      "label": "Blue",
+      "number": "MPW083",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708933/flesh-and-blood-tcg-mastery-pack-warrior-dice-up-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.15,
+          "mid": 0.39
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.79,
+          "low": 0.3,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 708934,
+      "name": "Ironsong Response",
+      "label": "Red",
+      "number": "MPW085",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708934/flesh-and-blood-tcg-mastery-pack-warrior-ironsong-response-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708935,
+      "name": "Silverdrop Downpour",
+      "label": "Red",
+      "number": "MPW086",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708935/flesh-and-blood-tcg-mastery-pack-warrior-silverdrop-downpour-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.89,
+          "low": 0.3,
+          "mid": 0.91
+        }
+      ]
+    },
+    {
+      "id": 708936,
+      "name": "Silverdrop Downpour",
+      "label": "Yellow",
+      "number": "MPW087",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708936/flesh-and-blood-tcg-mastery-pack-warrior-silverdrop-downpour-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.15,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 708937,
+      "name": "Silverdrop Downpour",
+      "label": "Blue",
+      "number": "MPW088",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708937/flesh-and-blood-tcg-mastery-pack-warrior-silverdrop-downpour-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.76,
+          "low": 0.25,
+          "mid": 0.76
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708938,
+      "name": "Slice Up",
+      "label": "Red",
+      "number": "MPW089",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708938/flesh-and-blood-tcg-mastery-pack-warrior-slice-up-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.32
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.82,
+          "low": 0.3,
+          "mid": 0.82
+        }
+      ]
+    },
+    {
+      "id": 708939,
+      "name": "Small Blinder",
+      "label": "Red",
+      "number": "MPW090",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708939/flesh-and-blood-tcg-mastery-pack-warrior-small-blinder-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.81,
+          "low": 0.25,
+          "mid": 0.81
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 708940,
+      "name": "Small Blinder",
+      "label": "Yellow",
+      "number": "MPW091",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708940_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708940/flesh-and-blood-tcg-mastery-pack-warrior-small-blinder-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.23,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 708941,
+      "name": "Small Blinder",
+      "label": "Blue",
+      "number": "MPW092",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708941/flesh-and-blood-tcg-mastery-pack-warrior-small-blinder-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.35,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 708942,
+      "name": "Take the Upper Hand",
+      "label": "Red",
+      "number": "MPW093",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708942/flesh-and-blood-tcg-mastery-pack-warrior-take-the-upper-hand-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 708943,
+      "name": "Take the Upper Hand",
+      "label": "Yellow",
+      "number": "MPW094",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708943/flesh-and-blood-tcg-mastery-pack-warrior-take-the-upper-hand-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708944,
+      "name": "Take the Upper Hand",
+      "label": "Blue",
+      "number": "MPW095",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708944/flesh-and-blood-tcg-mastery-pack-warrior-take-the-upper-hand-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708945,
+      "name": "Check-Raise",
+      "label": "Red",
+      "number": "MPW099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708945/flesh-and-blood-tcg-mastery-pack-warrior-check-raise-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.51,
+          "low": 0.27,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 708946,
+      "name": "Check-Raise",
+      "label": "Yellow",
+      "number": "MPW100",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708946/flesh-and-blood-tcg-mastery-pack-warrior-check-raise-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.76,
+          "low": 0.3,
+          "mid": 0.75
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.13,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 708947,
+      "name": "Check-Raise",
+      "label": "Blue",
+      "number": "MPW101",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708947/flesh-and-blood-tcg-mastery-pack-warrior-check-raise-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.28
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.52,
+          "low": 0.25,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 708948,
+      "name": "Driving Blade",
+      "label": "Red",
+      "number": "MPW102",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708948/flesh-and-blood-tcg-mastery-pack-warrior-driving-blade-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708949,
+      "name": "Edict of Steel",
+      "label": "Red",
+      "number": "MPW103",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708949/flesh-and-blood-tcg-mastery-pack-warrior-edict-of-steel-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.93,
+          "low": 1,
+          "mid": 1.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 708950,
+      "name": "Edict of Steel",
+      "label": "Yellow",
+      "number": "MPW104",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708950/flesh-and-blood-tcg-mastery-pack-warrior-edict-of-steel-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.33,
+          "low": 1.04,
+          "mid": 1.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 708951,
+      "name": "Edict of Steel",
+      "label": "Blue",
+      "number": "MPW105",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708951/flesh-and-blood-tcg-mastery-pack-warrior-edict-of-steel-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.99,
+          "low": 0.88,
+          "mid": 0.98
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708952,
+      "name": "Engage Steel",
+      "label": "Red",
+      "number": "MPW106",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708952/flesh-and-blood-tcg-mastery-pack-warrior-engage-steel-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.65,
+          "low": 0.3,
+          "mid": 0.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708953,
+      "name": "Engage Steel",
+      "label": "Yellow",
+      "number": "MPW107",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708953_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708953/flesh-and-blood-tcg-mastery-pack-warrior-engage-steel-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.72,
+          "low": 0.3,
+          "mid": 0.78
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.11,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708954,
+      "name": "Engage Steel",
+      "label": "Blue",
+      "number": "MPW108",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708954_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708954/flesh-and-blood-tcg-mastery-pack-warrior-engage-steel-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.69,
+          "low": 0.25,
+          "mid": 0.75
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708955,
+      "name": "Gutshot",
+      "label": "Red",
+      "number": "MPW109",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708955_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708955/flesh-and-blood-tcg-mastery-pack-warrior-gutshot-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.21,
+          "mid": 0.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.15,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 708956,
+      "name": "Gutshot",
+      "label": "Yellow",
+      "number": "MPW110",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708956_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708956/flesh-and-blood-tcg-mastery-pack-warrior-gutshot-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.61,
+          "low": 0.3,
+          "mid": 0.61
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708957,
+      "name": "Gutshot",
+      "label": "Blue",
+      "number": "MPW111",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708957_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708957/flesh-and-blood-tcg-mastery-pack-warrior-gutshot-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.52,
+          "low": 0.25,
+          "mid": 0.52
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.15,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 708958,
+      "name": "Hit and Run",
+      "label": "Red",
+      "number": "MPW112",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708958/flesh-and-blood-tcg-mastery-pack-warrior-hit-and-run-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708959,
+      "name": "Hit and Run",
+      "label": "Yellow",
+      "number": "MPW113",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708959/flesh-and-blood-tcg-mastery-pack-warrior-hit-and-run-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708960,
+      "name": "Hit and Run",
+      "label": "Blue",
+      "number": "MPW114",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708960/flesh-and-blood-tcg-mastery-pack-warrior-hit-and-run-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.11,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 708961,
+      "name": "Jive",
+      "label": "Blue",
+      "number": "MPW115",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708961/flesh-and-blood-tcg-mastery-pack-warrior-jive-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.51,
+          "low": 0.25,
+          "mid": 0.51
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.15,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 708962,
+      "name": "Nature's Path Pilgrimage",
+      "label": "Red",
+      "number": "MPW116",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708962/flesh-and-blood-tcg-mastery-pack-warrior-natures-path-pilgrimage-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708963,
+      "name": "Push Forward",
+      "label": "Red",
+      "number": "MPW117",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708963/flesh-and-blood-tcg-mastery-pack-warrior-push-forward-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708964,
+      "name": "Second Swing",
+      "label": "Red",
+      "number": "MPW118",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708964_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708964/flesh-and-blood-tcg-mastery-pack-warrior-second-swing-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708965,
+      "name": "Sharp Incline",
+      "label": "Red",
+      "number": "MPW119",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708965/flesh-and-blood-tcg-mastery-pack-warrior-sharp-incline-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.98,
+          "low": 0.65,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 708966,
+      "name": "Sharp Incline",
+      "label": "Yellow",
+      "number": "MPW120",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708966/flesh-and-blood-tcg-mastery-pack-warrior-sharp-incline-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.35,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 708967,
+      "name": "Sharp Incline",
+      "label": "Blue",
+      "number": "MPW121",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708967_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708967/flesh-and-blood-tcg-mastery-pack-warrior-sharp-incline-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.91,
+          "low": 0.87,
+          "mid": 0.93
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708968,
+      "name": "Sharpen Steel",
+      "label": "Red",
+      "number": "MPW122",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708968/flesh-and-blood-tcg-mastery-pack-warrior-sharpen-steel-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 708969,
+      "name": "Sharp 'n Shine",
+      "label": "Red",
+      "number": "MPW123",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708969_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708969/flesh-and-blood-tcg-mastery-pack-warrior-sharp-n-shine-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.71,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 708970,
+      "name": "Sharp 'n Shine",
+      "label": "Yellow",
+      "number": "MPW124",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708970_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708970/flesh-and-blood-tcg-mastery-pack-warrior-sharp-n-shine-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.89,
+          "low": 0.5,
+          "mid": 0.93
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 708971,
+      "name": "Sharp 'n Shine",
+      "label": "Blue",
+      "number": "MPW125",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708971_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708971/flesh-and-blood-tcg-mastery-pack-warrior-sharp-n-shine-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.62,
+          "low": 0.24,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 708972,
+      "name": "Showdown",
+      "label": "Red",
+      "number": "MPW126",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708972/flesh-and-blood-tcg-mastery-pack-warrior-showdown-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.31
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.75,
+          "low": 0.25,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 708973,
+      "name": "Showdown",
+      "label": "Yellow",
+      "number": "MPW127",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708973/flesh-and-blood-tcg-mastery-pack-warrior-showdown-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.15,
+          "mid": 0.34
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.53,
+          "low": 0.31,
+          "mid": 0.53
+        }
+      ]
+    },
+    {
+      "id": 708974,
+      "name": "Showdown",
+      "label": "Blue",
+      "number": "MPW128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708974/flesh-and-blood-tcg-mastery-pack-warrior-showdown-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.25,
+          "mid": 0.63
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 708975,
+      "name": "Shuck",
+      "label": "Blue",
+      "number": "MPW129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708975_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708975/flesh-and-blood-tcg-mastery-pack-warrior-shuck-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.29
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.23,
+          "mid": 0.66
+        }
+      ]
+    },
+    {
+      "id": 708976,
+      "name": "Swordmaster's Path",
+      "label": "Red",
+      "number": "MPW130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708976/flesh-and-blood-tcg-mastery-pack-warrior-swordmasters-path-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.77,
+          "low": 0.33,
+          "mid": 0.77
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708977,
+      "name": "Swordmaster's Path",
+      "label": "Yellow",
+      "number": "MPW131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708977/flesh-and-blood-tcg-mastery-pack-warrior-swordmasters-path-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.86,
+          "low": 0.45,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 708978,
+      "name": "Swordmaster's Path",
+      "label": "Blue",
+      "number": "MPW132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708978/flesh-and-blood-tcg-mastery-pack-warrior-swordmasters-path-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.81,
+          "low": 0.54,
+          "mid": 0.8
+        }
+      ]
+    },
+    {
+      "id": 708979,
+      "name": "Heavy Swing",
+      "label": "Red",
+      "number": "MPW133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708979/flesh-and-blood-tcg-mastery-pack-warrior-heavy-swing-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.74,
+          "low": 0.25,
+          "mid": 0.76
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708980,
+      "name": "Flurry",
+      "label": "Marvel",
+      "number": "MPW135",
+      "rarity": "Marvel",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708980/flesh-and-blood-tcg-mastery-pack-warrior-flurry-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 20.37,
+          "low": 18.43,
+          "mid": 23.43
+        }
+      ]
+    },
+    {
+      "id": 708981,
+      "name": "Hope Merchant's Hood",
+      "number": "MPW136",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708981/flesh-and-blood-tcg-mastery-pack-warrior-hope-merchants-hood",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 708982,
+      "name": "Deep Blue",
+      "number": "MPW137",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708982/flesh-and-blood-tcg-mastery-pack-warrior-deep-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 708983,
+      "name": "Clip Flexor",
+      "number": "MPW138",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708983/flesh-and-blood-tcg-mastery-pack-warrior-clip-flexor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.1,
+          "mid": 0.33
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.31,
+          "low": 0.38,
+          "mid": 1.01
+        }
+      ]
+    },
+    {
+      "id": 708984,
+      "name": "Vigilant Dodgers",
+      "number": "MPW139",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708984/flesh-and-blood-tcg-mastery-pack-warrior-vigilant-dodgers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.82,
+          "low": 0.24,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 708985,
+      "name": "Olde Leather Helm",
+      "number": "MPW140",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708985/flesh-and-blood-tcg-mastery-pack-warrior-olde-leather-helm",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 6.34,
+          "low": 2,
+          "mid": 4.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.26,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708986,
+      "name": "Olde Leather Plate",
+      "number": "MPW141",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708986/flesh-and-blood-tcg-mastery-pack-warrior-olde-leather-plate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.52,
+          "low": 0.24,
+          "mid": 0.96
+        }
+      ]
+    },
+    {
+      "id": 708987,
+      "name": "Olde Leather Gloves",
+      "number": "MPW142",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708987/flesh-and-blood-tcg-mastery-pack-warrior-olde-leather-gloves",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.34
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 8.83,
+          "low": 5,
+          "mid": 8.5
+        }
+      ]
+    },
+    {
+      "id": 708988,
+      "name": "Olde Leather Boots",
+      "number": "MPW143",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708988/flesh-and-blood-tcg-mastery-pack-warrior-olde-leather-boots",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.35
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 4.46,
+          "low": 2,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 708989,
+      "name": "Peaceful Sanctuary",
+      "label": "Red",
+      "number": "MPW144",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708989/flesh-and-blood-tcg-mastery-pack-warrior-peaceful-sanctuary-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 14.08,
+          "low": 12.99,
+          "mid": 14.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 6.59,
+          "low": 4.99,
+          "mid": 7.21
+        }
+      ]
+    },
+    {
+      "id": 708990,
+      "name": "Thwart",
+      "label": "Yellow",
+      "number": "MPW145",
+      "rarity": "Majestic",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708990/flesh-and-blood-tcg-mastery-pack-warrior-thwart-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.83,
+          "low": 10.18,
+          "mid": 13.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 4.5,
+          "low": 3.61,
+          "mid": 4.82
+        }
+      ]
+    },
+    {
+      "id": 708991,
+      "name": "Energy Potion",
+      "label": "Blue",
+      "number": "MPW146",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708991/flesh-and-blood-tcg-mastery-pack-warrior-energy-potion-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 708992,
+      "name": "Timesnap Potion",
+      "label": "Blue",
+      "number": "MPW147",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708992/flesh-and-blood-tcg-mastery-pack-warrior-timesnap-potion-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 708993,
+      "name": "Nip at the Heels",
+      "label": "Blue",
+      "number": "MPW148",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708993/flesh-and-blood-tcg-mastery-pack-warrior-nip-at-the-heels-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708994,
+      "name": "Put in Context",
+      "label": "Blue",
+      "number": "MPW149",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708994/flesh-and-blood-tcg-mastery-pack-warrior-put-in-context-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 708995,
+      "name": "Money Where Ya Mouth Is",
+      "label": "Red",
+      "number": "MPW150",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708995/flesh-and-blood-tcg-mastery-pack-warrior-money-where-ya-mouth-is-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 708996,
+      "name": "Overbear",
+      "label": "Red",
+      "number": "MPW151",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708996/flesh-and-blood-tcg-mastery-pack-warrior-overbear-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.78,
+          "low": 0.25,
+          "mid": 0.78
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 708997,
+      "name": "Starting Stake",
+      "label": "Yellow",
+      "number": "MPW152",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708997/flesh-and-blood-tcg-mastery-pack-warrior-starting-stake-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 708998,
+      "name": "Gold",
+      "number": "MPW154",
+      "rarity": "Basic",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708998_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708998/flesh-and-blood-tcg-mastery-pack-warrior-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 708999,
+      "name": "Dorinthea",
+      "label": "Marvel",
+      "number": "MPW155",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708999/flesh-and-blood-tcg-mastery-pack-warrior-dorinthea-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 20.7,
+          "low": 19.99,
+          "mid": 30.98
+        }
+      ]
+    },
+    {
+      "id": 709022,
+      "name": "Quicksilver Dance",
+      "number": "MPW047",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709022_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709022/flesh-and-blood-tcg-mastery-pack-warrior-quicksilver-dance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.2,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.25,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 709106,
+      "name": "Hala, Bladesaint of the Vow",
+      "label": "Marvel",
+      "number": "MPW003",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709106_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709106/flesh-and-blood-tcg-mastery-pack-warrior-hala-bladesaint-of-the-vow-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 343.62,
+          "low": 271,
+          "mid": 285.78
+        }
+      ]
+    },
+    {
+      "id": 710569,
+      "name": "Sharpening Sparks",
+      "number": "MPW026",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710569/flesh-and-blood-tcg-mastery-pack-warrior-sharpening-sparks",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.02,
+          "low": 1,
+          "mid": 2.65
+        }
+      ]
+    },
+    {
+      "id": 710573,
+      "name": "Stand Tall",
+      "label": "Extended Art",
+      "number": "MPW037",
+      "rarity": "Majestic",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/710573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/710573/flesh-and-blood-tcg-mastery-pack-warrior-stand-tall-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 29.91,
+          "low": 27,
+          "mid": 30.79
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

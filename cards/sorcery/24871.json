@@ -1,0 +1,72 @@
+{
+  "groupId": 24871,
+  "cards": [
+    {
+      "id": 715988,
+      "name": "Apurrentice Wizard",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/715988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/715988/sorcery-contested-realm-welcome-kit-promos-apurrentice-wizard",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 21.64,
+          "low": 17,
+          "mid": 21
+        }
+      ]
+    },
+    {
+      "id": 715989,
+      "name": "Apurrentice Wizard",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/715989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/715989/sorcery-contested-realm-welcome-kit-promos-apurrentice-wizard-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 229.99,
+          "low": 175,
+          "mid": 229.99
+        }
+      ]
+    },
+    {
+      "id": 715990,
+      "name": "Grandmeowster Wizard",
+      "rarity": "Elite",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/715990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/715990/sorcery-contested-realm-welcome-kit-promos-grandmeowster-wizard",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 139.1,
+          "low": 120,
+          "mid": 130
+        }
+      ]
+    },
+    {
+      "id": 715991,
+      "name": "Grandmeowster Wizard",
+      "label": "Foil",
+      "rarity": "Elite",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/715991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/715991/sorcery-contested-realm-welcome-kit-promos-grandmeowster-wizard-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 569.69,
+          "low": 599.99,
+          "mid": 599.99
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

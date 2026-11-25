@@ -1,0 +1,527 @@
+{
+  "groupId": 24474,
+  "cards": [
+    {
+      "id": 663012,
+      "name": "Rhinar, Reckless Rampage",
+      "number": "ARR001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663012/flesh-and-blood-tcg-armory-deck-rhinar-rhinar-reckless-rampage",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.15,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 663013,
+      "name": "Romping Club",
+      "number": "ARR002",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663013_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663013/flesh-and-blood-tcg-armory-deck-rhinar-romping-club",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 663016,
+      "name": "Echo Casque",
+      "number": "ARR003",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663016_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663016/flesh-and-blood-tcg-armory-deck-rhinar-echo-casque",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.29,
+          "low": 1.75,
+          "mid": 2.41
+        }
+      ]
+    },
+    {
+      "id": 663017,
+      "name": "Torc of Vim",
+      "number": "ARR004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663017_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663017/flesh-and-blood-tcg-armory-deck-rhinar-torc-of-vim",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.15,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 663018,
+      "name": "Goliath Gauntlet",
+      "number": "ARR005",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663018_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663018/flesh-and-blood-tcg-armory-deck-rhinar-goliath-gauntlet",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.31,
+          "low": 0.5,
+          "mid": 2.05
+        }
+      ]
+    },
+    {
+      "id": 663019,
+      "name": "Trampling Trackers",
+      "number": "ARR006",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663019_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663019/flesh-and-blood-tcg-armory-deck-rhinar-trampling-trackers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.65,
+          "low": 0.15,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 663026,
+      "name": "Assault and Battery",
+      "label": "Red",
+      "number": "ARR007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663026_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663026/flesh-and-blood-tcg-armory-deck-rhinar-assault-and-battery-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 663027,
+      "name": "Bare Destruction",
+      "number": "ARR008",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663027_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663027/flesh-and-blood-tcg-armory-deck-rhinar-bare-destruction",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.87,
+          "low": 4.1,
+          "mid": 5.8
+        }
+      ]
+    },
+    {
+      "id": 663028,
+      "name": "Bare Swing",
+      "label": "Red",
+      "number": "ARR009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663028_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663028/flesh-and-blood-tcg-armory-deck-rhinar-bare-swing-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.26,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 663029,
+      "name": "Massacre",
+      "number": "ARR010",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663029_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663029/flesh-and-blood-tcg-armory-deck-rhinar-massacre",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.39,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 663030,
+      "name": "Pound Town",
+      "label": "Red",
+      "number": "ARR011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663030_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663030/flesh-and-blood-tcg-armory-deck-rhinar-pound-town-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 663031,
+      "name": "Rawhide Rumble",
+      "number": "ARR012",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663031/flesh-and-blood-tcg-armory-deck-rhinar-rawhide-rumble",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 663032,
+      "name": "Show No Mercy",
+      "number": "ARR013",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663032_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663032/flesh-and-blood-tcg-armory-deck-rhinar-show-no-mercy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.15,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 663033,
+      "name": "Strongest Survive",
+      "number": "ARR014",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663033_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663033/flesh-and-blood-tcg-armory-deck-rhinar-strongest-survive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 663035,
+      "name": "Bonebreaker Bellow",
+      "label": "Red",
+      "number": "ARR015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663035_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663035/flesh-and-blood-tcg-armory-deck-rhinar-bonebreaker-bellow-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 663037,
+      "name": "Assault and Battery",
+      "label": "Yellow",
+      "number": "ARR016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663037_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663037/flesh-and-blood-tcg-armory-deck-rhinar-assault-and-battery-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 663038,
+      "name": "Bare Swing",
+      "label": "Yellow",
+      "number": "ARR017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663038_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663038/flesh-and-blood-tcg-armory-deck-rhinar-bare-swing-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.6,
+          "low": 0.25,
+          "mid": 1.58
+        }
+      ]
+    },
+    {
+      "id": 663039,
+      "name": "Beast Within",
+      "number": "ARR018",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663039_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663039/flesh-and-blood-tcg-armory-deck-rhinar-beast-within",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.07,
+          "low": 4.01,
+          "mid": 5.75
+        }
+      ]
+    },
+    {
+      "id": 663040,
+      "name": "Buckwild",
+      "number": "ARR019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663040_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663040/flesh-and-blood-tcg-armory-deck-rhinar-buckwild",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.31,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 663041,
+      "name": "Pound Town",
+      "label": "Yellow",
+      "number": "ARR020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663041_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663041/flesh-and-blood-tcg-armory-deck-rhinar-pound-town-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 663042,
+      "name": "Smell Fear",
+      "label": "Yellow",
+      "number": "ARR021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663042_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663042/flesh-and-blood-tcg-armory-deck-rhinar-smell-fear-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.91,
+          "low": 0.65,
+          "mid": 0.91
+        }
+      ]
+    },
+    {
+      "id": 663043,
+      "name": "Alpha Instinct",
+      "number": "ARR022",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663043_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663043/flesh-and-blood-tcg-armory-deck-rhinar-alpha-instinct",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.74,
+          "low": 2.2,
+          "mid": 2.74
+        }
+      ]
+    },
+    {
+      "id": 663044,
+      "name": "Wrecker Romp",
+      "number": "ARR023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663044_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663044/flesh-and-blood-tcg-armory-deck-rhinar-wrecker-romp",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.1,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 663045,
+      "name": "Barraging Beatdown",
+      "label": "Blue",
+      "number": "ARR024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663045_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663045/flesh-and-blood-tcg-armory-deck-rhinar-barraging-beatdown-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 663046,
+      "name": "Bonebreaker Bellow",
+      "label": "Blue",
+      "number": "ARR025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663046_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663046/flesh-and-blood-tcg-armory-deck-rhinar-bonebreaker-bellow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 663047,
+      "name": "Clearing Bellow",
+      "number": "ARR026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663047_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663047/flesh-and-blood-tcg-armory-deck-rhinar-clearing-bellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 663048,
+      "name": "Smashback Alehorn",
+      "number": "ARR027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663048_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663048/flesh-and-blood-tcg-armory-deck-rhinar-smashback-alehorn",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.09,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 663049,
+      "name": "Agility",
+      "number": "ARR029",
+      "rarity": "Basic",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663049_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663049/flesh-and-blood-tcg-armory-deck-rhinar-agility",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 6.62,
+          "mid": 6.89
+        }
+      ]
+    },
+    {
+      "id": 663050,
+      "name": "Might",
+      "number": "ARR030",
+      "rarity": "Basic",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663050_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663050/flesh-and-blood-tcg-armory-deck-rhinar-might",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.06,
+          "low": 0.88,
+          "mid": 1.04
+        }
+      ]
+    },
+    {
+      "id": 663051,
+      "name": "Smell Fear",
+      "label": "Blue",
+      "number": "ARR028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/663051_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/663051/flesh-and-blood-tcg-armory-deck-rhinar-smell-fear-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.11,
+          "low": 4.11,
+          "mid": 4.22
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

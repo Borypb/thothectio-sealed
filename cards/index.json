@@ -602,7 +602,7 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-11-23T18:56:41.563",
+          "modifiedOn": "2026-11-23T21:32:00.443",
           "count": 136,
           "file": "cards/digimon/24865.json",
           "version": "b72fe57a03af"
@@ -612,20 +612,20 @@
           "name": "Starter Deck 25: Rubeusdramon",
           "code": "BD01",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-20T16:42:58.277",
-          "count": 16,
+          "modifiedOn": "2026-11-24T16:32:04.117",
+          "count": 18,
           "file": "cards/digimon/24932.json",
-          "version": "bfdc28796e76"
+          "version": "82f194ccf004"
         },
         {
           "groupId": 24929,
           "name": "Starter Deck 26: Yukinamon",
           "code": "BD02",
           "releasedAt": "2026-12-04",
-          "modifiedOn": "2026-11-20T16:43:54.297",
-          "count": 16,
+          "modifiedOn": "2026-11-24T16:40:18.143",
+          "count": 18,
           "file": "cards/digimon/24929.json",
-          "version": "090c76414088"
+          "version": "b2e2bc5b0a01"
         },
         {
           "groupId": 24941,
@@ -2140,7 +2140,7 @@
           "name": "Gundam Promotional Cards",
           "code": "GCG-PR",
           "releasedAt": "2025-03-01",
-          "modifiedOn": "2026-11-09T13:27:43.47",
+          "modifiedOn": "2026-11-23T20:36:53.803",
           "count": 231,
           "file": "cards/gundam/24340.json",
           "version": "3fee3ca5a197"
@@ -3409,7 +3409,1161 @@
           "version": "9ab3ffa94c5d"
         }
       ]
+    },
+    "fab": {
+      "categoryId": 62,
+      "category": "Flesh & Blood TCG",
+      "sets": [
+        {
+          "groupId": 24940,
+          "name": "Mastery Pack Brute",
+          "code": "MPB",
+          "releasedAt": "2027-04-02",
+          "modifiedOn": "2026-11-19T18:00:57.72",
+          "count": 13,
+          "file": "cards/fab/24940.json",
+          "version": "14669a4ffd9f"
+        },
+        {
+          "groupId": 24914,
+          "name": "Outbreak",
+          "code": "OBK",
+          "releasedAt": "2027-02-12",
+          "modifiedOn": "2026-11-18T20:03:32.143",
+          "count": 65,
+          "file": "cards/fab/24914.json",
+          "version": "09752c85bbb8"
+        },
+        {
+          "groupId": 24913,
+          "name": "Armory Deck: Min",
+          "code": "AMG",
+          "releasedAt": "2027-02-05",
+          "modifiedOn": "2026-11-11T20:05:05.137",
+          "count": 7,
+          "file": "cards/fab/24913.json",
+          "version": "424108534697"
+        },
+        {
+          "groupId": 24915,
+          "name": "Silver Age: Outbreak",
+          "releasedAt": "2027-02-05",
+          "modifiedOn": "2026-11-04T16:04:31.907",
+          "count": 5,
+          "file": "cards/fab/24915.json",
+          "version": "1a423e4b4ccb"
+        },
+        {
+          "groupId": 24814,
+          "name": "Armory Deck: Dr. Mortimer",
+          "code": "AMO",
+          "releasedAt": "2026-11-13",
+          "modifiedOn": "2026-11-04T15:48:08.11",
+          "count": 30,
+          "file": "cards/fab/24814.json",
+          "version": "b7540fecc1ef"
+        },
+        {
+          "groupId": 24818,
+          "name": "Mastery Pack Assassin",
+          "code": "MPA",
+          "releasedAt": "2026-11-13",
+          "modifiedOn": "2026-11-12T02:41:00.373",
+          "count": 160,
+          "file": "cards/fab/24818.json",
+          "version": "bdc9326c6608"
+        },
+        {
+          "groupId": 24773,
+          "name": "Smash Palace: Chorus of Steel",
+          "code": "SPW",
+          "releasedAt": "2026-10-30",
+          "modifiedOn": "2026-10-27T15:28:05.37",
+          "count": 28,
+          "file": "cards/fab/24773.json",
+          "version": "10ac0d8f0e3e"
+        },
+        {
+          "groupId": 24774,
+          "name": "GEM Pack 6",
+          "code": "GEM",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-10-14T14:11:30.417",
+          "count": 53,
+          "file": "cards/fab/24774.json",
+          "version": "f36a7fcc699f"
+        },
+        {
+          "groupId": 24762,
+          "name": "Usurp the Shadow Throne",
+          "code": "IAR",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-11-12T18:10:56.83",
+          "count": 291,
+          "file": "cards/fab/24762.json",
+          "version": "beff4801c73b"
+        },
+        {
+          "groupId": 24776,
+          "name": "Usurp the Shadow Throne Pre-release Cards",
+          "code": "IAR",
+          "releasedAt": "2026-09-25",
+          "modifiedOn": "2026-10-27T19:54:31.85",
+          "count": 6,
+          "file": "cards/fab/24776.json",
+          "version": "d8e6608a119d"
+        },
+        {
+          "groupId": 24763,
+          "name": "Armory Deck: Malice",
+          "code": "AMA",
+          "releasedAt": "2026-09-18",
+          "modifiedOn": "2026-09-10T12:49:40.037",
+          "count": 30,
+          "file": "cards/fab/24763.json",
+          "version": "5b2136495c6e"
+        },
+        {
+          "groupId": 24764,
+          "name": "Silver Age: Usurp the Shadow Throne",
+          "code": "SAT",
+          "releasedAt": "2026-09-18",
+          "modifiedOn": "2026-09-08T14:50:45.017",
+          "count": 68,
+          "file": "cards/fab/24764.json",
+          "version": "b9263f07881b"
+        },
+        {
+          "groupId": 24672,
+          "name": "Armory Deck: Olympia",
+          "code": "AOL",
+          "releasedAt": "2026-08-07",
+          "modifiedOn": "2026-08-13T20:21:24.023",
+          "count": 29,
+          "file": "cards/fab/24672.json",
+          "version": "db536d890723"
+        },
+        {
+          "groupId": 24936,
+          "name": "Demo Deck: Dorinthea",
+          "code": "DDD",
+          "releasedAt": "2026-08-07",
+          "modifiedOn": "2026-11-04T15:17:42.337",
+          "count": 16,
+          "file": "cards/fab/24936.json",
+          "version": "712f3c64a13a"
+        },
+        {
+          "groupId": 24671,
+          "name": "Mastery Pack Warrior",
+          "code": "MPW",
+          "releasedAt": "2026-08-07",
+          "modifiedOn": "2026-11-19T14:22:10.927",
+          "count": 165,
+          "file": "cards/fab/24671.json",
+          "version": "92e3b5328026"
+        },
+        {
+          "groupId": 24720,
+          "name": "GEM Pack 5",
+          "code": "GEM",
+          "releasedAt": "2026-06-05",
+          "modifiedOn": "2026-11-04T14:48:58.203",
+          "count": 61,
+          "file": "cards/fab/24720.json",
+          "version": "2ecb00af6c0d"
+        },
+        {
+          "groupId": 24640,
+          "name": "Omens of the Third Age",
+          "code": "OMN",
+          "releasedAt": "2026-06-05",
+          "modifiedOn": "2026-11-12T17:35:55.82",
+          "count": 302,
+          "file": "cards/fab/24640.json",
+          "version": "1993eef10665"
+        },
+        {
+          "groupId": 24706,
+          "name": "Silver Age Chapter 3",
+          "releasedAt": "2026-06-05",
+          "modifiedOn": "2026-08-06T00:18:10.99",
+          "count": 175,
+          "file": "cards/fab/24706.json",
+          "version": "2a3779411510"
+        },
+        {
+          "groupId": 24639,
+          "name": "Armory Deck: Zyggy",
+          "code": "AZS",
+          "releasedAt": "2026-05-29",
+          "modifiedOn": "2026-10-12T18:14:48.287",
+          "count": 30,
+          "file": "cards/fab/24639.json",
+          "version": "b1f72dd5dfd2"
+        },
+        {
+          "groupId": 24610,
+          "name": "Armory Deck Origins: Hala",
+          "code": "AHA",
+          "releasedAt": "2026-04-17",
+          "modifiedOn": "2026-04-26T15:28:08.893",
+          "count": 27,
+          "file": "cards/fab/24610.json",
+          "version": "c81b8389e419"
+        },
+        {
+          "groupId": 24620,
+          "name": "GEM Pack 4",
+          "code": "GEM",
+          "releasedAt": "2026-02-14",
+          "modifiedOn": "2026-05-04T14:17:41.903",
+          "count": 54,
+          "file": "cards/fab/24620.json",
+          "version": "b68f5ca12b17"
+        },
+        {
+          "groupId": 24532,
+          "name": "Compendium of Rathe",
+          "code": "PEN",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-11-19T19:48:42.25",
+          "count": 368,
+          "file": "cards/fab/24532.json",
+          "version": "9e4390249256"
+        },
+        {
+          "groupId": 24533,
+          "name": "Compendium of Rathe - Antiquity Pack",
+          "code": "ANQ",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-09-03T14:03:16.773",
+          "count": 65,
+          "file": "cards/fab/24533.json",
+          "version": "165687d9438a"
+        },
+        {
+          "groupId": 24524,
+          "name": "Silver Age Chapter 1",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-11-20T15:41:50.16",
+          "count": 173,
+          "file": "cards/fab/24524.json",
+          "version": "b358560ce144"
+        },
+        {
+          "groupId": 24525,
+          "name": "Silver Age Chapter 2",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-02-10T15:22:51.5",
+          "count": 169,
+          "file": "cards/fab/24525.json",
+          "version": "2bd96e18e27d"
+        },
+        {
+          "groupId": 24526,
+          "name": "Armory Deck: Arakni",
+          "releasedAt": "2025-12-12",
+          "modifiedOn": "2026-08-25T20:27:39.13",
+          "count": 31,
+          "file": "cards/fab/24526.json",
+          "version": "b49796aaef5e"
+        },
+        {
+          "groupId": 24474,
+          "name": "Armory Deck: Rhinar",
+          "releasedAt": "2025-11-14",
+          "modifiedOn": "2025-11-21T20:41:34.96",
+          "count": 30,
+          "file": "cards/fab/24474.json",
+          "version": "cce1dacfd547"
+        },
+        {
+          "groupId": 24446,
+          "name": "GEM Pack 3",
+          "code": "GEM",
+          "releasedAt": "2025-09-30",
+          "modifiedOn": "2026-02-19T14:44:55.75",
+          "count": 54,
+          "file": "cards/fab/24446.json",
+          "version": "490a1e3e2316"
+        },
+        {
+          "groupId": 24371,
+          "name": "Super Slam",
+          "code": "SUP",
+          "releasedAt": "2025-09-26",
+          "modifiedOn": "2026-11-20T14:24:52.033",
+          "count": 301,
+          "file": "cards/fab/24371.json",
+          "version": "98db247d521a"
+        },
+        {
+          "groupId": 24375,
+          "name": "Armory Deck: Pleiades",
+          "releasedAt": "2025-09-19",
+          "modifiedOn": "2026-10-06T19:45:43.71",
+          "count": 32,
+          "file": "cards/fab/24375.json",
+          "version": "dd291c4085b6"
+        },
+        {
+          "groupId": 24415,
+          "name": "Smash Palace",
+          "releasedAt": "2025-08-08",
+          "modifiedOn": "2026-07-20T15:01:54.803",
+          "count": 32,
+          "file": "cards/fab/24415.json",
+          "version": "6cdaf6bfcbc5"
+        },
+        {
+          "groupId": 24330,
+          "name": "Mastery Pack Guardian",
+          "releasedAt": "2025-08-06",
+          "modifiedOn": "2026-10-06T19:48:42.077",
+          "count": 148,
+          "file": "cards/fab/24330.json",
+          "version": "6f1cdff46155"
+        },
+        {
+          "groupId": 24417,
+          "name": "Armory Deck: Legends Prism",
+          "releasedAt": "2025-08-01",
+          "modifiedOn": "2026-05-11T18:55:16.117",
+          "count": 27,
+          "file": "cards/fab/24417.json",
+          "version": "29940b13cb5c"
+        },
+        {
+          "groupId": 24416,
+          "name": "Armory Deck: Legends Viserai",
+          "releasedAt": "2025-08-01",
+          "modifiedOn": "2026-10-13T13:20:09.513",
+          "count": 30,
+          "file": "cards/fab/24416.json",
+          "version": "ff05a7b6881e"
+        },
+        {
+          "groupId": 24391,
+          "name": "Welcome Deck Bravo",
+          "code": "BDD",
+          "releasedAt": "2025-08-01",
+          "modifiedOn": "2026-10-06T20:07:36.563",
+          "count": 18,
+          "file": "cards/fab/24391.json",
+          "version": "905b2d7cdfad"
+        },
+        {
+          "groupId": 24315,
+          "name": "Armory Deck: Ira",
+          "releasedAt": "2025-07-11",
+          "modifiedOn": "2026-08-13T01:09:16.447",
+          "count": 27,
+          "file": "cards/fab/24315.json",
+          "version": "1d4fa746c7a6"
+        },
+        {
+          "groupId": 24266,
+          "name": "High Seas",
+          "releasedAt": "2025-06-06",
+          "modifiedOn": "2026-10-13T18:00:42.513",
+          "count": 375,
+          "file": "cards/fab/24266.json",
+          "version": "e5ac7cebb660"
+        },
+        {
+          "groupId": 24334,
+          "name": "GEM Pack 2",
+          "code": "GEM",
+          "releasedAt": "2025-06-02",
+          "modifiedOn": "2026-09-03T14:02:39.66",
+          "count": 54,
+          "file": "cards/fab/24334.json",
+          "version": "8b2d71204fe2"
+        },
+        {
+          "groupId": 24268,
+          "name": "Armory Deck: Gravy Bones",
+          "releasedAt": "2025-05-30",
+          "modifiedOn": "2026-08-13T00:49:35.887",
+          "count": 49,
+          "file": "cards/fab/24268.json",
+          "version": "888522947fa1"
+        },
+        {
+          "groupId": 24253,
+          "name": "Armory Deck: Maxx Nitro",
+          "releasedAt": "2025-04-17",
+          "modifiedOn": "2025-04-30T13:11:06.31",
+          "count": 30,
+          "file": "cards/fab/24253.json",
+          "version": "b35e138e8e13"
+        },
+        {
+          "groupId": 24162,
+          "name": "Armory Deck: Aurora",
+          "releasedAt": "2025-03-14",
+          "modifiedOn": "2026-08-13T00:46:55.977",
+          "count": 28,
+          "file": "cards/fab/24162.json",
+          "version": "8cb81aecc34e"
+        },
+        {
+          "groupId": 24176,
+          "name": "GEM Pack 1",
+          "code": "GEM",
+          "releasedAt": "2025-02-01",
+          "modifiedOn": "2026-09-04T17:35:35.99",
+          "count": 50,
+          "file": "cards/fab/24176.json",
+          "version": "d082fe8e763a"
+        },
+        {
+          "groupId": 24212,
+          "name": "Blitz Deck: The Hunted - Arakni",
+          "releasedAt": "2025-01-31",
+          "modifiedOn": "2026-08-13T00:54:02.84",
+          "count": 26,
+          "file": "cards/fab/24212.json",
+          "version": "c5422e684b9a"
+        },
+        {
+          "groupId": 24214,
+          "name": "Blitz Deck: The Hunted - Arakni, Web of Deceit",
+          "releasedAt": "2025-01-31",
+          "modifiedOn": "2026-08-13T00:55:00.893",
+          "count": 31,
+          "file": "cards/fab/24214.json",
+          "version": "a5926f7d21b0"
+        },
+        {
+          "groupId": 24215,
+          "name": "Blitz Deck: The Hunted - Cindra",
+          "releasedAt": "2025-01-31",
+          "modifiedOn": "2026-10-22T13:58:14.31",
+          "count": 29,
+          "file": "cards/fab/24215.json",
+          "version": "1e20ba9bff0e"
+        },
+        {
+          "groupId": 24213,
+          "name": "Blitz Deck: The Hunted - Fang",
+          "releasedAt": "2025-01-31",
+          "modifiedOn": "2026-08-13T00:56:30.83",
+          "count": 28,
+          "file": "cards/fab/24213.json",
+          "version": "d928f7ba210a"
+        },
+        {
+          "groupId": 23815,
+          "name": "The Hunted",
+          "releasedAt": "2025-01-31",
+          "modifiedOn": "2026-08-14T14:03:11.46",
+          "count": 299,
+          "file": "cards/fab/23815.json",
+          "version": "eebd5925f3d1"
+        },
+        {
+          "groupId": 23771,
+          "name": "Armory Deck: Jarl Vetreidi",
+          "releasedAt": "2024-11-29",
+          "modifiedOn": "2026-03-12T13:25:42.55",
+          "count": 27,
+          "file": "cards/fab/23771.json",
+          "version": "05309f01ac71"
+        },
+        {
+          "groupId": 23738,
+          "name": "Armory Deck: Dash",
+          "code": "ADD",
+          "releasedAt": "2024-10-18",
+          "modifiedOn": "2026-09-11T15:31:12.457",
+          "count": 27,
+          "file": "cards/fab/23738.json",
+          "version": "b534b1d7be36"
+        },
+        {
+          "groupId": 23742,
+          "name": "Blitz Deck: Rosetta - Aurora",
+          "code": "ARA",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-08-13T00:58:38.413",
+          "count": 29,
+          "file": "cards/fab/23742.json",
+          "version": "2d7427c45745"
+        },
+        {
+          "groupId": 23741,
+          "name": "Blitz Deck: Rosetta - Florian",
+          "code": "FLR",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-08-13T01:00:23.317",
+          "count": 29,
+          "file": "cards/fab/23741.json",
+          "version": "46ebf85307e1"
+        },
+        {
+          "groupId": 23744,
+          "name": "Blitz Deck: Rosetta - Oscilio",
+          "code": "OSC",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-08-13T01:00:55.113",
+          "count": 29,
+          "file": "cards/fab/23744.json",
+          "version": "6cf21d335755"
+        },
+        {
+          "groupId": 23745,
+          "name": "Blitz Deck: Rosetta - Verdance",
+          "code": "VER",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-08-13T01:01:26.52",
+          "count": 28,
+          "file": "cards/fab/23745.json",
+          "version": "0793995f7278"
+        },
+        {
+          "groupId": 23540,
+          "name": "Rosetta",
+          "code": "ROS",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-10-05T14:48:05.117",
+          "count": 327,
+          "file": "cards/fab/23540.json",
+          "version": "5f5486740927"
+        },
+        {
+          "groupId": 23548,
+          "name": "1st Strike",
+          "releasedAt": "2024-08-23",
+          "modifiedOn": "2026-08-12T21:51:02.63",
+          "count": 62,
+          "file": "cards/fab/23548.json",
+          "version": "256adc1eca55"
+        },
+        {
+          "groupId": 23558,
+          "name": "Armory Deck: Azalea",
+          "code": "ADA",
+          "releasedAt": "2024-08-02",
+          "modifiedOn": "2026-04-30T18:33:12.313",
+          "count": 32,
+          "file": "cards/fab/23558.json",
+          "version": "8b77dd7df132"
+        },
+        {
+          "groupId": 23534,
+          "name": "Armory Deck: Boltyn",
+          "releasedAt": "2024-07-12",
+          "modifiedOn": "2025-03-17T20:39:54.06",
+          "count": 28,
+          "file": "cards/fab/23534.json",
+          "version": "e6a5709e4ef5"
+        },
+        {
+          "groupId": 23477,
+          "name": "Blitz Deck: Part the Mistveil - Enigma",
+          "releasedAt": "2024-05-17",
+          "modifiedOn": "2026-08-12T21:49:45.313",
+          "count": 29,
+          "file": "cards/fab/23477.json",
+          "version": "4f27428a29ba"
+        },
+        {
+          "groupId": 23478,
+          "name": "Blitz Deck: Part the Mistveil - Nuu",
+          "releasedAt": "2024-05-17",
+          "modifiedOn": "2026-08-12T21:48:55.183",
+          "count": 28,
+          "file": "cards/fab/23478.json",
+          "version": "e6770fc480e6"
+        },
+        {
+          "groupId": 23479,
+          "name": "Blitz Deck: Part the Mistveil - Zen",
+          "releasedAt": "2024-05-17",
+          "modifiedOn": "2026-08-12T21:47:18.04",
+          "count": 29,
+          "file": "cards/fab/23479.json",
+          "version": "6894804e0a65"
+        },
+        {
+          "groupId": 23476,
+          "name": "Part the Mistveil",
+          "code": "MST",
+          "releasedAt": "2024-05-17",
+          "modifiedOn": "2026-08-19T17:12:56.013",
+          "count": 265,
+          "file": "cards/fab/23476.json",
+          "version": "6a8bbf676faf"
+        },
+        {
+          "groupId": 23506,
+          "name": "Armory Deck: Kayo",
+          "releasedAt": "2024-05-03",
+          "modifiedOn": "2026-10-06T20:13:36.7",
+          "count": 28,
+          "file": "cards/fab/23506.json",
+          "version": "ce2c61b34f50"
+        },
+        {
+          "groupId": 23390,
+          "name": "Blitz Deck: Heavy Hitters - Betsy",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:04:21.177",
+          "count": 31,
+          "file": "cards/fab/23390.json",
+          "version": "e320d25b5112"
+        },
+        {
+          "groupId": 23384,
+          "name": "Blitz Deck: Heavy Hitters - Kassai",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:05:09.34",
+          "count": 30,
+          "file": "cards/fab/23384.json",
+          "version": "fadf97611257"
+        },
+        {
+          "groupId": 23388,
+          "name": "Blitz Deck: Heavy Hitters - Kayo",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:05:36.023",
+          "count": 29,
+          "file": "cards/fab/23388.json",
+          "version": "5a406768de9a"
+        },
+        {
+          "groupId": 23391,
+          "name": "Blitz Deck: Heavy Hitters - Olympia",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:05:58.947",
+          "count": 30,
+          "file": "cards/fab/23391.json",
+          "version": "1b0f5a3b5ca5"
+        },
+        {
+          "groupId": 23389,
+          "name": "Blitz Deck: Heavy Hitters - Rhinar",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:06:59.473",
+          "count": 29,
+          "file": "cards/fab/23389.json",
+          "version": "064c0d6d0cab"
+        },
+        {
+          "groupId": 23392,
+          "name": "Blitz Deck: Heavy Hitters - Victor",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-13T01:07:52.927",
+          "count": 30,
+          "file": "cards/fab/23392.json",
+          "version": "6fd024c985e8"
+        },
+        {
+          "groupId": 23354,
+          "name": "Heavy Hitters",
+          "code": "HVY",
+          "releasedAt": "2024-02-02",
+          "modifiedOn": "2026-08-24T13:15:20.007",
+          "count": 262,
+          "file": "cards/fab/23354.json",
+          "version": "3321310f9986"
+        },
+        {
+          "groupId": 23277,
+          "name": "Bright Lights",
+          "code": "EVO",
+          "releasedAt": "2023-10-06",
+          "modifiedOn": "2025-11-10T21:41:32.19",
+          "count": 261,
+          "file": "cards/fab/23277.json",
+          "version": "24f33f93f2d2"
+        },
+        {
+          "groupId": 23295,
+          "name": "Round the Table: TCCxLSS",
+          "code": "TCC",
+          "releasedAt": "2023-09-29",
+          "modifiedOn": "2026-03-16T17:13:32.86",
+          "count": 110,
+          "file": "cards/fab/23295.json",
+          "version": "b30daee33411"
+        },
+        {
+          "groupId": 23173,
+          "name": "Dusk till Dawn",
+          "code": "DTD",
+          "releasedAt": "2023-07-14",
+          "modifiedOn": "2026-06-12T15:59:28.623",
+          "count": 252,
+          "file": "cards/fab/23173.json",
+          "version": "d12d7c1735d3"
+        },
+        {
+          "groupId": 23760,
+          "name": "Historic Pack 1 Blitz Deck: Bravo",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-08T17:34:42.933",
+          "count": 27,
+          "file": "cards/fab/23760.json",
+          "version": "a1d5f558f4a1"
+        },
+        {
+          "groupId": 23761,
+          "name": "Historic Pack 1 Blitz Deck: Dash",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-08T17:44:15.587",
+          "count": 28,
+          "file": "cards/fab/23761.json",
+          "version": "801489d9fb14"
+        },
+        {
+          "groupId": 23762,
+          "name": "Historic Pack 1 Blitz Deck: Dorinthea",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-08T17:39:10.693",
+          "count": 27,
+          "file": "cards/fab/23762.json",
+          "version": "a2444000a456"
+        },
+        {
+          "groupId": 23763,
+          "name": "Historic Pack 1 Blitz Deck: Kano",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-08T17:40:28.05",
+          "count": 27,
+          "file": "cards/fab/23763.json",
+          "version": "2c5fe86d0626"
+        },
+        {
+          "groupId": 23764,
+          "name": "Historic Pack 1 Blitz Deck: Rhinar",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-08T17:40:56.993",
+          "count": 26,
+          "file": "cards/fab/23764.json",
+          "version": "628c67a4c722"
+        },
+        {
+          "groupId": 23765,
+          "name": "Historic Pack 1 Blitz Deck: Viserai",
+          "releasedAt": "2023-04-07",
+          "modifiedOn": "2026-07-20T15:02:45.617",
+          "count": 27,
+          "file": "cards/fab/23765.json",
+          "version": "966c72800ae2"
+        },
+        {
+          "groupId": 22898,
+          "name": "Blitz Deck: Outsiders - Arakni",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2025-03-03T20:53:21.423",
+          "count": 29,
+          "file": "cards/fab/22898.json",
+          "version": "d9936f6034d1"
+        },
+        {
+          "groupId": 22899,
+          "name": "Blitz Deck: Outsiders - Azalea",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2024-12-11T20:38:36.007",
+          "count": 30,
+          "file": "cards/fab/22899.json",
+          "version": "4698e9d567ab"
+        },
+        {
+          "groupId": 22900,
+          "name": "Blitz Deck: Outsiders - Benji",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2025-03-17T17:27:16.017",
+          "count": 26,
+          "file": "cards/fab/22900.json",
+          "version": "36d4ea091042"
+        },
+        {
+          "groupId": 22901,
+          "name": "Blitz Deck: Outsiders - Katsu",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2025-03-17T17:27:40.297",
+          "count": 26,
+          "file": "cards/fab/22901.json",
+          "version": "0e68eba0de51"
+        },
+        {
+          "groupId": 22902,
+          "name": "Blitz Deck: Outsiders - Riptide",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2025-03-17T16:51:44.527",
+          "count": 30,
+          "file": "cards/fab/22902.json",
+          "version": "f250b5168bd1"
+        },
+        {
+          "groupId": 22903,
+          "name": "Blitz Deck: Outsiders - Uzuri",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2025-03-17T17:28:39.263",
+          "count": 31,
+          "file": "cards/fab/22903.json",
+          "version": "1ea6686411ec"
+        },
+        {
+          "groupId": 22893,
+          "name": "Outsiders",
+          "code": "OUT",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2026-05-08T13:38:12.36",
+          "count": 255,
+          "file": "cards/fab/22893.json",
+          "version": "7480b1102a35"
+        },
+        {
+          "groupId": 17678,
+          "name": "Dynasty",
+          "code": "DYN",
+          "releasedAt": "2022-11-11",
+          "modifiedOn": "2025-03-12T21:11:52.103",
+          "count": 265,
+          "file": "cards/fab/17678.json",
+          "version": "8fdcd7e3fca4"
+        },
+        {
+          "groupId": 3060,
+          "name": "Blitz Deck: Uprising - Dromai",
+          "code": "DRO",
+          "releasedAt": "2022-07-01",
+          "modifiedOn": "2026-07-06T15:04:51.67",
+          "count": 28,
+          "file": "cards/fab/3060.json",
+          "version": "04422f3bad73"
+        },
+        {
+          "groupId": 3059,
+          "name": "Blitz Deck: Uprising - Fai",
+          "code": "FAI",
+          "releasedAt": "2022-07-01",
+          "modifiedOn": "2025-03-17T16:59:29.297",
+          "count": 26,
+          "file": "cards/fab/3059.json",
+          "version": "e8b51b681893"
+        },
+        {
+          "groupId": 3056,
+          "name": "Uprising",
+          "code": "UPR",
+          "releasedAt": "2022-07-01",
+          "modifiedOn": "2025-03-17T16:53:34.89",
+          "count": 243,
+          "file": "cards/fab/3056.json",
+          "version": "36bc1653813a"
+        },
+        {
+          "groupId": 3057,
+          "name": "Classic Battles: Rhinar vs Dorinthea",
+          "code": "RVD/DVR",
+          "releasedAt": "2022-05-27",
+          "modifiedOn": "2025-03-03T19:30:32.607",
+          "count": 55,
+          "file": "cards/fab/3057.json",
+          "version": "88af304f6ff7"
+        },
+        {
+          "groupId": 3053,
+          "name": "History Pack Vol.1",
+          "code": "1HP",
+          "releasedAt": "2022-05-06",
+          "modifiedOn": "2025-11-26T14:19:33.753",
+          "count": 427,
+          "file": "cards/fab/3053.json",
+          "version": "83f3eac67579"
+        },
+        {
+          "groupId": 2947,
+          "name": "Everfest",
+          "code": "EVR",
+          "releasedAt": "2022-02-04",
+          "modifiedOn": "2026-11-02T22:08:02.313",
+          "count": 222,
+          "file": "cards/fab/2947.json",
+          "version": "87b82cb3a716"
+        },
+        {
+          "groupId": 3018,
+          "name": "Blitz Deck: Tales of Aria - Briar",
+          "code": "BRI",
+          "releasedAt": "2021-09-24",
+          "modifiedOn": "2026-05-08T13:40:21.253",
+          "count": 30,
+          "file": "cards/fab/3018.json",
+          "version": "6ee5b76abe9b"
+        },
+        {
+          "groupId": 3016,
+          "name": "Blitz Deck: Tales of Aria - Lexi",
+          "code": "LXI",
+          "releasedAt": "2021-09-24",
+          "modifiedOn": "2025-03-12T21:59:19.213",
+          "count": 30,
+          "file": "cards/fab/3016.json",
+          "version": "41a6136fb80c"
+        },
+        {
+          "groupId": 3017,
+          "name": "Blitz Deck: Tales of Aria - Oldhim",
+          "code": "OLD",
+          "releasedAt": "2021-09-24",
+          "modifiedOn": "2026-02-03T14:31:36.29",
+          "count": 32,
+          "file": "cards/fab/3017.json",
+          "version": "50a2cc48bca4"
+        },
+        {
+          "groupId": 2885,
+          "name": "Tales of Aria",
+          "code": "ELE",
+          "releasedAt": "2021-09-24",
+          "modifiedOn": "2025-03-12T15:28:55.41",
+          "count": 239,
+          "file": "cards/fab/2885.json",
+          "version": "221b78076b38"
+        },
+        {
+          "groupId": 2819,
+          "name": "Blitz Deck: Monarch - Boltyn",
+          "code": "BOL",
+          "releasedAt": "2021-05-14",
+          "modifiedOn": "2025-03-10T18:04:03.083",
+          "count": 30,
+          "file": "cards/fab/2819.json",
+          "version": "4df242962839"
+        },
+        {
+          "groupId": 2820,
+          "name": "Blitz Deck: Monarch - Chane",
+          "code": "CHN",
+          "releasedAt": "2021-05-14",
+          "modifiedOn": "2025-03-10T18:05:48.467",
+          "count": 30,
+          "file": "cards/fab/2820.json",
+          "version": "2e3721df7fb0"
+        },
+        {
+          "groupId": 2821,
+          "name": "Blitz Deck: Monarch - Levia",
+          "code": "LEV",
+          "releasedAt": "2021-05-14",
+          "modifiedOn": "2025-03-11T11:44:46.22",
+          "count": 29,
+          "file": "cards/fab/2821.json",
+          "version": "0f830b4aaa88"
+        },
+        {
+          "groupId": 2818,
+          "name": "Blitz Deck: Monarch - Prism",
+          "code": "PSM",
+          "releasedAt": "2021-05-14",
+          "modifiedOn": "2025-03-11T11:59:19.17",
+          "count": 30,
+          "file": "cards/fab/2818.json",
+          "version": "513c710af232"
+        },
+        {
+          "groupId": 2775,
+          "name": "Monarch",
+          "code": "MON",
+          "releasedAt": "2021-04-30",
+          "modifiedOn": "2026-09-11T15:31:48.547",
+          "count": 313,
+          "file": "cards/fab/2775.json",
+          "version": "be21ae69519a"
+        },
+        {
+          "groupId": 2724,
+          "name": "Crucible of War",
+          "code": "CRU",
+          "releasedAt": "2020-08-28",
+          "modifiedOn": "2026-09-11T15:30:03.27",
+          "count": 199,
+          "file": "cards/fab/2724.json",
+          "version": "63b513f74c84"
+        },
+        {
+          "groupId": 2725,
+          "name": "Arcane Rising",
+          "code": "ARC",
+          "releasedAt": "2020-03-27",
+          "modifiedOn": "2025-03-06T21:35:02.587",
+          "count": 284,
+          "file": "cards/fab/2725.json",
+          "version": "d9e3ac786da9"
+        },
+        {
+          "groupId": 2732,
+          "name": "Flesh and Blood: Promo Cards",
+          "code": "PR",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2026-11-23T16:28:40.78",
+          "count": 1288,
+          "file": "cards/fab/2732.json",
+          "version": "96ef5012f2d8"
+        },
+        {
+          "groupId": 2728,
+          "name": "Hero Deck: Bravo",
+          "code": "BVO",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2025-03-06T16:09:10.4",
+          "count": 29,
+          "file": "cards/fab/2728.json",
+          "version": "928be40aff41"
+        },
+        {
+          "groupId": 2731,
+          "name": "Hero Deck: Dorinthea",
+          "code": "TEA",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2025-03-05T19:49:57.583",
+          "count": 30,
+          "file": "cards/fab/2731.json",
+          "version": "164ce385cd19"
+        },
+        {
+          "groupId": 2730,
+          "name": "Hero Deck: Katsu",
+          "code": "KSU",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2025-03-20T18:14:42.703",
+          "count": 30,
+          "file": "cards/fab/2730.json",
+          "version": "8db23e3cf36c"
+        },
+        {
+          "groupId": 2729,
+          "name": "Hero Deck: Rhinar",
+          "code": "RNR",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2025-06-23T13:38:31.493",
+          "count": 31,
+          "file": "cards/fab/2729.json",
+          "version": "08e3c73fa950"
+        },
+        {
+          "groupId": 2726,
+          "name": "Welcome to Rathe",
+          "code": "WTR",
+          "releasedAt": "2019-10-11",
+          "modifiedOn": "2025-03-05T19:34:02.213",
+          "count": 303,
+          "file": "cards/fab/2726.json",
+          "version": "06d1a5cc8627"
+        },
+        {
+          "groupId": 2727,
+          "name": "Welcome Deck: Ira",
+          "code": "IRA",
+          "releasedAt": "2019-08-31",
+          "modifiedOn": "2025-03-03T22:40:39.52",
+          "count": 12,
+          "file": "cards/fab/2727.json",
+          "version": "edbc7501ebb4"
+        }
+      ]
+    },
+    "sorcery": {
+      "categoryId": 77,
+      "category": "Sorcery Contested Realm",
+      "sets": [
+        {
+          "groupId": 24902,
+          "name": "Frost Mage vs Lavamancer",
+          "releasedAt": "2026-11-13",
+          "modifiedOn": "2026-11-18T17:30:49.12",
+          "count": 120,
+          "file": "cards/sorcery/24902.json",
+          "version": "4af9c400d458"
+        },
+        {
+          "groupId": 24871,
+          "name": "Welcome Kit Promos",
+          "releasedAt": "2026-09-01",
+          "modifiedOn": "2026-09-09T15:26:35.71",
+          "count": 4,
+          "file": "cards/sorcery/24871.json",
+          "version": "31d491712c75"
+        },
+        {
+          "groupId": 24471,
+          "name": "Gothic",
+          "code": "GT",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-10-08T14:37:39.02",
+          "count": 893,
+          "file": "cards/sorcery/24471.json",
+          "version": "77fe7d7a1c3d"
+        },
+        {
+          "groupId": 24378,
+          "name": "Dragonlord",
+          "code": "SCRDL",
+          "releasedAt": "2025-08-02",
+          "modifiedOn": "2026-07-30T14:42:42.08",
+          "count": 26,
+          "file": "cards/sorcery/24378.json",
+          "version": "c514f22c62f7"
+        },
+        {
+          "groupId": 23588,
+          "name": "Arthurian Legends",
+          "code": "ART",
+          "releasedAt": "2024-10-04",
+          "modifiedOn": "2026-11-21T17:35:25.393",
+          "count": 448,
+          "file": "cards/sorcery/23588.json",
+          "version": "778ae0614905"
+        },
+        {
+          "groupId": 23778,
+          "name": "Arthurian Legends Promo",
+          "code": "ARTP",
+          "releasedAt": "2024-10-04",
+          "modifiedOn": "2024-12-30T14:44:47.19",
+          "count": 2,
+          "file": "cards/sorcery/23778.json",
+          "version": "5dc25499f7bc"
+        },
+        {
+          "groupId": 23514,
+          "name": "Dust Reward Promos",
+          "code": "DRP",
+          "releasedAt": "2024-05-10",
+          "modifiedOn": "2026-11-21T17:30:35.873",
+          "count": 32,
+          "file": "cards/sorcery/23514.json",
+          "version": "5eae7a214f5a"
+        },
+        {
+          "groupId": 23336,
+          "name": "Beta",
+          "code": "B",
+          "releasedAt": "2023-11-10",
+          "modifiedOn": "2026-05-08T13:25:26.613",
+          "count": 814,
+          "file": "cards/sorcery/23336.json",
+          "version": "fae6cefeddef"
+        },
+        {
+          "groupId": 23335,
+          "name": "Alpha",
+          "code": "A",
+          "releasedAt": "2023-10-26",
+          "modifiedOn": "2026-05-08T13:25:37.043",
+          "count": 951,
+          "file": "cards/sorcery/23335.json",
+          "version": "49e0776ca19e"
+        }
+      ]
     }
   },
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-25"
 }

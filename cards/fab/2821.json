@@ -1,0 +1,513 @@
+{
+  "groupId": 2821,
+  "cards": [
+    {
+      "id": 238457,
+      "name": "Levia",
+      "number": "LEV001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238457/flesh-and-blood-tcg-blitz-deck-monarch-levia-levia",
+      "prices": [
+        {
+          "sub": "Unlimited Edition Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.13,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 238458,
+      "name": "Lady Barthimont",
+      "number": "LEV002",
+      "rarity": "Majestic",
+      "type": "Mentor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238458/flesh-and-blood-tcg-blitz-deck-monarch-levia-lady-barthimont",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 238459,
+      "name": "Ravenous Meataxe",
+      "number": "LEV003",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238459/flesh-and-blood-tcg-blitz-deck-monarch-levia-ravenous-meataxe",
+      "prices": []
+    },
+    {
+      "id": 238460,
+      "name": "Ebon Fold",
+      "number": "LEV004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238460/flesh-and-blood-tcg-blitz-deck-monarch-levia-ebon-fold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238461,
+      "name": "Spell Fray Cloak",
+      "number": "LEV005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238461/flesh-and-blood-tcg-blitz-deck-monarch-levia-spell-fray-cloak",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.12,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238462,
+      "name": "Goliath Gauntlet",
+      "number": "LEV006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238462/flesh-and-blood-tcg-blitz-deck-monarch-levia-goliath-gauntlet",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.23,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 238465,
+      "name": "Hooves of the Shadowbeast",
+      "number": "LEV007",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238465/flesh-and-blood-tcg-blitz-deck-monarch-levia-hooves-of-the-shadowbeast",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.11,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 238466,
+      "name": "Soul Harvest",
+      "number": "LEV008",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238466/flesh-and-blood-tcg-blitz-deck-monarch-levia-soul-harvest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 238467,
+      "name": "Boneyard Marauder",
+      "label": "Red",
+      "number": "LEV009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238467/flesh-and-blood-tcg-blitz-deck-monarch-levia-boneyard-marauder-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.08,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 238468,
+      "name": "Deadwood Rumbler",
+      "label": "Red",
+      "number": "LEV010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238468/flesh-and-blood-tcg-blitz-deck-monarch-levia-deadwood-rumbler-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238469,
+      "name": "Dread Screamer",
+      "label": "Red",
+      "number": "LEV011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238469/flesh-and-blood-tcg-blitz-deck-monarch-levia-dread-screamer-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238474,
+      "name": "Endless Maw",
+      "label": "Red",
+      "number": "LEV012",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238474/flesh-and-blood-tcg-blitz-deck-monarch-levia-endless-maw-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.34,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 238475,
+      "name": "Graveling Growl",
+      "label": "Red",
+      "number": "LEV013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238475/flesh-and-blood-tcg-blitz-deck-monarch-levia-graveling-growl-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 238476,
+      "name": "Hungering Slaughterbeast",
+      "label": "Red",
+      "number": "LEV014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238476/flesh-and-blood-tcg-blitz-deck-monarch-levia-hungering-slaughterbeast-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238480,
+      "name": "Unworldly Bellow",
+      "label": "Red",
+      "number": "LEV015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238480/flesh-and-blood-tcg-blitz-deck-monarch-levia-unworldly-bellow-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238481,
+      "name": "Writhing Beast Hulk",
+      "label": "Red",
+      "number": "LEV016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238481/flesh-and-blood-tcg-blitz-deck-monarch-levia-writhing-beast-hulk-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.21,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 238482,
+      "name": "Hungering Slaughterbeast",
+      "label": "Yellow",
+      "number": "LEV017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238482/flesh-and-blood-tcg-blitz-deck-monarch-levia-hungering-slaughterbeast-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238483,
+      "name": "Boneyard Marauder",
+      "label": "Blue",
+      "number": "LEV018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238483/flesh-and-blood-tcg-blitz-deck-monarch-levia-boneyard-marauder-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238484,
+      "name": "Convulsions from the Bellows of Hell",
+      "label": "Blue",
+      "number": "LEV019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238484/flesh-and-blood-tcg-blitz-deck-monarch-levia-convulsions-from-the-bellows-of-hell-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.22,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 238485,
+      "name": "Deadwood Rumbler",
+      "label": "Blue",
+      "number": "LEV020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238485/flesh-and-blood-tcg-blitz-deck-monarch-levia-deadwood-rumbler-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.14,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 238486,
+      "name": "Dread Screamer",
+      "label": "Blue",
+      "number": "LEV021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238486/flesh-and-blood-tcg-blitz-deck-monarch-levia-dread-screamer-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.14,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238487,
+      "name": "Unworldly Bellow",
+      "label": "Blue",
+      "number": "LEV022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238487/flesh-and-blood-tcg-blitz-deck-monarch-levia-unworldly-bellow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238489,
+      "name": "Consuming Aftermath",
+      "label": "Red",
+      "number": "LEV023",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238489/flesh-and-blood-tcg-blitz-deck-monarch-levia-consuming-aftermath-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238490,
+      "name": "Lunartide Plunderer",
+      "label": "Yellow",
+      "number": "LEV024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238490/flesh-and-blood-tcg-blitz-deck-monarch-levia-lunartide-plunderer-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238491,
+      "name": "Blood Tribute",
+      "label": "Blue",
+      "number": "LEV025",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238491/flesh-and-blood-tcg-blitz-deck-monarch-levia-blood-tribute-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238492,
+      "name": "Smash with Big Tree",
+      "label": "Red",
+      "number": "LEV026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238492/flesh-and-blood-tcg-blitz-deck-monarch-levia-smash-with-big-tree-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238494,
+      "name": "Smash with Big Tree",
+      "label": "Yellow",
+      "number": "LEV027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238494/flesh-and-blood-tcg-blitz-deck-monarch-levia-smash-with-big-tree-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238495,
+      "name": "Rally the Rearguard",
+      "label": "Red",
+      "number": "LEV028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238495/flesh-and-blood-tcg-blitz-deck-monarch-levia-rally-the-rearguard-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238497,
+      "name": "Rally the Rearguard",
+      "label": "Blue",
+      "number": "LEV029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238497/flesh-and-blood-tcg-blitz-deck-monarch-levia-rally-the-rearguard-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

@@ -1,0 +1,6621 @@
+{
+  "groupId": 23815,
+  "cards": [
+    {
+      "id": 606622,
+      "name": "Arakni, Marionette",
+      "number": "HNT001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606622/flesh-and-blood-tcg-the-hunted-arakni-marionette",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.2,
+          "mid": 0.83
+        }
+      ]
+    },
+    {
+      "id": 606624,
+      "name": "Arakni, Marionette",
+      "label": "Marvel",
+      "number": "HNT001",
+      "rarity": "Marvel",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606624/flesh-and-blood-tcg-the-hunted-arakni-marionette-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 150.11,
+          "low": 60,
+          "mid": 68.91
+        }
+      ]
+    },
+    {
+      "id": 606673,
+      "name": "Arakni, Web of Deceit",
+      "label": "Marvel",
+      "number": "HNT002",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606673/flesh-and-blood-tcg-the-hunted-arakni-web-of-deceit-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 52.06,
+          "low": 47.89,
+          "mid": 60.84
+        }
+      ]
+    },
+    {
+      "id": 606681,
+      "name": "Arakni, Black Widow",
+      "label": "Marvel",
+      "number": "HNT003",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606681/flesh-and-blood-tcg-the-hunted-arakni-black-widow-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 47.91,
+          "low": 34.89,
+          "mid": 42
+        }
+      ]
+    },
+    {
+      "id": 606690,
+      "name": "Arakni, Funnel Web",
+      "label": "Marvel",
+      "number": "HNT004",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606690/flesh-and-blood-tcg-the-hunted-arakni-funnel-web-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 18.3,
+          "low": 9.79,
+          "mid": 16.98
+        }
+      ]
+    },
+    {
+      "id": 606692,
+      "name": "Arakni, Orb-Weaver",
+      "label": "Marvel",
+      "number": "HNT005",
+      "rarity": "Marvel",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606692/flesh-and-blood-tcg-the-hunted-arakni-orb-weaver-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 20.83,
+          "low": 13.06,
+          "mid": 19
+        }
+      ]
+    },
+    {
+      "id": 606700,
+      "name": "Arakni, Redback",
+      "label": "Marvel",
+      "number": "HNT006",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606700/flesh-and-blood-tcg-the-hunted-arakni-redback-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 23.92,
+          "low": 14.49,
+          "mid": 19.88
+        }
+      ]
+    },
+    {
+      "id": 606702,
+      "name": "Arakni, Tarantula",
+      "label": "Marvel",
+      "number": "HNT007",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606702/flesh-and-blood-tcg-the-hunted-arakni-tarantula-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 13.19,
+          "low": 5.89,
+          "mid": 15
+        }
+      ]
+    },
+    {
+      "id": 606720,
+      "name": "Arakni, Trap-Door",
+      "label": "Marvel",
+      "number": "HNT008",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606720/flesh-and-blood-tcg-the-hunted-arakni-trap-door-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 23.33,
+          "low": 17.5,
+          "mid": 24.59
+        }
+      ]
+    },
+    {
+      "id": 606722,
+      "name": "Tarantula Toxin",
+      "number": "HNT015",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606722/flesh-and-blood-tcg-the-hunted-tarantula-toxin",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.57,
+          "low": 9.28,
+          "mid": 14.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 9.06,
+          "low": 7.5,
+          "mid": 10.19
+        }
+      ]
+    },
+    {
+      "id": 606727,
+      "name": "Cindra, Dracai of Retribution",
+      "label": "Marvel",
+      "number": "HNT054",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606727/flesh-and-blood-tcg-the-hunted-cindra-dracai-of-retribution-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 116.41,
+          "low": 89.99,
+          "mid": 109.72
+        }
+      ]
+    },
+    {
+      "id": 606729,
+      "name": "Cindra",
+      "label": "Marvel",
+      "number": "HNT055",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606729/flesh-and-blood-tcg-the-hunted-cindra-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 42.52,
+          "low": 35,
+          "mid": 44.6
+        }
+      ]
+    },
+    {
+      "id": 606730,
+      "name": "Fang, Dracai of Blades",
+      "label": "Marvel",
+      "number": "HNT098",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606730/flesh-and-blood-tcg-the-hunted-fang-dracai-of-blades-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 131.83,
+          "low": 145.04,
+          "mid": 172.5
+        }
+      ]
+    },
+    {
+      "id": 606732,
+      "name": "Fang",
+      "label": "Marvel",
+      "number": "HNT099",
+      "rarity": "Marvel",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/606732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/606732/flesh-and-blood-tcg-the-hunted-fang-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 44.8,
+          "low": 35.89,
+          "mid": 39.89
+        }
+      ]
+    },
+    {
+      "id": 609125,
+      "name": "Defang the Dragon",
+      "number": "HNT030",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609125/flesh-and-blood-tcg-the-hunted-defang-the-dragon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 609128,
+      "name": "Extinguish the Flames",
+      "number": "HNT031",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609128_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609128/flesh-and-blood-tcg-the-hunted-extinguish-the-flames",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 609130,
+      "name": "Blood Runs Deep",
+      "number": "HNT057",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609130_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609130/flesh-and-blood-tcg-the-hunted-blood-runs-deep",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.27,
+          "low": 0.98,
+          "mid": 1.42
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.15,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 609168,
+      "name": "Art of the Dragon: Blood",
+      "number": "HNT071",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609168/flesh-and-blood-tcg-the-hunted-art-of-the-dragon-blood",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.46,
+          "low": 1,
+          "mid": 1.97
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.66,
+          "low": 1.85,
+          "mid": 3.19
+        }
+      ]
+    },
+    {
+      "id": 609169,
+      "name": "Art of the Dragon: Claw",
+      "number": "HNT074",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609169/flesh-and-blood-tcg-the-hunted-art-of-the-dragon-claw",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.14,
+          "mid": 0.27
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.28,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 609170,
+      "name": "Art of the Dragon: Fire",
+      "number": "HNT075",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609170/flesh-and-blood-tcg-the-hunted-art-of-the-dragon-fire",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.05,
+          "low": 1.98,
+          "mid": 2.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.76,
+          "low": 1.63,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 609197,
+      "name": "Art of the Dragon: Scale",
+      "number": "HNT076",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609197_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609197/flesh-and-blood-tcg-the-hunted-art-of-the-dragon-scale",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.53,
+          "low": 0.5,
+          "mid": 0.58
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.19,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 609198,
+      "name": "Long Whisker Loyalty",
+      "number": "HNT102",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609198/flesh-and-blood-tcg-the-hunted-long-whisker-loyalty",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.31,
+          "low": 3.02,
+          "mid": 4.95
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.95,
+          "low": 2,
+          "mid": 3.77
+        }
+      ]
+    },
+    {
+      "id": 609229,
+      "name": "Jagged Edge",
+      "number": "HNT116",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609229_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609229/flesh-and-blood-tcg-the-hunted-jagged-edge",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.88,
+          "low": 13.77,
+          "mid": 15.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 10.65,
+          "low": 7.5,
+          "mid": 11.71
+        }
+      ]
+    },
+    {
+      "id": 609230,
+      "name": "Provoke",
+      "number": "HNT117",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609230_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609230/flesh-and-blood-tcg-the-hunted-provoke",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 22.18,
+          "low": 21,
+          "mid": 23.05
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 22.62,
+          "low": 22.61,
+          "mid": 24
+        }
+      ]
+    },
+    {
+      "id": 609231,
+      "name": "Agility Stance",
+      "number": "HNT125",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609231/flesh-and-blood-tcg-the-hunted-agility-stance",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.16,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 609232,
+      "name": "Flurry Stance",
+      "number": "HNT126",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609232/flesh-and-blood-tcg-the-hunted-flurry-stance",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.19,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.03,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 609233,
+      "name": "Power Stance",
+      "number": "HNT127",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609233/flesh-and-blood-tcg-the-hunted-power-stance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 609234,
+      "name": "For the Dracai",
+      "number": "HNT158",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609234/flesh-and-blood-tcg-the-hunted-for-the-dracai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.24,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 609236,
+      "name": "For the Emperor",
+      "number": "HNT159",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609236_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609236/flesh-and-blood-tcg-the-hunted-for-the-emperor",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 609237,
+      "name": "For the Realm",
+      "number": "HNT160",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609237/flesh-and-blood-tcg-the-hunted-for-the-realm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 609491,
+      "name": "Proclaim Vengeance",
+      "number": "HNT165",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609491/flesh-and-blood-tcg-the-hunted-proclaim-vengeance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 609493,
+      "name": "Lay Low",
+      "number": "HNT236",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609493/flesh-and-blood-tcg-the-hunted-lay-low",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 609546,
+      "name": "Thick Hide Hunter",
+      "number": "HNT246",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609546/flesh-and-blood-tcg-the-hunted-thick-hide-hunter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 14.43,
+          "low": 13.28,
+          "mid": 15.75
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.51,
+          "low": 16.5,
+          "mid": 19
+        }
+      ]
+    },
+    {
+      "id": 609579,
+      "name": "Tremorshield Sabatons",
+      "number": "HNT247",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609579/flesh-and-blood-tcg-the-hunted-tremorshield-sabatons",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.39,
+          "mid": 0.75
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 3.3,
+          "low": 3,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 609580,
+      "name": "Roiling Fissure",
+      "number": "HNT248",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609580/flesh-and-blood-tcg-the-hunted-roiling-fissure",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5,
+          "low": 4.86,
+          "mid": 6.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.74,
+          "low": 3.74,
+          "mid": 8.99
+        }
+      ]
+    },
+    {
+      "id": 609581,
+      "name": "Retrace the Past",
+      "number": "HNT249",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609581/flesh-and-blood-tcg-the-hunted-retrace-the-past",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.35,
+          "low": 9.33,
+          "mid": 12.1
+        },
+        {
+          "sub": "Normal",
+          "usd": 8.54,
+          "low": 6.99,
+          "mid": 9.36
+        }
+      ]
+    },
+    {
+      "id": 609582,
+      "name": "Enchanted Quiver",
+      "number": "HNT252",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609582/flesh-and-blood-tcg-the-hunted-enchanted-quiver",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 16.98,
+          "low": 16.5,
+          "mid": 17.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.21,
+          "low": 4.99,
+          "mid": 5.29
+        }
+      ]
+    },
+    {
+      "id": 609583,
+      "name": "Chain Reaction",
+      "number": "HNT253",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609583/flesh-and-blood-tcg-the-hunted-chain-reaction",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.28,
+          "low": 2.4,
+          "mid": 9.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.54,
+          "low": 1.04,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 609584,
+      "name": "Spur Locked",
+      "number": "HNT255",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609584/flesh-and-blood-tcg-the-hunted-spur-locked",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.27,
+          "low": 0.5,
+          "mid": 3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.61,
+          "low": 6.89,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 609585,
+      "name": "Ring of Roses",
+      "number": "HNT256",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609585/flesh-and-blood-tcg-the-hunted-ring-of-roses",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 1.55
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.65,
+          "low": 2.89,
+          "mid": 4.75
+        }
+      ]
+    },
+    {
+      "id": 609586,
+      "name": "War Cry of Bellona",
+      "number": "HNT258",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609586/flesh-and-blood-tcg-the-hunted-war-cry-of-bellona",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 16.55,
+          "low": 12,
+          "mid": 14.55
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 10.99,
+          "low": 17,
+          "mid": 18.69
+        }
+      ]
+    },
+    {
+      "id": 609587,
+      "name": "Cull",
+      "number": "HNT259",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609587/flesh-and-blood-tcg-the-hunted-cull",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 50.14,
+          "low": 39,
+          "mid": 44.89
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 49.12,
+          "low": 48,
+          "mid": 60
+        }
+      ]
+    },
+    {
+      "id": 611149,
+      "name": "Bite",
+      "label": "Red",
+      "number": "HNT017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611149/flesh-and-blood-tcg-the-hunted-bite-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.2,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 611150,
+      "name": "Bite",
+      "label": "Yellow",
+      "number": "HNT018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611150_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611150/flesh-and-blood-tcg-the-hunted-bite-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611151,
+      "name": "Bite",
+      "label": "Blue",
+      "number": "HNT019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611151/flesh-and-blood-tcg-the-hunted-bite-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 611152,
+      "name": "Orb-Weaver Spinneret",
+      "label": "Red",
+      "number": "HNT026",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611152/flesh-and-blood-tcg-the-hunted-orb-weaver-spinneret-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.14,
+          "low": 3.15,
+          "mid": 4.77
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.36,
+          "low": 1.89,
+          "mid": 3.32
+        }
+      ]
+    },
+    {
+      "id": 611153,
+      "name": "Orb-Weaver Spinneret",
+      "label": "Yellow",
+      "number": "HNT027",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611153/flesh-and-blood-tcg-the-hunted-orb-weaver-spinneret-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.04,
+          "mid": 0.34
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.3,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 611154,
+      "name": "Orb-Weaver Spinneret",
+      "label": "Blue",
+      "number": "HNT028",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611154/flesh-and-blood-tcg-the-hunted-orb-weaver-spinneret-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 0.35,
+          "mid": 0.62
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.17,
+          "low": 0.95,
+          "mid": 1.82
+        }
+      ]
+    },
+    {
+      "id": 611155,
+      "name": "Mark of the Black Widow",
+      "label": "Red",
+      "number": "HNT032",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611155/flesh-and-blood-tcg-the-hunted-mark-of-the-black-widow-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.09,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 611156,
+      "name": "Mark of the Black Widow",
+      "label": "Yellow",
+      "number": "HNT033",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611156/flesh-and-blood-tcg-the-hunted-mark-of-the-black-widow-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 611157,
+      "name": "Mark of the Black Widow",
+      "label": "Blue",
+      "number": "HNT034",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611157/flesh-and-blood-tcg-the-hunted-mark-of-the-black-widow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.23,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 611158,
+      "name": "Reaper's Call",
+      "label": "Red",
+      "number": "HNT044",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611158/flesh-and-blood-tcg-the-hunted-reapers-call-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.06,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 611159,
+      "name": "Reaper's Call",
+      "label": "Yellow",
+      "number": "HNT045",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611159/flesh-and-blood-tcg-the-hunted-reapers-call-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.11,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 611160,
+      "name": "Reaper's Call",
+      "label": "Blue",
+      "number": "HNT046",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611160/flesh-and-blood-tcg-the-hunted-reapers-call-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.09,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 611161,
+      "name": "Ignite",
+      "number": "HNT058",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611161/flesh-and-blood-tcg-the-hunted-ignite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.16,
+          "low": 3,
+          "mid": 5.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.21,
+          "low": 3.41,
+          "mid": 4.63
+        }
+      ]
+    },
+    {
+      "id": 611162,
+      "name": "Wrath of Retribution",
+      "label": "Red",
+      "number": "HNT061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611162/flesh-and-blood-tcg-the-hunted-wrath-of-retribution-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.51,
+          "low": 0.25,
+          "mid": 0.51
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 611163,
+      "name": "Burning Blade Dance",
+      "label": "Red",
+      "number": "HNT064",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611163/flesh-and-blood-tcg-the-hunted-burning-blade-dance-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.68,
+          "low": 0.2,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 611164,
+      "name": "Devotion Never Dies",
+      "number": "HNT072",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611164/flesh-and-blood-tcg-the-hunted-devotion-never-dies",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.3,
+          "low": 0.78,
+          "mid": 1.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 611165,
+      "name": "Dragon Power",
+      "label": "Red",
+      "number": "HNT077",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611165/flesh-and-blood-tcg-the-hunted-dragon-power-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.2,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611166,
+      "name": "Dragon Power",
+      "label": "Yellow",
+      "number": "HNT078",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611166/flesh-and-blood-tcg-the-hunted-dragon-power-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611167,
+      "name": "Dragon Power",
+      "label": "Blue",
+      "number": "HNT079",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611167/flesh-and-blood-tcg-the-hunted-dragon-power-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.51,
+          "low": 1.15,
+          "mid": 1.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.12,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 611168,
+      "name": "Tag the Target",
+      "label": "Red",
+      "number": "HNT092",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611168/flesh-and-blood-tcg-the-hunted-tag-the-target-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 611169,
+      "name": "Tag the Target",
+      "label": "Yellow",
+      "number": "HNT093",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611169/flesh-and-blood-tcg-the-hunted-tag-the-target-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611170,
+      "name": "Tag the Target",
+      "label": "Blue",
+      "number": "HNT094",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611170/flesh-and-blood-tcg-the-hunted-tag-the-target-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611171,
+      "name": "Hunt's End",
+      "number": "HNT101",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611171/flesh-and-blood-tcg-the-hunted-hunts-end",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.97,
+          "low": 6.33,
+          "mid": 7.92
+        },
+        {
+          "sub": "Normal",
+          "usd": 4.15,
+          "low": 4,
+          "mid": 6.28
+        }
+      ]
+    },
+    {
+      "id": 611172,
+      "name": "Affirm Loyalty",
+      "label": "Red",
+      "number": "HNT103",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611172/flesh-and-blood-tcg-the-hunted-affirm-loyalty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.02,
+          "mid": 0.29
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.35,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 611173,
+      "name": "Endear Devotion",
+      "label": "Red",
+      "number": "HNT104",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611173/flesh-and-blood-tcg-the-hunted-endear-devotion-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.17,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 611174,
+      "name": "Kabuto of Imperial Authority",
+      "number": "HNT115",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611174/flesh-and-blood-tcg-the-hunted-kabuto-of-imperial-authority",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 94.68,
+          "low": 95,
+          "mid": 100.43
+        }
+      ]
+    },
+    {
+      "id": 611175,
+      "name": "Sharpened Senses",
+      "number": "HNT118",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611175/flesh-and-blood-tcg-the-hunted-sharpened-senses",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.19,
+          "low": 1.01,
+          "mid": 3.74
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 7.02,
+          "low": 4.7,
+          "mid": 6.56
+        }
+      ]
+    },
+    {
+      "id": 611176,
+      "name": "Sworn Vengeance",
+      "label": "Red",
+      "number": "HNT140",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611176/flesh-and-blood-tcg-the-hunted-sworn-vengeance-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 611177,
+      "name": "Sworn Vengeance",
+      "label": "Yellow",
+      "number": "HNT141",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611177/flesh-and-blood-tcg-the-hunted-sworn-vengeance-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.11,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611178,
+      "name": "Sworn Vengeance",
+      "label": "Blue",
+      "number": "HNT142",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611178/flesh-and-blood-tcg-the-hunted-sworn-vengeance-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 611179,
+      "name": "Drop of Dragon Blood",
+      "label": "Red",
+      "number": "HNT155",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611179/flesh-and-blood-tcg-the-hunted-drop-of-dragon-blood-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.17,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 611180,
+      "name": "Exposed",
+      "label": "Blue",
+      "number": "HNT237",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611180/flesh-and-blood-tcg-the-hunted-exposed-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.14,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.21,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 612561,
+      "name": "Schism of Chaos",
+      "number": "HNT000",
+      "rarity": "Fabled",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612561/flesh-and-blood-tcg-the-hunted-schism-of-chaos",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 70.74,
+          "low": 97.99,
+          "mid": 120.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 112.01,
+          "low": 180,
+          "mid": 240.49
+        }
+      ]
+    },
+    {
+      "id": 612562,
+      "name": "Hunter's Klaive",
+      "number": "HNT009",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612562/flesh-and-blood-tcg-the-hunted-hunters-klaive",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 19.79,
+          "low": 19.6,
+          "mid": 25
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.76,
+          "low": 2.3,
+          "mid": 4.89
+        }
+      ]
+    },
+    {
+      "id": 612563,
+      "name": "Whittle from Bone",
+      "label": "Red",
+      "number": "HNT020",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612563/flesh-and-blood-tcg-the-hunted-whittle-from-bone-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.08,
+          "mid": 0.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 612564,
+      "name": "Whittle from Bone",
+      "label": "Yellow",
+      "number": "HNT021",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612564/flesh-and-blood-tcg-the-hunted-whittle-from-bone-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612565,
+      "name": "Whittle from Bone",
+      "label": "Blue",
+      "number": "HNT022",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612565/flesh-and-blood-tcg-the-hunted-whittle-from-bone-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.08,
+          "mid": 0.3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 612566,
+      "name": "Stains of the Redback",
+      "label": "Red",
+      "number": "HNT023",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612566/flesh-and-blood-tcg-the-hunted-stains-of-the-redback-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.08,
+          "mid": 0.3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.87,
+          "low": 1.44,
+          "mid": 1.69
+        }
+      ]
+    },
+    {
+      "id": 612567,
+      "name": "Stains of the Redback",
+      "label": "Blue",
+      "number": "HNT025",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612567/flesh-and-blood-tcg-the-hunted-stains-of-the-redback-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.45,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 612568,
+      "name": "Mark the Prey",
+      "label": "Red",
+      "number": "HNT038",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612568/flesh-and-blood-tcg-the-hunted-mark-the-prey-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612569,
+      "name": "Mark the Prey",
+      "label": "Yellow",
+      "number": "HNT039",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612569/flesh-and-blood-tcg-the-hunted-mark-the-prey-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612570,
+      "name": "Mark the Prey",
+      "label": "Blue",
+      "number": "HNT040",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612570/flesh-and-blood-tcg-the-hunted-mark-the-prey-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612571,
+      "name": "Plunge the Prospect",
+      "label": "Red",
+      "number": "HNT041",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612571/flesh-and-blood-tcg-the-hunted-plunge-the-prospect-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.16
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612572,
+      "name": "Plunge the Prospect",
+      "label": "Yellow",
+      "number": "HNT042",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612572/flesh-and-blood-tcg-the-hunted-plunge-the-prospect-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612573,
+      "name": "Plunge the Prospect",
+      "label": "Blue",
+      "number": "HNT043",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612573/flesh-and-blood-tcg-the-hunted-plunge-the-prospect-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612574,
+      "name": "Scuttle the Canal",
+      "label": "Red",
+      "number": "HNT047",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612574/flesh-and-blood-tcg-the-hunted-scuttle-the-canal-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612575,
+      "name": "Scuttle the Canal",
+      "label": "Yellow",
+      "number": "HNT048",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612575/flesh-and-blood-tcg-the-hunted-scuttle-the-canal-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612576,
+      "name": "Scuttle the Canal",
+      "label": "Blue",
+      "number": "HNT049",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612576/flesh-and-blood-tcg-the-hunted-scuttle-the-canal-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612577,
+      "name": "Razor's Edge",
+      "label": "Red",
+      "number": "HNT050",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612577/flesh-and-blood-tcg-the-hunted-razors-edge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612578,
+      "name": "Hunted or Hunter",
+      "label": "Red",
+      "number": "HNT052",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612578/flesh-and-blood-tcg-the-hunted-hunted-or-hunter-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612579,
+      "name": "Demonstrate Devotion",
+      "label": "Red",
+      "number": "HNT059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612579/flesh-and-blood-tcg-the-hunted-demonstrate-devotion-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.16,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612580,
+      "name": "Display Loyalty",
+      "label": "Red",
+      "number": "HNT060",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612580/flesh-and-blood-tcg-the-hunted-display-loyalty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.31
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.75,
+          "low": 0.49,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 612581,
+      "name": "Blood Drop",
+      "label": "Red",
+      "number": "HNT062",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612581/flesh-and-blood-tcg-the-hunted-blood-drop-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 612582,
+      "name": "Blood Line",
+      "label": "Red",
+      "number": "HNT063",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612582/flesh-and-blood-tcg-the-hunted-blood-line-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612583,
+      "name": "Cinderskin Devotion",
+      "label": "Red",
+      "number": "HNT065",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612583/flesh-and-blood-tcg-the-hunted-cinderskin-devotion-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612584,
+      "name": "Dust Runner Outlaw",
+      "label": "Red",
+      "number": "HNT066",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612584/flesh-and-blood-tcg-the-hunted-dust-runner-outlaw-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612585,
+      "name": "Hot on Their Heels",
+      "label": "Red",
+      "number": "HNT067",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612585/flesh-and-blood-tcg-the-hunted-hot-on-their-heels-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.19,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612586,
+      "name": "Lava Vein Loyalty",
+      "label": "Red",
+      "number": "HNT068",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612586/flesh-and-blood-tcg-the-hunted-lava-vein-loyalty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612587,
+      "name": "Mark with Magma",
+      "label": "Red",
+      "number": "HNT069",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612587/flesh-and-blood-tcg-the-hunted-mark-with-magma-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.11,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612588,
+      "name": "Ronin Renegade",
+      "label": "Red",
+      "number": "HNT070",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612588/flesh-and-blood-tcg-the-hunted-ronin-renegade-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612589,
+      "name": "Silver Talons",
+      "label": "Red",
+      "number": "HNT080",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612589/flesh-and-blood-tcg-the-hunted-silver-talons-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.19,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612590,
+      "name": "Silver Talons",
+      "label": "Yellow",
+      "number": "HNT081",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612590/flesh-and-blood-tcg-the-hunted-silver-talons-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612591,
+      "name": "Silver Talons",
+      "label": "Blue",
+      "number": "HNT082",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612591/flesh-and-blood-tcg-the-hunted-silver-talons-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.35,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612592,
+      "name": "Fire Tenet: Strike First",
+      "label": "Red",
+      "number": "HNT083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612592/flesh-and-blood-tcg-the-hunted-fire-tenet-strike-first-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.1,
+          "low": 2.5,
+          "mid": 4.5
+        }
+      ]
+    },
+    {
+      "id": 612593,
+      "name": "Fire Tenet: Strike First",
+      "label": "Yellow",
+      "number": "HNT084",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612593/flesh-and-blood-tcg-the-hunted-fire-tenet-strike-first-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.01,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 612594,
+      "name": "Fire Tenet: Strike First",
+      "label": "Blue",
+      "number": "HNT085",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612594/flesh-and-blood-tcg-the-hunted-fire-tenet-strike-first-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612595,
+      "name": "Grow Claws",
+      "label": "Red",
+      "number": "HNT086",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612595/flesh-and-blood-tcg-the-hunted-grow-claws-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612596,
+      "name": "Grow Claws",
+      "label": "Yellow",
+      "number": "HNT087",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612596/flesh-and-blood-tcg-the-hunted-grow-claws-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612597,
+      "name": "Grow Claws",
+      "label": "Blue",
+      "number": "HNT088",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612597/flesh-and-blood-tcg-the-hunted-grow-claws-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612598,
+      "name": "Grow Wings",
+      "label": "Red",
+      "number": "HNT089",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612598/flesh-and-blood-tcg-the-hunted-grow-wings-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612599,
+      "name": "Grow Wings",
+      "label": "Yellow",
+      "number": "HNT090",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612599/flesh-and-blood-tcg-the-hunted-grow-wings-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612600,
+      "name": "Grow Wings",
+      "label": "Blue",
+      "number": "HNT091",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612600/flesh-and-blood-tcg-the-hunted-grow-wings-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.11,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612601,
+      "name": "Trap and Release",
+      "label": "Red",
+      "number": "HNT095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612601/flesh-and-blood-tcg-the-hunted-trap-and-release-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612602,
+      "name": "Trap and Release",
+      "label": "Yellow",
+      "number": "HNT096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612602/flesh-and-blood-tcg-the-hunted-trap-and-release-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612603,
+      "name": "Trap and Release",
+      "label": "Blue",
+      "number": "HNT097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612603/flesh-and-blood-tcg-the-hunted-trap-and-release-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612604,
+      "name": "Blistering Blade",
+      "label": "Red",
+      "number": "HNT106",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612604/flesh-and-blood-tcg-the-hunted-blistering-blade-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.3,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 612605,
+      "name": "Brothers of Flame",
+      "label": "Red",
+      "number": "HNT107",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612605/flesh-and-blood-tcg-the-hunted-brothers-of-flame-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.15,
+          "mid": 0.29
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612606,
+      "name": "Dynastic Dedication",
+      "label": "Red",
+      "number": "HNT108",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612606/flesh-and-blood-tcg-the-hunted-dynastic-dedication-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612607,
+      "name": "Imperial Intent",
+      "label": "Red",
+      "number": "HNT109",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612607/flesh-and-blood-tcg-the-hunted-imperial-intent-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612608,
+      "name": "Scalding Iron",
+      "label": "Red",
+      "number": "HNT110",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612608/flesh-and-blood-tcg-the-hunted-scalding-iron-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612609,
+      "name": "Searing Gaze",
+      "label": "Red",
+      "number": "HNT111",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612609/flesh-and-blood-tcg-the-hunted-searing-gaze-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.35,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 612610,
+      "name": "Sisters of Fire",
+      "label": "Red",
+      "number": "HNT112",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612610/flesh-and-blood-tcg-the-hunted-sisters-of-fire-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.06,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 612611,
+      "name": "Sizzling Steel",
+      "label": "Red",
+      "number": "HNT113",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612611/flesh-and-blood-tcg-the-hunted-sizzling-steel-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612612,
+      "name": "Stabbing Pain",
+      "label": "Red",
+      "number": "HNT114",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612612/flesh-and-blood-tcg-the-hunted-stabbing-pain-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.07,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612613,
+      "name": "Diced",
+      "label": "Red",
+      "number": "HNT119",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612613/flesh-and-blood-tcg-the-hunted-diced-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612614,
+      "name": "Diced",
+      "label": "Yellow",
+      "number": "HNT120",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612614/flesh-and-blood-tcg-the-hunted-diced-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612615,
+      "name": "Diced",
+      "label": "Blue",
+      "number": "HNT121",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612615/flesh-and-blood-tcg-the-hunted-diced-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612616,
+      "name": "Twist and Turn",
+      "label": "Red",
+      "number": "HNT122",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612616/flesh-and-blood-tcg-the-hunted-twist-and-turn-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612617,
+      "name": "Twist and Turn",
+      "label": "Yellow",
+      "number": "HNT123",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612617/flesh-and-blood-tcg-the-hunted-twist-and-turn-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.24,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.08,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 612618,
+      "name": "Twist and Turn",
+      "label": "Blue",
+      "number": "HNT124",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612618/flesh-and-blood-tcg-the-hunted-twist-and-turn-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.2,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612622,
+      "name": "Cut Deep",
+      "label": "Red",
+      "number": "HNT128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612622/flesh-and-blood-tcg-the-hunted-cut-deep-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612623,
+      "name": "Cut Deep",
+      "label": "Yellow",
+      "number": "HNT129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612623/flesh-and-blood-tcg-the-hunted-cut-deep-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612624,
+      "name": "Cut Deep",
+      "label": "Blue",
+      "number": "HNT130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612624/flesh-and-blood-tcg-the-hunted-cut-deep-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612625,
+      "name": "Hunt a Killer",
+      "label": "Red",
+      "number": "HNT131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612625/flesh-and-blood-tcg-the-hunted-hunt-a-killer-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612626,
+      "name": "Hunt a Killer",
+      "label": "Yellow",
+      "number": "HNT132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612626/flesh-and-blood-tcg-the-hunted-hunt-a-killer-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612627,
+      "name": "Hunt a Killer",
+      "label": "Blue",
+      "number": "HNT133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612627/flesh-and-blood-tcg-the-hunted-hunt-a-killer-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612628,
+      "name": "Knife through Butter",
+      "label": "Red",
+      "number": "HNT134",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612628/flesh-and-blood-tcg-the-hunted-knife-through-butter-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612629,
+      "name": "Knife through Butter",
+      "label": "Yellow",
+      "number": "HNT135",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612629/flesh-and-blood-tcg-the-hunted-knife-through-butter-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612630,
+      "name": "Knife through Butter",
+      "label": "Blue",
+      "number": "HNT136",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612630/flesh-and-blood-tcg-the-hunted-knife-through-butter-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612631,
+      "name": "Point of Engagement",
+      "label": "Red",
+      "number": "HNT137",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612631/flesh-and-blood-tcg-the-hunted-point-of-engagement-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612632,
+      "name": "Point of Engagement",
+      "label": "Yellow",
+      "number": "HNT138",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612632/flesh-and-blood-tcg-the-hunted-point-of-engagement-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612633,
+      "name": "Point of Engagement",
+      "label": "Blue",
+      "number": "HNT139",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612633/flesh-and-blood-tcg-the-hunted-point-of-engagement-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.06,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612634,
+      "name": "Vow of Vengeance",
+      "number": "HNT144",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612634/flesh-and-blood-tcg-the-hunted-vow-of-vengeance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.39,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612635,
+      "name": "Heart of Vengeance",
+      "number": "HNT145",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612635/flesh-and-blood-tcg-the-hunted-heart-of-vengeance",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.45,
+          "low": 0.39,
+          "mid": 0.51
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 612636,
+      "name": "Hand of Vengeance",
+      "number": "HNT146",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612636/flesh-and-blood-tcg-the-hunted-hand-of-vengeance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.16
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612637,
+      "name": "Path of Vengeance",
+      "number": "HNT147",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612637/flesh-and-blood-tcg-the-hunted-path-of-vengeance",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.27,
+          "low": 0.14,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 612638,
+      "name": "Coat of Allegiance",
+      "number": "HNT148",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612638/flesh-and-blood-tcg-the-hunted-coat-of-allegiance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.75,
+          "low": 0.64,
+          "mid": 0.81
+        }
+      ]
+    },
+    {
+      "id": 612639,
+      "name": "Compounding Anger",
+      "label": "Red",
+      "number": "HNT151",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612639/flesh-and-blood-tcg-the-hunted-compounding-anger-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.51,
+          "low": 0.39,
+          "mid": 0.52
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.23,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 612640,
+      "name": "March of Loyalty",
+      "label": "Red",
+      "number": "HNT153",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612640/flesh-and-blood-tcg-the-hunted-march-of-loyalty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.37,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 612641,
+      "name": "Bubble to the Surface",
+      "label": "Red",
+      "number": "HNT154",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612641/flesh-and-blood-tcg-the-hunted-bubble-to-the-surface-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.41,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 612642,
+      "name": "Rake Over the Coals",
+      "label": "Red",
+      "number": "HNT156",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612642/flesh-and-blood-tcg-the-hunted-rake-over-the-coals-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.15,
+          "mid": 0.53
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.25,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 612643,
+      "name": "Blaze Headlong",
+      "label": "Red",
+      "number": "HNT157",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612643/flesh-and-blood-tcg-the-hunted-blaze-headlong-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.2,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 612644,
+      "name": "Smoke Out",
+      "label": "Red",
+      "number": "HNT162",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612644/flesh-and-blood-tcg-the-hunted-smoke-out-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 612645,
+      "name": "Blessing of Vynserakai",
+      "label": "Red",
+      "number": "HNT163",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612645/flesh-and-blood-tcg-the-hunted-blessing-of-vynserakai-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612646,
+      "name": "Pledge Fealty",
+      "label": "Red",
+      "number": "HNT164",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612646/flesh-and-blood-tcg-the-hunted-pledge-fealty-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.16,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612647,
+      "name": "Tooth of the Dragon",
+      "label": "Red",
+      "number": "HNT166",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612647/flesh-and-blood-tcg-the-hunted-tooth-of-the-dragon-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.09,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 612648,
+      "name": "Blood Splattered Vest",
+      "number": "HNT168",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612648/flesh-and-blood-tcg-the-hunted-blood-splattered-vest",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 33.85,
+          "low": 30.97,
+          "mid": 64.97
+        }
+      ]
+    },
+    {
+      "id": 612649,
+      "name": "Leap Frog Vocal Sac",
+      "number": "HNT169",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612649/flesh-and-blood-tcg-the-hunted-leap-frog-vocal-sac",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612650,
+      "name": "Leap Frog Slime Skin",
+      "number": "HNT170",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612650/flesh-and-blood-tcg-the-hunted-leap-frog-slime-skin",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612651,
+      "name": "Leap Frog Gloves",
+      "number": "HNT171",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612651/flesh-and-blood-tcg-the-hunted-leap-frog-gloves",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 612652,
+      "name": "Leap Frog Leggings",
+      "number": "HNT172",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612652/flesh-and-blood-tcg-the-hunted-leap-frog-leggings",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.26,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612653,
+      "name": "Danger Digits",
+      "number": "HNT173",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612653/flesh-and-blood-tcg-the-hunted-danger-digits",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.93,
+          "low": 0.55,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.06,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612654,
+      "name": "Pain in the Backside",
+      "number": "HNT174",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612654/flesh-and-blood-tcg-the-hunted-pain-in-the-backside",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19.85,
+          "low": 13.71,
+          "mid": 22.05
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 31.78,
+          "low": 26,
+          "mid": 34.26
+        }
+      ]
+    },
+    {
+      "id": 612655,
+      "name": "Throw Dagger",
+      "number": "HNT175",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612655/flesh-and-blood-tcg-the-hunted-throw-dagger",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.73,
+          "low": 5.81,
+          "mid": 15
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.95,
+          "low": 3.25,
+          "mid": 5.59
+        }
+      ]
+    },
+    {
+      "id": 612656,
+      "name": "Cut Through",
+      "label": "Red",
+      "number": "HNT176",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612656/flesh-and-blood-tcg-the-hunted-cut-through-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.22,
+          "mid": 0.49
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.68,
+          "low": 0.59,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 612657,
+      "name": "Cut Through",
+      "label": "Yellow",
+      "number": "HNT177",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612657/flesh-and-blood-tcg-the-hunted-cut-through-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.14,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612658,
+      "name": "Cut Through",
+      "label": "Blue",
+      "number": "HNT178",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612658/flesh-and-blood-tcg-the-hunted-cut-through-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612659,
+      "name": "Up Sticks and Run",
+      "label": "Red",
+      "number": "HNT179",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612659/flesh-and-blood-tcg-the-hunted-up-sticks-and-run-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.15,
+          "low": 1,
+          "mid": 2.55
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 7.04,
+          "low": 6.45,
+          "mid": 7.55
+        }
+      ]
+    },
+    {
+      "id": 612660,
+      "name": "Up Sticks and Run",
+      "label": "Yellow",
+      "number": "HNT180",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612660/flesh-and-blood-tcg-the-hunted-up-sticks-and-run-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.25,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 612661,
+      "name": "Up Sticks and Run",
+      "label": "Blue",
+      "number": "HNT181",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612661/flesh-and-blood-tcg-the-hunted-up-sticks-and-run-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.17,
+          "mid": 0.71
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612662,
+      "name": "Pick Up the Point",
+      "label": "Red",
+      "number": "HNT182",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612662/flesh-and-blood-tcg-the-hunted-pick-up-the-point-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.19,
+          "mid": 0.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612663,
+      "name": "Pick Up the Point",
+      "label": "Yellow",
+      "number": "HNT183",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612663/flesh-and-blood-tcg-the-hunted-pick-up-the-point-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612664,
+      "name": "Pick Up the Point",
+      "label": "Blue",
+      "number": "HNT184",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612664/flesh-and-blood-tcg-the-hunted-pick-up-the-point-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.17,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 612665,
+      "name": "Poisoned Blade",
+      "label": "Red",
+      "number": "HNT185",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612665/flesh-and-blood-tcg-the-hunted-poisoned-blade-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612666,
+      "name": "Poisoned Blade",
+      "label": "Yellow",
+      "number": "HNT186",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612666/flesh-and-blood-tcg-the-hunted-poisoned-blade-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612667,
+      "name": "Poisoned Blade",
+      "label": "Blue",
+      "number": "HNT187",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612667/flesh-and-blood-tcg-the-hunted-poisoned-blade-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612668,
+      "name": "Throw Yourself at Them",
+      "label": "Red",
+      "number": "HNT188",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612668/flesh-and-blood-tcg-the-hunted-throw-yourself-at-them-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612669,
+      "name": "Throw Yourself at Them",
+      "label": "Yellow",
+      "number": "HNT189",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612669/flesh-and-blood-tcg-the-hunted-throw-yourself-at-them-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.03,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612670,
+      "name": "Throw Yourself at Them",
+      "label": "Blue",
+      "number": "HNT190",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612670/flesh-and-blood-tcg-the-hunted-throw-yourself-at-them-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.17,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612671,
+      "name": "Lair of the Spider",
+      "label": "Red",
+      "number": "HNT191",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612671/flesh-and-blood-tcg-the-hunted-lair-of-the-spider-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.15,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 612672,
+      "name": "Red Alert Visor",
+      "number": "HNT192",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612672/flesh-and-blood-tcg-the-hunted-red-alert-visor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.18
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 612673,
+      "name": "Red Alert Vest",
+      "number": "HNT193",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612673/flesh-and-blood-tcg-the-hunted-red-alert-vest",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.44,
+          "low": 0.29,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 612674,
+      "name": "Red Alert Gloves",
+      "number": "HNT194",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612674/flesh-and-blood-tcg-the-hunted-red-alert-gloves",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612675,
+      "name": "Red Alert Boots",
+      "number": "HNT195",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612675/flesh-and-blood-tcg-the-hunted-red-alert-boots",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 612676,
+      "name": "Starting Point",
+      "number": "HNT196",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612676/flesh-and-blood-tcg-the-hunted-starting-point",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 4.46,
+          "low": 2.65,
+          "mid": 3.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 612677,
+      "name": "Perforate",
+      "number": "HNT197",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612677/flesh-and-blood-tcg-the-hunted-perforate",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.89,
+          "low": 13.08,
+          "mid": 19.03
+        },
+        {
+          "sub": "Normal",
+          "usd": 10.65,
+          "low": 9.25,
+          "mid": 11.24
+        }
+      ]
+    },
+    {
+      "id": 612678,
+      "name": "Savor Bloodshed",
+      "number": "HNT198",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612678/flesh-and-blood-tcg-the-hunted-savor-bloodshed",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 16.96,
+          "low": 16.62,
+          "mid": 19.89
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 22.66,
+          "low": 18.99,
+          "mid": 23.54
+        }
+      ]
+    },
+    {
+      "id": 612679,
+      "name": "To the Point",
+      "label": "Red",
+      "rarity": "Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612679/flesh-and-blood-tcg-the-hunted-to-the-point-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.91,
+          "low": 3.33,
+          "mid": 4.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.16,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612680,
+      "name": "To the Point",
+      "label": "Yellow",
+      "number": "HNT200",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612680/flesh-and-blood-tcg-the-hunted-to-the-point-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.07,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 612681,
+      "name": "To the Point",
+      "label": "Blue",
+      "number": "HNT201",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612681/flesh-and-blood-tcg-the-hunted-to-the-point-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.1,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 612682,
+      "name": "Cut from the Same Cloth",
+      "label": "Red",
+      "number": "HNT202",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612682/flesh-and-blood-tcg-the-hunted-cut-from-the-same-cloth-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.82,
+          "low": 5.5,
+          "mid": 6.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.07,
+          "low": 0.84,
+          "mid": 1.91
+        }
+      ]
+    },
+    {
+      "id": 612683,
+      "name": "Cut from the Same Cloth",
+      "label": "Yellow",
+      "number": "HNT203",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612683/flesh-and-blood-tcg-the-hunted-cut-from-the-same-cloth-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.23,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 612684,
+      "name": "Cut from the Same Cloth",
+      "label": "Blue",
+      "number": "HNT204",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612684/flesh-and-blood-tcg-the-hunted-cut-from-the-same-cloth-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.15,
+          "mid": 0.45
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612685,
+      "name": "Incision",
+      "label": "Red",
+      "number": "HNT205",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612685/flesh-and-blood-tcg-the-hunted-incision-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.14,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 612686,
+      "name": "Incision",
+      "label": "Yellow",
+      "number": "HNT206",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612686/flesh-and-blood-tcg-the-hunted-incision-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612687,
+      "name": "Incision",
+      "label": "Blue",
+      "number": "HNT207",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612687/flesh-and-blood-tcg-the-hunted-incision-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 612688,
+      "name": "Scar Tissue",
+      "label": "Red",
+      "number": "HNT208",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612688/flesh-and-blood-tcg-the-hunted-scar-tissue-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.2,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612689,
+      "name": "Scar Tissue",
+      "label": "Yellow",
+      "number": "HNT209",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612689/flesh-and-blood-tcg-the-hunted-scar-tissue-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.25,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.03,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 612690,
+      "name": "Scar Tissue",
+      "label": "Blue",
+      "number": "HNT210",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612690/flesh-and-blood-tcg-the-hunted-scar-tissue-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 612691,
+      "name": "Take a Stab",
+      "label": "Red",
+      "number": "HNT211",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612691/flesh-and-blood-tcg-the-hunted-take-a-stab-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.14,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612692,
+      "name": "Take a Stab",
+      "label": "Yellow",
+      "number": "HNT212",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612692/flesh-and-blood-tcg-the-hunted-take-a-stab-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612693,
+      "name": "Take a Stab",
+      "label": "Blue",
+      "number": "HNT213",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612693/flesh-and-blood-tcg-the-hunted-take-a-stab-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612694,
+      "name": "Den of the Spider",
+      "label": "Red",
+      "number": "HNT214",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612694/flesh-and-blood-tcg-the-hunted-den-of-the-spider-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.12,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 612695,
+      "name": "Blade Beckoner Helm",
+      "number": "HNT216",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612695/flesh-and-blood-tcg-the-hunted-blade-beckoner-helm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.77,
+          "low": 0.83,
+          "mid": 3.69
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 23.15,
+          "low": 22.9,
+          "mid": 24.89
+        }
+      ]
+    },
+    {
+      "id": 612696,
+      "name": "Blade Beckoner Plating",
+      "number": "HNT217",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612696/flesh-and-blood-tcg-the-hunted-blade-beckoner-plating",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 11.21,
+          "low": 10,
+          "mid": 12.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 4.14,
+          "low": 3.26,
+          "mid": 4.62
+        }
+      ]
+    },
+    {
+      "id": 612697,
+      "name": "Blade Beckoner Gauntlets",
+      "number": "HNT218",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612697/flesh-and-blood-tcg-the-hunted-blade-beckoner-gauntlets",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.04,
+          "low": 1,
+          "mid": 1.72
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 11.96,
+          "low": 8.17,
+          "mid": 9.61
+        }
+      ]
+    },
+    {
+      "id": 612698,
+      "name": "Blade Beckoner Boots",
+      "number": "HNT219",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612698/flesh-and-blood-tcg-the-hunted-blade-beckoner-boots",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 19.59,
+          "low": 13.31,
+          "mid": 15.58
+        },
+        {
+          "sub": "Normal",
+          "usd": 4.33,
+          "low": 4,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 612699,
+      "name": "Bunker Beard",
+      "number": "HNT220",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612699/flesh-and-blood-tcg-the-hunted-bunker-beard",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.16
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.71,
+          "low": 0.32,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 612700,
+      "name": "Rotten Remains",
+      "number": "HNT221",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612700/flesh-and-blood-tcg-the-hunted-rotten-remains",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.19,
+          "low": 4.89,
+          "mid": 6.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.65,
+          "low": 2,
+          "mid": 3.08
+        }
+      ]
+    },
+    {
+      "id": 612701,
+      "name": "Shelter from the Storm",
+      "number": "HNT222",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612701/flesh-and-blood-tcg-the-hunted-shelter-from-the-storm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 90.21,
+          "low": 105.89,
+          "mid": 107.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 93.19,
+          "low": 98.99,
+          "mid": 107.43
+        }
+      ]
+    },
+    {
+      "id": 612702,
+      "name": "Dual Threat",
+      "number": "HNT223",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612702/flesh-and-blood-tcg-the-hunted-dual-threat",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.49,
+          "low": 4.38,
+          "mid": 5.72
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.35,
+          "low": 2.47,
+          "mid": 3.94
+        }
+      ]
+    },
+    {
+      "id": 612703,
+      "name": "Pursue to the Edge of Oblivion",
+      "label": "Red",
+      "number": "HNT224",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612703/flesh-and-blood-tcg-the-hunted-pursue-to-the-edge-of-oblivion-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.25,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 612704,
+      "name": "Pursue to the Pits of Despair",
+      "label": "Red",
+      "number": "HNT225",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612704/flesh-and-blood-tcg-the-hunted-pursue-to-the-pits-of-despair-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 612705,
+      "name": "Sound the Alarm",
+      "label": "Red",
+      "number": "HNT226",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612705/flesh-and-blood-tcg-the-hunted-sound-the-alarm-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.63,
+          "low": 1.15,
+          "mid": 2
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.14,
+          "low": 0.5,
+          "mid": 1.41
+        }
+      ]
+    },
+    {
+      "id": 612706,
+      "name": "Razor Reflex",
+      "label": "Red",
+      "number": "HNT227",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612706/flesh-and-blood-tcg-the-hunted-razor-reflex-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.17,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 612707,
+      "name": "Relentless Pursuit",
+      "label": "Blue",
+      "number": "HNT229",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612707/flesh-and-blood-tcg-the-hunted-relentless-pursuit-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.89,
+          "low": 0.65,
+          "mid": 0.9
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.25,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 612708,
+      "name": "Sigil of Solace",
+      "label": "Red",
+      "number": "HNT231",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612708/flesh-and-blood-tcg-the-hunted-sigil-of-solace-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.23,
+          "low": 0.75,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 612709,
+      "name": "Tip-Off",
+      "label": "Red",
+      "number": "HNT232",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612709/flesh-and-blood-tcg-the-hunted-tip-off-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612710,
+      "name": "Tip-Off",
+      "label": "Yellow",
+      "number": "HNT233",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612710/flesh-and-blood-tcg-the-hunted-tip-off-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 612711,
+      "name": "Tip-Off",
+      "label": "Blue",
+      "number": "HNT234",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612711/flesh-and-blood-tcg-the-hunted-tip-off-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.12,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.04,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 612712,
+      "name": "Put in Context",
+      "label": "Blue",
+      "number": "HNT238",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612712/flesh-and-blood-tcg-the-hunted-put-in-context-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 612713,
+      "name": "Nip at the Heels",
+      "label": "Blue",
+      "number": "HNT239",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612713/flesh-and-blood-tcg-the-hunted-nip-at-the-heels-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.17,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.82,
+          "low": 0.5,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 612714,
+      "name": "Trot Along",
+      "label": "Blue",
+      "number": "HNT240",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612714/flesh-and-blood-tcg-the-hunted-trot-along-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.43,
+          "low": 1.15,
+          "mid": 3.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.58,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 612715,
+      "name": "Misfire Dampener",
+      "number": "HNT250",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612715_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612715/flesh-and-blood-tcg-the-hunted-misfire-dampener",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.31,
+          "mid": 1
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 4.91,
+          "low": 0.99,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 612716,
+      "name": "Null Time Zone",
+      "number": "HNT251",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612716/flesh-and-blood-tcg-the-hunted-null-time-zone",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.78,
+          "low": 5,
+          "mid": 8.15
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 30.17,
+          "low": 20.47,
+          "mid": 24.5
+        }
+      ]
+    },
+    {
+      "id": 612717,
+      "name": "Douse in Runeblood",
+      "number": "HNT254",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612717/flesh-and-blood-tcg-the-hunted-douse-in-runeblood",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.17,
+          "low": 6.37,
+          "mid": 8.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.55,
+          "low": 2.42,
+          "mid": 5.99
+        }
+      ]
+    },
+    {
+      "id": 612718,
+      "name": "Command and Conquer",
+      "number": "HNT260",
+      "rarity": "Legendary",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/612718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/612718/flesh-and-blood-tcg-the-hunted-command-and-conquer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 67.06,
+          "low": 62,
+          "mid": 67.68
+        }
+      ]
+    },
+    {
+      "id": 613096,
+      "name": "Mask of Deceit",
+      "number": "HNT011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/613096_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/613096/flesh-and-blood-tcg-the-hunted-mask-of-deceit",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.56,
+          "low": 3.02,
+          "mid": 7.37
+        }
+      ]
+    },
+    {
+      "id": 613097,
+      "name": "Kiss of Death",
+      "number": "HNT012",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/613097_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/613097/flesh-and-blood-tcg-the-hunted-kiss-of-death",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 17.08,
+          "low": 24,
+          "mid": 27.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 20.17,
+          "low": 23,
+          "mid": 24.95
+        }
+      ]
+    },
+    {
+      "id": 613100,
+      "name": "Under the Trap-Door",
+      "number": "HNT013",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/613100_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/613100/flesh-and-blood-tcg-the-hunted-under-the-trap-door",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 15.58,
+          "low": 15,
+          "mid": 24.89
+        },
+        {
+          "sub": "Normal",
+          "usd": 10.26,
+          "low": 9.58,
+          "mid": 11
+        }
+      ]
+    },
+    {
+      "id": 613101,
+      "name": "Take Up the Mantle",
+      "number": "HNT014",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/613101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/613101/flesh-and-blood-tcg-the-hunted-take-up-the-mantle",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.57,
+          "low": 2.79,
+          "mid": 4.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.91,
+          "low": 0.78,
+          "mid": 2.38
+        }
+      ]
+    },
+    {
+      "id": 613102,
+      "name": "Anaphylactic Shock",
+      "number": "HNT016",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/613102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/613102/flesh-and-blood-tcg-the-hunted-anaphylactic-shock",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.74,
+          "low": 0.4,
+          "mid": 0.97
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.18,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 614050,
+      "name": "Stains of the Redback",
+      "label": "Yellow",
+      "number": "HNT024",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614050_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614050/flesh-and-blood-tcg-the-hunted-stains-of-the-redback-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 614051,
+      "name": "Back Stab",
+      "label": "Red",
+      "number": "HNT029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614051_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614051/flesh-and-blood-tcg-the-hunted-back-stab-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 614052,
+      "name": "Mark of the Funnel Web",
+      "label": "Red",
+      "number": "HNT035",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614052_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614052/flesh-and-blood-tcg-the-hunted-mark-of-the-funnel-web-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 614053,
+      "name": "Mark of the Funnel Web",
+      "label": "Yellow",
+      "number": "HNT036",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614053_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614053/flesh-and-blood-tcg-the-hunted-mark-of-the-funnel-web-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.03,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 614054,
+      "name": "Mark of the Funnel Web",
+      "label": "Blue",
+      "number": "HNT037",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614054_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614054/flesh-and-blood-tcg-the-hunted-mark-of-the-funnel-web-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.09,
+          "mid": 0.34
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.02,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 614056,
+      "name": "Two Sides to the Blade",
+      "number": "HNT051",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614056_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614056/flesh-and-blood-tcg-the-hunted-two-sides-to-the-blade",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.12,
+          "mid": 0.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 614057,
+      "name": "Prowess of Agility",
+      "number": "HNT073",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614057_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614057/flesh-and-blood-tcg-the-hunted-prowess-of-agility",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.5,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.91,
+          "low": 1.28,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 614059,
+      "name": "Fire and Brimstone",
+      "number": "HNT105",
+      "rarity": "Rare",
+      "type": "Action;Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614059_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614059/flesh-and-blood-tcg-the-hunted-fire-and-brimstone",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.13,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.4,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 614060,
+      "name": "Dragonscaler Flight Path",
+      "number": "HNT143",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614060_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614060/flesh-and-blood-tcg-the-hunted-dragonscaler-flight-path",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 39.02,
+          "low": 35,
+          "mid": 47.3
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 58.83,
+          "low": 87.97,
+          "mid": 94.98
+        }
+      ]
+    },
+    {
+      "id": 614101,
+      "name": "Oath of Loyalty",
+      "number": "HNT149",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614101/flesh-and-blood-tcg-the-hunted-oath-of-loyalty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 21.02,
+          "low": 19,
+          "mid": 27.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 18.62,
+          "low": 22.1,
+          "mid": 34.27
+        }
+      ]
+    },
+    {
+      "id": 614144,
+      "name": "Loyalty Beyond the Grave",
+      "number": "HNT150",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614144_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614144/flesh-and-blood-tcg-the-hunted-loyalty-beyond-the-grave",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.84,
+          "low": 5.65,
+          "mid": 8
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.07,
+          "low": 4,
+          "mid": 6.29
+        }
+      ]
+    },
+    {
+      "id": 614254,
+      "name": "Quickdodge Flexors",
+      "number": "HNT215",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614254/flesh-and-blood-tcg-the-hunted-quickdodge-flexors",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 122.97,
+          "low": 143.99,
+          "mid": 149.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 88.7,
+          "low": 89.33,
+          "mid": 97.46
+        }
+      ]
+    },
+    {
+      "id": 614290,
+      "name": "Imperial Seal of Command",
+      "number": "HNT228",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614290/flesh-and-blood-tcg-the-hunted-imperial-seal-of-command",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.36
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.18,
+          "low": 2.2,
+          "mid": 2.35
+        }
+      ]
+    },
+    {
+      "id": 614292,
+      "name": "Calming Breeze",
+      "number": "HNT230",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614292/flesh-and-blood-tcg-the-hunted-calming-breeze",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.23,
+          "mid": 0.48
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.85,
+          "low": 0.65,
+          "mid": 1.26
+        }
+      ]
+    },
+    {
+      "id": 614294,
+      "name": "Outed",
+      "number": "HNT235",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614294/flesh-and-blood-tcg-the-hunted-outed",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 614298,
+      "name": "Public Bounty",
+      "label": "Red",
+      "number": "HNT241",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614298/flesh-and-blood-tcg-the-hunted-public-bounty-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 614299,
+      "name": "Public Bounty",
+      "label": "Yellow",
+      "number": "HNT242",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614299/flesh-and-blood-tcg-the-hunted-public-bounty-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 614300,
+      "name": "Public Bounty",
+      "label": "Blue",
+      "number": "HNT243",
+      "rarity": "Common",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614300/flesh-and-blood-tcg-the-hunted-public-bounty-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.04,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 614301,
+      "name": "War Cry of Themis",
+      "number": "HNT257",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614301/flesh-and-blood-tcg-the-hunted-war-cry-of-themis",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.58,
+          "low": 1.09,
+          "mid": 2
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.5,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 614302,
+      "name": "Arakni, 5L!p3d 7hRu 73h cR4X",
+      "label": "Marvel",
+      "number": "HNT261",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614302/flesh-and-blood-tcg-the-hunted-arakni-5lp3d-7hru-73h-cr4x-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 492.5,
+          "low": 398.02,
+          "mid": 492.5
+        }
+      ]
+    },
+    {
+      "id": 614357,
+      "name": "Arakni, Solitary Confinement",
+      "label": "Marvel",
+      "number": "HNT262",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614357/flesh-and-blood-tcg-the-hunted-arakni-solitary-confinement-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 65.6,
+          "low": 60,
+          "mid": 65.34
+        }
+      ]
+    },
+    {
+      "id": 614358,
+      "name": "Arakni, Huntsman",
+      "label": "Marvel",
+      "number": "HNT263",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614358/flesh-and-blood-tcg-the-hunted-arakni-huntsman-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 283.96,
+          "low": 289.7,
+          "mid": 297
+        }
+      ]
+    },
+    {
+      "id": 614359,
+      "name": "Arakni",
+      "label": "Marvel",
+      "number": "HNT264",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614359/flesh-and-blood-tcg-the-hunted-arakni-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 54.13,
+          "low": 40.75,
+          "mid": 45
+        }
+      ]
+    },
+    {
+      "id": 614360,
+      "name": "Hunt the Hunter",
+      "number": "HNT161",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614360/flesh-and-blood-tcg-the-hunted-hunt-the-hunter",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.19,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 614533,
+      "name": "Command and Conquer",
+      "label": "Extended Art",
+      "number": "HNT260",
+      "rarity": "Legendary",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614533/flesh-and-blood-tcg-the-hunted-command-and-conquer-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 212.05,
+          "low": 232,
+          "mid": 261.63
+        }
+      ]
+    },
+    {
+      "id": 614546,
+      "name": "Thick Hide Hunter",
+      "label": "Extended Art",
+      "number": "HNT246",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614546/flesh-and-blood-tcg-the-hunted-thick-hide-hunter-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 64.21,
+          "low": 43,
+          "mid": 68.16
+        }
+      ]
+    },
+    {
+      "id": 614547,
+      "name": "Shelter from the Storm",
+      "label": "Extended Art",
+      "number": "HNT222",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614547/flesh-and-blood-tcg-the-hunted-shelter-from-the-storm-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 292.44,
+          "low": 347,
+          "mid": 348
+        }
+      ]
+    },
+    {
+      "id": 614549,
+      "name": "Blood Splattered Vest",
+      "label": "Extended Art",
+      "number": "HNT168",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614549/flesh-and-blood-tcg-the-hunted-blood-splattered-vest-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 56.38,
+          "low": 54.94,
+          "mid": 63.49
+        }
+      ]
+    },
+    {
+      "id": 614550,
+      "name": "Drop of Dragon Blood",
+      "label": "Extended Art",
+      "number": "HNT155",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614550/flesh-and-blood-tcg-the-hunted-drop-of-dragon-blood-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.67,
+          "low": 4.99,
+          "mid": 6.79
+        }
+      ]
+    },
+    {
+      "id": 614551,
+      "name": "Bubble to the Surface",
+      "label": "Extended Art",
+      "number": "HNT154",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614551/flesh-and-blood-tcg-the-hunted-bubble-to-the-surface-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.56,
+          "low": 1,
+          "mid": 1.78
+        }
+      ]
+    },
+    {
+      "id": 614552,
+      "name": "Loyalty Beyond the Grave",
+      "label": "Extended Art",
+      "number": "HNT150",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614552/flesh-and-blood-tcg-the-hunted-loyalty-beyond-the-grave-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 32.4,
+          "low": 31.01,
+          "mid": 36.75
+        }
+      ]
+    },
+    {
+      "id": 614554,
+      "name": "Oath of Loyalty",
+      "label": "Extended Art",
+      "number": "HNT149",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614554/flesh-and-blood-tcg-the-hunted-oath-of-loyalty-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 75.15,
+          "low": 89.75,
+          "mid": 102.5
+        }
+      ]
+    },
+    {
+      "id": 614556,
+      "name": "Provoke",
+      "label": "Extended Art",
+      "number": "HNT117",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614556/flesh-and-blood-tcg-the-hunted-provoke-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 73.81,
+          "low": 71.75,
+          "mid": 80
+        }
+      ]
+    },
+    {
+      "id": 614574,
+      "name": "Kabuto of Imperial Authority",
+      "label": "Extended Art",
+      "number": "HNT115",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614574/flesh-and-blood-tcg-the-hunted-kabuto-of-imperial-authority-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 93.77,
+          "low": 188.1,
+          "mid": 195
+        }
+      ]
+    },
+    {
+      "id": 614575,
+      "name": "Fire and Brimstone",
+      "label": "Extended Art",
+      "number": "HNT105",
+      "rarity": "Rare",
+      "type": "Action;Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614575/flesh-and-blood-tcg-the-hunted-fire-and-brimstone-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.12,
+          "low": 5,
+          "mid": 7.76
+        }
+      ]
+    },
+    {
+      "id": 614576,
+      "name": "Hunt's End",
+      "label": "Extended Art",
+      "number": "HNT101",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614576/flesh-and-blood-tcg-the-hunted-hunts-end-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 50.02,
+          "low": 58.9,
+          "mid": 59.9
+        }
+      ]
+    },
+    {
+      "id": 614577,
+      "name": "Wrath of Retribution",
+      "label": "Extended Art",
+      "number": "HNT061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614577/flesh-and-blood-tcg-the-hunted-wrath-of-retribution-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.6,
+          "low": 2.4,
+          "mid": 4.23
+        }
+      ]
+    },
+    {
+      "id": 614578,
+      "name": "Ignite",
+      "label": "Extended Art",
+      "number": "HNT058",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614578/flesh-and-blood-tcg-the-hunted-ignite-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 66.21,
+          "low": 50,
+          "mid": 59.89
+        }
+      ]
+    },
+    {
+      "id": 614579,
+      "name": "Anaphylactic Shock",
+      "label": "Extended Art",
+      "number": "HNT016",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614579/flesh-and-blood-tcg-the-hunted-anaphylactic-shock-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 27.72,
+          "low": 34,
+          "mid": 38.34
+        }
+      ]
+    },
+    {
+      "id": 614580,
+      "name": "Kiss of Death",
+      "label": "Extended Art",
+      "number": "HNT012",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614580/flesh-and-blood-tcg-the-hunted-kiss-of-death-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 86.89,
+          "low": 135,
+          "mid": 192.5
+        }
+      ]
+    },
+    {
+      "id": 614581,
+      "name": "Mask of Deceit",
+      "label": "Extended Art",
+      "number": "HNT011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614581/flesh-and-blood-tcg-the-hunted-mask-of-deceit-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 18.1,
+          "low": 12.66,
+          "mid": 27.99
+        }
+      ]
+    },
+    {
+      "id": 615357,
+      "name": "Arakni, Web of Deceit // Cindra",
+      "number": "HNT002//HNT055",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615357/flesh-and-blood-tcg-the-hunted-arakni-web-of-deceit-cindra",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.1
+        }
+      ]
+    },
+    {
+      "id": 615358,
+      "name": "Arakni, Web of Deceit // Fang",
+      "number": "HNT002//HNT099",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615358/flesh-and-blood-tcg-the-hunted-arakni-web-of-deceit-fang",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 615359,
+      "name": "Cindra // Fang",
+      "number": "HNT055//HNT099",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615359/flesh-and-blood-tcg-the-hunted-cindra-fang",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 615545,
+      "name": "Mark of the Huntsman // Kunai of Retribution",
+      "number": "HNT010//HNT056",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615545/flesh-and-blood-tcg-the-hunted-mark-of-the-huntsman-kunai-of-retribution",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 615555,
+      "name": "Mark of the Huntsman // Obsidian Fire Vein",
+      "number": "HNT010//HNT100",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615555/flesh-and-blood-tcg-the-hunted-mark-of-the-huntsman-obsidian-fire-vein",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 615559,
+      "name": "Obsidian Fire Vein // Kunai of Retribution",
+      "number": "HNT100//HNT056",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615559/flesh-and-blood-tcg-the-hunted-obsidian-fire-vein-kunai-of-retribution",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.09,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 615602,
+      "name": "Arakni, Black Widow // Arakni, Funnel Web",
+      "number": "HNT003//HNT004",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615602/flesh-and-blood-tcg-the-hunted-arakni-black-widow-arakni-funnel-web",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 615605,
+      "name": "Arakni, Orb-Weaver // Arakni, Redback",
+      "number": "HNT005//HNT006",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615605/flesh-and-blood-tcg-the-hunted-arakni-orb-weaver-arakni-redback",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 615606,
+      "name": "Arakni, Tarantula // Arakni, Trap-Door",
+      "number": "HNT007//HNT008",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615606/flesh-and-blood-tcg-the-hunted-arakni-tarantula-arakni-trap-door",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 616125,
+      "name": "Cindra, Dracai of Retribution",
+      "number": "HNT054",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616125/flesh-and-blood-tcg-the-hunted-cindra-dracai-of-retribution",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 616127,
+      "name": "Fang, Dracai of Blades",
+      "number": "HNT098",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616127_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616127/flesh-and-blood-tcg-the-hunted-fang-dracai-of-blades",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 616130,
+      "name": "Hunt to the Ends of Rathe",
+      "number": "HNT152",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616130_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616130/flesh-and-blood-tcg-the-hunted-hunt-to-the-ends-of-rathe",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.41,
+          "mid": 0.54
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 617583,
+      "name": "Fealty",
+      "number": "HNT167",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/617583/flesh-and-blood-tcg-the-hunted-fealty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 1.27,
+          "mid": 1.27
+        }
+      ]
+    },
+    {
+      "id": 617584,
+      "name": "Fealty",
+      "label": "Marvel",
+      "number": "HNT167",
+      "rarity": "Marvel",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/617584/flesh-and-blood-tcg-the-hunted-fealty-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 134.34,
+          "low": 160,
+          "mid": 179
+        }
+      ]
+    },
+    {
+      "id": 617832,
+      "name": "Cracked Bauble",
+      "number": "HNT245",
+      "rarity": "Token",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617832_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/617832/flesh-and-blood-tcg-the-hunted-cracked-bauble",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 618124,
+      "name": "Fealty // Graphene Chelicera",
+      "number": "HNT167 // HNT053",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618124_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618124/flesh-and-blood-tcg-the-hunted-fealty-graphene-chelicera",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 618125,
+      "name": "Marked // Graphene Chelicera",
+      "number": "HNT244 // HNT053",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618125/flesh-and-blood-tcg-the-hunted-marked-graphene-chelicera",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65,
+          "low": 1.99,
+          "mid": 2.15
+        }
+      ]
+    },
+    {
+      "id": 618198,
+      "name": "Cindra // Graphene Chelicera",
+      "number": "HNT055 // HNT053",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618198/flesh-and-blood-tcg-the-hunted-cindra-graphene-chelicera",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 618208,
+      "name": "Marked // Fealty",
+      "number": "HNT244 // HNT167",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618208/flesh-and-blood-tcg-the-hunted-marked-fealty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 618220,
+      "name": "The Hunted Art Card",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618220/flesh-and-blood-tcg-the-hunted-the-hunted-art-card",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 618221,
+      "name": "The Hunted Art Card",
+      "label": "Cold Foil",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618221_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618221/flesh-and-blood-tcg-the-hunted-the-hunted-art-card-cold-foil",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.72,
+          "low": 0.2,
+          "mid": 0.92
+        }
+      ]
+    },
+    {
+      "id": 628136,
+      "name": "Braveforge Bracers",
+      "label": "JPN Exclusive",
+      "number": "HNT265",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628136_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628136/flesh-and-blood-tcg-the-hunted-braveforge-bracers-jpn-exclusive",
+      "prices": []
+    },
+    {
+      "id": 628137,
+      "name": "Valiant Dynamo",
+      "label": "JPN Exclusive",
+      "number": "HNT266",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628137_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628137/flesh-and-blood-tcg-the-hunted-valiant-dynamo-jpn-exclusive",
+      "prices": []
+    },
+    {
+      "id": 630087,
+      "name": "Marked",
+      "number": "FAB333",
+      "rarity": "Promo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630087_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630087/flesh-and-blood-tcg-the-hunted-marked-fab333",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 94.66,
+          "low": 149.99,
+          "mid": 149.99
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

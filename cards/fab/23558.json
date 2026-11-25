@@ -1,0 +1,565 @@
+{
+  "groupId": 23558,
+  "cards": [
+    {
+      "id": 561329,
+      "name": "Azalea, Ace in the Hole",
+      "number": "AAZ001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561329/flesh-and-blood-tcg-armory-deck-azalea-azalea-ace-in-the-hole",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64,
+          "low": 0.43,
+          "mid": 0.64
+        }
+      ]
+    },
+    {
+      "id": 561330,
+      "name": "Death Dealer",
+      "number": "AAZ002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561330/flesh-and-blood-tcg-armory-deck-azalea-death-dealer",
+      "prices": []
+    },
+    {
+      "id": 561331,
+      "name": "Crow's Nest",
+      "number": "AAZ003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561331/flesh-and-blood-tcg-armory-deck-azalea-crows-nest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.24,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 561344,
+      "name": "Target Totalizer",
+      "number": "AAZ004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561344/flesh-and-blood-tcg-armory-deck-azalea-target-totalizer",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.15,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 561377,
+      "name": "Hidden Agenda",
+      "number": "AAZ005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561377/flesh-and-blood-tcg-armory-deck-azalea-hidden-agenda",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.66,
+          "low": 0.4,
+          "mid": 0.97
+        }
+      ]
+    },
+    {
+      "id": 561378,
+      "name": "Sharp Shooters",
+      "number": "AAZ006",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561378/flesh-and-blood-tcg-armory-deck-azalea-sharp-shooters",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.49,
+          "low": 9,
+          "mid": 12.98
+        }
+      ]
+    },
+    {
+      "id": 561379,
+      "name": "Flight Path",
+      "number": "AAZ007",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561379/flesh-and-blood-tcg-armory-deck-azalea-flight-path",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.9,
+          "low": 0.79,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 561380,
+      "name": "Barbed Undertow",
+      "number": "AAZ008",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561380/flesh-and-blood-tcg-armory-deck-azalea-barbed-undertow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.87,
+          "low": 0.83,
+          "mid": 1.31
+        }
+      ]
+    },
+    {
+      "id": 561381,
+      "name": "Bolt'n' Shot",
+      "label": "Red",
+      "number": "AAZ009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561381/flesh-and-blood-tcg-armory-deck-azalea-boltn-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.11,
+          "low": 0.74,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 561382,
+      "name": "Drill Shot",
+      "label": "Red",
+      "number": "AAZ010",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561382/flesh-and-blood-tcg-armory-deck-azalea-drill-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.5,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 561383,
+      "name": "Infecting Shot",
+      "label": "Red",
+      "number": "AAZ011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561383/flesh-and-blood-tcg-armory-deck-azalea-infecting-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.25,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561384,
+      "name": "Infecting Shot",
+      "label": "Blue",
+      "number": "AAZ027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561384/flesh-and-blood-tcg-armory-deck-azalea-infecting-shot-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561385,
+      "name": "Ravenous Rabble",
+      "label": "Red",
+      "number": "AAZ012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561385/flesh-and-blood-tcg-armory-deck-azalea-ravenous-rabble-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561386,
+      "name": "Red in the Ledger",
+      "number": "AAZ013",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561386/flesh-and-blood-tcg-armory-deck-azalea-red-in-the-ledger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.39,
+          "low": 1.55,
+          "mid": 3.07
+        }
+      ]
+    },
+    {
+      "id": 561387,
+      "name": "Sedation Shot",
+      "number": "AAZ014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561387/flesh-and-blood-tcg-armory-deck-azalea-sedation-shot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 561388,
+      "name": "Sleep Dart",
+      "number": "AAZ015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561388/flesh-and-blood-tcg-armory-deck-azalea-sleep-dart",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.24,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 561389,
+      "name": "Stone Rain",
+      "number": "AAZ016",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561389/flesh-and-blood-tcg-armory-deck-azalea-stone-rain",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.6,
+          "low": 7.38,
+          "mid": 12.07
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 10.92,
+          "low": 17.1,
+          "mid": 19.8
+        }
+      ]
+    },
+    {
+      "id": 561390,
+      "name": "Lace with Bloodrot",
+      "number": "AAZ017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561390/flesh-and-blood-tcg-armory-deck-azalea-lace-with-bloodrot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.7,
+          "low": 0.99,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 561396,
+      "name": "Lace with Frailty",
+      "number": "AAZ018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561396/flesh-and-blood-tcg-armory-deck-azalea-lace-with-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.24,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561397,
+      "name": "Lace with Inertia",
+      "number": "AAZ019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561397/flesh-and-blood-tcg-armory-deck-azalea-lace-with-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.24,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561398,
+      "name": "Point the Tip",
+      "number": "AAZ020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561398/flesh-and-blood-tcg-armory-deck-azalea-point-the-tip",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561399,
+      "name": "Read the Glide Path",
+      "label": "Red",
+      "number": "AAZ021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561399/flesh-and-blood-tcg-armory-deck-azalea-read-the-glide-path-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561400,
+      "name": "Read the Glide Path",
+      "label": "Yellow",
+      "number": "AAZ025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561400/flesh-and-blood-tcg-armory-deck-azalea-read-the-glide-path-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 561401,
+      "name": "Scout the Periphery",
+      "number": "AAZ022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561401/flesh-and-blood-tcg-armory-deck-azalea-scout-the-periphery",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561402,
+      "name": "Spire Sniping",
+      "label": "Yellow",
+      "number": "AAZ023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561402/flesh-and-blood-tcg-armory-deck-azalea-spire-sniping-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561403,
+      "name": "Spire Sniping",
+      "label": "Blue",
+      "number": "AAZ028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561403/flesh-and-blood-tcg-armory-deck-azalea-spire-sniping-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 561404,
+      "name": "Line It Up",
+      "number": "AAZ024",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561404/flesh-and-blood-tcg-armory-deck-azalea-line-it-up",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.08,
+          "low": 7,
+          "mid": 8.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 6.8,
+          "low": 5.49,
+          "mid": 7.01
+        }
+      ]
+    },
+    {
+      "id": 561405,
+      "name": "Memorial Ground",
+      "number": "AAZ026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561405/flesh-and-blood-tcg-armory-deck-azalea-memorial-ground",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 561408,
+      "name": "Nock the Deathwhistle",
+      "number": "AAZ029",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561408/flesh-and-blood-tcg-armory-deck-azalea-nock-the-deathwhistle",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 565214,
+      "name": "Hidden Agenda",
+      "label": "Purple",
+      "number": "AAZ005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/565214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/565214/flesh-and-blood-tcg-armory-deck-azalea-hidden-agenda-purple",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 32.45,
+          "low": 22.56,
+          "mid": 26.45
+        }
+      ]
+    },
+    {
+      "id": 565624,
+      "name": "Bloodrot Pox // Frailty",
+      "number": "AAZ030 // AAZ031",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/565624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/565624/flesh-and-blood-tcg-armory-deck-azalea-bloodrot-pox-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.05,
+          "low": 1.05,
+          "mid": 1.05
+        }
+      ]
+    },
+    {
+      "id": 565625,
+      "name": "Bloodrot Pox // Inertia",
+      "number": "AAZ030 // AAZ032",
+      "rarity": "Token",
+      "type": "Token;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/565625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/565625/flesh-and-blood-tcg-armory-deck-azalea-bloodrot-pox-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.14,
+          "low": 1,
+          "mid": 1.14
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

@@ -1,0 +1,529 @@
+{
+  "groupId": 22899,
+  "cards": [
+    {
+      "id": 489145,
+      "name": "Azalea",
+      "number": "AZL001",
+      "rarity": "Common",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489145_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489145/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-azalea",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 1,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 489146,
+      "name": "Barbed Castaway",
+      "number": "AZL002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489146_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489146/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-barbed-castaway",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 489147,
+      "name": "Crow's Nest",
+      "number": "AZL003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489147_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489147/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-crows-nest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.55,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 489148,
+      "name": "Wayfinder's Crest",
+      "number": "AZL004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489148_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489148/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-wayfinders-crest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489149,
+      "name": "Threadbare Tunic",
+      "number": "AZL005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489149/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-threadbare-tunic",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.55,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 489150,
+      "name": "Bracers of Belief",
+      "number": "AZL006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489150_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489150/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-bracers-of-belief",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489151,
+      "name": "Ironrot Legs",
+      "number": "AZL007",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489151/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-ironrot-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489152,
+      "name": "Falcon Wing",
+      "label": "Red",
+      "number": "AZL008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489152/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-falcon-wing-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489153,
+      "name": "Infecting Shot",
+      "label": "Red",
+      "number": "AZL009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489153/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-infecting-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489154,
+      "name": "Murkmire Grapnel",
+      "label": "Red",
+      "number": "AZL010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489154/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-murkmire-grapnel-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489155,
+      "name": "Salvage Shot",
+      "label": "Red",
+      "number": "AZL011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489155/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-salvage-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 489156,
+      "name": "Sedation Shot",
+      "label": "Red",
+      "number": "AZL012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489156/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-sedation-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489157,
+      "name": "Skybound Shot",
+      "label": "Red",
+      "number": "AZL013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489157/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-skybound-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 489158,
+      "name": "Spire Sniping",
+      "label": "Red",
+      "number": "AZL014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489158/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-spire-sniping-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.25,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 489159,
+      "name": "Widowmaker",
+      "label": "Red",
+      "number": "AZL015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489159/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-widowmaker-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 489160,
+      "name": "Withering Shot",
+      "label": "Red",
+      "number": "AZL016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489160/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-withering-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489161,
+      "name": "Ravenous Rabble",
+      "label": "Red",
+      "number": "AZL017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489161/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-ravenous-rabble-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 489162,
+      "name": "Seek Horizon",
+      "label": "Red",
+      "number": "AZL018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489162/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-seek-horizon-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 489163,
+      "name": "Fletch a Red Tail",
+      "label": "Red",
+      "number": "AZL019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489163/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-fletch-a-red-tail-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.54,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 489164,
+      "name": "Scout the Periphery",
+      "label": "Red",
+      "number": "AZL020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489164/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-scout-the-periphery-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489165,
+      "name": "Sedation Shot",
+      "label": "Yellow",
+      "number": "AZL021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489165/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-sedation-shot-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 489166,
+      "name": "Spire Sniping",
+      "label": "Yellow",
+      "number": "AZL022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489166/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-spire-sniping-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 489167,
+      "name": "Falcon Wing",
+      "label": "Blue",
+      "number": "AZL023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489167/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-falcon-wing-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 489168,
+      "name": "Sedation Shot",
+      "label": "Blue",
+      "number": "AZL024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489168/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-sedation-shot-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 489169,
+      "name": "Spire Sniping",
+      "label": "Blue",
+      "number": "AZL025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489169/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-spire-sniping-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 489170,
+      "name": "Scout the Periphery",
+      "label": "Blue",
+      "number": "AZL026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489170/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-scout-the-periphery-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 489171,
+      "name": "Toxicity",
+      "label": "Blue",
+      "number": "AZL027",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489171/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-toxicity-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.55,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 489172,
+      "name": "Bloodrot Pox",
+      "number": "AZL028",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489172/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-bloodrot-pox",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 1.45,
+          "mid": 1.45
+        }
+      ]
+    },
+    {
+      "id": 489173,
+      "name": "Frailty",
+      "number": "AZL029",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489173/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-frailty",
+      "prices": []
+    },
+    {
+      "id": 489174,
+      "name": "Inertia",
+      "number": "AZL030",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489174/flesh-and-blood-tcg-blitz-deck-outsiders-azalea-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.19,
+          "mid": 0.6
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

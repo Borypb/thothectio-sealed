@@ -46,9 +46,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 6.84,
+          "usd": 6.58,
           "low": 5.84,
-          "mid": 7
+          "mid": 7.31
         }
       ]
     },
@@ -128,7 +128,14 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/715226_200w.jpg",
       "url": "https://www.tcgplayer.com/product/715226/cyberpunk-tcg-embracing-power-retail-starter-deck-satori-sword-of-saburo",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 1,
+          "mid": 1
+        }
+      ]
     },
     {
       "id": 715227,
@@ -158,9 +165,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13,
+          "usd": 0.14,
           "low": 0.13,
-          "mid": 0.13
+          "mid": 0.14
         }
       ]
     },
@@ -209,9 +216,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.75,
+          "usd": 7,
           "low": 6.99,
-          "mid": 7.75
+          "mid": 7
         }
       ]
     },
@@ -243,9 +250,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13,
+          "usd": 0.1,
           "low": 0.1,
-          "mid": 0.13
+          "mid": 0.1
         }
       ]
     },
@@ -277,9 +284,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9.57,
+          "usd": 9.45,
           "low": 8.57,
-          "mid": 9.99
+          "mid": 9.57
         }
       ]
     },
@@ -335,5 +342,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-24"
+  "pricesAt": "2026-11-25"
 }

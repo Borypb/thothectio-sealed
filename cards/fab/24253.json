@@ -1,0 +1,541 @@
+{
+  "groupId": 24253,
+  "cards": [
+    {
+      "id": 628092,
+      "name": "Banksy",
+      "number": "AMX002",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628092_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628092/flesh-and-blood-tcg-armory-deck-maxx-nitro-banksy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.29,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 628093,
+      "name": "Breaker Helm Protos",
+      "number": "AMX003",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628093_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628093/flesh-and-blood-tcg-armory-deck-maxx-nitro-breaker-helm-protos",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.37,
+          "low": 3.49,
+          "mid": 4.43
+        }
+      ]
+    },
+    {
+      "id": 628095,
+      "name": "Drive Brake",
+      "number": "AMX006",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628095_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628095/flesh-and-blood-tcg-armory-deck-maxx-nitro-drive-brake",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.57,
+          "low": 1,
+          "mid": 2.95
+        }
+      ]
+    },
+    {
+      "id": 628096,
+      "name": "Fist Pump",
+      "number": "AMX005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628096_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628096/flesh-and-blood-tcg-armory-deck-maxx-nitro-fist-pump",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.14,
+          "low": 0.69,
+          "mid": 1.42
+        }
+      ]
+    },
+    {
+      "id": 628097,
+      "name": "Puffer Jacket",
+      "number": "AMX004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628097_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628097/flesh-and-blood-tcg-armory-deck-maxx-nitro-puffer-jacket",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.91,
+          "low": 1,
+          "mid": 1.96
+        }
+      ]
+    },
+    {
+      "id": 628098,
+      "name": "Twintek Charging Station",
+      "number": "AMX018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628098_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628098/flesh-and-blood-tcg-armory-deck-maxx-nitro-twintek-charging-station",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.28,
+          "low": 1,
+          "mid": 2.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.33,
+          "low": 3.32,
+          "mid": 4.65
+        }
+      ]
+    },
+    {
+      "id": 628100,
+      "name": "Construct Bank Breaker",
+      "number": "AMX022",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628100_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628100/flesh-and-blood-tcg-armory-deck-maxx-nitro-construct-bank-breaker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.79,
+          "low": 0.51,
+          "mid": 0.88
+        }
+      ]
+    },
+    {
+      "id": 628102,
+      "name": "Clamp Press",
+      "number": "AMX026",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628102/flesh-and-blood-tcg-armory-deck-maxx-nitro-clamp-press",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.25,
+          "mid": 0.6
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.33,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 628103,
+      "name": "Crankshaft",
+      "label": "Red",
+      "number": "AMX007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628103/flesh-and-blood-tcg-armory-deck-maxx-nitro-crankshaft-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628104,
+      "name": "Crankshaft",
+      "label": "Yellow",
+      "number": "AMX020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628104_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628104/flesh-and-blood-tcg-armory-deck-maxx-nitro-crankshaft-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.13
+        }
+      ]
+    },
+    {
+      "id": 628105,
+      "name": "Crankshaft",
+      "label": "Blue",
+      "number": "AMX025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628105_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628105/flesh-and-blood-tcg-armory-deck-maxx-nitro-crankshaft-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 628106,
+      "name": "Data Link",
+      "label": "Red",
+      "number": "AMX008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628106_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628106/flesh-and-blood-tcg-armory-deck-maxx-nitro-data-link-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.1
+        }
+      ]
+    },
+    {
+      "id": 628107,
+      "name": "Expedite",
+      "label": "Red",
+      "number": "AMX009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628107_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628107/flesh-and-blood-tcg-armory-deck-maxx-nitro-expedite-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.28,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 628108,
+      "name": "Heist",
+      "number": "AMX010",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628108_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628108/flesh-and-blood-tcg-armory-deck-maxx-nitro-heist",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 15.47,
+          "low": 12.03,
+          "mid": 15.47
+        }
+      ]
+    },
+    {
+      "id": 628109,
+      "name": "Hyper Driver",
+      "label": "Red",
+      "number": "AMX019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628109_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628109/flesh-and-blood-tcg-armory-deck-maxx-nitro-hyper-driver-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628119,
+      "name": "Hyper Driver",
+      "label": "Yellow",
+      "number": "AMX023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628119_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628119/flesh-and-blood-tcg-armory-deck-maxx-nitro-hyper-driver-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 628121,
+      "name": "Hyper Driver",
+      "label": "Blue",
+      "number": "AMX027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628121_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628121/flesh-and-blood-tcg-armory-deck-maxx-nitro-hyper-driver-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 628122,
+      "name": "Jump Start",
+      "label": "Red",
+      "number": "AMX011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628122_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628122/flesh-and-blood-tcg-armory-deck-maxx-nitro-jump-start-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628123,
+      "name": "Sprocket Rocket",
+      "label": "Red",
+      "number": "AMX012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628123_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628123/flesh-and-blood-tcg-armory-deck-maxx-nitro-sprocket-rocket-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628124,
+      "name": "T-Bone",
+      "label": "Red",
+      "number": "AMX013",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628124_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628124/flesh-and-blood-tcg-armory-deck-maxx-nitro-t-bone-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.25,
+          "low": 1.24,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 628126,
+      "name": "Throttle",
+      "label": "Red",
+      "number": "AMX014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628126_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628126/flesh-and-blood-tcg-armory-deck-maxx-nitro-throttle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.29,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 628129,
+      "name": "Zero to Fifty",
+      "label": "Red",
+      "number": "AMX015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628129_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628129/flesh-and-blood-tcg-armory-deck-maxx-nitro-zero-to-fifty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.1
+        }
+      ]
+    },
+    {
+      "id": 628131,
+      "name": "Zero to Sixty",
+      "label": "Red",
+      "number": "AMX016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628131_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628131/flesh-and-blood-tcg-armory-deck-maxx-nitro-zero-to-sixty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.15,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628132,
+      "name": "Zero to Sixty",
+      "label": "Yellow",
+      "number": "AMX021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628132_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628132/flesh-and-blood-tcg-armory-deck-maxx-nitro-zero-to-sixty-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628134,
+      "name": "Zipper Hit",
+      "label": "Red",
+      "number": "AMX017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628134_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628134/flesh-and-blood-tcg-armory-deck-maxx-nitro-zipper-hit-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 628135,
+      "name": "Big Bertha",
+      "label": "Blue",
+      "number": "AMX024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/628135_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/628135/flesh-and-blood-tcg-armory-deck-maxx-nitro-big-bertha-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 629344,
+      "name": "Maxx 'The Hype' Nitro",
+      "number": "AMX001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629344/flesh-and-blood-tcg-armory-deck-maxx-nitro-maxx-the-hype-nitro",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.24,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 629870,
+      "name": "Hyper Driver",
+      "number": "AMX028",
+      "rarity": "Token",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629870/flesh-and-blood-tcg-armory-deck-maxx-nitro-hyper-driver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 629875,
+      "name": "Steam Counter // Defense Counter",
+      "rarity": "None",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629875/flesh-and-blood-tcg-armory-deck-maxx-nitro-steam-counter-defense-counter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 629876,
+      "name": "Armory Deck: Maxx Nitro Art Card",
+      "rarity": "None",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629876/flesh-and-blood-tcg-armory-deck-maxx-nitro-armory-deck-maxx-nitro-art-card",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.5,
+          "mid": 0.5
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

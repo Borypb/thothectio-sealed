@@ -1,0 +1,550 @@
+{
+  "groupId": 24415,
+  "cards": [
+    {
+      "id": 648161,
+      "name": "Bolfar, Bear Hands",
+      "number": "SMP001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648161/flesh-and-blood-tcg-smash-palace-bolfar-bear-hands",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.01,
+          "low": 0.97,
+          "mid": 1.01
+        }
+      ]
+    },
+    {
+      "id": 648162,
+      "name": "Bravo, Flattering Showman",
+      "number": "SMP002",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648162/flesh-and-blood-tcg-smash-palace-bravo-flattering-showman",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.19,
+          "low": 2.35,
+          "mid": 3.09
+        }
+      ]
+    },
+    {
+      "id": 648164,
+      "name": "Fightmaster Kox",
+      "number": "SMP003",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648164/flesh-and-blood-tcg-smash-palace-fightmaster-kox",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64,
+          "low": 0.56,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 648165,
+      "name": "Groundbreaker Crix",
+      "number": "SMP004",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648165/flesh-and-blood-tcg-smash-palace-groundbreaker-crix",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.65,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 648166,
+      "name": "Reya, the Unyielding",
+      "number": "SMP005",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648166/flesh-and-blood-tcg-smash-palace-reya-the-unyielding",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.73,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 648168,
+      "name": "Victor Goldmane, Match Fixer",
+      "number": "SMP006",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648168/flesh-and-blood-tcg-smash-palace-victor-goldmane-match-fixer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.73,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 648170,
+      "name": "Air of a Comeback",
+      "number": "SMP007",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648170/flesh-and-blood-tcg-smash-palace-air-of-a-comeback",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.95,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 648171,
+      "name": "Benefactor of Bloodworth Goldmane",
+      "number": "SMP008",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648171/flesh-and-blood-tcg-smash-palace-benefactor-of-bloodworth-goldmane",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.95,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 648172,
+      "name": "Big Hits, Big Applause",
+      "number": "SMP009",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648172/flesh-and-blood-tcg-smash-palace-big-hits-big-applause",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.95,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 648173,
+      "name": "Code of Conduct: Kill or Be Killed",
+      "number": "SMP010",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648173/flesh-and-blood-tcg-smash-palace-code-of-conduct-kill-or-be-killed",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 648174,
+      "name": "Hit the Jackpot",
+      "number": "SMP011",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648174/flesh-and-blood-tcg-smash-palace-hit-the-jackpot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.95,
+          "low": 1.95,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 648175,
+      "name": "Random Events Unfold",
+      "number": "SMP012",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648175/flesh-and-blood-tcg-smash-palace-random-events-unfold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 648176,
+      "name": "Visit the 'Winner Takes All'",
+      "number": "SMP013",
+      "rarity": "Majestic",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648176/flesh-and-blood-tcg-smash-palace-visit-the-winner-takes-all",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.99,
+          "low": 1.99,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 648177,
+      "name": "Bloodied Helm",
+      "number": "SMP014",
+      "rarity": "Rare",
+      "type": "Equipment;Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648177/flesh-and-blood-tcg-smash-palace-bloodied-helm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 648178,
+      "name": "Bloodied Strapping",
+      "number": "SMP015",
+      "rarity": "Rare",
+      "type": "Equipment;Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648178/flesh-and-blood-tcg-smash-palace-bloodied-strapping",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 648179,
+      "name": "Bloodied Gauntlet",
+      "number": "SMP016",
+      "rarity": "Rare",
+      "type": "Equipment;Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648179/flesh-and-blood-tcg-smash-palace-bloodied-gauntlet",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 648180,
+      "name": "Bloodied Boots",
+      "number": "SMP017",
+      "rarity": "Rare",
+      "type": "Equipment;Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648180/flesh-and-blood-tcg-smash-palace-bloodied-boots",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 648181,
+      "name": "Bloodied Shield",
+      "number": "SMP018",
+      "rarity": "Rare",
+      "type": "Equipment;Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648181/flesh-and-blood-tcg-smash-palace-bloodied-shield",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 648182,
+      "name": "Arena Medic",
+      "number": "SMP019",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648182/flesh-and-blood-tcg-smash-palace-arena-medic",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648183,
+      "name": "Crowd Roars Fight!",
+      "number": "SMP020",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648183/flesh-and-blood-tcg-smash-palace-crowd-roars-fight",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648184,
+      "name": "Crushing Impact",
+      "number": "SMP021",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648184/flesh-and-blood-tcg-smash-palace-crushing-impact",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648185,
+      "name": "Didn't See That Coming",
+      "number": "SMP022",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648185/flesh-and-blood-tcg-smash-palace-didnt-see-that-coming",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648186,
+      "name": "Dominate the Competition",
+      "number": "SMP023",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648186_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648186/flesh-and-blood-tcg-smash-palace-dominate-the-competition",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648187,
+      "name": "Ezy Sqeez Bookie Syndicate",
+      "number": "SMP024",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648187/flesh-and-blood-tcg-smash-palace-ezy-sqeez-bookie-syndicate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648188,
+      "name": "Fight Night Prize Purse",
+      "number": "SMP025",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648188/flesh-and-blood-tcg-smash-palace-fight-night-prize-purse",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.08,
+          "low": 2.08,
+          "mid": 2.08
+        }
+      ]
+    },
+    {
+      "id": 648189,
+      "name": "Ire of the Crowd",
+      "number": "SMP026",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648189/flesh-and-blood-tcg-smash-palace-ire-of-the-crowd",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648190,
+      "name": "Let Me Buy You a Drink",
+      "number": "SMP027",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648190/flesh-and-blood-tcg-smash-palace-let-me-buy-you-a-drink",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648192,
+      "name": "Lion's Pounce",
+      "number": "SMP028",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648192/flesh-and-blood-tcg-smash-palace-lions-pounce",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648193,
+      "name": "Pick Yourself Up Off the Floor",
+      "number": "SMP029",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648193/flesh-and-blood-tcg-smash-palace-pick-yourself-up-off-the-floor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648194,
+      "name": "Rally the Underdog",
+      "number": "SMP030",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648194_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648194/flesh-and-blood-tcg-smash-palace-rally-the-underdog",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648195,
+      "name": "The Moat Exchange",
+      "number": "SMP031",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648195_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648195/flesh-and-blood-tcg-smash-palace-the-moat-exchange",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 648196,
+      "name": "Tremor of Anticipation",
+      "number": "SMP032",
+      "rarity": "Common",
+      "type": "Event",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648196/flesh-and-blood-tcg-smash-palace-tremor-of-anticipation",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 1.4,
+          "mid": 1.4
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

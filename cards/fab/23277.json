@@ -1,0 +1,5838 @@
+{
+  "groupId": 23277,
+  "cards": [
+    {
+      "id": 510033,
+      "name": "Teklovossen, Esteemed Magnate",
+      "number": "EVO007",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510033_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510033/flesh-and-blood-tcg-bright-lights-teklovossen-esteemed-magnate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.55,
+          "low": 1.95,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 510038,
+      "name": "Evo Steel Soul Memory",
+      "number": "EVO026",
+      "rarity": "Majestic",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510038_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510038/flesh-and-blood-tcg-bright-lights-evo-steel-soul-memory",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.56,
+          "low": 5,
+          "mid": 7.49
+        }
+      ]
+    },
+    {
+      "id": 510040,
+      "name": "Teklovossen // Banksy",
+      "number": "EVO008/EVO006",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510040_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510040/flesh-and-blood-tcg-bright-lights-teklovossen-banksy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 510043,
+      "name": "Terminator Tank",
+      "number": "EVO055",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510043_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510043/flesh-and-blood-tcg-bright-lights-terminator-tank",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.07,
+          "low": 3.99,
+          "mid": 5.69
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.95,
+          "low": 2.4,
+          "mid": 4.18
+        }
+      ]
+    },
+    {
+      "id": 510045,
+      "name": "Proto Base Legs",
+      "number": "EVO025",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510045_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510045/flesh-and-blood-tcg-bright-lights-proto-base-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 510048,
+      "name": "Proto Base Head",
+      "number": "EVO022",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510048_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510048/flesh-and-blood-tcg-bright-lights-proto-base-head",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 510050,
+      "name": "Proto Base Chest",
+      "number": "EVO023",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510050_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510050/flesh-and-blood-tcg-bright-lights-proto-base-chest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 510051,
+      "name": "Proto Base Arms",
+      "number": "EVO024",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/510051_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/510051/flesh-and-blood-tcg-bright-lights-proto-base-arms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 516550,
+      "name": "Warband of Bellona",
+      "label": "Extended Art",
+      "number": "EVO247",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/516550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/516550/flesh-and-blood-tcg-bright-lights-warband-of-bellona-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 42.83,
+          "low": 41.99,
+          "mid": 49.08
+        }
+      ]
+    },
+    {
+      "id": 517198,
+      "name": "Shriek Razors",
+      "number": "EVO235",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517198/flesh-and-blood-tcg-bright-lights-shriek-razors",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 17.07,
+          "low": 17,
+          "mid": 20.59
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.63,
+          "low": 2.53,
+          "mid": 5.68
+        }
+      ]
+    },
+    {
+      "id": 517199,
+      "name": "Already Dead",
+      "number": "EVO236",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517199_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517199/flesh-and-blood-tcg-bright-lights-already-dead",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.25,
+          "low": 21,
+          "mid": 23.95
+        },
+        {
+          "sub": "Normal",
+          "usd": 13.27,
+          "low": 13,
+          "mid": 17.95
+        }
+      ]
+    },
+    {
+      "id": 517203,
+      "name": "Smashing Performance",
+      "number": "EVO237",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517203/flesh-and-blood-tcg-bright-lights-smashing-performance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.5,
+          "mid": 1.34
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.91,
+          "low": 0.91,
+          "mid": 2.93
+        }
+      ]
+    },
+    {
+      "id": 517204,
+      "name": "Wax Off",
+      "number": "EVO239",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517204/flesh-and-blood-tcg-bright-lights-wax-off",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.01,
+          "low": 0.96,
+          "mid": 2.46
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.88,
+          "low": 0.7,
+          "mid": 1.04
+        }
+      ]
+    },
+    {
+      "id": 517205,
+      "name": "Emboldened Blade",
+      "number": "EVO240",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517205_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517205/flesh-and-blood-tcg-bright-lights-emboldened-blade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.88,
+          "low": 8.5,
+          "mid": 10
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 10.87,
+          "low": 10.4,
+          "mid": 11.89
+        }
+      ]
+    },
+    {
+      "id": 517206,
+      "name": "Intoxicating Shot",
+      "number": "EVO241",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517206_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517206/flesh-and-blood-tcg-bright-lights-intoxicating-shot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.26,
+          "low": 4.79,
+          "mid": 5.79
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.93,
+          "low": 2.7,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 517207,
+      "name": "Sonata Fantasmia",
+      "number": "EVO242",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517207_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517207/flesh-and-blood-tcg-bright-lights-sonata-fantasmia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.46,
+          "low": 1.95,
+          "mid": 6.49
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.24,
+          "low": 3.78,
+          "mid": 11.47
+        }
+      ]
+    },
+    {
+      "id": 517208,
+      "name": "Contest the Mindfield",
+      "number": "EVO243",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517208/flesh-and-blood-tcg-bright-lights-contest-the-mindfield",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.12,
+          "low": 0.78,
+          "mid": 1.12
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.06,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 517209,
+      "name": "Tome of Imperial Flame",
+      "number": "EVO245",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517209_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517209/flesh-and-blood-tcg-bright-lights-tome-of-imperial-flame",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 21.62,
+          "low": 22.58,
+          "mid": 59.95
+        },
+        {
+          "sub": "Normal",
+          "usd": 25.29,
+          "low": 23,
+          "mid": 28.55
+        }
+      ]
+    },
+    {
+      "id": 517262,
+      "name": "Scrap Trader",
+      "number": "EVO101",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517262/flesh-and-blood-tcg-bright-lights-scrap-trader",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.36,
+          "low": 2.74,
+          "mid": 4.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.43,
+          "low": 1.22,
+          "mid": 2.76
+        }
+      ]
+    },
+    {
+      "id": 517263,
+      "name": "Fender Bender",
+      "label": "Red",
+      "number": "EVO210",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517263/flesh-and-blood-tcg-bright-lights-fender-bender-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.34
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517264,
+      "name": "Junkyard Dogg",
+      "label": "Blue",
+      "number": "EVO128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517264/flesh-and-blood-tcg-bright-lights-junkyard-dogg-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517297,
+      "name": "War Machine",
+      "number": "EVO056",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517297/flesh-and-blood-tcg-bright-lights-war-machine",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.23,
+          "low": 1.87,
+          "mid": 2.55
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.37,
+          "low": 2.6,
+          "mid": 3.5
+        }
+      ]
+    },
+    {
+      "id": 517299,
+      "name": "War Machine",
+      "label": "Extended Art",
+      "number": "EVO056",
+      "rarity": "Majestic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517299/flesh-and-blood-tcg-bright-lights-war-machine-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 24.64,
+          "low": 27.99,
+          "mid": 31.25
+        }
+      ]
+    },
+    {
+      "id": 517312,
+      "name": "Teklo Base Head",
+      "number": "EVO018",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517312/flesh-and-blood-tcg-bright-lights-teklo-base-head",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517315,
+      "name": "Teklo Base Chest",
+      "number": "EVO019",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517315/flesh-and-blood-tcg-bright-lights-teklo-base-chest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517318,
+      "name": "Teklo Base Arms",
+      "number": "EVO020",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517318/flesh-and-blood-tcg-bright-lights-teklo-base-arms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517323,
+      "name": "Teklo Base Legs",
+      "number": "EVO021",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517323/flesh-and-blood-tcg-bright-lights-teklo-base-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 517337,
+      "name": "Demolition Protocol",
+      "number": "EVO057",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517337/flesh-and-blood-tcg-bright-lights-demolition-protocol",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.26,
+          "mid": 0.82
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.4,
+          "mid": 0.83
+        }
+      ]
+    },
+    {
+      "id": 517341,
+      "name": "Pulsewave Protocol",
+      "number": "EVO058",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517341/flesh-and-blood-tcg-bright-lights-pulsewave-protocol",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.66,
+          "low": 2.18,
+          "mid": 2.9
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.3,
+          "low": 0.25,
+          "mid": 1.63
+        }
+      ]
+    },
+    {
+      "id": 517344,
+      "name": "Meganetic Protocol",
+      "number": "EVO059",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517344/flesh-and-blood-tcg-bright-lights-meganetic-protocol",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.98,
+          "low": 0.97,
+          "mid": 1.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.24,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 517347,
+      "name": "Heavy Artillery",
+      "label": "Red",
+      "number": "EVO061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517347/flesh-and-blood-tcg-bright-lights-heavy-artillery-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.19,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517349,
+      "name": "Heavy Artillery",
+      "label": "Yellow",
+      "number": "EVO062",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517349/flesh-and-blood-tcg-bright-lights-heavy-artillery-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.08,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 517350,
+      "name": "Heavy Artillery",
+      "label": "Blue",
+      "number": "EVO063",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517350/flesh-and-blood-tcg-bright-lights-heavy-artillery-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.15,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 517355,
+      "name": "Mechanical Strength",
+      "label": "Red",
+      "number": "EVO067",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517355/flesh-and-blood-tcg-bright-lights-mechanical-strength-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.15,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 517357,
+      "name": "Mechanical Strength",
+      "label": "Yellow",
+      "number": "EVO068",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517357/flesh-and-blood-tcg-bright-lights-mechanical-strength-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.07,
+          "mid": 0.34
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 517359,
+      "name": "Mechanical Strength",
+      "label": "Blue",
+      "number": "EVO069",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517359/flesh-and-blood-tcg-bright-lights-mechanical-strength-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.42,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 517375,
+      "name": "Hyper Driver",
+      "label": "Red",
+      "number": "EVO099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517375/flesh-and-blood-tcg-bright-lights-hyper-driver-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517382,
+      "name": "Junkyard Dogg",
+      "label": "Red",
+      "number": "EVO126",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517382/flesh-and-blood-tcg-bright-lights-junkyard-dogg-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517386,
+      "name": "Junkyard Dogg",
+      "label": "Yellow",
+      "number": "EVO127",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517386/flesh-and-blood-tcg-bright-lights-junkyard-dogg-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517396,
+      "name": "Out Pace",
+      "label": "Red",
+      "number": "EVO204",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517396/flesh-and-blood-tcg-bright-lights-out-pace-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.26,
+          "low": 0.05,
+          "mid": 2.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 517398,
+      "name": "Out Pace",
+      "label": "Yellow",
+      "number": "EVO205",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517398/flesh-and-blood-tcg-bright-lights-out-pace-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517400,
+      "name": "Out Pace",
+      "label": "Blue",
+      "number": "EVO206",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517400/flesh-and-blood-tcg-bright-lights-out-pace-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517405,
+      "name": "Lay Waste",
+      "label": "Red",
+      "number": "EVO207",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517405/flesh-and-blood-tcg-bright-lights-lay-waste-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517408,
+      "name": "Lay Waste",
+      "label": "Yellow",
+      "number": "EVO208",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517408/flesh-and-blood-tcg-bright-lights-lay-waste-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517410,
+      "name": "Lay Waste",
+      "label": "Blue",
+      "number": "EVO209",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517410/flesh-and-blood-tcg-bright-lights-lay-waste-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517414,
+      "name": "Fender Bender",
+      "label": "Yellow",
+      "number": "EVO211",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517414/flesh-and-blood-tcg-bright-lights-fender-bender-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517416,
+      "name": "Fender Bender",
+      "label": "Blue",
+      "number": "EVO212",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517416/flesh-and-blood-tcg-bright-lights-fender-bender-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517430,
+      "name": "Steel Street Enforcement",
+      "number": "EVO060",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517430/flesh-and-blood-tcg-bright-lights-steel-street-enforcement",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.05,
+          "low": 1.25,
+          "mid": 2.93
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.88,
+          "low": 4.99,
+          "mid": 6.09
+        }
+      ]
+    },
+    {
+      "id": 517431,
+      "name": "Sprocket Rocket",
+      "label": "Red",
+      "number": "EVO192",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517431/flesh-and-blood-tcg-bright-lights-sprocket-rocket-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.18,
+          "low": 0.63,
+          "mid": 7.5
+        }
+      ]
+    },
+    {
+      "id": 517432,
+      "name": "Dumpster Dive",
+      "label": "Red",
+      "number": "EVO195",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517432/flesh-and-blood-tcg-bright-lights-dumpster-dive-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517433,
+      "name": "Teklonetic Force Field",
+      "label": "Red",
+      "number": "EVO231",
+      "rarity": "Common",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517433/flesh-and-blood-tcg-bright-lights-teklonetic-force-field-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.04,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 517436,
+      "name": "Teklonetic Force Field",
+      "label": "Yellow",
+      "number": "EVO232",
+      "rarity": "Common",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517436/flesh-and-blood-tcg-bright-lights-teklonetic-force-field-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517440,
+      "name": "Teklonetic Force Field",
+      "label": "Blue",
+      "number": "EVO233",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517440/flesh-and-blood-tcg-bright-lights-teklonetic-force-field-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517445,
+      "name": "Scrap Harvester",
+      "label": "Red",
+      "number": "EVO132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517445/flesh-and-blood-tcg-bright-lights-scrap-harvester-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517771,
+      "name": "Maxx 'The Hype' Nitro",
+      "number": "EVO004",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517771_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517771/flesh-and-blood-tcg-bright-lights-maxx-the-hype-nitro",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.2,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 517773,
+      "name": "Hyper-X3",
+      "number": "EVO011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517773_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517773/flesh-and-blood-tcg-bright-lights-hyper-x3",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.48,
+          "low": 2.57,
+          "mid": 5.49
+        }
+      ]
+    },
+    {
+      "id": 517774,
+      "name": "Hyper-X3",
+      "label": "Extended Art",
+      "number": "EVO011",
+      "rarity": "Legendary",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517774_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517774/flesh-and-blood-tcg-bright-lights-hyper-x3-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 22.38,
+          "low": 21.7,
+          "mid": 25.37
+        }
+      ]
+    },
+    {
+      "id": 517791,
+      "name": "Adaptive Plating",
+      "number": "EVO013",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517791_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517791/flesh-and-blood-tcg-bright-lights-adaptive-plating",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 64.17,
+          "low": 65,
+          "mid": 71.07
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 41.88,
+          "low": 31,
+          "mid": 44.49
+        }
+      ]
+    },
+    {
+      "id": 517795,
+      "name": "Cogwerx Base Head",
+      "number": "EVO014",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517795_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517795/flesh-and-blood-tcg-bright-lights-cogwerx-base-head",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.16,
+          "low": 0.89,
+          "mid": 1.36
+        }
+      ]
+    },
+    {
+      "id": 517797,
+      "name": "Cogwerx Base Chest",
+      "number": "EVO015",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517797_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517797/flesh-and-blood-tcg-bright-lights-cogwerx-base-chest",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.96,
+          "low": 0.75,
+          "mid": 1.01
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517799,
+      "name": "Cogwerx Base Arms",
+      "number": "EVO016",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517799_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517799/flesh-and-blood-tcg-bright-lights-cogwerx-base-arms",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.41,
+          "low": 0.4,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517800,
+      "name": "Cogwerx Base Legs",
+      "number": "EVO017",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517800/flesh-and-blood-tcg-bright-lights-cogwerx-base-legs",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.73,
+          "low": 1.59,
+          "mid": 1.9
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517804,
+      "name": "Evo Steel Soul Memory",
+      "label": "Marvel",
+      "number": "EVO026",
+      "rarity": "Marvel",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517804_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517804/flesh-and-blood-tcg-bright-lights-evo-steel-soul-memory-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 41.81,
+          "low": 32.99,
+          "mid": 40.12
+        }
+      ]
+    },
+    {
+      "id": 517807,
+      "name": "Evo Steel Soul Processor",
+      "number": "EVO027",
+      "rarity": "Majestic",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517807_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517807/flesh-and-blood-tcg-bright-lights-evo-steel-soul-processor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.71,
+          "low": 6.04,
+          "mid": 8.72
+        }
+      ]
+    },
+    {
+      "id": 517808,
+      "name": "Evo Steel Soul Processor",
+      "label": "Marvel",
+      "number": "EVO027",
+      "rarity": "Marvel",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517808_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517808/flesh-and-blood-tcg-bright-lights-evo-steel-soul-processor-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 32.58,
+          "low": 35.96,
+          "mid": 38.99
+        }
+      ]
+    },
+    {
+      "id": 517810,
+      "name": "Evo Steel Soul Controller",
+      "number": "EVO028",
+      "rarity": "Majestic",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517810_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517810/flesh-and-blood-tcg-bright-lights-evo-steel-soul-controller",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.86,
+          "low": 5.99,
+          "mid": 9.04
+        }
+      ]
+    },
+    {
+      "id": 517812,
+      "name": "Evo Steel Soul Controller",
+      "label": "Marvel",
+      "number": "EVO028",
+      "rarity": "Marvel",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517812_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517812/flesh-and-blood-tcg-bright-lights-evo-steel-soul-controller-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 31.17,
+          "low": 15.39,
+          "mid": 35
+        }
+      ]
+    },
+    {
+      "id": 517814,
+      "name": "Evo Steel Soul Tower",
+      "number": "EVO029",
+      "rarity": "Majestic",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517814/flesh-and-blood-tcg-bright-lights-evo-steel-soul-tower",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.38,
+          "low": 7,
+          "mid": 10.4
+        }
+      ]
+    },
+    {
+      "id": 517816,
+      "name": "Evo Steel Soul Tower",
+      "label": "Marvel",
+      "number": "EVO029",
+      "rarity": "Marvel",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517816_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517816/flesh-and-blood-tcg-bright-lights-evo-steel-soul-tower-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 42.9,
+          "low": 37.29,
+          "mid": 45.84
+        }
+      ]
+    },
+    {
+      "id": 517819,
+      "name": "Evo Circuit Breaker",
+      "number": "EVO030",
+      "rarity": "Majestic",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517819_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517819/flesh-and-blood-tcg-bright-lights-evo-circuit-breaker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.1,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 517835,
+      "name": "Evo Atom Breaker",
+      "number": "EVO031",
+      "rarity": "Majestic",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517835/flesh-and-blood-tcg-bright-lights-evo-atom-breaker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.21,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 517836,
+      "name": "Evo Face Breaker",
+      "number": "EVO032",
+      "rarity": "Majestic",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517836/flesh-and-blood-tcg-bright-lights-evo-face-breaker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.3,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 517837,
+      "name": "Evo Mach Breaker",
+      "number": "EVO033",
+      "rarity": "Majestic",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517837/flesh-and-blood-tcg-bright-lights-evo-mach-breaker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.54,
+          "low": 0.15,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 517840,
+      "name": "Evo Command Center",
+      "number": "EVO034",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517840/flesh-and-blood-tcg-bright-lights-evo-command-center",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.61,
+          "low": 0.35,
+          "mid": 1.07
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517842,
+      "name": "Evo Engine Room",
+      "number": "EVO035",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517842_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517842/flesh-and-blood-tcg-bright-lights-evo-engine-room",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.49,
+          "low": 0.25,
+          "mid": 0.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517844,
+      "name": "Evo Smoothbore",
+      "number": "EVO036",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517844/flesh-and-blood-tcg-bright-lights-evo-smoothbore",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.61,
+          "low": 0.4,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 517846,
+      "name": "Evo Thruster",
+      "number": "EVO037",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517846/flesh-and-blood-tcg-bright-lights-evo-thruster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.62,
+          "low": 0.47,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 517848,
+      "name": "Evo Sentry Base Head",
+      "number": "EVO042",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517848_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517848/flesh-and-blood-tcg-bright-lights-evo-sentry-base-head",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.23
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.97,
+          "low": 1.97,
+          "mid": 3.13
+        }
+      ]
+    },
+    {
+      "id": 517849,
+      "name": "Evo Sentry Base Chest",
+      "number": "EVO043",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517849_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517849/flesh-and-blood-tcg-bright-lights-evo-sentry-base-chest",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.29,
+          "low": 1,
+          "mid": 1.76
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517854,
+      "name": "Evo Sentry Base Arms",
+      "number": "EVO044",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517854/flesh-and-blood-tcg-bright-lights-evo-sentry-base-arms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 4.99,
+          "low": 3.5,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 517855,
+      "name": "Evo Sentry Base Legs",
+      "number": "EVO045",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517855/flesh-and-blood-tcg-bright-lights-evo-sentry-base-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.62,
+          "low": 0.37,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 517865,
+      "name": "Evo Data Mine",
+      "number": "EVO046",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517865_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517865/flesh-and-blood-tcg-bright-lights-evo-data-mine",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.44,
+          "low": 0.25,
+          "mid": 0.6
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517866,
+      "name": "Evo Battery Pack",
+      "number": "EVO047",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517866/flesh-and-blood-tcg-bright-lights-evo-battery-pack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.36,
+          "low": 0.33,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 517870,
+      "name": "Evo Cogspitter",
+      "number": "EVO048",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517870/flesh-and-blood-tcg-bright-lights-evo-cogspitter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.42,
+          "low": 0.4,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 517873,
+      "name": "Evo Charging Rods",
+      "number": "EVO049",
+      "rarity": "Common",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517873/flesh-and-blood-tcg-bright-lights-evo-charging-rods",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517879,
+      "name": "Evo Zoom Call",
+      "number": "EVO050",
+      "rarity": "Common",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517879/flesh-and-blood-tcg-bright-lights-evo-zoom-call",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.27,
+          "low": 0.19,
+          "mid": 0.86
+        }
+      ]
+    },
+    {
+      "id": 517881,
+      "name": "Evo Buzz Hive",
+      "number": "EVO051",
+      "rarity": "Common",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517881/flesh-and-blood-tcg-bright-lights-evo-buzz-hive",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.18,
+          "low": 0.18,
+          "mid": 0.84
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 517883,
+      "name": "Evo Whizz Bang",
+      "number": "EVO052",
+      "rarity": "Common",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517883/flesh-and-blood-tcg-bright-lights-evo-whizz-bang",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.43,
+          "low": 0.25,
+          "mid": 0.89
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517884,
+      "name": "Evo Zip Line",
+      "number": "EVO053",
+      "rarity": "Common",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517884/flesh-and-blood-tcg-bright-lights-evo-zip-line",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.43,
+          "low": 0.43,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 517887,
+      "name": "Annihilator Engine",
+      "number": "EVO054",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517887/flesh-and-blood-tcg-bright-lights-annihilator-engine",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.67,
+          "low": 0.4,
+          "mid": 0.92
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.95,
+          "low": 0.62,
+          "mid": 1.02
+        }
+      ]
+    },
+    {
+      "id": 518237,
+      "name": "Master Cog",
+      "number": "EVO000",
+      "rarity": "Fabled",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518237/flesh-and-blood-tcg-bright-lights-master-cog",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 45.47,
+          "low": 47,
+          "mid": 52.39
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 82.46,
+          "low": 81.89,
+          "mid": 133.35
+        }
+      ]
+    },
+    {
+      "id": 518238,
+      "name": "Dash I/O",
+      "number": "EVO001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518238/flesh-and-blood-tcg-bright-lights-dash-i-o",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.15,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 518239,
+      "name": "Evo Circuit Breaker",
+      "label": "Marvel",
+      "number": "EVO030",
+      "rarity": "Marvel",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518239/flesh-and-blood-tcg-bright-lights-evo-circuit-breaker-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 23.93,
+          "low": 22.95,
+          "mid": 25.02
+        }
+      ]
+    },
+    {
+      "id": 518240,
+      "name": "Evo Atom Breaker",
+      "label": "Marvel",
+      "number": "EVO031",
+      "rarity": "Marvel",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518240/flesh-and-blood-tcg-bright-lights-evo-atom-breaker-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 12.58,
+          "low": 8,
+          "mid": 14.19
+        }
+      ]
+    },
+    {
+      "id": 518242,
+      "name": "Evo Face Breaker",
+      "label": "Marvel",
+      "number": "EVO032",
+      "rarity": "Marvel",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518242_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518242/flesh-and-blood-tcg-bright-lights-evo-face-breaker-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 29.73,
+          "low": 26.97,
+          "mid": 30.41
+        }
+      ]
+    },
+    {
+      "id": 518243,
+      "name": "Evo Mach Breaker",
+      "label": "Marvel",
+      "number": "EVO033",
+      "rarity": "Marvel",
+      "type": "Equipment;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518243/flesh-and-blood-tcg-bright-lights-evo-mach-breaker-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 13.79,
+          "low": 9.74,
+          "mid": 15.17
+        }
+      ]
+    },
+    {
+      "id": 518244,
+      "name": "Evo Tekloscope",
+      "number": "EVO038",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518244/flesh-and-blood-tcg-bright-lights-evo-tekloscope",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.76,
+          "low": 0.68,
+          "mid": 1.27
+        }
+      ]
+    },
+    {
+      "id": 518245,
+      "name": "Evo Energy Matrix",
+      "number": "EVO039",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518245_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518245/flesh-and-blood-tcg-bright-lights-evo-energy-matrix",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.68,
+          "low": 0.68,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 518246,
+      "name": "Evo Scatter Shot",
+      "number": "EVO040",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518246/flesh-and-blood-tcg-bright-lights-evo-scatter-shot",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.38,
+          "low": 0.5,
+          "mid": 1.38
+        }
+      ]
+    },
+    {
+      "id": 518247,
+      "name": "Evo Rapid Fire",
+      "number": "EVO041",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518247/flesh-and-blood-tcg-bright-lights-evo-rapid-fire",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.24,
+          "low": 1,
+          "mid": 2.44
+        }
+      ]
+    },
+    {
+      "id": 518248,
+      "name": "Backup Protocol: RED",
+      "number": "EVO081",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518248_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518248/flesh-and-blood-tcg-bright-lights-backup-protocol-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 518249,
+      "name": "Backup Protocol: YEL",
+      "number": "EVO082",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518249/flesh-and-blood-tcg-bright-lights-backup-protocol-yel",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518250,
+      "name": "Backup Protocol: BLU",
+      "number": "EVO083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518250/flesh-and-blood-tcg-bright-lights-backup-protocol-blu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518251,
+      "name": "Boom Grenade",
+      "label": "Red",
+      "number": "EVO084",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518251/flesh-and-blood-tcg-bright-lights-boom-grenade-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.05,
+          "mid": 0.56
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518252,
+      "name": "Boom Grenade",
+      "label": "Yellow",
+      "number": "EVO085",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518252/flesh-and-blood-tcg-bright-lights-boom-grenade-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.19,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518253,
+      "name": "Boom Grenade",
+      "label": "Blue",
+      "number": "EVO086",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518253/flesh-and-blood-tcg-bright-lights-boom-grenade-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518254,
+      "name": "Dissolving Shield",
+      "label": "Red",
+      "number": "EVO087",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518254/flesh-and-blood-tcg-bright-lights-dissolving-shield-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.05,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 518255,
+      "name": "Annihilator Engine",
+      "label": "Extended Art",
+      "number": "EVO054",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518255/flesh-and-blood-tcg-bright-lights-annihilator-engine-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.69,
+          "low": 7.99,
+          "mid": 10.74
+        }
+      ]
+    },
+    {
+      "id": 518256,
+      "name": "Scrap Hopper",
+      "label": "Red",
+      "number": "EVO108",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518256/flesh-and-blood-tcg-bright-lights-scrap-hopper-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 518257,
+      "name": "Scrap Hopper",
+      "label": "Yellow",
+      "number": "EVO109",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518257/flesh-and-blood-tcg-bright-lights-scrap-hopper-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 518258,
+      "name": "Terminator Tank",
+      "label": "Extended Art",
+      "number": "EVO055",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518258/flesh-and-blood-tcg-bright-lights-terminator-tank-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 24.4,
+          "low": 25.42,
+          "mid": 29.99
+        }
+      ]
+    },
+    {
+      "id": 518259,
+      "name": "Liquid-Cooled Mayhem",
+      "label": "Red",
+      "number": "EVO064",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518259/flesh-and-blood-tcg-bright-lights-liquid-cooled-mayhem-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.14,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 518260,
+      "name": "Scrap Hopper",
+      "label": "Blue",
+      "number": "EVO110",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518260/flesh-and-blood-tcg-bright-lights-scrap-hopper-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.05,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518262,
+      "name": "Dissolving Shield",
+      "label": "Yellow",
+      "number": "EVO088",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518262/flesh-and-blood-tcg-bright-lights-dissolving-shield-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518263,
+      "name": "Dissolving Shield",
+      "label": "Blue",
+      "number": "EVO089",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518263/flesh-and-blood-tcg-bright-lights-dissolving-shield-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518264,
+      "name": "Liquid-Cooled Mayhem",
+      "label": "Yellow",
+      "number": "EVO065",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518264/flesh-and-blood-tcg-bright-lights-liquid-cooled-mayhem-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.13,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518265,
+      "name": "Hadron Collider",
+      "label": "Red",
+      "number": "EVO090",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518265/flesh-and-blood-tcg-bright-lights-hadron-collider-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518266,
+      "name": "Liquid-Cooled Mayhem",
+      "label": "Blue",
+      "number": "EVO066",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518266/flesh-and-blood-tcg-bright-lights-liquid-cooled-mayhem-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.39,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 518267,
+      "name": "Hadron Collider",
+      "label": "Yellow",
+      "number": "EVO091",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518267/flesh-and-blood-tcg-bright-lights-hadron-collider-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518268,
+      "name": "Grinding Gears",
+      "number": "EVO070",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518268/flesh-and-blood-tcg-bright-lights-grinding-gears",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.07,
+          "low": 0.75,
+          "mid": 1.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.2,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 518269,
+      "name": "Hadron Collider",
+      "label": "Blue",
+      "number": "EVO092",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518269/flesh-and-blood-tcg-bright-lights-hadron-collider-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518270,
+      "name": "Prismatic Lens",
+      "number": "EVO071",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518270/flesh-and-blood-tcg-bright-lights-prismatic-lens",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.2,
+          "low": 1,
+          "mid": 1.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.98,
+          "low": 0.8,
+          "mid": 1.13
+        }
+      ]
+    },
+    {
+      "id": 518271,
+      "name": "Mini Forcefield",
+      "label": "Red",
+      "number": "EVO093",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518271/flesh-and-blood-tcg-bright-lights-mini-forcefield-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518272,
+      "name": "Mini Forcefield",
+      "label": "Yellow",
+      "number": "EVO094",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518272/flesh-and-blood-tcg-bright-lights-mini-forcefield-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518273,
+      "name": "Mini Forcefield",
+      "label": "Blue",
+      "number": "EVO095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518273/flesh-and-blood-tcg-bright-lights-mini-forcefield-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518274,
+      "name": "Overload Script",
+      "number": "EVO096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518274/flesh-and-blood-tcg-bright-lights-overload-script",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 518275,
+      "name": "MHz Script",
+      "number": "EVO097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518275/flesh-and-blood-tcg-bright-lights-mhz-script",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518276,
+      "name": "Quantum Processor",
+      "number": "EVO072",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518276/flesh-and-blood-tcg-bright-lights-quantum-processor",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.42,
+          "mid": 1.01
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.35,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 518277,
+      "name": "Autosave Script",
+      "number": "EVO098",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518277/flesh-and-blood-tcg-bright-lights-autosave-script",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518278,
+      "name": "Stasis Cell",
+      "number": "EVO073",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518278/flesh-and-blood-tcg-bright-lights-stasis-cell",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.4,
+          "low": 0.89,
+          "mid": 1.57
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.45,
+          "low": 1.4,
+          "mid": 1.95
+        }
+      ]
+    },
+    {
+      "id": 518279,
+      "name": "Soup Up",
+      "label": "Red",
+      "number": "EVO111",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518279/flesh-and-blood-tcg-bright-lights-soup-up-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.22,
+          "low": 2.93,
+          "mid": 4.85
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.41,
+          "low": 0.05,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 518280,
+      "name": "Hyper Scrapper",
+      "number": "EVO100",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518280/flesh-and-blood-tcg-bright-lights-hyper-scrapper",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.8,
+          "low": 5.2,
+          "mid": 6.95
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.02,
+          "low": 8.36,
+          "mid": 10.79
+        }
+      ]
+    },
+    {
+      "id": 518281,
+      "name": "Soup Up",
+      "label": "Yellow",
+      "number": "EVO112",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518281/flesh-and-blood-tcg-bright-lights-soup-up-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.07,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 518282,
+      "name": "Hydraulic Press",
+      "label": "Red",
+      "number": "EVO102",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518282/flesh-and-blood-tcg-bright-lights-hydraulic-press-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518283,
+      "name": "Hydraulic Press",
+      "label": "Yellow",
+      "number": "EVO103",
+      "rarity": "Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518283/flesh-and-blood-tcg-bright-lights-hydraulic-press-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 518284,
+      "name": "Soup Up",
+      "label": "Blue",
+      "number": "EVO113",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518284/flesh-and-blood-tcg-bright-lights-soup-up-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.3,
+          "mid": 0.68
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 518285,
+      "name": "Hydraulic Press",
+      "label": "Blue",
+      "number": "EVO104",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518285/flesh-and-blood-tcg-bright-lights-hydraulic-press-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518286,
+      "name": "Tick Tock Clock",
+      "number": "EVO074",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518286/flesh-and-blood-tcg-bright-lights-tick-tock-clock",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.98,
+          "low": 1.65,
+          "mid": 2.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.12,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 518287,
+      "name": "Torque Tuned",
+      "label": "Red",
+      "number": "EVO114",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518287/flesh-and-blood-tcg-bright-lights-torque-tuned-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518288,
+      "name": "Fuel Injector",
+      "number": "EVO075",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518288/flesh-and-blood-tcg-bright-lights-fuel-injector",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 518289,
+      "name": "Ratchet Up",
+      "label": "Red",
+      "number": "EVO105",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518289/flesh-and-blood-tcg-bright-lights-ratchet-up-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518290,
+      "name": "Torque Tuned",
+      "label": "Yellow",
+      "number": "EVO115",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518290/flesh-and-blood-tcg-bright-lights-torque-tuned-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 518291,
+      "name": "Ratchet Up",
+      "label": "Yellow",
+      "number": "EVO106",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518291/flesh-and-blood-tcg-bright-lights-ratchet-up-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.08,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518292,
+      "name": "Medkit",
+      "number": "EVO076",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518292/flesh-and-blood-tcg-bright-lights-medkit",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.13,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518293,
+      "name": "Torque Tuned",
+      "label": "Blue",
+      "number": "EVO116",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518293/flesh-and-blood-tcg-bright-lights-torque-tuned-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.1,
+          "mid": 0.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518294,
+      "name": "Ratchet Up",
+      "label": "Blue",
+      "number": "EVO107",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518294/flesh-and-blood-tcg-bright-lights-ratchet-up-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.05,
+          "mid": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518295,
+      "name": "Steam Canister",
+      "number": "EVO077",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518295/flesh-and-blood-tcg-bright-lights-steam-canister",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.18,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518296,
+      "name": "Polarity Reversal Script",
+      "number": "EVO078",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518296/flesh-and-blood-tcg-bright-lights-polarity-reversal-script",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.13,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518297,
+      "name": "Penetration Script",
+      "number": "EVO079",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518297/flesh-and-blood-tcg-bright-lights-penetration-script",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.36
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.89,
+          "low": 0.51,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 518298,
+      "name": "Security Script",
+      "number": "EVO080",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518298/flesh-and-blood-tcg-bright-lights-security-script",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518299,
+      "name": "Heist",
+      "number": "EVO138",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518299/flesh-and-blood-tcg-bright-lights-heist",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10.74,
+          "low": 10.5,
+          "mid": 13.6
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 16.38,
+          "low": 14.74,
+          "mid": 18.92
+        }
+      ]
+    },
+    {
+      "id": 518300,
+      "name": "Cognition Field",
+      "label": "Red",
+      "number": "EVO117",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518300/flesh-and-blood-tcg-bright-lights-cognition-field-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.01,
+          "mid": 0.3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518301,
+      "name": "Moonshot",
+      "number": "EVO140",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518301/flesh-and-blood-tcg-bright-lights-moonshot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.9,
+          "low": 0.5,
+          "mid": 1.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.54,
+          "low": 0.38,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 518302,
+      "name": "Steel Street Hoons",
+      "number": "EVO141",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518302/flesh-and-blood-tcg-bright-lights-steel-street-hoons",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.88,
+          "low": 0.5,
+          "mid": 1.92
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.1,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 518303,
+      "name": "Cognition Field",
+      "label": "Yellow",
+      "number": "EVO118",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518303/flesh-and-blood-tcg-bright-lights-cognition-field-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.12,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518304,
+      "name": "Zero to Fifty",
+      "label": "Red",
+      "number": "EVO162",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518304/flesh-and-blood-tcg-bright-lights-zero-to-fifty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 518305,
+      "name": "Twin Drive",
+      "number": "EVO142",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518305/flesh-and-blood-tcg-bright-lights-twin-drive",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 18.45,
+          "low": 20.19,
+          "mid": 25
+        },
+        {
+          "sub": "Normal",
+          "usd": 19.14,
+          "low": 19.52,
+          "mid": 24.99
+        }
+      ]
+    },
+    {
+      "id": 518306,
+      "name": "Cognition Field",
+      "label": "Blue",
+      "number": "EVO119",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518306/flesh-and-blood-tcg-bright-lights-cognition-field-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518307,
+      "name": "Meganetic Lockwave",
+      "number": "EVO143",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518307/flesh-and-blood-tcg-bright-lights-meganetic-lockwave",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.15,
+          "mid": 0.55
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.4,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 518308,
+      "name": "System Failure",
+      "number": "EVO144",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518308/flesh-and-blood-tcg-bright-lights-system-failure",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.42,
+          "mid": 0.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 518309,
+      "name": "Zero to Fifty",
+      "label": "Yellow",
+      "number": "EVO163",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518309/flesh-and-blood-tcg-bright-lights-zero-to-fifty-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518310,
+      "name": "System Reset",
+      "number": "EVO145",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518310/flesh-and-blood-tcg-bright-lights-system-reset",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.84,
+          "low": 3,
+          "mid": 4.94
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.01,
+          "low": 0.5,
+          "mid": 1.79
+        }
+      ]
+    },
+    {
+      "id": 518311,
+      "name": "Zero to Fifty",
+      "label": "Blue",
+      "number": "EVO164",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518311/flesh-and-blood-tcg-bright-lights-zero-to-fifty-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518312,
+      "name": "Fabricate",
+      "number": "EVO146",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518312/flesh-and-blood-tcg-bright-lights-fabricate",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.39,
+          "low": 5.15,
+          "mid": 6.75
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.26,
+          "low": 2.49,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 518313,
+      "name": "Infuse Alloy",
+      "label": "Red",
+      "number": "EVO120",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518313/flesh-and-blood-tcg-bright-lights-infuse-alloy-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518314,
+      "name": "Bull Bar",
+      "label": "Red",
+      "number": "EVO147",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518314/flesh-and-blood-tcg-bright-lights-bull-bar-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.12,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518315,
+      "name": "Bull Bar",
+      "label": "Yellow",
+      "number": "EVO148",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518315/flesh-and-blood-tcg-bright-lights-bull-bar-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.07,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518316,
+      "name": "Infuse Alloy",
+      "label": "Yellow",
+      "number": "EVO121",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518316/flesh-and-blood-tcg-bright-lights-infuse-alloy-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518317,
+      "name": "Bull Bar",
+      "label": "Blue",
+      "number": "EVO149",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518317/flesh-and-blood-tcg-bright-lights-bull-bar-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.18,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518318,
+      "name": "Infuse Alloy",
+      "label": "Blue",
+      "number": "EVO122",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518318/flesh-and-blood-tcg-bright-lights-infuse-alloy-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518319,
+      "name": "Razzle Dazzle",
+      "label": "Red",
+      "number": "EVO165",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518319/flesh-and-blood-tcg-bright-lights-razzle-dazzle-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 518320,
+      "name": "Spring a Leak",
+      "label": "Red",
+      "number": "EVO150",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518320/flesh-and-blood-tcg-bright-lights-spring-a-leak-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.07,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518321,
+      "name": "Spring a Leak",
+      "label": "Yellow",
+      "number": "EVO151",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518321/flesh-and-blood-tcg-bright-lights-spring-a-leak-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.12,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 518322,
+      "name": "Spring a Leak",
+      "label": "Blue",
+      "number": "EVO152",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518322/flesh-and-blood-tcg-bright-lights-spring-a-leak-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.08,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 518323,
+      "name": "Razzle Dazzle",
+      "label": "Yellow",
+      "number": "EVO166",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518323/flesh-and-blood-tcg-bright-lights-razzle-dazzle-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518324,
+      "name": "Big Shot",
+      "number": "EVO153",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518324/flesh-and-blood-tcg-bright-lights-big-shot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.43,
+          "low": 0.16,
+          "mid": 0.43
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518325,
+      "name": "Burn Rubber",
+      "number": "EVO154",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518325/flesh-and-blood-tcg-bright-lights-burn-rubber",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.43,
+          "low": 0.1,
+          "mid": 0.43
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518326,
+      "name": "Smash and Grab",
+      "number": "EVO155",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518326/flesh-and-blood-tcg-bright-lights-smash-and-grab",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.23,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 518327,
+      "name": "Gigawatt",
+      "label": "Red",
+      "number": "EVO156",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518327/flesh-and-blood-tcg-bright-lights-gigawatt-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518328,
+      "name": "Razzle Dazzle",
+      "label": "Blue",
+      "number": "EVO167",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518328/flesh-and-blood-tcg-bright-lights-razzle-dazzle-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518329,
+      "name": "Infuse Titanium",
+      "label": "Red",
+      "number": "EVO123",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518329/flesh-and-blood-tcg-bright-lights-infuse-titanium-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518330,
+      "name": "Gigawatt",
+      "label": "Yellow",
+      "number": "EVO157",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518330/flesh-and-blood-tcg-bright-lights-gigawatt-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.15,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 518331,
+      "name": "Gigawatt",
+      "label": "Blue",
+      "number": "EVO158",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518331/flesh-and-blood-tcg-bright-lights-gigawatt-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 518332,
+      "name": "Infuse Titanium",
+      "label": "Yellow",
+      "number": "EVO124",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518332/flesh-and-blood-tcg-bright-lights-infuse-titanium-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518333,
+      "name": "Firewall",
+      "label": "Red",
+      "number": "EVO159",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518333/flesh-and-blood-tcg-bright-lights-firewall-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.92,
+          "low": 4,
+          "mid": 4
+        }
+      ]
+    },
+    {
+      "id": 518334,
+      "name": "Firewall",
+      "label": "Yellow",
+      "number": "EVO160",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518334/flesh-and-blood-tcg-bright-lights-firewall-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.18,
+          "mid": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518335,
+      "name": "Firewall",
+      "label": "Blue",
+      "number": "EVO161",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518335/flesh-and-blood-tcg-bright-lights-firewall-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.05,
+          "mid": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518336,
+      "name": "Full Tilt",
+      "label": "Red",
+      "number": "EVO168",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518336/flesh-and-blood-tcg-bright-lights-full-tilt-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518337,
+      "name": "Infuse Titanium",
+      "label": "Blue",
+      "number": "EVO125",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518337/flesh-and-blood-tcg-bright-lights-infuse-titanium-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518338,
+      "name": "Full Tilt",
+      "label": "Yellow",
+      "number": "EVO169",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518338/flesh-and-blood-tcg-bright-lights-full-tilt-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518339,
+      "name": "Scrap Compactor",
+      "label": "Red",
+      "number": "EVO129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518339/flesh-and-blood-tcg-bright-lights-scrap-compactor-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.06,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 518340,
+      "name": "Full Tilt",
+      "label": "Blue",
+      "number": "EVO170",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518340/flesh-and-blood-tcg-bright-lights-full-tilt-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518341,
+      "name": "Scrap Compactor",
+      "label": "Yellow",
+      "number": "EVO130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518341/flesh-and-blood-tcg-bright-lights-scrap-compactor-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 518342,
+      "name": "Gas Guzzler",
+      "label": "Red",
+      "number": "EVO171",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518342/flesh-and-blood-tcg-bright-lights-gas-guzzler-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.03,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 518343,
+      "name": "Scrap Compactor",
+      "label": "Blue",
+      "number": "EVO131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518343/flesh-and-blood-tcg-bright-lights-scrap-compactor-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.08,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518344,
+      "name": "Gas Guzzler",
+      "label": "Yellow",
+      "number": "EVO172",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518344/flesh-and-blood-tcg-bright-lights-gas-guzzler-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518345,
+      "name": "Scrap Harvester",
+      "label": "Yellow",
+      "number": "EVO133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518345/flesh-and-blood-tcg-bright-lights-scrap-harvester-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518346,
+      "name": "Gas Guzzler",
+      "label": "Blue",
+      "number": "EVO173",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518346/flesh-and-blood-tcg-bright-lights-gas-guzzler-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518347,
+      "name": "Scrap Harvester",
+      "label": "Blue",
+      "number": "EVO134",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518347/flesh-and-blood-tcg-bright-lights-scrap-harvester-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518348,
+      "name": "Scrap Prospector",
+      "label": "Red",
+      "number": "EVO135",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518348/flesh-and-blood-tcg-bright-lights-scrap-prospector-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 518350,
+      "name": "Scrap Prospector",
+      "label": "Yellow",
+      "number": "EVO136",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518350/flesh-and-blood-tcg-bright-lights-scrap-prospector-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518351,
+      "name": "Scrap Prospector",
+      "label": "Blue",
+      "number": "EVO137",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518351/flesh-and-blood-tcg-bright-lights-scrap-prospector-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 518352,
+      "name": "Crankshaft",
+      "label": "Red",
+      "number": "EVO174",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518352/flesh-and-blood-tcg-bright-lights-crankshaft-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518353,
+      "name": "Crankshaft",
+      "label": "Yellow",
+      "number": "EVO175",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518353/flesh-and-blood-tcg-bright-lights-crankshaft-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518354,
+      "name": "Crankshaft",
+      "label": "Blue",
+      "number": "EVO176",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518354/flesh-and-blood-tcg-bright-lights-crankshaft-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518356,
+      "name": "Big Bertha",
+      "label": "Red",
+      "number": "EVO177",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518356/flesh-and-blood-tcg-bright-lights-big-bertha-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 518358,
+      "name": "Big Bertha",
+      "label": "Yellow",
+      "number": "EVO178",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518358/flesh-and-blood-tcg-bright-lights-big-bertha-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518361,
+      "name": "Dive Through Data",
+      "label": "Red",
+      "number": "EVO189",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518361/flesh-and-blood-tcg-bright-lights-dive-through-data-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.29
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518362,
+      "name": "Dive Through Data",
+      "label": "Yellow",
+      "number": "EVO190",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518362/flesh-and-blood-tcg-bright-lights-dive-through-data-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518363,
+      "name": "Dive Through Data",
+      "label": "Blue",
+      "number": "EVO191",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518363/flesh-and-blood-tcg-bright-lights-dive-through-data-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518364,
+      "name": "Sprocket Rocket",
+      "label": "Yellow",
+      "number": "EVO193",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518364/flesh-and-blood-tcg-bright-lights-sprocket-rocket-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518365,
+      "name": "Sprocket Rocket",
+      "label": "Blue",
+      "number": "EVO194",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518365/flesh-and-blood-tcg-bright-lights-sprocket-rocket-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518366,
+      "name": "Dumpster Dive",
+      "label": "Yellow",
+      "number": "EVO196",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518366/flesh-and-blood-tcg-bright-lights-dumpster-dive-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518367,
+      "name": "Dumpster Dive",
+      "label": "Blue",
+      "number": "EVO197",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518367/flesh-and-blood-tcg-bright-lights-dumpster-dive-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.04,
+          "mid": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518368,
+      "name": "Big Bertha",
+      "label": "Blue",
+      "number": "EVO179",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518368/flesh-and-blood-tcg-bright-lights-big-bertha-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518369,
+      "name": "Expedite",
+      "label": "Red",
+      "number": "EVO198",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518369/flesh-and-blood-tcg-bright-lights-expedite-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.05,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518370,
+      "name": "Expedite",
+      "label": "Yellow",
+      "number": "EVO199",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518370/flesh-and-blood-tcg-bright-lights-expedite-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518371,
+      "name": "Expedite",
+      "label": "Blue",
+      "number": "EVO200",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518371/flesh-and-blood-tcg-bright-lights-expedite-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 518372,
+      "name": "Jump Start",
+      "label": "Red",
+      "number": "EVO180",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518372/flesh-and-blood-tcg-bright-lights-jump-start-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518373,
+      "name": "MetEx",
+      "label": "Red",
+      "number": "EVO201",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518373/flesh-and-blood-tcg-bright-lights-metex-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518374,
+      "name": "Jump Start",
+      "label": "Yellow",
+      "number": "EVO181",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518374/flesh-and-blood-tcg-bright-lights-jump-start-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518375,
+      "name": "MetEx",
+      "label": "Yellow",
+      "number": "EVO202",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518375/flesh-and-blood-tcg-bright-lights-metex-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518376,
+      "name": "MetEx",
+      "label": "Blue",
+      "number": "EVO203",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518376/flesh-and-blood-tcg-bright-lights-metex-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518377,
+      "name": "Jump Start",
+      "label": "Blue",
+      "number": "EVO182",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518377/flesh-and-blood-tcg-bright-lights-jump-start-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518378,
+      "name": "Panel Beater",
+      "label": "Red",
+      "number": "EVO213",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518378/flesh-and-blood-tcg-bright-lights-panel-beater-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518379,
+      "name": "Panel Beater",
+      "label": "Yellow",
+      "number": "EVO214",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518379/flesh-and-blood-tcg-bright-lights-panel-beater-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518380,
+      "name": "Panel Beater",
+      "label": "Blue",
+      "number": "EVO215",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518380/flesh-and-blood-tcg-bright-lights-panel-beater-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518381,
+      "name": "Under Loop",
+      "label": "Red",
+      "number": "EVO216",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518381/flesh-and-blood-tcg-bright-lights-under-loop-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518382,
+      "name": "Rev Up",
+      "label": "Red",
+      "number": "EVO183",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518382/flesh-and-blood-tcg-bright-lights-rev-up-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.09,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 518383,
+      "name": "Under Loop",
+      "label": "Yellow",
+      "number": "EVO217",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518383/flesh-and-blood-tcg-bright-lights-under-loop-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518384,
+      "name": "Under Loop",
+      "label": "Blue",
+      "number": "EVO218",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518384/flesh-and-blood-tcg-bright-lights-under-loop-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518385,
+      "name": "Rev Up",
+      "label": "Yellow",
+      "number": "EVO184",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518385/flesh-and-blood-tcg-bright-lights-rev-up-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518386,
+      "name": "Over Loop",
+      "label": "Red",
+      "number": "EVO219",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518386/flesh-and-blood-tcg-bright-lights-over-loop-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.58,
+          "mid": 0.58
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518387,
+      "name": "Over Loop",
+      "label": "Yellow",
+      "number": "EVO220",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518387/flesh-and-blood-tcg-bright-lights-over-loop-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 518388,
+      "name": "Over Loop",
+      "label": "Blue",
+      "number": "EVO221",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518388/flesh-and-blood-tcg-bright-lights-over-loop-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.58,
+          "mid": 0.58
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 518389,
+      "name": "Rev Up",
+      "label": "Blue",
+      "number": "EVO185",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518389/flesh-and-blood-tcg-bright-lights-rev-up-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518390,
+      "name": "Gas Up",
+      "label": "Red",
+      "number": "EVO222",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518390/flesh-and-blood-tcg-bright-lights-gas-up-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518391,
+      "name": "Gas Up",
+      "label": "Yellow",
+      "number": "EVO223",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518391/flesh-and-blood-tcg-bright-lights-gas-up-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518392,
+      "name": "Gas Up",
+      "label": "Blue",
+      "number": "EVO224",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518392/flesh-and-blood-tcg-bright-lights-gas-up-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518393,
+      "name": "Data Link",
+      "label": "Red",
+      "number": "EVO186",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518393/flesh-and-blood-tcg-bright-lights-data-link-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518394,
+      "name": "Data Link",
+      "label": "Yellow",
+      "number": "EVO187",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518394/flesh-and-blood-tcg-bright-lights-data-link-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518395,
+      "name": "Data Link",
+      "label": "Blue",
+      "number": "EVO188",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518395/flesh-and-blood-tcg-bright-lights-data-link-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 518421,
+      "name": "Quickfire",
+      "label": "Red",
+      "number": "EVO225",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518421/flesh-and-blood-tcg-bright-lights-quickfire-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518422,
+      "name": "Quickfire",
+      "label": "Yellow",
+      "number": "EVO226",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518422/flesh-and-blood-tcg-bright-lights-quickfire-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518423,
+      "name": "Quickfire",
+      "label": "Blue",
+      "number": "EVO227",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518423/flesh-and-blood-tcg-bright-lights-quickfire-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518424,
+      "name": "Re-Charge!",
+      "label": "Red",
+      "number": "EVO228",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518424/flesh-and-blood-tcg-bright-lights-re-charge-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518425,
+      "name": "Re-Charge!",
+      "label": "Yellow",
+      "number": "EVO229",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518425/flesh-and-blood-tcg-bright-lights-re-charge-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518427,
+      "name": "Re-Charge!",
+      "label": "Blue",
+      "number": "EVO230",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518427/flesh-and-blood-tcg-bright-lights-re-charge-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 518428,
+      "name": "Tectonic Rift",
+      "number": "EVO238",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518428/flesh-and-blood-tcg-bright-lights-tectonic-rift",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.9,
+          "low": 0.47,
+          "mid": 2.88
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.85,
+          "low": 0.5,
+          "mid": 1.35
+        }
+      ]
+    },
+    {
+      "id": 518430,
+      "name": "Dust from the Chrome Caverns",
+      "number": "EVO246",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518430/flesh-and-blood-tcg-bright-lights-dust-from-the-chrome-caverns",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.68,
+          "low": 2.68,
+          "mid": 9.34
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.49,
+          "low": 2.8,
+          "mid": 15.95
+        }
+      ]
+    },
+    {
+      "id": 518431,
+      "name": "Warband of Bellona",
+      "number": "EVO247",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518431/flesh-and-blood-tcg-bright-lights-warband-of-bellona",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 16.4,
+          "low": 14.91,
+          "mid": 18.26
+        }
+      ]
+    },
+    {
+      "id": 518433,
+      "name": "Slay",
+      "number": "EVO248",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518433/flesh-and-blood-tcg-bright-lights-slay",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.08,
+          "mid": 0.75
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.32,
+          "low": 0.6,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 518435,
+      "name": "Fyendal's Spring Tunic",
+      "number": "EVO249",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518435/flesh-and-blood-tcg-bright-lights-fyendals-spring-tunic",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 107.77,
+          "low": 119.95,
+          "mid": 149.82
+        }
+      ]
+    },
+    {
+      "id": 518532,
+      "name": "Dash, Database // Teklo Leveler",
+      "number": "EVO002//EVO009",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518532/flesh-and-blood-tcg-bright-lights-dash-database-teklo-leveler",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 518533,
+      "name": "Maxx Nitro // Symbiosis Shot",
+      "number": "EVO005//EVO003",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518533/flesh-and-blood-tcg-bright-lights-maxx-nitro-symbiosis-shot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.01,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 518648,
+      "name": "Phantom Tidemaw",
+      "number": "EVO244",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518648/flesh-and-blood-tcg-bright-lights-phantom-tidemaw",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.24,
+          "low": 2.02,
+          "mid": 3.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.2,
+          "low": 0.72,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 518649,
+      "name": "Hyper Driver // Quicken",
+      "number": "EVO234/EVO250",
+      "rarity": "Token",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518649/flesh-and-blood-tcg-bright-lights-hyper-driver-quicken",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.04,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 518651,
+      "name": "Singularity // Teklovossen, the Mechropotent",
+      "number": "EVO010",
+      "rarity": "Legendary",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518651/flesh-and-blood-tcg-bright-lights-singularity-teklovossen-the-mechropotent",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 21.43,
+          "low": 20,
+          "mid": 24.34
+        }
+      ]
+    },
+    {
+      "id": 518652,
+      "name": "Singularity // Teklovossen, the Mechropotent",
+      "label": "Marvel",
+      "number": "EVO010",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518652/flesh-and-blood-tcg-bright-lights-singularity-teklovossen-the-mechropotent-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 624.74,
+          "low": 639.99,
+          "mid": 849
+        }
+      ]
+    },
+    {
+      "id": 518653,
+      "name": "Teklo Foundry Heart",
+      "number": "EVO012",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518653/flesh-and-blood-tcg-bright-lights-teklo-foundry-heart",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 18.72,
+          "low": 17.99,
+          "mid": 20.99
+        }
+      ]
+    },
+    {
+      "id": 518654,
+      "name": "Maximum Velocity",
+      "number": "EVO139",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/518654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/518654/flesh-and-blood-tcg-bright-lights-maximum-velocity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.01,
+          "low": 0.74,
+          "mid": 1.29
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

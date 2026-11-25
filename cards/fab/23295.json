@@ -1,0 +1,1927 @@
+{
+  "groupId": 23295,
+  "cards": [
+    {
+      "id": 517456,
+      "name": "Professor Teklovossen",
+      "number": "TCC001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517456/flesh-and-blood-tcg-round-the-table-tccxlss-professor-teklovossen",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 517457,
+      "name": "Teklo Blaster",
+      "number": "TCC002",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517457/flesh-and-blood-tcg-round-the-table-tccxlss-teklo-blaster",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 517459,
+      "name": "Proto Base Head",
+      "number": "TCC003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517459/flesh-and-blood-tcg-round-the-table-tccxlss-proto-base-head",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517460,
+      "name": "Proto Base Chest",
+      "number": "TCC004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517460/flesh-and-blood-tcg-round-the-table-tccxlss-proto-base-chest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517461,
+      "name": "Proto Base Arms",
+      "number": "TCC005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517461/flesh-and-blood-tcg-round-the-table-tccxlss-proto-base-arms",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517462,
+      "name": "Proto Base Legs",
+      "number": "TCC006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517462/flesh-and-blood-tcg-round-the-table-tccxlss-proto-base-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517463,
+      "name": "Ira, Crimson Haze",
+      "number": "TCC077",
+      "rarity": "Common",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517463_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517463/flesh-and-blood-tcg-round-the-table-tccxlss-ira-crimson-haze",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 517464,
+      "name": "Evo Tekloscope",
+      "number": "TCC007",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517464/flesh-and-blood-tcg-round-the-table-tccxlss-evo-tekloscope",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517465,
+      "name": "Edge of Autumn",
+      "number": "TCC078",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517465/flesh-and-blood-tcg-round-the-table-tccxlss-edge-of-autumn",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 517466,
+      "name": "Mask of Three Tails",
+      "number": "TCC079",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517466/flesh-and-blood-tcg-round-the-table-tccxlss-mask-of-three-tails",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 517467,
+      "name": "Evo Energy Matrix",
+      "number": "TCC008",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517467/flesh-and-blood-tcg-round-the-table-tccxlss-evo-energy-matrix",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 517468,
+      "name": "Blood Scent",
+      "number": "TCC080",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517468/flesh-and-blood-tcg-round-the-table-tccxlss-blood-scent",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.89,
+          "low": 2.79,
+          "mid": 3.32
+        }
+      ]
+    },
+    {
+      "id": 517469,
+      "name": "Evo Scatter Shot",
+      "number": "TCC009",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517469/flesh-and-blood-tcg-round-the-table-tccxlss-evo-scatter-shot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 517470,
+      "name": "Tearing Shuko",
+      "number": "TCC081",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517470/flesh-and-blood-tcg-round-the-table-tccxlss-tearing-shuko",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.13,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 517471,
+      "name": "Pouncing Paws",
+      "number": "TCC082",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517471/flesh-and-blood-tcg-round-the-table-tccxlss-pouncing-paws",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.81,
+          "low": 6.5,
+          "mid": 8.31
+        }
+      ]
+    },
+    {
+      "id": 517472,
+      "name": "Evo Rapid Fire",
+      "number": "TCC010",
+      "rarity": "Rare",
+      "type": "Action;Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517472/flesh-and-blood-tcg-round-the-table-tccxlss-evo-rapid-fire",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517473,
+      "name": "Bittering Thorns",
+      "label": "Red",
+      "number": "TCC083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517473/flesh-and-blood-tcg-round-the-table-tccxlss-bittering-thorns-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.7,
+          "mid": 1.02
+        }
+      ]
+    },
+    {
+      "id": 517474,
+      "name": "Apocalypse Automaton",
+      "number": "TCC011",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517474/flesh-and-blood-tcg-round-the-table-tccxlss-apocalypse-automaton",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.15,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 517475,
+      "name": "Flex Claws",
+      "label": "Red",
+      "number": "TCC084",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517475/flesh-and-blood-tcg-round-the-table-tccxlss-flex-claws-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517479,
+      "name": "Liquid-Cooled Mayhem",
+      "label": "Red",
+      "number": "TCC012",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517479/flesh-and-blood-tcg-round-the-table-tccxlss-liquid-cooled-mayhem-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517480,
+      "name": "Flying Kick",
+      "label": "Red",
+      "number": "TCC085",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517480/flesh-and-blood-tcg-round-the-table-tccxlss-flying-kick-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517481,
+      "name": "Growl",
+      "label": "Red",
+      "number": "TCC086",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517481/flesh-and-blood-tcg-round-the-table-tccxlss-growl-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.34,
+          "low": 7.99,
+          "mid": 10.18
+        }
+      ]
+    },
+    {
+      "id": 517482,
+      "name": "Mechanical Strength",
+      "label": "Red",
+      "number": "TCC013",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517482/flesh-and-blood-tcg-round-the-table-tccxlss-mechanical-strength-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517483,
+      "name": "Over Loop",
+      "number": "TCC014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517483/flesh-and-blood-tcg-round-the-table-tccxlss-over-loop",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 517484,
+      "name": "Leg Tap",
+      "label": "Red",
+      "number": "TCC087",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517484/flesh-and-blood-tcg-round-the-table-tccxlss-leg-tap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517485,
+      "name": "Mauling Qi",
+      "number": "TCC088",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517485/flesh-and-blood-tcg-round-the-table-tccxlss-mauling-qi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.7,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 517486,
+      "name": "Pouncing Qi",
+      "label": "Red",
+      "number": "TCC089",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517486/flesh-and-blood-tcg-round-the-table-tccxlss-pouncing-qi-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517487,
+      "name": "Throttle",
+      "label": "Red",
+      "number": "TCC015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517487/flesh-and-blood-tcg-round-the-table-tccxlss-throttle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517488,
+      "name": "Qi Unbound",
+      "label": "Red",
+      "number": "TCC090",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517488/flesh-and-blood-tcg-round-the-table-tccxlss-qi-unbound-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517489,
+      "name": "Under Loop",
+      "number": "TCC016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517489/flesh-and-blood-tcg-round-the-table-tccxlss-under-loop",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517490,
+      "name": "Blessing of Qi",
+      "label": "Red",
+      "number": "TCC091",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517490/flesh-and-blood-tcg-round-the-table-tccxlss-blessing-of-qi-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517491,
+      "name": "Zero to Sixty",
+      "number": "TCC017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517491/flesh-and-blood-tcg-round-the-table-tccxlss-zero-to-sixty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517492,
+      "name": "Zipper Hit",
+      "label": "Red",
+      "number": "TCC018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517492/flesh-and-blood-tcg-round-the-table-tccxlss-zipper-hit-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 517493,
+      "name": "Firewall",
+      "label": "Red",
+      "number": "TCC019",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517493/flesh-and-blood-tcg-round-the-table-tccxlss-firewall-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517494,
+      "name": "Bittering Thorns",
+      "label": "Yellow",
+      "number": "TCC092",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517494/flesh-and-blood-tcg-round-the-table-tccxlss-bittering-thorns-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517495,
+      "name": "Flex Claws",
+      "label": "Yellow",
+      "number": "TCC093",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517495/flesh-and-blood-tcg-round-the-table-tccxlss-flex-claws-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517496,
+      "name": "Growl",
+      "label": "Yellow",
+      "number": "TCC094",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517496/flesh-and-blood-tcg-round-the-table-tccxlss-growl-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 517497,
+      "name": "Leg Tap",
+      "label": "Yellow",
+      "number": "TCC095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517497/flesh-and-blood-tcg-round-the-table-tccxlss-leg-tap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517498,
+      "name": "Salt the Wound",
+      "label": "Yellow",
+      "number": "TCC096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517498/flesh-and-blood-tcg-round-the-table-tccxlss-salt-the-wound-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.38,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 517499,
+      "name": "Predatory Streak",
+      "label": "Yellow",
+      "number": "TCC097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517499/flesh-and-blood-tcg-round-the-table-tccxlss-predatory-streak-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517503,
+      "name": "Tiger Eye Reflex",
+      "label": "Yellow",
+      "number": "TCC098",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517503/flesh-and-blood-tcg-round-the-table-tccxlss-tiger-eye-reflex-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.45,
+          "low": 3.71,
+          "mid": 4.88
+        }
+      ]
+    },
+    {
+      "id": 517506,
+      "name": "Flying Kick",
+      "label": "Blue",
+      "number": "TCC099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517506/flesh-and-blood-tcg-round-the-table-tccxlss-flying-kick-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517509,
+      "name": "Blessing of Qi",
+      "label": "Blue",
+      "number": "TCC100",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517509/flesh-and-blood-tcg-round-the-table-tccxlss-blessing-of-qi-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517511,
+      "name": "Predatory Streak",
+      "label": "Blue",
+      "number": "TCC101",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517511/flesh-and-blood-tcg-round-the-table-tccxlss-predatory-streak-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517512,
+      "name": "Tiger Eye Reflex",
+      "label": "Blue",
+      "number": "TCC102",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517512/flesh-and-blood-tcg-round-the-table-tccxlss-tiger-eye-reflex-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 517568,
+      "name": "Copper",
+      "number": "TCC103",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517568/flesh-and-blood-tcg-round-the-table-tccxlss-copper",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517570,
+      "name": "Crouching Tiger",
+      "number": "TCC104",
+      "rarity": "Token",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517570/flesh-and-blood-tcg-round-the-table-tccxlss-crouching-tiger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517572,
+      "name": "Might",
+      "label": "Blue",
+      "number": "TCC105",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517572/flesh-and-blood-tcg-round-the-table-tccxlss-might-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 517575,
+      "name": "Quicken",
+      "number": "TCC106",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517575/flesh-and-blood-tcg-round-the-table-tccxlss-quicken",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517576,
+      "name": "Vigor",
+      "number": "TCC107",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517576/flesh-and-blood-tcg-round-the-table-tccxlss-vigor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.3,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517577,
+      "name": "5 Copper",
+      "number": "TCC108",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517577/flesh-and-blood-tcg-round-the-table-tccxlss-5-copper",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517580,
+      "name": "Throttle",
+      "label": "Yellow",
+      "number": "TCC020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517580/flesh-and-blood-tcg-round-the-table-tccxlss-throttle-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 517582,
+      "name": "Zipper Hit",
+      "label": "Yellow",
+      "number": "TCC021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517582/flesh-and-blood-tcg-round-the-table-tccxlss-zipper-hit-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517583,
+      "name": "Firewall",
+      "label": "Yellow",
+      "number": "TCC022",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517583/flesh-and-blood-tcg-round-the-table-tccxlss-firewall-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.14,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517585,
+      "name": "Liquid-Cooled Mayhem",
+      "label": "Blue",
+      "number": "TCC023",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517585/flesh-and-blood-tcg-round-the-table-tccxlss-liquid-cooled-mayhem-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 517586,
+      "name": "Mechanical Strength",
+      "label": "Blue",
+      "number": "TCC024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517586/flesh-and-blood-tcg-round-the-table-tccxlss-mechanical-strength-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517589,
+      "name": "Throttle",
+      "label": "Blue",
+      "number": "TCC025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517589/flesh-and-blood-tcg-round-the-table-tccxlss-throttle-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.24,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 517590,
+      "name": "Firewall",
+      "label": "Blue",
+      "number": "TCC026",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517590/flesh-and-blood-tcg-round-the-table-tccxlss-firewall-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 517598,
+      "name": "Brevant, Civic Protector",
+      "number": "TCC027",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517598/flesh-and-blood-tcg-round-the-table-tccxlss-brevant-civic-protector",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 517601,
+      "name": "Hammer of Havenhold",
+      "number": "TCC028",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517601/flesh-and-blood-tcg-round-the-table-tccxlss-hammer-of-havenhold",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 517604,
+      "name": "Bastion of Duty",
+      "number": "TCC029",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517604/flesh-and-blood-tcg-round-the-table-tccxlss-bastion-of-duty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.2,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 517611,
+      "name": "Civic Peak",
+      "number": "TCC030",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517611/flesh-and-blood-tcg-round-the-table-tccxlss-civic-peak",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.78,
+          "low": 4.81,
+          "mid": 7.95
+        }
+      ]
+    },
+    {
+      "id": 517615,
+      "name": "Civic Duty",
+      "number": "TCC031",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517615/flesh-and-blood-tcg-round-the-table-tccxlss-civic-duty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.6,
+          "low": 1.99,
+          "mid": 2.67
+        }
+      ]
+    },
+    {
+      "id": 517616,
+      "name": "Civic Guide",
+      "number": "TCC032",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517616/flesh-and-blood-tcg-round-the-table-tccxlss-civic-guide",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.17,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517618,
+      "name": "Civic Steps",
+      "number": "TCC033",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517618/flesh-and-blood-tcg-round-the-table-tccxlss-civic-steps",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 11.56,
+          "low": 5.54,
+          "mid": 10.22
+        }
+      ]
+    },
+    {
+      "id": 517620,
+      "name": "Colossal Bearing",
+      "number": "TCC034",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517620/flesh-and-blood-tcg-round-the-table-tccxlss-colossal-bearing",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 517622,
+      "name": "Lay Down the Law",
+      "number": "TCC035",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517622/flesh-and-blood-tcg-round-the-table-tccxlss-lay-down-the-law",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517624,
+      "name": "Smack of Reality",
+      "number": "TCC036",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517624/flesh-and-blood-tcg-round-the-table-tccxlss-smack-of-reality",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 517628,
+      "name": "Crash Down",
+      "label": "Red",
+      "number": "TCC037",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517628/flesh-and-blood-tcg-round-the-table-tccxlss-crash-down-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.3,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 517629,
+      "name": "Earthlore Empowerment",
+      "label": "Red",
+      "number": "TCC038",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517629/flesh-and-blood-tcg-round-the-table-tccxlss-earthlore-empowerment-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.3,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 517630,
+      "name": "Boulder Drop",
+      "label": "Yellow",
+      "number": "TCC039",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517630/flesh-and-blood-tcg-round-the-table-tccxlss-boulder-drop-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 517631,
+      "name": "Chokeslam",
+      "label": "Yellow",
+      "number": "TCC040",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517631/flesh-and-blood-tcg-round-the-table-tccxlss-chokeslam-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 517632,
+      "name": "Disable",
+      "label": "Yellow",
+      "number": "TCC041",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517632/flesh-and-blood-tcg-round-the-table-tccxlss-disable-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 517633,
+      "name": "Crash Down",
+      "label": "Yellow",
+      "number": "TCC042",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517633/flesh-and-blood-tcg-round-the-table-tccxlss-crash-down-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.55,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517634,
+      "name": "Earthlore Empowerment",
+      "label": "Yellow",
+      "number": "TCC043",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517634/flesh-and-blood-tcg-round-the-table-tccxlss-earthlore-empowerment-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 517635,
+      "name": "Boulder Drop",
+      "label": "Blue",
+      "number": "TCC044",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517635/flesh-and-blood-tcg-round-the-table-tccxlss-boulder-drop-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.89,
+          "mid": 1.36
+        }
+      ]
+    },
+    {
+      "id": 517637,
+      "name": "Chokeslam",
+      "label": "Blue",
+      "number": "TCC045",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517637/flesh-and-blood-tcg-round-the-table-tccxlss-chokeslam-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517638,
+      "name": "Cranial Crush",
+      "label": "Blue",
+      "number": "TCC046",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517638/flesh-and-blood-tcg-round-the-table-tccxlss-cranial-crush-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.81,
+          "low": 1.22,
+          "mid": 1.82
+        }
+      ]
+    },
+    {
+      "id": 517639,
+      "name": "Disable",
+      "label": "Blue",
+      "number": "TCC047",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517639/flesh-and-blood-tcg-round-the-table-tccxlss-disable-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 517641,
+      "name": "Chivalry",
+      "number": "TCC048",
+      "rarity": "Common",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517641/flesh-and-blood-tcg-round-the-table-tccxlss-chivalry",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 517645,
+      "name": "Melody, Sing-along",
+      "number": "TCC049",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517645/flesh-and-blood-tcg-round-the-table-tccxlss-melody-sing-along",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.3,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 517647,
+      "name": "Jinglewood, Smash Hit",
+      "number": "TCC050",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517647/flesh-and-blood-tcg-round-the-table-tccxlss-jinglewood-smash-hit",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.42,
+          "low": 0.15,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 517652,
+      "name": "Nom de Plume",
+      "number": "TCC051",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517652/flesh-and-blood-tcg-round-the-table-tccxlss-nom-de-plume",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517653,
+      "name": "Heart-throb",
+      "number": "TCC052",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517653/flesh-and-blood-tcg-round-the-table-tccxlss-heart-throb",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517654,
+      "name": "Fiddle-dee",
+      "number": "TCC053",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517654/flesh-and-blood-tcg-round-the-table-tccxlss-fiddle-dee",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517655,
+      "name": "Quickstep",
+      "number": "TCC054",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517655/flesh-and-blood-tcg-round-the-table-tccxlss-quickstep",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517670,
+      "name": "Coax a Commotion",
+      "number": "TCC055",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517670/flesh-and-blood-tcg-round-the-table-tccxlss-coax-a-commotion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 517671,
+      "name": "Life of the Party",
+      "number": "TCC056",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517671/flesh-and-blood-tcg-round-the-table-tccxlss-life-of-the-party",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 517672,
+      "name": "Final Act",
+      "number": "TCC057",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517672/flesh-and-blood-tcg-round-the-table-tccxlss-final-act",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 517675,
+      "name": "Interlude",
+      "label": "Red",
+      "number": "TCC058",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517675/flesh-and-blood-tcg-round-the-table-tccxlss-interlude-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517723,
+      "name": "Sigil of Solace",
+      "label": "Red",
+      "number": "TCC059",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517723/flesh-and-blood-tcg-round-the-table-tccxlss-sigil-of-solace-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.75,
+          "mid": 0.83
+        }
+      ]
+    },
+    {
+      "id": 517731,
+      "name": "Crowd Control",
+      "label": "Red",
+      "number": "TCC060",
+      "rarity": "Common",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517731/flesh-and-blood-tcg-round-the-table-tccxlss-crowd-control-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517732,
+      "name": "Encore",
+      "number": "TCC061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517732/flesh-and-blood-tcg-round-the-table-tccxlss-encore",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.12,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 517734,
+      "name": "Interlude",
+      "label": "Yellow",
+      "number": "TCC062",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517734/flesh-and-blood-tcg-round-the-table-tccxlss-interlude-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517736,
+      "name": "Crowd Control",
+      "label": "Yellow",
+      "number": "TCC063",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517736/flesh-and-blood-tcg-round-the-table-tccxlss-crowd-control-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517737,
+      "name": "Song of Jack-be-Quick",
+      "number": "TCC064",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517737/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-jack-be-quick",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517738,
+      "name": "Song of Sweet Nectar",
+      "number": "TCC065",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517738/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-sweet-nectar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517740,
+      "name": "Song of the Rosen Matador",
+      "number": "TCC066",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517740/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-the-rosen-matador",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517741,
+      "name": "Song of the Shining Knight",
+      "number": "TCC067",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517741/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-the-shining-knight",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517743,
+      "name": "Song of the Wandering Mind",
+      "number": "TCC068",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517743/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-the-wandering-mind",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517745,
+      "name": "Song of Yesteryears",
+      "number": "TCC069",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517745/flesh-and-blood-tcg-round-the-table-tccxlss-song-of-yesteryears",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517746,
+      "name": "Crazy Brew",
+      "number": "TCC070",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517746/flesh-and-blood-tcg-round-the-table-tccxlss-crazy-brew",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 517747,
+      "name": "Energy Potion",
+      "number": "TCC071",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517747/flesh-and-blood-tcg-round-the-table-tccxlss-energy-potion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.3,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 517749,
+      "name": "Healing Potion",
+      "number": "TCC072",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517749/flesh-and-blood-tcg-round-the-table-tccxlss-healing-potion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.29,
+          "mid": 0.57
+        }
+      ]
+    },
+    {
+      "id": 517750,
+      "name": "Potion of Strength",
+      "number": "TCC073",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517750/flesh-and-blood-tcg-round-the-table-tccxlss-potion-of-strength",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 517751,
+      "name": "Timesnap Potion",
+      "number": "TCC074",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517751/flesh-and-blood-tcg-round-the-table-tccxlss-timesnap-potion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517752,
+      "name": "Interlude",
+      "label": "Blue",
+      "number": "TCC075",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517752/flesh-and-blood-tcg-round-the-table-tccxlss-interlude-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 517753,
+      "name": "Crowd Control",
+      "label": "Blue",
+      "number": "TCC076",
+      "rarity": "Common",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517753_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517753/flesh-and-blood-tcg-round-the-table-tccxlss-crowd-control-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 583678,
+      "name": "Might // Vigor",
+      "label": "Blue",
+      "number": "TCC105 // TCC107",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/583678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/583678/flesh-and-blood-tcg-round-the-table-tccxlss-might-blue-vigor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 583679,
+      "name": "5 Copper // Quicken",
+      "number": "TCC108 // TCC106",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/583679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/583679/flesh-and-blood-tcg-round-the-table-tccxlss-5-copper-quicken",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

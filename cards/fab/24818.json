@@ -1,0 +1,3427 @@
+{
+  "groupId": 24818,
+  "cards": [
+    {
+      "id": 711349,
+      "name": "Arakni",
+      "number": "MPA001",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711349/flesh-and-blood-tcg-mastery-pack-assassin-arakni",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 711350,
+      "name": "Dr. Mortimer, Blight of the Pits",
+      "label": "Marvel",
+      "number": "MPA002",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711350/flesh-and-blood-tcg-mastery-pack-assassin-dr-mortimer-blight-of-the-pits-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 333.01,
+          "low": 280,
+          "mid": 290.53
+        }
+      ]
+    },
+    {
+      "id": 711352,
+      "name": "Dr. Mortimer",
+      "number": "MPA003",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711352/flesh-and-blood-tcg-mastery-pack-assassin-dr-mortimer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.19,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 711374,
+      "name": "Dr. Mortimer",
+      "label": "Marvel",
+      "number": "MPA003",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711374/flesh-and-blood-tcg-mastery-pack-assassin-dr-mortimer-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 35.02,
+          "low": 29.99,
+          "mid": 36.19
+        }
+      ]
+    },
+    {
+      "id": 711375,
+      "name": "Uzuri",
+      "number": "MPA004",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711375/flesh-and-blood-tcg-mastery-pack-assassin-uzuri",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 25.5,
+          "low": 0.29,
+          "mid": 25.5
+        }
+      ]
+    },
+    {
+      "id": 711376,
+      "name": "Uzuri",
+      "label": "Marvel",
+      "number": "MPA004",
+      "rarity": "Basic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711376/flesh-and-blood-tcg-mastery-pack-assassin-uzuri-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 29.16,
+          "low": 27,
+          "mid": 29.64
+        }
+      ]
+    },
+    {
+      "id": 711377,
+      "name": "Mutually Assured Destruction",
+      "number": "MPA022",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711377/flesh-and-blood-tcg-mastery-pack-assassin-mutually-assured-destruction",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6,
+          "low": 5.35,
+          "mid": 6.68
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.19,
+          "low": 9.63,
+          "mid": 12.79
+        }
+      ]
+    },
+    {
+      "id": 711378,
+      "name": "Prey on Insecurity",
+      "number": "MPA024",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711378/flesh-and-blood-tcg-mastery-pack-assassin-prey-on-insecurity",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.12,
+          "low": 4,
+          "mid": 6.14
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.89,
+          "low": 3.35,
+          "mid": 4.2
+        }
+      ]
+    },
+    {
+      "id": 711379,
+      "name": "Remember the Mists",
+      "number": "MPA026",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/711379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/711379/flesh-and-blood-tcg-mastery-pack-assassin-remember-the-mists",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.88,
+          "low": 9,
+          "mid": 10.88
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 17.22,
+          "low": 14.66,
+          "mid": 16.78
+        }
+      ]
+    },
+    {
+      "id": 722630,
+      "name": "Seed Bloodrot",
+      "number": "MPA125",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722630/flesh-and-blood-tcg-mastery-pack-assassin-seed-bloodrot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.35,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 722633,
+      "name": "Seed Frailty",
+      "number": "MPA126",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722633/flesh-and-blood-tcg-mastery-pack-assassin-seed-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.34,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 722635,
+      "name": "Seed Inertia",
+      "number": "MPA127",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722635/flesh-and-blood-tcg-mastery-pack-assassin-seed-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.32,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 722639,
+      "name": "Prolonged Illness",
+      "number": "MPA032",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722639/flesh-and-blood-tcg-mastery-pack-assassin-prolonged-illness",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.42,
+          "low": 5,
+          "mid": 6.6
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.06,
+          "low": 3,
+          "mid": 5.14
+        }
+      ]
+    },
+    {
+      "id": 723131,
+      "name": "Outbreak",
+      "number": "MPA031",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723131_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723131/flesh-and-blood-tcg-mastery-pack-assassin-outbreak",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 21.28,
+          "low": 25.79,
+          "mid": 26.98
+        },
+        {
+          "sub": "Normal",
+          "usd": 16.23,
+          "low": 14,
+          "mid": 16.52
+        }
+      ]
+    },
+    {
+      "id": 726185,
+      "name": "Blacktek Whisperers",
+      "number": "MPA008",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726185/flesh-and-blood-tcg-mastery-pack-assassin-blacktek-whisperers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 40.53,
+          "low": 38.69,
+          "mid": 42
+        }
+      ]
+    },
+    {
+      "id": 726195,
+      "name": "Cadaver Handlers",
+      "number": "MPA007",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726195_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726195/flesh-and-blood-tcg-mastery-pack-assassin-cadaver-handlers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 78.07,
+          "low": 75.9,
+          "mid": 78
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 169.71,
+          "low": 191.64,
+          "mid": 195.5
+        }
+      ]
+    },
+    {
+      "id": 726196,
+      "name": "Demoralize the Dracai",
+      "number": "MPA020",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/726196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/726196/flesh-and-blood-tcg-mastery-pack-assassin-demoralize-the-dracai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.37,
+          "low": 7.25,
+          "mid": 9.05
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.99,
+          "low": 12.27,
+          "mid": 13.99
+        }
+      ]
+    },
+    {
+      "id": 730131,
+      "name": "Phial of Calamity",
+      "number": "MPA006",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730131_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730131/flesh-and-blood-tcg-mastery-pack-assassin-phial-of-calamity",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 119.21,
+          "low": 114,
+          "mid": 117.74
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 43.24,
+          "low": 38,
+          "mid": 43.84
+        }
+      ]
+    },
+    {
+      "id": 730132,
+      "name": "Bribe the Guards",
+      "number": "MPA017",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730132_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730132/flesh-and-blood-tcg-mastery-pack-assassin-bribe-the-guards",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.16,
+          "low": 4.68,
+          "mid": 5.98
+        },
+        {
+          "sub": "Normal",
+          "usd": 3.94,
+          "low": 2,
+          "mid": 3.49
+        }
+      ]
+    },
+    {
+      "id": 730134,
+      "name": "Concoct Agony",
+      "number": "MPA018",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730134_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730134/flesh-and-blood-tcg-mastery-pack-assassin-concoct-agony",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.73,
+          "low": 2.92,
+          "mid": 3.51
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.53,
+          "low": 6.74,
+          "mid": 8.06
+        }
+      ]
+    },
+    {
+      "id": 730135,
+      "name": "Continued Coercion",
+      "number": "MPA019",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730135_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730135/flesh-and-blood-tcg-mastery-pack-assassin-continued-coercion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.07,
+          "low": 5.18,
+          "mid": 6.97
+        }
+      ]
+    },
+    {
+      "id": 730136,
+      "name": "Continued Coercion",
+      "label": "Extended Art",
+      "number": "MPA019",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730136_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730136/flesh-and-blood-tcg-mastery-pack-assassin-continued-coercion-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 46.9,
+          "low": 36,
+          "mid": 48.96
+        }
+      ]
+    },
+    {
+      "id": 730140,
+      "name": "Flip the Script",
+      "number": "MPA021",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730140_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730140/flesh-and-blood-tcg-mastery-pack-assassin-flip-the-script",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.38,
+          "low": 5.9,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 730142,
+      "name": "Flip the Script",
+      "label": "Extended Art",
+      "number": "MPA021",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730142_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730142/flesh-and-blood-tcg-mastery-pack-assassin-flip-the-script-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 45.63,
+          "low": 28.68,
+          "mid": 39.93
+        }
+      ]
+    },
+    {
+      "id": 730144,
+      "name": "Painful Choice",
+      "number": "MPA023",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730144_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730144/flesh-and-blood-tcg-mastery-pack-assassin-painful-choice",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.91,
+          "low": 7,
+          "mid": 9.08
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.59,
+          "low": 14,
+          "mid": 14.99
+        }
+      ]
+    },
+    {
+      "id": 730146,
+      "name": "Sick Intent",
+      "number": "MPA027",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730146_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730146/flesh-and-blood-tcg-mastery-pack-assassin-sick-intent",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 22.22,
+          "low": 22.09,
+          "mid": 23.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 18.83,
+          "low": 18,
+          "mid": 19.95
+        }
+      ]
+    },
+    {
+      "id": 730147,
+      "name": "Spike Slasher",
+      "number": "MPA028",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730147_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730147/flesh-and-blood-tcg-mastery-pack-assassin-spike-slasher",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99,
+          "low": 2,
+          "mid": 4.04
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.48,
+          "low": 5.78,
+          "mid": 6.53
+        }
+      ]
+    },
+    {
+      "id": 730148,
+      "name": "Tailored Targeting",
+      "number": "MPA029",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730148_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730148/flesh-and-blood-tcg-mastery-pack-assassin-tailored-targeting",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 11.84,
+          "low": 11,
+          "mid": 12.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 5.37,
+          "low": 4.28,
+          "mid": 5.52
+        }
+      ]
+    },
+    {
+      "id": 730149,
+      "name": "Sickening Exhaustion",
+      "number": "MPA057",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730149/flesh-and-blood-tcg-mastery-pack-assassin-sickening-exhaustion",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.43,
+          "low": 0.4,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 730150,
+      "name": "Sickening Rot",
+      "number": "MPA058",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730150_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730150/flesh-and-blood-tcg-mastery-pack-assassin-sickening-rot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.05,
+          "mid": 0.38
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.46,
+          "low": 0.37,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 730151,
+      "name": "Sickening Weakness",
+      "number": "MPA059",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730151/flesh-and-blood-tcg-mastery-pack-assassin-sickening-weakness",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.48,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.34,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 730152,
+      "name": "Pick Your Poison",
+      "number": "MPA124",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730152/flesh-and-blood-tcg-mastery-pack-assassin-pick-your-poison",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.15,
+          "mid": 0.38
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.43,
+          "low": 0.34,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 730237,
+      "name": "Spider's Bite",
+      "number": "MPA005",
+      "rarity": "Basic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730237/flesh-and-blood-tcg-mastery-pack-assassin-spiders-bite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730238,
+      "name": "Mask of One Million Eyes",
+      "number": "MPA009",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730238/flesh-and-blood-tcg-mastery-pack-assassin-mask-of-one-million-eyes",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.18,
+          "mid": 0.34
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.48,
+          "low": 1.11,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 730239,
+      "name": "Scouting Cloak",
+      "number": "MPA010",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730239/flesh-and-blood-tcg-mastery-pack-assassin-scouting-cloak",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.48,
+          "low": 1.08,
+          "mid": 1.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730240,
+      "name": "Plaguewarden's Wraps",
+      "number": "MPA011",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730240/flesh-and-blood-tcg-mastery-pack-assassin-plaguewardens-wraps",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.49,
+          "low": 1,
+          "mid": 1.45
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730241,
+      "name": "Step Overs",
+      "number": "MPA012",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730241_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730241/flesh-and-blood-tcg-mastery-pack-assassin-step-overs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.19,
+          "mid": 0.4
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.39,
+          "low": 0.83,
+          "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 730242,
+      "name": "Bounty Brim",
+      "number": "MPA013",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730242_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730242/flesh-and-blood-tcg-mastery-pack-assassin-bounty-brim",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.99,
+          "low": 2.45,
+          "mid": 2.94
+        }
+      ]
+    },
+    {
+      "id": 730243,
+      "name": "Stimtek Vest",
+      "number": "MPA014",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730243/flesh-and-blood-tcg-mastery-pack-assassin-stimtek-vest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.47,
+          "low": 1.06,
+          "mid": 1.46
+        }
+      ]
+    },
+    {
+      "id": 730244,
+      "name": "Wristcuff Injectors",
+      "number": "MPA015",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730244/flesh-and-blood-tcg-mastery-pack-assassin-wristcuff-injectors",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.44,
+          "low": 0.79,
+          "mid": 1.19
+        }
+      ]
+    },
+    {
+      "id": 730245,
+      "name": "Murder Sprees",
+      "number": "MPA016",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730245_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730245/flesh-and-blood-tcg-mastery-pack-assassin-murder-sprees",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.43,
+          "low": 0.83,
+          "mid": 1.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730246,
+      "name": "Persuasive Prognosis",
+      "number": "MPA025",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730246/flesh-and-blood-tcg-mastery-pack-assassin-persuasive-prognosis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 18.73,
+          "low": 23,
+          "mid": 24.97
+        }
+      ]
+    },
+    {
+      "id": 730247,
+      "name": "Expense Not Spared",
+      "number": "MPA030",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730247/flesh-and-blood-tcg-mastery-pack-assassin-expense-not-spared",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.03,
+          "low": 11.88,
+          "mid": 14.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 10.55,
+          "low": 8.77,
+          "mid": 10.88
+        }
+      ]
+    },
+    {
+      "id": 730248,
+      "name": "Decapitate the Disloyal",
+      "label": "Red",
+      "number": "MPA033",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730248_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730248/flesh-and-blood-tcg-mastery-pack-assassin-decapitate-the-disloyal-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52,
+          "low": 0.06,
+          "mid": 0.47
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.4,
+          "mid": 0.53
+        }
+      ]
+    },
+    {
+      "id": 730249,
+      "name": "Decapitate the Disloyal",
+      "label": "Yellow",
+      "number": "MPA034",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730249/flesh-and-blood-tcg-mastery-pack-assassin-decapitate-the-disloyal-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.39,
+          "mid": 0.44
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.24,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730250,
+      "name": "Decapitate the Disloyal",
+      "label": "Blue",
+      "number": "MPA035",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730250/flesh-and-blood-tcg-mastery-pack-assassin-decapitate-the-disloyal-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.4,
+          "mid": 0.44
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 730251,
+      "name": "Feverish Strike",
+      "label": "Red",
+      "number": "MPA036",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730251/flesh-and-blood-tcg-mastery-pack-assassin-feverish-strike-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.21
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.2,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 730252,
+      "name": "Feverish Strike",
+      "label": "Yellow",
+      "number": "MPA037",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730252/flesh-and-blood-tcg-mastery-pack-assassin-feverish-strike-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.39,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 730253,
+      "name": "Feverish Strike",
+      "label": "Blue",
+      "number": "MPA038",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730253/flesh-and-blood-tcg-mastery-pack-assassin-feverish-strike-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.06,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.19,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 730254,
+      "name": "Kill Confirmed",
+      "number": "MPA039",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730254/flesh-and-blood-tcg-mastery-pack-assassin-kill-confirmed",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.45,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.3,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 730255,
+      "name": "Lab Rat",
+      "label": "Red",
+      "number": "MPA040",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730255/flesh-and-blood-tcg-mastery-pack-assassin-lab-rat-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.44,
+          "mid": 0.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730256,
+      "name": "Lab Rat",
+      "label": "Yellow",
+      "number": "MPA041",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730256/flesh-and-blood-tcg-mastery-pack-assassin-lab-rat-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.2,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730257,
+      "name": "Lab Rat",
+      "label": "Blue",
+      "number": "MPA042",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730257/flesh-and-blood-tcg-mastery-pack-assassin-lab-rat-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.4,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730258,
+      "name": "Sneaking Exhaustion",
+      "number": "MPA043",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730258/flesh-and-blood-tcg-mastery-pack-assassin-sneaking-exhaustion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.1,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.46,
+          "mid": 0.63
+        }
+      ]
+    },
+    {
+      "id": 730259,
+      "name": "Sneaking Rot",
+      "number": "MPA044",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730259/flesh-and-blood-tcg-mastery-pack-assassin-sneaking-rot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.4,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.35,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 730260,
+      "name": "Sneaking Weakness",
+      "number": "MPA045",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730260/flesh-and-blood-tcg-mastery-pack-assassin-sneaking-weakness",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.72,
+          "low": 0.48,
+          "mid": 0.72
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.24,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730261,
+      "name": "The Spider's Cut",
+      "label": "Red",
+      "number": "MPA046",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730261/flesh-and-blood-tcg-mastery-pack-assassin-the-spiders-cut-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.4,
+          "mid": 0.55
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.05,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 730262,
+      "name": "The Spider's Cut",
+      "label": "Yellow",
+      "number": "MPA047",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730262/flesh-and-blood-tcg-mastery-pack-assassin-the-spiders-cut-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.2,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730263,
+      "name": "The Spider's Cut",
+      "label": "Blue",
+      "number": "MPA048",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730263/flesh-and-blood-tcg-mastery-pack-assassin-the-spiders-cut-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.35,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.3,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 730264,
+      "name": "Wound Excavation",
+      "number": "MPA049",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730264/flesh-and-blood-tcg-mastery-pack-assassin-wound-excavation",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.27,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.48,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 730265,
+      "name": "Wound Excision",
+      "number": "MPA050",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730265/flesh-and-blood-tcg-mastery-pack-assassin-wound-excision",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.19,
+          "mid": 0.38
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.37,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 730266,
+      "name": "Wound Extraction",
+      "number": "MPA051",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730266/flesh-and-blood-tcg-mastery-pack-assassin-wound-extraction",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.46,
+          "low": 0.4,
+          "mid": 0.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.05,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 730267,
+      "name": "Act on Intel: Haunts",
+      "number": "MPA052",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730267/flesh-and-blood-tcg-mastery-pack-assassin-act-on-intel-haunts",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.05,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.69,
+          "low": 0.3,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 730268,
+      "name": "Act on Intel: Plans",
+      "number": "MPA053",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730268/flesh-and-blood-tcg-mastery-pack-assassin-act-on-intel-plans",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.86,
+          "low": 0.35,
+          "mid": 0.84
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 730269,
+      "name": "Act on Intel: Whereabouts",
+      "number": "MPA054",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730269/flesh-and-blood-tcg-mastery-pack-assassin-act-on-intel-whereabouts",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.34,
+          "mid": 0.45
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.93,
+          "low": 0.4,
+          "mid": 0.93
+        }
+      ]
+    },
+    {
+      "id": 730270,
+      "name": "Pinpoint Elimination",
+      "number": "MPA055",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730270/flesh-and-blood-tcg-mastery-pack-assassin-pinpoint-elimination",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.15,
+          "mid": 0.46
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.05,
+          "low": 0.48,
+          "mid": 1.05
+        }
+      ]
+    },
+    {
+      "id": 730271,
+      "name": "Shred",
+      "number": "MPA056",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730271/flesh-and-blood-tcg-mastery-pack-assassin-shred",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 730272,
+      "name": "Spike with Bloodrot",
+      "number": "MPA060",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730272/flesh-and-blood-tcg-mastery-pack-assassin-spike-with-bloodrot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 730273,
+      "name": "Spike with Frailty",
+      "number": "MPA061",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730273/flesh-and-blood-tcg-mastery-pack-assassin-spike-with-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730274,
+      "name": "Spike with Inertia",
+      "number": "MPA062",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730274/flesh-and-blood-tcg-mastery-pack-assassin-spike-with-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730275,
+      "name": "Viral Accelerant",
+      "number": "MPA063",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730275/flesh-and-blood-tcg-mastery-pack-assassin-viral-accelerant",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.4,
+          "mid": 0.54
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 730276,
+      "name": "Just My Type",
+      "number": "MPA064",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730276/flesh-and-blood-tcg-mastery-pack-assassin-just-my-type",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.67,
+          "low": 0.46,
+          "mid": 0.67
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.07,
+          "mid": 0.44
+        }
+      ]
+    },
+    {
+      "id": 730277,
+      "name": "Patron's Lockbox: Carriers",
+      "number": "MPA065",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730277/flesh-and-blood-tcg-mastery-pack-assassin-patrons-lockbox-carriers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.06,
+          "mid": 0.42
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.52,
+          "low": 0.4,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 730278,
+      "name": "Patron's Lockbox: Serums",
+      "number": "MPA066",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730278/flesh-and-blood-tcg-mastery-pack-assassin-patrons-lockbox-serums",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.43,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.05,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 730279,
+      "name": "Patron's Lockbox: Valuables",
+      "number": "MPA067",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730279/flesh-and-blood-tcg-mastery-pack-assassin-patrons-lockbox-valuables",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 0.2,
+          "mid": 0.75
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.74,
+          "low": 0.74,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 730280,
+      "name": "Funded Research",
+      "number": "MPA068",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730280/flesh-and-blood-tcg-mastery-pack-assassin-funded-research",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.4,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 730281,
+      "name": "Emergency Services",
+      "number": "MPA069",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730281/flesh-and-blood-tcg-mastery-pack-assassin-emergency-services",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.31,
+          "mid": 0.38
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.4,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 730282,
+      "name": "Break Down the Bloodline",
+      "label": "Red",
+      "number": "MPA070",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730282/flesh-and-blood-tcg-mastery-pack-assassin-break-down-the-bloodline-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730283,
+      "name": "Break Down the Bloodline",
+      "label": "Yellow",
+      "number": "MPA071",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730283/flesh-and-blood-tcg-mastery-pack-assassin-break-down-the-bloodline-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.19,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730284,
+      "name": "Break Down the Bloodline",
+      "label": "Blue",
+      "number": "MPA072",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730284/flesh-and-blood-tcg-mastery-pack-assassin-break-down-the-bloodline-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 730285,
+      "name": "Desperate Drive",
+      "label": "Red",
+      "number": "MPA073",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730285/flesh-and-blood-tcg-mastery-pack-assassin-desperate-drive-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.15,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 730286,
+      "name": "Desperate Drive",
+      "label": "Yellow",
+      "number": "MPA074",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730286/flesh-and-blood-tcg-mastery-pack-assassin-desperate-drive-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.36,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 730287,
+      "name": "Desperate Drive",
+      "label": "Blue",
+      "number": "MPA075",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730287/flesh-and-blood-tcg-mastery-pack-assassin-desperate-drive-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730288,
+      "name": "Escaped Subject",
+      "label": "Red",
+      "number": "MPA076",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730288/flesh-and-blood-tcg-mastery-pack-assassin-escaped-subject-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730289,
+      "name": "Escaped Subject",
+      "label": "Yellow",
+      "number": "MPA077",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730289/flesh-and-blood-tcg-mastery-pack-assassin-escaped-subject-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.11,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730290,
+      "name": "Escaped Subject",
+      "label": "Blue",
+      "number": "MPA078",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730290/flesh-and-blood-tcg-mastery-pack-assassin-escaped-subject-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730291,
+      "name": "Eviscerate the Enervated",
+      "label": "Red",
+      "number": "MPA079",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730291/flesh-and-blood-tcg-mastery-pack-assassin-eviscerate-the-enervated-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.34,
+          "mid": 0.41
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730292,
+      "name": "Eviscerate the Enervated",
+      "label": "Yellow",
+      "number": "MPA080",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730292/flesh-and-blood-tcg-mastery-pack-assassin-eviscerate-the-enervated-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730293,
+      "name": "Eviscerate the Enervated",
+      "label": "Blue",
+      "number": "MPA081",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730293/flesh-and-blood-tcg-mastery-pack-assassin-eviscerate-the-enervated-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.34,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730294,
+      "name": "In the Hot Zone",
+      "label": "Red",
+      "number": "MPA082",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730294/flesh-and-blood-tcg-mastery-pack-assassin-in-the-hot-zone-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 730295,
+      "name": "In the Hot Zone",
+      "label": "Yellow",
+      "number": "MPA083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730295/flesh-and-blood-tcg-mastery-pack-assassin-in-the-hot-zone-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.19,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730296,
+      "name": "In the Hot Zone",
+      "label": "Blue",
+      "number": "MPA084",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730296/flesh-and-blood-tcg-mastery-pack-assassin-in-the-hot-zone-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730297,
+      "name": "Infect",
+      "label": "Red",
+      "number": "MPA085",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730297/flesh-and-blood-tcg-mastery-pack-assassin-infect-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730298,
+      "name": "Infect",
+      "label": "Yellow",
+      "number": "MPA086",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730298/flesh-and-blood-tcg-mastery-pack-assassin-infect-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.11,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730299,
+      "name": "Infect",
+      "label": "Blue",
+      "number": "MPA087",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730299/flesh-and-blood-tcg-mastery-pack-assassin-infect-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 730300,
+      "name": "Isolate",
+      "number": "MPA088",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730300/flesh-and-blood-tcg-mastery-pack-assassin-isolate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.18,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730301,
+      "name": "Professional Rivalry",
+      "number": "MPA089",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730301/flesh-and-blood-tcg-mastery-pack-assassin-professional-rivalry",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.06,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.36,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 730302,
+      "name": "Repeat Reconnaissance",
+      "label": "Red",
+      "number": "MPA090",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730302/flesh-and-blood-tcg-mastery-pack-assassin-repeat-reconnaissance-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.19,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.32,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 730303,
+      "name": "Repeat Reconnaissance",
+      "label": "Yellow",
+      "number": "MPA091",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730303/flesh-and-blood-tcg-mastery-pack-assassin-repeat-reconnaissance-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730304,
+      "name": "Repeat Reconnaissance",
+      "label": "Blue",
+      "number": "MPA092",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730304/flesh-and-blood-tcg-mastery-pack-assassin-repeat-reconnaissance-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.19,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.23,
+          "mid": 0.41
+        }
+      ]
+    },
+    {
+      "id": 730305,
+      "name": "Sedate",
+      "label": "Red",
+      "number": "MPA093",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730305/flesh-and-blood-tcg-mastery-pack-assassin-sedate-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730306,
+      "name": "Sedate",
+      "label": "Yellow",
+      "number": "MPA094",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730306/flesh-and-blood-tcg-mastery-pack-assassin-sedate-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730307,
+      "name": "Sedate",
+      "label": "Blue",
+      "number": "MPA095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730307/flesh-and-blood-tcg-mastery-pack-assassin-sedate-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730308,
+      "name": "Slice the Sickly",
+      "label": "Red",
+      "number": "MPA096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730308/flesh-and-blood-tcg-mastery-pack-assassin-slice-the-sickly-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.36,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.19,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 730309,
+      "name": "Slice the Sickly",
+      "label": "Yellow",
+      "number": "MPA097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730309/flesh-and-blood-tcg-mastery-pack-assassin-slice-the-sickly-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.34,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730310,
+      "name": "Slice the Sickly",
+      "label": "Blue",
+      "number": "MPA098",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730310/flesh-and-blood-tcg-mastery-pack-assassin-slice-the-sickly-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.15,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 730311,
+      "name": "Sneak Attack",
+      "number": "MPA099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730311/flesh-and-blood-tcg-mastery-pack-assassin-sneak-attack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730312,
+      "name": "Spawn Bloodrot",
+      "number": "MPA100",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730312/flesh-and-blood-tcg-mastery-pack-assassin-spawn-bloodrot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730313,
+      "name": "Spawn Frailty",
+      "number": "MPA101",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730313/flesh-and-blood-tcg-mastery-pack-assassin-spawn-frailty",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730314,
+      "name": "Spawn Inertia",
+      "number": "MPA102",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730314/flesh-and-blood-tcg-mastery-pack-assassin-spawn-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 730315,
+      "name": "Triple Blind",
+      "label": "Red",
+      "number": "MPA103",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730315/flesh-and-blood-tcg-mastery-pack-assassin-triple-blind-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 730316,
+      "name": "Triple Blind",
+      "label": "Yellow",
+      "number": "MPA104",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730316/flesh-and-blood-tcg-mastery-pack-assassin-triple-blind-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.19,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 730317,
+      "name": "Triple Blind",
+      "label": "Blue",
+      "number": "MPA105",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730317/flesh-and-blood-tcg-mastery-pack-assassin-triple-blind-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730318,
+      "name": "Viral Sampling",
+      "label": "Red",
+      "number": "MPA106",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730318/flesh-and-blood-tcg-mastery-pack-assassin-viral-sampling-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.34,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730319,
+      "name": "Viral Sampling",
+      "label": "Yellow",
+      "number": "MPA107",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730319/flesh-and-blood-tcg-mastery-pack-assassin-viral-sampling-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 730320,
+      "name": "Viral Sampling",
+      "label": "Blue",
+      "number": "MPA108",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730320/flesh-and-blood-tcg-mastery-pack-assassin-viral-sampling-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.19,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.2,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 730321,
+      "name": "Wither",
+      "label": "Red",
+      "number": "MPA109",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730321/flesh-and-blood-tcg-mastery-pack-assassin-wither-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730322,
+      "name": "Wither",
+      "label": "Yellow",
+      "number": "MPA110",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730322/flesh-and-blood-tcg-mastery-pack-assassin-wither-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730323,
+      "name": "Wither",
+      "label": "Blue",
+      "number": "MPA111",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730323/flesh-and-blood-tcg-mastery-pack-assassin-wither-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730324,
+      "name": "Cut to the Chase",
+      "label": "Red",
+      "number": "MPA112",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730324/flesh-and-blood-tcg-mastery-pack-assassin-cut-to-the-chase-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.15,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 730325,
+      "name": "Cut to the Chase",
+      "label": "Yellow",
+      "number": "MPA113",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730325/flesh-and-blood-tcg-mastery-pack-assassin-cut-to-the-chase-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730326,
+      "name": "Cut to the Chase",
+      "label": "Blue",
+      "number": "MPA114",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730326/flesh-and-blood-tcg-mastery-pack-assassin-cut-to-the-chase-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.11,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730327,
+      "name": "Easy Prey",
+      "label": "Red",
+      "number": "MPA115",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730327/flesh-and-blood-tcg-mastery-pack-assassin-easy-prey-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.21,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.19,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730328,
+      "name": "Easy Prey",
+      "label": "Yellow",
+      "number": "MPA116",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730328/flesh-and-blood-tcg-mastery-pack-assassin-easy-prey-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730329,
+      "name": "Easy Prey",
+      "label": "Blue",
+      "number": "MPA117",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730329/flesh-and-blood-tcg-mastery-pack-assassin-easy-prey-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.05,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730330,
+      "name": "Festering Exhaustion",
+      "number": "MPA118",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730330/flesh-and-blood-tcg-mastery-pack-assassin-festering-exhaustion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.21
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 730331,
+      "name": "Festering Rot",
+      "number": "MPA119",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730331/flesh-and-blood-tcg-mastery-pack-assassin-festering-rot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.18,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730332,
+      "name": "Festering Weakness",
+      "number": "MPA120",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730332/flesh-and-blood-tcg-mastery-pack-assassin-festering-weakness",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 730333,
+      "name": "Razor's Edge",
+      "label": "Red",
+      "number": "MPA121",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730333/flesh-and-blood-tcg-mastery-pack-assassin-razors-edge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730334,
+      "name": "Razor's Edge",
+      "label": "Yellow",
+      "number": "MPA122",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730334/flesh-and-blood-tcg-mastery-pack-assassin-razors-edge-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730335,
+      "name": "Razor's Edge",
+      "label": "Blue",
+      "number": "MPA123",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730335/flesh-and-blood-tcg-mastery-pack-assassin-razors-edge-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730336,
+      "name": "Pain in the Backside",
+      "number": "MPA128",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730336/flesh-and-blood-tcg-mastery-pack-assassin-pain-in-the-backside",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 16.98,
+          "low": 13.69,
+          "mid": 17.65
+        }
+      ]
+    },
+    {
+      "id": 730337,
+      "name": "Bloodrot Trap",
+      "number": "MPA129",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730337/flesh-and-blood-tcg-mastery-pack-assassin-bloodrot-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 730338,
+      "name": "Frailty Trap",
+      "number": "MPA130",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730338/flesh-and-blood-tcg-mastery-pack-assassin-frailty-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 730339,
+      "name": "Inertia Trap",
+      "number": "MPA131",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730339/flesh-and-blood-tcg-mastery-pack-assassin-inertia-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.19,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 730340,
+      "name": "Puredew Panacea",
+      "number": "MPA132",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730340/flesh-and-blood-tcg-mastery-pack-assassin-puredew-panacea",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 5.74,
+          "low": 4.26,
+          "mid": 6.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.44,
+          "low": 1.75,
+          "mid": 2.15
+        }
+      ]
+    },
+    {
+      "id": 730341,
+      "name": "Bunker Beard",
+      "number": "MPA133",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730341/flesh-and-blood-tcg-mastery-pack-assassin-bunker-beard",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730342,
+      "name": "Heartened Cross Strap",
+      "number": "MPA134",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730342/flesh-and-blood-tcg-mastery-pack-assassin-heartened-cross-strap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730343,
+      "name": "Fisticuffs",
+      "number": "MPA135",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730343/flesh-and-blood-tcg-mastery-pack-assassin-fisticuffs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 730344,
+      "name": "Snapdragon Scalers",
+      "number": "MPA136",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730344/flesh-and-blood-tcg-mastery-pack-assassin-snapdragon-scalers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730345,
+      "name": "Needlebane Cowl",
+      "number": "MPA137",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730345/flesh-and-blood-tcg-mastery-pack-assassin-needlebane-cowl",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.49,
+          "low": 1.1,
+          "mid": 1.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.18,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 730346,
+      "name": "Needlebane Coat",
+      "number": "MPA138",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730346/flesh-and-blood-tcg-mastery-pack-assassin-needlebane-coat",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.18,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 4.99,
+          "low": 2.44,
+          "mid": 4.44
+        }
+      ]
+    },
+    {
+      "id": 730347,
+      "name": "Needlebane Gauntlets",
+      "number": "MPA139",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730347/flesh-and-blood-tcg-mastery-pack-assassin-needlebane-gauntlets",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.18,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.49,
+          "low": 1.33,
+          "mid": 1.46
+        }
+      ]
+    },
+    {
+      "id": 730348,
+      "name": "Needlebane Steppers",
+      "number": "MPA140",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730348/flesh-and-blood-tcg-mastery-pack-assassin-needlebane-steppers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1,
+          "low": 0.99,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 730349,
+      "name": "Banger!",
+      "number": "MPA141",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730349/flesh-and-blood-tcg-mastery-pack-assassin-banger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 26.34,
+          "low": 20,
+          "mid": 24.64
+        }
+      ]
+    },
+    {
+      "id": 730350,
+      "name": "Banger!",
+      "label": "Extended Art",
+      "number": "MPA141",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730350/flesh-and-blood-tcg-mastery-pack-assassin-banger-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 89.93,
+          "low": 75.78,
+          "mid": 82.97
+        }
+      ]
+    },
+    {
+      "id": 730351,
+      "name": "Self-determination",
+      "number": "MPA142",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730351/flesh-and-blood-tcg-mastery-pack-assassin-self-determination",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19.83,
+          "low": 17.5,
+          "mid": 19.95
+        }
+      ]
+    },
+    {
+      "id": 730352,
+      "name": "Self-determination",
+      "label": "Extended Art",
+      "number": "MPA142",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730352/flesh-and-blood-tcg-mastery-pack-assassin-self-determination-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 112.73,
+          "low": 84,
+          "mid": 106.81
+        }
+      ]
+    },
+    {
+      "id": 730353,
+      "name": "Infectious Host",
+      "number": "MPA143",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730353/flesh-and-blood-tcg-mastery-pack-assassin-infectious-host",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 730354,
+      "name": "Looking for a Scrap",
+      "number": "MPA144",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730354/flesh-and-blood-tcg-mastery-pack-assassin-looking-for-a-scrap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72,
+          "low": 0.4,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 730355,
+      "name": "Wreck Havoc",
+      "number": "MPA145",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730355/flesh-and-blood-tcg-mastery-pack-assassin-wreck-havoc",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.05,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 730356,
+      "name": "Cut Down to Size",
+      "number": "MPA146",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730356/flesh-and-blood-tcg-mastery-pack-assassin-cut-down-to-size",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 730357,
+      "name": "Free of Burdens",
+      "label": "Red",
+      "number": "MPA147",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730357/flesh-and-blood-tcg-mastery-pack-assassin-free-of-burdens-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 730358,
+      "name": "Free of Burdens",
+      "label": "Yellow",
+      "number": "MPA148",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730358/flesh-and-blood-tcg-mastery-pack-assassin-free-of-burdens-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 730359,
+      "name": "Free of Burdens",
+      "label": "Blue",
+      "number": "MPA149",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730359/flesh-and-blood-tcg-mastery-pack-assassin-free-of-burdens-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.05,
+          "mid": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 730360,
+      "name": "Razor Reflex",
+      "number": "MPA150",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/730360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/730360/flesh-and-blood-tcg-mastery-pack-assassin-razor-reflex",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 732630,
+      "name": "Silver",
+      "label": "Marvel",
+      "number": "MPA154",
+      "rarity": "Marvel",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732630/flesh-and-blood-tcg-mastery-pack-assassin-silver-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 24.41,
+          "low": 20,
+          "mid": 25.98
+        }
+      ]
+    },
+    {
+      "id": 732631,
+      "name": "Eradicate",
+      "label": "Marvel",
+      "number": "MPA155",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732631/flesh-and-blood-tcg-mastery-pack-assassin-eradicate-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 210,
+          "low": 200,
+          "mid": 220.5
+        }
+      ]
+    },
+    {
+      "id": 732632,
+      "name": "Leave No Witnesses",
+      "label": "Marvel",
+      "number": "MPA156",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732632/flesh-and-blood-tcg-mastery-pack-assassin-leave-no-witnesses-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 585,
+          "low": 535,
+          "mid": 589.98
+        }
+      ]
+    },
+    {
+      "id": 732633,
+      "name": "Surgical Extraction",
+      "label": "Marvel",
+      "number": "MPA157",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/732633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/732633/flesh-and-blood-tcg-mastery-pack-assassin-surgical-extraction-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 370,
+          "low": 294.99,
+          "mid": 348.83
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

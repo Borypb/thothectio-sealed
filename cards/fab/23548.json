@@ -1,0 +1,1096 @@
+{
+  "groupId": 23548,
+  "cards": [
+    {
+      "id": 561886,
+      "name": "Aurora",
+      "number": "AUR001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561886/flesh-and-blood-tcg-1st-strike-aurora",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561887,
+      "name": "Star Fall",
+      "number": "AUR002",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561887/flesh-and-blood-tcg-1st-strike-star-fall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.2,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 561888,
+      "name": "Ironrot Helm",
+      "label": "AUR",
+      "number": "AUR003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561888/flesh-and-blood-tcg-1st-strike-ironrot-helm-aur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561889,
+      "name": "Blossom of Spring",
+      "label": "AUR",
+      "number": "AUR004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561889/flesh-and-blood-tcg-1st-strike-blossom-of-spring-aur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.34,
+          "low": 1,
+          "mid": 1.25
+        }
+      ]
+    },
+    {
+      "id": 561890,
+      "name": "Aether Crackers",
+      "number": "AUR005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561890/flesh-and-blood-tcg-1st-strike-aether-crackers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561891,
+      "name": "Ironrot Legs",
+      "label": "AUR",
+      "number": "AUR006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561891/flesh-and-blood-tcg-1st-strike-ironrot-legs-aur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561892,
+      "name": "Crackling",
+      "label": "Red",
+      "number": "AUR007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561892/flesh-and-blood-tcg-1st-strike-crackling-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.2,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 561893,
+      "name": "Fry",
+      "label": "Red",
+      "number": "AUR008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561893/flesh-and-blood-tcg-1st-strike-fry-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561894,
+      "name": "Heaven's Claws",
+      "label": "Red",
+      "number": "AUR009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561894/flesh-and-blood-tcg-1st-strike-heavens-claws-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 561895,
+      "name": "Lightning Surge",
+      "label": "Red",
+      "number": "AUR010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561895/flesh-and-blood-tcg-1st-strike-lightning-surge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.09,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 561896,
+      "name": "Photon Rush",
+      "label": "Red",
+      "number": "AUR011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561896/flesh-and-blood-tcg-1st-strike-photon-rush-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.25,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 561897,
+      "name": "Static Shock",
+      "label": "Red",
+      "number": "AUR012",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561897/flesh-and-blood-tcg-1st-strike-static-shock-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.13,
+          "low": 0.75,
+          "mid": 2.18
+        }
+      ]
+    },
+    {
+      "id": 561898,
+      "name": "Harness Lightning",
+      "label": "Red",
+      "number": "AUR013",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561898/flesh-and-blood-tcg-1st-strike-harness-lightning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.51,
+          "low": 4.52,
+          "mid": 6.51
+        }
+      ]
+    },
+    {
+      "id": 561899,
+      "name": "Sizzle",
+      "label": "Red",
+      "number": "AUR014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561899/flesh-and-blood-tcg-1st-strike-sizzle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.2,
+          "low": 1.9,
+          "mid": 3.2
+        }
+      ]
+    },
+    {
+      "id": 561900,
+      "name": "Crackling",
+      "label": "Yellow",
+      "number": "AUR015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561900/flesh-and-blood-tcg-1st-strike-crackling-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561901,
+      "name": "Fry",
+      "label": "Yellow",
+      "number": "AUR016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561901/flesh-and-blood-tcg-1st-strike-fry-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 561902,
+      "name": "Heaven's Claws",
+      "label": "Yellow",
+      "number": "AUR017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561902/flesh-and-blood-tcg-1st-strike-heavens-claws-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 561903,
+      "name": "Lightning Surge",
+      "label": "Yellow",
+      "number": "AUR018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561903/flesh-and-blood-tcg-1st-strike-lightning-surge-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 561904,
+      "name": "Static Shock",
+      "label": "Yellow",
+      "number": "AUR019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561904/flesh-and-blood-tcg-1st-strike-static-shock-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561905,
+      "name": "Harness Lightning",
+      "label": "Yellow",
+      "number": "AUR020",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561905/flesh-and-blood-tcg-1st-strike-harness-lightning-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561906,
+      "name": "Sizzle",
+      "label": "Yellow",
+      "number": "AUR021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561906/flesh-and-blood-tcg-1st-strike-sizzle-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561907,
+      "name": "Spark Spray",
+      "label": "Yellow",
+      "number": "AUR022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561907/flesh-and-blood-tcg-1st-strike-spark-spray-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561908,
+      "name": "Cloud Cover",
+      "number": "AUR023",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561908/flesh-and-blood-tcg-1st-strike-cloud-cover",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 561909,
+      "name": "Photon Rush",
+      "label": "Blue",
+      "number": "AUR024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561909/flesh-and-blood-tcg-1st-strike-photon-rush-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561910,
+      "name": "Spark Spray",
+      "label": "Blue",
+      "number": "AUR025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561910/flesh-and-blood-tcg-1st-strike-spark-spray-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561911,
+      "name": "Lightning Press",
+      "number": "AUR026",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561911/flesh-and-blood-tcg-1st-strike-lightning-press",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 561912,
+      "name": "Embodiment of Lightning",
+      "number": "AUR027",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561912/flesh-and-blood-tcg-1st-strike-embodiment-of-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 561913,
+      "name": "Spell Fray Tiara",
+      "label": "AUR",
+      "number": "AUR028",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561913/flesh-and-blood-tcg-1st-strike-spell-fray-tiara-aur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561914,
+      "name": "Spell Fray Leggings",
+      "label": "AUR",
+      "number": "AUR029",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561914/flesh-and-blood-tcg-1st-strike-spell-fray-leggings-aur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29,
+          "low": 0.1,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 561915,
+      "name": "Terra",
+      "number": "TER001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561915/flesh-and-blood-tcg-1st-strike-terra",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.22,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 561916,
+      "name": "Redwood Hammer",
+      "number": "TER002",
+      "rarity": "Rare",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561916/flesh-and-blood-tcg-1st-strike-redwood-hammer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.19,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 561917,
+      "name": "Rotten Old Buckler",
+      "number": "TER003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561917/flesh-and-blood-tcg-1st-strike-rotten-old-buckler",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.04,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 561918,
+      "name": "Ironrot Helm",
+      "label": "TER",
+      "number": "TER004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561918/flesh-and-blood-tcg-1st-strike-ironrot-helm-ter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561919,
+      "name": "Blossom of Spring",
+      "label": "TER",
+      "number": "TER005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561919/flesh-and-blood-tcg-1st-strike-blossom-of-spring-ter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.09,
+          "low": 0.94,
+          "mid": 1.08
+        }
+      ]
+    },
+    {
+      "id": 561920,
+      "name": "Hard Knuckle",
+      "number": "TER006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561920/flesh-and-blood-tcg-1st-strike-hard-knuckle",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.21,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 561921,
+      "name": "Ironrot Legs",
+      "label": "TER",
+      "number": "TER007",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561921/flesh-and-blood-tcg-1st-strike-ironrot-legs-ter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561922,
+      "name": "Bracken Rap",
+      "label": "Red",
+      "number": "TER008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561922/flesh-and-blood-tcg-1st-strike-bracken-rap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561923,
+      "name": "Burgeoning",
+      "label": "Red",
+      "number": "TER009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561923/flesh-and-blood-tcg-1st-strike-burgeoning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561924,
+      "name": "Concuss",
+      "label": "Red",
+      "number": "TER010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561924/flesh-and-blood-tcg-1st-strike-concuss-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 561925,
+      "name": "Log Fall",
+      "label": "Red",
+      "number": "TER011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561925/flesh-and-blood-tcg-1st-strike-log-fall-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561926,
+      "name": "Strong Wood",
+      "label": "Red",
+      "number": "TER012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561926/flesh-and-blood-tcg-1st-strike-strong-wood-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561927,
+      "name": "Autumn's Touch",
+      "label": "Yellow",
+      "number": "TER013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561927_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561927/flesh-and-blood-tcg-1st-strike-autumns-touch-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561928,
+      "name": "Bracken Rap",
+      "label": "Yellow",
+      "number": "TER014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561928_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561928/flesh-and-blood-tcg-1st-strike-bracken-rap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561929,
+      "name": "Log Fall",
+      "label": "Yellow",
+      "number": "TER015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561929_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561929/flesh-and-blood-tcg-1st-strike-log-fall-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.09,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 561930,
+      "name": "Strong Wood",
+      "label": "Yellow",
+      "number": "TER016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561930/flesh-and-blood-tcg-1st-strike-strong-wood-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561931,
+      "name": "Flourish",
+      "label": "Yellow",
+      "number": "TER017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561931/flesh-and-blood-tcg-1st-strike-flourish-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.74,
+          "low": 1.88,
+          "mid": 2.25
+        }
+      ]
+    },
+    {
+      "id": 561932,
+      "name": "Seeds of Strength",
+      "label": "Yellow",
+      "number": "TER018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561932/flesh-and-blood-tcg-1st-strike-seeds-of-strength-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561933,
+      "name": "Thrive",
+      "number": "TER019",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561933/flesh-and-blood-tcg-1st-strike-thrive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.28,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 561934,
+      "name": "Sigil of Shelter",
+      "label": "Yellow",
+      "number": "TER020",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561934/flesh-and-blood-tcg-1st-strike-sigil-of-shelter-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561935,
+      "name": "Autumn's Touch",
+      "label": "Blue",
+      "number": "TER021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561935/flesh-and-blood-tcg-1st-strike-autumns-touch-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 561936,
+      "name": "Burgeoning",
+      "label": "Blue",
+      "number": "TER022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561936/flesh-and-blood-tcg-1st-strike-burgeoning-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561937,
+      "name": "Concuss",
+      "label": "Blue",
+      "number": "TER023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561937/flesh-and-blood-tcg-1st-strike-concuss-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561938,
+      "name": "Flourish",
+      "label": "Blue",
+      "number": "TER024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561938/flesh-and-blood-tcg-1st-strike-flourish-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 0.84,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 561939,
+      "name": "Seeds of Strength",
+      "label": "Blue",
+      "number": "TER025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561939/flesh-and-blood-tcg-1st-strike-seeds-of-strength-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561940,
+      "name": "Sigil of Shelter",
+      "label": "Blue",
+      "number": "TER026",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561940_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561940/flesh-and-blood-tcg-1st-strike-sigil-of-shelter-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561941,
+      "name": "Canopy Shelter",
+      "label": "Blue",
+      "number": "TER027",
+      "rarity": "Rare",
+      "type": "Block",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561941/flesh-and-blood-tcg-1st-strike-canopy-shelter-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.09,
+          "low": 2.39,
+          "mid": 8.6
+        }
+      ]
+    },
+    {
+      "id": 561942,
+      "name": "Might",
+      "number": "TER028",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561942/flesh-and-blood-tcg-1st-strike-might",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 561943,
+      "name": "Spell Fray Tiara",
+      "label": "TER",
+      "number": "TER029",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561943/flesh-and-blood-tcg-1st-strike-spell-fray-tiara-ter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 561944,
+      "name": "Spell Fray Leggings",
+      "label": "TER",
+      "number": "TER030",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/561944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/561944/flesh-and-blood-tcg-1st-strike-spell-fray-leggings-ter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.09,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 632113,
+      "name": "Cloud City Steamboat",
+      "label": "Red",
+      "number": "SEA015",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632113_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632113/flesh-and-blood-tcg-1st-strike-cloud-city-steamboat-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.84,
+          "low": 2.84,
+          "mid": 2.84
+        }
+      ]
+    },
+    {
+      "id": 632114,
+      "name": "Cloud City Steamboat",
+      "label": "Yellow",
+      "number": "SEA016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632114_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632114/flesh-and-blood-tcg-1st-strike-cloud-city-steamboat-yellow",
+      "prices": []
+    },
+    {
+      "id": 632115,
+      "name": "Cloud City Steamboat",
+      "label": "Blue",
+      "number": "SEA017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632115_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632115/flesh-and-blood-tcg-1st-strike-cloud-city-steamboat-blue",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

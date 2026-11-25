@@ -1,0 +1,5837 @@
+{
+  "groupId": 22893,
+  "cards": [
+    {
+      "id": 486562,
+      "name": "Collapsing Trap",
+      "number": "OUT103",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/486562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/486562/flesh-and-blood-tcg-outsiders-collapsing-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.77,
+          "low": 1.43,
+          "mid": 2.44
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.92,
+          "low": 4.07,
+          "mid": 5.35
+        }
+      ]
+    },
+    {
+      "id": 486569,
+      "name": "Dishonor",
+      "number": "OUT051",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/486569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/486569/flesh-and-blood-tcg-outsiders-dishonor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.6,
+          "low": 1,
+          "mid": 3
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.36,
+          "low": 3.03,
+          "mid": 4.76
+        }
+      ]
+    },
+    {
+      "id": 486673,
+      "name": "Back Stab",
+      "label": "Red",
+      "number": "OUT015",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/486673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/486673/flesh-and-blood-tcg-outsiders-back-stab-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.25,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 486766,
+      "name": "Shake Down",
+      "number": "OUT013",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/486766_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/486766/flesh-and-blood-tcg-outsiders-shake-down",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 10.52,
+          "low": 13.5,
+          "mid": 15.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 12.43,
+          "low": 12.02,
+          "mid": 14.35
+        }
+      ]
+    },
+    {
+      "id": 487157,
+      "name": "Back Stab",
+      "label": "Yellow",
+      "number": "OUT016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487157/flesh-and-blood-tcg-outsiders-back-stab-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 487158,
+      "name": "Back Stab",
+      "label": "Blue",
+      "number": "OUT017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487158/flesh-and-blood-tcg-outsiders-back-stab-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.28,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 487169,
+      "name": "Spike with Frailty",
+      "number": "OUT022",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487169/flesh-and-blood-tcg-outsiders-spike-with-frailty",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.11,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.09,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 487171,
+      "name": "Spike with Inertia",
+      "number": "OUT023",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487171/flesh-and-blood-tcg-outsiders-spike-with-inertia",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.14,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487172,
+      "name": "Infect",
+      "label": "Red",
+      "number": "OUT024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487172/flesh-and-blood-tcg-outsiders-infect-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.13,
+          "mid": 0.21
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.25,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 487174,
+      "name": "Infect",
+      "label": "Yellow",
+      "number": "OUT025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487174/flesh-and-blood-tcg-outsiders-infect-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487175,
+      "name": "Infect",
+      "label": "Blue",
+      "number": "OUT026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487175/flesh-and-blood-tcg-outsiders-infect-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487179,
+      "name": "Isolate",
+      "label": "Red",
+      "number": "OUT027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487179/flesh-and-blood-tcg-outsiders-isolate-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.3,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 487183,
+      "name": "Isolate",
+      "label": "Yellow",
+      "number": "OUT028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487183/flesh-and-blood-tcg-outsiders-isolate-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487185,
+      "name": "Isolate",
+      "label": "Blue",
+      "number": "OUT029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487185/flesh-and-blood-tcg-outsiders-isolate-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.3,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487187,
+      "name": "Sedate",
+      "label": "Red",
+      "number": "OUT036",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487187/flesh-and-blood-tcg-outsiders-sedate-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.11,
+          "mid": 0.29
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487188,
+      "name": "Sedate",
+      "label": "Yellow",
+      "number": "OUT037",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487188/flesh-and-blood-tcg-outsiders-sedate-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.05,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487190,
+      "name": "Sedate",
+      "label": "Blue",
+      "number": "OUT038",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487190/flesh-and-blood-tcg-outsiders-sedate-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487191,
+      "name": "Wither",
+      "label": "Red",
+      "number": "OUT039",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487191/flesh-and-blood-tcg-outsiders-wither-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.2,
+          "mid": 0.34
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487201,
+      "name": "Wither",
+      "label": "Yellow",
+      "number": "OUT040",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487201/flesh-and-blood-tcg-outsiders-wither-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487202,
+      "name": "Wither",
+      "label": "Blue",
+      "number": "OUT041",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487202/flesh-and-blood-tcg-outsiders-wither-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.11,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487214,
+      "name": "Be Like Water",
+      "label": "Red",
+      "number": "OUT068",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487214/flesh-and-blood-tcg-outsiders-be-like-water-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.39,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487216,
+      "name": "Be Like Water",
+      "label": "Yellow",
+      "number": "OUT069",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487216/flesh-and-blood-tcg-outsiders-be-like-water-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487218,
+      "name": "Be Like Water",
+      "label": "Blue",
+      "number": "OUT070",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487218/flesh-and-blood-tcg-outsiders-be-like-water-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.08,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 487220,
+      "name": "Peace of Mind",
+      "label": "Blue",
+      "number": "OUT233",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487220/flesh-and-blood-tcg-outsiders-peace-of-mind-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487361,
+      "name": "Death Touch",
+      "label": "Red",
+      "number": "OUT162",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487361/flesh-and-blood-tcg-outsiders-death-touch-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.36,
+          "low": 2.45,
+          "mid": 4.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.35,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 487362,
+      "name": "Death Touch",
+      "label": "Yellow",
+      "number": "OUT163",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487362/flesh-and-blood-tcg-outsiders-death-touch-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.16,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487365,
+      "name": "Death Touch",
+      "label": "Blue",
+      "number": "OUT164",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487365/flesh-and-blood-tcg-outsiders-death-touch-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.15,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 487369,
+      "name": "Codex of Frailty",
+      "number": "OUT160",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487369/flesh-and-blood-tcg-outsiders-codex-of-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 49.85,
+          "low": 49.99,
+          "mid": 57.84
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 42.07,
+          "low": 54,
+          "mid": 64.99
+        }
+      ]
+    },
+    {
+      "id": 487380,
+      "name": "Quiver of Rustling Leaves",
+      "number": "OUT096",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487380/flesh-and-blood-tcg-outsiders-quiver-of-rustling-leaves",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 23.7,
+          "low": 23.82,
+          "mid": 31.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.73,
+          "low": 1.46,
+          "mid": 2.57
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.91,
+          "low": 3.31,
+          "mid": 4.98
+        }
+      ]
+    },
+    {
+      "id": 487388,
+      "name": "Peace of Mind",
+      "label": "Red",
+      "number": "OUT231",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487388/flesh-and-blood-tcg-outsiders-peace-of-mind-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 487389,
+      "name": "Peace of Mind",
+      "label": "Yellow",
+      "number": "OUT232",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487389/flesh-and-blood-tcg-outsiders-peace-of-mind-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 487390,
+      "name": "Head Leads the Tail",
+      "number": "OUT052",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487390/flesh-and-blood-tcg-outsiders-head-leads-the-tail",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.67,
+          "low": 0.49,
+          "mid": 1.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.15,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 487391,
+      "name": "Bonds of Ancestry",
+      "label": "Red",
+      "number": "OUT056",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487391/flesh-and-blood-tcg-outsiders-bonds-of-ancestry-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.23,
+          "mid": 0.41
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.99,
+          "low": 2.32,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 487392,
+      "name": "Bonds of Ancestry",
+      "label": "Yellow",
+      "number": "OUT057",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487392/flesh-and-blood-tcg-outsiders-bonds-of-ancestry-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.23,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 487393,
+      "name": "Bonds of Ancestry",
+      "label": "Blue",
+      "number": "OUT058",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/487393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/487393/flesh-and-blood-tcg-outsiders-bonds-of-ancestry-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.2,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 488334,
+      "name": "Murkmire Grapnel",
+      "label": "Red",
+      "number": "OUT121",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488334/flesh-and-blood-tcg-outsiders-murkmire-grapnel-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.93,
+          "low": 0.4,
+          "mid": 0.93
+        }
+      ]
+    },
+    {
+      "id": 488335,
+      "name": "Murkmire Grapnel",
+      "label": "Yellow",
+      "number": "OUT122",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488335/flesh-and-blood-tcg-outsiders-murkmire-grapnel-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488336,
+      "name": "Murkmire Grapnel",
+      "label": "Blue",
+      "number": "OUT123",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488336/flesh-and-blood-tcg-outsiders-murkmire-grapnel-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.08,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 488337,
+      "name": "Sedation Shot",
+      "label": "Red",
+      "number": "OUT124",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488337/flesh-and-blood-tcg-outsiders-sedation-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.07,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 488338,
+      "name": "Sedation Shot",
+      "label": "Yellow",
+      "number": "OUT125",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488338/flesh-and-blood-tcg-outsiders-sedation-shot-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488339,
+      "name": "Sedation Shot",
+      "label": "Blue",
+      "number": "OUT126",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488339/flesh-and-blood-tcg-outsiders-sedation-shot-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488340,
+      "name": "Skybound Shot",
+      "label": "Red",
+      "number": "OUT127",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488340/flesh-and-blood-tcg-outsiders-skybound-shot-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.02,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488341,
+      "name": "Skybound Shot",
+      "label": "Yellow",
+      "number": "OUT128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488341/flesh-and-blood-tcg-outsiders-skybound-shot-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.09,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488342,
+      "name": "Skybound Shot",
+      "label": "Blue",
+      "number": "OUT129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488342/flesh-and-blood-tcg-outsiders-skybound-shot-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.02,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 488343,
+      "name": "Spire Sniping",
+      "label": "Red",
+      "number": "OUT130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488343/flesh-and-blood-tcg-outsiders-spire-sniping-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.16
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488344,
+      "name": "Spire Sniping",
+      "label": "Yellow",
+      "number": "OUT131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488344/flesh-and-blood-tcg-outsiders-spire-sniping-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488345,
+      "name": "Spire Sniping",
+      "label": "Blue",
+      "number": "OUT132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488345/flesh-and-blood-tcg-outsiders-spire-sniping-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 488346,
+      "name": "Widowmaker",
+      "label": "Red",
+      "number": "OUT133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488346/flesh-and-blood-tcg-outsiders-widowmaker-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.15,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488347,
+      "name": "Widowmaker",
+      "label": "Yellow",
+      "number": "OUT134",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488347/flesh-and-blood-tcg-outsiders-widowmaker-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488348,
+      "name": "Widowmaker",
+      "label": "Blue",
+      "number": "OUT135",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488348/flesh-and-blood-tcg-outsiders-widowmaker-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 488349,
+      "name": "Recoil",
+      "label": "Red",
+      "number": "OUT059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488349/flesh-and-blood-tcg-outsiders-recoil-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.17,
+          "mid": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 488350,
+      "name": "Withering Shot",
+      "label": "Red",
+      "number": "OUT136",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488350/flesh-and-blood-tcg-outsiders-withering-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.11,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 488351,
+      "name": "Recoil",
+      "label": "Yellow",
+      "number": "OUT060",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488351/flesh-and-blood-tcg-outsiders-recoil-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.11,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 488352,
+      "name": "Withering Shot",
+      "label": "Yellow",
+      "number": "OUT137",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488352/flesh-and-blood-tcg-outsiders-withering-shot-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488353,
+      "name": "Withering Shot",
+      "label": "Blue",
+      "number": "OUT138",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488353/flesh-and-blood-tcg-outsiders-withering-shot-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.06,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488354,
+      "name": "Recoil",
+      "label": "Blue",
+      "number": "OUT061",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488354/flesh-and-blood-tcg-outsiders-recoil-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.21,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 488355,
+      "name": "Flick Knives",
+      "number": "OUT139",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488355/flesh-and-blood-tcg-outsiders-flick-knives",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 54.55,
+          "low": 52,
+          "mid": 69.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.89,
+          "low": 14.56,
+          "mid": 21.27
+        }
+      ]
+    },
+    {
+      "id": 488356,
+      "name": "Mask of Shifting Perspectives",
+      "number": "OUT140",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488356/flesh-and-blood-tcg-outsiders-mask-of-shifting-perspectives",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.81,
+          "low": 0.73,
+          "mid": 0.92
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488357,
+      "name": "Blade Cuff",
+      "number": "OUT141",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488357/flesh-and-blood-tcg-outsiders-blade-cuff",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.52,
+          "low": 0.29,
+          "mid": 0.76
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488358,
+      "name": "Spinning Wheel Kick",
+      "label": "Red",
+      "number": "OUT062",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488358/flesh-and-blood-tcg-outsiders-spinning-wheel-kick-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.55,
+          "low": 0.65,
+          "mid": 1.68
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.82,
+          "low": 0.3,
+          "mid": 0.92
+        }
+      ]
+    },
+    {
+      "id": 488359,
+      "name": "Spinning Wheel Kick",
+      "label": "Yellow",
+      "number": "OUT063",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488359/flesh-and-blood-tcg-outsiders-spinning-wheel-kick-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.13,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488360,
+      "name": "Spinning Wheel Kick",
+      "label": "Blue",
+      "number": "OUT064",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488360/flesh-and-blood-tcg-outsiders-spinning-wheel-kick-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 488361,
+      "name": "Stab Wound",
+      "number": "OUT142",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488361/flesh-and-blood-tcg-outsiders-stab-wound",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.81,
+          "low": 0.5,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.38,
+          "low": 1.69,
+          "mid": 2.4
+        }
+      ]
+    },
+    {
+      "id": 488362,
+      "name": "Concealed Blade",
+      "number": "OUT143",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488362/flesh-and-blood-tcg-outsiders-concealed-blade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.28,
+          "low": 3.49,
+          "mid": 5.71
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.94,
+          "low": 7.47,
+          "mid": 20.05
+        }
+      ]
+    },
+    {
+      "id": 488363,
+      "name": "Back Heel Kick",
+      "label": "Red",
+      "number": "OUT065",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488363/flesh-and-blood-tcg-outsiders-back-heel-kick-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488364,
+      "name": "Knives Out",
+      "number": "OUT144",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488364/flesh-and-blood-tcg-outsiders-knives-out",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.54,
+          "low": 1,
+          "mid": 2.39
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3,
+          "low": 1.55,
+          "mid": 3.46
+        }
+      ]
+    },
+    {
+      "id": 488365,
+      "name": "Back Heel Kick",
+      "label": "Yellow",
+      "number": "OUT066",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488365/flesh-and-blood-tcg-outsiders-back-heel-kick-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488366,
+      "name": "Bleed Out",
+      "label": "Red",
+      "number": "OUT145",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488366/flesh-and-blood-tcg-outsiders-bleed-out-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.44,
+          "low": 0.2,
+          "mid": 0.45
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488367,
+      "name": "Seeker's Hood",
+      "number": "OUT175",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488367/flesh-and-blood-tcg-outsiders-seekers-hood",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.98,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 488368,
+      "name": "Bleed Out",
+      "label": "Yellow",
+      "number": "OUT146",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488368/flesh-and-blood-tcg-outsiders-bleed-out-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 488369,
+      "name": "Back Heel Kick",
+      "label": "Blue",
+      "number": "OUT067",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488369/flesh-and-blood-tcg-outsiders-back-heel-kick-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.09,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 488370,
+      "name": "Bleed Out",
+      "label": "Blue",
+      "number": "OUT147",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488370/flesh-and-blood-tcg-outsiders-bleed-out-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.11,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 488371,
+      "name": "Hurl",
+      "label": "Red",
+      "number": "OUT148",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488371/flesh-and-blood-tcg-outsiders-hurl-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.14,
+          "mid": 0.27
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.36,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 488372,
+      "name": "Hurl",
+      "label": "Yellow",
+      "number": "OUT149",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488372/flesh-and-blood-tcg-outsiders-hurl-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 488373,
+      "name": "Hurl",
+      "label": "Blue",
+      "number": "OUT150",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488373/flesh-and-blood-tcg-outsiders-hurl-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 488374,
+      "name": "Plague Hive",
+      "number": "OUT000",
+      "rarity": "Fabled",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488374/flesh-and-blood-tcg-outsiders-plague-hive",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 205.21,
+          "low": 339.95,
+          "mid": 350
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 141.42,
+          "low": 238,
+          "mid": 245.99
+        }
+      ]
+    },
+    {
+      "id": 488375,
+      "name": "Plunge",
+      "label": "Red",
+      "number": "OUT151",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488375/flesh-and-blood-tcg-outsiders-plunge-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488376,
+      "name": "Seeker's Gilet",
+      "number": "OUT176",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488376/flesh-and-blood-tcg-outsiders-seekers-gilet",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.52,
+          "low": 0.25,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 488377,
+      "name": "Plunge",
+      "label": "Yellow",
+      "number": "OUT152",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488377/flesh-and-blood-tcg-outsiders-plunge-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488378,
+      "name": "Plunge",
+      "label": "Blue",
+      "number": "OUT153",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488378/flesh-and-blood-tcg-outsiders-plunge-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.03,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488379,
+      "name": "Short and Sharp",
+      "label": "Red",
+      "number": "OUT154",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488379/flesh-and-blood-tcg-outsiders-short-and-sharp-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488380,
+      "name": "Short and Sharp",
+      "label": "Yellow",
+      "number": "OUT155",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488380/flesh-and-blood-tcg-outsiders-short-and-sharp-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488381,
+      "name": "Short and Sharp",
+      "label": "Blue",
+      "number": "OUT156",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488381/flesh-and-blood-tcg-outsiders-short-and-sharp-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488382,
+      "name": "Uzuri, Switchblade",
+      "number": "OUT001",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488382/flesh-and-blood-tcg-outsiders-uzuri-switchblade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.25,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488383,
+      "name": "Seeker's Mitts",
+      "number": "OUT177",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488383/flesh-and-blood-tcg-outsiders-seekers-mitts",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.94,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 488384,
+      "name": "Mask of Malicious Manifestations",
+      "number": "OUT157",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488384/flesh-and-blood-tcg-outsiders-mask-of-malicious-manifestations",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.14,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.55,
+          "low": 0.37,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 488385,
+      "name": "Toxic Tips",
+      "number": "OUT158",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488385/flesh-and-blood-tcg-outsiders-toxic-tips",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.69,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 488386,
+      "name": "Uzuri",
+      "number": "OUT002",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488386/flesh-and-blood-tcg-outsiders-uzuri",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 488387,
+      "name": "Arakni, Solitary Confinement",
+      "number": "OUT003",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488387/flesh-and-blood-tcg-outsiders-arakni-solitary-confinement",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488388,
+      "name": "Spider's Bite",
+      "number": "OUT004",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488388/flesh-and-blood-tcg-outsiders-spiders-bite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.15,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 488389,
+      "name": "Codex of Bloodrot",
+      "number": "OUT159",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488389/flesh-and-blood-tcg-outsiders-codex-of-bloodrot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 20.16,
+          "low": 18,
+          "mid": 25.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 21.32,
+          "low": 14.49,
+          "mid": 21.11
+        }
+      ]
+    },
+    {
+      "id": 488390,
+      "name": "Deadly Duo",
+      "label": "Red",
+      "number": "OUT071",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488390/flesh-and-blood-tcg-outsiders-deadly-duo-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.06,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488391,
+      "name": "Seeker's Leggings",
+      "number": "OUT178",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488391/flesh-and-blood-tcg-outsiders-seekers-leggings",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 2.6,
+          "low": 1,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 488392,
+      "name": "Deadly Duo",
+      "label": "Yellow",
+      "number": "OUT072",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488392/flesh-and-blood-tcg-outsiders-deadly-duo-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488393,
+      "name": "Codex of Bloodrot",
+      "label": "Marvel",
+      "number": "OUT159",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488393/flesh-and-blood-tcg-outsiders-codex-of-bloodrot-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 154.59,
+          "low": 214.68,
+          "mid": 229.95
+        }
+      ]
+    },
+    {
+      "id": 488394,
+      "name": "Deadly Duo",
+      "label": "Blue",
+      "number": "OUT073",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488394/flesh-and-blood-tcg-outsiders-deadly-duo-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488395,
+      "name": "Nerve Scalpel",
+      "number": "OUT005",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488395/flesh-and-blood-tcg-outsiders-nerve-scalpel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.72,
+          "low": 2.58,
+          "mid": 3.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.46,
+          "low": 2.99,
+          "mid": 6.74
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 30.02,
+          "low": 31.28,
+          "mid": 65.64
+        }
+      ]
+    },
+    {
+      "id": 488396,
+      "name": "Silken Gi",
+      "number": "OUT179",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488396/flesh-and-blood-tcg-outsiders-silken-gi",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.45,
+          "low": 0.2,
+          "mid": 0.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488397,
+      "name": "Descendent Gustwave",
+      "label": "Red",
+      "number": "OUT074",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488397/flesh-and-blood-tcg-outsiders-descendent-gustwave-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 488398,
+      "name": "Codex of Frailty",
+      "label": "Marvel",
+      "number": "OUT160",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488398/flesh-and-blood-tcg-outsiders-codex-of-frailty-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 616.58,
+          "low": 799.27,
+          "mid": 836.52
+        }
+      ]
+    },
+    {
+      "id": 488399,
+      "name": "Codex of Inertia",
+      "label": "Marvel",
+      "number": "OUT161",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488399/flesh-and-blood-tcg-outsiders-codex-of-inertia-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 155.69,
+          "low": 190,
+          "mid": 193.77
+        }
+      ]
+    },
+    {
+      "id": 488400,
+      "name": "Threadbare Tunic",
+      "number": "OUT180",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488400/flesh-and-blood-tcg-outsiders-threadbare-tunic",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.31,
+          "low": 0.13,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 488401,
+      "name": "Descendent Gustwave",
+      "label": "Yellow",
+      "number": "OUT075",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488401/flesh-and-blood-tcg-outsiders-descendent-gustwave-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.29
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488402,
+      "name": "Codex of Inertia",
+      "number": "OUT161",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488402/flesh-and-blood-tcg-outsiders-codex-of-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 16.15,
+          "low": 15,
+          "mid": 18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 19.15,
+          "low": 18.34,
+          "mid": 26.49
+        }
+      ]
+    },
+    {
+      "id": 488403,
+      "name": "Descendent Gustwave",
+      "label": "Blue",
+      "number": "OUT076",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488403/flesh-and-blood-tcg-outsiders-descendent-gustwave-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.07,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 488404,
+      "name": "Fisticuffs",
+      "number": "OUT181",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488404/flesh-and-blood-tcg-outsiders-fisticuffs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.37,
+          "low": 0.16,
+          "mid": 0.63
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.06,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 488405,
+      "name": "Fleet Foot Sandals",
+      "number": "OUT182",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488405/flesh-and-blood-tcg-outsiders-fleet-foot-sandals",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.45,
+          "low": 0.15,
+          "mid": 0.64
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.09,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488406,
+      "name": "Head Jab",
+      "label": "Red",
+      "number": "OUT077",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488406/flesh-and-blood-tcg-outsiders-head-jab-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488407,
+      "name": "Toxicity",
+      "label": "Red",
+      "number": "OUT165",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488407/flesh-and-blood-tcg-outsiders-toxicity-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.3,
+          "low": 5.7,
+          "mid": 7
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.1,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 488408,
+      "name": "Head Jab",
+      "label": "Yellow",
+      "number": "OUT078",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488408/flesh-and-blood-tcg-outsiders-head-jab-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 488409,
+      "name": "Toxicity",
+      "label": "Yellow",
+      "number": "OUT166",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488409/flesh-and-blood-tcg-outsiders-toxicity-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.35,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 488410,
+      "name": "Head Jab",
+      "label": "Blue",
+      "number": "OUT079",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488410/flesh-and-blood-tcg-outsiders-head-jab-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 488411,
+      "name": "Toxicity",
+      "label": "Blue",
+      "number": "OUT167",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488411/flesh-and-blood-tcg-outsiders-toxicity-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.1,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 488412,
+      "name": "Virulent Touch",
+      "label": "Red",
+      "number": "OUT168",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488412/flesh-and-blood-tcg-outsiders-virulent-touch-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.18,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488413,
+      "name": "Virulent Touch",
+      "label": "Yellow",
+      "number": "OUT169",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488413/flesh-and-blood-tcg-outsiders-virulent-touch-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488414,
+      "name": "Virulent Touch",
+      "label": "Blue",
+      "number": "OUT170",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488414/flesh-and-blood-tcg-outsiders-virulent-touch-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 488415,
+      "name": "Nerve Scalpel",
+      "label": "OUT006",
+      "number": "OUT006",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488415/flesh-and-blood-tcg-outsiders-nerve-scalpel-out006",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.42,
+          "low": 3.99,
+          "mid": 5
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 37.89,
+          "low": 89.89,
+          "mid": 89.89
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.04,
+          "low": 1.71,
+          "mid": 3.39
+        }
+      ]
+    },
+    {
+      "id": 488416,
+      "name": "Bloodrot Trap",
+      "label": "Red",
+      "number": "OUT171",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488416/flesh-and-blood-tcg-outsiders-bloodrot-trap-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.53,
+          "low": 0.18,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488417,
+      "name": "Orbitoclast",
+      "number": "OUT007",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488417/flesh-and-blood-tcg-outsiders-orbitoclast",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 17.84,
+          "low": 18.8,
+          "mid": 22.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 15.13,
+          "low": 26,
+          "mid": 28
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 44,
+          "low": 44.77,
+          "mid": 48.39
+        }
+      ]
+    },
+    {
+      "id": 488418,
+      "name": "Frailty Trap",
+      "label": "Red",
+      "number": "OUT172",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488418/flesh-and-blood-tcg-outsiders-frailty-trap-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.58,
+          "low": 2.5,
+          "mid": 3.67
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.23,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 488419,
+      "name": "Amnesia",
+      "number": "OUT183",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488419/flesh-and-blood-tcg-outsiders-amnesia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.33,
+          "low": 3,
+          "mid": 5.01
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.23,
+          "low": 4,
+          "mid": 9
+        }
+      ]
+    },
+    {
+      "id": 488420,
+      "name": "Inertia Trap",
+      "label": "Red",
+      "number": "OUT173",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488420/flesh-and-blood-tcg-outsiders-inertia-trap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.18,
+          "mid": 0.35
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.29,
+          "low": 4.25,
+          "mid": 5.37
+        }
+      ]
+    },
+    {
+      "id": 488421,
+      "name": "Orbitoclast",
+      "label": "OUT008",
+      "number": "OUT008",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488421/flesh-and-blood-tcg-outsiders-orbitoclast-out008",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 33.4,
+          "low": 34.71,
+          "mid": 48.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 14.75,
+          "low": 24.88,
+          "mid": 24.95
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.43,
+          "low": 25,
+          "mid": 27.11
+        }
+      ]
+    },
+    {
+      "id": 488422,
+      "name": "Vambrace of Determination",
+      "number": "OUT174",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488422/flesh-and-blood-tcg-outsiders-vambrace-of-determination",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 15.08,
+          "low": 23.99,
+          "mid": 26.91
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.78,
+          "low": 3.56,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 488423,
+      "name": "Scale Peeler",
+      "number": "OUT009",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488423/flesh-and-blood-tcg-outsiders-scale-peeler",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 21.1,
+          "low": 45.93,
+          "mid": 49.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.38,
+          "low": 3.78,
+          "mid": 9
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.43,
+          "low": 1.08,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 488424,
+      "name": "Down and Dirty",
+      "number": "OUT184",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488424/flesh-and-blood-tcg-outsiders-down-and-dirty",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.22,
+          "low": 3.99,
+          "mid": 5
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.64,
+          "low": 1,
+          "mid": 4.13
+        }
+      ]
+    },
+    {
+      "id": 488425,
+      "name": "Scale Peeler",
+      "label": "OUT010",
+      "number": "OUT010",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488425/flesh-and-blood-tcg-outsiders-scale-peeler-out010",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.11,
+          "low": 4.99,
+          "mid": 13.61
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.36,
+          "low": 0.92,
+          "mid": 2.99
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 25.13,
+          "low": 49.49,
+          "mid": 62.25
+        }
+      ]
+    },
+    {
+      "id": 488426,
+      "name": "Give and Take",
+      "number": "OUT185",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488426/flesh-and-blood-tcg-outsiders-give-and-take",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.5,
+          "mid": 1.77
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.61,
+          "low": 2.89,
+          "mid": 3.79
+        }
+      ]
+    },
+    {
+      "id": 488427,
+      "name": "Gore Belching",
+      "number": "OUT186",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488427/flesh-and-blood-tcg-outsiders-gore-belching",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.73,
+          "low": 0.7,
+          "mid": 1.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 488428,
+      "name": "Burdens of the Past",
+      "number": "OUT187",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488428/flesh-and-blood-tcg-outsiders-burdens-of-the-past",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7.43,
+          "low": 7.8,
+          "mid": 9.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 8.38,
+          "low": 11.79,
+          "mid": 13.33
+        }
+      ]
+    },
+    {
+      "id": 488429,
+      "name": "Redback Shroud",
+      "number": "OUT011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488429_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488429/flesh-and-blood-tcg-outsiders-redback-shroud",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 15.17,
+          "low": 24,
+          "mid": 44.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.95,
+          "low": 5.55,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 488430,
+      "name": "Premeditate",
+      "number": "OUT188",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488430/flesh-and-blood-tcg-outsiders-premeditate",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 15.72,
+          "low": 15.72,
+          "mid": 27.08
+        },
+        {
+          "sub": "Normal",
+          "usd": 14.93,
+          "low": 12,
+          "mid": 16.52
+        }
+      ]
+    },
+    {
+      "id": 488431,
+      "name": "Redback Shroud",
+      "label": "Extended Art",
+      "number": "OUT011",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488431/flesh-and-blood-tcg-outsiders-redback-shroud-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 132.84,
+          "low": 123.68,
+          "mid": 131.44
+        }
+      ]
+    },
+    {
+      "id": 488432,
+      "name": "Humble",
+      "label": "Red",
+      "number": "OUT189",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488432/flesh-and-blood-tcg-outsiders-humble-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 6.04,
+          "low": 8,
+          "mid": 9.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 8.2,
+          "low": 6.69,
+          "mid": 8.84
+        }
+      ]
+    },
+    {
+      "id": 488433,
+      "name": "Humble",
+      "label": "Yellow",
+      "number": "OUT190",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488433/flesh-and-blood-tcg-outsiders-humble-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 488434,
+      "name": "Humble",
+      "label": "Blue",
+      "number": "OUT191",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488434/flesh-and-blood-tcg-outsiders-humble-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488435,
+      "name": "Infiltrate",
+      "number": "OUT012",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488435/flesh-and-blood-tcg-outsiders-infiltrate",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.51,
+          "low": 6.18,
+          "mid": 9
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.48,
+          "low": 1,
+          "mid": 2.49
+        }
+      ]
+    },
+    {
+      "id": 488436,
+      "name": "Infectious Host",
+      "label": "Red",
+      "number": "OUT192",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488436/flesh-and-blood-tcg-outsiders-infectious-host-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488437,
+      "name": "Infectious Host",
+      "label": "Yellow",
+      "number": "OUT193",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488437/flesh-and-blood-tcg-outsiders-infectious-host-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488438,
+      "name": "Infectious Host",
+      "label": "Blue",
+      "number": "OUT194",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488438/flesh-and-blood-tcg-outsiders-infectious-host-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.13,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 488439,
+      "name": "One-Two Punch",
+      "label": "Red",
+      "number": "OUT080",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488439/flesh-and-blood-tcg-outsiders-one-two-punch-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488440,
+      "name": "One-Two Punch",
+      "label": "Yellow",
+      "number": "OUT081",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488440/flesh-and-blood-tcg-outsiders-one-two-punch-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488441,
+      "name": "Looking for a Scrap",
+      "label": "Red",
+      "number": "OUT195",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488441/flesh-and-blood-tcg-outsiders-looking-for-a-scrap-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.24,
+          "low": 3.08,
+          "mid": 4.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.34,
+          "low": 0.75,
+          "mid": 1.98
+        }
+      ]
+    },
+    {
+      "id": 488442,
+      "name": "One-Two Punch",
+      "label": "Blue",
+      "number": "OUT082",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488442/flesh-and-blood-tcg-outsiders-one-two-punch-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.12,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488443,
+      "name": "Spreading Plague",
+      "number": "OUT014",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488443/flesh-and-blood-tcg-outsiders-spreading-plague",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8.62,
+          "low": 8.5,
+          "mid": 9.95
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.9,
+          "low": 14.89,
+          "mid": 17.85
+        }
+      ]
+    },
+    {
+      "id": 488444,
+      "name": "Looking for a Scrap",
+      "label": "Yellow",
+      "number": "OUT196",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488444/flesh-and-blood-tcg-outsiders-looking-for-a-scrap-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.13,
+          "mid": 0.6
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488445,
+      "name": "Surging Strike",
+      "label": "Red",
+      "number": "OUT083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488445/flesh-and-blood-tcg-outsiders-surging-strike-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488446,
+      "name": "Surging Strike",
+      "label": "Yellow",
+      "number": "OUT084",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488446_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488446/flesh-and-blood-tcg-outsiders-surging-strike-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488447,
+      "name": "Surging Strike",
+      "label": "Blue",
+      "number": "OUT085",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488447/flesh-and-blood-tcg-outsiders-surging-strike-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488448,
+      "name": "Sneak Attack",
+      "label": "Red",
+      "number": "OUT018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488448_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488448/flesh-and-blood-tcg-outsiders-sneak-attack-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.06,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 488449,
+      "name": "Looking for a Scrap",
+      "label": "Blue",
+      "number": "OUT197",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488449/flesh-and-blood-tcg-outsiders-looking-for-a-scrap-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.66,
+          "low": 0.4,
+          "mid": 1.04
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488450,
+      "name": "Twin Twisters",
+      "label": "Red",
+      "number": "OUT086",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488450/flesh-and-blood-tcg-outsiders-twin-twisters-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488451,
+      "name": "Sneak Attack",
+      "label": "Yellow",
+      "number": "OUT019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488451/flesh-and-blood-tcg-outsiders-sneak-attack-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 488452,
+      "name": "Twin Twisters",
+      "label": "Yellow",
+      "number": "OUT087",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488452/flesh-and-blood-tcg-outsiders-twin-twisters-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488453,
+      "name": "Wreck Havoc",
+      "label": "Red",
+      "number": "OUT198",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488453/flesh-and-blood-tcg-outsiders-wreck-havoc-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.37,
+          "mid": 1.01
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.02,
+          "low": 0.99,
+          "mid": 2.01
+        }
+      ]
+    },
+    {
+      "id": 488454,
+      "name": "Twin Twisters",
+      "label": "Blue",
+      "number": "OUT088",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488454/flesh-and-blood-tcg-outsiders-twin-twisters-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 488455,
+      "name": "Sneak Attack",
+      "label": "Blue",
+      "number": "OUT020",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488455_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488455/flesh-and-blood-tcg-outsiders-sneak-attack-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 488456,
+      "name": "Wreck Havoc",
+      "label": "Yellow",
+      "number": "OUT199",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488456/flesh-and-blood-tcg-outsiders-wreck-havoc-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.15,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488457,
+      "name": "Azalea, Ace in the Hole",
+      "number": "OUT089",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488457/flesh-and-blood-tcg-outsiders-azalea-ace-in-the-hole",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488458,
+      "name": "Wreck Havoc",
+      "label": "Blue",
+      "number": "OUT200",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488458/flesh-and-blood-tcg-outsiders-wreck-havoc-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 488459,
+      "name": "Azalea",
+      "number": "OUT090",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488459/flesh-and-blood-tcg-outsiders-azalea",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 488460,
+      "name": "Spike with Bloodrot",
+      "label": "Red",
+      "number": "OUT021",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488460/flesh-and-blood-tcg-outsiders-spike-with-bloodrot-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.64,
+          "low": 0.44,
+          "mid": 0.64
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488461,
+      "name": "Riptide, Lurker of the Deep",
+      "number": "OUT091",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488461/flesh-and-blood-tcg-outsiders-riptide-lurker-of-the-deep",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488462,
+      "name": "Riptide",
+      "number": "OUT092",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488462/flesh-and-blood-tcg-outsiders-riptide",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488463,
+      "name": "Malign",
+      "label": "Red",
+      "number": "OUT030",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488463_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488463/flesh-and-blood-tcg-outsiders-malign-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488464,
+      "name": "Barbed Castaway",
+      "number": "OUT093",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488464/flesh-and-blood-tcg-outsiders-barbed-castaway",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 488465,
+      "name": "Malign",
+      "label": "Yellow",
+      "number": "OUT031",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488465/flesh-and-blood-tcg-outsiders-malign-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488466,
+      "name": "Trench of Sunken Treasure",
+      "number": "OUT094",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488466/flesh-and-blood-tcg-outsiders-trench-of-sunken-treasure",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 34.4,
+          "low": 30.2,
+          "mid": 39.29
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 31.9,
+          "low": 25.55,
+          "mid": 67.5
+        }
+      ]
+    },
+    {
+      "id": 488467,
+      "name": "Malign",
+      "label": "Blue",
+      "number": "OUT032",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488467/flesh-and-blood-tcg-outsiders-malign-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488468,
+      "name": "Trench of Sunken Treasure",
+      "label": "Extended Art",
+      "number": "OUT094",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488468/flesh-and-blood-tcg-outsiders-trench-of-sunken-treasure-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 139.84,
+          "low": 145.65,
+          "mid": 157.49
+        }
+      ]
+    },
+    {
+      "id": 488469,
+      "name": "Cut Down to Size",
+      "label": "Red",
+      "number": "OUT201",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488469/flesh-and-blood-tcg-outsiders-cut-down-to-size-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.46,
+          "low": 0.1,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 488470,
+      "name": "Quiver of Abyssal Depths",
+      "number": "OUT095",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488470/flesh-and-blood-tcg-outsiders-quiver-of-abyssal-depths",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 15.48,
+          "low": 13,
+          "mid": 17.8
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 20.5,
+          "low": 32.28,
+          "mid": 48.62
+        }
+      ]
+    },
+    {
+      "id": 488471,
+      "name": "Prowl",
+      "label": "Red",
+      "number": "OUT033",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488471/flesh-and-blood-tcg-outsiders-prowl-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488472,
+      "name": "Cut Down to Size",
+      "label": "Yellow",
+      "number": "OUT202",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488472/flesh-and-blood-tcg-outsiders-cut-down-to-size-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488473,
+      "name": "Prowl",
+      "label": "Yellow",
+      "number": "OUT034",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488473/flesh-and-blood-tcg-outsiders-prowl-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 488474,
+      "name": "Cut Down to Size",
+      "label": "Blue",
+      "number": "OUT203",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488474/flesh-and-blood-tcg-outsiders-cut-down-to-size-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488475,
+      "name": "Prowl",
+      "label": "Blue",
+      "number": "OUT035",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488475/flesh-and-blood-tcg-outsiders-prowl-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 488476,
+      "name": "Destructive Deliberation",
+      "label": "Red",
+      "number": "OUT204",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488476/flesh-and-blood-tcg-outsiders-destructive-deliberation-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488477,
+      "name": "Razor's Edge",
+      "label": "Red",
+      "number": "OUT042",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488477/flesh-and-blood-tcg-outsiders-razors-edge-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.48,
+          "low": 0.89,
+          "mid": 1.52
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488478,
+      "name": "Destructive Deliberation",
+      "label": "Yellow",
+      "number": "OUT205",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488478/flesh-and-blood-tcg-outsiders-destructive-deliberation-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.02,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488479,
+      "name": "Razor's Edge",
+      "label": "Yellow",
+      "number": "OUT043",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488479/flesh-and-blood-tcg-outsiders-razors-edge-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.08,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488480,
+      "name": "Razor's Edge",
+      "label": "Blue",
+      "number": "OUT044",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488480/flesh-and-blood-tcg-outsiders-razors-edge-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488481,
+      "name": "Crow's Nest",
+      "number": "OUT097",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488481/flesh-and-blood-tcg-outsiders-crows-nest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.13,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 488482,
+      "name": "Destructive Deliberation",
+      "label": "Blue",
+      "number": "OUT206",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488482/flesh-and-blood-tcg-outsiders-destructive-deliberation-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 488483,
+      "name": "Driftwood Quiver",
+      "number": "OUT098",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488483/flesh-and-blood-tcg-outsiders-driftwood-quiver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.12,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 488484,
+      "name": "Katsu, the Wanderer",
+      "number": "OUT045",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488484/flesh-and-blood-tcg-outsiders-katsu-the-wanderer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488485,
+      "name": "Feisty Locals",
+      "label": "Red",
+      "number": "OUT207",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488485/flesh-and-blood-tcg-outsiders-feisty-locals-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488486,
+      "name": "Feisty Locals",
+      "label": "Yellow",
+      "number": "OUT208",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488486/flesh-and-blood-tcg-outsiders-feisty-locals-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488487,
+      "name": "Katsu",
+      "number": "OUT046",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488487/flesh-and-blood-tcg-outsiders-katsu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.09,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 488488,
+      "name": "Feisty Locals",
+      "label": "Blue",
+      "number": "OUT209",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488488/flesh-and-blood-tcg-outsiders-feisty-locals-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.02,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488489,
+      "name": "Wayfinder's Crest",
+      "number": "OUT099",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488489/flesh-and-blood-tcg-outsiders-wayfinders-crest",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.24,
+          "mid": 0.75
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488490,
+      "name": "Freewheeling Renegades",
+      "label": "Red",
+      "number": "OUT210",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488490/flesh-and-blood-tcg-outsiders-freewheeling-renegades-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.07,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 488491,
+      "name": "Benji, the Piercing Wind",
+      "number": "OUT047",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488491/flesh-and-blood-tcg-outsiders-benji-the-piercing-wind",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 488492,
+      "name": "Amplifying Arrow",
+      "number": "OUT100",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488492/flesh-and-blood-tcg-outsiders-amplifying-arrow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.02,
+          "low": 1.92,
+          "mid": 5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.32,
+          "low": 3.95,
+          "mid": 13.66
+        }
+      ]
+    },
+    {
+      "id": 488493,
+      "name": "Freewheeling Renegades",
+      "label": "Yellow",
+      "number": "OUT211",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488493/flesh-and-blood-tcg-outsiders-freewheeling-renegades-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488494,
+      "name": "Harmonized Kodachi",
+      "number": "OUT048",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488494/flesh-and-blood-tcg-outsiders-harmonized-kodachi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.51,
+          "low": 1.2,
+          "mid": 1.51
+        }
+      ]
+    },
+    {
+      "id": 488495,
+      "name": "Barbed Undertow",
+      "number": "OUT101",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488495/flesh-and-blood-tcg-outsiders-barbed-undertow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.92,
+          "low": 0.41,
+          "mid": 1.14
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.97,
+          "low": 0.85,
+          "mid": 2.75
+        }
+      ]
+    },
+    {
+      "id": 488496,
+      "name": "Freewheeling Renegades",
+      "label": "Blue",
+      "number": "OUT212",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488496/flesh-and-blood-tcg-outsiders-freewheeling-renegades-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488497,
+      "name": "Buzzsaw Trap",
+      "number": "OUT102",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488497/flesh-and-blood-tcg-outsiders-buzzsaw-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.84,
+          "low": 1,
+          "mid": 2.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.66,
+          "low": 3.5,
+          "mid": 5.49
+        }
+      ]
+    },
+    {
+      "id": 488498,
+      "name": "Mask of Many Faces",
+      "number": "OUT049",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488498/flesh-and-blood-tcg-outsiders-mask-of-many-faces",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 4.06,
+          "low": 3.45,
+          "mid": 3.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.12,
+          "mid": 0.41
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.08,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488499,
+      "name": "Ravenous Rabble",
+      "label": "Red",
+      "number": "OUT213",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488499/flesh-and-blood-tcg-outsiders-ravenous-rabble-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488500,
+      "name": "Ravenous Rabble",
+      "label": "Yellow",
+      "number": "OUT214",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488500/flesh-and-blood-tcg-outsiders-ravenous-rabble-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488501,
+      "name": "Ravenous Rabble",
+      "label": "Blue",
+      "number": "OUT215",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488501/flesh-and-blood-tcg-outsiders-ravenous-rabble-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488502,
+      "name": "Spike Pit Trap",
+      "number": "OUT104",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488502_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488502/flesh-and-blood-tcg-outsiders-spike-pit-trap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.47,
+          "low": 0.88,
+          "mid": 1.6
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.47,
+          "low": 3,
+          "mid": 5.99
+        }
+      ]
+    },
+    {
+      "id": 488503,
+      "name": "Cyclone Roundhouse",
+      "number": "OUT050",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488503/flesh-and-blood-tcg-outsiders-cyclone-roundhouse",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.15,
+          "mid": 0.72
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.85,
+          "low": 0.39,
+          "mid": 1.18
+        }
+      ]
+    },
+    {
+      "id": 488504,
+      "name": "Melting Point",
+      "number": "OUT105",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488504/flesh-and-blood-tcg-outsiders-melting-point",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.65,
+          "low": 0.5,
+          "mid": 5.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.89,
+          "low": 2.02,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 488505,
+      "name": "Seek Horizon",
+      "label": "Red",
+      "number": "OUT216",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488505/flesh-and-blood-tcg-outsiders-seek-horizon-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488506,
+      "name": "Boulder Trap",
+      "label": "Yellow",
+      "number": "OUT106",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488506/flesh-and-blood-tcg-outsiders-boulder-trap-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.6,
+          "low": 0.31,
+          "mid": 0.56
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.09,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 488507,
+      "name": "Wander With Purpose",
+      "number": "OUT053",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488507/flesh-and-blood-tcg-outsiders-wander-with-purpose",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.69,
+          "low": 0.55,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.15,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 488508,
+      "name": "Pendulum Trap",
+      "label": "Yellow",
+      "number": "OUT107",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488508/flesh-and-blood-tcg-outsiders-pendulum-trap-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.13,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488509,
+      "name": "Tarpit Trap",
+      "label": "Yellow",
+      "number": "OUT108",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488509/flesh-and-blood-tcg-outsiders-tarpit-trap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.19,
+          "low": 0.93,
+          "mid": 1.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.51,
+          "low": 1.34,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 488510,
+      "name": "Seek Horizon",
+      "label": "Yellow",
+      "number": "OUT217",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488510/flesh-and-blood-tcg-outsiders-seek-horizon-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488511,
+      "name": "Silverwind Shuriken",
+      "number": "OUT054",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488511/flesh-and-blood-tcg-outsiders-silverwind-shuriken",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.64,
+          "low": 1.87,
+          "mid": 2.8
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.28,
+          "low": 3.28,
+          "mid": 5
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 24.79,
+          "low": 34.99,
+          "mid": 43.33
+        }
+      ]
+    },
+    {
+      "id": 488512,
+      "name": "Fletch a Red Tail",
+      "label": "Red",
+      "number": "OUT109",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488512/flesh-and-blood-tcg-outsiders-fletch-a-red-tail-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.12,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 488513,
+      "name": "Fletch a Yellow Tail",
+      "label": "Yellow",
+      "number": "OUT110",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488513_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488513/flesh-and-blood-tcg-outsiders-fletch-a-yellow-tail-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488514,
+      "name": "Seek Horizon",
+      "label": "Blue",
+      "number": "OUT218",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488514_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488514/flesh-and-blood-tcg-outsiders-seek-horizon-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.03,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488515,
+      "name": "Fletch a Blue Tail",
+      "label": "Blue",
+      "number": "OUT111",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488515_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488515/flesh-and-blood-tcg-outsiders-fletch-a-blue-tail-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 488516,
+      "name": "Spring Load",
+      "label": "Red",
+      "number": "OUT219",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488516_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488516/flesh-and-blood-tcg-outsiders-spring-load-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.03,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 488517,
+      "name": "Lace with Bloodrot",
+      "label": "Red",
+      "number": "OUT112",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488517/flesh-and-blood-tcg-outsiders-lace-with-bloodrot-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.83,
+          "low": 3.69,
+          "mid": 5
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.42,
+          "low": 1.25,
+          "mid": 1.65
+        }
+      ]
+    },
+    {
+      "id": 488518,
+      "name": "Visit the Floating Dojo",
+      "number": "OUT055",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488518_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488518/flesh-and-blood-tcg-outsiders-visit-the-floating-dojo",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.16,
+          "low": 0.75,
+          "mid": 1.56
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 488519,
+      "name": "Lace with Frailty",
+      "label": "Red",
+      "number": "OUT113",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488519_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488519/flesh-and-blood-tcg-outsiders-lace-with-frailty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.41
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.23,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 488520,
+      "name": "Lace with Inertia",
+      "label": "Red",
+      "number": "OUT114",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488520/flesh-and-blood-tcg-outsiders-lace-with-inertia-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.23,
+          "mid": 0.4
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 488521,
+      "name": "Spring Load",
+      "label": "Yellow",
+      "number": "OUT220",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488521/flesh-and-blood-tcg-outsiders-spring-load-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488522,
+      "name": "Falcon Wing",
+      "label": "Red",
+      "number": "OUT115",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488522_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488522/flesh-and-blood-tcg-outsiders-falcon-wing-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.08,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.09,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488523,
+      "name": "Spring Load",
+      "label": "Blue",
+      "number": "OUT221",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488523/flesh-and-blood-tcg-outsiders-spring-load-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488524,
+      "name": "Falcon Wing",
+      "label": "Yellow",
+      "number": "OUT116",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488524/flesh-and-blood-tcg-outsiders-falcon-wing-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.04,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488525,
+      "name": "Falcon Wing",
+      "label": "Blue",
+      "number": "OUT117",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488525/flesh-and-blood-tcg-outsiders-falcon-wing-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488526,
+      "name": "Come to Fight",
+      "label": "Red",
+      "number": "OUT222",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488526/flesh-and-blood-tcg-outsiders-come-to-fight-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.04,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 488527,
+      "name": "Infecting Shot",
+      "label": "Red",
+      "number": "OUT118",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488527/flesh-and-blood-tcg-outsiders-infecting-shot-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.96,
+          "low": 0.53,
+          "mid": 1.02
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.09,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 488528,
+      "name": "Infecting Shot",
+      "label": "Yellow",
+      "number": "OUT119",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488528/flesh-and-blood-tcg-outsiders-infecting-shot-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.06,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488529,
+      "name": "Come to Fight",
+      "label": "Yellow",
+      "number": "OUT223",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488529/flesh-and-blood-tcg-outsiders-come-to-fight-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 488530,
+      "name": "Infecting Shot",
+      "label": "Blue",
+      "number": "OUT120",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488530/flesh-and-blood-tcg-outsiders-infecting-shot-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.09,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.29,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 488531,
+      "name": "Come to Fight",
+      "label": "Blue",
+      "number": "OUT224",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488531/flesh-and-blood-tcg-outsiders-come-to-fight-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.03,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488532,
+      "name": "Scout the Periphery",
+      "label": "Red",
+      "number": "OUT225",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488532/flesh-and-blood-tcg-outsiders-scout-the-periphery-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 488533,
+      "name": "Scout the Periphery",
+      "label": "Yellow",
+      "number": "OUT226",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488533/flesh-and-blood-tcg-outsiders-scout-the-periphery-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.02,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 488534,
+      "name": "Scout the Periphery",
+      "label": "Blue",
+      "number": "OUT227",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488534/flesh-and-blood-tcg-outsiders-scout-the-periphery-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488535,
+      "name": "Brush Off",
+      "label": "Red",
+      "number": "OUT228",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488535/flesh-and-blood-tcg-outsiders-brush-off-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488536,
+      "name": "Brush Off",
+      "label": "Yellow",
+      "number": "OUT229",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488536/flesh-and-blood-tcg-outsiders-brush-off-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 488537,
+      "name": "Brush Off",
+      "label": "Blue",
+      "number": "OUT230",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488537/flesh-and-blood-tcg-outsiders-brush-off-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 488538,
+      "name": "Bloodrot Pox",
+      "number": "OUT234",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488538/flesh-and-blood-tcg-outsiders-bloodrot-pox",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.16,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 488539,
+      "name": "Frailty",
+      "number": "OUT235",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488539/flesh-and-blood-tcg-outsiders-frailty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.17,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 488540,
+      "name": "Inertia",
+      "number": "OUT236",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488540/flesh-and-blood-tcg-outsiders-inertia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 488541,
+      "name": "Ponder",
+      "number": "OUT237",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488541/flesh-and-blood-tcg-outsiders-ponder",
+      "prices": []
+    },
+    {
+      "id": 488542,
+      "name": "Cracked Bauble",
+      "number": "OUT238",
+      "rarity": "Token",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/488542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/488542/flesh-and-blood-tcg-outsiders-cracked-bauble",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501729,
+      "name": "Barbed Castaway // Harmonized Kodachi",
+      "number": "OUT093 // OUT048",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501729/flesh-and-blood-tcg-outsiders-barbed-castaway-harmonized-kodachi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.02,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 501730,
+      "name": "Bloodrot Pox // Harmonized Kodachi",
+      "number": "OUT234 // OUT048",
+      "rarity": "Token",
+      "type": "Token;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501730/flesh-and-blood-tcg-outsiders-bloodrot-pox-harmonized-kodachi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501731,
+      "name": "Uzuri, Switchblade // Ponder",
+      "number": "OUT001 // OUT237",
+      "rarity": "Token",
+      "type": "Hero;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501731/flesh-and-blood-tcg-outsiders-uzuri-switchblade-ponder",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.11,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 501732,
+      "name": "Katsu, the Wanderer // Ponder",
+      "number": "OUT045 // OUT237",
+      "rarity": "Token",
+      "type": "Hero;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501732/flesh-and-blood-tcg-outsiders-katsu-the-wanderer-ponder",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 501733,
+      "name": "Azalea, Ace in the Hole // Ponder",
+      "number": "OUT089 // OUT237",
+      "rarity": "Token",
+      "type": "Hero;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501733/flesh-and-blood-tcg-outsiders-azalea-ace-in-the-hole-ponder",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 501735,
+      "name": "Inertia // Spider's Bite",
+      "number": "OUT236 // OUT004",
+      "rarity": "Token",
+      "type": "Token;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501735/flesh-and-blood-tcg-outsiders-inertia-spiders-bite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501737,
+      "name": "Frailty // Spider's Bite",
+      "number": "OUT235 // OUT004",
+      "rarity": "Token",
+      "type": "Token;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501737/flesh-and-blood-tcg-outsiders-frailty-spiders-bite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501738,
+      "name": "Arakni, Solitary Confinement // Uzuri",
+      "number": "OUT003 // OUT002",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501738/flesh-and-blood-tcg-outsiders-arakni-solitary-confinement-uzuri",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501739,
+      "name": "Azalea // Riptide",
+      "number": "OUT090 // OUT092",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501739/flesh-and-blood-tcg-outsiders-azalea-riptide",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501740,
+      "name": "Crow's Nest // Driftwood Quiver",
+      "number": "OUT097 // OUT098",
+      "rarity": "Token",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501740/flesh-and-blood-tcg-outsiders-crows-nest-driftwood-quiver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 501741,
+      "name": "Katsu // Benji, the Piercing Wind",
+      "number": "OUT046 // OUT047",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/501741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/501741/flesh-and-blood-tcg-outsiders-katsu-benji-the-piercing-wind",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

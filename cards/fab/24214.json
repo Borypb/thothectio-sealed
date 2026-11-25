@@ -1,0 +1,541 @@
+{
+  "groupId": 24214,
+  "cards": [
+    {
+      "id": 618008,
+      "name": "Arakni, Web of Deceit",
+      "number": "WOD001",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618008_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618008/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-arakni-web-of-deceit",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.71,
+          "low": 5.41,
+          "mid": 5.94
+        }
+      ]
+    },
+    {
+      "id": 618010,
+      "name": "Mark of the Huntsman",
+      "number": "WOD002",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618010/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-mark-of-the-huntsman",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.11,
+          "low": 1.29,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 618012,
+      "name": "Leap Frog Vocal Sac",
+      "number": "WOD003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618012/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-leap-frog-vocal-sac",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618015,
+      "name": "Red Alert Vest",
+      "number": "WOD004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618015/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-red-alert-vest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 618016,
+      "name": "Danger Digits",
+      "number": "WOD005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618016_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618016/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-danger-digits",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43,
+          "low": 0.24,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 618025,
+      "name": "Starting Point",
+      "number": "WOD006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618025_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618025/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-starting-point",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58,
+          "low": 0.31,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 618029,
+      "name": "Back Stab",
+      "label": "Red",
+      "number": "WOD007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618029_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618029/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-back-stab-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.24,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 618031,
+      "name": "Bite",
+      "label": "Red",
+      "number": "WOD008",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618031_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618031/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-bite-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.29,
+          "mid": 0.61
+        }
+      ]
+    },
+    {
+      "id": 618032,
+      "name": "Mark of the Black Widow",
+      "label": "Red",
+      "number": "WOD009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618032_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618032/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-mark-of-the-black-widow-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.12,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618034,
+      "name": "Mark of the Funnel Web",
+      "label": "Red",
+      "number": "WOD010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618034_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618034/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-mark-of-the-funnel-web-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.24,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 618036,
+      "name": "Reaper's Call",
+      "label": "Red · Extended Art",
+      "number": "WOD011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618036_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618036/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-reapers-call-red-extended-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.88,
+          "low": 0.49,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 618039,
+      "name": "Tip-Off",
+      "label": "Red",
+      "number": "WOD012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618039_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618039/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-tip-off-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618041,
+      "name": "Razor's Edge",
+      "label": "Red",
+      "number": "WOD013",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618041_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618041/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-razors-edge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618043,
+      "name": "Scar Tissue",
+      "label": "Red",
+      "number": "WOD014",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618043_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618043/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-scar-tissue-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618045,
+      "name": "Two Sides to the Blade",
+      "number": "WOD015",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618045_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618045/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-two-sides-to-the-blade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.54,
+          "low": 0.24,
+          "mid": 0.54
+        }
+      ]
+    },
+    {
+      "id": 618048,
+      "name": "Den of the Spider",
+      "label": "Red",
+      "number": "WOD016",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618048_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618048/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-den-of-the-spider-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618073,
+      "name": "Lair of the Spider",
+      "label": "Red",
+      "number": "WOD017",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618073_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618073/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-lair-of-the-spider-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.24,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618075,
+      "name": "Orb-Weaver Spinneret",
+      "label": "Red",
+      "number": "WOD018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618075_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618075/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-orb-weaver-spinneret-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99,
+          "low": 3.49,
+          "mid": 4.49
+        }
+      ]
+    },
+    {
+      "id": 618077,
+      "name": "Reaper's Call",
+      "label": "Yellow · Extended Art",
+      "number": "WOD019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618077_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618077/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-reapers-call-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.39,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 618078,
+      "name": "Mark of the Black Widow",
+      "label": "Blue",
+      "number": "WOD020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618078_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618078/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-mark-of-the-black-widow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.3,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618079,
+      "name": "Mark of the Funnel Web",
+      "label": "Blue",
+      "number": "WOD021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618079_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618079/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-mark-of-the-funnel-web-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.07,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 618080,
+      "name": "Reaper's Call",
+      "label": "Blue · Extended Art",
+      "number": "WOD022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618080_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618080/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-reapers-call-blue-extended-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.45,
+          "low": 3.99,
+          "mid": 4.98
+        }
+      ]
+    },
+    {
+      "id": 618081,
+      "name": "Whittle from Bone",
+      "label": "Blue",
+      "number": "WOD023",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618081_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618081/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-whittle-from-bone-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78,
+          "low": 0.5,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 618082,
+      "name": "Stains of the Redback",
+      "label": "Blue",
+      "number": "WOD024",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618082_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618082/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-stains-of-the-redback-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75,
+          "low": 0.24,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 618083,
+      "name": "Take a Stab",
+      "label": "Blue",
+      "number": "WOD025",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618083_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618083/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-take-a-stab-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.09,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 618084,
+      "name": "Up Sticks and Run",
+      "label": "Blue",
+      "number": "WOD026",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618084_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618084/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-up-sticks-and-run-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.69,
+          "low": 0.29,
+          "mid": 0.73
+        }
+      ]
+    },
+    {
+      "id": 618085,
+      "name": "Arakni, Black Widow // Arakni, Funnel Web",
+      "number": "WOD027//WOD028",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618085_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618085/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-arakni-black-widow-arakni-funnel-web",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 10.78,
+          "low": 0.35,
+          "mid": 10.78
+        }
+      ]
+    },
+    {
+      "id": 618086,
+      "name": "Arakni, Orb-Weaver // Arakni, Redback",
+      "number": "WOD029//WOD030",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618086_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618086/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-arakni-orb-weaver-arakni-redback",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.58,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 618088,
+      "name": "Arakni, Tarantula // Arakni, Trap-Door",
+      "number": "WOD031//WOD032",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618088_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618088/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-arakni-tarantula-arakni-trap-door",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.58,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 618092,
+      "name": "Graphene Chelicera",
+      "number": "WOD033",
+      "rarity": "Token",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/618092_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/618092/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-graphene-chelicera",
+      "prices": []
+    },
+    {
+      "id": 665018,
+      "name": "Marked",
+      "number": "WOD034",
+      "rarity": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/665018_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/665018/flesh-and-blood-tcg-blitz-deck-the-hunted-arakni-web-of-deceit-marked",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 8,
+          "low": 7.99,
+          "mid": 27.97
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

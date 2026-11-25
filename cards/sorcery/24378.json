@@ -1,0 +1,435 @@
+{
+  "groupId": 24378,
+  "cards": [
+    {
+      "id": 642081,
+      "name": "Caelestis",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/642081_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/642081/sorcery-contested-realm-dragonlord-caelestis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 17.1,
+          "low": 8.68,
+          "mid": 17
+        }
+      ]
+    },
+    {
+      "id": 645185,
+      "name": "Talamh Dreig",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/645185/sorcery-contested-realm-dragonlord-talamh-dreig",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 35.44,
+          "low": 28.33,
+          "mid": 36.15
+        }
+      ]
+    },
+    {
+      "id": 647342,
+      "name": "Dragonlord",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647342/sorcery-contested-realm-dragonlord-dragonlord-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 994.99,
+          "low": 999,
+          "mid": 999.49
+        }
+      ]
+    },
+    {
+      "id": 647343,
+      "name": "Kairos the Archivist",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647343/sorcery-contested-realm-dragonlord-kairos-the-archivist",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12.27,
+          "low": 8.77,
+          "mid": 10.99
+        }
+      ]
+    },
+    {
+      "id": 647344,
+      "name": "Kairos the Archivist",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647344/sorcery-contested-realm-dragonlord-kairos-the-archivist-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 186.24,
+          "low": 250,
+          "mid": 300
+        }
+      ]
+    },
+    {
+      "id": 647345,
+      "name": "Caelestis",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647345/sorcery-contested-realm-dragonlord-caelestis-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 157.22,
+          "low": 159.99,
+          "mid": 184.98
+        }
+      ]
+    },
+    {
+      "id": 647346,
+      "name": "Xeraphine Konrul",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647346/sorcery-contested-realm-dragonlord-xeraphine-konrul",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 14.88,
+          "low": 14.8,
+          "mid": 19.38
+        }
+      ]
+    },
+    {
+      "id": 647347,
+      "name": "Xeraphine Konrul",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647347/sorcery-contested-realm-dragonlord-xeraphine-konrul-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 156.66,
+          "low": 228.96,
+          "mid": 228.96
+        }
+      ]
+    },
+    {
+      "id": 647348,
+      "name": "Draco Corvus",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647348/sorcery-contested-realm-dragonlord-draco-corvus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 14.08,
+          "low": 12.2,
+          "mid": 14.25
+        }
+      ]
+    },
+    {
+      "id": 647349,
+      "name": "Draco Corvus",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647349/sorcery-contested-realm-dragonlord-draco-corvus-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 137.13,
+          "low": 299.99,
+          "mid": 299.99
+        }
+      ]
+    },
+    {
+      "id": 647350,
+      "name": "Moonsong Talagelum",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647350/sorcery-contested-realm-dragonlord-moonsong-talagelum",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 43.68,
+          "low": 28.33,
+          "mid": 35.37
+        }
+      ]
+    },
+    {
+      "id": 647351,
+      "name": "Moonsong Talagelum",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647351/sorcery-contested-realm-dragonlord-moonsong-talagelum-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 279.85,
+          "low": 255,
+          "mid": 270
+        }
+      ]
+    },
+    {
+      "id": 647352,
+      "name": "Adtonitum",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647352/sorcery-contested-realm-dragonlord-adtonitum",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 34.52,
+          "low": 23.66,
+          "mid": 33.95
+        }
+      ]
+    },
+    {
+      "id": 647353,
+      "name": "Adtonitum",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647353/sorcery-contested-realm-dragonlord-adtonitum-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 191.75,
+          "low": 196,
+          "mid": 197.99
+        }
+      ]
+    },
+    {
+      "id": 647354,
+      "name": "Talamh Dreig",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647354/sorcery-contested-realm-dragonlord-talamh-dreig-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 249.98,
+          "low": 220,
+          "mid": 249.98
+        }
+      ]
+    },
+    {
+      "id": 647355,
+      "name": "Ignis Rex",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647355/sorcery-contested-realm-dragonlord-ignis-rex",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 17.17,
+          "low": 15.56,
+          "mid": 18.03
+        }
+      ]
+    },
+    {
+      "id": 647356,
+      "name": "Ignis Rex",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647356/sorcery-contested-realm-dragonlord-ignis-rex-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 221.56,
+          "low": 196.18,
+          "mid": 220.63
+        }
+      ]
+    },
+    {
+      "id": 647357,
+      "name": "Vatn Draconis",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647357/sorcery-contested-realm-dragonlord-vatn-draconis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 37.59,
+          "low": 28.68,
+          "mid": 38.51
+        }
+      ]
+    },
+    {
+      "id": 647358,
+      "name": "Vatn Draconis",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647358/sorcery-contested-realm-dragonlord-vatn-draconis-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 240,
+          "low": 185,
+          "mid": 234.48
+        }
+      ]
+    },
+    {
+      "id": 647359,
+      "name": "Cradle of Etherrum",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647359/sorcery-contested-realm-dragonlord-cradle-of-etherrum",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12.55,
+          "low": 8.77,
+          "mid": 16.49
+        }
+      ]
+    },
+    {
+      "id": 647360,
+      "name": "Cradle of Etherrum",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647360/sorcery-contested-realm-dragonlord-cradle-of-etherrum-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 160.72,
+          "low": 199.99,
+          "mid": 249.99
+        }
+      ]
+    },
+    {
+      "id": 647361,
+      "name": "Shrine of the Dragonlord",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647361/sorcery-contested-realm-dragonlord-shrine-of-the-dragonlord",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 79.27,
+          "low": 63.5,
+          "mid": 81.04
+        }
+      ]
+    },
+    {
+      "id": 647362,
+      "name": "Shrine of the Dragonlord",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647362/sorcery-contested-realm-dragonlord-shrine-of-the-dragonlord-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 398.96,
+          "low": 344.99,
+          "mid": 398.96
+        }
+      ]
+    },
+    {
+      "id": 647363,
+      "name": "Dragonlord's Lair",
+      "rarity": "Unique",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647363/sorcery-contested-realm-dragonlord-dragonlords-lair",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12.23,
+          "low": 8.77,
+          "mid": 12.2
+        }
+      ]
+    },
+    {
+      "id": 647364,
+      "name": "Dragonlord's Lair",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647364/sorcery-contested-realm-dragonlord-dragonlords-lair-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 257.33,
+          "low": 270,
+          "mid": 270.95
+        }
+      ]
+    },
+    {
+      "id": 647365,
+      "name": "Dragonlord",
+      "rarity": "Unique",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647365/sorcery-contested-realm-dragonlord-dragonlord",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 51.67,
+          "low": 43.77,
+          "mid": 66.88
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

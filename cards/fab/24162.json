@@ -1,0 +1,516 @@
+{
+  "groupId": 24162,
+  "cards": [
+    {
+      "id": 620605,
+      "name": "Aurora, Shooting Star",
+      "number": "AST001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620605/flesh-and-blood-tcg-armory-deck-aurora-aurora-shooting-star",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 620606,
+      "name": "Star Fall",
+      "number": "AST002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620606/flesh-and-blood-tcg-armory-deck-aurora-star-fall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34,
+          "low": 0.25,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 620607,
+      "name": "Cap of Quick Thinking",
+      "number": "AST003",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620607/flesh-and-blood-tcg-armory-deck-aurora-cap-of-quick-thinking",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 18.34,
+          "low": 9,
+          "mid": 14.7
+        }
+      ]
+    },
+    {
+      "id": 620608,
+      "name": "Shock Frock",
+      "number": "AST004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620608/flesh-and-blood-tcg-armory-deck-aurora-shock-frock",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.92,
+          "low": 0.29,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 620609,
+      "name": "Zap Clappers",
+      "number": "AST005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620609/flesh-and-blood-tcg-armory-deck-aurora-zap-clappers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.72,
+          "low": 0.3,
+          "mid": 0.92
+        }
+      ]
+    },
+    {
+      "id": 620610,
+      "name": "Starlight Striders",
+      "number": "AST006",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620610/flesh-and-blood-tcg-armory-deck-aurora-starlight-striders",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.3,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 620611,
+      "name": "Arcanic Crackle",
+      "label": "Red",
+      "number": "AST007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620611/flesh-and-blood-tcg-armory-deck-aurora-arcanic-crackle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.08,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 620632,
+      "name": "Arcanic Shockwave",
+      "label": "Red",
+      "number": "AST008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620632/flesh-and-blood-tcg-armory-deck-aurora-arcanic-shockwave-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 620634,
+      "name": "Entwine Lightning",
+      "label": "Red",
+      "number": "AST009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620634/flesh-and-blood-tcg-armory-deck-aurora-entwine-lightning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 620635,
+      "name": "Flittering Charge",
+      "label": "Red",
+      "number": "AST010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620635/flesh-and-blood-tcg-armory-deck-aurora-flittering-charge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 620636,
+      "name": "Lightning Surge",
+      "label": "Red",
+      "number": "AST011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620636/flesh-and-blood-tcg-armory-deck-aurora-lightning-surge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 620637,
+      "name": "Photon Rush",
+      "label": "Red",
+      "number": "AST012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620637/flesh-and-blood-tcg-armory-deck-aurora-photon-rush-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.2,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 620657,
+      "name": "Skyzyk",
+      "number": "AST013",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620657/flesh-and-blood-tcg-armory-deck-aurora-skyzyk",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 12.57,
+          "low": 12.57,
+          "mid": 16.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 12.69,
+          "low": 11.92,
+          "mid": 13.95
+        }
+      ]
+    },
+    {
+      "id": 620659,
+      "name": "Snatch",
+      "label": "Red",
+      "number": "AST014",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620659/flesh-and-blood-tcg-armory-deck-aurora-snatch-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.18,
+          "low": 0.8,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 620660,
+      "name": "Spark Spray",
+      "label": "Red",
+      "number": "AST015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620660/flesh-and-blood-tcg-armory-deck-aurora-spark-spray-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.88,
+          "low": 0.65,
+          "mid": 0.82
+        }
+      ]
+    },
+    {
+      "id": 620670,
+      "name": "Static Shock",
+      "label": "Red",
+      "number": "AST016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620670/flesh-and-blood-tcg-armory-deck-aurora-static-shock-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.31,
+          "low": 1.44,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 620672,
+      "name": "Burn Up // Shock",
+      "number": "AST017",
+      "rarity": "Rare",
+      "type": "Action;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620672/flesh-and-blood-tcg-armory-deck-aurora-burn-up-shock",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 620675,
+      "name": "Sizzle",
+      "label": "Red",
+      "number": "AST018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620675/flesh-and-blood-tcg-armory-deck-aurora-sizzle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.21,
+          "low": 1.49,
+          "mid": 2.88
+        }
+      ]
+    },
+    {
+      "id": 620678,
+      "name": "Electromagnetic Somersault",
+      "label": "Red",
+      "number": "AST019",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620678/flesh-and-blood-tcg-armory-deck-aurora-electromagnetic-somersault-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.25,
+          "mid": 0.85
+        }
+      ]
+    },
+    {
+      "id": 620679,
+      "name": "Electrostatic Discharge",
+      "label": "Red",
+      "number": "AST020",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620679/flesh-and-blood-tcg-armory-deck-aurora-electrostatic-discharge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 620681,
+      "name": "Lightning Press",
+      "label": "Red",
+      "number": "AST021",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620681/flesh-and-blood-tcg-armory-deck-aurora-lightning-press-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.46,
+          "low": 1.99,
+          "mid": 2
+        }
+      ]
+    },
+    {
+      "id": 620682,
+      "name": "Arc Lightning",
+      "number": "AST022",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620682/flesh-and-blood-tcg-armory-deck-aurora-arc-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.97,
+          "low": 1.99,
+          "mid": 2.54
+        }
+      ]
+    },
+    {
+      "id": 620686,
+      "name": "Skyward Serenade",
+      "number": "AST023",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620686/flesh-and-blood-tcg-armory-deck-aurora-skyward-serenade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.64,
+          "low": 2.78,
+          "mid": 5.45
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.27,
+          "low": 3.19,
+          "mid": 6.75
+        }
+      ]
+    },
+    {
+      "id": 620689,
+      "name": "Arcanic Crackle",
+      "label": "Blue",
+      "number": "AST024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620689/flesh-and-blood-tcg-armory-deck-aurora-arcanic-crackle-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 620690,
+      "name": "Heaven's Claws",
+      "label": "Blue",
+      "number": "AST025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620690/flesh-and-blood-tcg-armory-deck-aurora-heavens-claws-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 620693,
+      "name": "Captain's Call",
+      "label": "Blue",
+      "number": "AST026",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620693/flesh-and-blood-tcg-armory-deck-aurora-captains-call-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 620704,
+      "name": "Written in the Stars",
+      "number": "AST027",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620704/flesh-and-blood-tcg-armory-deck-aurora-written-in-the-stars",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.24,
+          "low": 0.74,
+          "mid": 2.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.92,
+          "low": 0.69,
+          "mid": 1.73
+        }
+      ]
+    },
+    {
+      "id": 620705,
+      "name": "Embodiment of Lightning",
+      "number": "AST028",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/620705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/620705/flesh-and-blood-tcg-armory-deck-aurora-embodiment-of-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.25,
+          "mid": 0.4
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

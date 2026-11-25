@@ -1,0 +1,535 @@
+{
+  "groupId": 2818,
+  "cards": [
+    {
+      "id": 238499,
+      "name": "Prism",
+      "number": "PSM001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238499/flesh-and-blood-tcg-blitz-deck-monarch-prism-prism",
+      "prices": [
+        {
+          "sub": "Unlimited Edition Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.15,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 238501,
+      "name": "The Librarian",
+      "number": "PSM002",
+      "rarity": "Majestic",
+      "type": "Mentor",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238501/flesh-and-blood-tcg-blitz-deck-monarch-prism-the-librarian",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44,
+          "low": 0.24,
+          "mid": 0.76
+        }
+      ]
+    },
+    {
+      "id": 238503,
+      "name": "Iris of Reality",
+      "number": "PSM003",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238503/flesh-and-blood-tcg-blitz-deck-monarch-prism-iris-of-reality",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.8,
+          "low": 2.8,
+          "mid": 3.3
+        }
+      ]
+    },
+    {
+      "id": 238504,
+      "name": "Halo of Illumination",
+      "number": "PSM004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238504/flesh-and-blood-tcg-blitz-deck-monarch-prism-halo-of-illumination",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.13,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 238505,
+      "name": "Heartened Cross Strap",
+      "number": "PSM005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238505/flesh-and-blood-tcg-blitz-deck-monarch-prism-heartened-cross-strap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 238506,
+      "name": "Dream Weavers",
+      "number": "PSM006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238506/flesh-and-blood-tcg-blitz-deck-monarch-prism-dream-weavers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 238507,
+      "name": "Spell Fray Leggings",
+      "number": "PSM007",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238507/flesh-and-blood-tcg-blitz-deck-monarch-prism-spell-fray-leggings",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 238508,
+      "name": "Herald of Judgment",
+      "number": "PSM008",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238508/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-judgment",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.25,
+          "mid": 0.72
+        }
+      ]
+    },
+    {
+      "id": 238509,
+      "name": "Herald of Protection",
+      "label": "Red",
+      "number": "PSM009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238509/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-protection-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 238510,
+      "name": "Herald of Ravages",
+      "label": "Red",
+      "number": "PSM010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238510/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-ravages-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.09,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238511,
+      "name": "Herald of Rebirth",
+      "label": "Red",
+      "number": "PSM011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238511/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-rebirth-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238512,
+      "name": "Herald of Tenacity",
+      "label": "Red",
+      "number": "PSM012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238512/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-tenacity-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238513,
+      "name": "Wartune Herald",
+      "label": "Red",
+      "number": "PSM013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238513_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238513/flesh-and-blood-tcg-blitz-deck-monarch-prism-wartune-herald-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.14,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 238514,
+      "name": "Merciful Retribution",
+      "number": "PSM014",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238514_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238514/flesh-and-blood-tcg-blitz-deck-monarch-prism-merciful-retribution",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.44,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 238515,
+      "name": "Ode to Wrath",
+      "number": "PSM015",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238515_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238515/flesh-and-blood-tcg-blitz-deck-monarch-prism-ode-to-wrath",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.2,
+          "mid": 0.53
+        }
+      ]
+    },
+    {
+      "id": 238516,
+      "name": "Herald of Protection",
+      "label": "Blue",
+      "number": "PSM016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238516_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238516/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-protection-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238517,
+      "name": "Herald of Ravages",
+      "label": "Blue",
+      "number": "PSM017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238517/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-ravages-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.14,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238518,
+      "name": "Herald of Rebirth",
+      "label": "Blue",
+      "number": "PSM018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238518_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238518/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-rebirth-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238519,
+      "name": "Herald of Tenacity",
+      "label": "Blue",
+      "number": "PSM019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238519_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238519/flesh-and-blood-tcg-blitz-deck-monarch-prism-herald-of-tenacity-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238520,
+      "name": "Wartune Herald",
+      "label": "Blue",
+      "number": "PSM020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238520/flesh-and-blood-tcg-blitz-deck-monarch-prism-wartune-herald-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 238521,
+      "name": "Illuminate",
+      "label": "Red",
+      "number": "PSM021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238521/flesh-and-blood-tcg-blitz-deck-monarch-prism-illuminate-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238522,
+      "name": "Seek Enlightenment",
+      "label": "Red",
+      "number": "PSM022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238522_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238522/flesh-and-blood-tcg-blitz-deck-monarch-prism-seek-enlightenment-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238523,
+      "name": "Rising Solartide",
+      "label": "Yellow",
+      "number": "PSM023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238523/flesh-and-blood-tcg-blitz-deck-monarch-prism-rising-solartide-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238524,
+      "name": "Illuminate",
+      "label": "Blue",
+      "number": "PSM024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238524/flesh-and-blood-tcg-blitz-deck-monarch-prism-illuminate-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238525,
+      "name": "Phantasmify",
+      "label": "Red",
+      "number": "PSM025",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238525/flesh-and-blood-tcg-blitz-deck-monarch-prism-phantasmify-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.14,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 238526,
+      "name": "Prismatic Shield",
+      "label": "Red",
+      "number": "PSM026",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238526/flesh-and-blood-tcg-blitz-deck-monarch-prism-prismatic-shield-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.48,
+          "low": 0.25,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 238527,
+      "name": "Enigma Chimera",
+      "label": "Yellow",
+      "number": "PSM027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238527/flesh-and-blood-tcg-blitz-deck-monarch-prism-enigma-chimera-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 238528,
+      "name": "Enigma Chimera",
+      "label": "Blue",
+      "number": "PSM028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238528/flesh-and-blood-tcg-blitz-deck-monarch-prism-enigma-chimera-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.14,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 238529,
+      "name": "Spears of Surreality",
+      "label": "Blue",
+      "number": "PSM029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238529/flesh-and-blood-tcg-blitz-deck-monarch-prism-spears-of-surreality-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 238530,
+      "name": "Spectral Shield",
+      "number": "PSM030",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/238530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/238530/flesh-and-blood-tcg-blitz-deck-monarch-prism-spectral-shield",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.14,
+          "mid": 0.24
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

@@ -1,0 +1,538 @@
+{
+  "groupId": 3018,
+  "cards": [
+    {
+      "id": 262530,
+      "name": "Briar",
+      "number": "BRI001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262530/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-briar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.56,
+          "low": 0.25,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 262531,
+      "name": "Embodiment of Lightning // Embodiment of Earth",
+      "number": "BRI002 // BRI003",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262531/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-embodiment-of-lightning-embodiment-of-earth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262532,
+      "name": "Rosetta Thorn",
+      "number": "BRI004",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262532/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-rosetta-thorn",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.85,
+          "low": 0.39,
+          "mid": 1.44
+        }
+      ]
+    },
+    {
+      "id": 262533,
+      "name": "Plume of Evergrowth",
+      "number": "BRI005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262533/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-plume-of-evergrowth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.45,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 262534,
+      "name": "Heartened Cross Strap",
+      "number": "BRI006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262534/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-heartened-cross-strap",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 262535,
+      "name": "Ironrot Gauntlet",
+      "number": "BRI007",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262535/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-ironrot-gauntlet",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262536,
+      "name": "Sutcliffe's Suede Hides",
+      "number": "BRI008",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262536/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-sutcliffes-suede-hides",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.35,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 262537,
+      "name": "Explosive Growth",
+      "label": "Red",
+      "number": "BRI009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262537/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-explosive-growth-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 262538,
+      "name": "Rites of Replenishment",
+      "label": "Red",
+      "number": "BRI010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262538/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-rites-of-replenishment-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262539,
+      "name": "Stir the Wildwood",
+      "label": "Red",
+      "number": "BRI011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262539/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-stir-the-wildwood-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262540,
+      "name": "Bramble Spark",
+      "label": "Red",
+      "number": "BRI012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262540/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-bramble-spark-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 262541,
+      "name": "Bramble Spark",
+      "label": "Blue",
+      "number": "BRI015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262541/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-bramble-spark-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262542,
+      "name": "Stir the Wildwood",
+      "label": "Yellow",
+      "number": "BRI013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262542/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-stir-the-wildwood-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262543,
+      "name": "Rites of Replenishment",
+      "label": "Blue",
+      "number": "BRI014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262543/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-rites-of-replenishment-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262544,
+      "name": "Entwine Earth",
+      "label": "Red",
+      "number": "BRI016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262544_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262544/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-entwine-earth-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.13,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 262545,
+      "name": "Burgeoning",
+      "label": "Red",
+      "number": "BRI017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262545/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-burgeoning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 262546,
+      "name": "Evergreen",
+      "label": "Red",
+      "number": "BRI018",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262546/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-evergreen-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.87,
+          "low": 0.63,
+          "mid": 0.87
+        }
+      ]
+    },
+    {
+      "id": 262547,
+      "name": "Earthlore Surge",
+      "label": "Red",
+      "number": "BRI019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262547/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-earthlore-surge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 262548,
+      "name": "Earthlore Surge",
+      "label": "Blue",
+      "number": "BRI024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262548/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-earthlore-surge-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 262549,
+      "name": "Sow Tomorrow",
+      "label": "Red",
+      "number": "BRI020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262549/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-sow-tomorrow-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262550,
+      "name": "Sow Tomorrow",
+      "label": "Blue",
+      "number": "BRI025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262550/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-sow-tomorrow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.69,
+          "low": 1.57,
+          "mid": 1.7
+        }
+      ]
+    },
+    {
+      "id": 262551,
+      "name": "Weave Earth",
+      "label": "Red",
+      "number": "BRI021",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262551/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-weave-earth-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.15,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 262552,
+      "name": "Autumn's Touch",
+      "label": "Yellow",
+      "number": "BRI022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262552/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-autumns-touch-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262553,
+      "name": "Summerwood Shelter",
+      "label": "Yellow",
+      "number": "BRI023",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262553/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-summerwood-shelter-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 262554,
+      "name": "Amulet of Earth",
+      "number": "BRI026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262554/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-amulet-of-earth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262555,
+      "name": "Rites of Lightning",
+      "label": "Red",
+      "number": "BRI027",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262555/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-rites-of-lightning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5,
+          "low": 0.31,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 262556,
+      "name": "Entwine Lightning",
+      "label": "Red",
+      "number": "BRI028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262556/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-entwine-lightning-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.21,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 262557,
+      "name": "Lightning Surge",
+      "label": "Yellow",
+      "number": "BRI029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262557/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-lightning-surge-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 262558,
+      "name": "Electrify",
+      "label": "Yellow",
+      "number": "BRI030",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262558/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-electrify-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.16,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 262559,
+      "name": "Flash",
+      "label": "Yellow",
+      "number": "BRI031",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262559/flesh-and-blood-tcg-blitz-deck-tales-of-aria-briar-flash-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.1,
+          "mid": 0.38
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

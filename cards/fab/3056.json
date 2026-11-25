@@ -1,0 +1,5550 @@
+{
+  "groupId": 3056,
+  "cards": [
+    {
+      "id": 270485,
+      "name": "Channel the Bleak Expanse",
+      "number": "UPR138",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270485/flesh-and-blood-tcg-uprising-channel-the-bleak-expanse",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.08,
+          "low": 1.08,
+          "mid": 2.98
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.74,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 270486,
+      "name": "Encase",
+      "number": "UPR104",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270486/flesh-and-blood-tcg-uprising-encase",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.78,
+          "low": 0.35,
+          "mid": 0.9
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 270487,
+      "name": "Ice Bolt",
+      "label": "Blue",
+      "number": "UPR135",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270487/flesh-and-blood-tcg-uprising-ice-bolt-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 0.67
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 270488,
+      "name": "Ice Eternal",
+      "number": "UPR109",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270488/flesh-and-blood-tcg-uprising-ice-eternal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.12,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 270489,
+      "name": "Icebind",
+      "label": "Blue",
+      "number": "UPR121",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270489/flesh-and-blood-tcg-uprising-icebind-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 270490,
+      "name": "Frost Hex",
+      "number": "UPR126",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270490/flesh-and-blood-tcg-uprising-frost-hex",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89,
+          "low": 0.5,
+          "mid": 1
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 10.62,
+          "low": 11.1,
+          "mid": 26.43
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.84,
+          "low": 0.74,
+          "mid": 1.74
+        }
+      ]
+    },
+    {
+      "id": 270491,
+      "name": "Hypothermia",
+      "number": "UPR139",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270491/flesh-and-blood-tcg-uprising-hypothermia",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.8,
+          "low": 1.38,
+          "mid": 3.52
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.16,
+          "low": 0.5,
+          "mid": 1.89
+        }
+      ]
+    },
+    {
+      "id": 270496,
+      "name": "Cold Snap",
+      "label": "Blue",
+      "number": "UPR149",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270496/flesh-and-blood-tcg-uprising-cold-snap-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.07,
+          "low": 0.38,
+          "mid": 1.07
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 270498,
+      "name": "Thaw",
+      "number": "UPR086",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270498/flesh-and-blood-tcg-uprising-thaw",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.04,
+          "low": 0.49,
+          "mid": 1.14
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 270508,
+      "name": "Invoke Dracona Optimai // Dracona Optimai",
+      "number": "UPR006",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270508/flesh-and-blood-tcg-uprising-invoke-dracona-optimai-dracona-optimai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.95,
+          "low": 0.5,
+          "mid": 1.35
+        }
+      ]
+    },
+    {
+      "id": 274330,
+      "name": "Invoke Dominia // Dominia",
+      "number": "UPR008",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274330/flesh-and-blood-tcg-uprising-invoke-dominia-dominia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.37,
+          "low": 1,
+          "mid": 3.87
+        }
+      ]
+    },
+    {
+      "id": 274331,
+      "name": "Invoke Dominia // Dominia",
+      "label": "Marvel",
+      "number": "UPR008",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274331/flesh-and-blood-tcg-uprising-invoke-dominia-dominia-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 88.98,
+          "low": 101.7,
+          "mid": 115
+        }
+      ]
+    },
+    {
+      "id": 274334,
+      "name": "Silken Form",
+      "number": "UPR004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274334/flesh-and-blood-tcg-uprising-silken-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.17
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.81,
+          "low": 0.55,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 274336,
+      "name": "Billowing Mirage",
+      "label": "Red",
+      "number": "UPR018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274336/flesh-and-blood-tcg-uprising-billowing-mirage-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.12,
+          "mid": 0.41
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274337,
+      "name": "Rake the Embers",
+      "label": "Red",
+      "number": "UPR033",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274337/flesh-and-blood-tcg-uprising-rake-the-embers-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.73,
+          "low": 0.36,
+          "mid": 0.74
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274338,
+      "name": "Lava Burst",
+      "number": "UPR098",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274338/flesh-and-blood-tcg-uprising-lava-burst",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.33,
+          "low": 2,
+          "mid": 2.87
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 274349,
+      "name": "Skittering Sands",
+      "label": "Red",
+      "number": "UPR036",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274349/flesh-and-blood-tcg-uprising-skittering-sands-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274363,
+      "name": "Sand Cover",
+      "label": "Red",
+      "number": "UPR039",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274363/flesh-and-blood-tcg-uprising-sand-cover-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 274390,
+      "name": "Red Hot",
+      "number": "UPR090",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274390/flesh-and-blood-tcg-uprising-red-hot",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.06,
+          "mid": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274391,
+      "name": "Burn Them All",
+      "number": "UPR005",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274391/flesh-and-blood-tcg-uprising-burn-them-all",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.67,
+          "low": 1.5,
+          "mid": 2.06
+        },
+        {
+          "sub": "Normal",
+          "usd": 1.15,
+          "low": 0.69,
+          "mid": 1.55
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 11.18,
+          "low": 11.74,
+          "mid": 21.5
+        }
+      ]
+    },
+    {
+      "id": 274393,
+      "name": "Phoenix Flame",
+      "number": "UPR101",
+      "rarity": "Token",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274393/flesh-and-blood-tcg-uprising-phoenix-flame",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 274394,
+      "name": "Invoke Tomeltai // Tomeltai",
+      "number": "UPR007",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274394/flesh-and-blood-tcg-uprising-invoke-tomeltai-tomeltai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.35,
+          "low": 0.99,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 274395,
+      "name": "Invoke Tomeltai // Tomeltai",
+      "label": "Marvel",
+      "number": "UPR007",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274395/flesh-and-blood-tcg-uprising-invoke-tomeltai-tomeltai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 129.86,
+          "low": 183.19,
+          "mid": 189.99
+        }
+      ]
+    },
+    {
+      "id": 274396,
+      "name": "Invoke Azvolai // Azvolai",
+      "label": "Marvel",
+      "number": "UPR009",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274396/flesh-and-blood-tcg-uprising-invoke-azvolai-azvolai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 33.68,
+          "low": 29.89,
+          "mid": 43.99
+        }
+      ]
+    },
+    {
+      "id": 274397,
+      "name": "Invoke Azvolai // Azvolai",
+      "number": "UPR009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274397/flesh-and-blood-tcg-uprising-invoke-azvolai-azvolai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9,
+          "low": 0.47,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 274398,
+      "name": "Invoke Kyloria // Kyloria",
+      "number": "UPR011",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274398/flesh-and-blood-tcg-uprising-invoke-kyloria-kyloria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.88,
+          "low": 0.44,
+          "mid": 1.01
+        }
+      ]
+    },
+    {
+      "id": 274399,
+      "name": "Invoke Kyloria // Kyloria",
+      "label": "Marvel",
+      "number": "UPR011",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274399/flesh-and-blood-tcg-uprising-invoke-kyloria-kyloria-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 32.81,
+          "low": 34.01,
+          "mid": 38.81
+        }
+      ]
+    },
+    {
+      "id": 274400,
+      "name": "Invoke Ouvia // Ouvia",
+      "label": "Marvel",
+      "number": "UPR014",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274400/flesh-and-blood-tcg-uprising-invoke-ouvia-ouvia-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 28.23,
+          "low": 16.97,
+          "mid": 32.95
+        }
+      ]
+    },
+    {
+      "id": 274401,
+      "name": "Invoke Ouvia // Ouvia",
+      "number": "UPR014",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274401/flesh-and-blood-tcg-uprising-invoke-ouvia-ouvia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.3,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 274402,
+      "name": "Uprising",
+      "number": "UPR088",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274402/flesh-and-blood-tcg-uprising-uprising",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.98,
+          "low": 0.7,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.25,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 274403,
+      "name": "Liquefy",
+      "number": "UPR087",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274403/flesh-and-blood-tcg-uprising-liquefy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.64,
+          "low": 0.01,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 274404,
+      "name": "Phoenix Form",
+      "number": "UPR048",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274404/flesh-and-blood-tcg-uprising-phoenix-form",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41,
+          "low": 0.2,
+          "mid": 0.85
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.88,
+          "low": 0.7,
+          "mid": 1.02
+        }
+      ]
+    },
+    {
+      "id": 274405,
+      "name": "Rise Up",
+      "number": "UPR091",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274405/flesh-and-blood-tcg-uprising-rise-up",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.1,
+          "mid": 0.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 274406,
+      "name": "Rise from the Ashes",
+      "label": "Red",
+      "number": "UPR057",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274406/flesh-and-blood-tcg-uprising-rise-from-the-ashes-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.62,
+          "low": 0.16,
+          "mid": 0.65
+        }
+      ]
+    },
+    {
+      "id": 274407,
+      "name": "Flamecall Awakening",
+      "number": "UPR096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274407/flesh-and-blood-tcg-uprising-flamecall-awakening",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.11,
+          "mid": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274408,
+      "name": "Flameborn Retribution",
+      "number": "UPR095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274408/flesh-and-blood-tcg-uprising-flameborn-retribution",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274409,
+      "name": "Inflame",
+      "number": "UPR097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274409/flesh-and-blood-tcg-uprising-inflame",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274410,
+      "name": "Stoke the Flames",
+      "number": "UPR100",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274410/flesh-and-blood-tcg-uprising-stoke-the-flames",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.08,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 274411,
+      "name": "Burn Away",
+      "number": "UPR094",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274411/flesh-and-blood-tcg-uprising-burn-away",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274437,
+      "name": "Invoke Dracona Optimai // Dracona Optimai",
+      "label": "Marvel",
+      "number": "UPR006",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274437/flesh-and-blood-tcg-uprising-invoke-dracona-optimai-dracona-optimai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 66.3,
+          "low": 59.99,
+          "mid": 70.98
+        }
+      ]
+    },
+    {
+      "id": 274490,
+      "name": "Billowing Mirage",
+      "label": "Yellow",
+      "number": "UPR019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274490/flesh-and-blood-tcg-uprising-billowing-mirage-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274491,
+      "name": "Billowing Mirage",
+      "label": "Blue",
+      "number": "UPR020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274491/flesh-and-blood-tcg-uprising-billowing-mirage-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.11,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 274493,
+      "name": "Rake the Embers",
+      "label": "Yellow",
+      "number": "UPR034",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274493/flesh-and-blood-tcg-uprising-rake-the-embers-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274494,
+      "name": "Rake the Embers",
+      "label": "Blue",
+      "number": "UPR035",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274494/flesh-and-blood-tcg-uprising-rake-the-embers-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.06,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274495,
+      "name": "Skittering Sands",
+      "label": "Yellow",
+      "number": "UPR037",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274495/flesh-and-blood-tcg-uprising-skittering-sands-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274497,
+      "name": "Skittering Sands",
+      "label": "Blue",
+      "number": "UPR038",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274497/flesh-and-blood-tcg-uprising-skittering-sands-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274499,
+      "name": "Sand Cover",
+      "label": "Yellow",
+      "number": "UPR040",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274499/flesh-and-blood-tcg-uprising-sand-cover-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274500,
+      "name": "Sand Cover",
+      "label": "Blue",
+      "number": "UPR041",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274500/flesh-and-blood-tcg-uprising-sand-cover-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274508,
+      "name": "Invoke Nekria // Nekria",
+      "number": "UPR013",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274508/flesh-and-blood-tcg-uprising-invoke-nekria-nekria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.24,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 274510,
+      "name": "Invoke Nekria // Nekria",
+      "label": "Marvel",
+      "number": "UPR013",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274510/flesh-and-blood-tcg-uprising-invoke-nekria-nekria-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 17.31,
+          "low": 19.82,
+          "mid": 22.2
+        }
+      ]
+    },
+    {
+      "id": 274515,
+      "name": "Invoke Vynserakai // Vynserakai",
+      "number": "UPR016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274515_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274515/flesh-and-blood-tcg-uprising-invoke-vynserakai-vynserakai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.2,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 274517,
+      "name": "Invoke Vynserakai // Vynserakai",
+      "label": "Marvel",
+      "number": "UPR016",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274517/flesh-and-blood-tcg-uprising-invoke-vynserakai-vynserakai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 18.44,
+          "low": 21.99,
+          "mid": 42.69
+        }
+      ]
+    },
+    {
+      "id": 274524,
+      "name": "Double Strike",
+      "number": "UPR160",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274524/flesh-and-blood-tcg-uprising-double-strike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71,
+          "low": 0.45,
+          "mid": 1.32
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.78,
+          "low": 0.5,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 274525,
+      "name": "Spreading Flames",
+      "number": "UPR049",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274525/flesh-and-blood-tcg-uprising-spreading-flames",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.26,
+          "low": 0.49,
+          "mid": 1.66
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.4,
+          "low": 0.76,
+          "mid": 3.44
+        }
+      ]
+    },
+    {
+      "id": 274526,
+      "name": "Lava Vein Loyalty",
+      "label": "Red",
+      "number": "UPR069",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274526/flesh-and-blood-tcg-uprising-lava-vein-loyalty-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274732,
+      "name": "Invoke Themai // Themai",
+      "number": "UPR015",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274732/flesh-and-blood-tcg-uprising-invoke-themai-themai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.35,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 274733,
+      "name": "Invoke Themai // Themai",
+      "label": "Marvel",
+      "number": "UPR015",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274733/flesh-and-blood-tcg-uprising-invoke-themai-themai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 36.41,
+          "low": 36.49,
+          "mid": 39.95
+        }
+      ]
+    },
+    {
+      "id": 274734,
+      "name": "Crown of Providence",
+      "number": "UPR182",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274734/flesh-and-blood-tcg-uprising-crown-of-providence",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 99.47,
+          "low": 92,
+          "mid": 117.61
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 156.64,
+          "low": 132.48,
+          "mid": 199.98
+        }
+      ]
+    },
+    {
+      "id": 274735,
+      "name": "Take the Tempo",
+      "number": "UPR161",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274735/flesh-and-blood-tcg-uprising-take-the-tempo",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.55,
+          "low": 0.99,
+          "mid": 1.65
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.87,
+          "low": 0.3,
+          "mid": 1.12
+        }
+      ]
+    },
+    {
+      "id": 274736,
+      "name": "Tome of Firebrand",
+      "number": "UPR089",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274736/flesh-and-blood-tcg-uprising-tome-of-firebrand",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.13,
+          "mid": 0.48
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.66,
+          "low": 0.4,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 274738,
+      "name": "Cinderskin Devotion",
+      "label": "Red",
+      "number": "UPR063",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274738/flesh-and-blood-tcg-uprising-cinderskin-devotion-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274739,
+      "name": "Mounting Anger",
+      "label": "Red",
+      "number": "UPR054",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274739/flesh-and-blood-tcg-uprising-mounting-anger-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.36,
+          "low": 0.6,
+          "mid": 1.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.39,
+          "low": 0.05,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 274745,
+      "name": "Invoke Cromai // Cromai",
+      "number": "UPR010",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274745/flesh-and-blood-tcg-uprising-invoke-cromai-cromai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89,
+          "low": 0.6,
+          "mid": 1.09
+        }
+      ]
+    },
+    {
+      "id": 274746,
+      "name": "Invoke Cromai // Cromai",
+      "label": "Marvel",
+      "number": "UPR010",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274746/flesh-and-blood-tcg-uprising-invoke-cromai-cromai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 37.76,
+          "low": 37.89,
+          "mid": 42.99
+        }
+      ]
+    },
+    {
+      "id": 274749,
+      "name": "Quelling Slippers",
+      "number": "UPR186",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274749/flesh-and-blood-tcg-uprising-quelling-slippers",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.66,
+          "low": 0.25,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.09,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274750,
+      "name": "Quelling Sleeves",
+      "number": "UPR185",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274750/flesh-and-blood-tcg-uprising-quelling-sleeves",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.23,
+          "mid": 0.7
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 274752,
+      "name": "Quelling Robe",
+      "number": "UPR184",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274752/flesh-and-blood-tcg-uprising-quelling-robe",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.38
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.55
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 274757,
+      "name": "Alluvion Constellas",
+      "number": "UPR166",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274757_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274757/flesh-and-blood-tcg-uprising-alluvion-constellas",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 14.25,
+          "low": 13.75,
+          "mid": 19.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.16,
+          "low": 5.4,
+          "mid": 10.99
+        }
+      ]
+    },
+    {
+      "id": 274758,
+      "name": "Singe",
+      "label": "Red",
+      "number": "UPR179",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274758_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274758/flesh-and-blood-tcg-uprising-singe-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.18,
+          "mid": 0.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274760,
+      "name": "Transmogrify",
+      "label": "Red",
+      "number": "UPR155",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274760_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274760/flesh-and-blood-tcg-uprising-transmogrify-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 274767,
+      "name": "That All You Got?",
+      "number": "UPR189",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274767_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274767/flesh-and-blood-tcg-uprising-that-all-you-got",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 4.51,
+          "low": 3,
+          "mid": 5.09
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.02,
+          "low": 1.66,
+          "mid": 3.56
+        }
+      ]
+    },
+    {
+      "id": 274783,
+      "name": "Oasis Respite",
+      "label": "Red",
+      "number": "UPR221",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274783_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274783/flesh-and-blood-tcg-uprising-oasis-respite-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.39,
+          "low": 1,
+          "mid": 1.71
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.75,
+          "low": 1.25,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 274787,
+      "name": "Invoke Yendurai // Yendurai",
+      "number": "UPR017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274787_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274787/flesh-and-blood-tcg-uprising-invoke-yendurai-yendurai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.06,
+          "low": 0.48,
+          "mid": 4.5
+        }
+      ]
+    },
+    {
+      "id": 274788,
+      "name": "Invoke Yendurai // Yendurai",
+      "label": "Marvel",
+      "number": "UPR017",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274788_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274788/flesh-and-blood-tcg-uprising-invoke-yendurai-yendurai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 34.32,
+          "low": 27.5,
+          "mid": 39.97
+        }
+      ]
+    },
+    {
+      "id": 274809,
+      "name": "Rewind",
+      "number": "UPR169",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/274809_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/274809/flesh-and-blood-tcg-uprising-rewind",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.24,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.71
+        }
+      ]
+    },
+    {
+      "id": 275098,
+      "name": "Mounting Anger",
+      "label": "Yellow",
+      "number": "UPR055",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275098_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275098/flesh-and-blood-tcg-uprising-mounting-anger-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275099,
+      "name": "Mounting Anger",
+      "label": "Blue",
+      "number": "UPR056",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275099_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275099/flesh-and-blood-tcg-uprising-mounting-anger-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.53,
+          "low": 0.15,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275101,
+      "name": "Heat Wave",
+      "number": "UPR047",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275101/flesh-and-blood-tcg-uprising-heat-wave",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.25,
+          "low": 0.22,
+          "mid": 0.53
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.08,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 275102,
+      "name": "Engulfing Flamewave",
+      "label": "Red",
+      "number": "UPR051",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275102/flesh-and-blood-tcg-uprising-engulfing-flamewave-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275103,
+      "name": "Engulfing Flamewave",
+      "label": "Blue",
+      "number": "UPR053",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275103/flesh-and-blood-tcg-uprising-engulfing-flamewave-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.06,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 275104,
+      "name": "Engulfing Flamewave",
+      "label": "Yellow",
+      "number": "UPR052",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275104_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275104/flesh-and-blood-tcg-uprising-engulfing-flamewave-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275224,
+      "name": "Transmogrify",
+      "label": "Yellow",
+      "number": "UPR156",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275224/flesh-and-blood-tcg-uprising-transmogrify-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275225,
+      "name": "Transmogrify",
+      "label": "Blue",
+      "number": "UPR157",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275225/flesh-and-blood-tcg-uprising-transmogrify-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275226,
+      "name": "Oasis Respite",
+      "label": "Yellow",
+      "number": "UPR222",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275226/flesh-and-blood-tcg-uprising-oasis-respite-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275227,
+      "name": "Oasis Respite",
+      "label": "Blue",
+      "number": "UPR223",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275227/flesh-and-blood-tcg-uprising-oasis-respite-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 275231,
+      "name": "Helio's Mitre",
+      "number": "UPR183",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275231/flesh-and-blood-tcg-uprising-helios-mitre",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.39,
+          "low": 0.29,
+          "mid": 0.87
+        }
+      ]
+    },
+    {
+      "id": 275232,
+      "name": "Erase Face",
+      "number": "UPR187",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275232/flesh-and-blood-tcg-uprising-erase-face",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 18.98,
+          "low": 17.85,
+          "mid": 19.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 13.91,
+          "low": 12.04,
+          "mid": 18.69
+        }
+      ]
+    },
+    {
+      "id": 275233,
+      "name": "Dragons of Legend Invocation Placeholder Card",
+      "number": "UPR225",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275233/flesh-and-blood-tcg-uprising-dragons-of-legend-invocation-placeholder-card",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275234,
+      "name": "Ghostly Touch",
+      "number": "UPR151",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275234/flesh-and-blood-tcg-uprising-ghostly-touch",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.46,
+          "low": 2.95,
+          "mid": 4.66
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 6.86,
+          "low": 5.99,
+          "mid": 10.76
+        }
+      ]
+    },
+    {
+      "id": 275238,
+      "name": "Frightmare",
+      "number": "UPR153",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275238/flesh-and-blood-tcg-uprising-frightmare",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.29,
+          "mid": 1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.09,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275239,
+      "name": "Cinderskin Devotion",
+      "label": "Yellow",
+      "number": "UPR064",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275239/flesh-and-blood-tcg-uprising-cinderskin-devotion-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275240,
+      "name": "Cinderskin Devotion",
+      "label": "Blue",
+      "number": "UPR065",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275240/flesh-and-blood-tcg-uprising-cinderskin-devotion-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275606,
+      "name": "Rewind",
+      "label": "Alternate Art",
+      "number": "UPR169",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275606/flesh-and-blood-tcg-uprising-rewind-alternate-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 13.63,
+          "low": 8.52,
+          "mid": 15
+        }
+      ]
+    },
+    {
+      "id": 275607,
+      "name": "Dampen",
+      "label": "Red",
+      "number": "UPR170",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275607/flesh-and-blood-tcg-uprising-dampen-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.39,
+          "mid": 0.52
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275608,
+      "name": "Dampen",
+      "label": "Yellow",
+      "number": "UPR171",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275608/flesh-and-blood-tcg-uprising-dampen-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.24
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275609,
+      "name": "Blood of the Dracai",
+      "number": "UPR000",
+      "rarity": "Fabled",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275609/flesh-and-blood-tcg-uprising-blood-of-the-dracai",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 36.75,
+          "low": 42.99,
+          "mid": 52.5
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 69.5,
+          "low": 109.98,
+          "mid": 122.07
+        }
+      ]
+    },
+    {
+      "id": 275610,
+      "name": "Dampen",
+      "label": "Blue",
+      "number": "UPR172",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275610/flesh-and-blood-tcg-uprising-dampen-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.04,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275611,
+      "name": "Aether Dart",
+      "label": "Red",
+      "number": "UPR173",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275611/flesh-and-blood-tcg-uprising-aether-dart-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275612,
+      "name": "Dunebreaker Cenipai",
+      "label": "Red",
+      "number": "UPR021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275612/flesh-and-blood-tcg-uprising-dunebreaker-cenipai-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 275613,
+      "name": "Sift",
+      "label": "Blue",
+      "number": "UPR199",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275613/flesh-and-blood-tcg-uprising-sift-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.58,
+          "low": 3.33,
+          "mid": 4.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.85,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 275614,
+      "name": "Aether Dart",
+      "label": "Yellow",
+      "number": "UPR174",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275614/flesh-and-blood-tcg-uprising-aether-dart-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.04,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275615,
+      "name": "Aether Dart",
+      "label": "Blue",
+      "number": "UPR175",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275615/flesh-and-blood-tcg-uprising-aether-dart-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275616,
+      "name": "Strategic Planning",
+      "label": "Red",
+      "number": "UPR200",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275616/flesh-and-blood-tcg-uprising-strategic-planning-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275617,
+      "name": "Strategic Planning",
+      "label": "Yellow",
+      "number": "UPR201",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275617/flesh-and-blood-tcg-uprising-strategic-planning-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275618,
+      "name": "Sigil of Permafrost",
+      "label": "Yellow",
+      "number": "UPR107",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275618/flesh-and-blood-tcg-uprising-sigil-of-permafrost-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275619,
+      "name": "Strategic Planning",
+      "label": "Blue",
+      "number": "UPR202",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275619/flesh-and-blood-tcg-uprising-strategic-planning-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275620,
+      "name": "Read the Ripples",
+      "label": "Red",
+      "number": "UPR176",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275620/flesh-and-blood-tcg-uprising-read-the-ripples-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275621,
+      "name": "Brothers in Arms",
+      "label": "Red",
+      "number": "UPR203",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275621/flesh-and-blood-tcg-uprising-brothers-in-arms-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275622,
+      "name": "Read the Ripples",
+      "label": "Yellow",
+      "number": "UPR177",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275622/flesh-and-blood-tcg-uprising-read-the-ripples-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275623,
+      "name": "Brothers in Arms",
+      "label": "Yellow",
+      "number": "UPR204",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275623/flesh-and-blood-tcg-uprising-brothers-in-arms-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275624,
+      "name": "Ice Bolt",
+      "label": "Red",
+      "number": "UPR133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275624/flesh-and-blood-tcg-uprising-ice-bolt-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.15,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 275625,
+      "name": "Brothers in Arms",
+      "label": "Blue",
+      "number": "UPR205",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275625/flesh-and-blood-tcg-uprising-brothers-in-arms-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.06,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275626,
+      "name": "Dunebreaker Cenipai",
+      "label": "Yellow",
+      "number": "UPR022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275626/flesh-and-blood-tcg-uprising-dunebreaker-cenipai-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275627,
+      "name": "Critical Strike",
+      "label": "Red",
+      "number": "UPR206",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275627/flesh-and-blood-tcg-uprising-critical-strike-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275628,
+      "name": "Ice Bolt",
+      "label": "Yellow",
+      "number": "UPR134",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275628/flesh-and-blood-tcg-uprising-ice-bolt-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275629,
+      "name": "Read the Ripples",
+      "label": "Blue",
+      "number": "UPR178",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275629/flesh-and-blood-tcg-uprising-read-the-ripples-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275630,
+      "name": "Critical Strike",
+      "label": "Yellow",
+      "number": "UPR207",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275630/flesh-and-blood-tcg-uprising-critical-strike-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275631,
+      "name": "Critical Strike",
+      "label": "Blue",
+      "number": "UPR208",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275631/flesh-and-blood-tcg-uprising-critical-strike-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.02,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275632,
+      "name": "Sigil of Permafrost",
+      "label": "Blue",
+      "number": "UPR108",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275632/flesh-and-blood-tcg-uprising-sigil-of-permafrost-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.1,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275633,
+      "name": "Dunebreaker Cenipai",
+      "label": "Blue",
+      "number": "UPR023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275633/flesh-and-blood-tcg-uprising-dunebreaker-cenipai-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275634,
+      "name": "Rebellious Rush",
+      "label": "Blue",
+      "number": "UPR074",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275634/flesh-and-blood-tcg-uprising-rebellious-rush-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275635,
+      "name": "Scar for a Scar",
+      "label": "Red",
+      "number": "UPR209",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275635/flesh-and-blood-tcg-uprising-scar-for-a-scar-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.05,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 275636,
+      "name": "Scar for a Scar",
+      "label": "Yellow",
+      "number": "UPR210",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275636/flesh-and-blood-tcg-uprising-scar-for-a-scar-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275637,
+      "name": "Dustup",
+      "label": "Red",
+      "number": "UPR024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275637/flesh-and-blood-tcg-uprising-dustup-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.15,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 275638,
+      "name": "Coronet Peak",
+      "number": "UPR136",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275638/flesh-and-blood-tcg-uprising-coronet-peak",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 16.26,
+          "low": 16.25,
+          "mid": 21.99
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 33.68,
+          "low": 33.68,
+          "mid": 62.19
+        }
+      ]
+    },
+    {
+      "id": 275639,
+      "name": "Scar for a Scar",
+      "label": "Blue",
+      "number": "UPR211",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275639/flesh-and-blood-tcg-uprising-scar-for-a-scar-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275640,
+      "name": "Singe",
+      "label": "Yellow",
+      "number": "UPR180",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275640/flesh-and-blood-tcg-uprising-singe-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06,
+          "low": 0.04,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275641,
+      "name": "Rising Resentment",
+      "label": "Red",
+      "number": "UPR075",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275641/flesh-and-blood-tcg-uprising-rising-resentment-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.96,
+          "low": 2,
+          "mid": 3.48
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.06,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 275642,
+      "name": "Glacial Horns",
+      "number": "UPR137",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275642/flesh-and-blood-tcg-uprising-glacial-horns",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.37,
+          "low": 0.78,
+          "mid": 1.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 275643,
+      "name": "Dustup",
+      "label": "Yellow",
+      "number": "UPR025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275643/flesh-and-blood-tcg-uprising-dustup-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275644,
+      "name": "Singe",
+      "label": "Blue",
+      "number": "UPR181",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275644/flesh-and-blood-tcg-uprising-singe-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275645,
+      "name": "Dustup",
+      "label": "Blue",
+      "number": "UPR026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275645/flesh-and-blood-tcg-uprising-dustup-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275646,
+      "name": "Rising Resentment",
+      "label": "Yellow",
+      "number": "UPR076",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275646/flesh-and-blood-tcg-uprising-rising-resentment-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.11,
+          "mid": 0.32
+        }
+      ]
+    },
+    {
+      "id": 275647,
+      "name": "Insidious Chill",
+      "number": "UPR140",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275647/flesh-and-blood-tcg-uprising-insidious-chill",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6,
+          "low": 0.24,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.03,
+          "low": 0.93,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 275648,
+      "name": "Trade In",
+      "label": "Red",
+      "number": "UPR212",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275648/flesh-and-blood-tcg-uprising-trade-in-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.01,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275649,
+      "name": "Trade In",
+      "label": "Yellow",
+      "number": "UPR213",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275649/flesh-and-blood-tcg-uprising-trade-in-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.16
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.05,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 275650,
+      "name": "Rising Resentment",
+      "label": "Blue",
+      "number": "UPR077",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275650/flesh-and-blood-tcg-uprising-rising-resentment-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.22,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 275651,
+      "name": "Embermaw Cenipai",
+      "label": "Red",
+      "number": "UPR027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275651/flesh-and-blood-tcg-uprising-embermaw-cenipai-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.15,
+          "mid": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275652,
+      "name": "Isenhowl Weathervane",
+      "label": "Red",
+      "number": "UPR141",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275652/flesh-and-blood-tcg-uprising-isenhowl-weathervane-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 275653,
+      "name": "Trade In",
+      "label": "Blue",
+      "number": "UPR214",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275653/flesh-and-blood-tcg-uprising-trade-in-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 275654,
+      "name": "Embermaw Cenipai",
+      "label": "Yellow",
+      "number": "UPR028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275654/flesh-and-blood-tcg-uprising-embermaw-cenipai-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275655,
+      "name": "Isenhowl Weathervane",
+      "label": "Yellow",
+      "number": "UPR142",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275655/flesh-and-blood-tcg-uprising-isenhowl-weathervane-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275656,
+      "name": "Ronin Renegade",
+      "label": "Red",
+      "number": "UPR078",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275656/flesh-and-blood-tcg-uprising-ronin-renegade-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.69,
+          "low": 2.61,
+          "mid": 3.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275657,
+      "name": "Succumb to Winter",
+      "label": "Red",
+      "number": "UPR110",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275657/flesh-and-blood-tcg-uprising-succumb-to-winter-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.12,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 275658,
+      "name": "Healing Balm",
+      "label": "Red",
+      "number": "UPR215",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275658/flesh-and-blood-tcg-uprising-healing-balm-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275659,
+      "name": "Embermaw Cenipai",
+      "label": "Blue",
+      "number": "UPR029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275659/flesh-and-blood-tcg-uprising-embermaw-cenipai-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275660,
+      "name": "Ronin Renegade",
+      "label": "Yellow",
+      "number": "UPR079",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275660/flesh-and-blood-tcg-uprising-ronin-renegade-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 275661,
+      "name": "Isenhowl Weathervane",
+      "label": "Blue",
+      "number": "UPR143",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275661/flesh-and-blood-tcg-uprising-isenhowl-weathervane-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.14,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275662,
+      "name": "Healing Balm",
+      "label": "Yellow",
+      "number": "UPR216",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275662/flesh-and-blood-tcg-uprising-healing-balm-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275663,
+      "name": "Succumb to Winter",
+      "label": "Yellow",
+      "number": "UPR111",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275663/flesh-and-blood-tcg-uprising-succumb-to-winter-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275664,
+      "name": "Vipox",
+      "number": "UPR188",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275664/flesh-and-blood-tcg-uprising-vipox",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.22,
+          "mid": 0.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.02,
+          "low": 0.59,
+          "mid": 1.75
+        }
+      ]
+    },
+    {
+      "id": 275665,
+      "name": "Ronin Renegade",
+      "label": "Blue",
+      "number": "UPR080",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275665/flesh-and-blood-tcg-uprising-ronin-renegade-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.11,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275666,
+      "name": "Healing Balm",
+      "label": "Blue",
+      "number": "UPR217",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275666/flesh-and-blood-tcg-uprising-healing-balm-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.01,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275667,
+      "name": "Sweeping Blow",
+      "label": "Red",
+      "number": "UPR030",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275667/flesh-and-blood-tcg-uprising-sweeping-blow-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 275668,
+      "name": "Succumb to Winter",
+      "label": "Blue",
+      "number": "UPR112",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275668/flesh-and-blood-tcg-uprising-succumb-to-winter-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275669,
+      "name": "Arctic Incarceration",
+      "label": "Red",
+      "number": "UPR144",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275669/flesh-and-blood-tcg-uprising-arctic-incarceration-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.56,
+          "low": 0.34,
+          "mid": 0.56
+        }
+      ]
+    },
+    {
+      "id": 275670,
+      "name": "Sigil of Protection",
+      "label": "Red",
+      "number": "UPR218",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275670/flesh-and-blood-tcg-uprising-sigil-of-protection-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 275671,
+      "name": "Arctic Incarceration",
+      "label": "Yellow",
+      "number": "UPR145",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275671/flesh-and-blood-tcg-uprising-arctic-incarceration-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275672,
+      "name": "Sigil of Protection",
+      "label": "Yellow",
+      "number": "UPR219",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275672/flesh-and-blood-tcg-uprising-sigil-of-protection-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.08,
+          "low": 0.08,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.03,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 275673,
+      "name": "Sigil of Protection",
+      "label": "Blue",
+      "number": "UPR220",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275673/flesh-and-blood-tcg-uprising-sigil-of-protection-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.05,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 275674,
+      "name": "Fog Down",
+      "number": "UPR190",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275674/flesh-and-blood-tcg-uprising-fog-down",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.07,
+          "mid": 0.5
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.72,
+          "low": 0.5,
+          "mid": 1.02
+        }
+      ]
+    },
+    {
+      "id": 275675,
+      "name": "Arctic Incarceration",
+      "label": "Blue",
+      "number": "UPR146",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275675/flesh-and-blood-tcg-uprising-arctic-incarceration-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.18,
+          "mid": 0.37
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275676,
+      "name": "Sweeping Blow",
+      "label": "Yellow",
+      "number": "UPR031",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275676/flesh-and-blood-tcg-uprising-sweeping-blow-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275677,
+      "name": "Soaring Strike",
+      "label": "Red",
+      "number": "UPR081",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275677/flesh-and-blood-tcg-uprising-soaring-strike-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.12,
+          "mid": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 275678,
+      "name": "Sweeping Blow",
+      "label": "Blue",
+      "number": "UPR032",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275678/flesh-and-blood-tcg-uprising-sweeping-blow-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.07,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 275679,
+      "name": "Cracked Bauble",
+      "number": "UPR224",
+      "rarity": "Token",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275679/flesh-and-blood-tcg-uprising-cracked-bauble",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275680,
+      "name": "Soaring Strike",
+      "label": "Yellow",
+      "number": "UPR082",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275680/flesh-and-blood-tcg-uprising-soaring-strike-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275681,
+      "name": "Flex",
+      "label": "Red",
+      "number": "UPR191",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275681/flesh-and-blood-tcg-uprising-flex-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275682,
+      "name": "Aether Icevein",
+      "label": "Red",
+      "number": "UPR113",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275682/flesh-and-blood-tcg-uprising-aether-icevein-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.54,
+          "low": 0.2,
+          "mid": 0.49
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275683,
+      "name": "Soaring Strike",
+      "label": "Blue",
+      "number": "UPR083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275683/flesh-and-blood-tcg-uprising-soaring-strike-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.02,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275684,
+      "name": "Combustion Point",
+      "number": "UPR050",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275684/flesh-and-blood-tcg-uprising-combustion-point",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.29,
+          "mid": 0.84
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.08,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275685,
+      "name": "Cold Snap",
+      "label": "Red",
+      "number": "UPR147",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275685/flesh-and-blood-tcg-uprising-cold-snap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.03,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 275686,
+      "name": "Flex",
+      "label": "Yellow",
+      "number": "UPR192",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275686/flesh-and-blood-tcg-uprising-flex-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275687,
+      "name": "Aether Icevein",
+      "label": "Yellow",
+      "number": "UPR114",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275687/flesh-and-blood-tcg-uprising-aether-icevein-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.19,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 275688,
+      "name": "Flex",
+      "label": "Blue",
+      "number": "UPR193",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275688/flesh-and-blood-tcg-uprising-flex-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275689,
+      "name": "Aether Icevein",
+      "label": "Blue",
+      "number": "UPR115",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275689/flesh-and-blood-tcg-uprising-aether-icevein-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.36,
+          "low": 0.21,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275690,
+      "name": "Rise from the Ashes",
+      "label": "Yellow",
+      "number": "UPR058",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275690/flesh-and-blood-tcg-uprising-rise-from-the-ashes-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.21
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.11,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275691,
+      "name": "Brain Freeze",
+      "label": "Red",
+      "number": "UPR116",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275691/flesh-and-blood-tcg-uprising-brain-freeze-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275692,
+      "name": "Flamescale Furnace",
+      "number": "UPR084",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275692/flesh-and-blood-tcg-uprising-flamescale-furnace",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 56.39,
+          "low": 49.99,
+          "mid": 95
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 47.89,
+          "low": 64,
+          "mid": 74.99
+        }
+      ]
+    },
+    {
+      "id": 275693,
+      "name": "Brain Freeze",
+      "label": "Yellow",
+      "number": "UPR117",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275693/flesh-and-blood-tcg-uprising-brain-freeze-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.02,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275694,
+      "name": "Cold Snap",
+      "label": "Yellow",
+      "number": "UPR148",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275694/flesh-and-blood-tcg-uprising-cold-snap-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.02,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 275695,
+      "name": "Sigil of Permafrost",
+      "label": "Red",
+      "number": "UPR106",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275695/flesh-and-blood-tcg-uprising-sigil-of-permafrost-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.16,
+          "mid": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275696,
+      "name": "Fyendal's Fighting Spirit",
+      "label": "Red",
+      "number": "UPR194",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275696/flesh-and-blood-tcg-uprising-fyendals-fighting-spirit-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33,
+          "low": 0.05,
+          "mid": 0.37
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.61,
+          "low": 2.66,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 275697,
+      "name": "Brain Freeze",
+      "label": "Blue",
+      "number": "UPR118",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275697/flesh-and-blood-tcg-uprising-brain-freeze-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.1,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 275698,
+      "name": "Fyendal's Fighting Spirit",
+      "label": "Yellow",
+      "number": "UPR195",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275698/flesh-and-blood-tcg-uprising-fyendals-fighting-spirit-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.1,
+          "mid": 0.4
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.03,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 275699,
+      "name": "Rise from the Ashes",
+      "label": "Blue",
+      "number": "UPR059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275699/flesh-and-blood-tcg-uprising-rise-from-the-ashes-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.14,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 275701,
+      "name": "Sash of Sandikai",
+      "number": "UPR085",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275701/flesh-and-blood-tcg-uprising-sash-of-sandikai",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.93,
+          "low": 0.25,
+          "mid": 1
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.33
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275702,
+      "name": "Freezing Point",
+      "number": "UPR105",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275702/flesh-and-blood-tcg-uprising-freezing-point",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.14,
+          "mid": 0.57
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.65,
+          "low": 0.49,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 275703,
+      "name": "Fyendal's Fighting Spirit",
+      "label": "Blue",
+      "number": "UPR196",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275703/flesh-and-blood-tcg-uprising-fyendals-fighting-spirit-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.3,
+          "mid": 0.68
+        }
+      ]
+    },
+    {
+      "id": 275704,
+      "name": "Icebind",
+      "label": "Red",
+      "number": "UPR119",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275704/flesh-and-blood-tcg-uprising-icebind-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.05,
+          "mid": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 275705,
+      "name": "Silent Stilettos",
+      "number": "UPR152",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275705/flesh-and-blood-tcg-uprising-silent-stilettos",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 1.29,
+          "low": 1,
+          "mid": 1.41
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.43,
+          "low": 0.16,
+          "mid": 0.45
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275706,
+      "name": "Brand with Cinderclaw",
+      "label": "Red",
+      "number": "UPR060",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275706/flesh-and-blood-tcg-uprising-brand-with-cinderclaw-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.32,
+          "low": 0.99,
+          "mid": 2.42
+        }
+      ]
+    },
+    {
+      "id": 275707,
+      "name": "Icebind",
+      "label": "Yellow",
+      "number": "UPR120",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275707/flesh-and-blood-tcg-uprising-icebind-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275708,
+      "name": "Brand with Cinderclaw",
+      "label": "Yellow",
+      "number": "UPR061",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275708/flesh-and-blood-tcg-uprising-brand-with-cinderclaw-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.74,
+          "low": 0.3,
+          "mid": 0.74
+        }
+      ]
+    },
+    {
+      "id": 275709,
+      "name": "Sift",
+      "label": "Red",
+      "number": "UPR197",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275709/flesh-and-blood-tcg-uprising-sift-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.51,
+          "low": 0.09,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 275710,
+      "name": "Semblance",
+      "number": "UPR154",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275710/flesh-and-blood-tcg-uprising-semblance",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.27,
+          "mid": 0.69
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275711,
+      "name": "Iyslander",
+      "label": "Marvel",
+      "number": "UPR103",
+      "rarity": "Marvel",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275711/flesh-and-blood-tcg-uprising-iyslander-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 114.66,
+          "low": 94.95,
+          "mid": 109.99
+        }
+      ]
+    },
+    {
+      "id": 275712,
+      "name": "Brand with Cinderclaw",
+      "label": "Blue",
+      "number": "UPR062",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275712/flesh-and-blood-tcg-uprising-brand-with-cinderclaw-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.41,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 275713,
+      "name": "Sift",
+      "label": "Yellow",
+      "number": "UPR198",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275713/flesh-and-blood-tcg-uprising-sift-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.2,
+          "mid": 0.46
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275714,
+      "name": "Blaze Headlong",
+      "number": "UPR092",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275714/flesh-and-blood-tcg-uprising-blaze-headlong",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.13,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 275716,
+      "name": "Tiger Stripe Shuko",
+      "number": "UPR158",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275716/flesh-and-blood-tcg-uprising-tiger-stripe-shuko",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 23.07,
+          "low": 20,
+          "mid": 28.24
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 34.11,
+          "low": 32.99,
+          "mid": 37.57
+        }
+      ]
+    },
+    {
+      "id": 275717,
+      "name": "Lava Vein Loyalty",
+      "label": "Yellow",
+      "number": "UPR070",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275717/flesh-and-blood-tcg-uprising-lava-vein-loyalty-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275718,
+      "name": "Polar Cap",
+      "label": "Red",
+      "number": "UPR122",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275718/flesh-and-blood-tcg-uprising-polar-cap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.18
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 275719,
+      "name": "Flamecall Awakening",
+      "label": "Extended Art",
+      "number": "UPR096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275719_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275719/flesh-and-blood-tcg-uprising-flamecall-awakening-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 7.31,
+          "low": 3.52,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 275720,
+      "name": "Tide Flippers",
+      "number": "UPR159",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275720/flesh-and-blood-tcg-uprising-tide-flippers",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.24,
+          "mid": 0.5
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.01,
+          "mid": 0.24
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 3.12,
+          "low": 1,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 275721,
+      "name": "Polar Cap",
+      "label": "Yellow",
+      "number": "UPR123",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275721_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275721/flesh-and-blood-tcg-uprising-polar-cap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275723,
+      "name": "Lava Vein Loyalty",
+      "label": "Blue",
+      "number": "UPR071",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275723/flesh-and-blood-tcg-uprising-lava-vein-loyalty-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.58,
+          "low": 0.1,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 275724,
+      "name": "Rapid Reflex",
+      "label": "Red",
+      "number": "UPR162",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275724/flesh-and-blood-tcg-uprising-rapid-reflex-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 275725,
+      "name": "Inflame",
+      "label": "Extended Art",
+      "number": "UPR097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275725_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275725/flesh-and-blood-tcg-uprising-inflame-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.11,
+          "low": 2.97,
+          "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 275726,
+      "name": "Polar Cap",
+      "label": "Blue",
+      "number": "UPR124",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275726_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275726/flesh-and-blood-tcg-uprising-polar-cap-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275727,
+      "name": "Rebellious Rush",
+      "label": "Red",
+      "number": "UPR072",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275727/flesh-and-blood-tcg-uprising-rebellious-rush-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275728,
+      "name": "Rapid Reflex",
+      "label": "Yellow",
+      "number": "UPR163",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275728/flesh-and-blood-tcg-uprising-rapid-reflex-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275729,
+      "name": "Rebellious Rush",
+      "label": "Yellow",
+      "number": "UPR073",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275729/flesh-and-blood-tcg-uprising-rebellious-rush-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.03,
+          "mid": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275730,
+      "name": "Stoke the Flames",
+      "label": "Extended Art",
+      "number": "UPR100",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275730/flesh-and-blood-tcg-uprising-stoke-the-flames-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.25,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 275731,
+      "name": "Rapid Reflex",
+      "label": "Blue",
+      "number": "UPR164",
+      "rarity": "Rare",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275731/flesh-and-blood-tcg-uprising-rapid-reflex-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275732,
+      "name": "Conduit of Frostburn",
+      "number": "UPR125",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275732/flesh-and-blood-tcg-uprising-conduit-of-frostburn",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 0.5,
+          "low": 0.25,
+          "mid": 0.75
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.08,
+          "mid": 0.44
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 275733,
+      "name": "Spellfire Cloak",
+      "number": "UPR167",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275733/flesh-and-blood-tcg-uprising-spellfire-cloak",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.31,
+          "low": 0.06,
+          "mid": 0.34
+        },
+        {
+          "sub": "Cold Foil",
+          "usd": 1.39,
+          "low": 0.77,
+          "mid": 1.43
+        }
+      ]
+    },
+    {
+      "id": 275734,
+      "name": "Searing Touch",
+      "number": "UPR099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275734/flesh-and-blood-tcg-uprising-searing-touch",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 275735,
+      "name": "Tome of Duplicity",
+      "number": "UPR168",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275735/flesh-and-blood-tcg-uprising-tome-of-duplicity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.49
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.33,
+          "mid": 0.66
+        }
+      ]
+    },
+    {
+      "id": 275736,
+      "name": "Aether Hail",
+      "label": "Red",
+      "number": "UPR127",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275736/flesh-and-blood-tcg-uprising-aether-hail-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275737,
+      "name": "Aether Hail",
+      "label": "Yellow",
+      "number": "UPR128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275737/flesh-and-blood-tcg-uprising-aether-hail-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275738,
+      "name": "Aether Hail",
+      "label": "Blue",
+      "number": "UPR129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275738/flesh-and-blood-tcg-uprising-aether-hail-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.13,
+          "mid": 0.45
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275739,
+      "name": "Frosting",
+      "label": "Red",
+      "number": "UPR130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275739/flesh-and-blood-tcg-uprising-frosting-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.02,
+          "mid": 0.31
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275740,
+      "name": "Frosting",
+      "label": "Yellow",
+      "number": "UPR131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275740/flesh-and-blood-tcg-uprising-frosting-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275741,
+      "name": "Frosting",
+      "label": "Blue",
+      "number": "UPR132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275741/flesh-and-blood-tcg-uprising-frosting-blue",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.48,
+          "low": 0.15,
+          "mid": 0.47
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 275742,
+      "name": "Dust Runner Outlaw",
+      "label": "Red",
+      "number": "UPR066",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275742/flesh-and-blood-tcg-uprising-dust-runner-outlaw-red",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275743,
+      "name": "Dust Runner Outlaw",
+      "label": "Yellow",
+      "number": "UPR067",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275743/flesh-and-blood-tcg-uprising-dust-runner-outlaw-yellow",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 275744,
+      "name": "Dust Runner Outlaw",
+      "label": "Blue",
+      "number": "UPR068",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275744/flesh-and-blood-tcg-uprising-dust-runner-outlaw-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275745,
+      "name": "Breaking Point",
+      "number": "UPR093",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275745/flesh-and-blood-tcg-uprising-breaking-point",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.23
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.6,
+          "low": 0.3,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 275748,
+      "name": "Ash // Aether Ashwing",
+      "label": "Cold Foil · Cold Foil",
+      "number": "UPR043",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275748/flesh-and-blood-tcg-uprising-ash-cold-foil-aether-ashwing-cold-foil",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 8.78,
+          "low": 5,
+          "mid": 10
+        }
+      ]
+    },
+    {
+      "id": 275749,
+      "name": "Ash // Aether Ashwing",
+      "label": "Marvel · Marvel",
+      "number": "UPR043",
+      "rarity": "Marvel",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275749/flesh-and-blood-tcg-uprising-ash-marvel-aether-ashwing-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 68.77,
+          "low": 64.95,
+          "mid": 69.99
+        }
+      ]
+    },
+    {
+      "id": 275752,
+      "name": "Phoenix Form",
+      "label": "Extended Art",
+      "number": "UPR048",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275752/flesh-and-blood-tcg-uprising-phoenix-form-extended-art",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 3.99,
+          "low": 2,
+          "mid": 4.76
+        }
+      ]
+    },
+    {
+      "id": 275759,
+      "name": "Phoenix Flame",
+      "label": "Marvel",
+      "number": "UPR101",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275759_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275759/flesh-and-blood-tcg-uprising-phoenix-flame-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 19.64,
+          "low": 13.99,
+          "mid": 20.83
+        }
+      ]
+    },
+    {
+      "id": 275834,
+      "name": "Dromai // Waning Moon",
+      "number": "UPR002//UPR165",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275834_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275834/flesh-and-blood-tcg-uprising-dromai-waning-moon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275835,
+      "name": "Fai // Storm of Sandikai",
+      "number": "UPR045//UPR003",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275835/flesh-and-blood-tcg-uprising-fai-storm-of-sandikai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275836,
+      "name": "Iyslander // Searing Emberblade",
+      "number": "UPR103//UPR046",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275836/flesh-and-blood-tcg-uprising-iyslander-searing-emberblade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275837,
+      "name": "Dromai, Ash Artist // Dromai",
+      "number": "UPR001//UPR002",
+      "rarity": "Token",
+      "type": "Hero;Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275837/flesh-and-blood-tcg-uprising-dromai-ash-artist-dromai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.13,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 275838,
+      "name": "Frostbite // Helio's Mitre",
+      "number": "UPR150/UPR183",
+      "rarity": "Token",
+      "type": "Equipment;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275838_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275838/flesh-and-blood-tcg-uprising-frostbite-helios-mitre",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 275839,
+      "name": "Fai, Rising Rebellion // Fai",
+      "number": "UPR044//UPR045",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275839_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275839/flesh-and-blood-tcg-uprising-fai-rising-rebellion-fai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.12,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 275840,
+      "name": "Aether Ashwing // Ash",
+      "number": "UPR042//UPR043",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275840/flesh-and-blood-tcg-uprising-aether-ashwing-ash",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 275841,
+      "name": "Iyslander, Stormbind // Iyslander",
+      "number": "UPR102//UPR103",
+      "rarity": "Token",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/275841_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/275841/flesh-and-blood-tcg-uprising-iyslander-stormbind-iyslander",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 278399,
+      "name": "Invoke Miragai // Miragai",
+      "number": "UPR012",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278399/flesh-and-blood-tcg-uprising-invoke-miragai-miragai",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.73,
+          "low": 0.1,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 278400,
+      "name": "Invoke Miragai // Miragai",
+      "label": "Marvel",
+      "number": "UPR012",
+      "rarity": "Marvel",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278400/flesh-and-blood-tcg-uprising-invoke-miragai-miragai-marvel",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 30.09,
+          "low": 26.96,
+          "mid": 40.16
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

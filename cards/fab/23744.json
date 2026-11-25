@@ -1,0 +1,501 @@
+{
+  "groupId": 23744,
+  "cards": [
+    {
+      "id": 577230,
+      "name": "Oscilio",
+      "number": "OSC001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577230_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577230/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-oscilio",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 2.72,
+          "low": 2.62,
+          "mid": 4.19
+        }
+      ]
+    },
+    {
+      "id": 577231,
+      "name": "Volzar, the Lightning Rod",
+      "number": "OSC002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577231/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-volzar-the-lightning-rod",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1,
+          "low": 3,
+          "mid": 8
+        }
+      ]
+    },
+    {
+      "id": 577232,
+      "name": "Flash of Brilliance",
+      "number": "OSC003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577232/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-flash-of-brilliance",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.24,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 577233,
+      "name": "Ink-lined Cloak",
+      "number": "OSC004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577233/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-ink-lined-cloak",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.09,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 577234,
+      "name": "Hold Focus",
+      "number": "OSC005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577234/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-hold-focus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577235,
+      "name": "Twinkle Toes",
+      "number": "OSC006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577235_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577235/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-twinkle-toes",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577236,
+      "name": "Blast to Oblivion",
+      "label": "Red",
+      "number": "OSC007",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577236_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577236/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-blast-to-oblivion-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 577237,
+      "name": "Flittering Charge",
+      "label": "Red",
+      "number": "OSC008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577237/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-flittering-charge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 577238,
+      "name": "Fry",
+      "label": "Red",
+      "number": "OSC009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577238/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-fry-red",
+      "prices": []
+    },
+    {
+      "id": 577239,
+      "name": "Lightning Surge",
+      "label": "Red",
+      "number": "OSC010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577239/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-lightning-surge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577240,
+      "name": "Aether Quickening",
+      "label": "Red",
+      "number": "OSC011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577240/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-aether-quickening-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577241,
+      "name": "Arcane Twining",
+      "label": "Red",
+      "number": "OSC012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577241_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577241/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-arcane-twining-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 577242,
+      "name": "Comet Storm // Shock",
+      "number": "OSC013",
+      "rarity": "Rare",
+      "type": "Action;Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577242_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577242/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-comet-storm-shock",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.24,
+          "low": 2.78,
+          "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 577243,
+      "name": "Etchings of Arcana",
+      "label": "Red",
+      "number": "OSC014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577243/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-etchings-of-arcana-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.1,
+          "low": 1.62,
+          "mid": 1.99
+        }
+      ]
+    },
+    {
+      "id": 577244,
+      "name": "Exploding Aether",
+      "label": "Red",
+      "number": "OSC015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577244/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-exploding-aether-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577245,
+      "name": "Flash",
+      "label": "Red",
+      "number": "OSC016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577245_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577245/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-flash-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577246,
+      "name": "Glyph Overlay",
+      "label": "Red",
+      "number": "OSC017",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577246/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-glyph-overlay-red",
+      "prices": []
+    },
+    {
+      "id": 577247,
+      "name": "Photon Splicing",
+      "label": "Red",
+      "number": "OSC018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577247/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-photon-splicing-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.24,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 577248,
+      "name": "Trailblazing Aether",
+      "label": "Red",
+      "number": "OSC019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577248_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577248/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-trailblazing-aether-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 577249,
+      "name": "Electrostatic Discharge",
+      "label": "Red",
+      "number": "OSC020",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577249/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-electrostatic-discharge-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.25,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 577250,
+      "name": "Etchings of Arcana",
+      "label": "Yellow",
+      "number": "OSC021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577250/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-etchings-of-arcana-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.25,
+          "mid": 0.91
+        }
+      ]
+    },
+    {
+      "id": 577251,
+      "name": "Chorus of the Amphitheater",
+      "label": "Blue",
+      "number": "OSC022",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577251/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-chorus-of-the-amphitheater-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577252,
+      "name": "Etchings of Arcana",
+      "label": "Blue",
+      "number": "OSC023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577252/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-etchings-of-arcana-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66,
+          "low": 0.4,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 577253,
+      "name": "Sigil of Conductivity",
+      "number": "OSC024",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577253/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-sigil-of-conductivity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.21,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 577254,
+      "name": "Sigil of Forethought",
+      "number": "OSC025",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577254/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-sigil-of-forethought",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577255,
+      "name": "Sigil of Lightning",
+      "number": "OSC026",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577255/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-sigil-of-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 577256,
+      "name": "Embodiment of Lightning",
+      "number": "OSC027",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577256/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-embodiment-of-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 577257,
+      "name": "Ponder",
+      "number": "OSC029",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/577257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/577257/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-ponder",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.25,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 581070,
+      "name": "Sanctuary of Aria",
+      "number": "OSC028",
+      "rarity": "None",
+      "type": "Macro",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/581070_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/581070/flesh-and-blood-tcg-blitz-deck-rosetta-oscilio-sanctuary-of-aria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

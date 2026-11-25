@@ -1,0 +1,5050 @@
+{
+  "groupId": 2947,
+  "cards": [
+    {
+      "id": 261310,
+      "name": "Grandeur of Valahai",
+      "number": "EVR000",
+      "rarity": "Fabled",
+      "type": "Resource",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261310/flesh-and-blood-tcg-everfest-grandeur-of-valahai",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 109.03,
+          "low": 111.78,
+          "mid": 122.95
+        }
+      ]
+    },
+    {
+      "id": 261311,
+      "name": "Skull Crushers",
+      "number": "EVR001",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261311/flesh-and-blood-tcg-everfest-skull-crushers",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.01,
+          "low": 0.65,
+          "mid": 1.55
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.48,
+          "low": 0.18,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261312,
+      "name": "Swing Big",
+      "number": "EVR002",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261312/flesh-and-blood-tcg-everfest-swing-big",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 11.07,
+          "low": 9.08,
+          "mid": 13.72
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 13.65,
+          "low": 12.07,
+          "mid": 14.83
+        }
+      ]
+    },
+    {
+      "id": 261313,
+      "name": "Ready to Roll",
+      "number": "EVR003",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261313/flesh-and-blood-tcg-everfest-ready-to-roll",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.62,
+          "low": 0.2,
+          "mid": 0.5
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.56,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261314,
+      "name": "Rolling Thunder",
+      "number": "EVR004",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261314/flesh-and-blood-tcg-everfest-rolling-thunder",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.66,
+          "low": 0.25,
+          "mid": 0.97
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.19,
+          "low": 0.04,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261315,
+      "name": "High Roller",
+      "label": "Red",
+      "number": "EVR005",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261315/flesh-and-blood-tcg-everfest-high-roller-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261316,
+      "name": "High Roller",
+      "label": "Yellow",
+      "number": "EVR006",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261316/flesh-and-blood-tcg-everfest-high-roller-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.19,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261317,
+      "name": "High Roller",
+      "label": "Blue",
+      "number": "EVR007",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261317/flesh-and-blood-tcg-everfest-high-roller-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 261318,
+      "name": "Bare Fangs",
+      "label": "Red",
+      "number": "EVR008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261318/flesh-and-blood-tcg-everfest-bare-fangs-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.19,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261319,
+      "name": "Bare Fangs",
+      "label": "Yellow",
+      "number": "EVR009",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261319/flesh-and-blood-tcg-everfest-bare-fangs-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.05,
+          "mid": 0.31
+        }
+      ]
+    },
+    {
+      "id": 261320,
+      "name": "Bare Fangs",
+      "label": "Blue",
+      "number": "EVR010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261320/flesh-and-blood-tcg-everfest-bare-fangs-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.49,
+          "low": 0.04,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 261321,
+      "name": "Wild Ride",
+      "label": "Red",
+      "number": "EVR011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261321/flesh-and-blood-tcg-everfest-wild-ride-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.05,
+          "mid": 0.4
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.17,
+          "low": 0.04,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 261322,
+      "name": "Wild Ride",
+      "label": "Yellow",
+      "number": "EVR012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261322/flesh-and-blood-tcg-everfest-wild-ride-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.03,
+          "mid": 0.19
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261323,
+      "name": "Wild Ride",
+      "label": "Blue",
+      "number": "EVR013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261323/flesh-and-blood-tcg-everfest-wild-ride-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.18,
+          "low": 0.01,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 261324,
+      "name": "Bad Beats",
+      "label": "Red",
+      "number": "EVR014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261324/flesh-and-blood-tcg-everfest-bad-beats-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.05,
+          "mid": 0.32
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 261325,
+      "name": "Bad Beats",
+      "label": "Yellow",
+      "number": "EVR015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261325/flesh-and-blood-tcg-everfest-bad-beats-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261326,
+      "name": "Bad Beats",
+      "label": "Blue",
+      "number": "EVR016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261326/flesh-and-blood-tcg-everfest-bad-beats-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261327,
+      "name": "Bravo, Star of the Show",
+      "number": "EVR017",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261327/flesh-and-blood-tcg-everfest-bravo-star-of-the-show",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.23,
+          "low": 0.01,
+          "mid": 0.45
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 5.59,
+          "low": 3.49,
+          "mid": 8.79
+        }
+      ]
+    },
+    {
+      "id": 261328,
+      "name": "Stalagmite, Bastion of Isenloft",
+      "number": "EVR018",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261328/flesh-and-blood-tcg-everfest-stalagmite-bastion-of-isenloft",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 85.93,
+          "low": 89,
+          "mid": 94.72
+        }
+      ]
+    },
+    {
+      "id": 261329,
+      "name": "Valda Brightaxe",
+      "number": "EVR019",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261329/flesh-and-blood-tcg-everfest-valda-brightaxe",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.29,
+          "low": 0.07,
+          "mid": 0.37
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.1,
+          "mid": 0.69
+        }
+      ]
+    },
+    {
+      "id": 261330,
+      "name": "Earthlore Bounty",
+      "number": "EVR020",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261330/flesh-and-blood-tcg-everfest-earthlore-bounty",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.7,
+          "low": 0.24,
+          "mid": 0.78
+        }
+      ]
+    },
+    {
+      "id": 261331,
+      "name": "Pulverize",
+      "number": "EVR021",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261331/flesh-and-blood-tcg-everfest-pulverize",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.63,
+          "low": 0.85,
+          "mid": 3.3
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 4.48,
+          "low": 3.69,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 261332,
+      "name": "Pulverize",
+      "label": "Extended Art",
+      "number": "EVR021",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261332/flesh-and-blood-tcg-everfest-pulverize-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 27.32,
+          "low": 19.99,
+          "mid": 25
+        }
+      ]
+    },
+    {
+      "id": 261333,
+      "name": "Imposing Visage",
+      "number": "EVR022",
+      "rarity": "Majestic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261333/flesh-and-blood-tcg-everfest-imposing-visage",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 20.34,
+          "low": 19.69,
+          "mid": 23
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 19.48,
+          "low": 15.6,
+          "mid": 20.22
+        }
+      ]
+    },
+    {
+      "id": 261334,
+      "name": "Nerves of Steel",
+      "number": "EVR023",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261334/flesh-and-blood-tcg-everfest-nerves-of-steel",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.92,
+          "low": 0.48,
+          "mid": 1.19
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.52,
+          "low": 0.2,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 261335,
+      "name": "Thunder Quake",
+      "label": "Red",
+      "number": "EVR024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261335/flesh-and-blood-tcg-everfest-thunder-quake-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.19,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 261336,
+      "name": "Thunder Quake",
+      "label": "Yellow",
+      "number": "EVR025",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261336/flesh-and-blood-tcg-everfest-thunder-quake-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261337,
+      "name": "Thunder Quake",
+      "label": "Blue",
+      "number": "EVR026",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261337/flesh-and-blood-tcg-everfest-thunder-quake-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.29,
+          "low": 0.2,
+          "mid": 0.4
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.96,
+          "low": 0.7,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261338,
+      "name": "Thunder Quake",
+      "label": "Red · Extended Art",
+      "number": "EVR024",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261338/flesh-and-blood-tcg-everfest-thunder-quake-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.23,
+          "low": 1.08,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 261339,
+      "name": "Thunder Quake",
+      "label": "Yellow · Extended Art",
+      "number": "EVR025",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261339/flesh-and-blood-tcg-everfest-thunder-quake-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.19,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261340,
+      "name": "Thunder Quake",
+      "label": "Blue · Extended Art",
+      "number": "EVR026",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261340/flesh-and-blood-tcg-everfest-thunder-quake-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 6.47,
+          "low": 4.5,
+          "mid": 6.99
+        }
+      ]
+    },
+    {
+      "id": 261341,
+      "name": "Macho Grande",
+      "label": "Red",
+      "number": "EVR027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261341/flesh-and-blood-tcg-everfest-macho-grande-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261342,
+      "name": "Macho Grande",
+      "label": "Yellow",
+      "number": "EVR028",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261342/flesh-and-blood-tcg-everfest-macho-grande-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261343,
+      "name": "Macho Grande",
+      "label": "Blue",
+      "number": "EVR029",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261343/flesh-and-blood-tcg-everfest-macho-grande-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.1,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.14,
+          "mid": 0.36
+        }
+      ]
+    },
+    {
+      "id": 261344,
+      "name": "Seismic Stir",
+      "label": "Red",
+      "number": "EVR030",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261344/flesh-and-blood-tcg-everfest-seismic-stir-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261345,
+      "name": "Seismic Stir",
+      "label": "Yellow",
+      "number": "EVR031",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261345/flesh-and-blood-tcg-everfest-seismic-stir-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261346,
+      "name": "Twin Twisters",
+      "label": "Red",
+      "number": "EVR047",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261346/flesh-and-blood-tcg-everfest-twin-twisters-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.04,
+          "mid": 0.22
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261347,
+      "name": "Seismic Stir",
+      "label": "Blue",
+      "number": "EVR032",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261347/flesh-and-blood-tcg-everfest-seismic-stir-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.03,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261348,
+      "name": "Twin Twisters",
+      "label": "Yellow",
+      "number": "EVR048",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261348/flesh-and-blood-tcg-everfest-twin-twisters-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261349,
+      "name": "Twin Twisters",
+      "label": "Blue",
+      "number": "EVR049",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261349/flesh-and-blood-tcg-everfest-twin-twisters-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261350,
+      "name": "Steadfast",
+      "label": "Red",
+      "number": "EVR033",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261350/flesh-and-blood-tcg-everfest-steadfast-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.26
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.02,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 261351,
+      "name": "Wax On",
+      "label": "Red",
+      "number": "EVR050",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261351/flesh-and-blood-tcg-everfest-wax-on-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.39,
+          "low": 0.1,
+          "mid": 0.39
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.23
+        }
+      ]
+    },
+    {
+      "id": 261352,
+      "name": "Steadfast",
+      "label": "Yellow",
+      "number": "EVR034",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261352/flesh-and-blood-tcg-everfest-steadfast-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261353,
+      "name": "Wax On",
+      "label": "Yellow",
+      "number": "EVR051",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261353/flesh-and-blood-tcg-everfest-wax-on-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.29,
+          "low": 0.05,
+          "mid": 0.29
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261354,
+      "name": "Steadfast",
+      "label": "Blue",
+      "number": "EVR035",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261354/flesh-and-blood-tcg-everfest-steadfast-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.05,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 261355,
+      "name": "Wax On",
+      "label": "Blue",
+      "number": "EVR052",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261355/flesh-and-blood-tcg-everfest-wax-on-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261356,
+      "name": "Seismic Surge",
+      "number": "EVR036",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261356/flesh-and-blood-tcg-everfest-seismic-surge",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 261357,
+      "name": "Shatter",
+      "number": "EVR054",
+      "rarity": "Majestic",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261357/flesh-and-blood-tcg-everfest-shatter",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.88,
+          "low": 0.28,
+          "mid": 1
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.41,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261358,
+      "name": "Blood on Her Hands",
+      "number": "EVR055",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261358/flesh-and-blood-tcg-everfest-blood-on-her-hands",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.9,
+          "low": 0.74,
+          "mid": 2.9
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 2.72,
+          "low": 0.89,
+          "mid": 5.49
+        }
+      ]
+    },
+    {
+      "id": 261359,
+      "name": "Mask of the Pouncing Lynx",
+      "number": "EVR037",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261359/flesh-and-blood-tcg-everfest-mask-of-the-pouncing-lynx",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 3.4,
+          "low": 0.5,
+          "mid": 4.13
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 10.33,
+          "low": 3.53,
+          "mid": 11.18
+        }
+      ]
+    },
+    {
+      "id": 261360,
+      "name": "Oath of Steel",
+      "number": "EVR056",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261360/flesh-and-blood-tcg-everfest-oath-of-steel",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.69,
+          "low": 0.82,
+          "mid": 3
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 5.02,
+          "low": 2.84,
+          "mid": 5.11
+        }
+      ]
+    },
+    {
+      "id": 261361,
+      "name": "Break Tide",
+      "number": "EVR038",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261361/flesh-and-blood-tcg-everfest-break-tide",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.99,
+          "low": 0.25,
+          "mid": 1.07
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.35,
+          "low": 0.75,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 261362,
+      "name": "Slice and Dice",
+      "label": "Red",
+      "number": "EVR057",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261362/flesh-and-blood-tcg-everfest-slice-and-dice-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.46,
+          "low": 0.3,
+          "mid": 0.57
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.11,
+          "low": 0.56,
+          "mid": 1.87
+        }
+      ]
+    },
+    {
+      "id": 261363,
+      "name": "Spring Tidings",
+      "number": "EVR039",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261363/flesh-and-blood-tcg-everfest-spring-tidings",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.47,
+          "low": 0.25,
+          "mid": 0.79
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.11,
+          "low": 0.8,
+          "mid": 1.98
+        }
+      ]
+    },
+    {
+      "id": 261364,
+      "name": "Slice and Dice",
+      "label": "Red · Extended Art",
+      "number": "EVR057",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261364/flesh-and-blood-tcg-everfest-slice-and-dice-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 5.3,
+          "low": 3.23,
+          "mid": 6
+        }
+      ]
+    },
+    {
+      "id": 261365,
+      "name": "Winds of Eternity",
+      "number": "EVR040",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261365/flesh-and-blood-tcg-everfest-winds-of-eternity",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 2.98,
+          "low": 2.51,
+          "mid": 3.99
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.69,
+          "low": 2,
+          "mid": 5.49
+        }
+      ]
+    },
+    {
+      "id": 261366,
+      "name": "Slice and Dice",
+      "label": "Yellow · Extended Art",
+      "number": "EVR058",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261366/flesh-and-blood-tcg-everfest-slice-and-dice-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 3.08,
+          "low": 1.46,
+          "mid": 3.19
+        }
+      ]
+    },
+    {
+      "id": 261367,
+      "name": "Slice and Dice",
+      "label": "Yellow",
+      "number": "EVR058",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261367/flesh-and-blood-tcg-everfest-slice-and-dice-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.53,
+          "low": 0.2,
+          "mid": 0.39
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.23,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261368,
+      "name": "Winds of Eternity",
+      "label": "Extended Art",
+      "number": "EVR040",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261368/flesh-and-blood-tcg-everfest-winds-of-eternity-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 16.28,
+          "low": 13.9,
+          "mid": 20.74
+        }
+      ]
+    },
+    {
+      "id": 261369,
+      "name": "Helm of Sharp Eye",
+      "number": "EVR053",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261369/flesh-and-blood-tcg-everfest-helm-of-sharp-eye",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.55,
+          "low": 0.23,
+          "mid": 0.65
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 9.04,
+          "low": 2.25,
+          "mid": 9.01
+        }
+      ]
+    },
+    {
+      "id": 261370,
+      "name": "Hundred Winds",
+      "label": "Red",
+      "number": "EVR041",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261370/flesh-and-blood-tcg-everfest-hundred-winds-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.97,
+          "low": 0.5,
+          "mid": 0.98
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.43,
+          "low": 0.28,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 261371,
+      "name": "Hundred Winds",
+      "label": "Yellow",
+      "number": "EVR042",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261371/flesh-and-blood-tcg-everfest-hundred-winds-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.1,
+          "mid": 0.5
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.23,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261372,
+      "name": "Slice and Dice",
+      "label": "Blue",
+      "number": "EVR059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261372/flesh-and-blood-tcg-everfest-slice-and-dice-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.16,
+          "low": 0.14,
+          "mid": 0.37
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 261373,
+      "name": "Slice and Dice",
+      "label": "Blue · Extended Art",
+      "number": "EVR059",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261373/flesh-and-blood-tcg-everfest-slice-and-dice-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.22,
+          "mid": 0.62
+        }
+      ]
+    },
+    {
+      "id": 261374,
+      "name": "Hundred Winds",
+      "label": "Blue",
+      "number": "EVR043",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261374/flesh-and-blood-tcg-everfest-hundred-winds-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.34,
+          "low": 0.22,
+          "mid": 0.45
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261375,
+      "name": "Hundred Winds",
+      "label": "Blue · Extended Art",
+      "number": "EVR043",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261375/flesh-and-blood-tcg-everfest-hundred-winds-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 2.12,
+          "low": 1.77,
+          "mid": 2.36
+        }
+      ]
+    },
+    {
+      "id": 261376,
+      "name": "Hundred Winds",
+      "label": "Yellow · Extended Art",
+      "number": "EVR042",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261376/flesh-and-blood-tcg-everfest-hundred-winds-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.36,
+          "low": 0.65,
+          "mid": 1.15
+        }
+      ]
+    },
+    {
+      "id": 261377,
+      "name": "Hundred Winds",
+      "label": "Red · Extended Art",
+      "number": "EVR041",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261377/flesh-and-blood-tcg-everfest-hundred-winds-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 4.92,
+          "low": 3.25,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 261378,
+      "name": "Blade Runner",
+      "label": "Red",
+      "number": "EVR060",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261378/flesh-and-blood-tcg-everfest-blade-runner-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.19,
+          "mid": 0.33
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261379,
+      "name": "Blade Runner",
+      "label": "Yellow",
+      "number": "EVR061",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261379_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261379/flesh-and-blood-tcg-everfest-blade-runner-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.21
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.2,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 261380,
+      "name": "Blade Runner",
+      "label": "Blue",
+      "number": "EVR062",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261380/flesh-and-blood-tcg-everfest-blade-runner-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.1,
+          "mid": 0.34
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261381,
+      "name": "In the Swing",
+      "label": "Red",
+      "number": "EVR063",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261381/flesh-and-blood-tcg-everfest-in-the-swing-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.21,
+          "low": 0.1,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 261382,
+      "name": "Ride the Tailwind",
+      "label": "Red",
+      "number": "EVR044",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261382/flesh-and-blood-tcg-everfest-ride-the-tailwind-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261383,
+      "name": "Ride the Tailwind",
+      "label": "Yellow",
+      "number": "EVR045",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261383_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261383/flesh-and-blood-tcg-everfest-ride-the-tailwind-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.02,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261384,
+      "name": "Ride the Tailwind",
+      "label": "Blue",
+      "number": "EVR046",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261384_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261384/flesh-and-blood-tcg-everfest-ride-the-tailwind-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261385,
+      "name": "Vexing Quillhand",
+      "number": "EVR103",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261385_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261385/flesh-and-blood-tcg-everfest-vexing-quillhand",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 7.93,
+          "low": 5.51,
+          "mid": 8.98
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 1.79,
+          "low": 1.22,
+          "mid": 3
+        }
+      ]
+    },
+    {
+      "id": 261386,
+      "name": "Runic Reclamation",
+      "number": "EVR104",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261386_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261386/flesh-and-blood-tcg-everfest-runic-reclamation",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 1.04,
+          "low": 0.5,
+          "mid": 1.04
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.71,
+          "low": 0.46,
+          "mid": 2.09
+        }
+      ]
+    },
+    {
+      "id": 261387,
+      "name": "Swarming Gloomveil",
+      "number": "EVR105",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261387_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261387/flesh-and-blood-tcg-everfest-swarming-gloomveil",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 7.72,
+          "low": 5.89,
+          "mid": 10.03
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 13.5,
+          "low": 8.38,
+          "mid": 12.13
+        }
+      ]
+    },
+    {
+      "id": 261388,
+      "name": "Revel in Runeblood",
+      "number": "EVR106",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261388_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261388/flesh-and-blood-tcg-everfest-revel-in-runeblood",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 14.71,
+          "low": 12.89,
+          "mid": 15.13
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 8.21,
+          "low": 5.65,
+          "mid": 8.95
+        }
+      ]
+    },
+    {
+      "id": 261389,
+      "name": "Runeblood Incantation",
+      "label": "Red",
+      "number": "EVR107",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261389_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261389/flesh-and-blood-tcg-everfest-runeblood-incantation-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 2.27,
+          "low": 2.12,
+          "mid": 2.35
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.58,
+          "low": 0.5,
+          "mid": 1.47
+        }
+      ]
+    },
+    {
+      "id": 261390,
+      "name": "Runeblood Incantation",
+      "label": "Yellow",
+      "number": "EVR108",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261390_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261390/flesh-and-blood-tcg-everfest-runeblood-incantation-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.17,
+          "low": 0.05,
+          "mid": 0.21
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.45,
+          "low": 0.1,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 261391,
+      "name": "Runeblood Incantation",
+      "label": "Blue",
+      "number": "EVR109",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261391_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261391/flesh-and-blood-tcg-everfest-runeblood-incantation-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.99,
+          "low": 0.03,
+          "mid": 0.28
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261392,
+      "name": "Runeblood Incantation",
+      "label": "Blue · Extended Art",
+      "number": "EVR109",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261392_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261392/flesh-and-blood-tcg-everfest-runeblood-incantation-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.56,
+          "low": 0.17,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 261393,
+      "name": "Runeblood Incantation",
+      "label": "Yellow · Extended Art",
+      "number": "EVR108",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261393/flesh-and-blood-tcg-everfest-runeblood-incantation-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.75
+        }
+      ]
+    },
+    {
+      "id": 261394,
+      "name": "Runeblood Incantation",
+      "label": "Red · Extended Art",
+      "number": "EVR107",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261394/flesh-and-blood-tcg-everfest-runeblood-incantation-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 16.5,
+          "low": 8.04,
+          "mid": 14.94
+        }
+      ]
+    },
+    {
+      "id": 261395,
+      "name": "Drowning Dire",
+      "label": "Red",
+      "number": "EVR110",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261395/flesh-and-blood-tcg-everfest-drowning-dire-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261396,
+      "name": "Drowning Dire",
+      "label": "Yellow",
+      "number": "EVR111",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261396/flesh-and-blood-tcg-everfest-drowning-dire-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261397,
+      "name": "Drowning Dire",
+      "label": "Blue",
+      "number": "EVR112",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261397/flesh-and-blood-tcg-everfest-drowning-dire-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.06,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261398,
+      "name": "Reek of Corruption",
+      "label": "Red",
+      "number": "EVR113",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261398/flesh-and-blood-tcg-everfest-reek-of-corruption-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.18,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261399,
+      "name": "Reek of Corruption",
+      "label": "Yellow",
+      "number": "EVR114",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261399/flesh-and-blood-tcg-everfest-reek-of-corruption-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.22
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261400,
+      "name": "Reek of Corruption",
+      "label": "Blue",
+      "number": "EVR115",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261400/flesh-and-blood-tcg-everfest-reek-of-corruption-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.02,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261401,
+      "name": "Shrill of Skullform",
+      "label": "Red",
+      "number": "EVR116",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261401/flesh-and-blood-tcg-everfest-shrill-of-skullform-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.18
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.05,
+          "mid": 0.39
+        }
+      ]
+    },
+    {
+      "id": 261402,
+      "name": "Shrill of Skullform",
+      "label": "Yellow",
+      "number": "EVR117",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261402/flesh-and-blood-tcg-everfest-shrill-of-skullform-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.16
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261403,
+      "name": "Shrill of Skullform",
+      "label": "Blue",
+      "number": "EVR118",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261403/flesh-and-blood-tcg-everfest-shrill-of-skullform-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.05,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.38,
+          "low": 0.1,
+          "mid": 0.34
+        }
+      ]
+    },
+    {
+      "id": 261404,
+      "name": "Runechant",
+      "number": "EVR119",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261404/flesh-and-blood-tcg-everfest-runechant",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.05,
+          "mid": 0.18
+        }
+      ]
+    },
+    {
+      "id": 261405,
+      "name": "Iyslander",
+      "number": "EVR120",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261405/flesh-and-blood-tcg-everfest-iyslander",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.25,
+          "mid": 0.95
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.21,
+          "low": 0.01,
+          "mid": 0.37
+        }
+      ]
+    },
+    {
+      "id": 261406,
+      "name": "Kraken's Aethervein",
+      "number": "EVR121",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261406/flesh-and-blood-tcg-everfest-krakens-aethervein",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.34,
+          "low": 0.1,
+          "mid": 0.49
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.84,
+          "low": 0.49,
+          "mid": 2.19
+        }
+      ]
+    },
+    {
+      "id": 261407,
+      "name": "Sigil of Parapets",
+      "number": "EVR122",
+      "rarity": "Majestic",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261407/flesh-and-blood-tcg-everfest-sigil-of-parapets",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.87,
+          "low": 0.75,
+          "mid": 1.46
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.52,
+          "low": 0.18,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261408,
+      "name": "Aether Wildfire",
+      "number": "EVR123",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261408/flesh-and-blood-tcg-everfest-aether-wildfire",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.32,
+          "low": 1.7,
+          "mid": 5.34
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 5.45,
+          "low": 3.51,
+          "mid": 7.38
+        }
+      ]
+    },
+    {
+      "id": 261409,
+      "name": "Aether Wildfire",
+      "label": "Extended Art",
+      "number": "EVR123",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261409/flesh-and-blood-tcg-everfest-aether-wildfire-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 42.21,
+          "low": 36.19,
+          "mid": 47.85
+        }
+      ]
+    },
+    {
+      "id": 261410,
+      "name": "Scour",
+      "number": "EVR124",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261410/flesh-and-blood-tcg-everfest-scour",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 6.68,
+          "low": 3.01,
+          "mid": 6.59
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.1,
+          "low": 1.7,
+          "mid": 4.49
+        }
+      ]
+    },
+    {
+      "id": 261411,
+      "name": "Emeritus Scolding",
+      "label": "Red",
+      "number": "EVR125",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261411/flesh-and-blood-tcg-everfest-emeritus-scolding-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.47,
+          "low": 0.37,
+          "mid": 0.5
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.37,
+          "low": 0.08,
+          "mid": 0.43
+        }
+      ]
+    },
+    {
+      "id": 261412,
+      "name": "Emeritus Scolding",
+      "label": "Yellow",
+      "number": "EVR126",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261412/flesh-and-blood-tcg-everfest-emeritus-scolding-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.24,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 261413,
+      "name": "Emeritus Scolding",
+      "label": "Blue",
+      "number": "EVR127",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261413/flesh-and-blood-tcg-everfest-emeritus-scolding-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.69,
+          "low": 0.55,
+          "mid": 0.69
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.76,
+          "low": 0.47,
+          "mid": 1.83
+        }
+      ]
+    },
+    {
+      "id": 261414,
+      "name": "In the Swing",
+      "label": "Yellow",
+      "number": "EVR064",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261414/flesh-and-blood-tcg-everfest-in-the-swing-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261415,
+      "name": "In the Swing",
+      "label": "Blue",
+      "number": "EVR065",
+      "rarity": "Common",
+      "type": "Attack Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261415/flesh-and-blood-tcg-everfest-in-the-swing-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.23
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261416,
+      "name": "Outland Skirmish",
+      "label": "Red",
+      "number": "EVR066",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261416/flesh-and-blood-tcg-everfest-outland-skirmish-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.25,
+          "mid": 0.4
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.08,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 261417,
+      "name": "Outland Skirmish",
+      "label": "Yellow",
+      "number": "EVR067",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261417/flesh-and-blood-tcg-everfest-outland-skirmish-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.26,
+          "low": 0.07,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 261418,
+      "name": "Outland Skirmish",
+      "label": "Blue",
+      "number": "EVR068",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261418/flesh-and-blood-tcg-everfest-outland-skirmish-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.34,
+          "low": 0.05,
+          "mid": 0.34
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.04,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 261419,
+      "name": "Dissolution Sphere",
+      "number": "EVR069",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261419/flesh-and-blood-tcg-everfest-dissolution-sphere",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.63,
+          "low": 0.5,
+          "mid": 1
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 261420,
+      "name": "Micro-processor",
+      "number": "EVR070",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261420/flesh-and-blood-tcg-everfest-micro-processor",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.42,
+          "low": 0.4,
+          "mid": 0.95
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.37,
+          "low": 0.25,
+          "mid": 0.52
+        }
+      ]
+    },
+    {
+      "id": 261421,
+      "name": "Signal Jammer",
+      "number": "EVR071",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261421/flesh-and-blood-tcg-everfest-signal-jammer",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.56,
+          "low": 0.29,
+          "mid": 0.75
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.24,
+          "low": 0.49,
+          "mid": 1.29
+        }
+      ]
+    },
+    {
+      "id": 261422,
+      "name": "Teklo Pounder",
+      "number": "EVR072",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261422/flesh-and-blood-tcg-everfest-teklo-pounder",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.28,
+          "low": 0.99,
+          "mid": 2.75
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 4.8,
+          "low": 1.22,
+          "mid": 4.47
+        }
+      ]
+    },
+    {
+      "id": 261423,
+      "name": "T-Bone",
+      "label": "Red",
+      "number": "EVR073",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261423/flesh-and-blood-tcg-everfest-t-bone-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.53,
+          "low": 0.3,
+          "mid": 0.75
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.18,
+          "low": 0.74,
+          "mid": 1.4
+        }
+      ]
+    },
+    {
+      "id": 261424,
+      "name": "T-Bone",
+      "label": "Yellow",
+      "number": "EVR074",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261424/flesh-and-blood-tcg-everfest-t-bone-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.29,
+          "low": 0.15,
+          "mid": 0.35
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.52,
+          "low": 0.25,
+          "mid": 0.58
+        }
+      ]
+    },
+    {
+      "id": 261425,
+      "name": "T-Bone",
+      "label": "Blue",
+      "number": "EVR075",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261425/flesh-and-blood-tcg-everfest-t-bone-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.79,
+          "low": 0.99,
+          "mid": 1.95
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.77,
+          "low": 0.67,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261426,
+      "name": "Payload",
+      "label": "Red",
+      "number": "EVR076",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261426/flesh-and-blood-tcg-everfest-payload-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261427,
+      "name": "Payload",
+      "label": "Yellow",
+      "number": "EVR077",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261427/flesh-and-blood-tcg-everfest-payload-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261428,
+      "name": "Payload",
+      "label": "Blue",
+      "number": "EVR078",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261428/flesh-and-blood-tcg-everfest-payload-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261429,
+      "name": "Zoom In",
+      "label": "Red",
+      "number": "EVR079",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261429_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261429/flesh-and-blood-tcg-everfest-zoom-in-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.18
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.02,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261430,
+      "name": "Zoom In",
+      "label": "Yellow",
+      "number": "EVR080",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261430/flesh-and-blood-tcg-everfest-zoom-in-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261431,
+      "name": "Zoom In",
+      "label": "Blue",
+      "number": "EVR081",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261431/flesh-and-blood-tcg-everfest-zoom-in-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 261432,
+      "name": "Rotary Ram",
+      "label": "Red",
+      "number": "EVR082",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261432/flesh-and-blood-tcg-everfest-rotary-ram-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261433,
+      "name": "Rotary Ram",
+      "label": "Yellow",
+      "number": "EVR083",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261433/flesh-and-blood-tcg-everfest-rotary-ram-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.08,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.02,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 261434,
+      "name": "Rotary Ram",
+      "label": "Blue",
+      "number": "EVR084",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261434/flesh-and-blood-tcg-everfest-rotary-ram-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261435,
+      "name": "Genis Wotchuneed",
+      "number": "EVR085",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261435/flesh-and-blood-tcg-everfest-genis-wotchuneed",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.22,
+          "low": 0.05,
+          "mid": 0.31
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.37,
+          "low": 0.1,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 261436,
+      "name": "Silver Palms",
+      "number": "EVR086",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261436/flesh-and-blood-tcg-everfest-silver-palms",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 3.17,
+          "low": 2.55,
+          "mid": 6.17
+        }
+      ]
+    },
+    {
+      "id": 261437,
+      "name": "Dreadbore",
+      "number": "EVR087",
+      "rarity": "Majestic",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261437/flesh-and-blood-tcg-everfest-dreadbore",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 3.38,
+          "low": 2.75,
+          "mid": 5.03
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.6,
+          "low": 0.25,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261438,
+      "name": "Battering Bolt",
+      "number": "EVR088",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261438/flesh-and-blood-tcg-everfest-battering-bolt",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 14.41,
+          "low": 10.7,
+          "mid": 15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 17.41,
+          "low": 16.37,
+          "mid": 19.22
+        }
+      ]
+    },
+    {
+      "id": 261439,
+      "name": "Tri-shot",
+      "number": "EVR089",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261439/flesh-and-blood-tcg-everfest-tri-shot",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.76,
+          "low": 0.5,
+          "mid": 1
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.17,
+          "low": 0.79,
+          "mid": 2.5
+        }
+      ]
+    },
+    {
+      "id": 261440,
+      "name": "Rain Razors",
+      "number": "EVR090",
+      "rarity": "Majestic",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261440/flesh-and-blood-tcg-everfest-rain-razors",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 9.59,
+          "low": 7.7,
+          "mid": 12.29
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 12.47,
+          "low": 10,
+          "mid": 19.02
+        }
+      ]
+    },
+    {
+      "id": 261441,
+      "name": "Release the Tension",
+      "label": "Red",
+      "number": "EVR091",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261441/flesh-and-blood-tcg-everfest-release-the-tension-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.01,
+          "low": 0.2,
+          "mid": 1.03
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.34,
+          "low": 0.23,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 261442,
+      "name": "Release the Tension",
+      "label": "Yellow",
+      "number": "EVR092",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261442_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261442/flesh-and-blood-tcg-everfest-release-the-tension-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.09,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261443,
+      "name": "Release the Tension",
+      "label": "Blue",
+      "number": "EVR093",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261443/flesh-and-blood-tcg-everfest-release-the-tension-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261444,
+      "name": "Fatigue Shot",
+      "label": "Red",
+      "number": "EVR094",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261444/flesh-and-blood-tcg-everfest-fatigue-shot-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.33,
+          "low": 0.13,
+          "mid": 0.35
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261445,
+      "name": "Fatigue Shot",
+      "label": "Yellow",
+      "number": "EVR095",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261445_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261445/flesh-and-blood-tcg-everfest-fatigue-shot-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261446,
+      "name": "Fatigue Shot",
+      "label": "Blue",
+      "number": "EVR096",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261446_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261446/flesh-and-blood-tcg-everfest-fatigue-shot-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261447,
+      "name": "Timidity Point",
+      "label": "Red",
+      "number": "EVR097",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261447/flesh-and-blood-tcg-everfest-timidity-point-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.14,
+          "low": 0.02,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261448,
+      "name": "Timidity Point",
+      "label": "Yellow",
+      "number": "EVR098",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261448_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261448/flesh-and-blood-tcg-everfest-timidity-point-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 261449,
+      "name": "Timidity Point",
+      "label": "Blue",
+      "number": "EVR099",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261449_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261449/flesh-and-blood-tcg-everfest-timidity-point-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.17
+        }
+      ]
+    },
+    {
+      "id": 261450,
+      "name": "Read the Glide Path",
+      "label": "Red",
+      "number": "EVR100",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261450/flesh-and-blood-tcg-everfest-read-the-glide-path-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.32,
+          "low": 0.1,
+          "mid": 0.35
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.17,
+          "low": 0.07,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261451,
+      "name": "Read the Glide Path",
+      "label": "Yellow",
+      "number": "EVR101",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261451/flesh-and-blood-tcg-everfest-read-the-glide-path-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261452,
+      "name": "Read the Glide Path",
+      "label": "Blue",
+      "number": "EVR102",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261452/flesh-and-blood-tcg-everfest-read-the-glide-path-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261453,
+      "name": "Frostbite",
+      "number": "EVR197",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261453/flesh-and-blood-tcg-everfest-frostbite",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.21,
+          "low": 0.05,
+          "mid": 0.24
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.97,
+          "low": 0.5,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 261454,
+      "name": "Quicken",
+      "number": "EVR196",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261454/flesh-and-blood-tcg-everfest-quicken",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.19,
+          "low": 0.05,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 261455,
+      "name": "Silver",
+      "number": "EVR195",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261455_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261455/flesh-and-blood-tcg-everfest-silver",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.28,
+          "low": 0.01,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 261456,
+      "name": "Pry",
+      "label": "Red",
+      "number": "EVR128",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261456/flesh-and-blood-tcg-everfest-pry-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261457,
+      "name": "Pry",
+      "label": "Yellow",
+      "number": "EVR129",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261457/flesh-and-blood-tcg-everfest-pry-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261458,
+      "name": "Pry",
+      "label": "Blue",
+      "number": "EVR130",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261458_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261458/flesh-and-blood-tcg-everfest-pry-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.01,
+          "mid": 0.28
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261459,
+      "name": "Pyroglyphic Protection",
+      "label": "Red",
+      "number": "EVR131",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261459_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261459/flesh-and-blood-tcg-everfest-pyroglyphic-protection-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261460,
+      "name": "Pyroglyphic Protection",
+      "label": "Yellow",
+      "number": "EVR132",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261460_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261460/flesh-and-blood-tcg-everfest-pyroglyphic-protection-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261461,
+      "name": "Pyroglyphic Protection",
+      "label": "Blue",
+      "number": "EVR133",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261461/flesh-and-blood-tcg-everfest-pyroglyphic-protection-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.02,
+          "mid": 0.16
+        }
+      ]
+    },
+    {
+      "id": 261462,
+      "name": "Timekeeper's Whim",
+      "label": "Red",
+      "number": "EVR134",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261462_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261462/flesh-and-blood-tcg-everfest-timekeepers-whim-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.09,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261463,
+      "name": "Timekeeper's Whim",
+      "label": "Yellow",
+      "number": "EVR135",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261463_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261463/flesh-and-blood-tcg-everfest-timekeepers-whim-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.03,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.2,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261464,
+      "name": "Timekeeper's Whim",
+      "label": "Blue",
+      "number": "EVR136",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261464/flesh-and-blood-tcg-everfest-timekeepers-whim-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.24,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261465,
+      "name": "Pierce Reality",
+      "number": "EVR143",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261465/flesh-and-blood-tcg-everfest-pierce-reality",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.33,
+          "low": 0.22,
+          "mid": 0.38
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.97,
+          "low": 0.5,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261466,
+      "name": "Coalescence Mirage",
+      "label": "Red",
+      "number": "EVR144",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261466/flesh-and-blood-tcg-everfest-coalescence-mirage-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.35,
+          "low": 0.04,
+          "mid": 0.35
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.03,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261467,
+      "name": "Crown of Reflection",
+      "number": "EVR137",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261467/flesh-and-blood-tcg-everfest-crown-of-reflection",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 8.34,
+          "low": 1.12,
+          "mid": 3.94
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.67,
+          "low": 0.46,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261468,
+      "name": "Coalescence Mirage",
+      "label": "Yellow",
+      "number": "EVR145",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261468/flesh-and-blood-tcg-everfest-coalescence-mirage-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.15
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.02,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261469,
+      "name": "Coalescence Mirage",
+      "label": "Blue",
+      "number": "EVR146",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261469/flesh-and-blood-tcg-everfest-coalescence-mirage-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.01,
+          "mid": 0.17
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261470,
+      "name": "Fractal Replication",
+      "number": "EVR138",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261470/flesh-and-blood-tcg-everfest-fractal-replication",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.73,
+          "low": 1.5,
+          "mid": 3.77
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 7.74,
+          "low": 3.4,
+          "mid": 5.69
+        }
+      ]
+    },
+    {
+      "id": 261471,
+      "name": "Phantasmal Haze",
+      "label": "Red",
+      "number": "EVR147",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261471/flesh-and-blood-tcg-everfest-phantasmal-haze-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.04,
+          "mid": 0.18
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.15,
+          "low": 0.07,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261472,
+      "name": "Miraging Metamorph",
+      "number": "EVR139",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261472/flesh-and-blood-tcg-everfest-miraging-metamorph",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 17,
+          "low": 12.99,
+          "mid": 16.08
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 6.21,
+          "low": 5,
+          "mid": 12.12
+        }
+      ]
+    },
+    {
+      "id": 261473,
+      "name": "Phantasmal Haze",
+      "label": "Yellow",
+      "number": "EVR148",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261473/flesh-and-blood-tcg-everfest-phantasmal-haze-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.04,
+          "low": 0.04,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261474,
+      "name": "Shimmers of Silver",
+      "number": "EVR140",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261474/flesh-and-blood-tcg-everfest-shimmers-of-silver",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 7.17,
+          "low": 4.75,
+          "mid": 8.55
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 13.73,
+          "low": 8.81,
+          "mid": 14.49
+        }
+      ]
+    },
+    {
+      "id": 261475,
+      "name": "Phantasmal Haze",
+      "label": "Blue",
+      "number": "EVR149",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261475/flesh-and-blood-tcg-everfest-phantasmal-haze-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.05,
+          "mid": 0.28
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.15
+        }
+      ]
+    },
+    {
+      "id": 261476,
+      "name": "Veiled Intentions",
+      "label": "Red",
+      "number": "EVR150",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261476/flesh-and-blood-tcg-everfest-veiled-intentions-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.19
+        }
+      ]
+    },
+    {
+      "id": 261477,
+      "name": "Veiled Intentions",
+      "label": "Yellow",
+      "number": "EVR151",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261477/flesh-and-blood-tcg-everfest-veiled-intentions-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.03,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261478,
+      "name": "Veiled Intentions",
+      "label": "Blue",
+      "number": "EVR152",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261478/flesh-and-blood-tcg-everfest-veiled-intentions-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261479,
+      "name": "Haze Bending",
+      "number": "EVR141",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261479/flesh-and-blood-tcg-everfest-haze-bending",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.42,
+          "low": 0.1,
+          "mid": 0.5
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 1.1,
+          "low": 0.25,
+          "mid": 1.05
+        }
+      ]
+    },
+    {
+      "id": 261480,
+      "name": "Spectral Shield",
+      "number": "EVR153",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261480/flesh-and-blood-tcg-everfest-spectral-shield",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.55,
+          "low": 0.19,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 261481,
+      "name": "Passing Mirage",
+      "number": "EVR142",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261481/flesh-and-blood-tcg-everfest-passing-mirage",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.9,
+          "low": 0.46,
+          "mid": 1.87
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 3.15,
+          "low": 0.87,
+          "mid": 3.13
+        }
+      ]
+    },
+    {
+      "id": 261482,
+      "name": "Arcanite Skullcap",
+      "number": "EVR154",
+      "rarity": "Legendary",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261482/flesh-and-blood-tcg-everfest-arcanite-skullcap",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 29.6,
+          "low": 25,
+          "mid": 32.73
+        }
+      ]
+    },
+    {
+      "id": 261483,
+      "name": "Arcane Lantern",
+      "number": "EVR155",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261483/flesh-and-blood-tcg-everfest-arcane-lantern",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.88,
+          "low": 0.5,
+          "mid": 1.49
+        }
+      ]
+    },
+    {
+      "id": 261484,
+      "name": "Bingo",
+      "number": "EVR156",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261484/flesh-and-blood-tcg-everfest-bingo",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.38,
+          "low": 0.18,
+          "mid": 0.66
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.75,
+          "low": 0.49,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
+      "id": 261485,
+      "name": "Firebreathing",
+      "number": "EVR157",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261485/flesh-and-blood-tcg-everfest-firebreathing",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.78,
+          "low": 0.25,
+          "mid": 1.2
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.4,
+          "low": 0.18,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261486,
+      "name": "Cash Out",
+      "number": "EVR158",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261486/flesh-and-blood-tcg-everfest-cash-out",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.54
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.86,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261487,
+      "name": "Knick Knack Bric-a-brac",
+      "number": "EVR159",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261487/flesh-and-blood-tcg-everfest-knick-knack-bric-a-brac",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.81,
+          "low": 0.25,
+          "mid": 1.35
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.31,
+          "low": 0.1,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261488,
+      "name": "This Round's on Me",
+      "number": "EVR160",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261488/flesh-and-blood-tcg-everfest-this-rounds-on-me",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 2.08,
+          "low": 1.49,
+          "mid": 3.47
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 2.73,
+          "low": 1.87,
+          "mid": 4.99
+        }
+      ]
+    },
+    {
+      "id": 261489,
+      "name": "Copper",
+      "number": "EVR194",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261489/flesh-and-blood-tcg-everfest-copper",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261491,
+      "name": "Talisman of Balance",
+      "number": "EVR188",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261491/flesh-and-blood-tcg-everfest-talisman-of-balance",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.41,
+          "low": 0.15,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261492,
+      "name": "Talisman of Cremation",
+      "number": "EVR189",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261492/flesh-and-blood-tcg-everfest-talisman-of-cremation",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.97,
+          "low": 1,
+          "mid": 5.78
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.14,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261493,
+      "name": "Life of the Party",
+      "label": "Red",
+      "number": "EVR161",
+      "rarity": "Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261493/flesh-and-blood-tcg-everfest-life-of-the-party-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.18,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 261494,
+      "name": "Life of the Party",
+      "label": "Yellow",
+      "number": "EVR162",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261494/flesh-and-blood-tcg-everfest-life-of-the-party-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.04,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.07,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261495,
+      "name": "Talisman of Featherfoot",
+      "number": "EVR190",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261495/flesh-and-blood-tcg-everfest-talisman-of-featherfoot",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.7,
+          "low": 0.2,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261496,
+      "name": "Talisman of Recompense",
+      "number": "EVR191",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261496/flesh-and-blood-tcg-everfest-talisman-of-recompense",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.05,
+          "mid": 0.22
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.5,
+          "low": 0.38,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 261497,
+      "name": "Life of the Party",
+      "label": "Blue",
+      "number": "EVR163",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261497/flesh-and-blood-tcg-everfest-life-of-the-party-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261498,
+      "name": "Talisman of Tithes",
+      "number": "EVR192",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261498/flesh-and-blood-tcg-everfest-talisman-of-tithes",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.72,
+          "low": 0.19,
+          "mid": 0.99
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.02,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261499,
+      "name": "Talisman of Warfare",
+      "number": "EVR193",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261499/flesh-and-blood-tcg-everfest-talisman-of-warfare",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.86,
+          "low": 0.46,
+          "mid": 0.99
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261500,
+      "name": "High Striker",
+      "label": "Red",
+      "number": "EVR164",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261500/flesh-and-blood-tcg-everfest-high-striker-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.04,
+          "low": 0.01,
+          "mid": 0.19
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.02,
+          "low": 0.03,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261501,
+      "name": "High Striker",
+      "label": "Yellow",
+      "number": "EVR165",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261501/flesh-and-blood-tcg-everfest-high-striker-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261502,
+      "name": "High Striker",
+      "label": "Red · Extended Art",
+      "number": "EVR164",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261502_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261502/flesh-and-blood-tcg-everfest-high-striker-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.5,
+          "low": 0.21,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261503,
+      "name": "High Striker",
+      "label": "Yellow · Extended Art",
+      "number": "EVR165",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261503/flesh-and-blood-tcg-everfest-high-striker-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.14,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 261504,
+      "name": "High Striker",
+      "label": "Blue · Extended Art",
+      "number": "EVR166",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261504/flesh-and-blood-tcg-everfest-high-striker-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.17,
+          "low": 0.1,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 261505,
+      "name": "High Striker",
+      "label": "Blue",
+      "number": "EVR166",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261505/flesh-and-blood-tcg-everfest-high-striker-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.2,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261506,
+      "name": "Pick a Card, Any Card",
+      "label": "Red",
+      "number": "EVR167",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261506/flesh-and-blood-tcg-everfest-pick-a-card-any-card-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.05,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.12,
+          "low": 0.05,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261507,
+      "name": "Pick a Card, Any Card",
+      "label": "Yellow",
+      "number": "EVR168",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261507/flesh-and-blood-tcg-everfest-pick-a-card-any-card-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.01,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261508,
+      "name": "Pick a Card, Any Card",
+      "label": "Blue",
+      "number": "EVR169",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261508/flesh-and-blood-tcg-everfest-pick-a-card-any-card-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261509,
+      "name": "Pick a Card, Any Card",
+      "label": "Blue · Extended Art",
+      "number": "EVR169",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261509/flesh-and-blood-tcg-everfest-pick-a-card-any-card-blue-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.59,
+          "low": 0.17,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261510,
+      "name": "Pick a Card, Any Card",
+      "label": "Yellow · Extended Art",
+      "number": "EVR168",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261510/flesh-and-blood-tcg-everfest-pick-a-card-any-card-yellow-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.11,
+          "low": 0.11,
+          "mid": 0.48
+        }
+      ]
+    },
+    {
+      "id": 261511,
+      "name": "Pick a Card, Any Card",
+      "label": "Red · Extended Art",
+      "number": "EVR167",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261511/flesh-and-blood-tcg-everfest-pick-a-card-any-card-red-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.57,
+          "low": 0.35,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 261512,
+      "name": "Smashing Good Time",
+      "label": "Red",
+      "number": "EVR170",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261512/flesh-and-blood-tcg-everfest-smashing-good-time-red",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.05,
+          "mid": 0.28
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.13,
+          "low": 0.04,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261513,
+      "name": "Smashing Good Time",
+      "label": "Yellow",
+      "number": "EVR171",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261513_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261513/flesh-and-blood-tcg-everfest-smashing-good-time-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.01,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.07,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261514,
+      "name": "Smashing Good Time",
+      "label": "Blue",
+      "number": "EVR172",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261514_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261514/flesh-and-blood-tcg-everfest-smashing-good-time-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.14,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261515,
+      "name": "Even Bigger Than That!",
+      "label": "Red",
+      "number": "EVR173",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261515_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261515/flesh-and-blood-tcg-everfest-even-bigger-than-that-red",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.37,
+          "low": 0.05,
+          "mid": 0.41
+        },
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.61,
+          "low": 0.35,
+          "mid": 0.66
+        }
+      ]
+    },
+    {
+      "id": 261516,
+      "name": "Even Bigger Than That!",
+      "label": "Yellow",
+      "number": "EVR174",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261516_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261516/flesh-and-blood-tcg-everfest-even-bigger-than-that-yellow",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.19,
+          "low": 0.02,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261517,
+      "name": "Even Bigger Than That!",
+      "label": "Blue",
+      "number": "EVR175",
+      "rarity": "Rare",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261517/flesh-and-blood-tcg-everfest-even-bigger-than-that-blue",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 0.08,
+          "low": 0.07,
+          "mid": 0.25
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.26,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261518,
+      "name": "Amulet of Assertiveness",
+      "number": "EVR176",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261518_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261518/flesh-and-blood-tcg-everfest-amulet-of-assertiveness",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.83,
+          "low": 0.18,
+          "mid": 0.9
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.17,
+          "low": 0.02,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 261519,
+      "name": "Amulet of Echoes",
+      "number": "EVR177",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261519_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261519/flesh-and-blood-tcg-everfest-amulet-of-echoes",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 5.92,
+          "low": 2.49,
+          "mid": 7.08
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.97,
+          "low": 0.39,
+          "mid": 1.6
+        }
+      ]
+    },
+    {
+      "id": 261520,
+      "name": "Amulet of Havencall",
+      "number": "EVR178",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261520/flesh-and-blood-tcg-everfest-amulet-of-havencall",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.37,
+          "low": 0.1,
+          "mid": 0.8
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 261521,
+      "name": "Amulet of Ignition",
+      "number": "EVR179",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261521/flesh-and-blood-tcg-everfest-amulet-of-ignition",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.06,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.4,
+          "low": 0.18,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261522,
+      "name": "Amulet of Intervention",
+      "number": "EVR180",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261522_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261522/flesh-and-blood-tcg-everfest-amulet-of-intervention",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.1,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.55,
+          "low": 0.44,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261523,
+      "name": "Amulet of Oblation",
+      "number": "EVR181",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261523/flesh-and-blood-tcg-everfest-amulet-of-oblation",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.89,
+          "low": 0.5,
+          "mid": 1.02
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.11,
+          "low": 0.02,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 261524,
+      "name": "Clarity Potion",
+      "number": "EVR182",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261524/flesh-and-blood-tcg-everfest-clarity-potion",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.92,
+          "low": 1.5,
+          "mid": 2.75
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.15,
+          "low": 0.05,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 261525,
+      "name": "Healing Potion",
+      "number": "EVR183",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261525/flesh-and-blood-tcg-everfest-healing-potion",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.89,
+          "low": 1.55,
+          "mid": 5.61
+        },
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.41,
+          "low": 0.25,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 261526,
+      "name": "Potion of Seeing",
+      "number": "EVR184",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261526/flesh-and-blood-tcg-everfest-potion-of-seeing",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.05,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.45,
+          "low": 0.3,
+          "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 261527,
+      "name": "Potion of Deja Vu",
+      "number": "EVR185",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261527/flesh-and-blood-tcg-everfest-potion-of-deja-vu",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.23,
+          "low": 0.05,
+          "mid": 0.26
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 1.2,
+          "low": 0.75,
+          "mid": 2.14
+        }
+      ]
+    },
+    {
+      "id": 261528,
+      "name": "Potion of Ironhide",
+      "number": "EVR186",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261528/flesh-and-blood-tcg-everfest-potion-of-ironhide",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.08,
+          "low": 0.01,
+          "mid": 0.2
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 0.65,
+          "low": 0.2,
+          "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 261529,
+      "name": "Potion of Luck",
+      "number": "EVR187",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/261529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/261529/flesh-and-blood-tcg-everfest-potion-of-luck",
+      "prices": [
+        {
+          "sub": "1st Edition Normal",
+          "usd": 0.16,
+          "low": 0.04,
+          "mid": 0.24
+        },
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 2.4,
+          "low": 1.95,
+          "mid": 3.24
+        }
+      ]
+    },
+    {
+      "id": 262959,
+      "name": "Knick Knack Bric-a-brac",
+      "label": "Extended Art",
+      "number": "EVR159",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262959/flesh-and-blood-tcg-everfest-knick-knack-bric-a-brac-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Rainbow Foil",
+          "usd": 10.84,
+          "low": 6.46,
+          "mid": 10.02
+        }
+      ]
+    },
+    {
+      "id": 262966,
+      "name": "Earthlore Bounty",
+      "label": "Extended Art",
+      "number": "EVR020",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/262966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/262966/flesh-and-blood-tcg-everfest-earthlore-bounty-extended-art",
+      "prices": [
+        {
+          "sub": "1st Edition Cold Foil",
+          "usd": 2.85,
+          "low": 2.99,
+          "mid": 9.99
+        }
+      ]
+    },
+    {
+      "id": 729995,
+      "name": "Arcane Lantern",
+      "label": "Extended Art",
+      "number": "EVR155",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/729995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/729995/flesh-and-blood-tcg-everfest-arcane-lantern-extended-art",
+      "prices": [
+        {
+          "sub": "Cold Foil",
+          "usd": 25.2,
+          "low": 25.33,
+          "mid": 44.42
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

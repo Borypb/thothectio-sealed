@@ -1,0 +1,494 @@
+{
+  "groupId": 23738,
+  "cards": [
+    {
+      "id": 586562,
+      "name": "Dash I/O",
+      "number": "AIO001",
+      "rarity": "Majestic",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586562/flesh-and-blood-tcg-armory-deck-dash-dash-i-o",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.57,
+          "low": 0.21,
+          "mid": 0.57
+        }
+      ]
+    },
+    {
+      "id": 586563,
+      "name": "Symbiosis Shot",
+      "number": "AIO002",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586563/flesh-and-blood-tcg-armory-deck-dash-symbiosis-shot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.7,
+          "low": 2.4,
+          "mid": 2.69
+        }
+      ]
+    },
+    {
+      "id": 586564,
+      "name": "Heavy Industry Surveillance",
+      "number": "AIO003",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586564/flesh-and-blood-tcg-armory-deck-dash-heavy-industry-surveillance",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.35,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 586565,
+      "name": "Heavy Industry Power Plant",
+      "number": "AIO004",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586565/flesh-and-blood-tcg-armory-deck-dash-heavy-industry-power-plant",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.6
+        }
+      ]
+    },
+    {
+      "id": 586566,
+      "name": "Heavy Industry Ram Stop",
+      "number": "AIO005",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586566/flesh-and-blood-tcg-armory-deck-dash-heavy-industry-ram-stop",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.27,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 586567,
+      "name": "Heavy Industry Gear Shift",
+      "number": "AIO006",
+      "rarity": "Majestic",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586567/flesh-and-blood-tcg-armory-deck-dash-heavy-industry-gear-shift",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 0.4,
+          "low": 0.3,
+          "mid": 0.64
+        }
+      ]
+    },
+    {
+      "id": 586568,
+      "name": "Data Link",
+      "label": "Red",
+      "number": "AIO007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586568/flesh-and-blood-tcg-armory-deck-dash-data-link-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 586569,
+      "name": "Dive Through Data",
+      "label": "Red",
+      "number": "AIO008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586569/flesh-and-blood-tcg-armory-deck-dash-dive-through-data-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586570,
+      "name": "Fast and Furious",
+      "label": "Red",
+      "number": "AIO009",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586570/flesh-and-blood-tcg-armory-deck-dash-fast-and-furious-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.53,
+          "low": 3.06,
+          "mid": 5.25
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.22,
+          "low": 3.5,
+          "mid": 6.24
+        }
+      ]
+    },
+    {
+      "id": 586571,
+      "name": "Maximum Velocity",
+      "number": "AIO010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586571/flesh-and-blood-tcg-armory-deck-dash-maximum-velocity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.31,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
+      "id": 586572,
+      "name": "Throttle",
+      "label": "Red",
+      "number": "AIO011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586572/flesh-and-blood-tcg-armory-deck-dash-throttle-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 586573,
+      "name": "Zero to Sixty",
+      "label": "Red",
+      "number": "AIO012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586573/flesh-and-blood-tcg-armory-deck-dash-zero-to-sixty-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.19,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 586574,
+      "name": "Zipper Hit",
+      "label": "Red",
+      "number": "AIO013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586574/flesh-and-blood-tcg-armory-deck-dash-zipper-hit-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586575,
+      "name": "Backup Protocol: RED",
+      "label": "Red",
+      "number": "AIO014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586575/flesh-and-blood-tcg-armory-deck-dash-backup-protocol-red-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.2,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 586576,
+      "name": "Boom Grenade",
+      "label": "Red",
+      "number": "AIO015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586576/flesh-and-blood-tcg-armory-deck-dash-boom-grenade-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23,
+          "low": 0.2,
+          "mid": 0.27
+        }
+      ]
+    },
+    {
+      "id": 586577,
+      "name": "Convection Amplifier",
+      "label": "Red",
+      "number": "AIO016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586577/flesh-and-blood-tcg-armory-deck-dash-convection-amplifier-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.46,
+          "low": 1.99,
+          "mid": 2.43
+        }
+      ]
+    },
+    {
+      "id": 586578,
+      "name": "Dissolving Shield",
+      "label": "Red",
+      "number": "AIO017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586578/flesh-and-blood-tcg-armory-deck-dash-dissolving-shield-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.05,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 586579,
+      "name": "Zero to Sixty",
+      "label": "Yellow",
+      "number": "AIO018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586579/flesh-and-blood-tcg-armory-deck-dash-zero-to-sixty-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 586580,
+      "name": "Zipper Hit",
+      "label": "Yellow",
+      "number": "AIO019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586580/flesh-and-blood-tcg-armory-deck-dash-zipper-hit-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586581,
+      "name": "Boom Grenade",
+      "label": "Yellow",
+      "number": "AIO020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586581/flesh-and-blood-tcg-armory-deck-dash-boom-grenade-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 586582,
+      "name": "Data Link",
+      "label": "Blue",
+      "number": "AIO021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586582/flesh-and-blood-tcg-armory-deck-dash-data-link-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.1,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 586583,
+      "name": "Expedite",
+      "number": "AIO022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586583/flesh-and-blood-tcg-armory-deck-dash-expedite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586584,
+      "name": "Zero to Sixty",
+      "label": "Blue",
+      "number": "AIO023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586584/flesh-and-blood-tcg-armory-deck-dash-zero-to-sixty-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586585,
+      "name": "Zipper Hit",
+      "label": "Blue",
+      "number": "AIO024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586585/flesh-and-blood-tcg-armory-deck-dash-zipper-hit-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.17,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586586,
+      "name": "Backup Protocol: BLU",
+      "label": "Blue",
+      "number": "AIO025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586586/flesh-and-blood-tcg-armory-deck-dash-backup-protocol-blu-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 586587,
+      "name": "Cerebellum Processor",
+      "number": "AIO026",
+      "rarity": "Majestic",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586587/flesh-and-blood-tcg-armory-deck-dash-cerebellum-processor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.03,
+          "low": 0.75,
+          "mid": 1.99
+        },
+        {
+          "sub": "Rainbow Foil",
+          "usd": 1.45,
+          "low": 0.74,
+          "mid": 2.03
+        }
+      ]
+    },
+    {
+      "id": 586588,
+      "name": "Steam Canister",
+      "number": "AIO027",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586588/flesh-and-blood-tcg-armory-deck-dash-steam-canister",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

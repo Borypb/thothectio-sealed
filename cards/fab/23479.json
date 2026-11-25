@@ -1,0 +1,515 @@
+{
+  "groupId": 23479,
+  "cards": [
+    {
+      "id": 550285,
+      "name": "Flex Claws",
+      "label": "Red",
+      "number": "ZEN009",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550285/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-flex-claws-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550286,
+      "name": "Flex Claws",
+      "label": "Blue",
+      "number": "ZEN021",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550286/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-flex-claws-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550287,
+      "name": "Pouncing Qi",
+      "label": "Red",
+      "number": "ZEN011",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550287/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-pouncing-qi-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.3,
+          "mid": 0.33
+        }
+      ]
+    },
+    {
+      "id": 550288,
+      "name": "Pouncing Qi",
+      "label": "Blue",
+      "number": "ZEN023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550288/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-pouncing-qi-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.29,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 550290,
+      "name": "Qi Unleashed",
+      "label": "Red",
+      "number": "ZEN012",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550290/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-qi-unleashed-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.15,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 550292,
+      "name": "Tiger Taming Khakkara",
+      "number": "ZEN002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550292/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-tiger-taming-khakkara",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.98,
+          "low": 0.95,
+          "mid": 0.95
+        }
+      ]
+    },
+    {
+      "id": 550293,
+      "name": "Mask of Wizened Whiskers",
+      "number": "ZEN003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550293/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-mask-of-wizened-whiskers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.2,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550294,
+      "name": "Heirloom of Tiger Hide",
+      "number": "ZEN004",
+      "rarity": "Rare",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550294/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-heirloom-of-tiger-hide",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.2,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
+      "id": 550295,
+      "name": "Waves of Aqua Marine",
+      "number": "ZEN005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550295/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-waves-of-aqua-marine",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.22,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 550297,
+      "name": "Stride of Reprisal",
+      "number": "ZEN006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550297/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-stride-of-reprisal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550299,
+      "name": "Biting Breeze",
+      "label": "Red",
+      "number": "ZEN007",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550299/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-biting-breeze-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.71,
+          "low": 1.46,
+          "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 550300,
+      "name": "Companion of the Claw",
+      "label": "Red",
+      "number": "ZEN008",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550300/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-companion-of-the-claw-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.1,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 550301,
+      "name": "Harmony of the Hunt",
+      "label": "Red",
+      "number": "ZEN010",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550301/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-harmony-of-the-hunt-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 550302,
+      "name": "Untamed",
+      "label": "Red",
+      "number": "ZEN013",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550302/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-untamed-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550303,
+      "name": "Water the Seeds",
+      "label": "Red",
+      "number": "ZEN014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550303/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-water-the-seeds-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550304,
+      "name": "Tiger Form Incantation",
+      "label": "Red",
+      "number": "ZEN015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550304/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-tiger-form-incantation-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 550310,
+      "name": "Wind Chakra",
+      "number": "ZEN016",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550310/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-wind-chakra",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 550311,
+      "name": "Biting Breeze",
+      "label": "Yellow",
+      "number": "ZEN017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550311/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-biting-breeze-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.23,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
+      "id": 550312,
+      "name": "Tiger Form Incantation",
+      "label": "Yellow",
+      "number": "ZEN018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550312/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-tiger-form-incantation-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 550313,
+      "name": "Aspect of Tiger: Mind",
+      "number": "ZEN019",
+      "rarity": "Rare",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550313/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-aspect-of-tiger-mind",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35,
+          "low": 0.45,
+          "mid": 0.51
+        }
+      ]
+    },
+    {
+      "id": 550314,
+      "name": "Biting Breeze",
+      "label": "Blue",
+      "number": "ZEN020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550314/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-biting-breeze-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.99,
+          "low": 0.55,
+          "mid": 1.09
+        }
+      ]
+    },
+    {
+      "id": 550315,
+      "name": "Harmony of the Hunt",
+      "label": "Blue",
+      "number": "ZEN022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550315/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-harmony-of-the-hunt-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.15,
+          "mid": 0.28
+        }
+      ]
+    },
+    {
+      "id": 550316,
+      "name": "Untamed",
+      "label": "Blue",
+      "number": "ZEN024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550316/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-untamed-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26,
+          "low": 0.1,
+          "mid": 0.26
+        }
+      ]
+    },
+    {
+      "id": 550486,
+      "name": "Stir the Pot",
+      "number": "ZEN027",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550486/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-stir-the-pot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.79,
+          "low": 0.75,
+          "mid": 0.79
+        }
+      ]
+    },
+    {
+      "id": 550490,
+      "name": "The Grain that Tips the Scale",
+      "number": "ZEN028",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550490/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-the-grain-that-tips-the-scale",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37,
+          "low": 0.4,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 661904,
+      "name": "Zen",
+      "number": "ZEN001",
+      "rarity": "Rare",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/661904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/661904/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-zen",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": 5.38,
+          "low": 3.51,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 685558,
+      "name": "Rising Sun, Setting Moon // Inner Chi",
+      "number": "ZEN026",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685558/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-rising-sun-setting-moon-inner-chi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 685561,
+      "name": "Preserve Tradition // Inner Chi",
+      "number": "ZEN025",
+      "rarity": "Common",
+      "type": "Instant",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685561/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-preserve-tradition-inner-chi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.2,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 702037,
+      "name": "Crouching Tiger",
+      "number": "ZENO29",
+      "rarity": "Token",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/702037_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/702037/flesh-and-blood-tcg-blitz-deck-part-the-mistveil-zen-crouching-tiger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28,
+          "low": 0.28,
+          "mid": 0.29
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

@@ -1,0 +1,522 @@
+{
+  "groupId": 22902,
+  "cards": [
+    {
+      "id": 489263,
+      "name": "Riptide",
+      "number": "RIP001",
+      "rarity": "Common",
+      "type": "Hero",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489263/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-riptide",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.98,
+          "low": 0.93,
+          "mid": 0.98
+        }
+      ]
+    },
+    {
+      "id": 489264,
+      "name": "Barbed Castaway",
+      "number": "RIP002",
+      "rarity": "Common",
+      "type": "Weapon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489264/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-barbed-castaway",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.59,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 489265,
+      "name": "Driftwood Quiver",
+      "number": "RIP003",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489265/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-driftwood-quiver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.47,
+          "mid": 0.47
+        }
+      ]
+    },
+    {
+      "id": 489266,
+      "name": "Mask of Malicious Manifestations",
+      "number": "RIP004",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489266/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-mask-of-malicious-manifestations",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.59,
+          "low": 0.37,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
+      "id": 489267,
+      "name": "Threadbare Tunic",
+      "number": "RIP005",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489267/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-threadbare-tunic",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.38,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 489268,
+      "name": "Toxic Tips",
+      "number": "RIP006",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489268/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-toxic-tips",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.68,
+          "low": 0.45,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 489269,
+      "name": "Ironrot Legs",
+      "number": "RIP007",
+      "rarity": "Common",
+      "type": "Equipment",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489269/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-ironrot-legs",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.19,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 489270,
+      "name": "Bloodrot Trap",
+      "label": "Red",
+      "number": "RIP008",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489270/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-bloodrot-trap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.29
+        }
+      ]
+    },
+    {
+      "id": 489271,
+      "name": "Frailty Trap",
+      "label": "Red",
+      "number": "RIP009",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489271/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-frailty-trap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.62,
+          "low": 0.9,
+          "mid": 0.9
+        }
+      ]
+    },
+    {
+      "id": 489272,
+      "name": "Inertia Trap",
+      "label": "Red",
+      "number": "RIP010",
+      "rarity": "Common",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489272/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-inertia-trap-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 183.61,
+          "mid": 192.79
+        }
+      ]
+    },
+    {
+      "id": 489273,
+      "name": "Boulder Trap",
+      "label": "Yellow",
+      "number": "RIP011",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489273/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-boulder-trap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32,
+          "low": 0.32,
+          "mid": 1.74
+        }
+      ]
+    },
+    {
+      "id": 489275,
+      "name": "Tarpit Trap",
+      "label": "Yellow",
+      "number": "RIP013",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489275/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-tarpit-trap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76,
+          "low": 178.88,
+          "mid": 187.83
+        }
+      ]
+    },
+    {
+      "id": 489277,
+      "name": "Falcon Wing",
+      "label": "Red",
+      "number": "RIP014",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489277/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-falcon-wing-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4,
+          "low": 0.19,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 489278,
+      "name": "Hemorrhage Bore",
+      "label": "Red",
+      "number": "RIP015",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489278/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-hemorrhage-bore-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 489279,
+      "name": "Murkmire Grapnel",
+      "label": "Red",
+      "number": "RIP016",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489279/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-murkmire-grapnel-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63,
+          "low": 0.19,
+          "mid": 0.46
+        }
+      ]
+    },
+    {
+      "id": 489280,
+      "name": "Salvage Shot",
+      "label": "Red",
+      "number": "RIP017",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489280/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-salvage-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 489281,
+      "name": "Searing Shot",
+      "label": "Red",
+      "number": "RIP018",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489281/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-searing-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.4
+        }
+      ]
+    },
+    {
+      "id": 489282,
+      "name": "Sedation Shot",
+      "label": "Red",
+      "number": "RIP019",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489282/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-sedation-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.42
+        }
+      ]
+    },
+    {
+      "id": 489284,
+      "name": "Withering Shot",
+      "label": "Red",
+      "number": "RIP020",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489284/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-withering-shot-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 489285,
+      "name": "Ravenous Rabble",
+      "label": "Red",
+      "number": "RIP021",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489285/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-ravenous-rabble-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489287,
+      "name": "Increase the Tension",
+      "label": "Red",
+      "number": "RIP022",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489287/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-increase-the-tension-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.19,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 489288,
+      "name": "Scout the Periphery",
+      "label": "Red",
+      "number": "RIP023",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489288/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-scout-the-periphery-red",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22,
+          "low": 0.15,
+          "mid": 0.22
+        }
+      ]
+    },
+    {
+      "id": 489290,
+      "name": "Falcon Wing",
+      "label": "Yellow",
+      "number": "RIP024",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489290/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-falcon-wing-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.19,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 489292,
+      "name": "Infecting Shot",
+      "label": "Yellow",
+      "number": "RIP025",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489292/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-infecting-shot-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.19,
+          "mid": 0.3
+        }
+      ]
+    },
+    {
+      "id": 489295,
+      "name": "Murkmire Grapnel",
+      "label": "Yellow",
+      "number": "RIP026",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489295/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-murkmire-grapnel-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.15,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 489297,
+      "name": "Scout the Periphery",
+      "label": "Yellow",
+      "number": "RIP027",
+      "rarity": "Common",
+      "type": "Action",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489297/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-scout-the-periphery-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24,
+          "low": 0.19,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 489299,
+      "name": "Bloodrot Pox",
+      "number": "RIP028",
+      "rarity": "Common",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489299/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-bloodrot-pox",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47,
+          "low": 0.7,
+          "mid": 0.7
+        }
+      ]
+    },
+    {
+      "id": 489301,
+      "name": "Frailty",
+      "number": "RIP029",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489301/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-frailty",
+      "prices": []
+    },
+    {
+      "id": 489302,
+      "name": "Inertia",
+      "number": "RIP030",
+      "rarity": "Token",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489302/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-inertia",
+      "prices": []
+    },
+    {
+      "id": 489305,
+      "name": "Pendulum Trap",
+      "label": "Yellow",
+      "number": "RIP012",
+      "rarity": "Rare",
+      "type": "Defense Reaction",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489305/flesh-and-blood-tcg-blitz-deck-outsiders-riptide-pendulum-trap-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25,
+          "low": 0.2,
+          "mid": 0.25
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-11-25"
+}

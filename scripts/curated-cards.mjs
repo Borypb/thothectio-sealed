@@ -28,7 +28,7 @@ const LOGOS = "curated/logos.json";
 /** fichiers de ce dépôt (photos/…) servis tels quels */
 const SELF = "https://raw.githubusercontent.com/Borypb/thothectio-sealed/main/";
 const OUT = "cards/curated.json";
-const GAMES = ["pokemon", "digimon", "onepiece", "dragonball", "palworld", "yugioh", "magic", "lorcana", "riftbound", "cyberpunk"];
+const GAMES = ["pokemon", "digimon", "onepiece", "dragonball", "palworld", "yugioh", "magic", "lorcana", "riftbound", "cyberpunk", "gundam", "wow", "fab", "sorcery"];
 const LANGS = ["fr", "en", "ja", "de", "es", "it", "pt", "nl", "pl", "ru", "ko", "zh", "zh-cn", "th", "id"];
 const FINISHES = { normal: "normal", normale: "normal", holo: "holofoil", holofoil: "holofoil", reverse: "reverse_holo", reverse_holo: "reverse_holo", metal: "metal" };
 const FINISH_KEY = { normal: "normal", holofoil: "holo", reverse_holo: "reverse", metal: "metal" };

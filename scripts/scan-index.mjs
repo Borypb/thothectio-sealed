@@ -23,7 +23,7 @@
 //   yugioh     identifiant YGOPRODeck ; fiche : carte avec ses extensions, l'illustration de l'entrée en tête
 //   lorcana    code d'extension ; fiche : carte Lorcast ; sets : { code, name, released_at }
 //   onepiece   produit punk-records ; fiche : carte punk-records ; sets : { id, name } (identifiants de l'app)
-//   riftbound, dragonball, palworld, digimon, cyberpunk, gundam, wow : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
+//   riftbound, dragonball, palworld, digimon, cyberpunk, gundam, wow, fab, sorcery : fichier cards/… de ce dépôt ; fiche : carte du catalogue ; sets : { id, name, releasedAt }
 import { createHash } from "node:crypto";
 import { readFile, writeFile, mkdir, rm, readdir } from "node:fs/promises";
 import { createReadStream, createWriteStream } from "node:fs";
@@ -294,7 +294,7 @@ async function onepiece(lang) {
 }
 
 /** préfixe des identifiants d'extension dans l'app (src/catalog/sources/tcgcatalog.ts) */
-const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb", gundam: "gdm", wow: "wow" };
+const CATALOG_PREFIX = { dragonball: "db", palworld: "pal", digimon: "dgm", riftbound: "rb", cyberpunk: "cyb", gundam: "gdm", wow: "wow", fab: "fab", sorcery: "sor" };
 
 /** licences du catalogue TCGplayer publiées par ce dépôt (cards/) */
 async function tcgcatalog(game) {
@@ -340,6 +340,8 @@ const FILES = [
   { game: "gundam", lang: "en", list: () => tcgcatalog("gundam") },
   // World of Warcraft : images TCGplayer seulement (les images de wowcards.info ne sont pas téléchargées en masse)
   { game: "wow", lang: "en", list: async () => (await tcgcatalog("wow")).filter((e) => !/wowcards\.info/.test(e.img)) },
+  { game: "fab", lang: "en", list: () => tcgcatalog("fab") },
+  { game: "sorcery", lang: "en", list: () => tcgcatalog("sorcery") },
   { game: "yugioh", lang: "en", list: yugioh },
   ...POKEMON_LANGS.slice(3).map(([l, t]) => ({ game: "pokemon", lang: l, list: () => pokemon(l, t) })),
   { game: "magic", lang: "en", list: magic }

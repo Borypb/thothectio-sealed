@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-24",
-  "sets": [],
+  "updatedAt": "2026-11-25",
+  "sets": [
+    {
+      "id": "pkm-mcd26",
+      "game": "pokemon",
+      "name": "McDonald's Collection 2026",
+      "series": "McDonald's",
+      "code": "M26",
+      "releasedAt": "2026-11-03",
+      "printedTotal": 15,
+      "languages": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it"
+      ],
+      "finishes": [
+        "normal",
+        "holofoil"
+      ],
+      "source": "curated"
+    }
+  ],
   "cards": [
     {
       "id": "pkm-miscp:001:ja:holo-1999-nintedo",
@@ -210,6 +232,1716 @@
       },
       "anyLang": true,
       "order": 6,
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:001:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-001:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "001",
+      "printedTotal": "15",
+      "name": "Decidueye",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:002:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-002:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "002",
+      "printedTotal": "15",
+      "name": "Chandelure",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:003:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-003:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "003",
+      "printedTotal": "15",
+      "name": "Palafin",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:004:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-004:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "004",
+      "printedTotal": "15",
+      "name": "Pikachu",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:005:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-005:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "005",
+      "printedTotal": "15",
+      "name": "Mimikyu",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:006:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-006:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "006",
+      "printedTotal": "15",
+      "name": "Lucario",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:007:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-007:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "007",
+      "printedTotal": "15",
+      "name": "Hawlucha",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:008:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-008:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "008",
+      "printedTotal": "15",
+      "name": "Tyranitar",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:009:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-009:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "009",
+      "printedTotal": "15",
+      "name": "Absol",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:010:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-010:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "010",
+      "printedTotal": "15",
+      "name": "Zoroark",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:011:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-011:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "011",
+      "printedTotal": "15",
+      "name": "Metagross",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:012:en:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-012:en:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "012",
+      "printedTotal": "15",
+      "name": "Jirachi",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:013:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-013:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "013",
+      "printedTotal": "15",
+      "name": "Eevee",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:014:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-014:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "014",
+      "printedTotal": "15",
+      "name": "Snorlax",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:015:en:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-en-015:en:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "015",
+      "printedTotal": "15",
+      "name": "Wooloo",
+      "lang": "en",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-03",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:001:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-001:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "001",
+      "printedTotal": "15",
+      "name": "Archéduc",
+      "nameEn": "Decidueye",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:002:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-002:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "002",
+      "printedTotal": "15",
+      "name": "Lugulabre",
+      "nameEn": "Chandelure",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:003:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-003:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "003",
+      "printedTotal": "15",
+      "name": "Superdofin",
+      "nameEn": "Palafin",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:004:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-004:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "004",
+      "printedTotal": "15",
+      "name": "Pikachu",
+      "nameEn": "Pikachu",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:005:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-005:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "005",
+      "printedTotal": "15",
+      "name": "Mimiqui",
+      "nameEn": "Mimikyu",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:006:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-006:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "006",
+      "printedTotal": "15",
+      "name": "Lucario",
+      "nameEn": "Lucario",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:007:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-007:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "007",
+      "printedTotal": "15",
+      "name": "Brutalibré",
+      "nameEn": "Hawlucha",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:008:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-008:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "008",
+      "printedTotal": "15",
+      "name": "Tyranocif",
+      "nameEn": "Tyranitar",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:009:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-009:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "009",
+      "printedTotal": "15",
+      "name": "Absol",
+      "nameEn": "Absol",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:010:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-010:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "010",
+      "printedTotal": "15",
+      "name": "Zoroark",
+      "nameEn": "Zoroark",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:011:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-011:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "011",
+      "printedTotal": "15",
+      "name": "Métalosse",
+      "nameEn": "Metagross",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:012:fr:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-012:fr:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "012",
+      "printedTotal": "15",
+      "name": "Jirachi",
+      "nameEn": "Jirachi",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:013:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-013:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "013",
+      "printedTotal": "15",
+      "name": "Évoli",
+      "nameEn": "Eevee",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:014:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-014:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "014",
+      "printedTotal": "15",
+      "name": "Ronflex",
+      "nameEn": "Snorlax",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:015:fr:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-fr-015:fr:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "015",
+      "printedTotal": "15",
+      "name": "Moumouton",
+      "nameEn": "Wooloo",
+      "lang": "fr",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-24",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:001:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-001:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "001",
+      "printedTotal": "15",
+      "name": "Silvarro",
+      "nameEn": "Decidueye",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:002:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-002:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "002",
+      "printedTotal": "15",
+      "name": "Skelabra",
+      "nameEn": "Chandelure",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:003:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-003:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "003",
+      "printedTotal": "15",
+      "name": "Delfinator",
+      "nameEn": "Palafin",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:004:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-004:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "004",
+      "printedTotal": "15",
+      "name": "Pikachu",
+      "nameEn": "Pikachu",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:005:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-005:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "005",
+      "printedTotal": "15",
+      "name": "Mimigma",
+      "nameEn": "Mimikyu",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:006:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-006:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "006",
+      "printedTotal": "15",
+      "name": "Lucario",
+      "nameEn": "Lucario",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:007:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-007:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "007",
+      "printedTotal": "15",
+      "name": "Resladero",
+      "nameEn": "Hawlucha",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:008:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-008:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "008",
+      "printedTotal": "15",
+      "name": "Despotar",
+      "nameEn": "Tyranitar",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:009:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-009:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "009",
+      "printedTotal": "15",
+      "name": "Absol",
+      "nameEn": "Absol",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:010:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-010:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "010",
+      "printedTotal": "15",
+      "name": "Zoroark",
+      "nameEn": "Zoroark",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:011:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-011:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "011",
+      "printedTotal": "15",
+      "name": "Metagross",
+      "nameEn": "Metagross",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:012:de:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-012:de:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "012",
+      "printedTotal": "15",
+      "name": "Jirachi",
+      "nameEn": "Jirachi",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:013:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-013:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "013",
+      "printedTotal": "15",
+      "name": "Evoli",
+      "nameEn": "Eevee",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:014:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-014:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "014",
+      "printedTotal": "15",
+      "name": "Relaxo",
+      "nameEn": "Snorlax",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:015:de:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-de-015:de:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "015",
+      "printedTotal": "15",
+      "name": "Wolly",
+      "nameEn": "Wooloo",
+      "lang": "de",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-12-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:001:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-001:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "001",
+      "printedTotal": "15",
+      "name": "Decidueye",
+      "nameEn": "Decidueye",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:002:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-002:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "002",
+      "printedTotal": "15",
+      "name": "Chandelure",
+      "nameEn": "Chandelure",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:003:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-003:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "003",
+      "printedTotal": "15",
+      "name": "Palafin",
+      "nameEn": "Palafin",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:004:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-004:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "004",
+      "printedTotal": "15",
+      "name": "Pikachu",
+      "nameEn": "Pikachu",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:005:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-005:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "005",
+      "printedTotal": "15",
+      "name": "Mimikyu",
+      "nameEn": "Mimikyu",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:006:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-006:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "006",
+      "printedTotal": "15",
+      "name": "Lucario",
+      "nameEn": "Lucario",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:007:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-007:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "007",
+      "printedTotal": "15",
+      "name": "Hawlucha",
+      "nameEn": "Hawlucha",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:008:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-008:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "008",
+      "printedTotal": "15",
+      "name": "Tyranitar",
+      "nameEn": "Tyranitar",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:009:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-009:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "009",
+      "printedTotal": "15",
+      "name": "Absol",
+      "nameEn": "Absol",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:010:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-010:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "010",
+      "printedTotal": "15",
+      "name": "Zoroark",
+      "nameEn": "Zoroark",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:011:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-011:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "011",
+      "printedTotal": "15",
+      "name": "Metagross",
+      "nameEn": "Metagross",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:012:es:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-012:es:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "012",
+      "printedTotal": "15",
+      "name": "Jirachi",
+      "nameEn": "Jirachi",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:013:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-013:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "013",
+      "printedTotal": "15",
+      "name": "Eevee",
+      "nameEn": "Eevee",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:014:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-014:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "014",
+      "printedTotal": "15",
+      "name": "Snorlax",
+      "nameEn": "Snorlax",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:015:es:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-es-015:es:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "015",
+      "printedTotal": "15",
+      "name": "Wooloo",
+      "nameEn": "Wooloo",
+      "lang": "es",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2026-11-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:001:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-001:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "001",
+      "printedTotal": "15",
+      "name": "Decidueye",
+      "nameEn": "Decidueye",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730416_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:002:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-002:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "002",
+      "printedTotal": "15",
+      "name": "Chandelure",
+      "nameEn": "Chandelure",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730417_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:003:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-003:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "003",
+      "printedTotal": "15",
+      "name": "Palafin",
+      "nameEn": "Palafin",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730418_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:004:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-004:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "004",
+      "printedTotal": "15",
+      "name": "Pikachu",
+      "nameEn": "Pikachu",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730419_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:005:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-005:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "005",
+      "printedTotal": "15",
+      "name": "Mimikyu",
+      "nameEn": "Mimikyu",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730420_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:006:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-006:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "006",
+      "printedTotal": "15",
+      "name": "Lucario",
+      "nameEn": "Lucario",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730421_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:007:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-007:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "007",
+      "printedTotal": "15",
+      "name": "Hawlucha",
+      "nameEn": "Hawlucha",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730422_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:008:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-008:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "008",
+      "printedTotal": "15",
+      "name": "Tyranitar",
+      "nameEn": "Tyranitar",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730423_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:009:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-009:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "009",
+      "printedTotal": "15",
+      "name": "Absol",
+      "nameEn": "Absol",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730424_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:010:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-010:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "010",
+      "printedTotal": "15",
+      "name": "Zoroark",
+      "nameEn": "Zoroark",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730426_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:011:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-011:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "011",
+      "printedTotal": "15",
+      "name": "Metagross",
+      "nameEn": "Metagross",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730427_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:012:it:holo-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-012:it:holo-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "012",
+      "printedTotal": "15",
+      "name": "Jirachi",
+      "nameEn": "Jirachi",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "holofoil",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730429_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:013:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-013:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "013",
+      "printedTotal": "15",
+      "name": "Eevee",
+      "nameEn": "Eevee",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730430_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:014:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-014:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "014",
+      "printedTotal": "15",
+      "name": "Snorlax",
+      "nameEn": "Snorlax",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730431_in_1000x1000.jpg",
+      "curated": true
+    },
+    {
+      "id": "pkm-mcd26:015:it:normal-curated",
+      "formerIds": [
+        "pkm-mcd26:x-mcd26-it-015:it:normal-curated"
+      ],
+      "game": "pokemon",
+      "setId": "pkm-mcd26",
+      "setName": "McDonald's Collection 2026",
+      "number": "015",
+      "printedTotal": "15",
+      "name": "Wooloo",
+      "nameEn": "Wooloo",
+      "lang": "it",
+      "rarity": "Promo",
+      "finish": "normal",
+      "variantTags": [
+        "promo"
+      ],
+      "releasedAt": "2027-01-01",
+      "imageSmall": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
+      "imageLarge": "https://tcgplayer-cdn.tcgplayer.com/product/730432_in_1000x1000.jpg",
       "curated": true
     }
   ],

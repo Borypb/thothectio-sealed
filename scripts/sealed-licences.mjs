@@ -1,5 +1,6 @@
 // Script 6 — produits scellés des licences autres que Pokémon, depuis le catalogue TCGplayer (TCGCSV), en anglais.
-// One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball Fusion World, Riftbound, Palworld, Cyberpunk, Gundam, World of Warcraft.
+// One Piece, Magic, Yu-Gi-Oh!, Lorcana, Digimon, Dragon Ball Fusion World, Riftbound, Palworld, Cyberpunk, Gundam, World of Warcraft,
+// Flesh and Blood, Sorcery.
 // Chaque produit est rattaché à l'extension de l'app (mêmes identifiants que dans Licences) quand c'est possible.
 // Incrémental : un groupe n'est relu que si son `modifiedOn` a changé ; les cotes TCGplayer, chaque jour.
 // Sorties : raw/<licence>-en.json, <licence>-en.json, prices-<licence>.json, entrées dans index.json
@@ -22,7 +23,9 @@ export const LICENCES = {
   palworld: { cats: [/^palworld/i], prefix: "pal", link: "group" },
   cyberpunk: { cats: [/^cyberpunk tcg$/i, /cyberpunk/i], prefix: "cyb", link: "group" },
   gundam: { cats: [/^gundam card game$/i, /^gundam/i], prefix: "gdm", link: "group" },
-  wow: { cats: [/^wow$/i, /^world of warcraft (tcg|trading card game)$/i], prefix: "wow", link: "group" }
+  wow: { cats: [/^wow$/i, /^world of warcraft (tcg|trading card game)$/i], prefix: "wow", link: "group" },
+  fab: { cats: [/^flesh (&|and) blood( tcg)?$/i, /flesh (&|and) blood/i], prefix: "fab", link: "group" },
+  sorcery: { cats: [/^sorcery:? contested realm$/i, /^sorcery/i], prefix: "sor", link: "group" }
 };
 
 /** TCGplayer met la date de récolte à la place des dates inconnues */

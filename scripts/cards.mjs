@@ -1,5 +1,5 @@
 // Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound, Cyberpunk,
-// Gundam, World of Warcraft),
+// Gundam, World of Warcraft, Flesh and Blood, Sorcery),
 // depuis le catalogue TCGplayer (TCGCSV). Images du CDN TCGplayer, cote du marché américain en $.
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
 // Image d'attente de TCGplayer (dos de carte d'une extension qui vient de sortir, tcgplayer-placeholders.mjs) : l'adresse
@@ -22,7 +22,12 @@ export const CARD_GAMES = {
   // Gundam Card Game (Bandai, 2025) : catégorie TCGplayer 86, cartes anglaises
   gundam: [/^gundam card game$/i, /^gundam/i],
   // World of Warcraft TCG (2006-2013) : catégorie TCGplayer 13 « WoW », complétée par wowcards.info (wow-merge.mjs)
-  wow: [/^wow$/i, /^world of warcraft (tcg|trading card game)$/i]
+  wow: [/^wow$/i, /^world of warcraft (tcg|trading card game)$/i],
+  // Flesh and Blood (Legend Story Studios) : catégorie TCGplayer 62, cartes anglaises (numéro « IAR156 », couleur de
+  // pitch et version entre parenthèses dans le nom : « Runechant of Sloth (Yellow) (Marvel) »)
+  fab: [/^flesh (&|and) blood( tcg)?$/i, /flesh (&|and) blood/i],
+  // Sorcery: Contested Realm (Erik's Curiosa) : catégorie TCGplayer 77, cartes anglaises, sans numéro (rareté seulement)
+  sorcery: [/^sorcery:? contested realm$/i, /^sorcery/i]
 };
 
 /**

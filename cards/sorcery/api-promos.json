@@ -1,0 +1,449 @@
+{
+  "groupId": 77000999,
+  "source": "sorcery-api",
+  "cards": [
+    {
+      "id": 7080898070,
+      "name": "Archimago",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-archimago-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7591937175,
+      "name": "Avatar of Air",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-avatar_of_air-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7995619079,
+      "name": "Avatar of Earth",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-avatar_of_earth-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7453159904,
+      "name": "Avatar of Fire",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-avatar_of_fire-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7616370928,
+      "name": "Avatar of Water",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-avatar_of_water-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7169612304,
+      "name": "Battlemage",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-battlemage-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7470546183,
+      "name": "Dark Tower",
+      "label": "Organized Play Promo · Foil",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-dark_tower-op-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7117811900,
+      "name": "Deathspeaker",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-deathspeaker-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7901194317,
+      "name": "Dispel",
+      "label": "Organized Play Promo",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-dispel-op-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7826125880,
+      "name": "Dispel",
+      "label": "Organized Play Promo · Foil",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-dispel-op-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7004154651,
+      "name": "Dragonlord",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-dragonlord-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7003542633,
+      "name": "Druid",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-druid-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7016315941,
+      "name": "Elementalist",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-elementalist-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7861980685,
+      "name": "Enchantress",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-enchantress-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7748819854,
+      "name": "Flamecaller",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-flamecaller-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7362236320,
+      "name": "Geomancer",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-geomancer-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7428116323,
+      "name": "Gothic Tower",
+      "label": "Organized Play Promo · Foil",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-gothic_tower-op-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7841226286,
+      "name": "Lone Tower",
+      "label": "Organized Play Promo · Foil",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-lone_tower-op-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7937080725,
+      "name": "Pathfinder",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-pathfinder-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7609168084,
+      "name": "Seer",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-seer-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7500178223,
+      "name": "Sorcerer",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-sorcerer-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7118859190,
+      "name": "Sparkmage",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-sparkmage-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7222099917,
+      "name": "Spellslinger",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-spellslinger-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7830858326,
+      "name": "Spire",
+      "label": "Draft Kit Promo",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-spire-dk-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7506490035,
+      "name": "Stream",
+      "label": "Draft Kit Promo",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-stream-dk-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7814155019,
+      "name": "Templar",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-templar-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7131030545,
+      "name": "Valley",
+      "label": "Draft Kit Promo",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-valley-dk-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7399652195,
+      "name": "Wasteland",
+      "label": "Draft Kit Promo",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-wasteland-dk-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7535900040,
+      "name": "Waveshaper",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-waveshaper-op-rf",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7031705578,
+      "name": "Witch",
+      "label": "Alpha Investments Promo · Foil",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-witch-ai-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7373952810,
+      "name": "Witch",
+      "label": "Organized Play Promo",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Rainbow Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-witch-op-rf",
+      "source": "sorcery-api"
+    }
+  ]
+}

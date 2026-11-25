@@ -8,7 +8,8 @@
     23778,
     23514,
     23336,
-    23335
+    23335,
+    77000999
   ],
   "names": [
     [
@@ -165,7 +166,8 @@
       [
         0,
         7,
-        8
+        8,
+        9
       ]
     ],
     [
@@ -823,37 +825,6 @@
       ]
     ],
     [
-      "Accusation",
-      [
-        2
-      ]
-    ],
-    [
-      "Angry Mob",
-      [
-        2
-      ]
-    ],
-    [
-      "Bind Evil",
-      [
-        2
-      ]
-    ],
-    [
-      "Persecutor",
-      [
-        2,
-        6
-      ]
-    ],
-    [
-      "Shackled Demon",
-      [
-        2
-      ]
-    ],
-    [
       "Aaj-kegon Ghost Crabs",
       [
         2
@@ -879,6 +850,12 @@
     ],
     [
       "Accursed Tower",
+      [
+        2
+      ]
+    ],
+    [
+      "Accusation",
       [
         2
       ]
@@ -933,6 +910,12 @@
     ],
     [
       "Angel Ascendant",
+      [
+        2
+      ]
+    ],
+    [
+      "Angry Mob",
       [
         2
       ]
@@ -1076,6 +1059,12 @@
       ]
     ],
     [
+      "Bind Evil",
+      [
+        2
+      ]
+    ],
+    [
       "Bitten",
       [
         2
@@ -1106,13 +1095,13 @@
       ]
     ],
     [
-      "Bladedancer",
+      "Blade of Thorns",
       [
         2
       ]
     ],
     [
-      "Blade of Thorns",
+      "Bladedancer",
       [
         2
       ]
@@ -1424,6 +1413,12 @@
       ]
     ],
     [
+      "De Vermis Mysteriis",
+      [
+        2
+      ]
+    ],
+    [
       "Death Knight",
       [
         2
@@ -1491,12 +1486,6 @@
     ],
     [
       "Detonate",
-      [
-        2
-      ]
-    ],
-    [
-      "De Vermis Mysteriis",
       [
         2
       ]
@@ -1779,6 +1768,14 @@
       ]
     ],
     [
+      "Frog",
+      [
+        2,
+        7,
+        8
+      ]
+    ],
+    [
       "Garden of Eden",
       [
         2
@@ -1791,13 +1788,13 @@
       ]
     ],
     [
-      "Ghostfire",
+      "Ghost Town",
       [
         2
       ]
     ],
     [
-      "Ghost Town",
+      "Ghostfire",
       [
         2
       ]
@@ -2135,13 +2132,13 @@
       ]
     ],
     [
-      "Ironclad",
+      "Iron Maiden",
       [
         2
       ]
     ],
     [
-      "Iron Maiden",
+      "Ironclad",
       [
         2
       ]
@@ -2165,12 +2162,6 @@
       ]
     ],
     [
-      "Kissers of Wounds",
-      [
-        2
-      ]
-    ],
-    [
       "Kiss of Death",
       [
         2
@@ -2178,6 +2169,12 @@
     ],
     [
       "Kiss of Judas",
+      [
+        2
+      ]
+    ],
+    [
+      "Kissers of Wounds",
       [
         2
       ]
@@ -2460,13 +2457,13 @@
       ]
     ],
     [
-      "Noisome Twosome",
+      "No Man's Land",
       [
         2
       ]
     ],
     [
-      "No Man's Land",
+      "Noisome Twosome",
       [
         2
       ]
@@ -2580,13 +2577,13 @@
       ]
     ],
     [
-      "Peacemaker Arbalest",
+      "Peace Offering",
       [
         2
       ]
     ],
     [
-      "Peace Offering",
+      "Peacemaker Arbalest",
       [
         2
       ]
@@ -2601,6 +2598,13 @@
       "Penitent Knight",
       [
         2
+      ]
+    ],
+    [
+      "Persecutor",
+      [
+        2,
+        6
       ]
     ],
     [
@@ -2700,13 +2704,13 @@
       ]
     ],
     [
-      "Redmane Hyena",
+      "Red Rock of Ravannis",
       [
         2
       ]
     ],
     [
-      "Red Rock of Ravannis",
+      "Redmane Hyena",
       [
         2
       ]
@@ -2730,13 +2734,13 @@
       ]
     ],
     [
-      "Returned King",
+      "Return to Nature",
       [
         2
       ]
     ],
     [
-      "Return to Nature",
+      "Returned King",
       [
         2
       ]
@@ -2750,7 +2754,8 @@
     [
       "River of Blood",
       [
-        2
+        2,
+        6
       ]
     ],
     [
@@ -2827,6 +2832,12 @@
       ]
     ],
     [
+      "Sea Witch",
+      [
+        2
+      ]
+    ],
+    [
       "Search Party",
       [
         2
@@ -2834,12 +2845,6 @@
     ],
     [
       "Searing Truth",
-      [
-        2
-      ]
-    ],
-    [
-      "Sea Witch",
       [
         2
       ]
@@ -2876,6 +2881,12 @@
     ],
     [
       "Sewer Rats",
+      [
+        2
+      ]
+    ],
+    [
+      "Shackled Demon",
       [
         2
       ]
@@ -2926,6 +2937,13 @@
       "Sjaelstrom",
       [
         2
+      ]
+    ],
+    [
+      "Skeleton",
+      [
+        2,
+        6
       ]
     ],
     [
@@ -2983,6 +3001,14 @@
       ]
     ],
     [
+      "Spire",
+      [
+        2,
+        6,
+        9
+      ]
+    ],
+    [
       "Spore Spouts",
       [
         2
@@ -3016,6 +3042,14 @@
       "Stitched Abomination",
       [
         2
+      ]
+    ],
+    [
+      "Stream",
+      [
+        2,
+        6,
+        9
       ]
     ],
     [
@@ -3223,6 +3257,14 @@
       ]
     ],
     [
+      "Valley",
+      [
+        2,
+        6,
+        9
+      ]
+    ],
+    [
       "Vampire Bats",
       [
         2
@@ -3262,6 +3304,14 @@
       "Virgin in Prayer",
       [
         2
+      ]
+    ],
+    [
+      "Wasteland",
+      [
+        2,
+        6,
+        9
       ]
     ],
     [
@@ -3355,95 +3405,13 @@
       ]
     ],
     [
-      "Valley",
-      [
-        2,
-        6
-      ]
-    ],
-    [
-      "Stream",
-      [
-        2
-      ]
-    ],
-    [
-      "Spire",
-      [
-        2,
-        6
-      ]
-    ],
-    [
-      "Wasteland",
-      [
-        2,
-        6
-      ]
-    ],
-    [
-      "Skeleton",
-      [
-        2,
-        6
-      ]
-    ],
-    [
-      "Caelestis",
-      [
-        3
-      ]
-    ],
-    [
-      "Talamh Dreig",
-      [
-        3
-      ]
-    ],
-    [
-      "Dragonlord",
-      [
-        3
-      ]
-    ],
-    [
-      "Kairos the Archivist",
-      [
-        3
-      ]
-    ],
-    [
-      "Xeraphine Konrul",
-      [
-        3
-      ]
-    ],
-    [
-      "Draco Corvus",
-      [
-        3
-      ]
-    ],
-    [
-      "Moonsong Talagelum",
-      [
-        3
-      ]
-    ],
-    [
       "Adtonitum",
       [
         3
       ]
     ],
     [
-      "Ignis Rex",
-      [
-        3
-      ]
-    ],
-    [
-      "Vatn Draconis",
+      "Caelestis",
       [
         3
       ]
@@ -3455,13 +3423,62 @@
       ]
     ],
     [
+      "Draco Corvus",
+      [
+        3
+      ]
+    ],
+    [
+      "Dragonlord",
+      [
+        3,
+        9
+      ]
+    ],
+    [
+      "Dragonlord's Lair",
+      [
+        3
+      ]
+    ],
+    [
+      "Ignis Rex",
+      [
+        3
+      ]
+    ],
+    [
+      "Kairos the Archivist",
+      [
+        3
+      ]
+    ],
+    [
+      "Moonsong Talagelum",
+      [
+        3
+      ]
+    ],
+    [
       "Shrine of the Dragonlord",
       [
         3
       ]
     ],
     [
-      "Dragonlord's Lair",
+      "Talamh Dreig",
+      [
+        3
+      ]
+    ],
+    [
+      "Vatn Draconis",
+      [
+        3
+      ]
+    ],
+    [
+      "Xeraphine Konrul",
       [
         3
       ]
@@ -3499,7 +3516,8 @@
     [
       "Archimago",
       [
-        4
+        4,
+        9
       ]
     ],
     [
@@ -3557,13 +3575,13 @@
       ]
     ],
     [
-      "Bluecap Knockers",
+      "Blue Knight",
       [
         4
       ]
     ],
     [
-      "Blue Knight",
+      "Bluecap Knockers",
       [
         4
       ]
@@ -3626,7 +3644,8 @@
     [
       "Bruin",
       [
-        4
+        4,
+        6
       ]
     ],
     [
@@ -3661,13 +3680,13 @@
       ]
     ],
     [
-      "Castle's Ablaze!",
+      "Castle Servants",
       [
         4
       ]
     ],
     [
-      "Castle Servants",
+      "Castle's Ablaze!",
       [
         4
       ]
@@ -3729,7 +3748,8 @@
     [
       "Druid",
       [
-        4
+        4,
+        9
       ]
     ],
     [
@@ -3811,13 +3831,13 @@
       ]
     ],
     [
-      "Fourberie Knot",
+      "Four Waters of Paradise",
       [
         4
       ]
     ],
     [
-      "Four Waters of Paradise",
+      "Fourberie Knot",
       [
         4
       ]
@@ -4011,6 +4031,12 @@
     ],
     [
       "Lake Afanc",
+      [
+        4
+      ]
+    ],
+    [
+      "Lance",
       [
         4
       ]
@@ -4517,7 +4543,8 @@
     [
       "Tawny",
       [
-        4
+        4,
+        6
       ]
     ],
     [
@@ -4529,7 +4556,8 @@
     [
       "Templar",
       [
-        4
+        4,
+        9
       ]
     ],
     [
@@ -4746,7 +4774,8 @@
     [
       "Witch",
       [
-        4
+        4,
+        9
       ]
     ],
     [
@@ -4791,7 +4820,8 @@
         5,
         6,
         7,
-        8
+        8,
+        9
       ]
     ],
     [
@@ -4803,11 +4833,43 @@
       ]
     ],
     [
+      "Court of Equity",
+      [
+        6
+      ]
+    ],
+    [
       "Foot Soldier",
       [
         6,
         7,
         8
+      ]
+    ],
+    [
+      "Grey Wolves",
+      [
+        6,
+        7,
+        8
+      ]
+    ],
+    [
+      "Mobbed Court",
+      [
+        6
+      ]
+    ],
+    [
+      "Mock Court",
+      [
+        6
+      ]
+    ],
+    [
+      "Overflowing Court",
+      [
+        6
       ]
     ],
     [
@@ -4835,221 +4897,7 @@
       ]
     ],
     [
-      "Court of Equity",
-      [
-        6
-      ]
-    ],
-    [
-      "Mobbed Court",
-      [
-        6
-      ]
-    ],
-    [
-      "Mock Court",
-      [
-        6
-      ]
-    ],
-    [
-      "Overflowing Court",
-      [
-        6
-      ]
-    ],
-    [
-      "Grey Wolves",
-      [
-        6,
-        7,
-        8
-      ]
-    ],
-    [
-      "Scorched Earth",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Scent Hounds",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Scourge Zombies",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Screaming Skull",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sea Raider",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sea Serpent",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Witherwing Hero",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wraetannis Titan",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wrath of the Sea",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Yokai Kappas",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Yourke Crossbowmen",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Zephyranne Airship",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Upwelling",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vanguard Knights",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vantage Hills",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vaults of Zul",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Backstab",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vesuvius",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vile Imp",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Vril Revenant",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wall of Air",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wall of Fire",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bane Widow",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wall of Ice",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Abundance",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Battering Ram",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Warp Spasm",
       [
         7,
         8
@@ -5063,55 +4911,7 @@
       ]
     ],
     [
-      "Watchtower",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Waveshaper",
-      [
-        7
-      ]
-    ],
-    [
       "Adept Illusionist",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wayfaring Pilgrim",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Whirling Blades",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Seasoned Sellsword",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wicked Witch",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Secret Tunnel",
       [
         7,
         8
@@ -5125,77 +4925,7 @@
       ]
     ],
     [
-      "Battlefield",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Battlemage",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sedge Crabs",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Beast of Burden",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Seer",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Buried Treasure",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "All-terrain Vestments",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bedrock",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Belfry",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Burned/Engulfed",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Belmotte Longbowmen",
       [
         7,
         8
@@ -5209,70 +4939,7 @@
       ]
     ],
     [
-      "Seirawan Hydra",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Black Obelisk",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Call to War",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Selfsame Simulacrum",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Blasted Oak",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Candlemas Monks",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Amethyst Core",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Blink",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Captain Baldassare",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Seven-League Boots",
       [
         7,
         8
@@ -5293,21 +4960,7 @@
       ]
     ],
     [
-      "Blood Ravens",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Anui Undine",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Shield Maidens",
       [
         7,
         8
@@ -5321,70 +4974,7 @@
       ]
     ],
     [
-      "Cauldron Crones",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bone Rabble",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Cave Trolls",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Boneyard",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Aquamarine Core",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Shield Wall",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wicker Manikin",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wild Boars",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Border Militia",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Shifting Sands",
       [
         7,
         8
@@ -5398,70 +4988,7 @@
       ]
     ],
     [
-      "Wildfire",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bosk Troll",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wills-o'-the-Wisp",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Cave-In",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bottomless Pit",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wind Sylph",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Aramos Mercenaries",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Shrink",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Bridge Troll",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Windblast",
       [
         7,
         8
@@ -5475,14 +5002,197 @@
       ]
     ],
     [
-      "Cerberus in Chains",
+      "Askelon Phoenix",
       [
         7,
         8
       ]
     ],
     [
-      "Siege Ballista",
+      "Assorted Animals",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Astral Alcazar",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Atlantean Fate",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Atlas Wanderers",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Autumn River",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Autumn Unicorn",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Awakened Mummies",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Azuridge Caravan",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Backstab",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bane Widow",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Battering Ram",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Battlefield",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Battlemage",
+      [
+        7,
+        8,
+        9
+      ]
+    ],
+    [
+      "Beast of Burden",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bedrock",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Belfry",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Belmotte Longbowmen",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Black Obelisk",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Blasted Oak",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Blink",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Blood Ravens",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bone Rabble",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Boneyard",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Border Militia",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bosk Troll",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bottomless Pit",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Bridge Troll",
       [
         7,
         8
@@ -5496,28 +5206,7 @@
       ]
     ],
     [
-      "Silence",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Windmill",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Browse",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Wings of Invention",
       [
         7,
         8
@@ -5531,7 +5220,63 @@
       ]
     ],
     [
-      "Chains of Prometheus",
+      "Buried Treasure",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Burned/Engulfed",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Call to War",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Candlemas Monks",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Captain Baldassare",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cauldron Crones",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cave Trolls",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cave-In",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cerberus in Chains",
       [
         7,
         8
@@ -5545,63 +5290,7 @@
       ]
     ],
     [
-      "Silver Valkyries",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Simple Village",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Swan Maidens",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Crave Golem",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Swiven Scout",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Tadpole Pool",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Critical Strike",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Telekinesis",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sirian Templar",
+      "Chains of Prometheus",
       [
         7,
         8
@@ -5615,21 +5304,98 @@
       ]
     ],
     [
+      "Clamor of Harpies",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cloud Spirit",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Colicky Dragonettes",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Common Sense",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cone of Flame",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Conqueror Worm",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Coral-Reef Kelpie",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Cornerstone",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Court Jester",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Courtesan Thaïs",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Craterize",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Crave Golem",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Critical Strike",
+      [
+        7,
+        8
+      ]
+    ],
+    [
       "Crossroads",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Teleport",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sirocco Scorpions",
       [
         7,
         8
@@ -5643,27 +5409,6 @@
       ]
     ],
     [
-      "The Geistwood",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Clamor of Harpies",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "The Immortal Throne",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Crown Prince",
       [
         7,
@@ -5671,14 +5416,7 @@
       ]
     ],
     [
-      "Sisters of Silence",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Thunderstorm",
+      "Crusade",
       [
         7,
         8
@@ -5686,20 +5424,6 @@
     ],
     [
       "Dalcean Phalanx",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Tide Naiads",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Cloud Spirit",
       [
         7,
         8
@@ -5716,95 +5440,12 @@
       "Dark Tower",
       [
         7,
-        8
-      ]
-    ],
-    [
-      "Colicky Dragonettes",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Askelon Phoenix",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Skirmishers of Mu",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Torshammar Trinket",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Common Sense",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Assorted Animals",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Tragedy Worrywart",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Tringh Constrictor",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Cone of Flame",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Astral Alcazar",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Truesight Crossbow",
-      [
-        7,
-        8
+        8,
+        9
       ]
     ],
     [
       "Dead of Night Demon",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Conqueror Worm",
       [
         7,
         8
@@ -5818,157 +5459,11 @@
       ]
     ],
     [
-      "Sky Baron",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Tvinnax Berserker",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sleep",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Twist of Fate",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Coral-Reef Kelpie",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sling Pixies",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ultimate Horror",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pirate Ship",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Undertaker Engine",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Cornerstone",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pit Vipers",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Undertow",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Unland Angler",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Unland Eel",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Smokestacks of Gnaak",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Unlikely Alliance",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Unravel",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sneak Thief",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Updraft Ridge",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Deathspeaker",
       [
         7,
-        8
-      ]
-    ],
-    [
-      "Snow Leopard",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Court Jester",
-      [
-        7,
-        8
+        8,
+        9
       ]
     ],
     [
@@ -5979,28 +5474,7 @@
       ]
     ],
     [
-      "Courtesan Thaïs",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Devil's Egg",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Plague of Frogs",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Planar Gate",
       [
         7,
         8
@@ -6015,13 +5489,6 @@
     ],
     [
       "Disintegrate",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pnakotic Manuscript",
       [
         7,
         8
@@ -6056,28 +5523,7 @@
       ]
     ],
     [
-      "Poison Nova",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Poisonous Dagger",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Doomsday Device",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Craterize",
       [
         7,
         8
@@ -6091,42 +5537,7 @@
       ]
     ],
     [
-      "Polar Explorers",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pollimorph",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Dream-Quest",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Porcupine Pufferfish",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Primordial Spring",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pristine Paradise",
       [
         7,
         8
@@ -6140,77 +5551,7 @@
       ]
     ],
     [
-      "Psionic Blast",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Puppet Master",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Purge Juggernaut",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Quagmire",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Quarrelsome Kobolds",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Drums of Doom",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Queen of Midland",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Raal Dromedary",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Rain of Arrows",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Raise Dead",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Recall",
       [
         7,
         8
@@ -6248,39 +5589,104 @@
       "Elementalist",
       [
         7,
-        8
-      ]
-    ],
-    [
-      "Flaming Sword",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Atlantean Fate",
-      [
-        7,
-        8
+        8,
+        9
       ]
     ],
     [
       "Enchantress",
       [
         7,
-        8
+        8,
+        9
       ]
     ],
     [
-      "Atlas Wanderers",
+      "Entangle Terrain",
       [
         7,
         8
       ]
     ],
     [
-      "Autumn River",
+      "Escyllion Cyclops",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Evil Presence",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Exorcism",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Extinguish",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Fade",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Far East Assassin",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Felbog Frog Men",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Fenvale Muse",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Fire Harpoons!",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Firebolts",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Flamecaller",
+      [
+        7,
+        9
+      ]
+    ],
+    [
+      "Flaming Sword",
       [
         7,
         8
@@ -6294,34 +5700,6 @@
       ]
     ],
     [
-      "Autumn Unicorn",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Awakened Mummies",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Entangle Terrain",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Azuridge Caravan",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Flood",
       [
         7,
@@ -6329,7 +5707,127 @@
       ]
     ],
     [
-      "Escyllion Cyclops",
+      "Floodplain",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Font of Life",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Free City",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Frontier Settlers",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Frost Nova",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Geomancer",
+      [
+        7,
+        9
+      ]
+    ],
+    [
+      "Geyser",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ghost Ship",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Giant Shark",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Gigantism",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Gilded Aegis",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Gneissgnath Gnomes",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Gnome Hollows",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Gothic Tower",
+      [
+        7,
+        8,
+        9
+      ]
+    ],
+    [
+      "Grandmaster Wizard",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Grapple Shot",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Great Old One",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Great Wall",
       [
         7,
         8
@@ -6344,13 +5842,6 @@
     ],
     [
       "Grösse Poltergeist",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Floodplain",
       [
         7,
         8
@@ -6378,13 +5869,6 @@
       ]
     ],
     [
-      "Evil Presence",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Headless Haunt",
       [
         7,
@@ -6399,21 +5883,7 @@
       ]
     ],
     [
-      "Font of Life",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Highland Princess",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Exorcism",
       [
         7,
         8
@@ -6427,13 +5897,6 @@
       ]
     ],
     [
-      "Free City",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Holy Ground",
       [
         7,
@@ -6441,61 +5904,7 @@
       ]
     ],
     [
-      "Sparkmage",
-      [
-        7
-      ]
-    ],
-    [
       "Hounds of Ondaros",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Spear of Destiny",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Extinguish",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Frontier Settlers",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Frost Nova",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Geomancer",
-      [
-        7
-      ]
-    ],
-    [
-      "Fade",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Far East Assassin",
       [
         7,
         8
@@ -6516,42 +5925,7 @@
       ]
     ],
     [
-      "Geyser",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Felbog Frog Men",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Ice Lance",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ghost Ship",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Spectral Stalker",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Fenvale Muse",
       [
         7,
         8
@@ -6565,21 +5939,7 @@
       ]
     ],
     [
-      "Spin Attack",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Immolation",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Spire Lich",
       [
         7,
         8
@@ -6593,34 +5953,6 @@
       ]
     ],
     [
-      "Spring River",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Giant Shark",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Gigantism",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Squirming Mass",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Incinerate",
       [
         7,
@@ -6628,42 +5960,7 @@
       ]
     ],
     [
-      "Gilded Aegis",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Standing Stones",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Fire Harpoons!",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Infernal Legion",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Star-seeds of Uhr",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Gneissgnath Gnomes",
       [
         7,
         8
@@ -6684,13 +5981,6 @@
       ]
     ],
     [
-      "Stone-gaze Gorgons",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Island Leviathan",
       [
         7,
@@ -6698,14 +5988,7 @@
       ]
     ],
     [
-      "Stormy Seas",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Firebolts",
+      "Jihad",
       [
         7,
         8
@@ -6719,49 +6002,7 @@
       ]
     ],
     [
-      "Summer River",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Swamp Buffalo",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Summoning Sphere",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Gnome Hollows",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sunken Treasure",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "King of the Realm",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Gothic Tower",
       [
         7,
         8
@@ -6775,56 +6016,7 @@
       ]
     ],
     [
-      "Grandmaster Wizard",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Recurring Specter",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Kite Archer",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Grapple Shot",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Red Desert",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Great Old One",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Remote Desert",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Great Wall",
       [
         7,
         8
@@ -6838,27 +6030,7 @@
       ]
     ],
     [
-      "Flamecaller",
-      [
-        7
-      ]
-    ],
-    [
-      "Replication",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Land Deed",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Rest in Peace",
       [
         7,
         8
@@ -6886,45 +6058,11 @@
       ]
     ],
     [
-      "Maze Minotaur",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Nightmare",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Megamoeba",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Lone Tower",
       [
         7,
-        8
-      ]
-    ],
-    [
-      "Nimbus Jinn",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Men of Leng",
-      [
-        7,
-        8
+        8,
+        9
       ]
     ],
     [
@@ -6935,49 +6073,7 @@
       ]
     ],
     [
-      "Meteor Shower",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Oasis",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Midland Army",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Observatory",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Riddle Sphinx",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Lord of Unland",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Midnight Rogue",
       [
         7,
         8
@@ -6998,28 +6094,7 @@
       ]
     ],
     [
-      "Occult Ritual",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Maddening Bells",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Minecart Madness",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ogre Goons",
       [
         7,
         8
@@ -7047,28 +6122,7 @@
       ]
     ],
     [
-      "Rift Valley",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Old Salt Anchorman",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Magnetic Muzzle",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Rimland Nomads",
       [
         7,
         8
@@ -7082,28 +6136,7 @@
       ]
     ],
     [
-      "Onyx Core",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Riptide",
-      [
-        7,
-        8
-      ]
-    ],
-    [
       "Marine Voyage",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "River of Flame",
       [
         7,
         8
@@ -7131,28 +6164,49 @@
       ]
     ],
     [
-      "Orb of Ba'al Berith",
+      "Maze Minotaur",
       [
         7,
         8
       ]
     ],
     [
-      "Ormund Harpooneers",
+      "Megamoeba",
       [
         7,
         8
       ]
     ],
     [
-      "Outback Strider",
+      "Men of Leng",
       [
         7,
         8
       ]
     ],
     [
-      "Overpower",
+      "Meteor Shower",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Midland Army",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Midnight Rogue",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Minecart Madness",
       [
         7,
         8
@@ -7195,188 +6249,6 @@
     ],
     [
       "Mix Aqua",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pact with the Devil",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Palliburrie Bats",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Panorama Manticore",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pathfinder",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Roaming Monster",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Payload Trebuchet",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Royal Bodyguard",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pendulum of Peril",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Root Spider",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Roots of Yggdrasil",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Peregrine Apparition",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Rustic Village",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ruby Core",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Petrosian Cavalry",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ruins",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Ruler of Thul",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Phantasmal Shade",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sandstorm",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Phantom Steed",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sacred Scarabs",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Phase Assassin",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Sand Worm",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Philosopher's Stone",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Pillar of Zeiros",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Scavenging Fiend",
-      [
-        7,
-        8
-      ]
-    ],
-    [
-      "Scarecrow",
       [
         7,
         8
@@ -7460,31 +6332,1227 @@
       ]
     ],
     [
+      "Nightmare",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Nimbus Jinn",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Oasis",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Observatory",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Occult Ritual",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ogre Goons",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Old Salt Anchorman",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Onyx Core",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Orb of Ba'al Berith",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ormund Harpooneers",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Outback Strider",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Overpower",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pact with the Devil",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Palliburrie Bats",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Panorama Manticore",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pathfinder",
+      [
+        7,
+        8,
+        9
+      ]
+    ],
+    [
+      "Payload Trebuchet",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pendulum of Peril",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Peregrine Apparition",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Petrosian Cavalry",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Phantasmal Shade",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Phantom Steed",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Phase Assassin",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Philosopher's Stone",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pillar of Zeiros",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pirate Ship",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pit Vipers",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Plague of Frogs",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Planar Gate",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pnakotic Manuscript",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Poison Nova",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Poisonous Dagger",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Polar Explorers",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pollimorph",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Porcupine Pufferfish",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Primordial Spring",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Pristine Paradise",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Psionic Blast",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Puppet Master",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Purge Juggernaut",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Quagmire",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Quarrelsome Kobolds",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Queen of Midland",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Raal Dromedary",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Rain of Arrows",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Raise Dead",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Recall",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Recurring Specter",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Red Desert",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Remote Desert",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Replication",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Rest in Peace",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Riddle Sphinx",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Rift Valley",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Rimland Nomads",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Riptide",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "River of Flame",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Roaming Monster",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Root Spider",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Roots of Yggdrasil",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Royal Bodyguard",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ruby Core",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ruins",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ruler of Thul",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Rustic Village",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sacred Scarabs",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sand Worm",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sandstorm",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Scarecrow",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Scavenging Fiend",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Scent Hounds",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Scorched Earth",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Scourge Zombies",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Screaming Skull",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sea Raider",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sea Serpent",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Seasoned Sellsword",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Secret Tunnel",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sedge Crabs",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Seer",
+      [
+        7,
+        8,
+        9
+      ]
+    ],
+    [
+      "Seirawan Hydra",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Selfsame Simulacrum",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Seven-League Boots",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Shield Maidens",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Shield Wall",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Shifting Sands",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Shrink",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Siege Ballista",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Silence",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Silver Valkyries",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Simple Village",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sirian Templar",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sirocco Scorpions",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sisters of Silence",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Skirmishers of Mu",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sky Baron",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sleep",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sling Pixies",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Smokestacks of Gnaak",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sneak Thief",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Snow Leopard",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sparkmage",
+      [
+        7,
+        9
+      ]
+    ],
+    [
+      "Spear of Destiny",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Spectral Stalker",
+      [
+        7,
+        8
+      ]
+    ],
+    [
       "Spellslinger",
       [
-        7
+        7,
+        9
+      ]
+    ],
+    [
+      "Spin Attack",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Spire Lich",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Spring River",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Squirming Mass",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Standing Stones",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Star-seeds of Uhr",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Stone-gaze Gorgons",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Stormy Seas",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Summer River",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Summoning Sphere",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Sunken Treasure",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Swamp Buffalo",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Swan Maidens",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Swiven Scout",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Tadpole Pool",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Telekinesis",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Teleport",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "The Geistwood",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "The Immortal Throne",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Thunderstorm",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Tide Naiads",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Torshammar Trinket",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Tragedy Worrywart",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Tringh Constrictor",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Truesight Crossbow",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Tvinnax Berserker",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Twist of Fate",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Ultimate Horror",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Undertaker Engine",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Undertow",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Unland Angler",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Unland Eel",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Unlikely Alliance",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Unravel",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Updraft Ridge",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Upwelling",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vanguard Knights",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vantage Hills",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vaults of Zul",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vesuvius",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vile Imp",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Vril Revenant",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wall of Air",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wall of Fire",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wall of Ice",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Warp Spasm",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Watchtower",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Waveshaper",
+      [
+        7,
+        9
+      ]
+    ],
+    [
+      "Wayfaring Pilgrim",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Whirling Blades",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wicked Witch",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wicker Manikin",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wild Boars",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wildfire",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wills-o'-the-Wisp",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wind Sylph",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Windblast",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Windmill",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wings of Invention",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Witherwing Hero",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wraetannis Titan",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Wrath of the Sea",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Yokai Kappas",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Yourke Crossbowmen",
+      [
+        7,
+        8
+      ]
+    ],
+    [
+      "Zephyranne Airship",
+      [
+        7,
+        8
       ]
     ],
     [
       "Avatar of Air",
       [
-        8
+        8,
+        9
       ]
     ],
     [
       "Avatar of Earth",
       [
-        8
+        8,
+        9
       ]
     ],
     [
       "Avatar of Fire",
       [
-        8
+        8,
+        9
       ]
     ],
     [
       "Avatar of Water",
+      [
+        8,
+        9
+      ]
+    ],
+    [
+      "Death's Door",
       [
         8
       ]
@@ -7496,19 +7564,7 @@
       ]
     ],
     [
-      "Frog",
-      [
-        8
-      ]
-    ],
-    [
       "Relentless Crowd",
-      [
-        8
-      ]
-    ],
-    [
-      "Death's Door",
       [
         8
       ]

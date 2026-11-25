@@ -2,86 +2,6 @@
   "groupId": 24471,
   "cards": [
     {
-      "id": 664064,
-      "name": "Accusation",
-      "rarity": "Exceptional",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664064_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/664064/sorcery-contested-realm-gothic-accusation",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.18,
-          "low": 0.07,
-          "mid": 0.25
-        }
-      ]
-    },
-    {
-      "id": 664065,
-      "name": "Angry Mob",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664065_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/664065/sorcery-contested-realm-gothic-angry-mob",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.21,
-          "low": 0.03,
-          "mid": 0.25
-        }
-      ]
-    },
-    {
-      "id": 664066,
-      "name": "Bind Evil",
-      "rarity": "Exceptional",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664066_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/664066/sorcery-contested-realm-gothic-bind-evil",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.11,
-          "low": 0.03,
-          "mid": 0.24
-        }
-      ]
-    },
-    {
-      "id": 664071,
-      "name": "Persecutor",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664071_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/664071/sorcery-contested-realm-gothic-persecutor",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.19,
-          "low": 0.01,
-          "mid": 0.25
-        }
-      ]
-    },
-    {
-      "id": 664074,
-      "name": "Shackled Demon",
-      "rarity": "Elite",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664074_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/664074/sorcery-contested-realm-gothic-shackled-demon",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.27,
-          "low": 0.15,
-          "mid": 0.35
-        }
-      ]
-    },
-    {
       "id": 666915,
       "name": "Aaj-kegon Ghost Crabs",
       "rarity": "Elite",
@@ -243,6 +163,22 @@
           "usd": 2.58,
           "low": 2.4,
           "mid": 2.99
+        }
+      ]
+    },
+    {
+      "id": 664064,
+      "name": "Accusation",
+      "rarity": "Exceptional",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664064_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664064/sorcery-contested-realm-gothic-accusation",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18,
+          "low": 0.07,
+          "mid": 0.25
         }
       ]
     },
@@ -590,6 +526,22 @@
           "usd": 8.91,
           "low": 7,
           "mid": 9.53
+        }
+      ]
+    },
+    {
+      "id": 664065,
+      "name": "Angry Mob",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664065_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664065/sorcery-contested-realm-gothic-angry-mob",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21,
+          "low": 0.03,
+          "mid": 0.25
         }
       ]
     },
@@ -1370,6 +1322,22 @@
       ]
     },
     {
+      "id": 664066,
+      "name": "Bind Evil",
+      "rarity": "Exceptional",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664066_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664066/sorcery-contested-realm-gothic-bind-evil",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11,
+          "low": 0.03,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
       "id": 666993,
       "name": "Bind Evil",
       "label": "Foil",
@@ -1552,39 +1520,6 @@
       ]
     },
     {
-      "id": 667004,
-      "name": "Bladedancer",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667004_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667004/sorcery-contested-realm-gothic-bladedancer",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.36,
-          "low": 0.28,
-          "mid": 0.49
-        }
-      ]
-    },
-    {
-      "id": 667005,
-      "name": "Bladedancer",
-      "label": "Foil",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667005_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667005/sorcery-contested-realm-gothic-bladedancer-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 79.14,
-          "low": 68.29,
-          "mid": 74.65
-        }
-      ]
-    },
-    {
       "id": 667006,
       "name": "Blade of Thorns",
       "rarity": "Elite",
@@ -1614,6 +1549,39 @@
           "usd": 9.68,
           "low": 9.21,
           "mid": 11.71
+        }
+      ]
+    },
+    {
+      "id": 667004,
+      "name": "Bladedancer",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667004_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667004/sorcery-contested-realm-gothic-bladedancer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.28,
+          "mid": 0.49
+        }
+      ]
+    },
+    {
+      "id": 667005,
+      "name": "Bladedancer",
+      "label": "Foil",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667005/sorcery-contested-realm-gothic-bladedancer-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 79.14,
+          "low": 68.29,
+          "mid": 74.65
         }
       ]
     },
@@ -2601,6 +2569,16 @@
       ]
     },
     {
+      "id": 696706,
+      "name": "City of Glass",
+      "label": "Foil · Star City Game Promo",
+      "rarity": "Unique",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696706/sorcery-contested-realm-gothic-city-of-glass-foil-star-city-game-promo",
+      "prices": []
+    },
+    {
       "id": 667068,
       "name": "City of Plenty",
       "rarity": "Unique",
@@ -3327,6 +3305,56 @@
       ]
     },
     {
+      "id": 705428,
+      "name": "Day of Judgment",
+      "label": "Judge Promo",
+      "rarity": "Promo",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705428/sorcery-contested-realm-gothic-day-of-judgment-judge-promo",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 450,
+          "low": 448.69,
+          "mid": 450
+        }
+      ]
+    },
+    {
+      "id": 667138,
+      "name": "De Vermis Mysteriis",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667138_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667138/sorcery-contested-realm-gothic-de-vermis-mysteriis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.16,
+          "low": 3.5,
+          "mid": 5.5
+        }
+      ]
+    },
+    {
+      "id": 667139,
+      "name": "De Vermis Mysteriis",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667139_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667139/sorcery-contested-realm-gothic-de-vermis-mysteriis-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 50.34,
+          "low": 52,
+          "mid": 69
+        }
+      ]
+    },
+    {
       "id": 667112,
       "name": "Death Knight",
       "rarity": "Exceptional",
@@ -3752,39 +3780,6 @@
           "usd": 4.66,
           "low": 3.5,
           "mid": 5
-        }
-      ]
-    },
-    {
-      "id": 667138,
-      "name": "De Vermis Mysteriis",
-      "rarity": "Unique",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667138_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667138/sorcery-contested-realm-gothic-de-vermis-mysteriis",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 5.16,
-          "low": 3.5,
-          "mid": 5.5
-        }
-      ]
-    },
-    {
-      "id": 667139,
-      "name": "De Vermis Mysteriis",
-      "label": "Foil",
-      "rarity": "Unique",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667139_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667139/sorcery-contested-realm-gothic-de-vermis-mysteriis-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 50.34,
-          "low": 52,
-          "mid": 69
         }
       ]
     },
@@ -5175,6 +5170,40 @@
       ]
     },
     {
+      "id": 722967,
+      "name": "Flaming Skull",
+      "label": "Promo",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722967_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722967/sorcery-contested-realm-gothic-flaming-skull-promo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 12.16,
+          "low": 5,
+          "mid": 11.05
+        }
+      ]
+    },
+    {
+      "id": 722969,
+      "name": "Flaming Skull",
+      "label": "Foil Promo",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722969_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722969/sorcery-contested-realm-gothic-flaming-skull-foil-promo",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 150,
+          "low": 148,
+          "mid": 150
+        }
+      ]
+    },
+    {
       "id": 667224,
       "name": "Flayer",
       "rarity": "Ordinary",
@@ -5439,6 +5468,21 @@
       ]
     },
     {
+      "id": 7427665689,
+      "name": "Frog",
+      "label": "Box Topper",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-frog-bt-s",
+      "source": "sorcery-api"
+    },
+    {
       "id": 667240,
       "name": "Frozen Horror",
       "rarity": "Exceptional",
@@ -5538,39 +5582,6 @@
       ]
     },
     {
-      "id": 667246,
-      "name": "Ghostfire",
-      "rarity": "Ordinary",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667246_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667246/sorcery-contested-realm-gothic-ghostfire",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.09,
-          "low": 0.03,
-          "mid": 0.2
-        }
-      ]
-    },
-    {
-      "id": 667247,
-      "name": "Ghostfire",
-      "label": "Foil",
-      "rarity": "Ordinary",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667247_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667247/sorcery-contested-realm-gothic-ghostfire-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 2,
-          "low": 1.96,
-          "mid": 2.55
-        }
-      ]
-    },
-    {
       "id": 667248,
       "name": "Ghost Town",
       "rarity": "Exceptional",
@@ -5600,6 +5611,39 @@
           "usd": 1.08,
           "low": 0.95,
           "mid": 1.2
+        }
+      ]
+    },
+    {
+      "id": 667246,
+      "name": "Ghostfire",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667246/sorcery-contested-realm-gothic-ghostfire",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 667247,
+      "name": "Ghostfire",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667247/sorcery-contested-realm-gothic-ghostfire-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2,
+          "low": 1.96,
+          "mid": 2.55
         }
       ]
     },
@@ -6328,6 +6372,20 @@
           "mid": 6.8
         }
       ]
+    },
+    {
+      "id": 7612746561,
+      "name": "Harbinger",
+      "label": "Preconstructed Deck",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-harbinger-pd-s",
+      "source": "sorcery-api"
     },
     {
       "id": 667294,
@@ -7518,39 +7576,6 @@
       ]
     },
     {
-      "id": 667366,
-      "name": "Ironclad",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667366_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667366/sorcery-contested-realm-gothic-ironclad",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.42,
-          "low": 0.38,
-          "mid": 0.89
-        }
-      ]
-    },
-    {
-      "id": 667367,
-      "name": "Ironclad",
-      "label": "Foil",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667367_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667367/sorcery-contested-realm-gothic-ironclad-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 80.78,
-          "low": 70.99,
-          "mid": 80.07
-        }
-      ]
-    },
-    {
       "id": 667368,
       "name": "Iron Maiden",
       "rarity": "Elite",
@@ -7580,6 +7605,39 @@
           "usd": 9.71,
           "low": 6.88,
           "mid": 10.45
+        }
+      ]
+    },
+    {
+      "id": 667366,
+      "name": "Ironclad",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667366/sorcery-contested-realm-gothic-ironclad",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42,
+          "low": 0.38,
+          "mid": 0.89
+        }
+      ]
+    },
+    {
+      "id": 667367,
+      "name": "Ironclad",
+      "label": "Foil",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667367/sorcery-contested-realm-gothic-ironclad-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 80.78,
+          "low": 70.99,
+          "mid": 80.07
         }
       ]
     },
@@ -7683,39 +7741,6 @@
       ]
     },
     {
-      "id": 667376,
-      "name": "Kissers of Wounds",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667376_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667376/sorcery-contested-realm-gothic-kissers-of-wounds",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.09,
-          "low": 0.03,
-          "mid": 0.24
-        }
-      ]
-    },
-    {
-      "id": 667377,
-      "name": "Kissers of Wounds",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667377_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667377/sorcery-contested-realm-gothic-kissers-of-wounds-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1.02,
-          "low": 0.91,
-          "mid": 1.08
-        }
-      ]
-    },
-    {
       "id": 667378,
       "name": "Kiss of Death",
       "rarity": "Exceptional",
@@ -7778,6 +7803,39 @@
           "usd": 148,
           "low": 142.5,
           "mid": 153.24
+        }
+      ]
+    },
+    {
+      "id": 667376,
+      "name": "Kissers of Wounds",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667376/sorcery-contested-realm-gothic-kissers-of-wounds",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09,
+          "low": 0.03,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 667377,
+      "name": "Kissers of Wounds",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667377/sorcery-contested-realm-gothic-kissers-of-wounds-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.02,
+          "low": 0.91,
+          "mid": 1.08
         }
       ]
     },
@@ -8996,39 +9054,6 @@
       ]
     },
     {
-      "id": 667456,
-      "name": "Mountain Peaks",
-      "rarity": "Exceptional",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667456_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667456/sorcery-contested-realm-gothic-mountain-peaks",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 1.51,
-          "low": 1.19,
-          "mid": 1.86
-        }
-      ]
-    },
-    {
-      "id": 667457,
-      "name": "Mountain Peaks",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667457_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667457/sorcery-contested-realm-gothic-mountain-peaks-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 12.84,
-          "low": 9,
-          "mid": 13
-        }
-      ]
-    },
-    {
       "id": 667458,
       "name": "Mount Ussar Sanctuary",
       "rarity": "Unique",
@@ -9058,6 +9083,39 @@
           "usd": 189.25,
           "low": 154.99,
           "mid": 200.49
+        }
+      ]
+    },
+    {
+      "id": 667456,
+      "name": "Mountain Peaks",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667456_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667456/sorcery-contested-realm-gothic-mountain-peaks",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.51,
+          "low": 1.19,
+          "mid": 1.86
+        }
+      ]
+    },
+    {
+      "id": 667457,
+      "name": "Mountain Peaks",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667457_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667457/sorcery-contested-realm-gothic-mountain-peaks-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.84,
+          "low": 9,
+          "mid": 13
         }
       ]
     },
@@ -9293,6 +9351,20 @@
       ]
     },
     {
+      "id": 7528597269,
+      "name": "Necromancer",
+      "label": "Preconstructed Deck",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-necromancer-pd-s",
+      "source": "sorcery-api"
+    },
+    {
       "id": 667474,
       "name": "Necronomiconcert",
       "rarity": "Elite",
@@ -9392,39 +9464,6 @@
       ]
     },
     {
-      "id": 667480,
-      "name": "Noisome Twosome",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667480_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667480/sorcery-contested-realm-gothic-noisome-twosome",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.1,
-          "low": 0.03,
-          "mid": 0.2
-        }
-      ]
-    },
-    {
-      "id": 667481,
-      "name": "Noisome Twosome",
-      "label": "Foil",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667481_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667481/sorcery-contested-realm-gothic-noisome-twosome-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 3.92,
-          "low": 2,
-          "mid": 4.23
-        }
-      ]
-    },
-    {
       "id": 667482,
       "name": "No Man's Land",
       "rarity": "Elite",
@@ -9454,6 +9493,39 @@
           "usd": 10.75,
           "low": 9.62,
           "mid": 10.99
+        }
+      ]
+    },
+    {
+      "id": 667480,
+      "name": "Noisome Twosome",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667480/sorcery-contested-realm-gothic-noisome-twosome",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 667481,
+      "name": "Noisome Twosome",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667481/sorcery-contested-realm-gothic-noisome-twosome-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.92,
+          "low": 2,
+          "mid": 4.23
         }
       ]
     },
@@ -10052,39 +10124,6 @@
       ]
     },
     {
-      "id": 667520,
-      "name": "Peacemaker Arbalest",
-      "rarity": "Elite",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667520_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667520/sorcery-contested-realm-gothic-peacemaker-arbalest",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.38,
-          "low": 0.26,
-          "mid": 0.45
-        }
-      ]
-    },
-    {
-      "id": 667521,
-      "name": "Peacemaker Arbalest",
-      "label": "Foil",
-      "rarity": "Elite",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667521_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667521/sorcery-contested-realm-gothic-peacemaker-arbalest-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 17.62,
-          "low": 15.77,
-          "mid": 19.73
-        }
-      ]
-    },
-    {
       "id": 667522,
       "name": "Peace Offering",
       "rarity": "Unique",
@@ -10114,6 +10153,39 @@
           "usd": 83.27,
           "low": 79,
           "mid": 82.1
+        }
+      ]
+    },
+    {
+      "id": 667520,
+      "name": "Peacemaker Arbalest",
+      "rarity": "Elite",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667520/sorcery-contested-realm-gothic-peacemaker-arbalest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38,
+          "low": 0.26,
+          "mid": 0.45
+        }
+      ]
+    },
+    {
+      "id": 667521,
+      "name": "Peacemaker Arbalest",
+      "label": "Foil",
+      "rarity": "Elite",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667521/sorcery-contested-realm-gothic-peacemaker-arbalest-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.62,
+          "low": 15.77,
+          "mid": 19.73
         }
       ]
     },
@@ -10184,6 +10256,22 @@
       ]
     },
     {
+      "id": 664071,
+      "name": "Persecutor",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664071_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664071/sorcery-contested-realm-gothic-persecutor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19,
+          "low": 0.01,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
       "id": 667528,
       "name": "Persecutor",
       "label": "Foil",
@@ -10199,6 +10287,20 @@
           "mid": 6.48
         }
       ]
+    },
+    {
+      "id": 7982849162,
+      "name": "Persecutor",
+      "label": "Preconstructed Deck",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-persecutor-pd-s",
+      "source": "sorcery-api"
     },
     {
       "id": 667529,
@@ -10722,39 +10824,6 @@
       "prices": []
     },
     {
-      "id": 667561,
-      "name": "Redmane Hyena",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667561_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667561/sorcery-contested-realm-gothic-redmane-hyena",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.2,
-          "low": 0.1,
-          "mid": 0.25
-        }
-      ]
-    },
-    {
-      "id": 667562,
-      "name": "Redmane Hyena",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667562_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667562/sorcery-contested-realm-gothic-redmane-hyena-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 4.03,
-          "low": 2.5,
-          "mid": 4.15
-        }
-      ]
-    },
-    {
       "id": 667563,
       "name": "Red Rock of Ravannis",
       "rarity": "Unique",
@@ -10784,6 +10853,39 @@
           "usd": 79.59,
           "low": 83,
           "mid": 168.4
+        }
+      ]
+    },
+    {
+      "id": 667561,
+      "name": "Redmane Hyena",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667561/sorcery-contested-realm-gothic-redmane-hyena",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2,
+          "low": 0.1,
+          "mid": 0.25
+        }
+      ]
+    },
+    {
+      "id": 667562,
+      "name": "Redmane Hyena",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667562/sorcery-contested-realm-gothic-redmane-hyena-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.03,
+          "low": 2.5,
+          "mid": 4.15
         }
       ]
     },
@@ -10887,39 +10989,6 @@
       ]
     },
     {
-      "id": 667571,
-      "name": "Returned King",
-      "rarity": "Unique",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667571_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667571/sorcery-contested-realm-gothic-returned-king",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 56.29,
-          "low": 46,
-          "mid": 56.29
-        }
-      ]
-    },
-    {
-      "id": 667572,
-      "name": "Returned King",
-      "label": "Foil",
-      "rarity": "Unique",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667572_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667572/sorcery-contested-realm-gothic-returned-king-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 157.47,
-          "low": 124,
-          "mid": 135
-        }
-      ]
-    },
-    {
       "id": 667573,
       "name": "Return to Nature",
       "rarity": "Ordinary",
@@ -10949,6 +11018,39 @@
           "usd": 4.02,
           "low": 3.29,
           "mid": 3.99
+        }
+      ]
+    },
+    {
+      "id": 667571,
+      "name": "Returned King",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667571/sorcery-contested-realm-gothic-returned-king",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 56.29,
+          "low": 46,
+          "mid": 56.29
+        }
+      ]
+    },
+    {
+      "id": 667572,
+      "name": "Returned King",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667572/sorcery-contested-realm-gothic-returned-king-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 157.47,
+          "low": 124,
+          "mid": 135
         }
       ]
     },
@@ -11114,6 +11216,22 @@
           "usd": 0.74,
           "low": 0.5,
           "mid": 1
+        }
+      ]
+    },
+    {
+      "id": 667790,
+      "name": "Rubble",
+      "rarity": "None",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667790_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667790/sorcery-contested-realm-gothic-rubble",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45,
+          "low": 0.19,
+          "mid": 0.48
         }
       ]
     },
@@ -11316,6 +11434,20 @@
       ]
     },
     {
+      "id": 7229359374,
+      "name": "Savior",
+      "label": "Preconstructed Deck",
+      "type": "Avatar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-savior-pd-s",
+      "source": "sorcery-api"
+    },
+    {
       "id": 667597,
       "name": "Sawbones",
       "rarity": "Elite",
@@ -11448,6 +11580,39 @@
       ]
     },
     {
+      "id": 667609,
+      "name": "Sea Witch",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667609/sorcery-contested-realm-gothic-sea-witch",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 667610,
+      "name": "Sea Witch",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667610/sorcery-contested-realm-gothic-sea-witch-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.5,
+          "low": 1.44,
+          "mid": 1.54
+        }
+      ]
+    },
+    {
       "id": 667605,
       "name": "Search Party",
       "rarity": "Ordinary",
@@ -11510,39 +11675,6 @@
           "usd": 4.23,
           "low": 2.95,
           "mid": 4.63
-        }
-      ]
-    },
-    {
-      "id": 667609,
-      "name": "Sea Witch",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667609_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667609/sorcery-contested-realm-gothic-sea-witch",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.08,
-          "low": 0.03,
-          "mid": 0.2
-        }
-      ]
-    },
-    {
-      "id": 667610,
-      "name": "Sea Witch",
-      "label": "Foil",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667610_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667610/sorcery-contested-realm-gothic-sea-witch-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1.5,
-          "low": 1.44,
-          "mid": 1.54
         }
       ]
     },
@@ -11745,6 +11877,22 @@
       ]
     },
     {
+      "id": 664074,
+      "name": "Shackled Demon",
+      "rarity": "Elite",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664074_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664074/sorcery-contested-realm-gothic-shackled-demon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27,
+          "low": 0.15,
+          "mid": 0.35
+        }
+      ]
+    },
+    {
       "id": 667623,
       "name": "Shackled Demon",
       "label": "Foil",
@@ -11927,6 +12075,33 @@
       ]
     },
     {
+      "id": 705988,
+      "name": "Silver Bullet",
+      "label": "2026 Grand Contest · Foil",
+      "rarity": "Elite",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705988/sorcery-contested-realm-gothic-silver-bullet-2026-grand-contest-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1024.5,
+          "low": 999,
+          "mid": 1024.5
+        }
+      ]
+    },
+    {
+      "id": 705989,
+      "name": "Silver Bullet",
+      "label": "2026 Grand Contest",
+      "rarity": "Elite",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705989/sorcery-contested-realm-gothic-silver-bullet-2026-grand-contest",
+      "prices": []
+    },
+    {
       "id": 667634,
       "name": "Sinister Pond",
       "rarity": "Elite",
@@ -12057,6 +12232,37 @@
           "mid": 6.73
         }
       ]
+    },
+    {
+      "id": 721315,
+      "name": "Skeleton",
+      "label": "Team Covenant Promo",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721315/sorcery-contested-realm-gothic-skeleton-team-covenant-promo",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 32.5,
+          "low": 54.99,
+          "mid": 54.99
+        }
+      ]
+    },
+    {
+      "id": 7174672876,
+      "name": "Skeleton",
+      "label": "Box Topper",
+      "type": "Minion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "006-skeleton-bt-s",
+      "source": "sorcery-api"
     },
     {
       "id": 667642,
@@ -12356,6 +12562,23 @@
       ]
     },
     {
+      "id": 667793,
+      "name": "Spire",
+      "label": "Preconstructed Deck",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667793/sorcery-contested-realm-gothic-spire-preconstructed-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53,
+          "low": 0.36,
+          "mid": 0.55
+        }
+      ]
+    },
+    {
       "id": 667660,
       "name": "Spore Spouts",
       "rarity": "Ordinary",
@@ -12554,6 +12777,23 @@
       ]
     },
     {
+      "id": 667792,
+      "name": "Stream",
+      "label": "Preconstructed Deck",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667792/sorcery-contested-realm-gothic-stream-preconstructed-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.35,
+          "mid": 0.38
+        }
+      ]
+    },
+    {
       "id": 667672,
       "name": "Sturmgeist",
       "rarity": "Elite",
@@ -12682,6 +12922,23 @@
           "usd": 9.83,
           "low": 8.14,
           "mid": 10.27
+        }
+      ]
+    },
+    {
+      "id": 678193,
+      "name": "Swap",
+      "label": "SCGCon Promo",
+      "rarity": "Exceptional",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678193/sorcery-contested-realm-gothic-swap-scgcon-promo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 74.99,
+          "low": 73.49,
+          "mid": 74.99
         }
       ]
     },
@@ -13214,39 +13471,6 @@
       ]
     },
     {
-      "id": 667712,
-      "name": "Thing in the Ice",
-      "rarity": "Unique",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667712_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667712/sorcery-contested-realm-gothic-thing-in-the-ice",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 4.81,
-          "low": 3.26,
-          "mid": 5
-        }
-      ]
-    },
-    {
-      "id": 667713,
-      "name": "Thing in the Ice",
-      "label": "Foil",
-      "rarity": "Unique",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667713_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667713/sorcery-contested-realm-gothic-thing-in-the-ice-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 67.16,
-          "low": 60,
-          "mid": 69.75
-        }
-      ]
-    },
-    {
       "id": 667714,
       "name": "Thin Ice",
       "rarity": "Exceptional",
@@ -13276,6 +13500,39 @@
           "usd": 9.23,
           "low": 7.65,
           "mid": 9.45
+        }
+      ]
+    },
+    {
+      "id": 667712,
+      "name": "Thing in the Ice",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667712/sorcery-contested-realm-gothic-thing-in-the-ice",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.81,
+          "low": 3.26,
+          "mid": 5
+        }
+      ]
+    },
+    {
+      "id": 667713,
+      "name": "Thing in the Ice",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667713/sorcery-contested-realm-gothic-thing-in-the-ice-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 67.16,
+          "low": 60,
+          "mid": 69.75
         }
       ]
     },
@@ -13742,6 +13999,23 @@
       ]
     },
     {
+      "id": 667791,
+      "name": "Valley",
+      "label": "Preconstructed Deck",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667791_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667791/sorcery-contested-realm-gothic-valley-preconstructed-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.56,
+          "low": 0.5,
+          "mid": 0.59
+        }
+      ]
+    },
+    {
       "id": 667744,
       "name": "Vampire Bats",
       "rarity": "Ordinary",
@@ -13969,6 +14243,23 @@
           "usd": 2.79,
           "low": 1.95,
           "mid": 2.81
+        }
+      ]
+    },
+    {
+      "id": 667794,
+      "name": "Wasteland",
+      "label": "Preconstructed Deck",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667794_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/667794/sorcery-contested-realm-gothic-wasteland-preconstructed-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46,
+          "low": 0.43,
+          "mid": 0.52
         }
       ]
     },
@@ -14497,212 +14788,6 @@
           "usd": 2.94,
           "low": 2.87,
           "mid": 3.08
-        }
-      ]
-    },
-    {
-      "id": 667790,
-      "name": "Rubble",
-      "rarity": "None",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667790_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667790/sorcery-contested-realm-gothic-rubble",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.45,
-          "low": 0.19,
-          "mid": 0.48
-        }
-      ]
-    },
-    {
-      "id": 667791,
-      "name": "Valley",
-      "label": "Preconstructed Deck",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667791_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667791/sorcery-contested-realm-gothic-valley-preconstructed-deck",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.56,
-          "low": 0.5,
-          "mid": 0.59
-        }
-      ]
-    },
-    {
-      "id": 667792,
-      "name": "Stream",
-      "label": "Preconstructed Deck",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667792_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667792/sorcery-contested-realm-gothic-stream-preconstructed-deck",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.36,
-          "low": 0.35,
-          "mid": 0.38
-        }
-      ]
-    },
-    {
-      "id": 667793,
-      "name": "Spire",
-      "label": "Preconstructed Deck",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667793_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667793/sorcery-contested-realm-gothic-spire-preconstructed-deck",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.53,
-          "low": 0.36,
-          "mid": 0.55
-        }
-      ]
-    },
-    {
-      "id": 667794,
-      "name": "Wasteland",
-      "label": "Preconstructed Deck",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/667794_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/667794/sorcery-contested-realm-gothic-wasteland-preconstructed-deck",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.46,
-          "low": 0.43,
-          "mid": 0.52
-        }
-      ]
-    },
-    {
-      "id": 678193,
-      "name": "Swap",
-      "label": "SCGCon Promo",
-      "rarity": "Exceptional",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678193_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678193/sorcery-contested-realm-gothic-swap-scgcon-promo",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 74.99,
-          "low": 73.49,
-          "mid": 74.99
-        }
-      ]
-    },
-    {
-      "id": 696706,
-      "name": "City of Glass",
-      "label": "Foil · Star City Game Promo",
-      "rarity": "Unique",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696706_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/696706/sorcery-contested-realm-gothic-city-of-glass-foil-star-city-game-promo",
-      "prices": []
-    },
-    {
-      "id": 705428,
-      "name": "Day of Judgment",
-      "label": "Judge Promo",
-      "rarity": "Promo",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705428_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/705428/sorcery-contested-realm-gothic-day-of-judgment-judge-promo",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 450,
-          "low": 448.69,
-          "mid": 450
-        }
-      ]
-    },
-    {
-      "id": 705988,
-      "name": "Silver Bullet",
-      "label": "2026 Grand Contest · Foil",
-      "rarity": "Elite",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705988_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/705988/sorcery-contested-realm-gothic-silver-bullet-2026-grand-contest-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1024.5,
-          "low": 999,
-          "mid": 1024.5
-        }
-      ]
-    },
-    {
-      "id": 705989,
-      "name": "Silver Bullet",
-      "label": "2026 Grand Contest",
-      "rarity": "Elite",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705989_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/705989/sorcery-contested-realm-gothic-silver-bullet-2026-grand-contest",
-      "prices": []
-    },
-    {
-      "id": 721315,
-      "name": "Skeleton",
-      "label": "Team Covenant Promo",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721315_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/721315/sorcery-contested-realm-gothic-skeleton-team-covenant-promo",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 32.5,
-          "low": 54.99,
-          "mid": 54.99
-        }
-      ]
-    },
-    {
-      "id": 722967,
-      "name": "Flaming Skull",
-      "label": "Promo",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722967_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/722967/sorcery-contested-realm-gothic-flaming-skull-promo",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 12.16,
-          "low": 5,
-          "mid": 11.05
-        }
-      ]
-    },
-    {
-      "id": 722969,
-      "name": "Flaming Skull",
-      "label": "Foil Promo",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722969_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/722969/sorcery-contested-realm-gothic-flaming-skull-foil-promo",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 150,
-          "low": 148,
-          "mid": 150
         }
       ]
     }

@@ -134,6 +134,39 @@
       ]
     },
     {
+      "id": 585139,
+      "name": "Arc Lightning",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585139_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585139/sorcery-contested-realm-arthurian-legends-arc-lightning",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14,
+          "low": 0.03,
+          "mid": 0.2
+        }
+      ]
+    },
+    {
+      "id": 585140,
+      "name": "Arc Lightning",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585140_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585140/sorcery-contested-realm-arthurian-legends-arc-lightning-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.22,
+          "low": 0.9,
+          "mid": 1.22
+        }
+      ]
+    },
+    {
       "id": 585135,
       "name": "Arcane Barrage",
       "rarity": "Elite",
@@ -196,39 +229,6 @@
           "usd": 45.66,
           "low": 59.99,
           "mid": 72
-        }
-      ]
-    },
-    {
-      "id": 585139,
-      "name": "Arc Lightning",
-      "rarity": "Ordinary",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585139_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585139/sorcery-contested-realm-arthurian-legends-arc-lightning",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.14,
-          "low": 0.03,
-          "mid": 0.2
-        }
-      ]
-    },
-    {
-      "id": 585140,
-      "name": "Arc Lightning",
-      "label": "Foil",
-      "rarity": "Ordinary",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585140_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585140/sorcery-contested-realm-arthurian-legends-arc-lightning-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1.22,
-          "low": 0.9,
-          "mid": 1.22
         }
       ]
     },
@@ -530,39 +530,6 @@
       ]
     },
     {
-      "id": 585159,
-      "name": "Bluecap Knockers",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585159_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585159/sorcery-contested-realm-arthurian-legends-bluecap-knockers",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.15,
-          "low": 0.09,
-          "mid": 0.21
-        }
-      ]
-    },
-    {
-      "id": 585160,
-      "name": "Bluecap Knockers",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585160_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585160/sorcery-contested-realm-arthurian-legends-bluecap-knockers-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 0.58,
-          "low": 0.24,
-          "mid": 1
-        }
-      ]
-    },
-    {
       "id": 585161,
       "name": "Blue Knight",
       "rarity": "Exceptional",
@@ -592,6 +559,39 @@
           "usd": 1.75,
           "low": 1.25,
           "mid": 1.8
+        }
+      ]
+    },
+    {
+      "id": 585159,
+      "name": "Bluecap Knockers",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585159/sorcery-contested-realm-arthurian-legends-bluecap-knockers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15,
+          "low": 0.09,
+          "mid": 0.21
+        }
+      ]
+    },
+    {
+      "id": 585160,
+      "name": "Bluecap Knockers",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585160/sorcery-contested-realm-arthurian-legends-bluecap-knockers-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58,
+          "low": 0.24,
+          "mid": 1
         }
       ]
     },
@@ -1075,39 +1075,6 @@
       ]
     },
     {
-      "id": 585192,
-      "name": "Castle's Ablaze!",
-      "rarity": "Elite",
-      "type": "Aura",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585192_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585192/sorcery-contested-realm-arthurian-legends-castles-ablaze",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.36,
-          "low": 0.2,
-          "mid": 0.5
-        }
-      ]
-    },
-    {
-      "id": 585193,
-      "name": "Castle's Ablaze!",
-      "label": "Foil",
-      "rarity": "Elite",
-      "type": "Aura",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585193_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585193/sorcery-contested-realm-arthurian-legends-castles-ablaze-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 6.23,
-          "low": 5,
-          "mid": 6.63
-        }
-      ]
-    },
-    {
       "id": 585194,
       "name": "Castle Servants",
       "rarity": "Ordinary",
@@ -1137,6 +1104,39 @@
           "usd": 0.72,
           "low": 0.7,
           "mid": 0.99
+        }
+      ]
+    },
+    {
+      "id": 585192,
+      "name": "Castle's Ablaze!",
+      "rarity": "Elite",
+      "type": "Aura",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585192/sorcery-contested-realm-arthurian-legends-castles-ablaze",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36,
+          "low": 0.2,
+          "mid": 0.5
+        }
+      ]
+    },
+    {
+      "id": 585193,
+      "name": "Castle's Ablaze!",
+      "label": "Foil",
+      "rarity": "Elite",
+      "type": "Aura",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585193/sorcery-contested-realm-arthurian-legends-castles-ablaze-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.23,
+          "low": 5,
+          "mid": 6.63
         }
       ]
     },
@@ -1911,39 +1911,6 @@
       ]
     },
     {
-      "id": 585243,
-      "name": "Fourberie Knot",
-      "rarity": "Exceptional",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585243_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585243/sorcery-contested-realm-arthurian-legends-fourberie-knot",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.16,
-          "low": 0.07,
-          "mid": 0.24
-        }
-      ]
-    },
-    {
-      "id": 585244,
-      "name": "Fourberie Knot",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Artifact",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585244_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/585244/sorcery-contested-realm-arthurian-legends-fourberie-knot-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1.1,
-          "low": 1,
-          "mid": 1.19
-        }
-      ]
-    },
-    {
       "id": 585245,
       "name": "Four Waters of Paradise",
       "rarity": "Unique",
@@ -1973,6 +1940,39 @@
           "usd": 184.39,
           "low": 124.17,
           "mid": 183.99
+        }
+      ]
+    },
+    {
+      "id": 585243,
+      "name": "Fourberie Knot",
+      "rarity": "Exceptional",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585243/sorcery-contested-realm-arthurian-legends-fourberie-knot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16,
+          "low": 0.07,
+          "mid": 0.24
+        }
+      ]
+    },
+    {
+      "id": 585244,
+      "name": "Fourberie Knot",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Artifact",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/585244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/585244/sorcery-contested-realm-arthurian-legends-fourberie-knot-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.1,
+          "low": 1,
+          "mid": 1.19
         }
       ]
     },
@@ -3097,6 +3097,20 @@
           "mid": 1.08
         }
       ]
+    },
+    {
+      "id": 7232684609,
+      "name": "Lance",
+      "label": "Box Topper",
+      "type": "Artifact",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "004-lance-bt-s",
+      "source": "sorcery-api"
     },
     {
       "id": 585316,
@@ -4515,6 +4529,16 @@
           "mid": 975
         }
       ]
+    },
+    {
+      "id": 735307,
+      "name": "Rubble",
+      "label": "Box Topper",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/735307/sorcery-contested-realm-arthurian-legends-rubble-box-topper",
+      "prices": []
     },
     {
       "id": 585402,
@@ -7371,16 +7395,6 @@
           "mid": 4.98
         }
       ]
-    },
-    {
-      "id": 735307,
-      "name": "Rubble",
-      "label": "Box Topper",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735307_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/735307/sorcery-contested-realm-arthurian-legends-rubble-box-topper",
-      "prices": []
     }
   ],
   "pricesAt": "2026-11-25"

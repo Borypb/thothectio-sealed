@@ -2,6 +2,55 @@
   "groupId": 23514,
   "cards": [
     {
+      "id": 678660,
+      "name": "Briar Patch",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678660/sorcery-contested-realm-dust-reward-promos-briar-patch-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20,
+          "low": 19.89,
+          "mid": 21.99
+        }
+      ]
+    },
+    {
+      "id": 7976949031,
+      "name": "Bruin",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-bruin-d-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 678661,
+      "name": "Camelot",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678661/sorcery-contested-realm-dust-reward-promos-camelot-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 113.79,
+          "low": 135,
+          "mid": 199.99
+        }
+      ]
+    },
+    {
       "id": 550741,
       "name": "Cloud City",
       "rarity": "Unique",
@@ -16,6 +65,70 @@
           "mid": 127.98
         }
       ]
+    },
+    {
+      "id": 708054,
+      "name": "Court of Equity",
+      "rarity": "Promo",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708054_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708054/sorcery-contested-realm-dust-reward-promos-court-of-equity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 42.61,
+          "low": 44,
+          "mid": 48.99
+        }
+      ]
+    },
+    {
+      "id": 708056,
+      "name": "Court of Equity",
+      "label": "Foil",
+      "rarity": "Promo",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708056_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708056/sorcery-contested-realm-dust-reward-promos-court-of-equity-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 176,
+          "low": 230,
+          "mid": 230
+        }
+      ]
+    },
+    {
+      "id": 678663,
+      "name": "Fields of Phyxis",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678663/sorcery-contested-realm-dust-reward-promos-fields-of-phyxis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 30.69,
+          "low": 24.65,
+          "mid": 29.16
+        }
+      ]
+    },
+    {
+      "id": 7939445602,
+      "name": "Fields of Phyxis",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-fields_of_phyxis-d-f",
+      "source": "sorcery-api"
     },
     {
       "id": 550743,
@@ -69,246 +182,49 @@
       ]
     },
     {
-      "id": 550748,
-      "name": "Pudge Butcher",
-      "rarity": "Exceptional",
+      "id": 7185215459,
+      "name": "Foot Soldier",
+      "label": "English",
+      "rarity": "Ordinary",
       "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550748_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/550748/sorcery-contested-realm-dust-reward-promos-pudge-butcher",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 24.08,
-          "low": 24,
-          "mid": 27
+          "usd": null
         }
-      ]
+      ],
+      "slug": "999-foot_soldier_english-d-s",
+      "source": "sorcery-api"
     },
     {
-      "id": 550750,
-      "name": "Rubble",
+      "id": 7976730372,
+      "name": "Foot Soldier",
+      "label": "Saracen",
       "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550750_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/550750/sorcery-contested-realm-dust-reward-promos-rubble",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 12.85,
-          "low": 23,
-          "mid": 24.48
-        }
-      ]
-    },
-    {
-      "id": 550751,
-      "name": "Sorcerer",
-      "rarity": "Ordinary",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550751_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/550751/sorcery-contested-realm-dust-reward-promos-sorcerer",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 45.08,
-          "low": 133.69,
-          "mid": 179.99
-        }
-      ]
-    },
-    {
-      "id": 550753,
-      "name": "The Colour Out of Space",
-      "rarity": "Unique",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550753_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/550753/sorcery-contested-realm-dust-reward-promos-the-colour-out-of-space",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 185.82,
-          "low": 180,
-          "mid": 198.96
-        }
-      ]
-    },
-    {
-      "id": 550754,
-      "name": "Waypoint Portal",
-      "rarity": "Exceptional",
-      "type": "Magic",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550754_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/550754/sorcery-contested-realm-dust-reward-promos-waypoint-portal",
+      "type": "Minion",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 40.56,
-          "low": 34.78,
-          "mid": 42.78
+          "usd": null
         }
-      ]
+      ],
+      "slug": "999-foot_soldier_saracen-d-s",
+      "source": "sorcery-api"
     },
     {
-      "id": 668754,
-      "name": "King Arthur",
-      "rarity": "Unique",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668754_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/668754/sorcery-contested-realm-dust-reward-promos-king-arthur",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 440.86,
-          "low": 654.99,
-          "mid": 655.69
-        }
-      ]
-    },
-    {
-      "id": 668755,
-      "name": "Wasteland",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668755_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/668755/sorcery-contested-realm-dust-reward-promos-wasteland",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 34.38,
-          "low": 33,
-          "mid": 35
-        }
-      ]
-    },
-    {
-      "id": 668756,
-      "name": "Valley",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668756_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/668756/sorcery-contested-realm-dust-reward-promos-valley",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 26.73,
-          "low": 26,
-          "mid": 28.5
-        }
-      ]
-    },
-    {
-      "id": 668757,
-      "name": "Spire",
-      "rarity": "Ordinary",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668757_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/668757/sorcery-contested-realm-dust-reward-promos-spire",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 30.9,
-          "low": 30,
-          "mid": 30.9
-        }
-      ]
-    },
-    {
-      "id": 674438,
-      "name": "Skeleton",
-      "label": "Alpha Investment Promo",
+      "id": 731786,
+      "name": "Grey Wolves",
+      "label": "Convention Promo",
       "rarity": "Ordinary",
       "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/674438_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/674438/sorcery-contested-realm-dust-reward-promos-skeleton-alpha-investment-promo",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 37.36,
-          "low": 40.21,
-          "mid": 42.25
-        }
-      ]
-    },
-    {
-      "id": 678660,
-      "name": "Briar Patch",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678660_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678660/sorcery-contested-realm-dust-reward-promos-briar-patch-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 20,
-          "low": 19.89,
-          "mid": 21.99
-        }
-      ]
-    },
-    {
-      "id": 678661,
-      "name": "Camelot",
-      "label": "Foil",
-      "rarity": "Unique",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678661_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678661/sorcery-contested-realm-dust-reward-promos-camelot-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 113.79,
-          "low": 135,
-          "mid": 199.99
-        }
-      ]
-    },
-    {
-      "id": 678662,
-      "name": "War Horse",
-      "label": "Foil",
-      "rarity": "Exceptional",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678662_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678662/sorcery-contested-realm-dust-reward-promos-war-horse-foil",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 149.35,
-          "low": 333.33,
-          "mid": 416.67
-        }
-      ]
-    },
-    {
-      "id": 678663,
-      "name": "Fields of Phyxis",
-      "rarity": "Exceptional",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678663_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678663/sorcery-contested-realm-dust-reward-promos-fields-of-phyxis",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731786_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/731786/sorcery-contested-realm-dust-reward-promos-grey-wolves-convention-promo",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 30.69,
-          "low": 24.65,
-          "mid": 29.16
-        }
-      ]
-    },
-    {
-      "id": 678664,
-      "name": "Haystack",
-      "rarity": "Exceptional",
-      "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678664_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678664/sorcery-contested-realm-dust-reward-promos-haystack",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 49.51,
-          "low": 20.32,
-          "mid": 47.03
+          "usd": 40,
+          "low": 40,
+          "mid": 40
         }
       ]
     },
@@ -329,83 +245,49 @@
       ]
     },
     {
-      "id": 678674,
-      "name": "Necromancer",
-      "rarity": "Ordinary",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678674_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678674/sorcery-contested-realm-dust-reward-promos-necromancer",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 332.68,
-          "low": 400,
-          "mid": 400
-        }
-      ]
-    },
-    {
-      "id": 678678,
-      "name": "Persecutor",
-      "rarity": "None",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678678_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/678678/sorcery-contested-realm-dust-reward-promos-persecutor",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 158.84,
-          "low": 199.93,
-          "mid": 199.94
-        }
-      ]
-    },
-    {
-      "id": 691189,
-      "name": "Savior",
-      "rarity": "Ordinary",
-      "type": "Avatar",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/691189_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/691189/sorcery-contested-realm-dust-reward-promos-savior",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 255.22,
-          "low": 251.96,
-          "mid": 262.99
-        }
-      ]
-    },
-    {
-      "id": 708054,
-      "name": "Court of Equity",
-      "rarity": "Promo",
+      "id": 678664,
+      "name": "Haystack",
+      "rarity": "Exceptional",
       "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708054_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/708054/sorcery-contested-realm-dust-reward-promos-court-of-equity",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678664/sorcery-contested-realm-dust-reward-promos-haystack",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 42.61,
-          "low": 44,
-          "mid": 48.99
+          "usd": 49.51,
+          "low": 20.32,
+          "mid": 47.03
         }
       ]
     },
     {
-      "id": 708056,
-      "name": "Court of Equity",
+      "id": 7425051203,
+      "name": "Haystack",
       "label": "Foil",
-      "rarity": "Promo",
+      "rarity": "Exceptional",
       "type": "Site",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708056_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/708056/sorcery-contested-realm-dust-reward-promos-court-of-equity-foil",
       "prices": [
         {
           "sub": "Foil",
-          "usd": 176,
-          "low": 230,
-          "mid": 230
+          "usd": null
+        }
+      ],
+      "slug": "999-haystack-d-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 668754,
+      "name": "King Arthur",
+      "rarity": "Unique",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668754_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668754/sorcery-contested-realm-dust-reward-promos-king-arthur",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 440.86,
+          "low": 654.99,
+          "mid": 655.69
         }
       ]
     },
@@ -476,6 +358,22 @@
       ]
     },
     {
+      "id": 678674,
+      "name": "Necromancer",
+      "rarity": "Ordinary",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678674/sorcery-contested-realm-dust-reward-promos-necromancer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 332.68,
+          "low": 400,
+          "mid": 400
+        }
+      ]
+    },
+    {
       "id": 708061,
       "name": "Overflowing Court",
       "rarity": "Promo",
@@ -509,19 +407,255 @@
       ]
     },
     {
-      "id": 731786,
-      "name": "Grey Wolves",
-      "label": "Convention Promo",
-      "rarity": "Ordinary",
-      "type": "Minion",
-      "image": "https://tcgplayer-cdn.tcgplayer.com/product/731786_200w.jpg",
-      "url": "https://www.tcgplayer.com/product/731786/sorcery-contested-realm-dust-reward-promos-grey-wolves-convention-promo",
+      "id": 678678,
+      "name": "Persecutor",
+      "rarity": "None",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678678/sorcery-contested-realm-dust-reward-promos-persecutor",
       "prices": [
         {
           "sub": "Normal",
-          "usd": 40,
-          "low": 40,
-          "mid": 40
+          "usd": 158.84,
+          "low": 199.93,
+          "mid": 199.94
+        }
+      ]
+    },
+    {
+      "id": 550748,
+      "name": "Pudge Butcher",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550748/sorcery-contested-realm-dust-reward-promos-pudge-butcher",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 24.08,
+          "low": 24,
+          "mid": 27
+        }
+      ]
+    },
+    {
+      "id": 7277841897,
+      "name": "River of Blood",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": null
+        }
+      ],
+      "slug": "999-river_of_blood-d-s",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7473951577,
+      "name": "River of Blood",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-river_of_blood-d-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 550750,
+      "name": "Rubble",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550750/sorcery-contested-realm-dust-reward-promos-rubble",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.85,
+          "low": 23,
+          "mid": 24.48
+        }
+      ]
+    },
+    {
+      "id": 691189,
+      "name": "Savior",
+      "rarity": "Ordinary",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/691189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/691189/sorcery-contested-realm-dust-reward-promos-savior",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 255.22,
+          "low": 251.96,
+          "mid": 262.99
+        }
+      ]
+    },
+    {
+      "id": 674438,
+      "name": "Skeleton",
+      "label": "Alpha Investment Promo",
+      "rarity": "Ordinary",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/674438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/674438/sorcery-contested-realm-dust-reward-promos-skeleton-alpha-investment-promo",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 37.36,
+          "low": 40.21,
+          "mid": 42.25
+        }
+      ]
+    },
+    {
+      "id": 550751,
+      "name": "Sorcerer",
+      "rarity": "Ordinary",
+      "type": "Avatar",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550751/sorcery-contested-realm-dust-reward-promos-sorcerer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 45.08,
+          "low": 133.69,
+          "mid": 179.99
+        }
+      ]
+    },
+    {
+      "id": 668757,
+      "name": "Spire",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668757_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668757/sorcery-contested-realm-dust-reward-promos-spire",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 30.9,
+          "low": 30,
+          "mid": 30.9
+        }
+      ]
+    },
+    {
+      "id": 7374819366,
+      "name": "Stream",
+      "label": "Foil",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-stream-d-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 7501429163,
+      "name": "Tawny",
+      "label": "Foil",
+      "rarity": "Unique",
+      "type": "Minion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": null
+        }
+      ],
+      "slug": "999-tawny-d-f",
+      "source": "sorcery-api"
+    },
+    {
+      "id": 550753,
+      "name": "The Colour Out of Space",
+      "rarity": "Unique",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550753_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550753/sorcery-contested-realm-dust-reward-promos-the-colour-out-of-space",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 185.82,
+          "low": 180,
+          "mid": 198.96
+        }
+      ]
+    },
+    {
+      "id": 668756,
+      "name": "Valley",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668756/sorcery-contested-realm-dust-reward-promos-valley",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 26.73,
+          "low": 26,
+          "mid": 28.5
+        }
+      ]
+    },
+    {
+      "id": 678662,
+      "name": "War Horse",
+      "label": "Foil",
+      "rarity": "Exceptional",
+      "type": "Minion",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678662/sorcery-contested-realm-dust-reward-promos-war-horse-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 149.35,
+          "low": 333.33,
+          "mid": 416.67
+        }
+      ]
+    },
+    {
+      "id": 668755,
+      "name": "Wasteland",
+      "rarity": "Ordinary",
+      "type": "Site",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668755_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668755/sorcery-contested-realm-dust-reward-promos-wasteland",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 34.38,
+          "low": 33,
+          "mid": 35
+        }
+      ]
+    },
+    {
+      "id": 550754,
+      "name": "Waypoint Portal",
+      "rarity": "Exceptional",
+      "type": "Magic",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550754_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550754/sorcery-contested-realm-dust-reward-promos-waypoint-portal",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 40.56,
+          "low": 34.78,
+          "mid": 42.78
         }
       ]
     }

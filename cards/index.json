@@ -4498,9 +4498,9 @@
           "code": "GT",
           "releasedAt": "2025-10-31",
           "modifiedOn": "2026-10-08T14:37:39.02",
-          "count": 893,
+          "count": 899,
           "file": "cards/sorcery/24471.json",
-          "version": "77fe7d7a1c3d"
+          "version": "91430cb15ba1"
         },
         {
           "groupId": 24378,
@@ -4510,7 +4510,7 @@
           "modifiedOn": "2026-07-30T14:42:42.08",
           "count": 26,
           "file": "cards/sorcery/24378.json",
-          "version": "c514f22c62f7"
+          "version": "6eca0ce05801"
         },
         {
           "groupId": 23588,
@@ -4518,9 +4518,9 @@
           "code": "ART",
           "releasedAt": "2024-10-04",
           "modifiedOn": "2026-11-21T17:35:25.393",
-          "count": 448,
+          "count": 449,
           "file": "cards/sorcery/23588.json",
-          "version": "778ae0614905"
+          "version": "2311dadf57e6"
         },
         {
           "groupId": 23778,
@@ -4538,9 +4538,9 @@
           "code": "DRP",
           "releasedAt": "2024-05-10",
           "modifiedOn": "2026-11-21T17:30:35.873",
-          "count": 32,
+          "count": 41,
           "file": "cards/sorcery/23514.json",
-          "version": "5eae7a214f5a"
+          "version": "1e1fcba29a77"
         },
         {
           "groupId": 23336,
@@ -4548,9 +4548,9 @@
           "code": "B",
           "releasedAt": "2023-11-10",
           "modifiedOn": "2026-05-08T13:25:26.613",
-          "count": 814,
+          "count": 823,
           "file": "cards/sorcery/23336.json",
-          "version": "fae6cefeddef"
+          "version": "e214df64f109"
         },
         {
           "groupId": 23335,
@@ -4558,9 +4558,19 @@
           "code": "A",
           "releasedAt": "2023-10-26",
           "modifiedOn": "2026-05-08T13:25:37.043",
-          "count": 951,
+          "count": 955,
           "file": "cards/sorcery/23335.json",
-          "version": "49e0776ca19e"
+          "version": "e9ec55aeffd7"
+        },
+        {
+          "groupId": 77000999,
+          "name": "Promos",
+          "code": "PR",
+          "releasedAt": "2024-08-01",
+          "count": 31,
+          "file": "cards/sorcery/api-promos.json",
+          "source": "sorcery-api",
+          "version": "ef36dec0423f"
         }
       ]
     }

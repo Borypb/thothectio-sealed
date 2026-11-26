@@ -2,7 +2,7 @@
   "game": "yugioh",
   "lang": "en",
   "categoryId": 2,
-  "harvestedAt": "2026-11-25T14:33:56.844Z",
+  "harvestedAt": "2026-11-26T14:00:14.448Z",
   "groups": {
     "126": {
       "name": "2003 Collectors Tin",
@@ -15305,6 +15305,13 @@
       "abbreviation": "IMPH",
       "modifiedOn": "2026-11-11T22:10:17.987",
       "publishedOn": "2027-01-29",
+      "products": []
+    },
+    "24960": {
+      "name": "Structure Deck: HERO Force",
+      "abbreviation": "SDHF",
+      "modifiedOn": "2026-11-25T18:29:38.53",
+      "publishedOn": "2027-02-26",
       "products": []
     }
   }

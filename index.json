@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "updatedAt": "2026-11-26",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -166,67 +166,67 @@
     },
     "onepiece": {
       "file": "prices-onepiece.json",
-      "date": "2026-11-25",
-      "count": 403
+      "date": "2026-11-26",
+      "count": 405
     },
     "magic": {
       "file": "prices-magic.json",
-      "date": "2026-11-25",
-      "count": 3227
+      "date": "2026-11-26",
+      "count": 3223
     },
     "yugioh": {
       "file": "prices-yugioh.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 953
     },
     "lorcana": {
       "file": "prices-lorcana.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 160
     },
     "digimon": {
       "file": "prices-digimon.json",
-      "date": "2026-11-25",
-      "count": 295
+      "date": "2026-11-26",
+      "count": 299
     },
     "dragonball": {
       "file": "prices-dragonball.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 150
     },
     "riftbound": {
       "file": "prices-riftbound.json",
-      "date": "2026-11-25",
-      "count": 73
+      "date": "2026-11-26",
+      "count": 74
     },
     "palworld": {
       "file": "prices-palworld.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 19
     },
     "cyberpunk": {
       "file": "prices-cyberpunk.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 36
     },
     "gundam": {
       "file": "prices-gundam.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 106
     },
     "wow": {
       "file": "prices-wow.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 26
     },
     "fab": {
       "file": "prices-fab.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 214
     },
     "sorcery": {
       "file": "prices-sorcery.json",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 24
     }
   }

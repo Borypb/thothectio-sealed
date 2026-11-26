@@ -13,8 +13,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 9.75,
-          "low": 9.75,
-          "mid": 9.84
+          "low": 9.66,
+          "mid": 9.75
         }
       ]
     },
@@ -30,8 +30,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 6,
-          "low": 6,
-          "mid": 6.09
+          "low": 5.55,
+          "mid": 6
         }
       ]
     },
@@ -47,8 +47,8 @@
         {
           "sub": "Normal",
           "usd": 8.43,
-          "low": 8,
-          "mid": 8.43
+          "low": 7.77,
+          "mid": 8.37
         }
       ]
     },
@@ -60,14 +60,7 @@
       "type": "Token",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/711023_200w.jpg",
       "url": "https://www.tcgplayer.com/product/711023/flesh-and-blood-tcg-armory-deck-dr-mortimer-silver",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 1,
-          "low": 1,
-          "mid": 1
-        }
-      ]
+      "prices": []
     },
     {
       "id": 730186,
@@ -81,8 +74,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 6,
-          "low": 6,
-          "mid": 6.09
+          "low": 5.55,
+          "mid": 6
         }
       ]
     },
@@ -97,9 +90,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 6.51,
-          "low": 6,
-          "mid": 6.51
+          "usd": 6.26,
+          "low": 5.55,
+          "mid": 6.26
         }
       ]
     },
@@ -115,8 +108,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 6,
-          "low": 6,
-          "mid": 6.09
+          "low": 5.55,
+          "mid": 6
         }
       ]
     },
@@ -131,9 +124,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 6.51,
-          "low": 6,
-          "mid": 6.51
+          "usd": 6.26,
+          "low": 5.55,
+          "mid": 6.26
         }
       ]
     },
@@ -366,7 +359,14 @@
       "type": "Attack Reaction",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/730203_200w.jpg",
       "url": "https://www.tcgplayer.com/product/730203/flesh-and-blood-tcg-armory-deck-dr-mortimer-spreading-plague",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.89,
+          "low": 5.55,
+          "mid": 5.55
+        }
+      ]
     },
     {
       "id": 730204,
@@ -379,9 +379,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.96,
-          "low": 7.88,
-          "mid": 10.12
+          "usd": 7.97,
+          "low": 7.95,
+          "mid": 9.97
         }
       ]
     },
@@ -431,9 +431,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.5,
+          "usd": 4.25,
           "low": 4,
-          "mid": 4.5
+          "mid": 4.25
         }
       ]
     },
@@ -448,9 +448,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 7.49,
-          "low": 4.92,
-          "mid": 8.56
+          "usd": 6.86,
+          "low": 4.5,
+          "mid": 8
         }
       ]
     },
@@ -506,5 +506,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

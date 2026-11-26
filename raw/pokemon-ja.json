@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-25T14:45:00.067Z",
+  "harvestedAt": "2026-11-26T13:13:47.847Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -1270,7 +1270,7 @@
     "23645": {
       "name": "S12a: VSTAR Universe",
       "abbreviation": "S12a",
-      "modifiedOn": "2024-09-18T19:03:52.103",
+      "modifiedOn": "2026-11-25T17:16:54.633",
       "publishedOn": "2022-12-02",
       "setCode": "S12a",
       "products": [
@@ -2342,7 +2342,7 @@
     "23779": {
       "name": "SV-P Promotional Cards",
       "abbreviation": "SV-P",
-      "modifiedOn": "2026-10-07T16:01:32.18",
+      "modifiedOn": "2026-11-25T15:40:40.197",
       "publishedOn": "2024-10-18",
       "products": [
         {
@@ -2360,6 +2360,14 @@
           "releasedOn": "2024-10-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/628278_200w.jpg",
           "url": "https://www.tcgplayer.com/product/628278/pokemon-japan-sv-p-promotional-cards-2024-pokemon-japan-illustration-contest-promo-3-card-pack"
+        },
+        {
+          "tcgplayerId": 735430,
+          "name": "Yu Nagaba x Pokemon - Eevee's Special Promo Pack",
+          "kind": "other",
+          "releasedOn": "2024-10-18",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735430_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735430/pokemon-japan-sv-p-promotional-cards-yu-nagaba-x-pokemon-eevees-special-promo-pack"
         }
       ]
     },
@@ -5448,7 +5456,7 @@
     "24423": {
       "name": "M-P Promotional Cards",
       "abbreviation": "M-P",
-      "modifiedOn": "2026-11-20T18:33:03.36",
+      "modifiedOn": "2026-11-25T16:59:49.44",
       "publishedOn": "2025-08-08",
       "products": [
         {
@@ -5530,6 +5538,70 @@
           "releasedOn": "2025-08-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/723660_200w.jpg",
           "url": "https://www.tcgplayer.com/product/723660/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-sprigatito-fuecoco-and-quaxly"
+        },
+        {
+          "tcgplayerId": 735447,
+          "name": "Basic Grass Energy - 156/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735447_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735447/pokemon-japan-m-p-promotional-cards-basic-grass-energy-156-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735448,
+          "name": "Basic Fire Energy - 157/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735448_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735448/pokemon-japan-m-p-promotional-cards-basic-fire-energy-157-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735449,
+          "name": "Basic Water Energy - 158/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735449_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735449/pokemon-japan-m-p-promotional-cards-basic-water-energy-158-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735450,
+          "name": "Basic Lightning Energy - 159/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735450_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735450/pokemon-japan-m-p-promotional-cards-basic-lightning-energy-159-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735451,
+          "name": "Basic Psychic Energy - 160/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735451_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735451/pokemon-japan-m-p-promotional-cards-basic-psychic-energy-160-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735452,
+          "name": "Basic Fighting Energy - 161/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735452_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735452/pokemon-japan-m-p-promotional-cards-basic-fighting-energy-161-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735453,
+          "name": "Basic Darkness Energy - 162/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735453_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735453/pokemon-japan-m-p-promotional-cards-basic-darkness-energy-162-m-p-championship-series-2027"
+        },
+        {
+          "tcgplayerId": 735454,
+          "name": "Basic Metal Energy - 163/M-P (Championship Series 2027)",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735454_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735454/pokemon-japan-m-p-promotional-cards-basic-metal-energy-163-m-p-championship-series-2027"
         }
       ]
     },
@@ -6253,8 +6325,9 @@
     "24721": {
       "name": "M6a: MEGA Expansion 30th Celebration",
       "abbreviation": "m6a",
-      "modifiedOn": "2026-10-30T13:14:26.06",
+      "modifiedOn": "2026-11-25T16:34:44.99",
       "publishedOn": "2026-09-16",
+      "setCode": "M6a",
       "products": [
         {
           "tcgplayerId": 696837,
@@ -6280,8 +6353,7 @@
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/718621_200w.jpg",
           "url": "https://www.tcgplayer.com/product/718621/pokemon-japan-m6a-mega-expansion-30th-celebration-mega-expansion-30th-celebration-booster-pack"
         }
-      ],
-      "setCode": "M6a"
+      ]
     },
     "24781": {
       "name": "Mega Evolution Era Unnumbered Energies",

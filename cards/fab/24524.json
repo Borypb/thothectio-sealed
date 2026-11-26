@@ -68,7 +68,7 @@
           "sub": "Normal",
           "usd": 0.99,
           "low": 0.2,
-          "mid": 0.62
+          "mid": 0.99
         }
       ]
     },
@@ -261,7 +261,7 @@
           "sub": "Normal",
           "usd": 0.45,
           "low": 0.2,
-          "mid": 0.43
+          "mid": 0.5
         }
       ]
     },
@@ -295,7 +295,7 @@
           "sub": "Normal",
           "usd": 0.35,
           "low": 0.2,
-          "mid": 0.35
+          "mid": 0.3
         }
       ]
     },
@@ -586,7 +586,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.46,
+          "usd": 3.8,
           "low": 4.2,
           "mid": 4.25
         }
@@ -623,8 +623,8 @@
         {
           "sub": "Normal",
           "usd": 3.23,
-          "low": 3.2,
-          "mid": 3.72
+          "low": 3.23,
+          "mid": 4.2
         }
       ]
     },
@@ -658,9 +658,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.87,
+          "usd": 1.75,
           "low": 1.2,
-          "mid": 1.25
+          "mid": 1.56
         }
       ]
     },
@@ -694,8 +694,8 @@
         {
           "sub": "Normal",
           "usd": 5.63,
-          "low": 5.37,
-          "mid": 5.99
+          "low": 5.36,
+          "mid": 5.79
         }
       ]
     },
@@ -995,7 +995,7 @@
           "sub": "Normal",
           "usd": 0.6,
           "low": 0.2,
-          "mid": 0.55
+          "mid": 0.6
         }
       ]
     },
@@ -1065,7 +1065,7 @@
           "sub": "Normal",
           "usd": 0.26,
           "low": 0.2,
-          "mid": 0.25
+          "mid": 0.26
         }
       ]
     },
@@ -1355,8 +1355,8 @@
         {
           "sub": "Normal",
           "usd": 0.15,
-          "low": 0.1,
-          "mid": 0.18
+          "low": 0.15,
+          "mid": 0.2
         }
       ]
     },
@@ -1459,7 +1459,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1,
+          "usd": 0.2,
           "low": 0.05,
           "mid": 0.2
         }
@@ -1477,7 +1477,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1,
+          "usd": 0.2,
           "low": 0.05,
           "mid": 0.2
         }
@@ -1495,7 +1495,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1,
+          "usd": 0.23,
           "low": 0.05,
           "mid": 0.23
         }
@@ -1583,7 +1583,7 @@
           "sub": "Normal",
           "usd": 2.21,
           "low": 2,
-          "mid": 2
+          "mid": 2.11
         }
       ]
     },
@@ -1635,7 +1635,7 @@
         {
           "sub": "Normal",
           "usd": 0.47,
-          "low": 0.4,
+          "low": 0.41,
           "mid": 0.47
         }
       ]
@@ -1654,7 +1654,7 @@
           "sub": "Normal",
           "usd": 0.6,
           "low": 0.5,
-          "mid": 0.55
+          "mid": 0.58
         }
       ]
     },
@@ -1685,14 +1685,7 @@
       "type": "Equipment",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/676768_200w.jpg",
       "url": "https://www.tcgplayer.com/product/676768/flesh-and-blood-tcg-silver-age-chapter-1-nullrune-boots-svi010",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.19,
-          "low": 1,
-          "mid": 1
-        }
-      ]
+      "prices": []
     },
     {
       "id": 676769,
@@ -2084,7 +2077,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.17,
-          "mid": 0.2
+          "mid": 0.21
         }
       ]
     },
@@ -2101,7 +2094,7 @@
           "sub": "Normal",
           "usd": 1.49,
           "low": 0.4,
-          "mid": 0.45
+          "mid": 0.97
         }
       ]
     },
@@ -2117,8 +2110,8 @@
         {
           "sub": "Normal",
           "usd": 2.3,
-          "low": 1.8,
-          "mid": 1.9
+          "low": 1.85,
+          "mid": 2.04
         }
       ]
     },
@@ -2203,7 +2196,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.15,
-          "mid": 0.18
+          "mid": 0.2
         }
       ]
     },
@@ -2323,9 +2316,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18,
+          "usd": 0.2,
           "low": 0.15,
-          "mid": 0.18
+          "mid": 0.2
         }
       ]
     },
@@ -2358,8 +2351,8 @@
         {
           "sub": "Normal",
           "usd": 1.28,
-          "low": 1,
-          "mid": 1.24
+          "low": 1.2,
+          "mid": 1.28
         }
       ]
     },
@@ -2750,7 +2743,7 @@
           "sub": "Normal",
           "usd": 0.29,
           "low": 0.2,
-          "mid": 0.27
+          "mid": 0.28
         }
       ]
     },
@@ -2967,5 +2960,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

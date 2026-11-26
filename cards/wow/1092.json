@@ -10,9 +10,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 6.5,
+          "usd": 3,
           "low": 3,
-          "mid": 6.5
+          "mid": 3
         }
       ]
     },
@@ -25,9 +25,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 6.5,
+          "usd": 3,
           "low": 3,
-          "mid": 6.5
+          "mid": 3
         }
       ]
     },
@@ -40,9 +40,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 6.5,
+          "usd": 3,
           "low": 3,
-          "mid": 6.5
+          "mid": 3
         }
       ]
     },
@@ -1331,5 +1331,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

@@ -164,14 +164,7 @@
       "type": "Action",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/695801_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695801/flesh-and-blood-tcg-silver-age-chapter-3-look-tuff-red",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.51,
-          "low": 0.56,
-          "mid": 0.56
-        }
-      ]
+      "prices": []
     },
     {
       "id": 695802,
@@ -276,7 +269,7 @@
         {
           "sub": "Normal",
           "usd": 0.25,
-          "low": 0.2,
+          "low": 0.25,
           "mid": 0.25
         }
       ]
@@ -2347,8 +2340,8 @@
         {
           "sub": "Normal",
           "usd": 0.18,
-          "low": 0.1,
-          "mid": 0.18
+          "low": 0.15,
+          "mid": 0.19
         }
       ]
     },
@@ -2699,7 +2692,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15,
+          "usd": 0.1,
           "low": 0.1,
           "mid": 0.15
         }
@@ -2735,7 +2728,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15,
+          "usd": 0.1,
           "low": 0.1,
           "mid": 0.15
         }
@@ -3063,5 +3056,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

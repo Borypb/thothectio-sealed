@@ -60,14 +60,7 @@
       "type": "Equipment",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/617975_200w.jpg",
       "url": "https://www.tcgplayer.com/product/617975/flesh-and-blood-tcg-blitz-deck-the-hunted-cindra-blade-beckoner-plating",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 2.71,
-          "low": 2.65,
-          "mid": 2.66
-        }
-      ]
+      "prices": []
     },
     {
       "id": 617977,
@@ -115,8 +108,8 @@
         {
           "sub": "Normal",
           "usd": 1.94,
-          "low": 1.71,
-          "mid": 1.89
+          "low": 1.69,
+          "mid": 1.92
         }
       ]
     },
@@ -491,8 +484,8 @@
         {
           "sub": "Normal",
           "usd": 5,
-          "low": 6.15,
-          "mid": 6.4
+          "low": 9.13,
+          "mid": 9.5
         }
       ]
     },
@@ -513,5 +506,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

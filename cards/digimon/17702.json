@@ -14,7 +14,7 @@
           "sub": "Foil",
           "usd": 0.81,
           "low": 0.4,
-          "mid": 0.79
+          "mid": 0.81
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483220_200w.jpg"
@@ -174,7 +174,7 @@
         {
           "sub": "Foil",
           "usd": 0.95,
-          "low": 0.52,
+          "low": 0.4,
           "mid": 1
         }
       ],
@@ -210,8 +210,8 @@
         {
           "sub": "Foil",
           "usd": 0.85,
-          "low": 0.75,
-          "mid": 1.05
+          "low": 0.98,
+          "mid": 1.11
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483243_200w.jpg"
@@ -317,9 +317,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.75,
-          "low": 1.29,
-          "mid": 3
+          "usd": 3,
+          "low": 2,
+          "mid": 3.44
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483250_200w.jpg"
@@ -356,7 +356,7 @@
           "sub": "Foil",
           "usd": 7.83,
           "low": 7.29,
-          "mid": 8.81
+          "mid": 8.58
         }
       ]
     },
@@ -409,7 +409,7 @@
           "sub": "Foil",
           "usd": 5.13,
           "low": 3.52,
-          "mid": 5.37
+          "mid": 5.17
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483256_200w.jpg"
@@ -481,7 +481,7 @@
           "sub": "Foil",
           "usd": 6.6,
           "low": 3,
-          "mid": 5.33
+          "mid": 4.99
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483262_200w.jpg"
@@ -695,9 +695,9 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.85,
+          "usd": 0.89,
           "low": 0.75,
-          "mid": 2.48
+          "mid": 2.51
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483278_200w.jpg"
@@ -770,7 +770,7 @@
           "sub": "Foil",
           "usd": 5.04,
           "low": 2.95,
-          "mid": 4
+          "mid": 3.99
         }
       ]
     },
@@ -1009,5 +1009,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/483302_200w.jpg"
     }
   ],
-  "pricesAt": "2026-11-25"
+  "pricesAt": "2026-11-26"
 }

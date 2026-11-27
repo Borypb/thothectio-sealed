@@ -2145,6 +2145,61 @@
       "en": "Owen Dreadnought"
     },
     {
+      "number": "BT23-101",
+      "name": "フーディエモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT23-101_P3.png?04",
+      "en": "Hudiemon"
+    },
+    {
+      "number": "BT23-102",
+      "name": "マスティモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT23-102_P3.png?04",
+      "en": "Mastemon"
+    },
+    {
+      "number": "BT24-030",
+      "name": "ネプトゥーンモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT24-030_P2.png?04",
+      "en": "Neptunemon"
+    },
+    {
+      "number": "BT24-034",
+      "name": "アイギオモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT24-034_P3.png?04",
+      "en": "Aegiomon"
+    },
+    {
+      "number": "BT24-040",
+      "name": "ウェヌスモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT24-040_P2.png?04",
+      "en": "Venusmon"
+    },
+    {
       "number": "EX1-013",
       "name": "ブイモン",
       "rarity": "R",
@@ -2379,6 +2434,17 @@
       "en": "GrandGalemon"
     },
     {
+      "number": "EX7-059",
+      "name": "ベルスターモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX7-059_P4.png?04",
+      "en": "BeelStarmon ACE"
+    },
+    {
       "number": "EX7-062",
       "name": "ヘヴィーメタルドラモン",
       "rarity": "SR",
@@ -2536,6 +2602,39 @@
       "variant": "p2",
       "image": "https://digimoncard.com/images/cardlist/card/EX9-067_P2.png?04",
       "en": "Mirai Kinosaki"
+    },
+    {
+      "number": "EX10-074",
+      "name": "ベルゼブモンACE",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX10-074_P2.png?04",
+      "en": "Beelzemon ACE"
+    },
+    {
+      "number": "EX11-012",
+      "name": "メデューサモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX11-012_P3.png?04",
+      "en": "Medusamon"
+    },
+    {
+      "number": "EX11-074",
+      "name": "ヴォルテクスドラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX11-074_P3.png?04",
+      "en": "Vortexdramon"
     },
     {
       "number": "RB1-006",
@@ -3594,6 +3693,17 @@
       "variant": "p5",
       "image": "https://digimoncard.com/images/cardlist/card/P-206_P5.png?04",
       "en": "Digital Gate Open"
+    },
+    {
+      "number": "P-223",
+      "name": "クズハモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-223_P1.png?04",
+      "en": "Kuzuhamon"
     }
   ]
 }

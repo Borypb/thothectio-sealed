@@ -2171,6 +2171,27 @@
       "en": "Merukimon"
     },
     {
+      "number": "BT24-088",
+      "name": "城木明日奈",
+      "rarity": "U",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT24-088_P2.png?04",
+      "en": "Asuna Shiroki"
+    },
+    {
+      "number": "BT25-085",
+      "name": "ベルスターモン",
+      "rarity": "UR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT25-085_P3.png?04",
+      "en": "BeelStarmon // Fly Bullet"
+    },
+    {
       "number": "EX1-001",
       "name": "アグモン",
       "rarity": "U",
@@ -2478,6 +2499,16 @@
       "en": "Piximon"
     },
     {
+      "number": "EX7-071",
+      "name": "ハリケーンビスショット",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX7-071_P2.png?04",
+      "en": "Hurricane Screw Shot"
+    },
+    {
       "number": "EX9-007",
       "name": "アグモン",
       "rarity": "R",
@@ -2498,6 +2529,17 @@
       "variant": "p2",
       "image": "https://digimoncard.com/images/cardlist/card/EX9-007_P2.png?04",
       "en": "Agumon"
+    },
+    {
+      "number": "RB1-018",
+      "name": "もんざえモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/RB1-018_P1.png?04",
+      "en": "Monzaemon"
     },
     {
       "number": "ST1-02",
@@ -3534,17 +3576,6 @@
       "en": "Falcomon"
     },
     {
-      "number": "RB1-018",
-      "name": "もんざえモン",
-      "rarity": "R",
-      "type": "デジモン",
-      "level": "Lv.5",
-      "parallel": true,
-      "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/RB1-018_P1.png?04",
-      "en": "Monzaemon"
-    },
-    {
       "number": "P-005",
       "name": "パタモン",
       "rarity": "P",
@@ -3751,6 +3782,136 @@
       "en": "Davis Motomiya"
     },
     {
+      "number": "ST25-01",
+      "name": "トコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-01_P1.png?04",
+      "en": "Tokomon"
+    },
+    {
+      "number": "ST25-02",
+      "name": "ジェムモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-02_P1.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "ST25-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-03_P1.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "ST25-04",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-04_P1.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "ST25-05",
+      "name": "ルビウスドラモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-05_P1.png?04",
+      "en": "Rubeusdramon // Burning Drive"
+    },
+    {
+      "number": "ST25-06",
+      "name": "本堂カナタ",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST25-06_P1.png?04",
+      "en": "Kanata Hondo"
+    },
+    {
+      "number": "ST26-01",
+      "name": "ポコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-01_P1.png?04",
+      "en": "Viximon"
+    },
+    {
+      "number": "ST26-02",
+      "name": "レナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-02_P1.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "ST26-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-03_P1.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "ST26-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-04_P1.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "ST26-05",
+      "name": "ユキナモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-05_P1.png?04",
+      "en": "Yukinamon // Ice Beast Caricatures"
+    },
+    {
+      "number": "ST26-06",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST26-06_P1.png?04",
+      "en": "Valner Dragnogh"
+    },
+    {
       "number": "P-130",
       "name": "大和田ルイ",
       "rarity": "P",
@@ -3759,6 +3920,200 @@
       "variant": "p1",
       "image": "https://digimoncard.com/images/cardlist/card/P-130_P1.png?04",
       "en": "Lui Ohwada"
+    },
+    {
+      "number": "SD01-02",
+      "name": "ジェムモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-02_P1.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "SD01-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-03_P1.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "SD01-04",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD01-04_P1.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "SD02-02",
+      "name": "レナモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-02_P1.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "SD02-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-03_P1.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "SD02-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/SD02-04_P1.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "BD01-02",
+      "name": "ジェムモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-02_P1.png?04",
+      "en": "Gemmon"
+    },
+    {
+      "number": "BD01-03",
+      "name": "リスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-03_P1.png?04",
+      "en": "Liskmon"
+    },
+    {
+      "number": "BD01-05",
+      "name": "レプティリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-05_P1.png?04",
+      "en": "Reptilimon"
+    },
+    {
+      "number": "BD01-10",
+      "name": "本堂カナタ",
+      "rarity": "U",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD01-10_P1.png?04",
+      "en": "Kanata Hondo"
+    },
+    {
+      "number": "BD02-02",
+      "name": "レナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-02_P1.png?04",
+      "en": "Renamon"
+    },
+    {
+      "number": "BD02-03",
+      "name": "テンコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-03_P1.png?04",
+      "en": "Tenkomon"
+    },
+    {
+      "number": "BD02-04",
+      "name": "セッカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-04_P1.png?04",
+      "en": "Sekkamon"
+    },
+    {
+      "number": "BD02-08",
+      "name": "ヴァルナー・ドラグノフ",
+      "rarity": "U",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BD02-08_P1.png?04",
+      "en": "Valner Dragnogh"
+    },
+    {
+      "number": "ED01-01",
+      "name": "ルビウスドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-01_P1.png?04",
+      "en": "Rubeusdramon"
+    },
+    {
+      "number": "ED01-02",
+      "name": "ユキナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-02_P1.png?04",
+      "en": "Yukinamon"
+    },
+    {
+      "number": "ED01-09",
+      "name": "紅玉の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-09_P2.png?04",
+      "en": "Bond of Rubies"
+    },
+    {
+      "number": "ED01-10",
+      "name": "雪片の絆",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/ED01-10_P2.png?04",
+      "en": "Bond of Snowflakes"
     },
     {
       "number": "P-131",
@@ -4541,16 +4896,6 @@
       "en": "Digiseabass"
     },
     {
-      "number": "P-244",
-      "name": "ユニークエンブレム：終焉の到達者",
-      "rarity": "P",
-      "type": "オプション",
-      "parallel": true,
-      "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/P-244_P1.png?04",
-      "en": "Unique Emblem: Ragnarok Attainer"
-    },
-    {
       "number": "P-247",
       "name": "ニャロモン",
       "rarity": "P",
@@ -4560,6 +4905,16 @@
       "variant": "p1",
       "image": "https://digimoncard.com/images/cardlist/card/P-247_P1.png?04",
       "en": "Nyaromon"
+    },
+    {
+      "number": "P-244",
+      "name": "ユニークエンブレム：終焉の到達者",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-244_P1.png?04",
+      "en": "Unique Emblem: Ragnarok Attainer"
     },
     {
       "number": "P-248",

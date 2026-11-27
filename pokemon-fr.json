@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "game": "pokemon",
   "lang": "fr",
   "products": [
@@ -18803,6 +18803,54 @@
       }
     },
     {
+      "id": "pkm-fr-tcp735463",
+      "kind": "deck",
+      "name": "Deck à thème Duels au Sommets – « Eternal Time »",
+      "lang": "fr",
+      "setIds": [
+        "pkm-dp4"
+      ],
+      "releasedAt": "2008-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735463_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:735463",
+        "en": "Great Encounters Theme Deck - Eternal Time"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp735464",
+      "kind": "deck",
+      "name": "Deck à thème Duels au Sommets – « Infinite Space »",
+      "lang": "fr",
+      "setIds": [
+        "pkm-dp4"
+      ],
+      "releasedAt": "2008-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735464_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:735464",
+        "en": "Great Encounters Theme Deck - Infinite Space"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp735467",
+      "kind": "deck",
+      "name": "Deck à thème Duels au Sommets – « Endless Night »",
+      "lang": "fr",
+      "setIds": [
+        "pkm-dp4"
+      ],
+      "releasedAt": "2008-02-13",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735467_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:735467",
+        "en": "Great Encounters Theme Deck - Endless Night"
+      }
+    },
+    {
       "id": "pkm-fr-dp3-booster",
       "kind": "booster",
       "name": "Booster Merveilles Secrètes",
@@ -18846,6 +18894,38 @@
       "derived": {
         "from": "tcgplayer:98568",
         "en": "Secret Wonders Booster Box"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp735465",
+      "kind": "deck",
+      "name": "Deck à thème Merveilles Secrètes – « Powerhouse »",
+      "lang": "fr",
+      "setIds": [
+        "pkm-dp3"
+      ],
+      "releasedAt": "2007-11-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735465_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:735465",
+        "en": "Secret Wonders Theme Deck - Powerhouse"
+      }
+    },
+    {
+      "id": "pkm-fr-tcp735466",
+      "kind": "deck",
+      "name": "Deck à thème Merveilles Secrètes – « Lavaflow »",
+      "lang": "fr",
+      "setIds": [
+        "pkm-dp3"
+      ],
+      "releasedAt": "2007-11-07",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735466_200w.jpg",
+      "imageLang": "en",
+      "derived": {
+        "from": "tcgplayer:735466",
+        "en": "Secret Wonders Theme Deck - Lavaflow"
       }
     },
     {

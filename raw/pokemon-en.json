@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-11-26T13:13:43.451Z",
+  "harvestedAt": "2026-11-27T13:11:49.232Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -757,7 +757,7 @@
     "1380": {
       "name": "Secret Wonders",
       "abbreviation": "SW",
-      "modifiedOn": "2026-11-12T19:14:18.34",
+      "modifiedOn": "2026-11-25T21:32:46.517",
       "publishedOn": "2007-11-07",
       "setCode": "dp3",
       "products": [
@@ -776,6 +776,22 @@
           "releasedOn": "2007-11-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/98569_200w.jpg",
           "url": "https://www.tcgplayer.com/product/98569/pokemon-secret-wonders-secret-wonders-booster-pack"
+        },
+        {
+          "tcgplayerId": 735465,
+          "name": "Secret Wonders Theme Deck - Powerhouse",
+          "kind": "deck",
+          "releasedOn": "2007-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735465_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735465/pokemon-secret-wonders-secret-wonders-theme-deck-powerhouse"
+        },
+        {
+          "tcgplayerId": 735466,
+          "name": "Secret Wonders Theme Deck - Lavaflow",
+          "kind": "deck",
+          "releasedOn": "2007-11-07",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735466_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735466/pokemon-secret-wonders-secret-wonders-theme-deck-lavaflow"
         }
       ]
     },
@@ -1899,7 +1915,7 @@
     "1405": {
       "name": "Great Encounters",
       "abbreviation": "GE",
-      "modifiedOn": "2026-07-13T19:59:07.167",
+      "modifiedOn": "2026-11-25T21:35:21.35",
       "publishedOn": "2008-02-13",
       "setCode": "dp4",
       "products": [
@@ -1918,6 +1934,30 @@
           "releasedOn": "2008-02-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/98545_200w.jpg",
           "url": "https://www.tcgplayer.com/product/98545/pokemon-great-encounters-great-encounters-booster-pack"
+        },
+        {
+          "tcgplayerId": 735463,
+          "name": "Great Encounters Theme Deck - Eternal Time",
+          "kind": "deck",
+          "releasedOn": "2008-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735463_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735463/pokemon-great-encounters-great-encounters-theme-deck-eternal-time"
+        },
+        {
+          "tcgplayerId": 735464,
+          "name": "Great Encounters Theme Deck - Infinite Space",
+          "kind": "deck",
+          "releasedOn": "2008-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735464_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735464/pokemon-great-encounters-great-encounters-theme-deck-infinite-space"
+        },
+        {
+          "tcgplayerId": 735467,
+          "name": "Great Encounters Theme Deck - Endless Night",
+          "kind": "deck",
+          "releasedOn": "2008-02-13",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735467_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735467/pokemon-great-encounters-great-encounters-theme-deck-endless-night"
         }
       ]
     },

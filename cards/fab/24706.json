@@ -1167,14 +1167,7 @@
       "type": "Token",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/695859_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695859/flesh-and-blood-tcg-silver-age-chapter-3-might",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.35,
-          "low": 0.35,
-          "mid": 0.35
-        }
-      ]
+      "prices": []
     },
     {
       "id": 695881,
@@ -1525,7 +1518,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.25,
-          "mid": 0.27
+          "mid": 0.26
         }
       ]
     },
@@ -2549,8 +2542,8 @@
         {
           "sub": "Normal",
           "usd": 0.27,
-          "low": 0.1,
-          "mid": 0.2
+          "low": 0.15,
+          "mid": 0.25
         }
       ]
     },
@@ -3056,5 +3049,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-26"
+  "pricesAt": "2026-11-27"
 }

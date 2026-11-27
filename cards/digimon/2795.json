@@ -48,7 +48,7 @@
           "sub": "Normal",
           "usd": 0.2,
           "low": 0.16,
-          "mid": 0.33
+          "mid": 0.32
         }
       ]
     },
@@ -182,7 +182,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.13,
           "low": 0.08,
           "mid": 0.25
         }
@@ -285,7 +285,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.82,
+          "usd": 0.86,
           "low": 0.4,
           "mid": 1
         }
@@ -318,7 +318,14 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/246233_200w.jpg",
       "url": "https://www.tcgplayer.com/product/246233/digimon-card-game-starter-deck-06-venomous-violet-devimon-st6-08-2021-championship-online-regional-online-champion",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 229.93,
+          "low": 229.93,
+          "mid": 229.93
+        }
+      ]
     },
     {
       "id": 263707,
@@ -332,7 +339,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.75,
+          "usd": 0.77,
           "low": 0.64,
           "mid": 0.99
         }
@@ -350,7 +357,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.19,
+          "usd": 0.18,
           "low": 0.07,
           "mid": 0.25
         }
@@ -375,5 +382,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-26"
+  "pricesAt": "2026-11-27"
 }

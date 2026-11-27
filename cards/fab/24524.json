@@ -533,7 +533,7 @@
         {
           "sub": "Normal",
           "usd": 1.35,
-          "low": 1.2,
+          "low": 1.25,
           "mid": 1.35
         }
       ]
@@ -568,7 +568,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.47,
+          "usd": 3.46,
           "low": 3,
           "mid": 3.47
         }
@@ -660,7 +660,7 @@
           "sub": "Normal",
           "usd": 1.75,
           "low": 1.2,
-          "mid": 1.56
+          "mid": 1.75
         }
       ]
     },
@@ -694,8 +694,8 @@
         {
           "sub": "Normal",
           "usd": 5.63,
-          "low": 5.36,
-          "mid": 5.79
+          "low": 5.35,
+          "mid": 5.99
         }
       ]
     },
@@ -1269,7 +1269,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.3,
+          "usd": 0.31,
           "low": 0.3,
           "mid": 0.3
         }
@@ -1634,7 +1634,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.47,
+          "usd": 0.48,
           "low": 0.41,
           "mid": 0.47
         }
@@ -1836,9 +1836,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.36,
+          "usd": 0.38,
           "low": 0.32,
-          "mid": 0.36
+          "mid": 0.38
         }
       ]
     },
@@ -1868,14 +1868,7 @@
       "type": "Block",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/676779_200w.jpg",
       "url": "https://www.tcgplayer.com/product/676779/flesh-and-blood-tcg-silver-age-chapter-1-on-the-horizon",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 0.27,
-          "low": 0.28,
-          "mid": 0.28
-        }
-      ]
+      "prices": []
     },
     {
       "id": 676780,
@@ -2350,7 +2343,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.28,
+          "usd": 1.29,
           "low": 1.2,
           "mid": 1.28
         }
@@ -2386,7 +2379,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.15,
-          "mid": 0.23
+          "mid": 0.2
         }
       ]
     },
@@ -2811,7 +2804,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.19,
+          "usd": 0.21,
           "low": 0.35,
           "mid": 0.35
         }
@@ -2960,5 +2953,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-26"
+  "pricesAt": "2026-11-27"
 }

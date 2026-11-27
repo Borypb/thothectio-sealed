@@ -14,7 +14,7 @@
           "sub": "Unlimited Edition Rainbow Foil",
           "usd": 0.19,
           "low": 0.13,
-          "mid": 0.48
+          "mid": 0.39
         }
       ]
     },
@@ -43,7 +43,14 @@
       "type": "Weapon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/238459_200w.jpg",
       "url": "https://www.tcgplayer.com/product/238459/flesh-and-blood-tcg-blitz-deck-monarch-levia-ravenous-meataxe",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.84,
+          "low": 3,
+          "mid": 3
+        }
+      ]
     },
     {
       "id": 238460,
@@ -509,5 +516,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-26"
+  "pricesAt": "2026-11-27"
 }

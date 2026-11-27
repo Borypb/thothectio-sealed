@@ -1737,10 +1737,10 @@
           "name": "Riftbound Organized Play Promotional Cards",
           "code": "OPP",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-11-11T14:04:32.103",
-          "count": 247,
+          "modifiedOn": "2026-11-25T19:38:18.713",
+          "count": 248,
           "file": "cards/riftbound/24528.json",
-          "version": "78932a4e46b1"
+          "version": "1ae0c666393c"
         },
         {
           "groupId": 24343,
@@ -4575,5 +4575,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-26"
+  "updatedAt": "2026-11-27"
 }

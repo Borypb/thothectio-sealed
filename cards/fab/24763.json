@@ -65,7 +65,7 @@
           "sub": "Rainbow Foil",
           "usd": 4.23,
           "low": 3.69,
-          "mid": 4.99
+          "mid": 5
         }
       ]
     },
@@ -80,9 +80,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 4.42,
+          "usd": 4.35,
           "low": 3.73,
-          "mid": 4.05
+          "mid": 3.99
         }
       ]
     },
@@ -133,9 +133,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.37,
+          "usd": 0.49,
           "low": 0.2,
-          "mid": 0.37
+          "mid": 0.49
         }
       ]
     },
@@ -185,7 +185,7 @@
         {
           "sub": "Normal",
           "usd": 1.74,
-          "low": 3.43,
+          "low": 1.91,
           "mid": 3.43
         }
       ]
@@ -218,7 +218,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.24,
           "low": 0.2,
           "mid": 0.25
         }
@@ -390,7 +390,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.65,
+          "usd": 0.67,
           "low": 1,
           "mid": 1.1
         }
@@ -459,7 +459,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.57,
+          "usd": 0.58,
           "low": 0.75,
           "mid": 0.75
         }
@@ -508,15 +508,8 @@
       "type": "Token",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/716151_200w.jpg",
       "url": "https://www.tcgplayer.com/product/716151/flesh-and-blood-tcg-armory-deck-malice-gate-to-iarathael",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 1.09,
-          "low": 4.94,
-          "mid": 4.94
-        }
-      ]
+      "prices": []
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }

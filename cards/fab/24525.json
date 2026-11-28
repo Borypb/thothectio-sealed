@@ -275,7 +275,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.22,
+          "usd": 0.25,
           "low": 0.2,
           "mid": 0.25
         }
@@ -852,9 +852,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.79,
+          "usd": 0.88,
           "low": 0.57,
-          "mid": 0.68
+          "mid": 0.73
         }
       ]
     },
@@ -954,8 +954,8 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.2,
-          "low": 0.2,
+          "usd": 0.21,
+          "low": 0.21,
           "mid": 0.23
         }
       ]
@@ -1810,8 +1810,8 @@
         {
           "sub": "Normal",
           "usd": 3.13,
-          "low": 3.3,
-          "mid": 3.3
+          "low": 3.13,
+          "mid": 3.22
         }
       ]
     },
@@ -1861,9 +1861,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.52,
+          "usd": 0.53,
           "low": 0.45,
-          "mid": 0.5
+          "mid": 0.52
         }
       ]
     },
@@ -1976,8 +1976,8 @@
         {
           "sub": "Normal",
           "usd": 0.26,
-          "low": 0.29,
-          "mid": 0.29
+          "low": 0.27,
+          "mid": 0.27
         }
       ]
     },
@@ -2318,7 +2318,14 @@
       "type": "Equipment",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/676644_200w.jpg",
       "url": "https://www.tcgplayer.com/product/676644/flesh-and-blood-tcg-silver-age-chapter-2-blade-beckoner-helm-sfa003",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.56,
+          "low": 2.56,
+          "mid": 2.56
+        }
+      ]
     },
     {
       "id": 676645,
@@ -2497,7 +2504,7 @@
           "sub": "Normal",
           "usd": 0.27,
           "low": 0.2,
-          "mid": 0.27
+          "mid": 0.26
         }
       ]
     },
@@ -2850,5 +2857,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }

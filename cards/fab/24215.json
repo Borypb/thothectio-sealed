@@ -60,7 +60,14 @@
       "type": "Equipment",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/617975_200w.jpg",
       "url": "https://www.tcgplayer.com/product/617975/flesh-and-blood-tcg-blitz-deck-the-hunted-cindra-blade-beckoner-plating",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.83,
+          "low": 2.14,
+          "mid": 2.14
+        }
+      ]
     },
     {
       "id": 617977,
@@ -108,8 +115,8 @@
         {
           "sub": "Normal",
           "usd": 1.94,
-          "low": 1.67,
-          "mid": 1.9
+          "low": 1.65,
+          "mid": 1.88
         }
       ]
     },
@@ -145,7 +152,7 @@
           "sub": "Normal",
           "usd": 0.28,
           "low": 0.25,
-          "mid": 0.47
+          "mid": 0.45
         }
       ]
     },
@@ -305,9 +312,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.38,
+          "usd": 0.4,
           "low": 0.25,
-          "mid": 0.38
+          "mid": 0.4
         }
       ]
     },
@@ -325,7 +332,7 @@
           "sub": "Normal",
           "usd": 1.1,
           "low": 0.4,
-          "mid": 0.97
+          "mid": 0.99
         }
       ]
     },
@@ -343,7 +350,7 @@
           "sub": "Normal",
           "usd": 1.88,
           "low": 1.59,
-          "mid": 1.72
+          "mid": 1.8
         }
       ]
     },
@@ -361,7 +368,7 @@
           "sub": "Normal",
           "usd": 0.8,
           "low": 0.79,
-          "mid": 0.83
+          "mid": 0.85
         }
       ]
     },
@@ -379,7 +386,7 @@
           "sub": "Normal",
           "usd": 1.24,
           "low": 0.59,
-          "mid": 0.75
+          "mid": 0.87
         }
       ]
     },
@@ -449,9 +456,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.93,
+          "usd": 0.99,
           "low": 0.65,
-          "mid": 0.93
+          "mid": 0.99
         }
       ]
     },
@@ -467,9 +474,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.43,
+          "usd": 0.42,
           "low": 0.35,
-          "mid": 0.43
+          "mid": 0.42
         }
       ]
     },
@@ -484,8 +491,8 @@
         {
           "sub": "Normal",
           "usd": 5,
-          "low": 12.35,
-          "mid": 12.85
+          "low": 15.83,
+          "mid": 16.07
         }
       ]
     },
@@ -500,11 +507,11 @@
         {
           "sub": "Normal",
           "usd": 0.5,
-          "low": 0.54,
-          "mid": 2.77
+          "low": 0.58,
+          "mid": 2.79
         }
       ]
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }

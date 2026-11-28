@@ -14,7 +14,7 @@
           "sub": "Normal",
           "usd": 0.11,
           "low": 0.1,
-          "mid": 0.14
+          "mid": 0.15
         }
       ]
     },
@@ -48,7 +48,7 @@
           "sub": "Normal",
           "usd": 0.17,
           "low": 0.1,
-          "mid": 0.17
+          "mid": 0.18
         }
       ]
     },
@@ -64,8 +64,8 @@
       "prices": [
         {
           "sub": "Cold Foil",
-          "usd": 30.1,
-          "low": 23.3,
+          "usd": 28.89,
+          "low": 23.8,
           "mid": 26.03
         }
       ]
@@ -83,7 +83,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.1,
-          "mid": 0.17
+          "mid": 0.2
         }
       ]
     },
@@ -153,7 +153,7 @@
           "sub": "Cold Foil",
           "usd": 358.48,
           "low": 299,
-          "mid": 318.22
+          "mid": 307.29
         }
       ]
     },
@@ -168,9 +168,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 53.38,
-          "low": 47,
-          "mid": 55.5
+          "usd": 52.85,
+          "low": 44.99,
+          "mid": 54.53
         }
       ]
     },
@@ -186,9 +186,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 31.45,
+          "usd": 30.51,
           "low": 25.5,
-          "mid": 33.34
+          "mid": 34.28
         }
       ]
     },
@@ -203,9 +203,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.13,
-          "low": 0.7,
-          "mid": 1.9
+          "usd": 1.11,
+          "low": 0.71,
+          "mid": 1.94
         }
       ]
     },
@@ -221,9 +221,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.62,
+          "usd": 0.61,
           "low": 0.27,
-          "mid": 0.76
+          "mid": 0.77
         },
         {
           "sub": "Rainbow Foil",
@@ -247,7 +247,7 @@
           "sub": "Normal",
           "usd": 0.3,
           "low": 0.2,
-          "mid": 0.34
+          "mid": 0.35
         }
       ]
     },
@@ -263,15 +263,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 1.51,
+          "usd": 1.5,
           "low": 1.24,
-          "mid": 1.5
+          "mid": 1.46
         },
         {
           "sub": "Normal",
-          "usd": 0.34,
+          "usd": 0.33,
           "low": 0.2,
-          "mid": 0.36
+          "mid": 0.35
         }
       ]
     },
@@ -288,11 +288,11 @@
           "sub": "Rainbow Foil",
           "usd": 1.73,
           "low": 0.8,
-          "mid": 2.01
+          "mid": 2
         },
         {
           "sub": "Normal",
-          "usd": 0.36,
+          "usd": 0.4,
           "low": 0.3,
           "mid": 0.45
         }
@@ -316,7 +316,7 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.63,
+          "usd": 0.59,
           "low": 0.25,
           "mid": 0.63
         }
@@ -334,13 +334,13 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.4,
+          "usd": 0.38,
           "low": 0.22,
           "mid": 0.4
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.69,
+          "usd": 0.63,
           "low": 0.34,
           "mid": 0.69
         }
@@ -358,13 +358,13 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.42,
+          "usd": 0.4,
           "low": 0.25,
-          "mid": 0.45
+          "mid": 0.46
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 1.05,
+          "usd": 1,
           "low": 0.39,
           "mid": 0.9
         }
@@ -383,13 +383,13 @@
           "sub": "Normal",
           "usd": 0.3,
           "low": 0.19,
-          "mid": 0.31
+          "mid": 0.3
         },
         {
           "sub": "Rainbow Foil",
           "usd": 1.03,
           "low": 0.3,
-          "mid": 0.97
+          "mid": 0.94
         }
       ]
     },
@@ -441,13 +441,13 @@
           "sub": "Normal",
           "usd": 0.18,
           "low": 0.14,
-          "mid": 0.23
+          "mid": 0.25
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.82,
+          "usd": 0.78,
           "low": 0.6,
-          "mid": 0.82
+          "mid": 0.8
         }
       ]
     },
@@ -465,7 +465,7 @@
           "sub": "Rainbow Foil",
           "usd": 0.21,
           "low": 0.2,
-          "mid": 0.49
+          "mid": 0.47
         },
         {
           "sub": "Normal",
@@ -487,7 +487,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.74,
+          "usd": 0.64,
           "low": 0.25,
           "mid": 0.74
         },
@@ -510,7 +510,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.26,
+          "usd": 0.25,
           "low": 0.1,
           "mid": 0.26
         }
@@ -529,8 +529,8 @@
         {
           "sub": "Cold Foil",
           "usd": 1204.87,
-          "low": 1483.75,
-          "mid": 1492.62
+          "low": 1084.5,
+          "mid": 1461.23
         }
       ]
     },
@@ -545,15 +545,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 5.35,
-          "low": 3.51,
+          "usd": 5.04,
+          "low": 3.78,
           "mid": 5.35
         },
         {
           "sub": "Normal",
-          "usd": 2.62,
+          "usd": 2.68,
           "low": 2.48,
-          "mid": 3
+          "mid": 3.01
         }
       ]
     },
@@ -568,15 +568,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 15.59,
-          "low": 8.53,
-          "mid": 11.53
+          "usd": 14.49,
+          "low": 7.5,
+          "mid": 11.76
         },
         {
           "sub": "Normal",
           "usd": 5.11,
           "low": 4.99,
-          "mid": 8.89
+          "mid": 8.98
         }
       ]
     },
@@ -591,15 +591,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 8.58,
+          "usd": 7.62,
           "low": 3.25,
           "mid": 7.68
         },
         {
           "sub": "Normal",
-          "usd": 3.21,
+          "usd": 3.23,
           "low": 2.45,
-          "mid": 7.55
+          "mid": 8
         }
       ]
     },
@@ -614,7 +614,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.32,
+          "usd": 1.3,
           "low": 0.84,
           "mid": 1.5
         }
@@ -649,7 +649,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 11.52,
+          "usd": 11.35,
           "low": 10,
           "mid": 12.1
         }
@@ -667,9 +667,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 81.49,
-          "low": 40.17,
-          "mid": 81.49
+          "usd": 79.94,
+          "low": 65,
+          "mid": 83.98
         }
       ]
     },
@@ -686,11 +686,11 @@
           "sub": "Rainbow Foil",
           "usd": 3.35,
           "low": 3.35,
-          "mid": 4.01
+          "mid": 4.12
         },
         {
           "sub": "Normal",
-          "usd": 1.85,
+          "usd": 1.86,
           "low": 1.45,
           "mid": 2.5
         }
@@ -709,11 +709,11 @@
           "sub": "Normal",
           "usd": 2.61,
           "low": 2,
-          "mid": 3.5
+          "mid": 3.77
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 8.16,
+          "usd": 8.02,
           "low": 6.69,
           "mid": 8.38
         }
@@ -730,9 +730,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.39,
-          "low": 1.1,
-          "mid": 2.4
+          "usd": 1.38,
+          "low": 1.21,
+          "mid": 2.46
         }
       ]
     },
@@ -749,8 +749,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 68.55,
-          "low": 44,
-          "mid": 49.84
+          "low": 44.99,
+          "mid": 49.67
         }
       ]
     },
@@ -765,13 +765,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 6.15,
+          "usd": 5.61,
           "low": 3.22,
           "mid": 5.49
         },
         {
           "sub": "Normal",
-          "usd": 1.98,
+          "usd": 1.92,
           "low": 1.33,
           "mid": 2.21
         }
@@ -788,13 +788,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 8.7,
-          "low": 3.32,
-          "mid": 6.88
+          "usd": 8.27,
+          "low": 3.3,
+          "mid": 6.94
         },
         {
           "sub": "Normal",
-          "usd": 2.95,
+          "usd": 2.84,
           "low": 2,
           "mid": 3.39
         }
@@ -811,9 +811,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.33,
+          "usd": 1.32,
           "low": 1.13,
-          "mid": 1.57
+          "mid": 1.59
         },
         {
           "sub": "Rainbow Foil",
@@ -840,7 +840,7 @@
         },
         {
           "sub": "Normal",
-          "usd": 0.43,
+          "usd": 0.38,
           "low": 0.29,
           "mid": 0.44
         }
@@ -858,9 +858,9 @@
       "prices": [
         {
           "sub": "Cold Foil",
-          "usd": 9.14,
+          "usd": 9.13,
           "low": 8,
-          "mid": 13.59
+          "mid": 13.3
         }
       ]
     },
@@ -892,7 +892,7 @@
       "prices": [
         {
           "sub": "Cold Foil",
-          "usd": 108.66,
+          "usd": 102.67,
           "low": 72.14,
           "mid": 76.99
         }
@@ -909,9 +909,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 57.63,
-          "low": 55.99,
-          "mid": 58.79
+          "usd": 58.13,
+          "low": 55,
+          "mid": 59.4
         }
       ]
     },
@@ -927,7 +927,7 @@
         {
           "sub": "Rainbow Foil",
           "usd": 11.69,
-          "low": 11.69,
+          "low": 11,
           "mid": 13.34
         }
       ]
@@ -949,8 +949,8 @@
         },
         {
           "sub": "Cold Foil",
-          "usd": 1.18,
-          "low": 0.51,
+          "usd": 1.12,
+          "low": 0.49,
           "mid": 1
         }
       ]
@@ -968,13 +968,13 @@
           "sub": "Normal",
           "usd": 0.14,
           "low": 0.11,
-          "mid": 0.23
+          "mid": 0.25
         },
         {
           "sub": "Cold Foil",
-          "usd": 1.29,
+          "usd": 1.18,
           "low": 0.35,
-          "mid": 0.95
+          "mid": 0.98
         }
       ]
     },
@@ -995,7 +995,7 @@
         },
         {
           "sub": "Cold Foil",
-          "usd": 2.48,
+          "usd": 2.31,
           "low": 0.25,
           "mid": 1.62
         }
@@ -1018,8 +1018,8 @@
         },
         {
           "sub": "Cold Foil",
-          "usd": 3.27,
-          "low": 1.37,
+          "usd": 3.21,
+          "low": 1.35,
           "mid": 2.93
         }
       ]
@@ -1037,13 +1037,13 @@
           "sub": "Cold Foil",
           "usd": 1.78,
           "low": 0.24,
-          "mid": 1.29
+          "mid": 1.32
         },
         {
           "sub": "Normal",
           "usd": 0.2,
           "low": 0.11,
-          "mid": 0.2
+          "mid": 0.22
         }
       ]
     },
@@ -1058,13 +1058,13 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.15,
+          "usd": 0.14,
           "low": 0.1,
           "mid": 0.2
         },
         {
           "sub": "Cold Foil",
-          "usd": 1.62,
+          "usd": 1.52,
           "low": 0.52,
           "mid": 0.96
         }
@@ -1104,7 +1104,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11,
+          "usd": 0.12,
           "low": 0.1,
           "mid": 0.2
         }
@@ -1122,9 +1122,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 6.2,
+          "usd": 6.15,
           "low": 5,
-          "mid": 7.1
+          "mid": 6.99
         }
       ]
     },
@@ -1140,7 +1140,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.37,
+          "usd": 2.42,
           "low": 2.22,
           "mid": 2.69
         }
@@ -1158,15 +1158,15 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.25,
+          "usd": 1.19,
           "low": 0.6,
           "mid": 1.99
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 9.38,
+          "usd": 8.98,
           "low": 3,
-          "mid": 4.99
+          "mid": 5
         }
       ]
     },
@@ -1182,9 +1182,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.77,
-          "low": 4.07,
-          "mid": 5.48
+          "usd": 4.87,
+          "low": 4.11,
+          "mid": 5.83
         }
       ]
     },
@@ -1206,9 +1206,9 @@
         },
         {
           "sub": "Normal",
-          "usd": 13.91,
-          "low": 12.4,
-          "mid": 15.4
+          "usd": 14.7,
+          "low": 13.41,
+          "mid": 18.2
         }
       ]
     },
@@ -1231,7 +1231,7 @@
         {
           "sub": "Rainbow Foil",
           "usd": 1.25,
-          "low": 0.16,
+          "low": 0.14,
           "mid": 0.84
         }
       ]
@@ -1248,9 +1248,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 1.08,
+          "usd": 1.02,
           "low": 0.4,
-          "mid": 0.89
+          "mid": 0.88
         },
         {
           "sub": "Normal",
@@ -1272,13 +1272,13 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.58,
+          "usd": 0.54,
           "low": 0.15,
           "mid": 0.5
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.46,
+          "usd": 0.43,
           "low": 0.34,
           "mid": 0.61
         }
@@ -1320,9 +1320,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.59,
+          "usd": 0.58,
           "low": 0.4,
-          "mid": 0.58
+          "mid": 0.6
         },
         {
           "sub": "Rainbow Foil",
@@ -1344,13 +1344,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.63,
+          "usd": 0.59,
           "low": 0.23,
-          "mid": 0.6
+          "mid": 0.59
         },
         {
           "sub": "Normal",
-          "usd": 0.42,
+          "usd": 0.41,
           "low": 0.18,
           "mid": 0.35
         }
@@ -1368,9 +1368,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.7,
-          "low": 0.31,
-          "mid": 0.7
+          "usd": 0.67,
+          "low": 0.29,
+          "mid": 0.69
         },
         {
           "sub": "Normal",
@@ -1392,13 +1392,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.5,
+          "usd": 0.49,
           "low": 0.25,
           "mid": 0.49
         },
         {
           "sub": "Normal",
-          "usd": 0.41,
+          "usd": 0.38,
           "low": 0.23,
           "mid": 0.44
         }
@@ -1422,9 +1422,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.92,
+          "usd": 0.88,
           "low": 0.32,
-          "mid": 0.9
+          "mid": 0.79
         }
       ]
     },
@@ -1458,7 +1458,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.34,
+          "usd": 0.32,
           "low": 0.2,
           "mid": 0.35
         }
@@ -1520,7 +1520,7 @@
           "sub": "Normal",
           "usd": 0.25,
           "low": 0.17,
-          "mid": 0.3
+          "mid": 0.29
         },
         {
           "sub": "Rainbow Foil",
@@ -1542,9 +1542,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 1.15,
+          "usd": 1.02,
           "low": 0.4,
-          "mid": 1.12
+          "mid": 1.02
         },
         {
           "sub": "Normal",
@@ -1574,7 +1574,7 @@
           "sub": "Normal",
           "usd": 0.36,
           "low": 0.18,
-          "mid": 0.36
+          "mid": 0.37
         }
       ]
     },
@@ -1596,7 +1596,7 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 1.28,
+          "usd": 1.2,
           "low": 0.5,
           "mid": 0.74
         }
@@ -1632,7 +1632,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.21,
+          "usd": 0.2,
           "low": 0.05,
           "mid": 0.25
         },
@@ -1656,7 +1656,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.38,
+          "usd": 0.37,
           "low": 0.2,
           "mid": 0.37
         },
@@ -1664,7 +1664,7 @@
           "sub": "Rainbow Foil",
           "usd": 1.51,
           "low": 0.73,
-          "mid": 1.05
+          "mid": 1
         }
       ]
     },
@@ -1681,12 +1681,12 @@
         {
           "sub": "Rainbow Foil",
           "usd": 0.61,
-          "low": 0.29,
-          "mid": 0.61
+          "low": 0.27,
+          "mid": 0.6
         },
         {
           "sub": "Normal",
-          "usd": 0.48,
+          "usd": 0.47,
           "low": 0.25,
           "mid": 0.48
         }
@@ -1722,13 +1722,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.66,
+          "usd": 0.65,
           "low": 0.59,
-          "mid": 0.66
+          "mid": 0.65
         },
         {
           "sub": "Normal",
-          "usd": 0.32,
+          "usd": 0.31,
           "low": 0.23,
           "mid": 0.35
         }
@@ -1746,15 +1746,15 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.44,
+          "usd": 0.41,
           "low": 0.24,
           "mid": 0.48
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 1.07,
+          "usd": 1,
           "low": 0.5,
-          "mid": 0.86
+          "mid": 0.83
         }
       ]
     },
@@ -1770,7 +1770,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.33,
+          "usd": 0.31,
           "low": 0.28,
           "mid": 0.46
         },
@@ -1794,13 +1794,13 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.62,
+          "usd": 0.61,
           "low": 0.35,
-          "mid": 0.68
+          "mid": 0.74
         },
         {
           "sub": "Normal",
-          "usd": 0.63,
+          "usd": 0.61,
           "low": 0.24,
           "mid": 0.68
         }
@@ -1824,9 +1824,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.95,
+          "usd": 0.91,
           "low": 0.35,
-          "mid": 0.95
+          "mid": 0.83
         }
       ]
     },
@@ -1848,7 +1848,7 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.81,
+          "usd": 0.8,
           "low": 0.75,
           "mid": 0.89
         }
@@ -1872,7 +1872,7 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.6,
+          "usd": 0.48,
           "low": 0.25,
           "mid": 0.75
         }
@@ -1890,7 +1890,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.41,
+          "usd": 0.37,
           "low": 0.22,
           "mid": 0.41
         },
@@ -1916,11 +1916,11 @@
           "sub": "Rainbow Foil",
           "usd": 0.83,
           "low": 0.45,
-          "mid": 0.82
+          "mid": 0.81
         },
         {
           "sub": "Normal",
-          "usd": 0.4,
+          "usd": 0.39,
           "low": 0.15,
           "mid": 0.35
         }
@@ -1940,7 +1940,7 @@
           "sub": "Rainbow Foil",
           "usd": 0.66,
           "low": 0.24,
-          "mid": 0.72
+          "mid": 0.7
         },
         {
           "sub": "Normal",
@@ -1968,9 +1968,9 @@
         },
         {
           "sub": "Normal",
-          "usd": 0.41,
+          "usd": 0.4,
           "low": 0.15,
-          "mid": 0.37
+          "mid": 0.35
         }
       ]
     },
@@ -1986,9 +1986,9 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.56,
+          "usd": 0.47,
           "low": 0.15,
-          "mid": 0.56
+          "mid": 0.47
         },
         {
           "sub": "Normal",
@@ -2012,13 +2012,13 @@
           "sub": "Normal",
           "usd": 0.48,
           "low": 0.15,
-          "mid": 0.4
+          "mid": 0.39
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.83,
+          "usd": 0.8,
           "low": 0.3,
-          "mid": 0.82
+          "mid": 0.78
         }
       ]
     },
@@ -2034,7 +2034,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14,
+          "usd": 0.13,
           "low": 0.1,
           "mid": 0.2
         }
@@ -2054,7 +2054,7 @@
           "sub": "Normal",
           "usd": 0.14,
           "low": 0.1,
-          "mid": 0.15
+          "mid": 0.17
         },
         {
           "sub": "Rainbow Foil",
@@ -2082,9 +2082,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.75,
+          "usd": 0.48,
           "low": 0.15,
-          "mid": 0.74
+          "mid": 0.73
         }
       ]
     },
@@ -2100,7 +2100,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.79,
+          "usd": 0.74,
           "low": 0.25,
           "mid": 0.79
         },
@@ -2130,9 +2130,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.84,
+          "usd": 0.83,
           "low": 0.3,
-          "mid": 0.83
+          "mid": 0.84
         }
       ]
     },
@@ -2156,7 +2156,7 @@
           "sub": "Normal",
           "usd": 0.33,
           "low": 0.15,
-          "mid": 0.32
+          "mid": 0.31
         }
       ]
     },
@@ -2178,9 +2178,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.57,
+          "usd": 0.48,
           "low": 0.23,
-          "mid": 0.57
+          "mid": 0.53
         }
       ]
     },
@@ -2196,15 +2196,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.52,
+          "usd": 0.49,
           "low": 0.35,
-          "mid": 0.52
+          "mid": 0.51
         },
         {
           "sub": "Normal",
           "usd": 0.22,
           "low": 0.1,
-          "mid": 0.22
+          "mid": 0.24
         }
       ]
     },
@@ -2222,7 +2222,7 @@
           "sub": "Normal",
           "usd": 0.13,
           "low": 0.1,
-          "mid": 0.19
+          "mid": 0.2
         }
       ]
     },
@@ -2280,9 +2280,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.51,
+          "usd": 0.5,
           "low": 0.27,
-          "mid": 0.51
+          "mid": 0.5
         }
       ]
     },
@@ -2298,7 +2298,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.76,
+          "usd": 0.74,
           "low": 0.3,
           "mid": 0.75
         },
@@ -2306,7 +2306,7 @@
           "sub": "Normal",
           "usd": 0.2,
           "low": 0.13,
-          "mid": 0.22
+          "mid": 0.23
         }
       ]
     },
@@ -2364,7 +2364,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 1.97,
+          "usd": 1.93,
           "low": 1,
           "mid": 1.99
         },
@@ -2372,7 +2372,7 @@
           "sub": "Normal",
           "usd": 0.23,
           "low": 0.15,
-          "mid": 0.3
+          "mid": 0.29
         }
       ]
     },
@@ -2388,15 +2388,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 1.33,
+          "usd": 1.34,
           "low": 1.04,
-          "mid": 1.31
+          "mid": 1.3
         },
         {
           "sub": "Normal",
           "usd": 0.13,
           "low": 0.1,
-          "mid": 0.22
+          "mid": 0.24
         }
       ]
     },
@@ -2420,7 +2420,7 @@
           "sub": "Normal",
           "usd": 0.13,
           "low": 0.1,
-          "mid": 0.2
+          "mid": 0.23
         }
       ]
     },
@@ -2436,8 +2436,8 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.66,
-          "low": 0.31,
+          "usd": 0.65,
+          "low": 0.29,
           "mid": 0.66
         },
         {
@@ -2508,8 +2508,8 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.47,
-          "low": 0.19,
+          "usd": 0.44,
+          "low": 0.2,
           "mid": 0.47
         },
         {
@@ -2533,7 +2533,7 @@
         {
           "sub": "Rainbow Foil",
           "usd": 0.74,
-          "low": 0.3,
+          "low": 0.29,
           "mid": 0.72
         },
         {
@@ -2582,7 +2582,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.1,
-          "mid": 0.2
+          "mid": 0.21
         }
       ]
     },
@@ -2618,7 +2618,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.11,
-          "mid": 0.2
+          "mid": 0.21
         }
       ]
     },
@@ -2634,7 +2634,7 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.51,
+          "usd": 0.48,
           "low": 0.25,
           "mid": 0.51
         },
@@ -2660,7 +2660,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.1,
-          "mid": 0.19
+          "mid": 0.2
         }
       ]
     },
@@ -2696,7 +2696,7 @@
           "sub": "Normal",
           "usd": 0.17,
           "low": 0.1,
-          "mid": 0.19
+          "mid": 0.2
         }
       ]
     },
@@ -2714,7 +2714,7 @@
           "sub": "Normal",
           "usd": 0.13,
           "low": 0.1,
-          "mid": 0.23
+          "mid": 0.25
         },
         {
           "sub": "Rainbow Foil",
@@ -2738,13 +2738,13 @@
           "sub": "Normal",
           "usd": 0.13,
           "low": 0.1,
-          "mid": 0.17
+          "mid": 0.19
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.59,
+          "usd": 0.56,
           "low": 0.35,
-          "mid": 0.65
+          "mid": 0.64
         }
       ]
     },
@@ -2804,13 +2804,13 @@
           "sub": "Normal",
           "usd": 0.21,
           "low": 0.12,
-          "mid": 0.26
+          "mid": 0.25
         },
         {
           "sub": "Rainbow Foil",
           "usd": 0.71,
           "low": 0.25,
-          "mid": 0.6
+          "mid": 0.59
         }
       ]
     },
@@ -2826,8 +2826,8 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 0.9,
-          "low": 0.48,
+          "usd": 0.87,
+          "low": 0.47,
           "mid": 0.93
         },
         {
@@ -2905,8 +2905,8 @@
         {
           "sub": "Rainbow Foil",
           "usd": 0.62,
-          "low": 0.28,
-          "mid": 0.61
+          "low": 0.26,
+          "mid": 0.6
         }
       ]
     },
@@ -2930,7 +2930,7 @@
           "sub": "Normal",
           "usd": 0.19,
           "low": 0.1,
-          "mid": 0.21
+          "mid": 0.22
         }
       ]
     },
@@ -2954,7 +2954,7 @@
           "sub": "Rainbow Foil",
           "usd": 0.7,
           "low": 0.23,
-          "mid": 0.7
+          "mid": 0.69
         }
       ]
     },
@@ -3000,9 +3000,9 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.87,
+          "usd": 0.86,
           "low": 0.45,
-          "mid": 0.89
+          "mid": 0.87
         }
       ]
     },
@@ -3024,8 +3024,8 @@
         },
         {
           "sub": "Rainbow Foil",
-          "usd": 0.81,
-          "low": 0.5,
+          "usd": 0.8,
+          "low": 0.48,
           "mid": 0.8
         }
       ]
@@ -3066,9 +3066,9 @@
       "prices": [
         {
           "sub": "Cold Foil",
-          "usd": 20.37,
+          "usd": 19.8,
           "low": 18,
-          "mid": 23.43
+          "mid": 22.99
         }
       ]
     },
@@ -3085,7 +3085,7 @@
           "sub": "Normal",
           "usd": 0.15,
           "low": 0.1,
-          "mid": 0.15
+          "mid": 0.18
         }
       ]
     },
@@ -3163,9 +3163,9 @@
       "prices": [
         {
           "sub": "Cold Foil",
-          "usd": 6.34,
+          "usd": 6.29,
           "low": 2,
-          "mid": 4
+          "mid": 4.5
         },
         {
           "sub": "Normal",
@@ -3192,9 +3192,9 @@
         },
         {
           "sub": "Cold Foil",
-          "usd": 2.52,
-          "low": 0.24,
-          "mid": 0.95
+          "usd": 2.39,
+          "low": 0.25,
+          "mid": 0.97
         }
       ]
     },
@@ -3215,9 +3215,9 @@
         },
         {
           "sub": "Cold Foil",
-          "usd": 8.83,
+          "usd": 8.91,
           "low": 5,
-          "mid": 8.24
+          "mid": 8.37
         }
       ]
     },
@@ -3233,14 +3233,14 @@
         {
           "sub": "Normal",
           "usd": 0.34,
-          "low": 0.26,
+          "low": 0.25,
           "mid": 0.35
         },
         {
           "sub": "Cold Foil",
           "usd": 4.46,
           "low": 2,
-          "mid": 3.94
+          "mid": 3.99
         }
       ]
     },
@@ -3256,15 +3256,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 14.08,
+          "usd": 14.2,
           "low": 12.99,
           "mid": 13.93
         },
         {
           "sub": "Normal",
-          "usd": 6.44,
-          "low": 4.99,
-          "mid": 7.13
+          "usd": 6.27,
+          "low": 4,
+          "mid": 7.19
         }
       ]
     },
@@ -3280,15 +3280,15 @@
       "prices": [
         {
           "sub": "Rainbow Foil",
-          "usd": 12.83,
+          "usd": 12.97,
           "low": 11,
-          "mid": 13.23
+          "mid": 13.84
         },
         {
           "sub": "Normal",
-          "usd": 4.5,
+          "usd": 4.56,
           "low": 3.61,
-          "mid": 4.79
+          "mid": 4.77
         }
       ]
     },
@@ -3342,7 +3342,7 @@
           "sub": "Normal",
           "usd": 0.18,
           "low": 0.1,
-          "mid": 0.23
+          "mid": 0.25
         }
       ]
     },
@@ -3358,9 +3358,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.23,
+          "usd": 0.25,
           "low": 0.1,
-          "mid": 0.23
+          "mid": 0.25
         }
       ]
     },
@@ -3378,7 +3378,7 @@
           "sub": "Normal",
           "usd": 0.21,
           "low": 0.1,
-          "mid": 0.21
+          "mid": 0.22
         }
       ]
     },
@@ -3420,7 +3420,7 @@
           "sub": "Normal",
           "usd": 0.11,
           "low": 0.1,
-          "mid": 0.2
+          "mid": 0.23
         }
       ]
     },
@@ -3455,7 +3455,7 @@
           "sub": "Cold Foil",
           "usd": 20.7,
           "low": 19.99,
-          "mid": 30.98
+          "mid": 29.69
         }
       ]
     },
@@ -3472,13 +3472,13 @@
           "sub": "Normal",
           "usd": 0.44,
           "low": 0.2,
-          "mid": 0.44
+          "mid": 0.43
         },
         {
           "sub": "Rainbow Foil",
           "usd": 0.49,
           "low": 0.25,
-          "mid": 0.54
+          "mid": 0.55
         }
       ]
     },
@@ -3495,8 +3495,8 @@
         {
           "sub": "Cold Foil",
           "usd": 343.62,
-          "low": 268.29,
-          "mid": 283.97
+          "low": 265.61,
+          "mid": 274
         }
       ]
     },
@@ -3511,9 +3511,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.95,
+          "usd": 1.9,
           "low": 1,
-          "mid": 2.63
+          "mid": 2.66
         }
       ]
     },
@@ -3536,5 +3536,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }

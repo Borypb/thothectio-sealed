@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-11-27T13:11:50.478Z",
+  "harvestedAt": "2026-11-28T12:27:25.885Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -6165,7 +6165,7 @@
     "24600": {
       "name": "M3: Nihil Zero",
       "abbreviation": "M3",
-      "modifiedOn": "2026-09-16T21:30:18.427",
+      "modifiedOn": "2026-11-27T13:35:57.57",
       "publishedOn": "2026-01-23",
       "setCode": "M3",
       "products": [
@@ -6211,7 +6211,7 @@
     "24653": {
       "name": "M4: Ninja Spinner",
       "abbreviation": "m4",
-      "modifiedOn": "2026-09-16T21:29:39.86",
+      "modifiedOn": "2026-11-27T13:37:07.993",
       "publishedOn": "2026-03-13",
       "setCode": "M4",
       "products": [
@@ -6451,9 +6451,26 @@
     "24956": {
       "name": "M7: Aura Seeker",
       "abbreviation": "m7",
-      "modifiedOn": "2026-11-24T14:13:27.93",
+      "modifiedOn": "2026-11-27T13:52:05.33",
       "publishedOn": "2026-11-27",
-      "products": []
+      "products": [
+        {
+          "tcgplayerId": 735156,
+          "name": "Aura Seeker Booster Box",
+          "kind": "booster_box",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735156_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735156/pokemon-japan-m7-aura-seeker-aura-seeker-booster-box"
+        },
+        {
+          "tcgplayerId": 735157,
+          "name": "Aura Seeker Booster Pack",
+          "kind": "booster",
+          "releasedOn": "2026-11-27",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/735157_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/735157/pokemon-japan-m7-aura-seeker-aura-seeker-booster-pack"
+        }
+      ]
     }
   }
 }

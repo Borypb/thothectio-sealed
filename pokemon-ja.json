@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "game": "pokemon",
   "lang": "ja",
   "products": [
@@ -40,6 +40,17 @@
         "official": "https://www.pokemon-card.com/ex/m7/"
       },
       "verified": true
+    },
+    {
+      "id": "pkm-ja-tcp735156",
+      "kind": "booster_box",
+      "name": "Aura Seeker Booster Box",
+      "lang": "ja",
+      "releasedAt": "2026-11-27",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/735156_200w.jpg",
+      "source": {
+        "tcgplayer": 735156
+      }
     },
     {
       "id": "pkm-ja-pcg-7e0587b1fc",

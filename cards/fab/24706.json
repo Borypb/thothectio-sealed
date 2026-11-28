@@ -619,7 +619,7 @@
           "sub": "Normal",
           "usd": 1.54,
           "low": 1.5,
-          "mid": 1.54
+          "mid": 1.52
         }
       ]
     },
@@ -1084,7 +1084,7 @@
           "sub": "Normal",
           "usd": 0.17,
           "low": 0.15,
-          "mid": 0.17
+          "mid": 0.19
         }
       ]
     },
@@ -1408,7 +1408,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.39,
+          "usd": 0.4,
           "low": 0.3,
           "mid": 0.37
         }
@@ -1480,9 +1480,9 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.25,
+          "usd": 0.26,
           "low": 0.2,
-          "mid": 0.25
+          "mid": 0.26
         }
       ]
     },
@@ -1870,7 +1870,7 @@
           "sub": "Normal",
           "usd": 0.83,
           "low": 0.25,
-          "mid": 0.83
+          "mid": 0.57
         }
       ]
     },
@@ -2028,7 +2028,7 @@
           "sub": "Normal",
           "usd": 0.16,
           "low": 0.1,
-          "mid": 0.15
+          "mid": 0.16
         }
       ]
     },
@@ -2118,7 +2118,7 @@
           "sub": "Normal",
           "usd": 2.93,
           "low": 2.35,
-          "mid": 2.67
+          "mid": 2.4
         }
       ]
     },
@@ -2381,7 +2381,14 @@
       "type": "Token",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/695949_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695949/flesh-and-blood-tcg-silver-age-chapter-3-courage",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51,
+          "low": 0.53,
+          "mid": 0.53
+        }
+      ]
     },
     {
       "id": 695950,
@@ -2391,7 +2398,14 @@
       "type": "Token",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/695950_200w.jpg",
       "url": "https://www.tcgplayer.com/product/695950/flesh-and-blood-tcg-silver-age-chapter-3-flurry",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.87,
+          "low": 2.04,
+          "mid": 2.04
+        }
+      ]
     },
     {
       "id": 695951,
@@ -3049,5 +3063,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }

@@ -26,7 +26,14 @@
       "type": "Weapon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/577175_200w.jpg",
       "url": "https://www.tcgplayer.com/product/577175/flesh-and-blood-tcg-blitz-deck-rosetta-aurora-star-fall",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3,
+          "low": 0.3,
+          "mid": 0.3
+        }
+      ]
     },
     {
       "id": 577176,
@@ -505,5 +512,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-11-27"
+  "pricesAt": "2026-11-28"
 }
